@@ -1,0 +1,26 @@
+institution,govuk_slug,all_docs_in_window,api_count_for_mapped_types,log_count,reconciliation,speeches_linked_to_officeholder,docs_missed_by_org_filter,in_log
+Attorney General's Office,attorney-generals-office,53,35,35,OK,4,0,yes
+Cabinet Office,cabinet-office,395,88,88,OK,3,1,yes
+Department for Business and Trade,department-for-business-and-trade,824,123,123,OK,2,0,yes
+"Department for Culture, Media and Sport",department-for-culture-media-and-sport,425,110,110,OK,2,0,yes
+Department for Education,department-for-education,1094,168,168,OK,8,3,yes
+Department for Energy Security and Net Zero,department-for-energy-security-and-net-zero,957,81,81,OK,1,1,yes
+"Department for Environment, Food and Rural Affairs",department-for-environment-food-rural-affairs,1316,159,159,OK,6,2,yes
+"Department for Science, Innovation and Technology",department-for-science-innovation-and-technology,475,120,120,OK,6,0,yes
+Department for Transport,department-for-transport,671,104,104,OK,1,0,yes
+Department for Work and Pensions,department-for-work-pensions,703,105,105,OK,1,1,yes
+Department of Health and Social Care,department-of-health-and-social-care,532,124,124,OK,5,0,yes
+"Foreign, Commonwealth and Development Office",foreign-commonwealth-development-office,1322,526,526,OK,10,1,yes
+HM Treasury,hm-treasury,489,139,139,OK,7,2,yes
+Home Office,home-office,731,138,138,OK,1,0,yes
+Ministry of Defence,ministry-of-defence,676,220,220,OK,5,3,yes
+"Ministry of Housing, Communities and Local Government",ministry-of-housing-communities-local-government,1120,225,225,OK,7,0,yes
+Ministry of Justice,ministry-of-justice,582,120,120,OK,6,0,yes
+Northern Ireland Office,northern-ireland-office,87,35,35,OK,0,0,yes
+Office of the Advocate General for Scotland,office-of-the-advocate-general-for-scotland,31,1,1,OK,0,0,yes
+Office of the Leader of the House of Commons,the-office-of-the-leader-of-the-house-of-commons,1,0,0,OK,0,0,yes
+Office of the Leader of the House of Lords,office-of-the-leader-of-the-house-of-lords,0,0,0,OK,0,0,yes
+Scotland Office,scotland-office,57,24,24,OK,0,0,yes
+UK Export Finance,uk-export-finance,99,23,23,OK,1,0,yes
+Wales Office,office-of-the-secretary-of-state-for-wales,0,0,0,OK,0,9,yes
+"Department for Business, Innovation, Science and Trade",department-for-business-innovation-science-and-trade,66,4,4,OK,0,0,yes
