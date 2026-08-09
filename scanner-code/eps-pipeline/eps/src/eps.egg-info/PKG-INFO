@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: eps
+Version: 0.1.0
+Summary: Reproducible pipeline for economics-relevant policy statements from government speeches
+Requires-Python: >=3.11
+Requires-Dist: requests>=2.31
+Requires-Dist: lxml>=5.0
+Requires-Dist: cssselect>=1.2
+Requires-Dist: pyyaml>=6.0
+Requires-Dist: anthropic>=0.40
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Provides-Extra: mistral
+Requires-Dist: mistralai>=1.0; extra == "mistral"

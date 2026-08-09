@@ -1,0 +1,88 @@
+code,title,level,parent
+A,General Economics and Teaching,1,
+B,"History of Economic Thought, Methodology, and Heterodox Approaches",1,
+C,Mathematical and Quantitative Methods,1,
+D,Microeconomics,1,
+D1,Household Behavior and Family Economics,2,D
+D2,Production and Organizations,2,D
+D3,Distribution,2,D
+D4,"Market Structure, Pricing, and Design",2,D
+D6,Welfare Economics,2,D
+D7,Analysis of Collective Decision-Making,2,D
+D8,"Information, Knowledge, and Uncertainty",2,D
+E,Macroeconomics and Monetary Economics,1,
+E2,"Consumption, Saving, Production, Investment, Labor Markets, and Informal Economy",2,E
+E3,"Prices, Business Fluctuations, and Cycles",2,E
+E5,"Monetary Policy, Central Banking, and the Supply of Money and Credit",2,E
+E6,"Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook",2,E
+F,International Economics,1,
+F1,Trade,2,F
+F2,International Factor Movements and International Business,2,F
+F3,International Finance,2,F
+F4,Macroeconomic Aspects of International Trade and Finance,2,F
+G,Financial Economics,1,
+G2,Financial Institutions and Services,2,G
+G3,Corporate Finance and Governance,2,G
+H,Public Economics,1,
+H2,"Taxation, Subsidies, and Revenue",2,H
+H21,Taxation and Subsidies: Efficiency; Optimal Taxation,3,H2
+H23,Externalities; Redistributive Effects; Environmental Taxes and Subsidies,3,H2
+H4,Publicly Provided Goods,2,H
+H5,National Government Expenditures and Related Policies,2,H
+H52,National Government Expenditures and Education,3,H5
+H54,National Government Expenditures and Infrastructure,3,H5
+H6,"National Budget, Deficit, and Debt",2,H
+H7,State and Local Government; Intergovernmental Relations,2,H
+I,"Health, Education, and Welfare",1,
+I1,Health,2,I
+I2,Education and Research Institutions,2,I
+I21,Analysis of Education,3,I2
+I22,Educational Finance; Financial Aid,3,I2
+I26,Returns to Education,3,I2
+I28,Education: Government Policy,3,I2
+I3,"Welfare, Well-Being, and Poverty",2,I
+I38,"Welfare, Well-Being, and Poverty: Government Programs; Provision and Effects of Welfare Programs",3,I3
+J,Labor and Demographic Economics,1,
+J1,Demographic Economics,2,J
+J2,Demand and Supply of Labor,2,J
+J24,Human Capital; Skills; Occupational Choice; Labor Productivity,3,J2
+J3,"Wages, Compensation, and Labor Costs",2,J
+J38,"Wages, Compensation, and Labor Costs: Public Policy",3,J3
+J6,"Mobility, Unemployment, Vacancies, and Immigrant Workers",2,J
+J61,Geographic Labor Mobility; Immigrant Workers,3,J6
+J68,"Mobility, Unemployment, Vacancies, and Immigrant Workers: Public Policy",3,J6
+J8,Labor Standards: National and International,2,J
+K,Law and Economics,1,
+K2,Regulation and Business Law,2,K
+L,Industrial Organization,1,
+L1,"Market Structure, Firm Strategy, and Market Performance",2,L
+L4,Antitrust Issues and Policies,2,L
+L5,Regulation and Industrial Policy,2,L
+L52,Industrial Policy; Sectoral Planning Methods,3,L5
+L9,Industry Studies: Transportation and Utilities,2,L
+M,Business Administration and Business Economics; Marketing; Accounting; Personnel Economics,1,
+N,Economic History,1,
+O,"Economic Development, Innovation, Technological Change, and Growth",1,
+O3,Innovation; Research and Development; Technological Change; Intellectual Property Rights,2,O
+O31,Innovation and Invention: Processes and Incentives,3,O3
+O38,Technological Change: Government Policy,3,O3
+O4,Economic Growth and Aggregate Productivity,2,O
+P,Economic Systems,1,
+Q,Agricultural and Natural Resource Economics; Environmental and Ecological Economics,1,
+Q1,Agriculture,2,Q
+Q2,Renewable Resources and Conservation,2,Q
+Q3,Nonrenewable Resources and Conservation,2,Q
+Q4,Energy,2,Q
+Q48,Energy: Government Policy,3,Q4
+Q5,Environmental Economics,2,Q
+Q54,Climate; Natural Disasters and Their Management; Global Warming,3,Q5
+Q58,Environmental Economics: Government Policy,3,Q5
+R,"Urban, Rural, Regional, Real Estate, and Transportation Economics",1,
+R2,Household Analysis,2,R
+R3,"Real Estate Markets, Spatial Production Analysis, and Firm Location",2,R
+R4,Transportation Economics,2,R
+R41,"Transportation: Demand, Supply, and Congestion; Travel Time; Safety and Accidents",3,R4
+R48,Transportation Economics: Government Pricing and Policy,3,R4
+R5,Regional Government Analysis,2,R
+Y,Miscellaneous Categories,1,
+Z,Other Special Topics,1,
