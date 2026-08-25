@@ -5,6 +5,7 @@
 | Version | Date | Commit | Changes |
 |---|---|---|---|
 | v1.0 | 2026-08-25 | `5e37fbc` | Initial sweep. |
+| v1.1 | 2026-08-25 | `694b662` | B-10 fixed in `_refine()`. No re-sweep; baseline commit unchanged. |
 
 ## Front matter
 
@@ -1439,9 +1440,10 @@ Ordered by file: `extract.py`, then `providers.py`, then the `extract` verb in
 - **Rationale:** Selection from a fixed list, then verified — belt and braces
   against a model that returns a plausible-looking code.
 - **Status:** Settled
-- **Context:** See B-10: this check tests membership and parentage but not level.
+- **Context:** Originally this checked membership and parentage but not level,
+  which is B-10. It now checks level as well.
 
-### B-10 — `_refine()` does not check a code's level, so a detailed code in the subcategory slot kills the observation
+### B-10 — `_refine()` did not check a code's level, so a detailed code in the subcategory slot killed the observation
 
 - **Location:** `[extract/extract.py:_refine()]`
 - **Decision:** The refinement prompt shows subcategories and detailed codes in one
@@ -1450,13 +1452,24 @@ Ordered by file: `extract.py`, then `providers.py`, then the `extract` verb in
   `_refine()` accepts it because it exists in the taxonomy, and the level mismatch
   is caught later by `JELTaxonomy.check()`, which rejects the **whole observation**
   with `JEL classification failed validation: 'J13' is not a level-2 code`.
-- **Rationale:** n/a — defect. `_refine()` has the taxonomy in hand and could
-  either demote the code to the `detailed` slot and fill in its parent, or re-ask.
-- **Status:** Settled *(as a recorded fault; not yet fixed)*
+  **Fixed in `694b662`:** `_refine()` now demotes a detailed code found in the
+  `sub` slot, recovers its parent, and checks levels explicitly rather than only
+  membership and parentage. Input it cannot repair degrades to a coarser
+  assignment — major-only at worst — instead of to no observation.
+- **Rationale:** n/a — defect. `_refine()` has the taxonomy in hand, so the slip
+  is repairable at the point it occurs rather than fatal several stages later.
+- **Status:** Settled
 - **Context:** Three of eight rejections in `dfe-pilot` and two of five in
   `dfe-v2`. Every one of them discarded a quotation that had already passed every
   structural check — a valid observation lost to a recoverable classification slip.
-  This is the highest-yield fix available before the full run.
+  The fix was verified against the full 998-code taxonomy on the two codes that
+  actually failed (`J13` → `J/J1/J13`, `J24` → `J/J2/J24`) plus seven adjacent
+  cases; correct model responses pass through unchanged. **The two pilot runs
+  still hold their pre-fix output** — `_refine()` runs during `extract`, so
+  `runs/dfe-v2` needs `extract` and `build` re-run before the recovered
+  observations appear. Not yet done: unit selection replays from the cache, but
+  the JEL calls may re-fire, because the taxonomy grew from 87 codes to 998
+  (R-13) and the code list is part of the cache key.
 
 ### B-11 — `extract` reported zero candidates for every document whose speaker came from the manifest
 
@@ -1738,8 +1751,9 @@ orchestration in `pipeline.py`.
   hierarchy catches a plausible-looking but wrong assignment that membership alone
   would pass.
 - **Status:** Settled
-- **Context:** The level check here is what surfaces B-10, several stages after the
-  point where it could have been repaired cheaply.
+- **Context:** The level check here is what surfaced B-10. It is now a backstop
+  rather than the first line of defence: `_refine()` repairs the same mismatch at
+  the point it occurs.
 
 ## 6. Reference data
 
