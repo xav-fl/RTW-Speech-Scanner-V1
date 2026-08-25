@@ -328,9 +328,28 @@ class Extractor:
         det = str(picked.get("detailed", "")).strip()
 
         # Selection from a fixed list, then verified against the taxonomy.
-        if sub and sub not in self.tax.by_code:
+        #
+        # The prompt asks for a two-character code in "sub" and a
+        # three-character one in "detailed", but both are shown in one indented
+        # list above and the model sometimes returns a detailed code in the
+        # "sub" slot. Demote it and recover its parent here, rather than
+        # passing a level mismatch to validate_jel(), which rejects the whole
+        # observation -- losing a quotation that has already passed every
+        # structural check.
+        known = self.tax.by_code.get(sub)
+        if known is not None and known.level == 3:
+            det = det or sub
+            sub = known.parent
+
+        # Levels are checked, not only membership. A code that exists but sits
+        # at the wrong depth fails JELTaxonomy.check() later; clearing it here
+        # costs specificity, whereas keeping it costs the observation.
+        if sub and (sub not in self.tax.by_code
+                    or self.tax.by_code[sub].level != 2
+                    or self.tax.by_code[sub].parent != major):
             sub = ""
         if det and (det not in self.tax.by_code
+                    or self.tax.by_code[det].level != 3
                     or self.tax.by_code[det].parent != sub):
             det = ""
 
