@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about school governance reform — specifically, mandating that all schools join or form \"strong school trusts\" (multi-academy trusts in the UK context) and removing barriers for local authorities to establish such trusts. The core mechanism is the organizational/governance structure of educational institutions.\n\nThe specific mechanism: restructuring school governance by requiring schools to join trust organizations, and removing regulatory/institutional barriers for local authorities to form trusts.\n\n- **I2** (Education and Research Institutions) is the primary fit — this is directly about the organizational structure and governance of schools as institutions.\n- There is a secondary dimension around **H7** (State and Local Government • Intergovernmental Relations) because the passage explicitly addresses the role of local authorities and barriers they face in setting up trusts — this is an intergovernmental/local governance dimension.\n\n{\"primary\": \"I2\", \"secondary\": [\"H7\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

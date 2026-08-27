@@ -1,0 +1,5 @@
+{
+  "text": "The quotation addresses financial pressures on universities and the quality of higher education for students — this is squarely about higher education institutions, their financial sustainability, and educational quality outcomes.\n\nSpecific mechanisms named: university financial pressures (institutional finance) and course quality (educational quality assurance) affecting students.\n\nPrimary: **I** (Health, Education, and Welfare — specifically higher education economics)\nSecondary: **G** is tempting for financial pressures, but the financial pressures are on universities as institutions, not financial markets. **H** could apply if public funding is implied, but it's not explicit. The statement is essentially about higher education quality and institutional viability — one code suffices.\n\n{\"primary\": \"I\", \"secondary\": []}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

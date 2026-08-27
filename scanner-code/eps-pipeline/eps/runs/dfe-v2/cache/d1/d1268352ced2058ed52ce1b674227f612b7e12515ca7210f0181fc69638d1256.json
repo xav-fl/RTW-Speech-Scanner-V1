@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes deploying a bank of specialist professionals (speech and language therapists, educational psychologists, occupational therapists) into schools/education settings, backed by £1.8 billion of funding to bolster school budgets. The core substance is public funding for specialist support staff in education — this is education spending/policy.\n\nPrimary: **I2** (Education and Research Institutions) — the mechanism is a funded pool of specialist professionals supporting educational institutions.\n\nSecondary: **H5** (National Government Expenditures) — the £1.8 billion funding commitment and budget bolstering is substantively about public expenditure allocation to schools.\n\n```json\n{\"primary\": \"I\", \"secondary\": [\"H\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db5015ca69e.P008.S001\"], \"anchor\": null, \"reason\": \"Universities face financial pressures; students need quality assurance for future employability\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

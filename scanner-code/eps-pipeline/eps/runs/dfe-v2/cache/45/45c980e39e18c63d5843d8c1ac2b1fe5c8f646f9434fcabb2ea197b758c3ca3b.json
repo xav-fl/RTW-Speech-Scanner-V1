@@ -1,0 +1,5 @@
+{
+  "text": "The quotation focuses on early childhood support (Family Hubs, childcare provision, children's social care) — this is primarily about education/childcare policy for young children.\n\nWithin I2 (Education and Research Institutions), I28 (Government Policy) fits well since this is explicitly about government-funded childcare and family support programs. The Family Hubs and children's social care elements also touch on welfare provision, but the dominant theme is childcare/early education policy.\n\n{\"sub\": \"I2\", \"detailed\": \"I28\"}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

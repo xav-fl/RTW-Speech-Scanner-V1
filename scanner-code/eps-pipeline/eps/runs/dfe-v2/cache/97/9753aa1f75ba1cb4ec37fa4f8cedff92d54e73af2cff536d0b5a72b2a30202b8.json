@@ -1,0 +1,5 @@
+{
+  "text": "{\"primary\": \"I\", \"secondary\": [\"L\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

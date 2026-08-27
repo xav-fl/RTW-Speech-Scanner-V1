@@ -1,0 +1,5 @@
+{
+  "text": "The quotation names specific instruments—free breakfast clubs, free school meals, ending the two-child benefit limit—all directed at reducing child poverty and its barriers to learning. The core economic content is welfare/income support for children (benefit policy, in-kind food provision) and its connection to educational outcomes.\n\nPrimary: **I** (Health, Education, and Welfare) — child poverty reduction, free meals, educational barriers\nSecondary: **H** — the two-child limit is a specific public transfer/benefit rule; benefit eligibility reform is substantively a public economics instrument\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

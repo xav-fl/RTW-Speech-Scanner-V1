@@ -168,48 +168,111 @@ def segment(text: str, doc_id: str) -> list[Unit]:
 
 # --- attribution -----------------------------------------------------------
 
-_QUOTE_CHARS = '"\u201c\u201d\u2018\u2019'
-_ATTRIB_CUE = re.compile(
-    r"\b(said|says|added|told|commented|explained|continued|noted|stated)\b",
-    re.I,
-)
+# Double quotes only. U+2018/U+2019 are excluded deliberately: in British
+# prose the right single quote IS the apostrophe, so counting it as a quotation
+# mark makes every possessive look like quoted speech. validate.py already
+# excludes them for the same reason.
+_QUOTE_CHARS = '"\u201c\u201d'
+
+# Our own blockquote marker, inserted when the source HTML is converted to
+# text. It is not part of the document's words.
+QUOTE_MARKER = "> "
 
 # Document types where the whole body is the speaker talking.
 SPEAKER_ONLY_TYPES = {"speech", "statement", "op_ed", "letter", "testimony"}
 
 
-def mark_attribution(units: list[Unit], doc_type: str) -> list[Unit]:
+# Titles and honorifics to ignore when matching a name against a frame.
+_NAME_NOISE = {
+    "the", "rt", "hon", "mp", "dr", "mr", "mrs", "ms", "miss", "sir", "dame",
+    "lord", "lady", "baroness", "baron", "prof", "professor", "of", "for",
+}
+
+
+def _name_tokens(name: str) -> list[str]:
+    toks = [t for t in re.split(r"[^A-Za-z\u00c0-\u024f]+", (name or "").lower()) if t]
+    return [t for t in toks if t not in _NAME_NOISE and len(t) > 1]
+
+
+def frame_names_speaker(frame_text: str, speaker: str) -> bool:
+    """True when every distinctive token of `speaker` appears in `frame_text`.
+
+    Surname alone is too loose - a document may quote a different person of the
+    same surname - so all tokens must appear. Titles around the name are
+    ignored, so "Education Secretary Bridget Phillipson said:" matches
+    "Bridget Phillipson" while "Paul Whiteman ... said:" does not.
+    """
+    toks = _name_tokens(speaker)
+    if len(toks) < 2:
+        return False
+    hay = (frame_text or "").lower()
+    return all(t in hay for t in toks)
+
+
+def mark_attribution(
+    units: list[Unit],
+    doc_type: str,
+    speaker: str | None = None,
+) -> list[Unit]:
     """Flag which units can carry the speaker's own words.
 
     For a speech the whole body is the speaker. For a press release only the
-    quoted passages are; the surrounding departmental prose reads exactly like
-    a policy statement but is not attributable to anyone. Getting this wrong is
-    the single largest source of false positives, so it is done in code rather
-    than left to the model.
+    blockquoted passages are, and only those introduced by a frame naming the
+    eligible speaker. Getting this wrong is the single largest source of false
+    positives, so it is done in code rather than left to the model.
     """
     if doc_type in SPEAKER_ONLY_TYPES:
         return units
 
-    out: list[Unit] = []
-    for u in units:
-        has_quote = any(c in u.text for c in _QUOTE_CHARS)
-        # A sentence with an attribution cue and a quotation mark, or a
-        # sentence that is wholly inside quotation marks, is attributable.
-        attributable = has_quote and (
-            bool(_ATTRIB_CUE.search(u.text))
-            or u.text.lstrip()[:1] in _QUOTE_CHARS
-        )
-        out.append(
-            Unit(
-                unit_id=u.unit_id,
-                para_idx=u.para_idx,
-                sent_idx=u.sent_idx,
-                text=u.text,
-                char_start=u.char_start,
-                char_end=u.char_end,
-                attributable=attributable,
+    # Group unit indices by paragraph, preserving order.
+    paras: dict[int, list[int]] = {}
+    for i, u in enumerate(units):
+        paras.setdefault(u.para_idx, []).append(i)
+    order = sorted(paras)
+
+    is_quote = {
+        p: units[paras[p][0]].text.lstrip().startswith(QUOTE_MARKER.strip())
+        and units[paras[p][0]].text.startswith(QUOTE_MARKER)
+        for p in order
+    }
+
+    attributable_para: dict[int, bool] = {}
+    last_frame: str | None = None
+    prev_quote_ok = False
+    for p in order:
+        if is_quote[p]:
+            # Consecutive quote paragraphs belong to the same frame.
+            attributable_para[p] = prev_quote_ok if last_frame is None else (
+                bool(speaker) and frame_names_speaker(last_frame, speaker)
             )
-        )
+            prev_quote_ok = attributable_para[p]
+        else:
+            attributable_para[p] = False
+            text = " ".join(units[i].text for i in paras[p]).strip()
+            last_frame = text if text.endswith(":") else None
+            prev_quote_ok = False
+
+    out: list[Unit] = []
+    for p in order:
+        for n, i in enumerate(paras[p]):
+            u = units[i]
+            text, start = u.text, u.char_start
+            # Only the first sentence of a block carries the marker.
+            if is_quote[p] and n == 0 and text.startswith(QUOTE_MARKER):
+                shift = len(QUOTE_MARKER)
+                text = text[shift:]
+                start = start + shift
+            out.append(
+                Unit(
+                    unit_id=u.unit_id,
+                    para_idx=u.para_idx,
+                    sent_idx=u.sent_idx,
+                    text=text,
+                    char_start=start,
+                    char_end=u.char_end,
+                    attributable=attributable_para[p],
+                )
+            )
     return out
 
 

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a pool of specialist professionals (speech/language therapists, educational psychologists, occupational therapists) made available to schools, backed by £1.8 billion in funding to bolster school budgets. The core substance is public funding for special educational needs support services in schools.\n\nPrimary dimension: education funding and provision of specialist support services → **I** (Health, Education, and Welfare)\n\nSecondary: the £1.8 billion is a public expenditure/grant mechanism → **H** (Public Economics) is substantively present as the funding instrument.\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

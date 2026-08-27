@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about post-16 education pathways — apprenticeships, vocational/technical routes versus academic routes — and achieving \"parity of esteem\" between them. The core mechanism is education policy: expanding and legitimizing non-academic educational pathways (apprenticeships, vocational/technical training) to give young people genuine choice.\n\n- **Primary: I** (Health, Education, and Welfare → I2 Education and Research Institutions) — the substance is education policy, specifically the structure and status of post-16 educational pathways.\n- **Secondary: J** (Labor and Demographic Economics) — apprenticeships and vocational training are directly tied to labor market entry and human capital formation for young workers.\n\n```json\n{\"primary\": \"I\", \"secondary\": [\"J\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

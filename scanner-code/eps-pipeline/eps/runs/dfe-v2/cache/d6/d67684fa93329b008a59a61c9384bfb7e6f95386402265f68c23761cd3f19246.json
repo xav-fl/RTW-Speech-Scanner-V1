@@ -1,0 +1,5 @@
+{
+  "text": "The specific mechanism here is government-funded childcare provision — a publicly subsidized early childhood care entitlement (30 hours/week). This is squarely about childcare/early education public expenditure.\n\nPrimary: I (Health, Education, and Welfare — specifically I2, education/childcare institutions, or I3 welfare provision for families)\n\nSecondary consideration: H (public expenditure on a publicly provided good — H4/H5), and J (labor supply effects on parents, particularly mothers — J2). The childcare subsidy has a well-known labor supply dimension, but the statement itself names the service provision, not the labor market effect.\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

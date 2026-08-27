@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the specific mechanisms named:\n- Free school meals → in-kind food benefit for children\n- Free breakfast clubs → in-kind food/care benefit for children\n- Two-child limit → benefit eligibility rule affecting family income support\n- Child poverty → welfare outcome for children\n\nThese are all about child welfare programs, in-kind benefits, and poverty reduction targeting children and families. The core economic content is welfare provision and poverty alleviation for children.\n\nPrimary: **I** (Health, Education, and Welfare) — specifically welfare programs, child poverty, and in-kind benefits (I3 subcategory area)\n\nSecondary: **H** — the two-child limit is a specific public expenditure/transfer policy instrument (benefit eligibility rule), which is substantively distinct as a cash/near-cash transfer mechanism.\n\n```json\n{\"primary\": \"I\", \"secondary\": [\"H\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

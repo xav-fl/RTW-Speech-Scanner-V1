@@ -1,0 +1,5 @@
+{
+  "text": "The quotation draws a direct line between affordable childcare and women's labor force participation and economic empowerment — the core mechanism is childcare as a barrier/enabler to maternal employment and career choice.\n\nPrimary: **J** (Labor and Demographic Economics — specifically female labor supply, work-family decisions, childcare and labor market participation)\n\nSecondary: **I** (childcare as a welfare/social service provision dimension) — substantively present as the policy instrument enabling the labor market outcome.\n\n{\"primary\": \"J\", \"secondary\": [\"I\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

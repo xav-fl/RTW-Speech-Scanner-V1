@@ -225,7 +225,11 @@ def ingest_row(row: dict, store: Optional[RawStore] = None) -> Document:
         digest = sha256(raw_bytes)
 
     doc_id = make_doc_id(url, digest)
-    units = mark_attribution(segment(text, doc_id), doc_type)
+    units = mark_attribution(
+            segment(text, doc_id),
+            doc_type,
+            (row.get('speaker_hint') or '').strip() or None,
+        )
 
     delivery = (row.get("delivery_status") or "").strip() or "unknown"
     if delivery == "unknown":

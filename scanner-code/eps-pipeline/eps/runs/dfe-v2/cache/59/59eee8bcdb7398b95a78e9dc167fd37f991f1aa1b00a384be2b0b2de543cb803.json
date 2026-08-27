@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about school governance reform — specifically, moving all schools into \"strong school trusts\" and removing barriers for local authorities to set up such trusts. The core mechanism is an organizational/governance restructuring of educational institutions.\n\nPrimary: **I** (Health, Education, and Welfare) — this is directly about education policy, specifically the governance structure of schools.\n\nSecondary: **L** (Industrial Organization) — the formation of school trusts and the structure of how schools organize into multi-academy trust-like entities has an industrial organization dimension (market structure, organizational form of providers).\n\n{\"primary\": \"I\", \"secondary\": [\"L\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

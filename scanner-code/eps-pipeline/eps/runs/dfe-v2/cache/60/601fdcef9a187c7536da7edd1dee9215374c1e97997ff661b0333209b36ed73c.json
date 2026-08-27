@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about government-funded childcare and early years education for children from low-income families — specifically a publicly subsidized childcare program targeting access gaps for disadvantaged children, with noted effects on women's empowerment (labor force participation implications).\n\nPrimary mechanism: publicly funded childcare/early education provision for low-income families → fits I (Health, Education, and Welfare), specifically early childhood education and welfare programs.\n\nSecondary dimension: childcare access enabling women's labor force participation → fits J (Labor and Demographic Economics).\n\n{\"primary\": \"I\", \"secondary\": [\"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about a market review of the early years childcare sector — this is education (specifically early childhood/childcare), and the CMA review is a government policy/regulatory action on that market.\n\nThe best fit is I2 (Education and Research Institutions), and within that, I28 (Government Policy) since it's about a regulatory/policy review of the childcare market.\n\n{\"sub\": \"I2\", \"detailed\": \"I28\"}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

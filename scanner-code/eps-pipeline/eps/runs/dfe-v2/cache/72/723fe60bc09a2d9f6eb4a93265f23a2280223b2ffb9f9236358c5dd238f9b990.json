@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about how schools are funded — the mechanism named is a funding formula (binary/on-off vs. targeted, needs-based allocation). This is education finance policy.\n\nPrimary: **I** (Health, Education, and Welfare — specifically education funding)\nSecondary: **H** (Public Economics — specifically public expenditure/grants to schools)\n\n```json\n{\"primary\": \"I\", \"secondary\": [\"H\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

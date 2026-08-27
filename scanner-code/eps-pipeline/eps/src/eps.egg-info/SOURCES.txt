@@ -24,7 +24,6 @@ src/eps/harvest/us.py
 src/eps/reference/institutions.csv
 src/eps/reference/jel_codes.csv
 src/eps/reference/officeholders.csv
-src/eps/reference/us_sources.yaml
 tests/test_ingest.py
 tests/test_pipeline.py
 tests/test_providers.py

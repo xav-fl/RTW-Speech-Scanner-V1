@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about an independent review of the early years childcare market. The primary economic content is childcare/early education (I codes), but the request is specifically for a market review by a competition authority (CMA), which brings in industrial organization/market structure (L codes).\n\nPrimary: I (Health, Education, and Welfare — childcare is an education/welfare service)\nSecondary: L (Industrial Organization — market review by competition authority)\n\n{\"primary\": \"I\", \"secondary\": [\"L\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

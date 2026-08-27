@@ -137,6 +137,11 @@ def fetch_from_aea(url: str = AEA_URL, timeout: int = 60) -> list[JELCode]:
 
     found: dict[str, JELCode] = {}
     for el in tree.iter():
+        # Comments and processing instructions are nodes too, and
+        # text_content() rejects them. Their .tag is a callable
+        # rather than a string, which is how lxml distinguishes them.
+        if not isinstance(el.tag, str):
+            continue
         text = " ".join((el.text_content() or "").split())
         if not text or len(text) > 400:
             continue

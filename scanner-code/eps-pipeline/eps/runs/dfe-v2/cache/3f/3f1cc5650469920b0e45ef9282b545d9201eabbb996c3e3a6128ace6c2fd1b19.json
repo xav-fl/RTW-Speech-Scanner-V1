@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db5015ca69e.P008.S001\"], \"anchor\": \"universities facing real financial pressures and students needing confidence that their courses will have the quality to equip them for the future\", \"reason\": \"Causal claim linking financial pressures to quality outcomes for students\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

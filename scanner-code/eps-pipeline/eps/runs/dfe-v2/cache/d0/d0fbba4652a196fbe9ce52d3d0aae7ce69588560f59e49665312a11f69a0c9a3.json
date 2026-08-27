@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about educational qualifications (V Levels, T Levels, A Levels), technical excellence colleges, and professional development pathways for education staff. The core economic content is education policy and human capital development.\n\nPrimary: **I** (Health, Education, and Welfare) — the statement is fundamentally about educational qualifications and institutional development in education.\n\nSecondary: **J** (Labor and Demographic Economics) — the emphasis on career-long professional development pathways for staff touches on human capital and labor market dimensions for education workers.\n\n{\"primary\": \"I\", \"secondary\": [\"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

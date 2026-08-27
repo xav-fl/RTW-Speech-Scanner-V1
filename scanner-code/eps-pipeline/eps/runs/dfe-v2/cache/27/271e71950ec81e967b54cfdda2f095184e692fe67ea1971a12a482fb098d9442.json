@@ -1,0 +1,5 @@
+{
+  "text": "I need to identify the specific mechanisms named in this quotation:\n\n1. **Free school meals** – in-kind food benefit for children in schools\n2. **Free breakfast clubs** – in-kind food benefit for children in schools\n3. **Ending the two-child limit** – removing a welfare benefit cap/eligibility rule that restricts child tax credit/benefits to two children\n4. **Fighting child poverty** – the overarching goal\n\nThe core economic content here is about:\n- Child welfare benefits and poverty reduction (I3 — Welfare, Well-Being, and Poverty)\n- School meals/breakfast clubs are education-adjacent but function as nutrition/welfare transfers (I2 or I3)\n- The two-child limit is a welfare eligibility rule — squarely I3\n\nThe primary dimension is **child poverty and welfare transfers** (I3). The school meals and breakfast clubs also have an education dimension (I2), making that a substantively justified secondary classification.\n\n{\"primary\": \"I3\", \"secondary\": [\"I2\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

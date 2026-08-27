@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D84b3491cbe.P012.S001\"], \"anchor\": null, \"reason\": \"Commits to free breakfast clubs and extending free school meals to 500k+ children\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

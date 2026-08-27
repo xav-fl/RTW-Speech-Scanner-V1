@@ -1,0 +1,5 @@
+{
+  "text": "The quotation names two specific mechanisms: (1) government-funded childcare (30 hours/week) — a publicly subsidized early childhood provision program; and (2) children's social care system reform — welfare services for children. Both fall squarely in Health, Education, and Welfare (I), covering childcare/early education provision and child welfare services. There is a secondary labor dimension insofar as subsidized childcare affects parental labor supply, but the statement itself doesn't name that mechanism explicitly. The public funding aspect touches H, but the substance is the childcare and social care services themselves, not the fiscal instrument.\n\n{\"primary\": \"I\", \"secondary\": [\"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about funding for schools, nurseries, colleges, and special educational needs (SEND) — clearly education policy. Within I2, the passage is specifically about government funding allocations (educational finance) for inclusion, accessibility, and SEND provision.\n\nI22 (Educational Finance • Financial Aid) fits well since the substance is specific budget allocations. However, the SEND/inclusion angle also touches on I24 (Education and Inequality), but the dominant framing is the financial allocations themselves. I28 (Government Policy) is the residual and should be avoided if a more specific code fits.\n\nI22 captures the core mechanism — educational finance/funding — most precisely.\n\n{\"sub\": \"I2\", \"detailed\": \"I22\"}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

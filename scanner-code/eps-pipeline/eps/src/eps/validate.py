@@ -31,6 +31,10 @@ class RejectReason:
         "no speaker: not in the officeholder table for this date, and no "
         "speaker_hint in the manifest"
     )
+    AMBIGUOUS_SPEAKER = (
+        "no speaker: the officeholder table matches more than one spell for "
+        "this date"
+    )
     DUPLICATE = "duplicate of an earlier observation"
 
 
@@ -91,11 +95,39 @@ def reconstruct_quote(
 
     units.sort(key=lambda u: (u.para_idx, u.sent_idx))
 
-    if len({u.para_idx for u in units}) > 1:
+    # A speech is the speaker's own words throughout, so a claim running across
+    # consecutive short paragraphs is one passage and may be quoted as one. The
+    # guide asks for meaningful paragraph boundaries to be preserved, which
+    # presupposes a quote may contain one.
+    #
+    # Press releases keep the stricter rule. There, two consecutive paragraphs
+    # can each carry a separate quoted remark, both attributable, and
+    # trim_to_quoted_span() takes the OUTERMOST quote marks - so a joined span
+    # would silently return  A." She added: "B  with the department's
+    # attribution frame inside the quotation.
+    allow_cross_para = doc.doc_type in SPEAKER_ONLY_TYPES
+
+    if not allow_cross_para and len({u.para_idx for u in units}) > 1:
         return "", RejectReason.CROSS_PARAGRAPH
 
+    # sent_idx restarts inside each paragraph, so "the next sentence" means
+    # either the next sentence of this paragraph, or the first sentence of the
+    # next paragraph when this unit was the last of its own. Bounds are taken
+    # from the whole document so a skipped sentence cannot masquerade as a
+    # paragraph break.
+    _bounds: dict[int, tuple[int, int]] = {}
+    for _u in doc.units:
+        _lo, _hi = _bounds.get(_u.para_idx, (_u.sent_idx, _u.sent_idx))
+        _bounds[_u.para_idx] = (min(_lo, _u.sent_idx), max(_hi, _u.sent_idx))
+
     for a, b in zip(units, units[1:]):
-        if b.sent_idx != a.sent_idx + 1:
+        same_para = b.para_idx == a.para_idx and b.sent_idx == a.sent_idx + 1
+        next_para = (
+            b.para_idx == a.para_idx + 1
+            and a.sent_idx == _bounds.get(a.para_idx, (0, 0))[1]
+            and b.sent_idx == _bounds.get(b.para_idx, (0, 0))[0]
+        )
+        if not (same_para or next_para):
             return "", RejectReason.NON_CONTIGUOUS
 
     if not all(u.attributable for u in units):
@@ -153,10 +185,21 @@ def resolve_speaker(
        table, at the cost of the eligibility check.
 
     Returns (speaker, source, warning). A warning is raised when both sources
-    exist and disagree, which usually means a wrong date somewhere.
+    exist and disagree, which usually means a wrong date somewhere, and when
+    the table matches more than one spell, in which case there is no speaker.
     """
-    from_table = officeholders.eligible_speaker(doc.institution, doc.pub_date)
+    from_table, table_warning = officeholders.eligible_speaker(
+        doc.institution, doc.pub_date
+    )
     from_manifest = (doc.speaker_hint or "").strip() or None
+
+    # An ambiguous table is not resolved by falling back to the manifest hint.
+    # The hint would usually name one of the candidates, so the document would
+    # be kept, the overlap would stay in the table, and the attribution would
+    # rest on a convenience field rather than on the eligibility join. Failing
+    # closed costs one document, whereas the hint costs the guarantee.
+    if table_warning:
+        return None, "", table_warning
 
     if from_table and from_manifest:
         if from_table.strip().lower() != from_manifest.strip().lower():
@@ -180,7 +223,24 @@ class OfficeholderTable:
     def __init__(self, rows: Iterable[dict]):
         self.rows = list(rows)
 
-    def eligible_speaker(self, institution: str, on: date) -> Optional[str]:
+    # Widening the return type was preferred to adding a second, warning-aware
+    # method. A second method would leave the silent one callable, and the
+    # failure it hides looks exactly like success; there is one call site, so
+    # the cost of changing the type is a single line.
+    def eligible_speaker(
+        self, institution: str, on: date
+    ) -> tuple[Optional[str], str]:
+        """Return (speaker, warning). The join must be unique or it is not
+        evidence, so a date matching two spells names nobody.
+
+        Spells share their boundary dates — one ends on the day the next
+        begins — so a document published on a handover date matches both rows.
+        Returning the first match would make the attribution depend on row
+        order in the CSV, which is not a fact about who held the office. An
+        overlap is a defect in the table, so it is reported upward and the
+        document is dropped rather than guessed at.
+        """
+        matches: list[dict] = []
         for r in self.rows:
             if r["institution"].strip().lower() != institution.strip().lower():
                 continue
@@ -190,8 +250,20 @@ class OfficeholderTable:
                 continue
             if end and on > end:
                 continue
-            return r["person"]
-        return None
+            matches.append(r)
+
+        if not matches:
+            return None, ""
+        if len(matches) > 1:
+            # Listed in table order, not sorted: the reader has to find these
+            # rows in the CSV to fix them.
+            people = ", ".join(repr(r["person"]) for r in matches)
+            return None, (
+                f"the officeholder table gives {len(matches)} eligible speakers "
+                f"for {institution!r} on {on.isoformat()} ({people}) — fix the "
+                f"overlapping spell dates in officeholders.csv"
+            )
+        return matches[0]["person"], ""
 
 
 # --- JEL -------------------------------------------------------------------
@@ -257,10 +329,19 @@ def validate_observations(
     """
     speaker, speaker_source, warning = resolve_speaker(doc, officeholders)
 
+    # An absent spell and an overlapping one both yield no speaker, but they
+    # are different defects in the table and the reject log should say which.
+    # resolve_speaker() returns a warning alongside a None speaker only in the
+    # overlapping case, so the warning is the discriminator; widening its
+    # return tuple to carry a reason would break a contract build() relies on.
+    no_speaker_reason = (
+        RejectReason.AMBIGUOUS_SPEAKER if warning else RejectReason.NO_ELIGIBLE_SPEAKER
+    )
+
     for obs in observations:
         if speaker is None:
             obs.valid = False
-            obs.reject_reason = RejectReason.NO_ELIGIBLE_SPEAKER
+            obs.reject_reason = no_speaker_reason
             continue
 
         quote, reason = reconstruct_quote(

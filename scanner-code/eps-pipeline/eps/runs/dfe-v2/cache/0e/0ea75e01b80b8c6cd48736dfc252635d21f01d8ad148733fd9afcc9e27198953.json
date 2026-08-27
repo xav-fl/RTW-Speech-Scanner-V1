@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a government-funded childcare entitlement — a public subsidy for early childhood care and education services. The core mechanism is a publicly funded childcare provision (hours per week), which sits squarely in welfare/education services for children and families.\n\n- Primary: **I** (Health, Education, and Welfare — specifically early childhood education/care provision)\n- Secondary: **H** (Public Economics — government expenditure/subsidy funding the program), **J** (Labor and Demographic Economics — childcare availability affects female labor supply)\n\n{\"primary\": \"I\", \"secondary\": [\"H\", \"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

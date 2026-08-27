@@ -18,12 +18,13 @@ import json
 import hashlib
 from pathlib import Path
 from typing import Optional
+import inspect
 
 from .models import Document, JELAssignment, Observation
 from .jel import JELTaxonomy
 from .providers import AnthropicProvider, ModelProvider
 
-PROMPT_VERSION = "P2-units-blind"
+PROMPT_VERSION = "P6-units-blind"
 DEFAULT_MODEL = "claude-sonnet-4-6"
 
 # What the model is told about who is speaking.
@@ -35,19 +36,32 @@ DEFAULT_MODEL = "claude-sonnet-4-6"
 #     paired robustness test: same corpus, both modes, compare selections.
 IDENTITY_MODES = ("blind", "full")
 
-
 def prompt_fingerprint() -> str:
     """A short hash of the actual prompt text.
 
     PROMPT_VERSION is a label you set by hand and may forget to change. This is
     computed from the prompts themselves, so every output row records exactly
-    which wording produced it whether or not you remembered to relabel. Two rows
-    with the same fingerprint came from identical prompts; two with different
-    fingerprints did not.
+    which wording produced it whether or not you remembered to relabel.
+
+    Both system prompts are hashed, and so is the source of the three methods
+    that build user messages: build_user_message(), classify() and _refine().
+    Those methods contain prompt wording too — the residual-code guidance in
+    _refine() is prompt text by any reasonable definition — and hashing only the
+    system constants leaves changes to it invisible in the provenance columns.
+
+    Method source is hashed wholesale, so editing a comment or renaming a local
+    variable inside those methods also moves the fingerprint. That is the safe
+    direction: a fingerprint that moves without a wording change is noise, but a
+    fingerprint that holds still despite one is a false provenance record.
     """
-    return hashlib.sha256(
-        (EXTRACT_SYSTEM + JEL_SYSTEM).encode("utf-8")
-    ).hexdigest()[:12]
+    parts = [EXTRACT_SYSTEM, JEL_SYSTEM]
+    for fn in (
+        Extractor.build_user_message,
+        Extractor.classify,
+        Extractor._refine,
+    ):
+        parts.append(inspect.getsource(fn))
+    return hashlib.sha256("".join(parts).encode("utf-8")).hexdigest()[:12]
 
 EXTRACT_SYSTEM = """\
 You identify economics-relevant policy statements in documents published by \
@@ -111,6 +125,13 @@ data, forecasting, or methodology.
 - Do not assign D04 merely because the passage discusses policy.
 - Assign a secondary classification only when there is an additional, \
 substantively important economic dimension. At most two. Fewer is better.
+- Before selecting a code at any level, identify in a few words the specific \
+mechanism, instrument, population, or outcome the quotation names — a funding \
+formula, a staffing incentive, an eligibility rule, a governance structure, a \
+market intervention, and so on. The code you choose must match that phrase. \
+This dataset exists to reveal what policymakers are actually choosing to do, \
+so a classification that would fit almost any government statement is not \
+doing its job, whatever its title happens to be.
 
 Return ONLY JSON, no preamble, no markdown fences:
 {"primary": "<code>", "secondary": ["<code>", "<code>"]}
@@ -279,32 +300,97 @@ class Extractor:
 
     # -- stage 2: JEL ------------------------------------------------------
 
-    def classify(self, quote: str, context: str = "") -> tuple[JELAssignment, list[JELAssignment]]:
+    def classify(
+        self, quote: str, context: str = ""
+    ) -> tuple[JELAssignment, list[JELAssignment], str]:
         majors = self.tax.majors()
-        major_list = "\n".join(f"{c.code} — {c.title}" for c in majors)
+        # Each major with its two-character subcategories nested underneath,
+        # so the branch is chosen knowing what is inside it rather than from
+        # titles alone. Three-character codes are left to _refine().
+        lines: list[str] = []
+        for c in majors:
+            lines.append(f"{c.code} — {c.title}")
+            for sub in self.tax.subcategories(c.code):
+                lines.append(f"  {sub.code} — {sub.title}")
+        major_list = "\n".join(lines)
         user = (
             f"QUOTATION:\n{quote}\n\n"
             f"{('CONTEXT: ' + context) if context else ''}\n\n"
             f"Choose the single major category whose subtree best fits the "
             f"economic content, and up to two others only if substantively "
-            f"justified.\n\nMAJOR CATEGORIES:\n{major_list}\n\n"
+            f"justified. The subcategories are listed under each major so you "
+            f"can see what competes with it.\n\nMAJOR CATEGORIES:\n{major_list}\n\n"
             'Return {"primary": "<letter>", "secondary": ["<letter>"]}'
         )
         top = _parse_json(self._call(JEL_SYSTEM, user, max_tokens=500))
 
-        primary = self._refine(quote, str(top.get("primary", "")).strip())
+        major, hint = self._resolve_major(str(top.get("primary", "")).strip())
+        primary, mechanism = self._refine(quote, major, sub_hint=hint)
         secondary: list[JELAssignment] = []
         for code in (top.get("secondary") or [])[:2]:
-            a = self._refine(quote, str(code).strip())
+            sec_major, sec_hint = self._resolve_major(str(code).strip())
+            a, _ = self._refine(quote, sec_major, sub_hint=sec_hint)
             if not a.is_empty() and a.major_code != primary.major_code:
                 secondary.append(a)
-        return primary, secondary
+        # Only the primary branch's phrase is kept: it is the one attached to
+        # the code that lands in `jel_primary_*`.
+        return primary, secondary, mechanism
 
-    def _refine(self, quote: str, major: str) -> JELAssignment:
+    def _resolve_major(self, code: str) -> tuple[str, str]:
+        """Resolve whatever the model returned in a major-category slot.
+
+        classify() asks for a single letter, but it now shows subcategories
+        alongside the majors, and a model reading that list answers "I2" often
+        enough to matter. validate_jel() rejects a non-level-1 major outright,
+        which loses the whole observation -- the same trade _refine() already
+        refuses one level down, and the cost is higher here because a bad major
+        takes the row with it rather than just its specificity.
+
+        So walk up instead of failing: a level-2 code yields its parent major
+        and survives as a subcategory hint, and a level-3 code yields both of
+        its ancestors. A code that is not in the frozen taxonomy at all is
+        still dropped -- recovery applies to real codes at the wrong depth,
+        never to invented ones.
+
+        Returns (major, sub_hint), both empty when nothing is recoverable.
+        """
+        node = self.tax.by_code.get(code)
+        if node is None:
+            return "", ""
+        if node.level == 1:
+            return code, ""
+        if node.level == 2:
+            return node.parent, code
+        parent = self.tax.by_code.get(node.parent)
+        if parent is None or parent.level != 2:
+            return "", ""
+        return parent.parent, node.parent
+
+    def _refine(self, quote: str, major: str,
+                sub_hint: str = "") -> tuple[JELAssignment, str]:
         """Given a major category, pick a subcategory and detailed code from
-        that branch only."""
+        that branch only.
+
+        `sub_hint` is a subcategory the model already named in classify(). It
+        is deliberately not shown in the prompt: this variant changes parsing
+        only, so the wording stays identical to P5 and any movement in the
+        numbers is attributable to the fix rather than to new instructions.
+        It is used as a fallback when this call's own answer does not survive
+        verification, so a level-2 answer upstream recovers specificity that
+        would otherwise be cleared to a bare major.
+
+        Returns the assignment and the `mechanism` phrase the model stated
+        before naming a code. The phrase is recorded, never fed back in.
+        """
         if not major or major not in self.tax.by_code:
-            return JELAssignment()
+            return JELAssignment(), ""
+
+        # Verified against the taxonomy on the way in, and discarded unless it
+        # is a real subcategory sitting under this major.
+        if sub_hint and (sub_hint not in self.tax.by_code
+                         or self.tax.by_code[sub_hint].level != 2
+                         or self.tax.by_code[sub_hint].parent != major):
+            sub_hint = ""
 
         branch: list[str] = []
         for sub in self.tax.subcategories(major):
@@ -312,7 +398,7 @@ class Extractor:
             for det in self.tax.detailed(sub.code):
                 branch.append(f"  {det.code} — {det.title}")
         if not branch:
-            return self.tax.fill_titles(JELAssignment(major_code=major))
+            return self.tax.fill_titles(JELAssignment(major_code=major)), ""
 
         user = (
             f"QUOTATION:\n{quote}\n\n"
@@ -320,10 +406,16 @@ class Extractor:
             f"quotation clearly supports. Prefer a three-character code when it "
             f"clearly fits; otherwise give only the two-character subcategory "
             f"and leave 'detailed' empty. Do not stretch for specificity.\n\n"
+            f"First, in a few words, name the specific mechanism, instrument, "
+            f"population, or outcome the quotation names. Then check every code "
+            f"in the list below and choose the one whose title most precisely "
+            f"matches what you just named.\n\n"
             f"AVAILABLE CODES:\n" + "\n".join(branch) + "\n\n"
-            'Return {"sub": "<code>", "detailed": "<code or empty>"}'
+            'Return {"mechanism": "<a few words>", "sub": "<code>", '
+            '"detailed": "<code or empty>"}'
         )
         picked = _parse_json(self._call(JEL_SYSTEM, user, max_tokens=400))
+        mechanism = str(picked.get("mechanism") or "").strip()[:200]
         sub = str(picked.get("sub", "")).strip()
         det = str(picked.get("detailed", "")).strip()
 
@@ -348,6 +440,14 @@ class Extractor:
                     or self.tax.by_code[sub].level != 2
                     or self.tax.by_code[sub].parent != major):
             sub = ""
+
+        # Nothing usable came back, but classify() had already named a
+        # subcategory under this major. Falling back to it beats emitting a
+        # bare major code, and it is the same verified taxonomy entry either
+        # way. The detailed code is re-checked against it below.
+        if not sub and sub_hint:
+            sub = sub_hint
+
         if det and (det not in self.tax.by_code
                     or self.tax.by_code[det].level != 3
                     or self.tax.by_code[det].parent != sub):
@@ -355,7 +455,7 @@ class Extractor:
 
         return self.tax.fill_titles(
             JELAssignment(major_code=major, sub_code=sub, detailed_code=det)
-        )
+        ), mechanism
 
     # -- orchestration -----------------------------------------------------
 
@@ -382,8 +482,9 @@ class Extractor:
             quote, reason = reconstruct_quote(doc, obs.unit_ids, obs.anchor)
             if not reason:
                 context = doc.title if self.identity_mode == "full" else ""
-                primary, secondary = self.classify(quote, context=context)
+                primary, secondary, mechanism = self.classify(quote, context=context)
                 obs.primary = primary
                 obs.secondary = secondary
+                obs.mechanism = mechanism
             observations.append(obs)
         return observations

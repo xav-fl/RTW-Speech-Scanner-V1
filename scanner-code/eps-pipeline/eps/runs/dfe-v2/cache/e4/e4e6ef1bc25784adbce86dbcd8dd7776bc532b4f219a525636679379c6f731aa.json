@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a government-funded childcare entitlement (30 hours/week at a local nursery). The specific mechanism is public provision/subsidy of early childhood care and education services.\n\n- Primary: **I** (Health, Education, and Welfare — specifically I2, early childhood education/care provision)\n- Secondary: **H** (Public Economics — H4/H5, publicly provided goods / government expenditure on childcare)\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about bonuses to recruit and retain early years teachers — this is fundamentally about teacher labor markets (recruitment, retention, compensation) in the education sector.\n\nPrimary: **J** (Labor and Demographic Economics) — the core mechanism is compensation/bonuses for recruitment and retention of workers.\n\nSecondary: **I** (Health, Education, and Welfare) — the context is specifically early years education, which is a substantively important dimension.\n\n{\"primary\": \"J\", \"secondary\": [\"I\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation discusses how education outcomes (beyond GCSE results) affect employment prospects — this is fundamentally about the link between education/schooling and labor market outcomes (getting a job).\n\nPrimary: **I** (Health, Education, and Welfare — specifically education)\nSecondary: **J** (Labor and Demographic Economics — employment outcomes)\n\n{\"primary\": \"I\", \"secondary\": [\"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

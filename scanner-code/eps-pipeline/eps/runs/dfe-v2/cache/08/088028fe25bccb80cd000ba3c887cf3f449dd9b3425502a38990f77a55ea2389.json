@@ -1,0 +1,5 @@
+{
+  "text": "I need to classify this quotation about affordable childcare enabling women's economic empowerment and career choices.\n\n**Mechanism named:** Affordable childcare enabling maternal labor force participation and economic empowerment.\n\nThis is about childcare as a welfare/support program that affects women's well-being and economic participation. Let me check the codes:\n\n- I3 (Welfare, Well-Being, and Poverty) — childcare as a support program affecting well-being\n- I38 — Government Policy, Provision and Effects of Welfare Programs — childcare provision as a welfare program enabling women's participation\n\nThe quotation is specifically about affordable childcare (a welfare/support program) and its effect on women's economic empowerment. I38 fits well as it covers government provision of welfare programs and their effects.\n\n```json\n{\"mechanism\": \"affordable childcare enabling maternal labor force participation and economic empowerment\", \"sub\": \"I3\", \"detailed\": \"I38\"}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

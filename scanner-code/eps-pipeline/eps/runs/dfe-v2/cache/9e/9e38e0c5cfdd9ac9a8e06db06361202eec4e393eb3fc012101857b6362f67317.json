@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes specific government expenditure allocations for special educational needs and disabilities (SEND) provision: funding for inclusive mainstream education, capital investment in specialist facilities and accessibility, and workforce training. The core economic content is public spending on education for children with SEND.\n\nPrimary: **I** (Health, Education, and Welfare — specifically education spending and provision for students with special needs)\n\nSecondary: **H** is substantively justified here because the statement is explicitly about public expenditure allocations (fiscal spending decisions across three distinct budget lines), which goes beyond merely a government official speaking — it names specific funding instruments and amounts.\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

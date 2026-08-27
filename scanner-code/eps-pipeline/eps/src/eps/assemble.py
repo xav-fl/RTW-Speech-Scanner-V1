@@ -41,6 +41,7 @@ INTERNAL_COLUMNS = RELEASE_COLUMNS + [
     "raw_sha256", "text_sha256", "segmenter_version",
     "provider", "model_id", "prompt_version", "prompt_sha", "identity_mode", "run_id",
     "model_reason",
+    "model_mechanism",
 ]
 
 
@@ -97,6 +98,8 @@ def observation_row(doc: Document, obs: Observation, speaker: str,
         # Post-hoc justification, for human review only. Not evidence about
         # how the selection was actually made.
         "model_reason": obs.reason,
+        # The phrase the model named before picking a code, on the same terms.
+        "model_mechanism": obs.mechanism,
     }
 
 

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation refers to cutting the \"disadvantage gap\" — a term used in education policy contexts to describe the achievement/attainment gap between disadvantaged pupils and their peers. The specific mechanism is reducing educational inequality tied to socioeconomic disadvantage.\n\nPrimary: I (Health, Education, and Welfare — specifically I2 Education, and the gap relates to I3 Welfare/Poverty)\nSecondary: I3 is within the same major category, so no need for a separate letter. The statement also touches on distributional inequality (D3), but the dominant framing is educational disadvantage.\n\n{\"primary\": \"I\", \"secondary\": [\"D\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

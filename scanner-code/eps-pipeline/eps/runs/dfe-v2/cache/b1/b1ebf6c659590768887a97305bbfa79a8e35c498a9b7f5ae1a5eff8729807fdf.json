@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about public investment in mainstream schools to accommodate children with Special Educational Needs and Disabilities (SEND) — specifically capital spending on physical adaptations (classrooms, corridors) and workforce training (teachers, teaching assistants). The core economic content is education spending and provision for a specific needs population.\n\nPrimary: **I** (Health, Education, and Welfare — specifically education infrastructure and special needs education provision)\n\nSecondary: **J** (Labor and Demographic Economics — teacher/teaching assistant training is a substantive workforce/human capital dimension)\n\n{\"primary\": \"I\", \"secondary\": [\"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

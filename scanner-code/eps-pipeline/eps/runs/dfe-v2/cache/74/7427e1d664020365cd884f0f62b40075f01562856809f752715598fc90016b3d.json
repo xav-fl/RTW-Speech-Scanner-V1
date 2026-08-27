@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about financial bonuses to recruit and retain early years teachers — this is fundamentally about compensation packages/payment methods used as a policy instrument in a specific labor market.\n\nJ33 (Compensation Packages • Payment Methods) fits the specific mechanism (bonuses). J45 (Public Sector Labor Markets) fits the sector. But the question asks for the most specific J code.\n\nThe bonuses are specifically for recruitment and retention — this is about compensation as a tool. J33 covers compensation packages and payment methods directly.\n\n{\"sub\": \"J3\", \"detailed\": \"J33\"}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

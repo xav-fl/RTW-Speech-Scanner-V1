@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about halving the \"disadvantage gap\" in education by drawing on best practices from successful schools. The specific mechanism is an educational equity policy targeting achievement gaps between disadvantaged and other pupils, referencing a white paper and school-level evidence.\n\nPrimary: **I** (Education and Research Institutions — I2, specifically about educational outcomes and equity in schooling)\n\nSecondary: **I3** (Welfare, Well-Being, and Poverty — the \"disadvantage gap\" directly implicates poverty/deprivation as the population of concern)\n\n{\"primary\": \"I\", \"secondary\": [\"I\"]}\n\nWait, I need to use the major category letter only per the return format shown.\n\n{\"primary\": \"I\", \"secondary\": []}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

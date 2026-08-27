@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about requesting a Competition and Markets Authority (CMA) review of the early years childcare market. The specific mechanism is a market investigation/competition review of a childcare services market.\n\nThe primary economic content is about market structure and competition in the childcare industry — this is industrial organization (L), specifically antitrust/market investigation (L4) and industry studies in services (L8).\n\nThe secondary dimension is the childcare/early years education aspect, which falls under I2 (Education and Research Institutions).\n\n{\"primary\": \"L\", \"secondary\": [\"I\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

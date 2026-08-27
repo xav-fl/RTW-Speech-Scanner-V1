@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about reforming the \"skills system\" for young people — this is vocational/educational training reform aimed at improving human capital and labor market pathways for youth.\n\nSpecific mechanism: restructuring skills/vocational training systems to improve youth outcomes.\n\nPrimary: **I** (Education and Research Institutions — I2 specifically covers education policy and institutions)\nSecondary: **J** (Labor and Demographic Economics — J2/J4, as skills systems directly connect to labor supply and particular labor markets for youth)\n\n{\"primary\": \"I\", \"secondary\": [\"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

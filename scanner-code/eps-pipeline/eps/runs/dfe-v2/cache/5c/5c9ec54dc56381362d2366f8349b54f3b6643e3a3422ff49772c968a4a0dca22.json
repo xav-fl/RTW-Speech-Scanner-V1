@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes an AI tutoring programme involving teachers, pupils, and tech experts co-creating educational tools. The core mechanism is the development and deployment of AI-based tutoring tools in education — this sits at the intersection of education policy (I) and technological innovation applied to learning (O, for innovation/technological change). The primary substance is educational improvement through a specific instructional technology instrument.\n\n{\"primary\": \"I\", \"secondary\": [\"O\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -117,6 +117,12 @@ class Observation:
     # it is generated after the selection, so it is a plausible account of the
     # choice, not evidence about how the choice was made.
     reason: str = ""
+    # The specific mechanism, instrument, population or outcome the model named
+    # in Stage 2 before choosing a code. Stated ahead of the code rather than
+    # after it, but position within one response is not evidence of causation,
+    # so this gets the same treatment as `reason`: recorded for human review,
+    # never fed back into a prompt.
+    mechanism: str = ""
     # provenance
     provider: str = ""          # "anthropic" | "mistral" | "fake"
     model_id: str = ""

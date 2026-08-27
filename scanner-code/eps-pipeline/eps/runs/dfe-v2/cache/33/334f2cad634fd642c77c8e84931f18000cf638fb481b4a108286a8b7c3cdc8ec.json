@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the quotation, the specific mechanism is: a government programme to co-create AI tutoring tools integrated into the school curriculum, involving teachers, pupils, and tech experts.\n\nThe core economic content is about educational technology being deployed in schools — this is fundamentally an education policy intervention (curriculum-integrated AI tutoring tools). The primary classification is clearly **I — Health, Education, and Welfare**, specifically I2 (Education and Research Institutions).\n\nA secondary dimension worth noting is **O3 — Innovation, Research and Development, Technological Change** — the co-creation of AI tools with tech experts represents a technological innovation process in the education sector. This is substantively important, not just incidental.\n\nNo other secondary classification is warranted.\n\n```json\n{\"primary\": \"I\", \"secondary\": [\"O\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

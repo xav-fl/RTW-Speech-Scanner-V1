@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D84b3491cbe.P010.S001\", \"D84b3491cbe.P011.S001\"], \"anchor\": null, \"reason\": \"Speaker commits to ambitious school food standards overhaul with compliance mechanism\"}, {\"unit_ids\": [\"D84b3491cbe.P012.S001\"], \"anchor\": null, \"reason\": \"Speaker commits to free breakfast clubs and expanding free school meals to 500k+ children\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

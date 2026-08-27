@@ -1,0 +1,25 @@
+{
+  "documents_screened": 10,
+  "documents_with_observations": 4,
+  "observations_kept": 17,
+  "observations_rejected": 8,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 10
+  },
+  "reject_reasons": {
+    "anchor phrase does not appear exactly in the units": 4,
+    "JEL classification failed validation: 'J13' is not a level-2 code": 2,
+    "unit_ids are not contiguous": 1,
+    "JEL classification failed validation: 'J24' is not a level-2 code": 1
+  },
+  "by_institution": {
+    "Department for Education": 17
+  },
+  "files": {
+    "dataset": "runs\\dfe-pilot\\out\\dataset.csv",
+    "internal": "runs\\dfe-pilot\\out\\observations_internal.csv",
+    "screening_log": "runs\\dfe-pilot\\out\\screening_log.csv",
+    "rejected": "runs\\dfe-pilot\\out\\rejected.csv"
+  }
+}

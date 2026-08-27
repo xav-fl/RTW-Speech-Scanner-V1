@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes rolling out \"Best Start Family Hubs\" — a public service delivery infrastructure providing parental support, which is a welfare/child development program targeting families with young children.\n\nSpecific mechanism: community-based hubs delivering early childhood and family support services.\n\nThis falls squarely under I (Health, Education, and Welfare) — specifically child welfare and early childhood support services. There is a secondary dimension of public expenditure/provision (H), but the substance is the welfare service itself, not the fiscal instrument.\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

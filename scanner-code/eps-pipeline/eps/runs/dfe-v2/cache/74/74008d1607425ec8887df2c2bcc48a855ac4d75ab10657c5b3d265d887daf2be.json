@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about financial bonuses to recruit and retain early years teachers in underserved areas. The core mechanism is a staffing incentive (bonus pay) targeting a specific workforce (early childhood educators) in specific locations. This is fundamentally about teacher labor markets and compensation policy within education.\n\nPrimary dimension: Education policy (early years teachers, recruitment/retention) → I\nSecondary dimension: The specific instrument is a labor market incentive (bonuses, recruitment, retention of workers) → J\n\n{\"primary\": \"I\", \"secondary\": [\"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

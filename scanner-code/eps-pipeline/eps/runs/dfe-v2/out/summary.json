@@ -1,0 +1,22 @@
+{
+  "documents_screened": 10,
+  "documents_with_observations": 5,
+  "observations_kept": 20,
+  "observations_rejected": 2,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 10
+  },
+  "reject_reasons": {
+    "anchor phrase does not appear exactly in the units": 2
+  },
+  "by_institution": {
+    "Department for Education": 20
+  },
+  "files": {
+    "dataset": "runs\\dfe-v2\\out\\dataset.csv",
+    "internal": "runs\\dfe-v2\\out\\observations_internal.csv",
+    "screening_log": "runs\\dfe-v2\\out\\screening_log.csv",
+    "rejected": "runs\\dfe-v2\\out\\rejected.csv"
+  }
+}

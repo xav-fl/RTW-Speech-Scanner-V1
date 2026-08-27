@@ -1,0 +1,5 @@
+{
+  "text": "The specific mechanism here is a **financial bonus to recruit and retain early years teachers in underserved areas** — a staffing incentive targeting a particular segment of the education workforce.\n\n- The primary substance is **early years education** — this is an education policy instrument (I2: Education and Research Institutions).\n- The instrument is a **wage/compensation bonus for a specific labor market** (early years teachers), which is substantively important enough to warrant a secondary classification under **J3** (Wages, Compensation, and Labor Costs) or **J4** (Particular Labor Markets — teachers as a specific labor market).\n\nJ3 fits best as secondary because the bonus is explicitly about compensation as a recruitment/retention tool.\n\n```json\n{\"primary\": \"I2\", \"secondary\": [\"J3\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

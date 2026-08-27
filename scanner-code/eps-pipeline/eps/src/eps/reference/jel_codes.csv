@@ -1,88 +1,999 @@
 code,title,level,parent
 A,General Economics and Teaching,1,
+A1,General Economics,2,A
+A10,General,3,A1
+A11,Role of Economics • Role of Economists • Market for Economists,3,A1
+A12,Relation of Economics to Other Disciplines,3,A1
+A13,Relation of Economics to Social Values,3,A1
+A14,Sociology of Economics,3,A1
+A19,Other,3,A1
+A2,Economic Education and Teaching of Economics,2,A
+A20,General,3,A2
+A21,Pre-college,3,A2
+A22,Undergraduate,3,A2
+A23,Graduate,3,A2
+A29,Other,3,A2
+A3,Collective Works,2,A
+A30,General,3,A3
+A31,Collected Writings of Individuals,3,A3
+A32,Collective Volumes,3,A3
+A33,Handbooks,3,A3
+A39,Other,3,A3
 B,"History of Economic Thought, Methodology, and Heterodox Approaches",1,
+B00,General,3,B
+B1,History of Economic Thought through 1925,2,B
+B10,General,3,B1
+B11,"Preclassical (Ancient, Medieval, Mercantilist, Physiocratic)",3,B1
+B12,Classical (includes Adam Smith),3,B1
+B13,"Neoclassical through 1925 (Austrian, Marshallian, Walrasian, Wicksellian)",3,B1
+B14,Socialist • Marxist,3,B1
+B15,Historical • Institutional • Evolutionary,3,B1
+B16,Quantitative and Mathematical,3,B1
+B17,International Trade and Finance,3,B1
+B19,Other,3,B1
+B2,History of Economic Thought since 1925,2,B
+B20,General,3,B2
+B21,Microeconomics,3,B2
+B22,Macroeconomics,3,B2
+B23,Econometrics • Quantitative and Mathematical Studies,3,B2
+B24,Socialist • Marxist • Sraffian,3,B2
+B25,Historical • Institutional • Evolutionary • Austrian • Stockholm School,3,B2
+B26,Financial Economics,3,B2
+B27,International Trade and Finance,3,B2
+B29,Other,3,B2
+B3,History of Economic Thought: Individuals,2,B
+B30,General,3,B3
+B31,Individuals,3,B3
+B32,Obituaries,3,B3
+B4,Economic Methodology,2,B
+B40,General,3,B4
+B41,Economic Methodology,3,B4
+B49,Other,3,B4
+B5,Current Heterodox Approaches,2,B
+B50,General,3,B5
+B51,Socialist • Marxian • Sraffian,3,B5
+B52,Historical • Institutional • Evolutionary • Modern Monetary Theory,3,B5
+B53,Austrian,3,B5
+B54,Feminist Economics,3,B5
+B55,Social Economics,3,B5
+B59,Other,3,B5
 C,Mathematical and Quantitative Methods,1,
+C00,General,3,C
+C01,Econometrics,3,C
+C02,Mathematical Methods,3,C
+C1,Econometric and Statistical Methods and Methodology: General,2,C
+C10,General,3,C1
+C11,Bayesian Analysis: General,3,C1
+C12,Hypothesis Testing: General,3,C1
+C13,Estimation: General,3,C1
+C14,Semiparametric and Nonparametric Methods: General,3,C1
+C15,Statistical Simulation Methods: General,3,C1
+C18,Methodological Issues: General,3,C1
+C19,Other,3,C1
+C2,Single Equation Models • Single Variables,2,C
+C20,General,3,C2
+C21,Cross-Sectional Models • Spatial Models • Treatment Effect Models • Quantile Regressions,3,C2
+C22,Time-Series Models • Dynamic Quantile Regressions • Dynamic Treatment Effect Models • Diffusion Processes,3,C2
+C23,Panel Data Models • Spatio-temporal Models,3,C2
+C24,Truncated and Censored Models • Switching Regression Models • Threshold Regression Models,3,C2
+C25,Discrete Regression and Qualitative Choice Models • Discrete Regressors • Proportions • Probabilities,3,C2
+C26,Instrumental Variables (IV) Estimation,3,C2
+C29,Other,3,C2
+C3,Multiple or Simultaneous Equation Models • Multiple Variables,2,C
+C30,General,3,C3
+C31,Cross-Sectional Models • Spatial Models • Treatment Effect Models • Quantile Regressions • Social Interaction Models,3,C3
+C32,Time-Series Models • Dynamic Quantile Regressions • Dynamic Treatment Effect Models • Diffusion Processes • State Space Models,3,C3
+C33,Panel Data Models • Spatio-temporal Models,3,C3
+C34,Truncated and Censored Models • Switching Regression Models,3,C3
+C35,Discrete Regression and Qualitative Choice Models • Discrete Regressors • Proportions,3,C3
+C36,Instrumental Variables (IV) Estimation,3,C3
+C38,Classification Methods • Cluster Analysis • Principal Components • Factor Models,3,C3
+C39,Other,3,C3
+C4,Econometric and Statistical Methods: Special Topics,2,C
+C40,General,3,C4
+C41,Duration Analysis • Optimal Timing Strategies,3,C4
+C43,Index Numbers and Aggregation,3,C4
+C44,Operations Research • Statistical Decision Theory,3,C4
+C45,Neural Networks and Related Topics,3,C4
+C46,Specific Distributions • Specific Statistics,3,C4
+C49,Other,3,C4
+C5,Econometric Modeling,2,C
+C50,General,3,C5
+C51,Model Construction and Estimation,3,C5
+C52,"Model Evaluation, Validation, and Selection",3,C5
+C53,Forecasting and Prediction Methods • Simulation Methods,3,C5
+C54,Quantitative Policy Modeling,3,C5
+C55,Large Data Sets: Modeling and Analysis,3,C5
+C57,Econometrics of Games and Auctions,3,C5
+C58,Financial Econometrics,3,C5
+C59,Other,3,C5
+C6,Mathematical Methods • Programming Models • Mathematical and Simulation Modeling,2,C
+C60,General,3,C6
+C61,Optimization Techniques • Programming Models • Dynamic Analysis,3,C6
+C62,Existence and Stability Conditions of Equilibrium,3,C6
+C63,Computational Techniques • Simulation Modeling,3,C6
+C65,Miscellaneous Mathematical Tools,3,C6
+C67,Input–Output Models,3,C6
+C68,Computable General Equilibrium Models,3,C6
+C69,Other,3,C6
+C7,Game Theory and Bargaining Theory,2,C
+C70,General,3,C7
+C71,Cooperative Games,3,C7
+C72,Noncooperative Games,3,C7
+C73,Stochastic and Dynamic Games • Evolutionary Games • Repeated Games,3,C7
+C78,Bargaining Theory • Matching Theory,3,C7
+C79,Other,3,C7
+C8,Data Collection and Data Estimation Methodology • Computer Programs,2,C
+C80,General,3,C8
+C81,"Methodology for Collecting, Estimating, and Organizing Microeconomic Data • Data Access",3,C8
+C82,"Methodology for Collecting, Estimating, and Organizing Macroeconomic Data • Data Access",3,C8
+C83,Survey Methods • Sampling Methods,3,C8
+C87,Econometric Software,3,C8
+C88,Other Computer Software,3,C8
+C89,Other,3,C8
+C9,Design of Experiments,2,C
+C90,General,3,C9
+C91,"Laboratory, Individual Behavior",3,C9
+C92,"Laboratory, Group Behavior",3,C9
+C93,Field Experiments,3,C9
+C99,Other,3,C9
 D,Microeconomics,1,
+D00,General,3,D
+D01,Microeconomic Behavior: Underlying Principles,3,D
+D02,"Institutions: Design, Formation, Operations, and Impact",3,D
+D04,"Microeconomic Policy: Formulation, Implementation, and Evaluation",3,D
 D1,Household Behavior and Family Economics,2,D
+D10,General,3,D1
+D11,Consumer Economics: Theory,3,D1
+D12,Consumer Economics: Empirical Analysis,3,D1
+D13,Household Production and Intrahousehold Allocation,3,D1
+D14,Household Saving • Personal Finance,3,D1
+D15,Intertemporal Household Choice • Life Cycle Models and Saving,3,D1
+D16,Collaborative Consumption,3,D1
+D18,Consumer Protection,3,D1
+D19,Other,3,D1
 D2,Production and Organizations,2,D
+D20,General,3,D2
+D21,Firm Behavior: Theory,3,D2
+D22,Firm Behavior: Empirical Analysis,3,D2
+D23,Organizational Behavior • Transaction Costs • Property Rights,3,D2
+D24,"Production • Cost • Capital • Capital, Total Factor, and Multifactor Productivity • Capacity",3,D2
+D25,"Intertemporal Firm Choice: Investment, Capacity, and Financing",3,D2
+D26,Crowd-Based Firms,3,D2
+D29,Other,3,D2
 D3,Distribution,2,D
+D30,General,3,D3
+D31,"Personal Income, Wealth, and Their Distributions",3,D3
+D33,Factor Income Distribution,3,D3
+D39,Other,3,D3
 D4,"Market Structure, Pricing, and Design",2,D
+D40,General,3,D4
+D41,Perfect Competition,3,D4
+D42,Monopoly,3,D4
+D43,Oligopoly and Other Forms of Market Imperfection,3,D4
+D44,Auctions,3,D4
+D45,Rationing • Licensing,3,D4
+D46,Value Theory,3,D4
+D47,Market Design,3,D4
+D49,Other,3,D4
+D5,General Equilibrium and Disequilibrium,2,D
+D50,General,3,D5
+D51,Exchange and Production Economies,3,D5
+D52,Incomplete Markets,3,D5
+D53,Financial Markets,3,D5
+D57,Input–Output Tables and Analysis,3,D5
+D58,Computable and Other Applied General Equilibrium Models,3,D5
+D59,Other,3,D5
 D6,Welfare Economics,2,D
+D60,General,3,D6
+D61,Allocative Efficiency • Cost–Benefit Analysis,3,D6
+D62,Externalities,3,D6
+D63,"Equity, Justice, Inequality, and Other Normative Criteria and Measurement",3,D6
+D64,Altruism • Philanthropy • Intergenerational Transfers,3,D6
+D69,Other,3,D6
 D7,Analysis of Collective Decision-Making,2,D
+D70,General,3,D7
+D71,Social Choice • Clubs • Committees • Associations,3,D7
+D72,"Political Processes: Rent-Seeking, Lobbying, Elections, Legislatures, and Voting Behavior",3,D7
+D73,Bureaucracy • Administrative Processes in Public Organizations • Corruption,3,D7
+D74,Conflict • Conflict Resolution • Alliances • Revolutions,3,D7
+D78,Positive Analysis of Policy Formulation and Implementation,3,D7
+D79,Other,3,D7
 D8,"Information, Knowledge, and Uncertainty",2,D
+D80,General,3,D8
+D81,Criteria for Decision-Making under Risk and Uncertainty,3,D8
+D82,Asymmetric and Private Information • Mechanism Design,3,D8
+D83,Search • Learning • Information and Knowledge • Communication • Belief • Unawareness,3,D8
+D84,Expectations • Speculations,3,D8
+D85,Network Formation and Analysis: Theory,3,D8
+D86,Economics of Contract: Theory,3,D8
+D87,Neuroeconomics,3,D8
+D89,Other,3,D8
+D9,Micro-Based Behavioral Economics,2,D
+D90,General,3,D9
+D91,"Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on Decision Making",3,D9
 E,Macroeconomics and Monetary Economics,1,
+E00,General,3,E
+E01,Measurement and Data on National Income and Product Accounts and Wealth • Environmental Accounts,3,E
+E02,Institutions and the Macroeconomy,3,E
+E1,General Aggregative Models,2,E
+E10,General,3,E1
+E11,Marxian • Sraffian • Kaleckian,3,E1
+E12,Keynes • Keynesian • Post-Keynesian • Modern Monetary Theory,3,E1
+E13,Neoclassical,3,E1
+E14,Austrian • Evolutionary • Institutional,3,E1
+E16,Social Accounting Matrix,3,E1
+E17,Forecasting and Simulation: Models and Applications,3,E1
+E19,Other,3,E1
 E2,"Consumption, Saving, Production, Investment, Labor Markets, and Informal Economy",2,E
+E20,General,3,E2
+E21,Consumption • Saving • Wealth,3,E2
+E22,Investment • Capital • Intangible Capital • Capacity,3,E2
+E23,Production,3,E2
+E24,Employment • Unemployment • Wages • Intergenerational Income Distribution • Aggregate Human Capital • Aggregate Labor Productivity,3,E2
+E25,Aggregate Factor Income Distribution,3,E2
+E26,Informal Economy • Underground Economy,3,E2
+E27,Forecasting and Simulation: Models and Applications,3,E2
+E29,Other,3,E2
 E3,"Prices, Business Fluctuations, and Cycles",2,E
+E30,General,3,E3
+E31,Price Level • Inflation • Deflation,3,E3
+E32,Business Fluctuations • Cycles,3,E3
+E37,Forecasting and Simulation: Models and Applications,3,E3
+E39,Other,3,E3
+E4,Money and Interest Rates,2,E
+E40,General,3,E4
+E41,Demand for Money,3,E4
+E42,Monetary Systems • Standards • Regimes • Government and the Monetary System • Payment Systems,3,E4
+E43,"Interest Rates: Determination, Term Structure, and Effects",3,E4
+E44,Financial Markets and the Macroeconomy,3,E4
+E47,Forecasting and Simulation: Models and Applications,3,E4
+E49,Other,3,E4
 E5,"Monetary Policy, Central Banking, and the Supply of Money and Credit",2,E
+E50,General,3,E5
+E51,Money Supply • Credit • Money Multipliers,3,E5
+E52,Monetary Policy,3,E5
+E58,Central Banks and Their Policies,3,E5
+E59,Other,3,E5
 E6,"Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook",2,E
+E60,General,3,E6
+E61,Policy Objectives • Policy Designs and Consistency • Policy Coordination,3,E6
+E62,Fiscal Policy • Modern Monetary Theory,3,E6
+E63,Comparative or Joint Analysis of Fiscal and Monetary Policy • Stabilization • Treasury Policy,3,E6
+E64,Incomes Policy • Price Policy,3,E6
+E65,Studies of Particular Policy Episodes,3,E6
+E66,General Outlook and Conditions,3,E6
+E69,Other,3,E6
+E7,Macro-Based Behavioral Economics,2,E
+E70,General,3,E7
+E71,"Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on the Macro Economy",3,E7
 F,International Economics,1,
+F00,General,3,F
+F01,Global Outlook,3,F
+F02,International Economic Order and Integration,3,F
 F1,Trade,2,F
+F10,General,3,F1
+F11,Neoclassical Models of Trade,3,F1
+F12,Models of Trade with Imperfect Competition and Scale Economies • Fragmentation,3,F1
+F13,Trade Policy • International Trade Organizations,3,F1
+F14,Empirical Studies of Trade,3,F1
+F15,Economic Integration,3,F1
+F16,Trade and Labor Market Interactions,3,F1
+F17,Trade Forecasting and Simulation,3,F1
+F18,Trade and Environment,3,F1
+F19,Other,3,F1
 F2,International Factor Movements and International Business,2,F
+F20,General,3,F2
+F21,International Investment • Long-Term Capital Movements,3,F2
+F22,International Migration,3,F2
+F23,Multinational Firms • International Business,3,F2
+F24,Remittances,3,F2
+F29,Other,3,F2
 F3,International Finance,2,F
+F30,General,3,F3
+F31,Foreign Exchange,3,F3
+F32,Current Account Adjustment • Short-Term Capital Movements,3,F3
+F33,International Monetary Arrangements and Institutions,3,F3
+F34,International Lending and Debt Problems,3,F3
+F35,Foreign Aid,3,F3
+F36,Financial Aspects of Economic Integration,3,F3
+F37,International Finance Forecasting and Simulation: Models and Applications,3,F3
+F38,International Financial Policy: Financial Transactions Tax; Capital Controls,3,F3
+F39,Other,3,F3
 F4,Macroeconomic Aspects of International Trade and Finance,2,F
+F40,General,3,F4
+F41,Open Economy Macroeconomics,3,F4
+F42,International Policy Coordination and Transmission,3,F4
+F43,Economic Growth of Open Economies,3,F4
+F44,International Business Cycles,3,F4
+F45,Macroeconomic Issues of Monetary Unions,3,F4
+F47,Forecasting and Simulation: Models and Applications,3,F4
+F49,Other,3,F4
+F5,"International Relations, National Security, and International Political Economy",2,F
+F50,General,3,F5
+F51,International Conflicts • Negotiations • Sanctions,3,F5
+F52,National Security • Economic Nationalism,3,F5
+F53,International Agreements and Observance • International Organizations,3,F5
+F54,Colonialism • Imperialism • Postcolonialism,3,F5
+F55,International Institutional Arrangements,3,F5
+F59,Other,3,F5
+F6,Economic Impacts of Globalization,2,F
+F60,General,3,F6
+F61,Microeconomic Impacts,3,F6
+F62,Macroeconomic Impacts,3,F6
+F63,Economic Development,3,F6
+F64,Environment,3,F6
+F65,Finance,3,F6
+F66,Labor,3,F6
+F68,Policy,3,F6
+F69,Other,3,F6
 G,Financial Economics,1,
+G00,General,3,G
+G01,Financial Crises,3,G
+G1,General Financial Markets,2,G
+G10,General,3,G1
+G11,Portfolio Choice • Investment Decisions,3,G1
+G12,Asset Pricing • Trading Volume • Bond Interest Rates,3,G1
+G13,Contingent Pricing • Futures Pricing,3,G1
+G14,Information and Market Efficiency • Event Studies • Insider Trading,3,G1
+G15,International Financial Markets,3,G1
+G17,Financial Forecasting and Simulation,3,G1
+G18,Government Policy and Regulation,3,G1
+G19,Other,3,G1
 G2,Financial Institutions and Services,2,G
+G20,General,3,G2
+G21,Banks • Depository Institutions • Micro Finance Institutions • Mortgages,3,G2
+G22,Insurance • Insurance Companies • Actuarial Studies,3,G2
+G23,Non-bank Financial Institutions • Financial Instruments • Institutional Investors,3,G2
+G24,Investment Banking • Venture Capital • Brokerage • Ratings and Ratings Agencies,3,G2
+G28,Government Policy and Regulation,3,G2
+G29,Other,3,G2
 G3,Corporate Finance and Governance,2,G
+G30,General,3,G3
+G31,Capital Budgeting • Fixed Investment and Inventory Studies • Capacity,3,G3
+G32,Financing Policy • Financial Risk and Risk Management • Capital and Ownership Structure • Value of Firms • Goodwill,3,G3
+G33,Bankruptcy • Liquidation,3,G3
+G34,Mergers • Acquisitions • Restructuring • Corporate Governance,3,G3
+G35,Payout Policy,3,G3
+G38,Government Policy and Regulation,3,G3
+G39,Other,3,G3
+G4,Behavioral Finance,2,G
+G40,General,3,G4
+G41,"Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on Decision Making in Financial Markets",3,G4
+G5,Household Finance,2,G
+G50,General,3,G5
+G51,"Household Saving, Borrowing, Debt, and Wealth",3,G5
+G52,Insurance,3,G5
+G53,Financial Literacy,3,G5
+G59,Other,3,G5
 H,Public Economics,1,
+H00,General,3,H
+H1,Structure and Scope of Government,2,H
+H10,General,3,H1
+H11,"Structure, Scope, and Performance of Government",3,H1
+H12,Crisis Management,3,H1
+H13,Economics of Eminent Domain • Expropriation • Nationalization,3,H1
+H19,Other,3,H1
 H2,"Taxation, Subsidies, and Revenue",2,H
-H21,Taxation and Subsidies: Efficiency; Optimal Taxation,3,H2
-H23,Externalities; Redistributive Effects; Environmental Taxes and Subsidies,3,H2
+H20,General,3,H2
+H21,Efficiency • Optimal Taxation,3,H2
+H22,Incidence,3,H2
+H23,Externalities • Redistributive Effects • Environmental Taxes and Subsidies,3,H2
+H24,Personal Income and Other Nonbusiness Taxes and Subsidies,3,H2
+H25,Business Taxes and Subsidies,3,H2
+H26,Tax Evasion and Avoidance,3,H2
+H27,Other Sources of Revenue,3,H2
+H29,Other,3,H2
+H3,Fiscal Policies and Behavior of Economic Agents,2,H
+H30,General,3,H3
+H31,Household,3,H3
+H32,Firm,3,H3
+H39,Other,3,H3
 H4,Publicly Provided Goods,2,H
+H40,General,3,H4
+H41,Public Goods,3,H4
+H42,Publicly Provided Private Goods,3,H4
+H43,Project Evaluation • Social Discount Rate,3,H4
+H44,Publicly Provided Goods: Mixed Markets,3,H4
+H49,Other,3,H4
 H5,National Government Expenditures and Related Policies,2,H
-H52,National Government Expenditures and Education,3,H5
-H54,National Government Expenditures and Infrastructure,3,H5
+H50,General,3,H5
+H51,Government Expenditures and Health,3,H5
+H52,Government Expenditures and Education,3,H5
+H53,Government Expenditures and Welfare Programs,3,H5
+H54,Infrastructures • Other Public Investment and Capital Stock,3,H5
+H55,Social Security and Public Pensions,3,H5
+H56,National Security and War,3,H5
+H57,Procurement,3,H5
+H59,Other,3,H5
 H6,"National Budget, Deficit, and Debt",2,H
-H7,State and Local Government; Intergovernmental Relations,2,H
+H60,General,3,H6
+H61,Budget • Budget Systems,3,H6
+H62,Deficit • Surplus,3,H6
+H63,Debt • Debt Management • Sovereign Debt,3,H6
+H68,"Forecasts of Budgets, Deficits, and Debt",3,H6
+H69,Other,3,H6
+H7,State and Local Government • Intergovernmental Relations,2,H
+H70,General,3,H7
+H71,"State and Local Taxation, Subsidies, and Revenue",3,H7
+H72,State and Local Budget and Expenditures,3,H7
+H73,Interjurisdictional Differentials and Their Effects,3,H7
+H74,State and Local Borrowing,3,H7
+H75,State and Local Government: Health • Education • Welfare • Public Pensions,3,H7
+H76,State and Local Government: Other Expenditure Categories,3,H7
+H77,Intergovernmental Relations • Federalism • Secession,3,H7
+H79,Other,3,H7
+H8,Miscellaneous Issues,2,H
+H80,General,3,H8
+H81,Governmental Loans • Loan Guarantees • Credits • Grants • Bailouts,3,H8
+H82,Governmental Property,3,H8
+H83,Public Administration • Public Sector Accounting and Audits,3,H8
+H84,Disaster Aid,3,H8
+H87,International Fiscal Issues • International Public Goods,3,H8
+H89,Other,3,H8
 I,"Health, Education, and Welfare",1,
+I00,General,3,I
 I1,Health,2,I
+I10,General,3,I1
+I11,Analysis of Health Care Markets,3,I1
+I12,Health Behavior,3,I1
+I13,"Health Insurance, Public and Private",3,I1
+I14,Health and Inequality,3,I1
+I15,Health and Economic Development,3,I1
+I18,Government Policy • Regulation • Public Health,3,I1
+I19,Other,3,I1
 I2,Education and Research Institutions,2,I
+I20,General,3,I2
 I21,Analysis of Education,3,I2
-I22,Educational Finance; Financial Aid,3,I2
+I22,Educational Finance • Financial Aid,3,I2
+I23,Higher Education • Research Institutions,3,I2
+I24,Education and Inequality,3,I2
+I25,Education and Economic Development,3,I2
 I26,Returns to Education,3,I2
-I28,Education: Government Policy,3,I2
+I28,Government Policy,3,I2
+I29,Other,3,I2
 I3,"Welfare, Well-Being, and Poverty",2,I
-I38,"Welfare, Well-Being, and Poverty: Government Programs; Provision and Effects of Welfare Programs",3,I3
+I30,General,3,I3
+I31,"General Welfare, Well-Being",3,I3
+I32,Measurement and Analysis of Poverty,3,I3
+I38,Government Policy • Provision and Effects of Welfare Programs,3,I3
+I39,Other,3,I3
 J,Labor and Demographic Economics,1,
+J00,General,3,J
+J01,Labor Economics: General,3,J
+J08,Labor Economics Policies,3,J
 J1,Demographic Economics,2,J
+J10,General,3,J1
+J11,"Demographic Trends, Macroeconomic Effects, and Forecasts",3,J1
+J12,Marriage • Marital Dissolution • Family Structure • Domestic Abuse,3,J1
+J13,Fertility • Family Planning • Child Care • Children • Youth,3,J1
+J14,Economics of the Elderly • Economics of Disability • Non-Labor Market Discrimination,3,J1
+J15,"Economics of Minorities, Races, Indigenous Peoples, and Immigrants • Non-labor Discrimination",3,J1
+J16,Economics of Gender • Non-labor Discrimination,3,J1
+J17,Value of Life • Forgone Income,3,J1
+J18,Public Policy,3,J1
+J19,Other,3,J1
 J2,Demand and Supply of Labor,2,J
-J24,Human Capital; Skills; Occupational Choice; Labor Productivity,3,J2
+J20,General,3,J2
+J21,"Labor Force and Employment, Size, and Structure",3,J2
+J22,Time Allocation and Labor Supply,3,J2
+J23,Labor Demand,3,J2
+J24,Human Capital • Skills • Occupational Choice • Labor Productivity,3,J2
+J26,Retirement • Retirement Policies,3,J2
+J28,Safety • Job Satisfaction • Related Public Policy,3,J2
+J29,Other,3,J2
 J3,"Wages, Compensation, and Labor Costs",2,J
-J38,"Wages, Compensation, and Labor Costs: Public Policy",3,J3
+J30,General,3,J3
+J31,Wage Level and Structure • Wage Differentials,3,J3
+J32,Nonwage Labor Costs and Benefits • Retirement Plans • Private Pensions,3,J3
+J33,Compensation Packages • Payment Methods,3,J3
+J38,Public Policy,3,J3
+J39,Other,3,J3
+J4,Particular Labor Markets,2,J
+J40,General,3,J4
+J41,Labor Contracts,3,J4
+J42,Monopsony • Segmented Labor Markets,3,J4
+J43,Agricultural Labor Markets,3,J4
+J44,Professional Labor Markets • Occupational Licensing,3,J4
+J45,Public Sector Labor Markets,3,J4
+J46,Informal Labor Markets,3,J4
+J47,Coercive Labor Markets,3,J4
+J48,Public Policy,3,J4
+J49,Other,3,J4
+J5,"Labor–Management Relations, Trade Unions, and Collective Bargaining",2,J
+J50,General,3,J5
+J51,"Trade Unions: Objectives, Structure, and Effects",3,J5
+J52,"Dispute Resolution: Strikes, Arbitration, and Mediation • Collective Bargaining",3,J5
+J53,Labor–Management Relations • Industrial Jurisprudence,3,J5
+J54,Producer Cooperatives • Labor Managed Firms • Employee Ownership,3,J5
+J58,Public Policy,3,J5
+J59,Other,3,J5
 J6,"Mobility, Unemployment, Vacancies, and Immigrant Workers",2,J
-J61,Geographic Labor Mobility; Immigrant Workers,3,J6
-J68,"Mobility, Unemployment, Vacancies, and Immigrant Workers: Public Policy",3,J6
+J60,General,3,J6
+J61,Geographic Labor Mobility • Immigrant Workers,3,J6
+J62,"Job, Occupational, and Intergenerational Mobility",3,J6
+J63,Turnover • Vacancies • Layoffs,3,J6
+J64,"Unemployment: Models, Duration, Incidence, and Job Search",3,J6
+J65,Unemployment Insurance • Severance Pay • Plant Closings,3,J6
+J68,Public Policy,3,J6
+J69,Other,3,J6
+J7,Labor Discrimination,2,J
+J70,General,3,J7
+J71,Discrimination,3,J7
+J78,Public Policy,3,J7
+J79,Other,3,J7
 J8,Labor Standards: National and International,2,J
+J80,General,3,J8
+J81,Working Conditions,3,J8
+J82,Labor Force Composition,3,J8
+J83,Workers' Rights,3,J8
+J88,Public Policy,3,J8
+J89,Other,3,J8
 K,Law and Economics,1,
+K00,General,3,K
+K1,Basic Areas of Law,2,K
+K10,General,3,K1
+K11,Property Law,3,K1
+K12,Contract Law,3,K1
+K13,Tort Law and Product Liability • Forensic Economics,3,K1
+K14,Criminal Law,3,K1
+K15,Civil Law • Common Law,3,K1
+K16,Election Law,3,K1
+K19,Other,3,K1
 K2,Regulation and Business Law,2,K
+K20,General,3,K2
+K21,Antitrust Law,3,K2
+K22,Business and Securities Law,3,K2
+K23,Regulated Industries and Administrative Law,3,K2
+K24,Cyber Law,3,K2
+K25,Real Estate Law,3,K2
+K29,Other,3,K2
+K3,Other Substantive Areas of Law,2,K
+K30,General,3,K3
+K31,Labor Law,3,K3
+K32,"Energy, Environmental, Health, and Safety Law",3,K3
+K33,International Law,3,K3
+K34,Tax Law,3,K3
+K35,Personal Bankruptcy Law,3,K3
+K36,Family and Personal Law,3,K3
+K37,Immigration Law,3,K3
+K38,Human Rights Law • Gender Law • Animal Rights Law,3,K3
+K39,Other,3,K3
+K4,"Legal Procedure, the Legal System, and Illegal Behavior",2,K
+K40,General,3,K4
+K41,Litigation Process,3,K4
+K42,Illegal Behavior and the Enforcement of Law,3,K4
+K49,Other,3,K4
 L,Industrial Organization,1,
+L00,General,3,L
 L1,"Market Structure, Firm Strategy, and Market Performance",2,L
+L10,General,3,L1
+L11,"Production, Pricing, and Market Structure • Size Distribution of Firms",3,L1
+L12,Monopoly • Monopolization Strategies,3,L1
+L13,Oligopoly and Other Imperfect Markets,3,L1
+L14,Transactional Relationships • Contracts and Reputation • Networks,3,L1
+L15,Information and Product Quality • Standardization and Compatibility,3,L1
+L16,Industrial Organization and Macroeconomics: Industrial Structure and Structural Change • Industrial Price Indices,3,L1
+L17,Open Source Products and Markets,3,L1
+L19,Other,3,L1
+L2,"Firm Objectives, Organization, and Behavior",2,L
+L20,General,3,L2
+L21,Business Objectives of the Firm,3,L2
+L22,Firm Organization and Market Structure,3,L2
+L23,Organization of Production,3,L2
+L24,Contracting Out • Joint Ventures • Technology Licensing,3,L2
+L25,"Firm Performance: Size, Diversification, and Scope",3,L2
+L26,Entrepreneurship,3,L2
+L29,Other,3,L2
+L3,Nonprofit Organizations and Public Enterprise,2,L
+L30,General,3,L3
+L31,Nonprofit Institutions • NGOs • Social Entrepreneurship,3,L3
+L32,Public Enterprises • Public-Private Enterprises,3,L3
+L33,Comparison of Public and Private Enterprises and Nonprofit Institutions • Privatization • Contracting Out,3,L3
+L38,Public Policy,3,L3
+L39,Other,3,L3
 L4,Antitrust Issues and Policies,2,L
+L40,General,3,L4
+L41,Monopolization • Horizontal Anticompetitive Practices,3,L4
+L42,Vertical Restraints • Resale Price Maintenance • Quantity Discounts,3,L4
+L43,Legal Monopolies and Regulation or Deregulation,3,L4
+L44,"Antitrust Policy and Public Enterprises, Nonprofit Institutions, and Professional Organizations",3,L4
+L49,Other,3,L4
 L5,Regulation and Industrial Policy,2,L
-L52,Industrial Policy; Sectoral Planning Methods,3,L5
+L50,General,3,L5
+L51,Economics of Regulation,3,L5
+L52,Industrial Policy • Sectoral Planning Methods,3,L5
+L53,Enterprise Policy,3,L5
+L59,Other,3,L5
+L6,Industry Studies: Manufacturing,2,L
+L60,General,3,L6
+L61,Metals and Metal Products • Cement • Glass • Ceramics,3,L6
+L62,Automobiles • Other Transportation Equipment • Related Parts and Equipment,3,L6
+L63,Microelectronics • Computers • Communications Equipment,3,L6
+L64,Other Machinery • Business Equipment • Armaments,3,L6
+L65,Chemicals • Rubber • Drugs • Biotechnology • Plastics,3,L6
+L66,Food • Beverages • Cosmetics • Tobacco • Wine and Spirits,3,L6
+L67,"Other Consumer Nondurables: Clothing, Textiles, Shoes, and Leather Goods; Household Goods; Sports Equipment",3,L6
+L68,Appliances • Furniture • Other Consumer Durables,3,L6
+L69,Other,3,L6
+L7,Industry Studies: Primary Products and Construction,2,L
+L70,General,3,L7
+L71,"Mining, Extraction, and Refining: Hydrocarbon Fuels",3,L7
+L72,"Mining, Extraction, and Refining: Other Nonrenewable Resources",3,L7
+L73,Forest Products,3,L7
+L74,Construction,3,L7
+L78,Government Policy,3,L7
+L79,Other,3,L7
+L8,Industry Studies: Services,2,L
+L80,General,3,L8
+L81,Retail and Wholesale Trade • e-Commerce,3,L8
+L82,Entertainment • Media,3,L8
+L83,Sports • Gambling • Restaurants • Recreation • Tourism,3,L8
+L84,"Personal, Professional, and Business Services",3,L8
+L85,Real Estate Services,3,L8
+L86,Information and Internet Services • Computer Software,3,L8
+L87,Postal and Delivery Services,3,L8
+L88,Government Policy,3,L8
+L89,Other,3,L8
 L9,Industry Studies: Transportation and Utilities,2,L
-M,Business Administration and Business Economics; Marketing; Accounting; Personnel Economics,1,
+L90,General,3,L9
+L91,Transportation: General,3,L9
+L92,Railroads and Other Surface Transportation,3,L9
+L93,Air Transportation,3,L9
+L94,Electric Utilities,3,L9
+L95,Gas Utilities • Pipelines • Water Utilities,3,L9
+L96,Telecommunications,3,L9
+L97,Utilities: General,3,L9
+L98,Government Policy,3,L9
+L99,Other,3,L9
+M,Business Administration and Business Economics • Marketing • Accounting • Personnel Economics,1,
+M00,General,3,M
+M1,Business Administration,2,M
+M10,General,3,M1
+M11,Production Management,3,M1
+M12,Personnel Management • Executives; Executive Compensation,3,M1
+M13,New Firms • Startups,3,M1
+M14,Corporate Culture • Diversity • Social Responsibility,3,M1
+M15,IT Management,3,M1
+M16,International Business Administration,3,M1
+M19,Other,3,M1
+M2,Business Economics,2,M
+M20,General,3,M2
+M21,Business Economics,3,M2
+M29,Other,3,M2
+M3,Marketing and Advertising,2,M
+M30,General,3,M3
+M31,Marketing,3,M3
+M37,Advertising,3,M3
+M38,Government Policy and Regulation,3,M3
+M39,Other,3,M3
+M4,Accounting and Auditing,2,M
+M40,General,3,M4
+M41,Accounting,3,M4
+M42,Auditing,3,M4
+M48,Government Policy and Regulation,3,M4
+M49,Other,3,M4
+M5,Personnel Economics,2,M
+M50,General,3,M5
+M51,Firm Employment Decisions • Promotions,3,M5
+M52,Compensation and Compensation Methods and Their Effects,3,M5
+M53,Training,3,M5
+M54,Labor Management,3,M5
+M55,Labor Contracting Devices,3,M5
+M59,Other,3,M5
 N,Economic History,1,
+N00,General,3,N
+N01,Development of the Discipline: Historiographical; Sources and Methods,3,N
+N1,Macroeconomics and Monetary Economics • Industrial Structure • Growth • Fluctuations,2,N
+N10,"General, International, or Comparative",3,N1
+N11,U.S. • Canada: Pre-1913,3,N1
+N12,U.S. • Canada: 1913–,3,N1
+N13,Europe: Pre-1913,3,N1
+N14,Europe: 1913–,3,N1
+N15,Asia including Middle East,3,N1
+N16,Latin America • Caribbean,3,N1
+N17,Africa • Oceania,3,N1
+N2,Financial Markets and Institutions,2,N
+N20,"General, International, or Comparative",3,N2
+N21,U.S. • Canada: Pre-1913,3,N2
+N22,U.S. • Canada: 1913–,3,N2
+N23,Europe: Pre-1913,3,N2
+N24,Europe: 1913–,3,N2
+N25,Asia including Middle East,3,N2
+N26,Latin America • Caribbean,3,N2
+N27,Africa • Oceania,3,N2
+N3,"Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy",2,N
+N30,"General, International, or Comparative",3,N3
+N31,U.S. • Canada: Pre-1913,3,N3
+N32,U.S. • Canada: 1913-,3,N3
+N33,Europe: Pre-1913,3,N3
+N34,Europe: 1913-,3,N3
+N35,Asia including Middle East,3,N3
+N36,Latin America • Caribbean,3,N3
+N37,Africa • Oceania,3,N3
+N4,"Government, War, Law, International Relations, and Regulation",2,N
+N40,"General, International, or Comparative",3,N4
+N41,U.S. • Canada: Pre-1913,3,N4
+N42,U.S. • Canada: 1913–,3,N4
+N43,Europe: Pre-1913,3,N4
+N44,Europe: 1913–,3,N4
+N45,Asia including Middle East,3,N4
+N46,Latin America • Caribbean,3,N4
+N47,Africa • Oceania,3,N4
+N5,"Agriculture, Natural Resources, Environment, and Extractive Industries",2,N
+N50,"General, International, or Comparative",3,N5
+N51,U.S. • Canada: Pre-1913,3,N5
+N52,U.S. • Canada: 1913–,3,N5
+N53,Europe: Pre-1913,3,N5
+N54,Europe: 1913–,3,N5
+N55,Asia including Middle East,3,N5
+N56,Latin America • Caribbean,3,N5
+N57,Africa • Oceania,3,N5
+N6,Manufacturing and Construction,2,N
+N60,"General, International, or Comparative",3,N6
+N61,U.S. • Canada: Pre-1913,3,N6
+N62,U.S. • Canada: 1913–,3,N6
+N63,Europe: Pre-1913,3,N6
+N64,Europe: 1913–,3,N6
+N65,Asia including Middle East,3,N6
+N66,Latin America • Caribbean,3,N6
+N67,Africa • Oceania,3,N6
+N7,"Transport, Trade, Energy, Technology, and Other Services",2,N
+N70,"General, International, or Comparative",3,N7
+N71,U.S. • Canada: Pre-1913,3,N7
+N72,U.S. • Canada: 1913–,3,N7
+N73,Europe: Pre-1913,3,N7
+N74,Europe: 1913–,3,N7
+N75,Asia including Middle East,3,N7
+N76,Latin America • Caribbean,3,N7
+N77,Africa • Oceania,3,N7
+N8,Micro-Business History,2,N
+N80,"General, International, or Comparative",3,N8
+N81,U.S. • Canada: Pre-1913,3,N8
+N82,U.S. • Canada: 1913–,3,N8
+N83,Europe: Pre-1913,3,N8
+N84,Europe: 1913–,3,N8
+N85,Asia including Middle East,3,N8
+N86,Latin America • Caribbean,3,N8
+N87,Africa • Oceania,3,N8
+N9,Regional and Urban History,2,N
+N90,"General, International, or Comparative",3,N9
+N91,U.S. • Canada: Pre-1913,3,N9
+N92,U.S. • Canada: 1913–,3,N9
+N93,Europe: Pre-1913,3,N9
+N94,Europe: 1913–,3,N9
+N95,Asia including Middle East,3,N9
+N96,Latin America • Caribbean,3,N9
+N97,Africa • Oceania,3,N9
 O,"Economic Development, Innovation, Technological Change, and Growth",1,
-O3,Innovation; Research and Development; Technological Change; Intellectual Property Rights,2,O
+O1,Economic Development,2,O
+O10,General,3,O1
+O11,Macroeconomic Analyses of Economic Development,3,O1
+O12,Microeconomic Analyses of Economic Development,3,O1
+O13,Agriculture • Natural Resources • Energy • Environment • Other Primary Products,3,O1
+O14,Industrialization • Manufacturing and Service Industries • Choice of Technology,3,O1
+O15,Human Resources • Human Development • Income Distribution • Migration,3,O1
+O16,Financial Markets • Saving and Capital Investment • Corporate Finance and Governance,3,O1
+O17,Formal and Informal Sectors • Shadow Economy • Institutional Arrangements,3,O1
+O18,"Urban, Rural, Regional, and Transportation Analysis • Housing • Infrastructure",3,O1
+O19,International Linkages to Development • Role of International Organizations,3,O1
+O2,Development Planning and Policy,2,O
+O20,General,3,O2
+O21,Planning Models • Planning Policy,3,O2
+O22,Project Analysis,3,O2
+O23,Fiscal and Monetary Policy in Development,3,O2
+O24,Trade Policy • Factor Movement Policy • Foreign Exchange Policy,3,O2
+O25,Industrial Policy,3,O2
+O29,Other,3,O2
+O3,Innovation • Research and Development • Technological Change • Intellectual Property Rights,2,O
+O30,General,3,O3
 O31,Innovation and Invention: Processes and Incentives,3,O3
-O38,Technological Change: Government Policy,3,O3
+O32,Management of Technological Innovation and R&D,3,O3
+O33,Technological Change: Choices and Consequences • Diffusion Processes,3,O3
+O34,Intellectual Property and Intellectual Capital,3,O3
+O35,Social Innovation,3,O3
+O36,Open Innovation,3,O3
+O38,Government Policy,3,O3
+O39,Other,3,O3
 O4,Economic Growth and Aggregate Productivity,2,O
-P,Economic Systems,1,
-Q,Agricultural and Natural Resource Economics; Environmental and Ecological Economics,1,
+O40,General,3,O4
+O41,"One, Two, and Multisector Growth Models",3,O4
+O42,Monetary Growth Models,3,O4
+O43,Institutions and Growth,3,O4
+O44,Environment and Growth,3,O4
+O47,Empirical Studies of Economic Growth • Aggregate Productivity • Cross-Country Output Convergence,3,O4
+O49,Other,3,O4
+O5,Economywide Country Studies,2,O
+O50,General,3,O5
+O51,U.S. • Canada,3,O5
+O52,Europe,3,O5
+O53,Asia including Middle East,3,O5
+O54,Latin America • Caribbean,3,O5
+O55,Africa,3,O5
+O56,Oceania,3,O5
+O57,Comparative Studies of Countries,3,O5
+P,Political Economy and Comparative Economic Systems,1,
+P00,General,3,P
+P1,Capitalist Economies,2,P
+P10,General,3,P1
+P11,"Planning, Coordination, and Reform",3,P1
+P12,Capitalist Enterprises,3,P1
+P13,Cooperative Enterprises,3,P1
+P14,Property Rights,3,P1
+P16,Capitalist Institutions • Welfare State,3,P1
+P17,Performance and Prospects,3,P1
+P18,Energy • Environment,3,P1
+P19,Other,3,P1
+P2,Socialist and Transition Economies,2,P
+P20,General,3,P2
+P21,"Planning, Coordination, and Reform",3,P2
+P22,Prices,3,P2
+P23,Factor and Product Markets • Industry Studies • Population,3,P2
+P24,"National Income, Product, and Expenditure • Money • Inflation",3,P2
+P25,"Urban, Rural, and Regional Economics",3,P2
+P26,Property Rights,3,P2
+P27,Performance and Prospects,3,P2
+P28,Natural Resources • Energy • Environment,3,P2
+P29,Other,3,P2
+P3,Socialist Institutions and Their Transitions,2,P
+P30,General,3,P3
+P31,Socialist Enterprises and Their Transitions,3,P3
+P32,Collectives • Communes • Agriculture,3,P3
+P33,"International Trade, Finance, Investment, Relations, and Aid",3,P3
+P34,Financial Economics,3,P3
+P35,Public Economics,3,P3
+P36,"Consumer Economics • Health • Education and Training • Welfare, Income, Wealth, and Poverty",3,P3
+P37,Legal Institutions • Illegal Behavior,3,P3
+P39,Other,3,P3
+P4,Other Economic Systems,2,P
+P40,General,3,P4
+P41,"Planning, Coordination, and Reform",3,P4
+P42,Productive Enterprises • Factor and Product Markets • Prices • Population,3,P4
+P43,Public Economics • Financial Economics,3,P4
+P44,"National Income, Product, and Expenditure • Money • Inflation",3,P4
+P45,"International Trade, Finance, Investment, and Aid",3,P4
+P46,"Consumer Economics • Health • Education and Training • Welfare, Income, Wealth, and Poverty",3,P4
+P47,Performance and Prospects,3,P4
+P48,Legal Institutions • Property Rights • Natural Resources • Energy • Environment • Regional Studies,3,P4
+P49,Other,3,P4
+P5,Comparative Economic Systems,2,P
+P50,General,3,P5
+P51,Comparative Analysis of Economic Systems,3,P5
+P52,Comparative Studies of Particular Economies,3,P5
+P59,Other,3,P5
+Q,Agricultural and Natural Resource Economics • Environmental and Ecological Economics,1,
+Q00,General,3,Q
+Q01,Sustainable Development,3,Q
+Q02,Commodity Markets,3,Q
 Q1,Agriculture,2,Q
+Q10,General,3,Q1
+Q11,Aggregate Supply and Demand Analysis • Prices,3,Q1
+Q12,"Micro Analysis of Farm Firms, Farm Households, and Farm Input Markets",3,Q1
+Q13,Agricultural Markets and Marketing • Cooperatives • Agribusiness,3,Q1
+Q14,Agricultural Finance,3,Q1
+Q15,Land Ownership and Tenure • Land Reform • Land Use • Irrigation • Agriculture and Environment,3,Q1
+Q16,R&D • Agricultural Technology • Biofuels • Agricultural Extension Services,3,Q1
+Q17,Agriculture in International Trade,3,Q1
+Q18,Agricultural Policy • Food Policy • Animal Welfare Policy,3,Q1
+Q19,Other,3,Q1
 Q2,Renewable Resources and Conservation,2,Q
+Q20,General,3,Q2
+Q21,Demand and Supply • Prices,3,Q2
+Q22,Fishery • Aquaculture,3,Q2
+Q23,Forestry,3,Q2
+Q24,Land,3,Q2
+Q25,Water,3,Q2
+Q26,Recreational Aspects of Natural Resources,3,Q2
+Q27,Issues in International Trade,3,Q2
+Q28,Government Policy,3,Q2
+Q29,Other,3,Q2
 Q3,Nonrenewable Resources and Conservation,2,Q
+Q30,General,3,Q3
+Q31,Demand and Supply • Prices,3,Q3
+Q32,Exhaustible Resources and Economic Development,3,Q3
+Q33,Resource Booms,3,Q3
+Q34,Natural Resources and Domestic and International Conflicts,3,Q3
+Q35,Hydrocarbon Resources,3,Q3
+Q37,Issues in International Trade,3,Q3
+Q38,Government Policy,3,Q3
+Q39,Other,3,Q3
 Q4,Energy,2,Q
-Q48,Energy: Government Policy,3,Q4
+Q40,General,3,Q4
+Q41,Demand and Supply • Prices,3,Q4
+Q42,Alternative Energy Sources,3,Q4
+Q43,Energy and the Macroeconomy,3,Q4
+Q47,Energy Forecasting,3,Q4
+Q48,Government Policy,3,Q4
+Q49,Other,3,Q4
 Q5,Environmental Economics,2,Q
-Q54,Climate; Natural Disasters and Their Management; Global Warming,3,Q5
-Q58,Environmental Economics: Government Policy,3,Q5
+Q50,General,3,Q5
+Q51,Valuation of Environmental Effects,3,Q5
+Q52,Pollution Control Adoption and Costs • Distributional Effects • Employment Effects,3,Q5
+Q53,Air Pollution • Water Pollution • Noise • Hazardous Waste • Solid Waste • Recycling,3,Q5
+Q54,Climate • Natural Disasters and Their Management • Global Warming,3,Q5
+Q55,Technological Innovation,3,Q5
+Q56,Environment and Development • Environment and Trade • Sustainability • Environmental Accounts and Accounting • Environmental Equity • Population Growth,3,Q5
+Q57,Ecological Economics: Ecosystem Services • Biodiversity Conservation • Bioeconomics • Industrial Ecology,3,Q5
+Q58,Government Policy,3,Q5
+Q59,Other,3,Q5
 R,"Urban, Rural, Regional, Real Estate, and Transportation Economics",1,
+R00,General,3,R
+R1,General Regional Economics,2,R
+R10,General,3,R1
+R11,"Regional Economic Activity: Growth, Development, Environmental Issues, and Changes",3,R1
+R12,Size and Spatial Distributions of Regional Economic Activity,3,R1
+R13,General Equilibrium and Welfare Economic Analysis of Regional Economies,3,R1
+R14,Land Use Patterns,3,R1
+R15,Econometric and Input–Output Models • Other Models,3,R1
+R19,Other,3,R1
 R2,Household Analysis,2,R
+R20,General,3,R2
+R21,Housing Demand,3,R2
+R22,Other Demand,3,R2
+R23,Regional Migration • Regional Labor Markets • Population • Neighborhood Characteristics,3,R2
+R28,Government Policy,3,R2
+R29,Other,3,R2
 R3,"Real Estate Markets, Spatial Production Analysis, and Firm Location",2,R
+R30,General,3,R3
+R31,Housing Supply and Markets,3,R3
+R32,Other Spatial Production and Pricing Analysis,3,R3
+R33,Nonagricultural and Nonresidential Real Estate Markets,3,R3
+R38,Government Policy,3,R3
+R39,Other,3,R3
 R4,Transportation Economics,2,R
-R41,"Transportation: Demand, Supply, and Congestion; Travel Time; Safety and Accidents",3,R4
-R48,Transportation Economics: Government Pricing and Policy,3,R4
+R40,General,3,R4
+R41,"Transportation: Demand, Supply, and Congestion • Travel Time • Safety and Accidents • Transportation Noise",3,R4
+R42,Government and Private Investment Analysis • Road Maintenance • Transportation Planning,3,R4
+R48,Government Pricing and Policy,3,R4
+R49,Other,3,R4
 R5,Regional Government Analysis,2,R
+R50,General,3,R5
+R51,Finance in Urban and Rural Economies,3,R5
+R52,Land Use and Other Regulations,3,R5
+R53,Public Facility Location Analysis • Public Investment and Capital Stock,3,R5
+R58,Regional Development Planning and Policy,3,R5
+R59,Other,3,R5
 Y,Miscellaneous Categories,1,
+Y1,Data: Tables and Charts,2,Y
+Y10,Data: Tables and Charts,3,Y1
+Y2,Introductory Material,2,Y
+Y20,Introductory Material,3,Y2
+Y3,Book Reviews (unclassified),2,Y
+Y30,Book Reviews (unclassified),3,Y3
+Y4,Dissertations (unclassified),2,Y
+Y40,Dissertations (unclassified),3,Y4
+Y5,Further Reading (unclassified),2,Y
+Y50,Further Reading (unclassified),3,Y5
+Y6,Excerpts,2,Y
+Y60,Excerpts,3,Y6
+Y7,No Author General Discussions,2,Y
+Y70,No Author General Discussions,3,Y7
+Y8,Related Disciplines,2,Y
+Y80,Related Disciplines,3,Y8
+Y9,Other,2,Y
+Y90,Other,3,Y9
+Y91,Pictures and Maps,3,Y9
+Y92,"Novels, Self-Help Books, etc.",3,Y9
 Z,Other Special Topics,1,
+Z00,General,3,Z
+Z1,Cultural Economics • Economic Sociology • Economic Anthropology,2,Z
+Z10,General,3,Z1
+Z11,Economics of the Arts and Literature,3,Z1
+Z12,Religion,3,Z1
+Z13,Economic Sociology • Economic Anthropology • Language • Social and Economic Stratification,3,Z1
+Z18,Public Policy,3,Z1
+Z19,Other,3,Z1
+Z2,Sports Economics,2,Z
+Z20,General,3,Z2
+Z21,Industry Studies,3,Z2
+Z22,Labor Issues,3,Z2
+Z23,Finance,3,Z2
+Z28,Policy,3,Z2
+Z29,Other,3,Z2
+Z3,Tourism Economics,2,Z
+Z30,General,3,Z3
+Z31,Industry Studies,3,Z3
+Z32,Tourism and Development,3,Z3
+Z33,Marketing and Finance,3,Z3
+Z38,Policy,3,Z3
+Z39,Other,3,Z3

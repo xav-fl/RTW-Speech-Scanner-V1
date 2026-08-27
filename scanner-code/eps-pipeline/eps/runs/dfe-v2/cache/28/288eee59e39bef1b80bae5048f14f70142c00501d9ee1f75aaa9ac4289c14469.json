@@ -1,0 +1,5 @@
+{
+  "text": "I need to identify the specific mechanisms named in this quotation:\n1. Free breakfast clubs for every primary school\n2. Expansion of free school meals\n3. Lifting the two-child limit (a benefit/welfare policy)\n4. Goal: reducing child poverty\n\nLet me analyze each:\n\n- **Free breakfast clubs** and **free school meals** are education-related in-kind benefits delivered through schools → I2 (Education) or I3 (Welfare/Poverty)\n- **Lifting the two-child limit** is a social benefit/welfare eligibility rule change → I3 (Welfare, Well-Being, and Poverty)\n- The overarching framing is **child poverty reduction** → I3\n\nThe primary economic content is poverty reduction through a combination of welfare eligibility changes and in-kind food/nutrition programs. The dominant theme is child poverty (I3), with a secondary education dimension (I2) given the school-based delivery mechanisms.\n\n{\"primary\": \"I3\", \"secondary\": [\"I2\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

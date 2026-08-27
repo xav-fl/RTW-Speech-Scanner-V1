@@ -1,0 +1,5 @@
+{
+  "text": "The quotation names two specific policy instruments:\n1. **30-hours/week government-funded childcare** — a publicly subsidized early childhood care provision\n2. **Children's social care system reform** — restructuring welfare/social services for children\n\nThe core mechanism is government-funded childcare provision (early childhood education/care) and children's social care — both fall squarely under **I (Health, Education, and Welfare)**, specifically I2 (education/childcare institutions) and I3 (welfare, well-being). There's also a public expenditure dimension (H5 — government expenditures on social services), but the substance is the childcare and social care policy itself, not the fiscal instrument.\n\nPrimary: **I** (the childcare and children's social care content is fundamentally about welfare and education services)\nSecondary: **H** (government funding/expenditure mechanism is substantively named — \"government-funded\")\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

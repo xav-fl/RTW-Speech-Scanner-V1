@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about reforming how special educational needs funding reaches schools — specifically, shifting from a gatekeeping mechanism (EHCP assessment battles) to upfront, direct resource allocation to headteachers for supporting young people with special needs. The core economic content is about the funding delivery mechanism for special education/welfare services.\n\nSpecific mechanism: upfront school-level funding allocation for special educational needs, bypassing the EHCP eligibility process.\n\nThis is squarely about education funding and resource allocation for students with special needs — fitting I (Health, Education, and Welfare), specifically education finance and special needs provision.\n\nThere is a secondary public economics dimension (H) regarding how public funds are allocated and the design of the funding formula/eligibility rules, but the substance is education policy.\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}
