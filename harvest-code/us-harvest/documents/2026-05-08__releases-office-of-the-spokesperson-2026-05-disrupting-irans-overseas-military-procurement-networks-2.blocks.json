@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/disrupting-irans-overseas-military-procurement-networks-2/",
+ "institution_id": "us-state",
+ "title": "Disrupting Iran’s Overseas Military Procurement Networks",
+ "date": "2026-05-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "6891acb6f1c5e7981812e79d8b05f3daeaccf738fd9f480ae758afe89c29bdf1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

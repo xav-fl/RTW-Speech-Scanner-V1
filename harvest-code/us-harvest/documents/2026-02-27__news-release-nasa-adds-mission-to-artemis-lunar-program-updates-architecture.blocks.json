@@ -1,0 +1,227 @@
+{
+ "url": "https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/",
+ "institution_id": "us-nasa",
+ "title": "NASA Adds Mission to Artemis Lunar Program, Updates Architecture",
+ "date": "2026-02-27",
+ "date_source": "metadata",
+ "source_document_type": "press-release",
+ "text_sha256": "ffa1af80c89bfc7b0db37bfe3ed2307404bc22c79f218f9f06026f0d4e9e6c95",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "NASA Administrator Jared Isaacman",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "NASA Administrator Jared Isaacman",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "NASA Associate Administrator Amit Kshatriya",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "NASA Associate Administrator Amit Kshatriya",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Steve Parker",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "Steve Parker",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "quote",
+   "speaker": "Lori Glaze",
+   "method": "speech_verb"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "quote",
+   "speaker": "Lori Glaze",
+   "method": "speech_verb"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 24,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 25,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 26,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 27,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 28,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 29,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 30,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 31,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 32,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 33,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 34,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 35,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

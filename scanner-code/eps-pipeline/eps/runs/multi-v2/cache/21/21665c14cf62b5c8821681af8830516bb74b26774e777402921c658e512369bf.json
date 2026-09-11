@@ -1,0 +1,5 @@
+{
+  "text": "The quotation announces the convening of an International SEND Alliance — a multilateral coalition focused on Special Educational Needs and Disabilities (SEND) policy. The specific mechanism is international coordination/summitry around education policy for children with disabilities.\n\nThe substantive economic content is:\n1. **Education policy** (SEND = Special Educational Needs and Disabilities) → I2\n2. **International coordination/multilateral cooperation** → F5\n\nThe statement is primarily about education policy for a specific population (SEND), coordinated internationally. The international coalition structure is a substantively important secondary dimension.\n\n{\"primary\": \"I2\", \"secondary\": [\"F5\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

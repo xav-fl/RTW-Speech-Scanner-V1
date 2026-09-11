@@ -1,0 +1,65 @@
+{
+ "url": "https://www.hhs.gov/press-room/hhs-launches-phase-1-of-the-cultivating-connected-communities-challenge.html",
+ "institution_id": "us-hhs",
+ "title": "HHS Launches Phase 1 of the Cultivating Connected Communities Challenge",
+ "date": "2026-05-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c9cc504ef0944c5cb5983cd7c65150b402f33a83fcb132a291c870b26c228342",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy Jr",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy Jr",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

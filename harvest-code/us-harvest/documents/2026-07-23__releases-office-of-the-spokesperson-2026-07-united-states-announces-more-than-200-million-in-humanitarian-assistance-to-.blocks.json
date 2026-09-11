@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/united-states-announces-more-than-200-million-in-humanitarian-assistance-to-the-icrc-and-ifrc/",
+ "institution_id": "us-state",
+ "title": "United States Announces More Than $200 Million in Humanitarian Assistance to the ICRC and IFRC",
+ "date": "2026-07-23",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "d15b517cb0ac7aaea9f1657fa41f865631efe2d88587969fd9fb0d039d0c9c2b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

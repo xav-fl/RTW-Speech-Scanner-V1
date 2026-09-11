@@ -1,0 +1,71 @@
+{
+ "url": "https://www.hhs.gov/press-room/ihs-to-end-use-of-mercury-containing-dental-amalgam-by-2027.html",
+ "institution_id": "us-hhs",
+ "title": "Indian Health Service to End Use of Mercury-Containing Dental Amalgam by 2027",
+ "date": "2026-02-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "49ab9bab46d6ef5e3a5273c38acbb43a9f803403f88154c97d3f17eced36757f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "IHS Director of Strategic Initiatives R. Kim Hartwig",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "IHS Director of Strategic Initiatives R. Kim Hartwig",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

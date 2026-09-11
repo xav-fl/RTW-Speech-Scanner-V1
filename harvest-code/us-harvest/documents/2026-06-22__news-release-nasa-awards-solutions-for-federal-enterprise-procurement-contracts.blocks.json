@@ -1,0 +1,71 @@
+{
+ "url": "https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/",
+ "institution_id": "us-nasa",
+ "title": "NASA Awards Solutions for Federal Enterprise Procurement Contracts",
+ "date": "2026-06-22",
+ "date_source": "metadata",
+ "source_document_type": "press-release",
+ "text_sha256": "172d402ad61f3b51051de6615c32f5e361b5a38db23f3a9dec06d6d31d14f82b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-announces-40-million-wifia-loan-expand-wastewater-services-northeastern-nebraska",
+ "institution_id": "us-epa",
+ "title": "EPA Announces $40 Million WIFIA Loan to Expand Wastewater Services in Northeastern Nebraska",
+ "date": "2026-06-05",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "60db0262c4e1709ddcc14372bd987eccb4db23292e7c2c32a9fa6abc6faae81f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Water Jess Kramer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Water Jess Kramer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Nebraska Governor Jim Pillen",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Nebraska Governor Jim Pillen",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Senator Pete Ricketts",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "Senator Pete Ricketts",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "quote",
+   "speaker": "U.S. Congressman Adrian Smith",
+   "method": "speech_verb"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "quote",
+   "speaker": "South Sioux City Mayor Rod Koch",
+   "method": "speech_verb"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "quote",
+   "speaker": "South Sioux City Mayor Rod Koch",
+   "method": "speech_verb"
+  },
+  {
+   "index": 20,
+   "kind": "quote",
+   "speaker": "South Sioux City Administrator Lance Hedquist",
+   "method": "speech_verb"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 22,
+   "kind": "quote",
+   "speaker": "South Sioux City Administrator Lance Hedquist",
+   "method": "speech_verb"
+  },
+  {
+   "index": 23,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 24,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 25,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 26,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 27,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 28,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+WASHINGTON - Today, in support of President Trump’s directive
+
+> to IMMEDIATELY CEASE all use of Anthropic’s technology,
+
+the U.S. General Services Administration (GSA) is removing Anthropic from USAi.gov and our Multiple Award Schedule (MAS). This decision reflects our responsibility under the President’s AI Action Plan for the American people.
+
+> GSA stands with the President in rejecting attempts to politicize work dedicated to America’s national security. Building resilient, secure, and scalable AI solutions demands alignment, trust, and a willingness to make hard calls,
+
+said GSA Administrator Edward C. Forst.
+
+> We’re committed to delivering results for Americans, and working with our AI industry partners who fit the bill.
+
+GSA’s Multiple Award Schedule (MAS) is the federal government’s primary vehicle for procurement that allows eligible federal, state, and local entities to purchase commercial products and services at cost-effective, pre-negotiated rates. MAS schedules accounted for over $52.5B in sales in FY25.
+
+USAi.gov is a secure, cloud-based, generative artificial intelligence (AI) evaluation suite launched by GSA in August 2025. USAi serves as a “sandbox” or centralized platform for federal agencies to test, experiment with, and deploy AI models from leading providers at no cost.
+
+About GSA: GSA provides centralized procurement and shared services for the federal government. GSA manages a nationwide real estate portfolio of approximately 360 million rentable square feet, oversees more than $116 billion in products and services via federal contracts, and delivers technology services to millions of people across dozens of federal agencies. GSA’s mission is to deliver exceptional customer experience and value in real estate, acquisition, and technology services to the government and the American people. For more information, visit GSA.gov and follow us at @USGSA.
+
+Contact press@gsa.gov

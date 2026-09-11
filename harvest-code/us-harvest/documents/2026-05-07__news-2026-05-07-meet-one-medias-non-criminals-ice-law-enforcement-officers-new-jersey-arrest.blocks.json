@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dhs.gov/news/2026/05/07/meet-one-medias-non-criminals-ice-law-enforcement-officers-new-jersey-arrest",
+ "institution_id": "us-dhs",
+ "title": "Meet One of the Media’s ‘Non-Criminals’: ICE Law Enforcement Officers in New Jersey Arrest International Fugitive Wanted for Murder in His Origin Country",
+ "date": "2026-05-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "ceb50e78d720b961b358cd53684cf1459f4c47e0adfe330bf8a0d662bf70c8bb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

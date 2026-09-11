@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes simplifying a buying process to increase demand — the core mechanism is reducing transaction costs/friction in a market to stimulate consumer demand. This is fundamentally about market design and buyer behavior.\n\nThe specific mechanism: simplifying the purchase process (reducing search/transaction costs) → increased demand. This maps to D4 (Market Structure, Pricing, and Design) with a secondary dimension of D1 (Household Behavior) since it's about consumer purchasing behavior.\n\n{\"primary\": \"D\", \"secondary\": [\"M\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

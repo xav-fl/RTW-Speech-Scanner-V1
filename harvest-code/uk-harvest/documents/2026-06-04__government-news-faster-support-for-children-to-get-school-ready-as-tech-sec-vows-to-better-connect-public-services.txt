@@ -1,0 +1,81 @@
+TITLE: Faster support for children to get school ready as Tech Sec vows to better connect public services
+URL: https://www.gov.uk/government/news/faster-support-for-children-to-get-school-ready-as-tech-sec-vows-to-better-connect-public-services
+DATE: 2026-06-04
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Liz Kendall MP; The Rt Hon Bridget Phillipson MP
+
+---
+
+New drive to join up data between public services so children are school ready – including disadvantaged children
+
+Initiative will explore options for safely connecting data from health visiting, education and childcare providers 
+
+Technology Secretary vows to join up services and support to better meet the needs of young children and their families
+
+New project launched to explore how better data-sharing can help ensure kids are school ready, which will see local authorities and healthcare professionals gauging parents’ views and experiences of accessing early learning support.
+
+Nearly a third of children (32%) are starting school without the basic skills they need, which rises to almost half of children eligible for free school meals (48%). This has a direct impact on their educational outcomes.
+
+While vital work to revive family support through Best Start Family Hubs is helping families access early support, making data available across different public services could help get the right support to parents, carers and children faster.
+
+Currently, services can operate in isolation with paper-based processes, meaning support is less well-coordinated and too often doesn’t arrive in time, if at all.
+
+Sometimes, children’s needs are being missed because the services around them can’t see the full picture. For example, it may be a health visitor spots something, as does an education practitioner - but if those observations are sitting on separate pieces of paper, no one joins the dots – and it could cause a child to fall through the gap.
+
+That’s the reality of the data behind our public services. Launching today (Friday 5 June) - starting with Leeds City Council, London Borough of Hammersmith & Fulham and Councils in the Liverpool City Region Combined Authority - the project will explore how services could be better connected so that the professionals working with a child can actually see what each other knows and help parents get the support for their child faster.
+
+Parents are also being asked to share their experience of accessing early learning support – and where they believe better sharing of information between public sector organisations about their children could have helped with getting access to the support they needed faster.
+
+Technology Secretary, Liz Kendall said:
+
+Too many children are arriving at school without the skills they need, and too many parents have had to fight through a complex, disconnected system to get their child the support they deserve. That burden falls hardest on disadvantaged children.
+
+We are determined to change old fashioned public services where assessments are recorded by paper and children’s needs are missed.
+
+Parents, carers and children deserve better and our hard-working early years and healthcare professionals deserve the tools they need to do their jobs – not blockers. The more connected we make our services, the greater the difference we can make for children and families.
+
+Education Secretary, Bridget Phillipson said:
+
+As parents across the country prepare to send their little ones off to school for the first time in September, I know it can still sometimes feel far too hard to get help with things like speech and language or potty training.
+
+That’s why I’m so proud of what we’ve already achieved through Best Start Family Hubs – with hundreds already launched, we’re well on our way to reaching every community with more SEND support and free stay and play sessions that can save families up to £200 a year.
+
+This work will build on those foundations, ripping up red tape so every child gets the best start in life.
+
+As the project develops, the data gathered from local authorities, education practitioners and health visitors on early years could help inform the development of a new collection on the National Data Library (NDL), following best practice and with appropriate safeguards on data sharing. Right now, only non-personal, aggregated data such as information on traffic levels is available on the NDL.
+
+Mayor of Liverpool City Region, Steve Rotheram:
+
+Parents have enough on their plates without having to navigate a maze of different services to get support for their child.
+
+When services aren’t properly connected, things can get missed and families can end up waiting longer than they should for help. We can do better than that.
+
+By bringing information together safely and responsibly, we can spot issues earlier, get support to families sooner and make sure children don’t fall through the gaps. I’m proud that councils across our region are helping lead this work.
+
+In time, it could help bring together health, early years and childcare data so that registered professionals like GPs, education practitioners, speech and language therapists can see the full picture of a child’s development.
+
+In this instance, the more detailed data will only be securely and ethically shared to necessary services. All data use will be underpinned by robust safeguards and strict data protection standards.
+
+That could support future collections on the National Data Library (NDL), helping to develop data.gov.uk’s transformation into the NDL - a single trusted gateway of curated high-quality public-sector data and resources brought together to address social challenges at a national level.
+
+Today’s announcement forms part of the government’s wider mission to give every child the best start in life. With up to 1,000 Best Start Family Hubs set to be operating by 2028, backed by almost a billion pounds of investment, the government is already rebuilding the joined-up family support that Sure Start once provided.
+
+Notes to Editors
+
+Local authorities, parents and childcare providers interested in joining the project can sign up by completing this form.
+
+Statistics included on school readiness and good level of development can be viewed on the Early years foundation stage profile results page.
+
+The Early Years Kickstarter is one of a series of projects exploring how public sector data can be better joined up to improve lives, led by the Government Digital Service (GDS). A list of the other Kickstarters can be found at: National Data Library: progress update, January 2026 - GOV.UK
+
+The National Data Library will transform data.gov.uk, the current service for UK public sector data, into a single trusted gateway of curated high quality public sector data and resources brought together to address social challenges at a national level. This fulfills a manifesto commitment to create a National Data Library to bring together existing research programmes and help deliver data-driven public services, whilst maintaining strong safeguards and ensuring all of the public benefit.
+
+The government’s school readiness milestone – 75% of five-year-olds reaching a good level of development in the Early Years Foundation Stage assessment by 2028 – was set out in the Plan for Change, published December 2024. This represents an increase from 67.7% currently.
+
+Dr Mariana Pexton, Dept Chief Exec, Leeds City Council:
+
+Through our Community Mission Challenge, working with Cabinet Office, we recognise that families are often frustrated by having to repeat their child’s story or connect information themselves when speaking to professionals. We know that families want to tell their story once and then receive the right support when they need it.
+
+Leeds City Council and our key partners in Health and 3rd sector look forward to the opportunity to use the Kickstarter programme to see how sharing data and information can improve outcomes by providing better support to families.
+
+Sharing data in this way will give families the confidence that when they need support, their child’s experiences and previous assessments are known and understood appropriately. The Kickstarter programme aligns well with our priority for children to have the Best Start in Life.

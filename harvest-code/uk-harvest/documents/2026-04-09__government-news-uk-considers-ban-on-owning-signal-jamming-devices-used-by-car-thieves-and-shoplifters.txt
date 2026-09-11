@@ -1,0 +1,47 @@
+TITLE: UK considers ban on owning signal jamming devices used by car thieves and shoplifters
+URL: https://www.gov.uk/government/news/uk-considers-ban-on-owning-signal-jamming-devices-used-by-car-thieves-and-shoplifters
+DATE: 2026-04-09
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Baroness Lloyd of Effra CBE
+
+---
+
+UK government investigates rising misuse of radiofrequency jammers to commit crime, from hacking video doorbells to enable burglaries to bringing airports to a halt
+
+Devices, disguised as everyday tech like digital watches, are being used by criminals to commit theft and disrupt public services people rely on daily.
+
+Possessing a jamming device could be made illegal as part of crackdown, subject to public and industry views in new call for evidence launched today
+
+A crackdown of radio frequency jammers, which are designed or modified to block or interfere with wireless communications, is on the cards under government action outlined today.
+
+From blocking GPS signals in vehicles to aid theft, to compromising positions during military operations, misuse of these gadgets happens at all levels of criminal activity, posing a real and growing risk to people and critical national infrastructure. 
+
+Criminals often disguise radiofrequency jammers as everyday objects to break into homes by disabling security systems, such as video doorbells, or break into vehicles bypassing security systems and quickly emptying vans of tools. These devices are also used in shoplifting to block wireless security tags, preventing alarms and making theft easier. Additionally, jammers can interfere with mobile coverage and emergency radio networks – hindering how emergency services respond to incidents.
+
+Just one week of disruption to the UK’s vital positioning, navigation and timing infrastructure could cost the UK economy up to £7.64 billion – threatening jobs, businesses and ways of life. 
+
+In response, the government is seeking views from the public and key industry stakeholders across the country, including mobile network operators, law enforcement agencies and specialists from the transport and infrastructure sectors, on the current regulations and enforcement for the jammers. 
+
+UK Telecoms Minister, Liz Lloyd, said: 
+
+We are stepping up efforts to stop the illegal use of jamming devices which are threatening not only our daily lives, but also our vital public services across the country.
+
+This is an opportunity for the public and industry experts to have their say on how we safeguard our homes, businesses, transport networks and more from those seeking to exploit these technologies.
+
+By gathering a broad range of informed opinions, we can make sure any future measures we introduce are rooted in evidence and address the real issues people area facing.
+
+The Wireless Telegraphy Act 2006 bans the use and possession of non-compliant equipment, but proving a person used a jammer to cause interference can be difficult to evidence. The Crime and Policing Bill will make it illegal to possess or share electronic devices used to steal cars and could lead up to 5 years in prison.  
+
+The insights from this call for evidence could inform legislation on the possession of all other types of jamming. It will clarify the legitimate uses of radiofrequency jammers, like in secure environments such as in prisons to prevent inmates from using contraband mobile phones or military exercises in combat, and how current regulations could be improved. 
+
+Feedback from this call for evidence will inform any future legislation so that any new measures are based on evidence and proportionate, while effectively protecting critical national infrastructure from illegal threats. 
+
+Notes to editors
+
+The call for evidence went live on 10 April 2026 and will run for 4 weeks
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

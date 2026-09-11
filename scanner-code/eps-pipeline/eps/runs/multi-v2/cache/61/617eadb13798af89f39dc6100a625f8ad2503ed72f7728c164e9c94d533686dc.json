@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about funding allocations for adult skills training — specifically \"advanced learner loans\" (income-contingent loans for adult learners) and \"adult skills fund allocations\" for a specific funding year. The core economic content is public funding mechanisms for adult/vocational education.\n\nSpecific mechanism: government loan schemes and grant allocations directed at adult learners and training providers for vocational/further education.\n\n- Primary: **I2** (Education and Research Institutions) — this is squarely about education funding policy for adult learners.\n- Secondary: **H5** (National Government Expenditures and Related Policies) — the allocation of public funds (adult skills fund) is a substantive government expenditure dimension.\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

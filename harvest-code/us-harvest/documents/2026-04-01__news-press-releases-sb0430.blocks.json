@@ -1,0 +1,35 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0430/",
+ "institution_id": "us-treasury",
+ "title": "Treasury To Convene First Series of Conversations with Domestic and International Regulators",
+ "date": "2026-04-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "5659ca2c40cb3dc976aa8cf29079ad1a6337eb6791819212f032ca9754d51258",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

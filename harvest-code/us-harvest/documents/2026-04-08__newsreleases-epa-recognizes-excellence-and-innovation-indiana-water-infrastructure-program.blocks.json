@@ -1,0 +1,101 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-recognizes-excellence-and-innovation-indiana-water-infrastructure-program",
+ "institution_id": "us-epa",
+ "title": "EPA Recognizes Excellence and Innovation in Indiana Water Infrastructure Program",
+ "date": "2026-04-08",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "f889fa43a0da63531e4a7c5424e6e4959f803fff523130f197f6298c9a2c35be",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Anne Vogel",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Anne Vogel",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

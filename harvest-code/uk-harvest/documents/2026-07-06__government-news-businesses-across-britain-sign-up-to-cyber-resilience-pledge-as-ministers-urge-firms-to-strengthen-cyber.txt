@@ -1,0 +1,79 @@
+TITLE: Businesses across Britain sign up to Cyber Resilience Pledge as ministers urge firms to strengthen cyber defences
+URL: https://www.gov.uk/government/news/businesses-across-britain-sign-up-to-cyber-resilience-pledge-as-ministers-urge-firms-to-strengthen-cyber-defences
+DATE: 2026-07-06
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Liz Kendall MP
+
+---
+
+Firms including M&S, Nationwide, ITV, Microsoft UK and Cloudflare are some of the first to Pledge to strengthen their cyber defences 
+
+Signatories will take practical steps to strengthen their cyber resilience, including board-level oversight, use of National Cyber Security Centre (NCSC) tools and stronger supply-chain security 
+
+Launch forms a central pillar of the government’s National Cyber Action Plan to raise cyber resilience across the UK economy – with cyber-attacks costing the UK £14.7 billion a year 
+
+More than 60 businesses from every corner of the British economy, and strategic suppliers to government, have committed to strengthen their cyber defences as cyber threats grow in scale, frequency and sophistication.
+
+Set to launch at 10 Downing Street later today (Tuesday 7 July), the new Cyber Resilience Pledge comes as businesses face an increasingly urgent threat environment – with over 5 million cyber crimes committed against UK firms last year - equivalent to 1 every 6 seconds (source: NCSC Annual Review 2025).
+
+Hostile cyber activity in the UK continues to escalate, with the NCSC handling 204 nationally significant incidents in the year to September, up from 89 the year before. The average cost of a significant cyber-attack on an individual UK business now stands at almost £195,000, with the annual cost to organisations estimated at £14.7 billion, excluding wider disruption across the economy (source: Independent research on the economic impact of cyber attacks on the UK). 
+
+The threat is also evolving. While AI provides new capabilities for defenders, it is also lowering the barriers for attackers – by helping them find weaknesses in software, write the code to exploit them, and do so at a speed and scale that would have been impossible even a year ago.
+
+Founding signatories to the Pledge span retail, financial services, media, utilities and technology – including M&S, Nationwide, ITV, Microsoft UK, Cloudflare, Deloitte LLP, Accenture UK, Vodafone Group and VodafoneThree. 
+
+The voluntary pledge, which has been designed for medium and large organisations but is open to organisations of all sizes and sectors, asks signatories to take 3 concrete actions to improve their cyber security: 
+
+Making cyber security a board-level responsibility, by implementing the Cyber Governance Code of Practice and ensuring all board members complete the NCSC’s Cyber Governance Training 
+
+Registering for the NCSC’s free Early Warning service, a tool that alerts organisations to potentially suspicious activity on their networks 
+
+Taking a risk-based approach to requiring the government-backed Cyber Essentials certification across their supply chain 
+
+The Pledge will be formally launched at a reception at 10 Downing Street later today, hosted by Technology Secretary Liz Kendall and attended by founding signatories. 
+
+Technology Secretary Liz Kendall said: 
+
+Today, some of Britain’s biggest businesses are taking action to strengthen their cyber defences and setting a powerful example for others to follow. By signing this Pledge, they are showing that cyber resilience is no longer just an IT issue - it is a business imperative.
+
+Cyber attacks can disrupt services, put customers’ data at risk and have a real impact on the bottom line. As AI makes these threats more sophisticated and easier to launch, no organisation can afford to stand still.
+
+That’s why we’re working with businesses to help them strengthen their defences. The steps in this Pledge are practical, achievable and proven to make a difference. Today’s signatories are leading the way, and I encourage organisations across the UK to follow their example.
+
+The launch comes ahead of the new National Cyber Action Plan, which will set out how the government will continue to work with industry to protect the nation from the cyber threats it faces in the AI era, including through investment in AI-powered defensive capabilities, the adoption of new secure technologies, and through new measures under the National Security Bill to tackle cyber crime. The Pledge is a central pillar of this work. 
+
+Alongside the Pledge, DSIT has been developing a government Cyber Charter with its 39 strategic suppliers: companies that deliver critical services to the government. As part of that Charter, all of the strategic suppliers have been invited to sign the Pledge as an initial commitment to bolstering their cyber resilience, with more than 20 of them having done so as part of this first cohort of signatories. 
+
+Darren Hardman, CEO, Microsoft UK and Ireland, said:
+
+As AI reshapes both the threats we face and our response to them, stronger board-level accountability and supply chain security are how the UK stays ahead. Microsoft has been a cybersecurity partner to the UK Government for more than 20 years, and we’re proud to sign the Cyber Resilience Pledge, using AI to help defend the UK’s critical national infrastructure, public services and businesses against cyber attacks.
+
+David Boda, Chief Security and Resilience Officer at Nationwide, said:
+
+Uplifting the cyber resilience of the UK economy is a collective endeavour that no one organisation or sector can achieve alone. As a modern mutual Nationwide Building Society are proud to play our part and be a signatory of the Cyber Resilience Pledge.
+
+Simon King, CEO of Autotech Group, said:
+
+As a company that works with major automotive organisations, as well as organisations operating across the wider mobility sector, we understand that trust is built on how well we protect the information, systems and people our customers rely on every day. That’s why we’ve focused on embedding security and governance into the way we operate as a business. As an early signatory of the UK’s Cyber Resilience Pledge, we are reinforcing our commitment to continual improvement and ensuring cyber resilience remains a board-level responsibility as both our business and the automotive sector become increasingly connected.
+
+Julian David, CEO of techUK, said:
+
+We have long held the view that cyber resilience is a critical business and organisational enabler. It underpins our growth, our economic security, and the safety and security of our people. With the average cost of significant cyber-attacks to the UK economy recently estimated to be £14.7billion annually  – the equivalent of 0.5% of our GDP – it’s clear that cyber security and resilience must be recognised as a leadership responsibility and should no longer be viewed as an IT issue alone. We are, therefore, proud signatories of the Government’s Cyber Resilience Pledge, committing to the practical actions set out for our own organisation as well as continuing to champion, more widely, accountability for cyber risk at the board level.
+
+Experts at the National Cyber Security Centre (NCSC) are urging organisations of all kinds to urgently focus on their cyber security as the threats evolve at pace. The steps organisations should take to protect themselves, their supply chains and their customers against AI-driven cyber threats are the same fundamental cyber hygiene measures recommended to combat traditional attacks, though businesses are being urged to act with increased urgency given damaging cyber incidents over the past year. 
+
+The NCSC says the 3 actions enshrined in the Pledge are practical steps that will help improve an organisation’s resilience and, if adopted at scale, strengthen resilience across the wider economy. 
+
+Resilient organisations are better able to recover from incidents, protect their customers and demonstrate to investors, partners and suppliers that they are taking cyber risk seriously. 
+
+Notes to editors  
+
+View the full list of founding signatories
+
+Find more information on how to pledge
+
+Pledging organisations will be asked to publish a signed pledge letter on their website and to provide an annual update on the steps taken to deliver against the pledge.   
+
+The pledge builds on the government’s wider work to improve cyber resilience across the economy and public sector, including the Cyber Security and Resilience Bill, the Government Cyber Action, and a range of free advice and tools for small businesses, including the Cyber Action Toolkit and Cyber Essentials  
+
+For free trusted cyber security advice, visit ncsc.gov.uk

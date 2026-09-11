@@ -1,0 +1,113 @@
+{
+ "url": "https://www.hhs.gov/press-room/sec-kennedy-celebrates-tennessee-maha-wins.html",
+ "institution_id": "us-hhs",
+ "title": "Secretary Kennedy Celebrates Tennessee's MAHA Wins, Headlines CattleCon on ‘Take Back Your Health’ Tour",
+ "date": "2026-02-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "a3c45ccaf4bfdda4cc84f6232c45263570324f99b8505a5b78bd3e8d07b3e37f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Governor Lee",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Governor Lee",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "Secretary Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "quote",
+   "speaker": "Secretary Kennedy",
+   "method": "speech_verb"
+  }
+ ]
+}

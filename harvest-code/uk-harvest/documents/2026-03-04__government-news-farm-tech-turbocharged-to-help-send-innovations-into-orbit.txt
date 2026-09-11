@@ -1,0 +1,39 @@
+TITLE: Farm tech turbocharged to help send innovations into orbit
+URL: https://www.gov.uk/government/news/farm-tech-turbocharged-to-help-send-innovations-into-orbit
+DATE: 2026-03-04
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Dame Angela Eagle DBE MP
+
+---
+
+Seven British businesses have won a share of £560,000 in government funding to develop space and AI technologies that could transform British farming, driving economic growth and nature recovery.
+
+The funding was awarded following a pioneering ‘hackathon’ run jointly by the Department for Environment, Food and Rural Affairs (Defra) and Innovate UK, which brought together government, industry, and academia. Projects were challenged to use satellite data and artificial intelligence to tackle real-world agricultural and environmental challenges.
+
+Selected from a field of 50 applicants, the seven winning companies will each receive £80,000 in Space Commercialisation Credits that will provide the hands-on business and technical support needed to accelerate their technologies to market.
+
+Space technology investment delivers exceptional economic returns. For every £1 Defra invests in Earth Observation research, up to £8.20 flows back into the economy, making this a cost-effective way to drive economic growth, support British businesses, and create high-skilled jobs in the UK’s thriving space sector. Standout competition winners include:
+
+x10NI, which builds digital farm simulations to give farmers real-time data to manage soil health, cut input costs and keep environmental reporting on track
+
+Gentian, which uses AI-powered satellite analysis to track wildlife habitats and biodiversity changes, making environmental risk assessments faster for developers and reducing reliance on expensive site visits
+
+Ocean OS, which uses satellite data to automatically map marine habitats and species, giving regulators the information they need to approve offshore wind farms faster and get clean energy projects built sooner.
+
+Defra’s Science Minister Dame Angela Eagle said:
+
+Space data and AI are transforming how we produce food and grow our economy.
+
+These seven teams have shown what is possible when government, industry, and academia work together.
+
+I look forward to seeing their ideas develop into products that benefit farmers, communities, and the environment.
+
+Gary Cutts, Executive Director for Digital and Technologies at Innovate UK, said:
+
+Innovation‑led growth is central to the UK’s economic future. By backing businesses that apply space and AI technologies to real agricultural and environmental challenges, we are strengthening food security, supporting nature recovery, and creating the conditions for high‑potential firms to secure private investment and scale.
+
+Each winning team will receive expert support from the Satellite Applications Catapult to bring their products to market over the next year.
+
+The announcement builds on the £120 million in productivity and innovation grants announced by Environment Secretary Emma Reynolds at this year’s NFU Conference. The funding, shared between the Farming Equipment and Technology Fund and the Farming Innovation Programme, will boost productivity and innovation across the agricultural sector.
+
+The Farming Innovation Programme has supported over 630 organisations and committed more than £165 million in funding to research and development, attracting over £58 million in private investment to date.

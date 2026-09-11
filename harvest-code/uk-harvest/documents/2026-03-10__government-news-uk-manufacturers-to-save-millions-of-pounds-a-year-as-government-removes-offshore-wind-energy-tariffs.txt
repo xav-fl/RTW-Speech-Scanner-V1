@@ -1,0 +1,159 @@
+TITLE: UK manufacturers to save millions of pounds a year as government removes offshore wind energy tariffs
+URL: https://www.gov.uk/government/news/uk-manufacturers-to-save-millions-of-pounds-a-year-as-government-removes-offshore-wind-energy-tariffs
+DATE: 2026-03-10
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: The Rt Hon Sir Chris Bryant MP
+
+---
+
+The UK Government will remove tariffs on 33 industrial goods from 1 April through a new tariff measure which will save offshore wind energy manufacturers millions of pounds a year and support progress towards the UK’s Clean Energy Superpower mission.
+
+The measure will enable British manufacturers to produce components at a reduced cost and allow reinvestment for clean energy sector growth. This investment in the UK’s largest source of renewable energy is vital for addressing the climate crisis and building the UK’s energy security - offshore wind is 40% cheaper to produce and maintain than new gas projects according to the LCOE industry metric.
+
+This follows a record 8.4GW and £22bn of offshore wind investment secured in the January 2026 Contracts for Difference Allocation Round 7 – enough clean energy to power the equivalent of over 12 million homes. This includes Berwick Bank in the North Sea - the first new Scottish project since 2022 and one of the largest planned offshore wind projects in the world.
+
+Today’s announcement highlights the UK Government’s vision to align Industrial and Trade Strategy outcomes, demonstrating our ability to use trade measures strategically to drive growth whilst supporting domestic industry.
+
+It directly delivers on the Trade Strategy commitment to ensure that our international trade and environmental objectives are mutually supportive, by seeking outcomes, including internationally, that secure access to goods, services and technologies that are needed for the clean energy transition.
+
+A new authorised use measure will conditionally reduce the import tariff paid at the border to zero. This conditionality will protect UK producers from being undercut by cheap imports in other sectors which may use similar goods. Guidance for importers can be found here: Special procedure: authorised use (end-use) - Authorised use - Guidance - GOV.UK
+
+An Authorised Use procedure permits UK-based traders to pay a reduced or zero rate of customs duty on imported goods, provided they are used for a specified purpose and processed within a certain period. Eligible imports in this measure include items for the manufacture of cables, rotors, rotor blades, auxiliary and low-voltage systems used in both onshore and offshore substations or wind turbines, as specified under the Authorised Use procedure.
+
+The CN10 codes in scope of this measure are in the table below, along with the relevant authorised use descriptions.  
+
+CN10 Commodity Code
+ UK Global Tariff Rate
+ Authorised Use Description
+
+3921139000
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3921120090
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3921131000
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3921190099
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3921110090
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3921903000
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3921905590
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3921906090
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3921909000
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3907300005
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3907300008
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3907300020
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3907300023
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3907300040
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3907300070
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3907300080
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3907300085
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3907911000
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3919101200
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+3919908099
+ 6.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+8535400090
+ 2.00%
+ For the manufacturing of rotor blades for incorporation in offshore wind turbines used in offshore wind energy production
+
+8503001090
+ 2.00%
+ For the manufacture of rotors for incorporation in offshore wind turbines used in offshore wind energy production
+
+8503002090
+ 2.00%
+ For the manufacture of rotors for incorporation in offshore wind turbines used in offshore wind energy production
+
+8503009199
+ 2.00%
+ For the manufacture of rotors for incorporation in offshore wind turbines used in offshore wind energy production
+
+8503009899
+ 2.00%
+ For the manufacture of rotors for incorporation in offshore wind turbines used in offshore wind energy production
+
+8544429090
+ 2.00%
+ For the manufacture of cables for incorporation in offshore wind energy production
+
+8544601090
+ 2.00%
+ For the manufacture of cables for incorporation in offshore wind energy production
+
+8544609000
+ 2.00%
+ For the manufacture of cables for incorporation in offshore wind energy production
+
+3926909790
+ 6.00%
+ For the manufacture of cables for incorporation in offshore wind energy production
+
+8535900089
+ 2.00%
+ For the manufacture of cables for incorporation in offshore wind energy production
+
+8537101090
+ 2.00%
+ For the manufacture of auxiliary and low-voltage systems for incorporation in onshore substations and offshore substations used in offshore wind energy production
+
+8537209190
+ 2.00%
+ For the manufacture of auxiliary and low-voltage systems for incorporation in onshore substations and offshore substations used in offshore wind energy production
+
+8537209990
+ 2.00%
+ For the manufacture of auxiliary and low-voltage systems for incorporation in onshore substations and offshore substations used in offshore wind energy production

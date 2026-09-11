@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/resumption-of-operations-at-u-s-embassy-caracas/",
+ "institution_id": "us-state",
+ "title": "Resumption of Operations at U.S. Embassy Caracas",
+ "date": "2026-03-30",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "9ac7f845bec0ba91905884933fd82370f469039f672c556c49adc027d1236442",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

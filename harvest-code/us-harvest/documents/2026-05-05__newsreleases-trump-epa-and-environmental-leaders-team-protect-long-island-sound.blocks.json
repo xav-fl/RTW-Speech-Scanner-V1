@@ -1,0 +1,155 @@
+{
+ "url": "https://www.epa.gov/newsreleases/trump-epa-and-environmental-leaders-team-protect-long-island-sound",
+ "institution_id": "us-epa",
+ "title": "Trump EPA and Environmental Leaders Team Up to Protect the Long Island Sound",
+ "date": "2026-05-05",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "f8280da13fd2b3e0adeaaefb4d0fa5264ccde1b6e984afdb2e965e8188a54938",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "EPA New England Regional Administrator Mark Sanborn",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "EPA New England Regional Administrator Mark Sanborn",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "EPA Mid-Atlantic Regional Administrator Amy Van Blarcom-Lackey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "EPA Mid-Atlantic Regional Administrator Amy Van Blarcom-Lackey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "Representative Nick LaLota",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "quote",
+   "speaker": "Representative Nick LaLota",
+   "method": "speech_verb"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

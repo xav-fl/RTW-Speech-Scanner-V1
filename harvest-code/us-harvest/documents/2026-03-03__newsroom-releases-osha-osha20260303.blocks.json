@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260303",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites Florida petroleum tank services contractor after worker succumbs to injuries from exposure to toxic chemicals",
+ "date": "2026-03-03",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "db5a6db5a6efe97cddd1781fbe52b69392a7430ce7db392f9fb7ed7be81d3ed9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

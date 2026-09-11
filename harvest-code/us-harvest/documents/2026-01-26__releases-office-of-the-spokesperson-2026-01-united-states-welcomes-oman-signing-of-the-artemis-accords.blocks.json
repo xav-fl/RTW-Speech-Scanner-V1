@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/united-states-welcomes-oman-signing-of-the-artemis-accords/",
+ "institution_id": "us-state",
+ "title": "United States Welcomes Oman Signing of the Artemis Accords",
+ "date": "2026-01-26",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "99e91732fbd2fc99448d083b6d068dff1b0698761fe6b6215553689a44ab1180",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

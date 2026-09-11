@@ -1,0 +1,77 @@
+{
+ "url": "https://www.justice.gov/opa/pr/former-bia-officer-pleads-guilty-sexual-abuse-minor-and-lying-investigators",
+ "institution_id": "us-justice",
+ "title": "Former BIA Officer Pleads Guilty to Sexual Abuse of a Minor and Lying to Investigators",
+ "date": "2026-04-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "70c9b285922df7cae4b5d07e6d250d37f2bea64af29f0106977b7a93207865d6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

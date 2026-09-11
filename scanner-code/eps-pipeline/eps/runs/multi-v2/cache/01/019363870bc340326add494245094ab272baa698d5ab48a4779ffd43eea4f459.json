@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3eec1519f1.P003.S001\"], \"anchor\": \"wider changes that have been made to shared ownership through the launch of the Social and Affordable Homes Programme\", \"reason\": \"Policy change to shared ownership housing programme announced\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

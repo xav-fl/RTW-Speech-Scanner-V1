@@ -1,0 +1,101 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/06/04/sba-suspends-27486-ohio-borrowers-connected-11-billion-suspected-fraudulent-pandemic-era-loans",
+ "institution_id": "us-sba",
+ "title": "SBA Suspends 27,486 Ohio Borrowers Connected to $1.1 Billion in Suspected Fraudulent Pandemic-Era Loans",
+ "date": "2026-06-04",
+ "date_source": "metadata",
+ "source_document_type": "News release",
+ "text_sha256": "38192ebba40503fc866c1f0f4518966be29e3391a61aef45f7d190e8e82aad5b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "SBA Administrator Kelly Loeffler",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "SBA Administrator Kelly Loeffler",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

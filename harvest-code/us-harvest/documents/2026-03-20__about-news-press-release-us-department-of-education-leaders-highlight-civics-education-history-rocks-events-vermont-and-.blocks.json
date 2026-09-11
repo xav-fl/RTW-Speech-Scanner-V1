@@ -1,0 +1,101 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-leaders-highlight-civics-education-history-rocks-events-vermont-and-west-virginia",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Leaders Highlight Civics Education at “History Rocks!” Events in Vermont and West Virginia",
+ "date": "2026-03-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "aa79f2363938290c1e3390eca6fb7fb37a3a0d23d63ee736cce64df667989bb5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Mary Christina Riley",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Mary Christina Riley",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Greg Dolan",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Greg Dolan",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

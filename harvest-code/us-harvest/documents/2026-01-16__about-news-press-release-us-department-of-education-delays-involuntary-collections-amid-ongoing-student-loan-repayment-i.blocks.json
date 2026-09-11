@@ -1,0 +1,53 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-delays-involuntary-collections-amid-ongoing-student-loan-repayment-improvements",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Delays Involuntary Collections Amid Ongoing Student Loan Repayment Improvements",
+ "date": "2026-01-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "3e54bb9f23f607740fcee9232ad66625effec750ff5f0e941f5770c79320b4ee",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Under Secretary of Education Nicholas Kent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Under Secretary of Education Nicholas Kent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

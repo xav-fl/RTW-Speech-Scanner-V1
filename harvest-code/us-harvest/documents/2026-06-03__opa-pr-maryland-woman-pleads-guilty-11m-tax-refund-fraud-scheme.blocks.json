@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/maryland-woman-pleads-guilty-11m-tax-refund-fraud-scheme",
+ "institution_id": "us-justice",
+ "title": "Maryland Woman Pleads Guilty to $1.1M Tax Refund Fraud Scheme",
+ "date": "2026-06-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c1d4fefcb1144191f0a578b7135a77d85556738e0b56cf073a6a63a40d81a43d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

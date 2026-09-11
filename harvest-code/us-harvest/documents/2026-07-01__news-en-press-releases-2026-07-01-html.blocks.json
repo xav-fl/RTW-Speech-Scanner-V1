@@ -1,0 +1,113 @@
+{
+ "url": "https://www.ssa.gov/news/en/press/releases/2026-07-01.html",
+ "institution_id": "us-ssa",
+ "title": "Social Security Administration Celebrates America’s 250th with Commemorative Cards for Newborns",
+ "date": "2026-07-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "413597f4382dd0ffb6a314eee9361293c93db0ebfb4e51b819d12c2b9a7c4eac",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Commissioner Frank J. Bisignano",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Commissioner Frank J. Bisignano",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

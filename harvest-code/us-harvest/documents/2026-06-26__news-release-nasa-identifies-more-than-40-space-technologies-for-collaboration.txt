@@ -1,0 +1,65 @@
+Credit: NASA
+
+NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars.
+
+These American companies, picked from NASA’s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating solutions for space transportation, planetary surface operations, and lunar surface infrastructure.
+
+> We are empowering American industry to become active partners in NASA’s missions to the Moon, Mars, and beyond,
+
+said Greg Stover, director, Advanced Research and Technology Division in the agency’s Research and Technology Mission Directorate at NASA Headquarters in Washington.
+
+> By tapping into commercial industry, NASA can rapidly develop key capabilities to support its most ambitious missions while fostering the nation’s robust space economy.
+
+NASA’s ACO establishes mutually beneficial partnerships between the agency and industry without the exchange of funds. Through this opportunity, companies leverage NASA’s specialized facilities, software, hardware, and subject matter experts, allowing them to rapidly mature their technologies for both commercial markets and future government missions.
+
+Since launching the first ACO in 2015, NASA has supported more than 110 projects. The total estimated value of agency resources to support the agreements is approximately $30 million, which leverages an additional $32 million of industry contributions. The period of performance will be negotiated for each agreement, with an expected duration of 12 to 24 months.
+
+Industry proposers were tasked with responding to agency technology topics that would benefit from the rapid development enabled by a public-private partnership, including space transportation engine elements, guidance and navigation systems, landing systems, in-space servicing assembly and manufacturing, and energy management technologies.
+
+The complete list of selections can be found on the agency’s website and span cross-cutting capabilities, including:
+
+Power generation
+
+Lockheed Martin will mature a modular, compact energy solution that could support sustained power generation in the Moon’s permanently shadowed regions, helping future crew and resources survive the long lunar night. The company’s wireless power transfer system aims to advance power-beaming technology using fiber lasers and a space-based heat rejection system for durability.
+
+In-space logistics
+
+To enhance orbital missions, Kall Morris Inc. will develop Asteria, a supplemental payload attachment system. Asteria can attach to legacy, current, and next-generation orbital assets using a non-destructive, controlled-release adhesive without requiring pre-installed infrastructure. This technology enables advanced maneuvering, improved object tracking, asset protection, data collection, and satellite life extension.
+
+Dust mitigation technology
+
+Moonprint Solutions, a small business, is proposing flexible isolation covers to protect critical hardware and systems from abrasive dust in the harsh lunar environment. Flexible covers provide a strategic advantage by offering protection that conforms to complex shapes for a variety of hardware. These durable covers could be used on rovers, robotic joints, hoses, and other articulated equipment to support long-term operations on the Moon and Mars.
+
+Selected projects could make a significant impact on the commercial space sector, such as expanding existing or opening new markets, lowering price, increasing choice, or providing entirely new capabilities.
+
+Organizations interested in developing space technology with NASA can explore opportunities online.
+
+For more information about NASA’s space technology investments, visit:
+
+www.nasa.gov/spacetech
+
+-end-
+
+Jennifer Dooren / Rob Margetta Headquarters, Washington 202-358-1600 jennifer.m.dooren@nasa.gov / robert.j.margetta@nasa.gov
+
+Share
+
+Details
+
+Last Updated
+
+Jun 26, 2026
+
+Editor
+
+Jessica Taveau
+
+Location
+
+NASA Headquarters
+
+Related Terms
+
+Technology
+
+Space Technology Mission Directorate

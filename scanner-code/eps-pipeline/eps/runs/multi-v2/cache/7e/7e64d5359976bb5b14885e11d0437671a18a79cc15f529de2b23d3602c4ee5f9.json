@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about government safety standards for schools covering child development, mental health, and restricting exploitative content. The core substance is education policy (school safety standards) with a welfare/well-being dimension (mental health, emotional development).\n\nPrimary mechanism: regulatory standards for schools addressing child development and protection from harmful content → I2 (Education and Research Institutions).\n\nSecondary: mental health and well-being of children → I3 (Welfare, Well-Being, and Poverty) is a reasonable secondary given the explicit mental health mention.\n\n{\"primary\": \"I\", \"secondary\": [\"I\"]}\n\nWait — the rules ask for major category codes. Let me re-read: \"Choose the single major category\" and return letter codes.\n\n{\"primary\": \"I\", \"secondary\": []}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

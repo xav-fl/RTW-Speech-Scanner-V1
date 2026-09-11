@@ -1,0 +1,53 @@
+{
+ "url": "https://news.va.gov/press-room/va-hiring-more-than-300-employment-counselors-and-specialists/",
+ "institution_id": "us-va",
+ "title": "VA hiring more than 300 employment counselors and specialists",
+ "date": "2026-02-03",
+ "date_source": "metadata",
+ "source_document_type": "news-releases",
+ "text_sha256": "380d9102147834418e1df859cddd6b89c258296b8b468ef07f31f26612833849",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "VA Secretary Doug Collins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "VA Secretary Doug Collins",
+   "method": "speech_verb"
+  }
+ ]
+}

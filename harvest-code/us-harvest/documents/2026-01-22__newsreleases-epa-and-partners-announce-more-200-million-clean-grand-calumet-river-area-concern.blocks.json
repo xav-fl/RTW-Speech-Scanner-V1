@@ -1,0 +1,149 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-and-partners-announce-more-200-million-clean-grand-calumet-river-area-concern",
+ "institution_id": "us-epa",
+ "title": "EPA and Partners Announce More Than $200 Million to Clean Up Grand Calumet River Area of Concern",
+ "date": "2026-01-22",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "5a27699bbceafd42036d56605d7da654358b7d28fe90b2e47b9478931a34b8ac",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Gov. Mike Braun",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Gov. Mike Braun",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "U.S. Rep. Frank Mrvan",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "U.S. Rep. Frank Mrvan",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Fernando M",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Fernando M",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "Patricia Gallery",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "quote",
+   "speaker": "Patricia Gallery",
+   "method": "speech_verb"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

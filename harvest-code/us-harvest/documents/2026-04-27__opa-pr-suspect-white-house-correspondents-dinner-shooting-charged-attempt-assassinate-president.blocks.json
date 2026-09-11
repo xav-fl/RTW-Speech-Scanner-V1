@@ -1,0 +1,149 @@
+{
+ "url": "https://www.justice.gov/opa/pr/suspect-white-house-correspondents-dinner-shooting-charged-attempt-assassinate-president",
+ "institution_id": "us-justice",
+ "title": "Suspect in White House Correspondents’ Dinner Shooting Charged with Attempt to Assassinate the President",
+ "date": "2026-04-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "ef40035d85950533b710edf0b959b22dce6ddf333688e7752ac57c68513b018f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "structural"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Jeanine Pirro for the District of Columbia",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Jeanine Pirro for the District of Columbia",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Darren Cox",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Darren Cox",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

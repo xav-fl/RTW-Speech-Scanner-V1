@@ -1,0 +1,77 @@
+{
+ "url": "https://www.justice.gov/opa/pr/former-texas-correctional-officer-pleads-guilty-civil-rights-violation",
+ "institution_id": "us-justice",
+ "title": "Former Texas Correctional Officer Pleads Guilty to Civil Rights Violation",
+ "date": "2026-05-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "039f7929551d6c823267e2f6e30175bfaecb1fcdc3eab785966280ed4f8468d7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Jay R. Combs for the Eastern District of Texas",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Jay R. Combs for the Eastern District of Texas",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

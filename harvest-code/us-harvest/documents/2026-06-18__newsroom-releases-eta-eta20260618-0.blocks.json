@@ -1,0 +1,41 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260618-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor awards $1M to support Northern Mariana Islands residents affected by Super Typhoon Sinlaku",
+ "date": "2026-06-18",
+ "date_source": "listing",
+ "source_document_type": "ETA",
+ "text_sha256": "ce704fa85c081fa6df6e8c1d644c8d757bbb37a7987e99abc00ae44e9909d5b5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260106",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor announces availability of $145M in funding to support performance-based Registered Apprenticeship expansion",
+ "date": "2026-01-06",
+ "date_source": "listing",
+ "source_document_type": "ETA",
+ "text_sha256": "2f3d6b3c52a2837551e0c5b0ceba3eb80716d2a4392021db34194a4ee6e0dcbd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/targeting-the-houthis-illicit-revenue-generation-networks/",
+ "institution_id": "us-state",
+ "title": "Targeting the Houthis’ Illicit Revenue Generation Networks",
+ "date": "2026-01-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "253428e0e6603acfd8225de258a630ac7441851077fe0ecee4bd53eb529ebb76",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

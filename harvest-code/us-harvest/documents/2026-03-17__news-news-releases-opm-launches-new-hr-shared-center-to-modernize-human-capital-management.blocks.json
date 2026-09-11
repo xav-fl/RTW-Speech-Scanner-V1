@@ -1,0 +1,59 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-launches-new-hr-shared-center-to-modernize-human-capital-management/",
+ "institution_id": "us-opm",
+ "title": "OPM Launches New HR Shared Center to Modernize Human Capital Management",
+ "date": "2026-03-17",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "56972d31fd342a05d8635a7e2034b3778418208f54e103284d183f8b870f82ae",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

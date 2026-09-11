@@ -1,0 +1,137 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-reinforces-commitment-supporting-reliable-affordable-coal-fired-electricity",
+ "institution_id": "us-epa",
+ "title": "EPA Reinforces Commitment to Supporting Reliable, Affordable Coal-fired Electricity",
+ "date": "2026-05-14",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "9fac4ff4a93bab554960329a611dcf458b6e2fee4f0c8ccc29ec4f8558771698",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "National Mining Association General Counsel",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "America’s Power President",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "National Rural Electric Cooperative Association SVP",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "quote",
+   "speaker": "American Public Power Association President",
+   "method": "speech_verb"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

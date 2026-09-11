@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/tanzania-union-day/",
+ "institution_id": "us-state",
+ "title": "Tanzania Union Day",
+ "date": "2026-04-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "466cbe388e90cbf20e7c2bb8360d1bef299c7bbeb4c7da6ded47d112cec5910b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/united-states-and-the-dominican-republic-sign-nuclear-cooperation-memorandum-of-understanding/",
+ "institution_id": "us-state",
+ "title": "United States and the Dominican Republic Sign Nuclear Cooperation Memorandum of Understanding",
+ "date": "2026-06-17",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "267f50c8f1dcf4e5019526f24c5523e85d0eea5d09d5d62adc3656f12c99f9f2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

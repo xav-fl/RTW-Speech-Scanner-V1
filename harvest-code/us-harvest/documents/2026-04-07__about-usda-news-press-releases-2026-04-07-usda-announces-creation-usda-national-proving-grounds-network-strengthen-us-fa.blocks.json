@@ -1,0 +1,83 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/04/07/usda-announces-creation-usda-national-proving-grounds-network-strengthen-us-farm-and-ranch",
+ "institution_id": "us-agriculture",
+ "title": "USDA Announces the Creation of the USDA National Proving Grounds Network to Strengthen U.S. Farm and Ranch Profitability",
+ "date": "2026-04-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "ff1437236d7a76c7755db03a35c757db06c1902d2c4f9b082ca4e64155afa9a5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Under Secretary for Research",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Under Secretary for Research",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "ARS Administrator Joon Park",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "ARS Administrator Joon Park",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

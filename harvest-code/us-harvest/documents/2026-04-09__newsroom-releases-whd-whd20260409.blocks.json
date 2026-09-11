@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260409",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers $78K in back wages for 12 workers denied overtime pay by Austin buffet restaurant",
+ "date": "2026-04-09",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "9c9f3fece5351c7a7baa8ea216f42303e6a6db3c30c657043a4937dc44c9c36c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

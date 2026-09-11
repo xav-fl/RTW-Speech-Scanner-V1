@@ -1,0 +1,113 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0401/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Releases Two New Resources to Guide AI Use in the Financial Sector",
+ "date": "2026-02-19",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "934de7b2c571efe7a9562fd11e9a0c3eacb103b055a6eef7190a416cdeae72d5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Derek Theurer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Derek Theurer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Paras Malik",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Paras Malik",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Mr. Magri",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "Mr. Magri",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

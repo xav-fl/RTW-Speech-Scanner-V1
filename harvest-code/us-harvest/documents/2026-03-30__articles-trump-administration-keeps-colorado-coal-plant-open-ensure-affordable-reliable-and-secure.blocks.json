@@ -1,0 +1,71 @@
+{
+ "url": "https://www.energy.gov/articles/trump-administration-keeps-colorado-coal-plant-open-ensure-affordable-reliable-and-secure",
+ "institution_id": "us-energy",
+ "title": "Trump Administration Keeps Colorado Coal Plant Open to Ensure Affordable, Reliable and Secure Power in Colorado",
+ "date": "2026-03-30",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "5a2d8fd960bd706ca7335c7451ccd6e045d330ae2b8554ea2d29bd0533b49277",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Energy Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Energy Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

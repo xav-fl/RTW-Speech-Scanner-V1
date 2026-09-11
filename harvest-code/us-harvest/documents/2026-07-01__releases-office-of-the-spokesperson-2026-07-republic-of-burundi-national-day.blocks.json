@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/republic-of-burundi-national-day/",
+ "institution_id": "us-state",
+ "title": "Republic of Burundi National Day",
+ "date": "2026-07-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "08105d9ab7f162c9545494eaa4211106333f4656e53ed8a09cca690e078455fa",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

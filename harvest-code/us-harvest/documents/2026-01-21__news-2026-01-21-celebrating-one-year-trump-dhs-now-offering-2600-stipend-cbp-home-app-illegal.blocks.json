@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/21/celebrating-one-year-trump-dhs-now-offering-2600-stipend-cbp-home-app-illegal",
+ "institution_id": "us-dhs",
+ "title": "Celebrating One Year of Trump: DHS Now Offering $2,600 Stipend Via the CBP Home App for Illegal Aliens to Leave Now",
+ "date": "2026-01-21",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "3e3c4e506221707b1fe8479fda4d1656296a833c557f65024fdf4f4262a5f21e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Homeland Security Secretary Kristi Noem",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Homeland Security Secretary Kristi Noem",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

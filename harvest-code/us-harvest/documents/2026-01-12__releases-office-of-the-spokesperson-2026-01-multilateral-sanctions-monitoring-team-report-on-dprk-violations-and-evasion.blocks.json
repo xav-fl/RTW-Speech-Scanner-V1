@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/multilateral-sanctions-monitoring-team-report-on-dprk-violations-and-evasions-of-un-sanctions-through-cyber-and-information-technology-worker-activities/",
+ "institution_id": "us-state",
+ "title": "Multilateral Sanctions Monitoring Team Report on DPRK Violations and Evasions of UN Sanctions Through Cyber and Information Technology Worker Activities",
+ "date": "2026-01-12",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "cd76c1daed4f269d07cc8df95e1080b2b7cd1d6dd9da8602d8ef56256a97f849",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

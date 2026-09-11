@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260212",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers nearly $62K in back wages for 11 workers denied full tips by Denver restaurant",
+ "date": "2026-02-12",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "1e253008cd80997e3dedc7b5413cf4fd66148ca5ef5ceeff7eae166ba1261c5a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "David Skinner",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

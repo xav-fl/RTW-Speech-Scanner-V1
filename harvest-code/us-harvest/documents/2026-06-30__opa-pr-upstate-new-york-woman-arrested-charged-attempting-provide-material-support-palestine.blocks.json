@@ -1,0 +1,149 @@
+{
+ "url": "https://www.justice.gov/opa/pr/upstate-new-york-woman-arrested-charged-attempting-provide-material-support-palestine",
+ "institution_id": "us-justice",
+ "title": "Upstate New York Woman Arrested, Charged with Attempting to Provide Material Support to the Palestine Islamic Jihad",
+ "date": "2026-06-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "1b514332827b1eb0ec37cb4a643609cb5091bdb13b8fea47a991aa08df216390",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General for National Security John A. Eisenberg",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General for National Security John A. Eisenberg",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Michael DiGiacomo for the Western District of New York",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Michael DiGiacomo for the Western District of New York",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Acting Assistant Director Coult Markovsky of the FBI’s Counterterrorism Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Acting Assistant Director Coult Markovsky of the FBI’s Counterterrorism Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Washburn",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "Washburn",
+   "method": "structural"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "quote",
+   "speaker": "Washburn",
+   "method": "speech_verb"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "quote",
+   "speaker": "Washburn",
+   "method": "speech_verb"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-completes-accelerated-mission-to-remove-highly-enriched-uranium-from-venezuela/",
+ "institution_id": "us-state",
+ "title": "United States Completes Accelerated Mission to Remove Highly Enriched Uranium from Venezuela",
+ "date": "2026-05-14",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "c26cc3fe4a30659f1943daca86d69e0058ed50c517f028f8ecd5c2461faa2073",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

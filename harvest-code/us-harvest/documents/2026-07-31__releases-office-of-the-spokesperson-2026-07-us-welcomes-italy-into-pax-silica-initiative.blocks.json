@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/us-welcomes-italy-into-pax-silica-initiative/",
+ "institution_id": "us-state",
+ "title": "U.S. Welcomes Italy Into Pax Silica Initiative",
+ "date": "2026-07-31",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "8800187ea484445022b2e4a1305caa7ec39395b030c39124a5066d6669b4247f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

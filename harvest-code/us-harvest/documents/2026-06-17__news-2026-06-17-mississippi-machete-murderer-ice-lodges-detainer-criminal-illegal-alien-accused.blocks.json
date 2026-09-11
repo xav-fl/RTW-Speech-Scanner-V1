@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/06/17/mississippi-machete-murderer-ice-lodges-detainer-criminal-illegal-alien-accused",
+ "institution_id": "us-dhs",
+ "title": "MISSISSIPPI MACHETE MURDERER: ICE Lodges Detainer for Criminal Illegal Alien Accused of Murdering Roommate with Machete in Mississippi",
+ "date": "2026-06-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "53bffecf64865cccac23430ce4012c628d4e52a9f3b938f4893cde4bb8c9ab26",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

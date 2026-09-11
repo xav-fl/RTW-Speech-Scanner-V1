@@ -1,0 +1,67 @@
+TITLE: Protecting marketing terms for automated vehicles
+URL: https://www.gov.uk/government/speeches/protecting-marketing-terms-for-automated-vehicles
+DATE: 2026-07-07
+GOVUK_TYPE: written_statement
+LINKED_SPEAKERS: Simon Lightwood MP
+
+---
+
+I wish to provide the House with an update on the implementation of the Automated Vehicles Act 2024 (the AV act).
+
+Today (7 July 2026), I have published the government response to the protecting marketing terms consultation and laid the Automated Vehicles (Marketing Restrictions) Regulations 2026 statutory instrument.
+
+The purpose of the protecting marketing terms consultation was to identify the words, expressions, symbols or marks that should only be used to describe authorised or listed automated vehicles. These regulations will help prevent end-users in Great Britain from being misled into thinking that vehicles that are not authorised automated vehicles can safely and lawfully drive themselves.
+
+Misleading marketing of automated vehicles is dangerous: it can mislead drivers into thinking that they do not need to pay attention to the road. As more manufacturers offer high-end driver assistance
+systems, misleading marketing risks worsening road safety and could undermine trust and successful adoption of self-driving vehicle technology.
+
+The AV act sets out an authorisation process to determine whether a vehicle can drive itself safely and legally without being controlled or monitored by a human. This process would be undermined if businesses are able to claim that their vehicles are self-driving without getting the vehicles authorised, which may lead to confusion about vehicle capabilities and driver responsibilities.
+
+Consultation outcome
+
+The consultation demonstrated broad support for protecting certain marketing terms so that they may only be used legally to describe vehicles authorised or listed as able to safely drive themselves. This measure is intended to:
+
+safeguard the integrity of the authorisation and listing process
+
+ensure public safety
+
+build public trust in self-driving technology
+
+Protected terms and scope
+
+The following terms will be reserved for authorised or listed vehicles:
+
+automated
+
+automated driving
+
+autonomous
+
+autonomous driving
+
+drive autonomously
+
+drive itself
+
+driverless
+
+self-driving
+
+This protection will extend to different parts of speech and other grammatical forms of these terms. Additionally, the words ‘automated’ and ‘autonomous’ will only be protected when used to
+describe a vehicle as a whole or a vehicle’s overall driving capability, while remaining permissible for specific parts or features (for example, automated windscreen wipers or autonomous emergency
+braking).
+
+Other terms and enforcement
+
+Although consultees suggested additional terms such as ‘robotaxi’ and ‘AI driver’, these will be regulated under the general confusion offence (section 79).
+
+The government recognises that, as the technology is deployed, there may be other terms in future which could give a misleading impression that a vehicle is able to drive itself. This is why the protected terms offence under section 78 operates alongside the confusion offence under section 79. Marketing communications likely to confuse end-users into thinking that an unauthorised vehicle is capable of driving itself, including through the use of terms which are not protected, will be enforced through section 79. The government will keep this under review, with the possibility of protecting further terms in future.
+
+The AV act places a duty on the Secretary of State for Transport to enforce the marketing offences. In practice, enforcement is expected to be carried out by the department’s agencies through civil powers under Schedule 5 to the AV act. Where a breach of the marketing offences results in criminal prosecution and conviction, the act sets the maximum penalty as a 2-year prison term, a fine, or
+both.
+
+Next steps
+
+Some respondents raised an interest in further guidance on part 4 of the AV act (misleading marketing) and the government will consider developing supporting materials. A wider programme of education, research and review is also under consideration.
+
+A copy of this publication will be placed in the Libraries of both Houses and published on GOV.UK.

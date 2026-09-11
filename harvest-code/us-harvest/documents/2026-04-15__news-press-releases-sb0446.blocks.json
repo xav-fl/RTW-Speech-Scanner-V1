@@ -1,0 +1,35 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0446/",
+ "institution_id": "us-treasury",
+ "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with French Minister of Finance Roland Lescure",
+ "date": "2026-04-15",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "ce9939c32a228802ac9ed874f4d132803b47620f905e663a909245419e89dbdc",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/02/dhs-celebrates-sentencing-sarah-roots-killer",
+ "institution_id": "us-dhs",
+ "title": "DHS Celebrates the Sentencing of Sarah Root’s Killer",
+ "date": "2026-02-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "9c4e92a6c515ab3046f80eb2c1f325dda4cfe8f35b15e79f1e914db5842098db",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary Kristi Noem",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Secretary Kristi Noem",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

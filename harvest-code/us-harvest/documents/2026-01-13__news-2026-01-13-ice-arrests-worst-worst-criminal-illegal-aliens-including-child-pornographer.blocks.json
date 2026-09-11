@@ -1,0 +1,83 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/13/ice-arrests-worst-worst-criminal-illegal-aliens-including-child-pornographer",
+ "institution_id": "us-dhs",
+ "title": "ICE Arrests Worst of Worst Criminal Illegal Aliens Including a Child Pornographer",
+ "date": "2026-01-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "5d7aec19319f0918039eadd959193b049e02d183ac12a36d038282fe734f82cc",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

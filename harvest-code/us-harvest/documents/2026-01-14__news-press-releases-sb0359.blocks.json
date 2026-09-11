@@ -1,0 +1,35 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0359/",
+ "institution_id": "us-treasury",
+ "title": "Readout from Secretary Bessent’s meeting with Deputy Prime Minister and Minister of Economy and Finance Koo Yun Cheol, South Korea",
+ "date": "2026-01-14",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "b920d09cf04a4012c05c8d1c041a8d5e2a90bc5d3849d1845dd95caaf302d0eb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

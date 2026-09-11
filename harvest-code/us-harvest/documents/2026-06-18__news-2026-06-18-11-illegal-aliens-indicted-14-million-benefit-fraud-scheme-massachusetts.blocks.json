@@ -1,0 +1,161 @@
+{
+ "url": "https://www.dhs.gov/news/2026/06/18/11-illegal-aliens-indicted-14-million-benefit-fraud-scheme-massachusetts",
+ "institution_id": "us-dhs",
+ "title": "11 Illegal Aliens Indicted in $1.4 Million Benefit Fraud Scheme in Massachusetts",
+ "date": "2026-06-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "33814f2a20dfb4785b46ab2a30d8768b89da3c2ccffd0c0317386043aae720bb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "DHS Secretary Markwayne Mullin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "DHS Secretary Markwayne Mullin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Jeffrey Grimming",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Jeffrey Grimming",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Colin M. McDonald for the National Fraud Enforcement Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Colin M. McDonald for the National Fraud Enforcement Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Leah B. Foley",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Leah B. Foley",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 24,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

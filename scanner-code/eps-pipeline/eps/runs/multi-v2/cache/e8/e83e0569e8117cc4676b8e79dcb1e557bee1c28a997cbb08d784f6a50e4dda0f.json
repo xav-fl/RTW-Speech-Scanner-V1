@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about shared ownership housing — a tenure model where households purchase a partial equity stake in a home — being modified through a government-funded affordable housing programme. The core economic content is: a housing tenure/ownership structure (shared ownership) being reformed via a public spending programme targeting social and affordable homes.\n\nSpecific mechanism: changes to shared ownership eligibility/terms within a government affordable housing investment programme.\n\n- **R3** (Real Estate Markets) fits the shared ownership housing market dimension.\n- **H5** (National Government Expenditures and Related Policies) fits the public programme funding affordable homes.\n\nPrimary is R (housing/real estate policy); secondary H for the public expenditure programme dimension.\n\n{\"primary\": \"R\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

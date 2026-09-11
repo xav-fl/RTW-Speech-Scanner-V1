@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about transferring fire and rescue authority functions to elected Mayors through a devolution bill — this is fundamentally about intergovernmental relations and the structure/scope of subnational government.\n\nSpecific mechanism: reassignment of public service (fire & rescue) governance from existing authorities to regional Mayors via legislation.\n\n- **H7** (State and Local Government • Intergovernmental Relations) is the primary fit — it directly concerns the reallocation of governmental functions between levels/types of authority.\n- **H1** (Structure and Scope of Government) is also relevant as a secondary dimension — the statement concerns which tier of government performs which function.\n\n{\"primary\": \"H7\", \"secondary\": [\"H1\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

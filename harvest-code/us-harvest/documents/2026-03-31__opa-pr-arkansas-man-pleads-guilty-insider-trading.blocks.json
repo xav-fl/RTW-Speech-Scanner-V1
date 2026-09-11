@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/arkansas-man-pleads-guilty-insider-trading",
+ "institution_id": "us-justice",
+ "title": "Arkansas Man Pleads Guilty to Insider Trading",
+ "date": "2026-03-31",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "36dcffec99490b48923a3e4fe3323b61d453a4b5848e5e82989baa9e3ec01d30",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

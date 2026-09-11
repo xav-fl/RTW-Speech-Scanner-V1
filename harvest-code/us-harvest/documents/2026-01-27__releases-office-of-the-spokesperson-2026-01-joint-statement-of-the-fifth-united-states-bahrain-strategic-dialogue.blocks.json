@@ -1,0 +1,65 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-of-the-fifth-united-states-bahrain-strategic-dialogue/",
+ "institution_id": "us-state",
+ "title": "Joint Statement of the Fifth United States-Bahrain Strategic Dialogue",
+ "date": "2026-01-27",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "948f35d294661626ec5ec84b8fca958f541c5d394b0567ebbc295a9e260b1e87",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

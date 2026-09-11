@@ -1,0 +1,81 @@
+TITLE: Fuel Finder now helping drivers shop around for the best deals
+URL: https://www.gov.uk/government/news/fuel-finder-now-helping-drivers-shop-around-for-the-best-deals
+DATE: 2026-03-30
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Martin McCluskey MP; The Rt Hon Rachel Reeves MP
+
+---
+
+Government’s Fuel Finder mandates all UK petrol stations to report their prices, helping households with a car find the best deals and save around £40 a year
+
+Apps and websites including Confused.com, DriveScore, Fuel Finder UK, Fuel Spy, MotorMouth, PetrolPrices.com and RAC Fuel Watch are now displaying real time fuel prices, meaning drivers can find the cheapest fuel at stations close to them
+
+Drivers should continue filling up as normal, as the government continues fighting people’s corner and helping households with the cost of living amid conflict in the Middle East
+
+The government’s Fuel Finder scheme is now delivering real benefits at the pump, with a growing number of apps and websites making near live fuel prices available to drivers right across the UK – another major milestone in tackling the cost of living. 
+
+Government has today (Tuesday 31 March) launched a new GOV.UK page with information to help drivers easily access Fuel Finder to shop around for the best deals at the pump.
+
+Developers including including Confused.com, DriveScore, Fuel Finder UK, Fuel Spy, MotorMouth, PetrolPrices.com and RAC Fuel Watch are now using this data, meaning millions of drivers can compare prices at nearby forecourts in near real time – without having to drive around to find the best deal.
+
+Drivers should not have to guess whether they are being overcharged, which is why the government introduced Fuel Finder at the start of this year to make it easier to see which stations are cheapest locally and take business away from the priciest pumps.  
+
+By putting power back in the hands of drivers to see what petrol stations are charging, Fuel Finder could save households who own a car an average of £40 a year. 
+
+Drivers should continue filling up as normal, and with Fuel Finder now available on an increasing number of apps and websites, they will be able to see where the cheapest deals are at a tap of their fingers, helping to encourage competition and keep costs down. 
+
+Other major platforms are working to bring the same capability to their services as soon as possible, and drivers are encouraged to look around and use the sites and apps that work best for them.
+
+Chancellor of the Exchequer Rachel Reeves said:
+
+My priority is protecting family finances and standing up for drivers — and Fuel Finder puts power back into their hands.
+
+By giving drivers the information they need to see where fuel is cheapest locally, they can avoid being overcharged and continue to fill up as normal. This is in addition to other steps we’ve taken to help households keep costs down: extending the 5p fuel duty cut to September - which the previous government planned to increase; taking £117 off energy bills from April; and providing targeted support for those facing higher heating oil costs.
+
+Minister for Energy Consumers Martin McCluskey said:
+
+Tackling the cost of living is this government’s number one priority, which is why we launched Fuel Finder to force all petrol stations to share their prices. 
+
+It is good to see that a growing number of apps and websites are now using this data, helping drivers shop around for the best deal at the pump. 
+
+With energy bills also set to fall from tomorrow and over £50 million to help households using heating oil, we will keep fighting people’s corner and tackling the cost of living head on.
+
+Steve Dukes, CEO at Confused.com, said: 
+
+Our Petrol Prices tool helps tens of thousands of motorists each month find the cheapest pumps near them. And now, by integrating with Fuel Finder, drivers will have a better, real-time view of prices near them to help them find the cheapest option and save money.
+
+Fuel Finder is a positive step towards making motoring costs more affordable for drivers. More accurate and accessible data is important in so many aspects of cost and pricing in all industries, and we’re pleased to see how this is being applied to things like fuel where visibility of pricing has historically been limited.
+
+Andrew Hooks, GM at DriveScore, said: 
+
+Fuel costs remain one of the biggest everyday pressures for UK drivers, and people deserve simple, transparent ways to save. That’s why we launched DriveScore Fuel Finder - to help drivers quickly locate the best prices nearby and keep more money in their pocket. At a time when every pound counts, giving people smarter tools to manage their driving costs has never been more important.
+
+Scott Benson of Fuel Finder UK said: 
+
+I started fuel-finder.uk as a solo project in my spare time to provide a fast, simple way for motorists to find the best prices at the pump. With nearly a quarter of a million visits to the site recently, it’s clear there is a huge demand for this transparency. The government’s data has enabled the creation of features like instant price notifications, making it possible for an independent developer to build a tool that helps people save money every time they fill up.
+
+Andrew Watson, Managing Director of myAutomate owners of PetrolPrices.com, said: 
+
+The Fuel Finder scheme will enable PetrolPrices.com to build on our many years of service to the users of our platform, helping them make even more informed decisions about where to buy petrol and diesel.
+
+Luke Bosdet, Road Fuel Expert at the AA, said:  
+
+This is the first time that pump prices have coincided with price transparency set up by the UK government. This has shown drivers where to save money either locally or out on the open road. Use of the AA App’s fuel-price search tool has shot up 500% in the last month, such is the demand from motorists.
+
+This milestone is part of a wider package of action the government has taken amid the conflict in the Middle East to protect hardworking families. 
+
+Earlier this month, the Chancellor and Energy Secretary met with petrol retailers in No.11, making clear that drivers must receive a fair deal at the pump. The Chancellor has also written to the Competition and Markets Authority, who have confirmed they are stepping up their monitoring of petrol and diesel prices.
+
+The government has also confirmed over £50 million of targeted financial support, helping low-income households in rural communities on heating oil, who have no choice but to top up their tanks at a time when prices have risen significantly.    
+
+In England, funding will be distributed by local authorities via the Crisis and Resilience Fund, which comes into effect from 1 April, targeted areas with higher rates of oil heating.   
+
+This is a particular issue in Northern Ireland, where a greater proportion of homes rely on heating oil, which is why the government has allocated £17 million to support them. England will receive £27 million, Scotland £4.6 million and Wales £3.8 million. 
+
+From tomorrow, the energy price cap will fall by £117 a year, delivering lower bills for millions of households thanks to the removal of some costs off bills, funded by asking the wealthy to pay their fair share last year’s Budget. 
+
+Government action has also seen the national minimum and living wage increased, free breakfast clubs rolled out, and prescription fees and rail fares frozen – the latter for the first time in 30 years.
+
+Notes to editors
+
+Drivers are encouraged to look around for apps and websites using Fuel Finder which suit them best, and the government does not recommend or endorse any single developer over another. Any examples mentioned are for illustrative purposes only. We expect other platforms to integrate Fuel Finder data over the coming weeks and months.

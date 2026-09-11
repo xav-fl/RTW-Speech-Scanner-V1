@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-lee-zeldin-travels-los-angeles-survey-wildfire-rebuilding-efforts-view",
+ "institution_id": "us-epa",
+ "title": "Administrator Lee Zeldin Travels to Los Angeles to Survey Wildfire Rebuilding Efforts, View Seizure of Illegal Pesticides, and Highlight Agency Effort to Reduce Food Waste",
+ "date": "2026-07-02",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "c0d0f6a09d5fc115cfadd2ae83c5d27c98e6084aeea7823de1301d523c71535e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

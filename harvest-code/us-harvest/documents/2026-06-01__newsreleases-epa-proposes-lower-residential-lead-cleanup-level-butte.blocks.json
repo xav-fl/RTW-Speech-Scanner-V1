@@ -1,0 +1,83 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-proposes-lower-residential-lead-cleanup-level-butte",
+ "institution_id": "us-epa",
+ "title": "EPA proposes lower residential lead cleanup level for Butte",
+ "date": "2026-06-01",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "0c2efa69d8fd99dc7e1b21a3a6ee18a01a18a14ba1a00f6c932ecad60e50e98c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "blockquote"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

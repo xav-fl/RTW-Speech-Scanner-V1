@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the specific mechanisms named: pooling budgets across Mayoral authorities, joining up governance, and redesigning services — this is fundamentally about intergovernmental fiscal arrangements and the structure of regional/local government.\n\nThe specific instruments are:\n- **Budget pooling** across multiple Mayoral authorities → intergovernmental fiscal relations\n- **Governance joining** → regional government structure\n- **Service redesign** → public service delivery reform\n\nThis maps most precisely to **H7 — State and Local Government • Intergovernmental Relations**, which covers exactly the fiscal and governance coordination between levels/units of government.\n\nA secondary dimension is **R5 — Regional Government Analysis**, since this is explicitly about Mayoral (regional) authorities and how regional governance structures affect outcomes.\n\n{\"primary\": \"H\", \"secondary\": [\"R\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

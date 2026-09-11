@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/romanian-national-pleads-guilty-selling-access-networks-oregon-state-government-office-and",
+ "institution_id": "us-justice",
+ "title": "Romanian National Pleads Guilty to Selling Access to Networks of Oregon State Government Office and Other U.S. Victims",
+ "date": "2026-02-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "a10c38879993503b9363fff0cb20b993bd330cb01d437d7bdc4c9cb849efccf7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

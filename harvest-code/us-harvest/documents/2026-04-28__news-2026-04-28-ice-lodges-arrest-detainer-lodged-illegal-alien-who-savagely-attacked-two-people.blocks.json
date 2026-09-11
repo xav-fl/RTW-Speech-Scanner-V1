@@ -1,0 +1,113 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/28/ice-lodges-arrest-detainer-lodged-illegal-alien-who-savagely-attacked-two-people",
+ "institution_id": "us-dhs",
+ "title": "ICE Lodges Arrest Detainer Lodged for Illegal Alien Who Savagely Attacked Two People with a Machete in Wisconsin",
+ "date": "2026-04-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "1c1d089bef8a0c577e673feccd17e22fabf80a09159a37707feec7a4d8a6c730",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

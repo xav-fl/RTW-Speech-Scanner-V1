@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/norway-constitution-day-2/",
+ "institution_id": "us-state",
+ "title": "Norway Constitution Day",
+ "date": "2026-05-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "eefb89b9a707d1023939ecaa4f2d3c5d65b800a7ac696c2604e7e888b8bf3734",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

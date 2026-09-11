@@ -1,0 +1,71 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/03/10/usda-announces-new-funding-connect-farmers-local-markets",
+ "institution_id": "us-agriculture",
+ "title": "USDA Announces New Funding to Connect Farmers to Local Markets",
+ "date": "2026-03-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "7138e2497f2cfe03e1519c4544cabc1936137dbabec99a29db17408d3a990ab2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

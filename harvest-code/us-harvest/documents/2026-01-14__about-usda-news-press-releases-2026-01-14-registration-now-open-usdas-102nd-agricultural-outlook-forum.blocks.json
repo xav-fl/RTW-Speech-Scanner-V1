@@ -1,0 +1,53 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/01/14/registration-now-open-usdas-102nd-agricultural-outlook-forum",
+ "institution_id": "us-agriculture",
+ "title": "Registration is Now Open for USDA’s 102nd Agricultural Outlook Forum",
+ "date": "2026-01-14",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "5c96619bfc8cfb5375a5c0c546bb290b7b41e403eb6d8b18534699caeee4b310",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

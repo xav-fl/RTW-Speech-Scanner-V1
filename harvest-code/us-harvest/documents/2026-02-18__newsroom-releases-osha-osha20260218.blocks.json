@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260218",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites 2 Pennsylvania employers with serious safety violations following 2025 Clairton Coke Works explosion",
+ "date": "2026-02-18",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "776a73ee721cd0a2aa278a2799ea0de28c26dfd4866ded67cc5469d41c9d04aa",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

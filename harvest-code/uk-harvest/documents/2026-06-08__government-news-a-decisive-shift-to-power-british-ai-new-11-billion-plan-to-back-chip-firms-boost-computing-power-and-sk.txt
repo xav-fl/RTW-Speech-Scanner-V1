@@ -1,0 +1,111 @@
+TITLE: A decisive shift to power British AI: new £1.1 billion plan to back chip firms, boost computing power and skills for the AI revolution
+URL: https://www.gov.uk/government/news/a-decisive-shift-to-power-british-ai-new-11-billion-plan-to-back-chip-firms-boost-computing-power-and-skills-for-the-ai-revolution
+DATE: 2026-06-08
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Liz Kendall MP
+
+---
+
+Ambitious £1.1 billion AI Hardware Plan to back British firms developing the chips and computing power behind AI  
+
+£750 million for new national AI supercomputer - including £400 million to purchase next generation AI chips, of which £150 million is an advance commitment to buy novel chips from innovative startups and British firms already at the cutting edge of chip design 
+
+A new UK fund led by Silicon Valley investors Playground Global and backed by up to £150m from the British Business Bank - the largest fund investment the bank has ever made - to invest in UK-based hardware companies and help them scale
+
+A landmark £1.1 billion plan to boost Britain’s ability to develop, deploy and scale AI technologies and chips has been unveiled today (Monday 8 June) – pouring investment to back the next generation of British chip companies to support growth and jobs, strengthen national security, and boost the UK’s competitiveness.  
+
+AI is already changing how economies work, public services operate and countries protect their interests. As more of the economy and public services comes to rely on AI, it matters more than ever that Britain has the ability to develop key technologies securely here at home. Ready access to compute is critical to these ambitions: giving AI innovators the digital horsepower they need, to get to work in Britain. 
+
+The new AI Hardware Plan, announced by the Technology Secretary Liz Kendall at London Tech Week, sets out how the government will back British companies developing the chips and semiconductor technologies behind AI, while also investing in the scientists, engineers and technicians needed to turn new ideas into products and good jobs in the UK.  
+
+It comes just over a month after she announced in her speech at RUSI that the government would bring forward plans to boost Britain’s sovereign AI capabilities.
+
+The global AI chips market is expected to reach one trillion dollars in the early 2030s. If Britain could secure just 5% of this market it would bring fifty billion dollars in revenue to the UK with tens of thousands of highly paid jobs in tech. 
+
+British companies - from Arm, whose chip designs are used in everything from smartphones to AI data centres, to startups like Fractile and Olix, which have raised more than £320 ($440) million between them - are already leading the next generation of AI hardware.  This plan backs them - and the startups coming up behind them - to become the British AI titans of the future.  
+
+As the market shifts from general-purpose chips to bespoke hardware, that plays directly to the UK’s strengths, creating an opportunity for British firms to lead in the AI infrastructure of the future.  
+
+Technology Secretary Liz Kendall said:  
+
+AI is the defining currency of economic and hard power in today’s world and the countries that control the hardware behind it will hold the keys to the future.  
+
+The UK is already a global leader in chip design, and I believe this is a race Britain can win. To do that, we must back more British AI – and that means investing in the chips, computing power and skilled people behind it.   
+
+That is exactly what this plan does, backing the British firms developing the next generation of AI hardware, so we get more jobs, more growth, and more control over the technologies our future depends on. We are backing Britain because we believe in Britain.
+
+The AI Hardware Plan includes:  
+
+New £750 million for a national AI supercomputer: One of the most advanced in the world when deployed in 2030, it will bring together proven and next-generation processors and cutting-edge chips to run complex tasks more efficiently than traditional supercomputers. This is known as a heterogeneous mixed chip system. We want to see British-designed chips form a crucial part of the system, which will join Isambard-AI and Zenith (alongside DAWN) as part of the UK’s AI Research Resource, giving researchers, start-ups and public services the computing power they need to develop and run AI securely in Britain.
+
+Supporting UK start-ups by creating demand for powerful new chips in Britain: Of the £750 million, £400 million will go towards equipping the UK’s AI supercomputer with next-generation chips - a significant increase on previous plans. £150 million of this will be used to buy next-generation inference chips - which power the day-to-day use of AI tools - this summer, creating an immediate opportunity for British firms, who are well placed to compete. The government is acting as an early customer to help bring new technologies to market. A further £250 million will support the purchase of more specialised chips as the most promising technologies mature - helping the strongest designs reach market and compete at scale.
+
+Backing British companies to develop new technology: £120 million will fund a new AI Hardware Innovation Programme. Developing new chips can take years and cost millions before companies know if they will work, this programme gives British companies the funding to design, develop and test innovative novel chips, so the best ideas can move forward. It is how the UK makes sure the next generation of world-leading chip companies are grown here in Britain. 
+
+Helping firms prove their chip technology: At least £20 million of the programme will expand the Scaling Inference Lab, delivered by ARIA and CommonAI, to help companies prove their technology, attract investment and secure partnerships with global tech firms. The Lab is already delivering results. British AI company Oriole Networks, working with AMD through the Lab, will deploy the world’s first large-scale AI system that uses light rather than electrical signals to move data between chips, boosting the performance of UK data centres.  
+
+Boosting skills needed by the AI hardware sector: £45 million in new support for skills – backing doctoral training and undergraduate bursaries to train more engineers, chip designers and technicians, and open up clear pathways into the sector from university and on-the-job training to build the pipeline of British talent the sector needs. This means that government is now making £80 million available, to support the industry’s skills needs.  
+
+Building on the UK’s strength in cutting-edge tech, a new fund led by Silicon Valley investors Playground Global – whose partners include Pat Gelsinger, former CEO of Intel -  and backed by up to £150m from the British Business Bank, will invest in UK-based AI hardware companies, giving British innovators the long-term backing they need to grow and stay in the UK, subject to completion of due diligence and legal negotiations. 
+
+It is the single largest fund investment the British Business bank has ever made, a signal of the scale of the government’s commitment to backing British AI hardware. The fund, developed by DSIT, and announced by the Chancellor at London Tech Week, will help them crowd in more private investment, and develop the technologies our future depends on, ensuring Britain can compete with the biggest players on the world stage. Playground Global will also open its first office outside the US in the UK, underlining Britain’s position as a leading place to develop the next generation of AI hardware.   
+
+Further details  
+
+AI developers need vast amounts of computing power to train advanced models, test ideas and run complex simulations, and a lack of access to it can be a serious bottleneck on their ability to grow. By building out the UK’s supercomputing capacity, the government is tackling that bottleneck head on, helping promising start ups to scale, innovators to develop new products, and scientists to make discoveries sooner.   
+
+The plan is about making sure the UK has the tools it needs to stay competitive, support innovation and protect its national security. It combines work with world-leading partners and support for British companies in the frontier technologies prioritised by the government’s Modern Industrial Strategy, where the UK has a real edge.    
+
+On top of this, the government is doubling the compute available through the AI Research Resource to firms backed by the Sovereign AI fund, ensuring founders get the computing power they need to build, scale and compete globally.  
+
+The plan includes a new £12 million Centre for Doctoral Training in Chip Design to train the next generation of chip designers in UK universities, and working with employers to open up more routes into semiconductor and AI hardware careers. It expands the government’s existing semiconductor skills programme, which is funding 300 undergraduate bursaries this year, and this will rise to 400 from next academic year and 500 the year after, with the total budget increasing to £48m.  
+
+Through TechFirst, the government has agreed a new strategic industry partnership with Arm, bringing one of the world’s leading chip designers into the UK’s skills pipeline, supporting the development of the future AI hardware workforce through industry engagement, expertise and alignment of training with real-world chip design needs.  
+
+A new £20 million expansion of the TechFirst programme will support 500 more UK PhD students with funding and support throughout their training in strategically critical fields like chip design and AI hardware, helping attract and retain the British researchers the sector needs to grow.   
+
+In addition to the £1.1 billion AI Hardware Plan, the government will soon be launching the tender process for the £750 million Next National Supercomputing Service at the University of Edinburgh - a major step in building the next generation of UK compute infrastructure, giving Britain the capability it needs to power advanced research, industry and public services into the future.  
+
+Pat Gelsinger, General Partner of Playground Global, said: 
+
+The U.K. is home to some of the world’s best innovators. Building on the momentum we already have in the UK, Playground will bring our deep technical expertise, Silicon Valley presence, and our global network to help early-stage UK companies scale into the next AI powerhouses.
+
+James Regan, CEO of Oriole Networks, said: 
+
+This is exactly the kind of coordinated ambition the UK needs. The AI Hardware Plan brings together government, research, and industry to build the infrastructure layer that will define the next decade of AI. At Oriole, we’re proud to play a role in delivering technologies that not only unlock performance at scale but also position the UK as a global hub for advanced AI systems and sustainable data center innovation.  
+
+Andy McLean, CEO of the UK Semiconductor Centre, said: 
+
+We welcome the publication of the UK’s AI hardware plan and the interventions it sets out. Semiconductors are the foundation on which AI is built, and there is significant opportunity for the UK to play a leading role in the rapid development and deployment of these technologies. 
+
+The UK’s semiconductor strengths are well aligned to opportunities across the AI stack, and we are already seeing substantial private investment in UK semiconductor companies operating at the forefront of these technologies. It is encouraging to see the government matching that ambition with new investment and a clear focus on accelerating knowledge, skills, scale and deployment. 
+
+The UK Semiconductor Centre’s missions are closely aligned with both the ambition of the plan and the interventions it outlines. We look forward to working with government, industry and the wider ecosystem to help translate this vision into tangible outcomes for the UK.
+
+Arm Executive Vice President and Chief Architect Richard Grisenthwaite said:
+
+Arm welcomes the opportunity to work with DSIT as a strategic partner for TechFirst, helping to strengthen the UK semiconductor skills pipeline and enable greater alignment and impact across education, research and workforce initiatives. As a company with its global headquarters in Cambridge, UK, we are committed to ensuring a strong pipeline of semiconductor engineers and look forward to supporting this programme as part of that effort.
+
+Jascha Achterberg, Co-founder of Callosum, said:
+
+It is beyond exciting to see that with the new AI Hardware Plan the UK is positioning itself to be at the forefront of this wave of heterogeneous computing. This will unlock not only inferencing current large scale AI much more efficiently but will also unlock a whole new generation of new algorithms and compute technologies that would not have been possible otherwise.
+
+Notes to editors
+
+Advance market commitments (AMC), are binding commitments to create a market for an innovative product or service that is not yet commercially developed. It does this based on pre-agreed technical specifications that new products must meet, incentivising the market to develop new technologies by promising to buy its outputs.  
+
+The novel compute AMC will procure hardware from companies who produce next-generation hardware that outperforms current state-of-the-art hardware. Successful vendors who provide performant hardware will be deployed into AIRR, exposing their hardware to a diverse workload range, connecting them with new use cases and user groups, and providing AIRR users access to bleeding-edge inference hardware to unlock new innovations and scientific discoveries here in the UK.  
+
+The new national AI supercomputer will be designed as a flexible, future-ready platform using different chips specialised for different tasks, so the computer can do a wider range of workflows efficiently. It will bring different types of processors together, including cutting-edge chips designed specifically to run AI models after they have been trained. This is an emerging area of chip development where UK startups are already making strides, and British-designed chips could form a crucial part of the system. The platform will also have the potential to integrate quantum capabilities over time. 
+
+Together, these systems are providing the infrastructure needed to support cutting-edge AI research and innovation, giving Britain’s world-leading universities, researchers and innovators the computing power they need to accelerate breakthroughs and ensure the UK remains globally competitive in AI.  
+
+The Next National Supercomputing Service (NNSS) in Edinburgh will be a complementary system to the AI Research Resource and National Compute Resources, providing dedicated capability for high-precision modelling and simulation. It will succeed ARCHER2, the flagship supercomputer already in operation at Edinburgh, and support work ranging from climate modelling to the development of advanced materials.  
+
+A new £18 million Hardware Security R&D Programme will strengthen the secure deployment and scaling of AI hardware, supporting collaboration across government, industry and academia to bridge the gap between research and commercial use.  
+
+The Compound Semiconductor Catapult - part of the UK’s network of government-backed technology centres that help businesses take innovations from the lab to market- will be rebranded as the ‘Semiconductor Catapult’ and refocused around AI hardware, supporting companies to integrate and validate systems as they move towards deployment.  
+
+UK AI hardware companies will be able to access financing through UK Export Finance to help scale internationally, including support to invest in capacity, manage delivery risk and grow export capability. UKEF is also exploring financing models that could support the deployment of UK-designed hardware in data centre infrastructure overseas.  
+
+A new UK Semiconductor Sector Study commissioned by DSIT from Perspective Economics and published today, shows the UK semiconductor sector is growing rapidly. The study shows the sector comprised 297 dedicated firms in 2024/25, up from 210 in 2022/23, generating an estimated £10.6 billion in revenue (up 9%) and employing 16,350 people (up 7%). Based on current trends revenue is expected to reach ~£14bn in 2030, rising to ~£17bn in a high growth scenario, with 83% of firms forecasting growth over the coming years.

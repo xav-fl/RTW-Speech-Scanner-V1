@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dhs.gov/news/2026/07/30/ice-seeking-fines-more-470000-against-immigration-attorney-allegedly-filing-false",
+ "institution_id": "us-dhs",
+ "title": "ICE Seeking Fines of More Than $470,000 Against Immigration Attorney for Allegedly Filing False Asylum Claims",
+ "date": "2026-07-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "c31f93c0bf43e8ae0bd02f7640d0fee663756414ca29e389b9f999b73e257da2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "DHS General Counsel James Percival",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "DHS General Counsel James Percival",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.energy.gov/articles/united-states-release-172-million-barrels-oil-strategic-petroleum-reserve",
+ "institution_id": "us-energy",
+ "title": "United States to Release 172 Million Barrels of Oil From the Strategic Petroleum Reserve",
+ "date": "2026-03-11",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "c5c00ce96a978d08b606f134d91498528beaefc65534d84db37a2be1b33f270b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

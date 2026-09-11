@@ -1,0 +1,71 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-lee-zeldin-visits-energy-producers-farmers-oklahoma-city",
+ "institution_id": "us-epa",
+ "title": "Administrator Lee Zeldin Visits with Energy Producers, Farmers in Oklahoma City",
+ "date": "2026-06-02",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "edae92a70ad35602c90ca34c330a61584b8a93d6f7760800b1e7eb3a238a0e0e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

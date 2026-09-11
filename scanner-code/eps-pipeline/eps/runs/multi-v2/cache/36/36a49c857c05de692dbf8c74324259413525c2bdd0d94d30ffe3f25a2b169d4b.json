@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3f0626c5e9.P002.S001\", \"D3f0626c5e9.P002.S002\"], \"anchor\": null, \"reason\": \"Time-limited emergency measures to accelerate housebuilding and maximise affordable housing delivery\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

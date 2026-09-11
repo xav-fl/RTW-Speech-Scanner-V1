@@ -1,0 +1,77 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-splits-ozone-nonattainment-areas-and-reduces-regulatory-burdens-across-parts",
+ "institution_id": "us-epa",
+ "title": "EPA Splits Ozone Nonattainment Areas and Reduces Regulatory Burdens Across Parts of Maryland, Delaware",
+ "date": "2026-06-05",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "8d2bf16f755ba0251e47efc9356196b59fba4698bc48d4c0a26d769ef4e4c251",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Mid-Atlantic Regional Administrator Amy Van Blarcom-Lackey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Mid-Atlantic Regional Administrator Amy Van Blarcom-Lackey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

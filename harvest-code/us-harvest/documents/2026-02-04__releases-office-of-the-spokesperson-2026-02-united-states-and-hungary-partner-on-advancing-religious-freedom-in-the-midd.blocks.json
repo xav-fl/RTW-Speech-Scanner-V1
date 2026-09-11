@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/united-states-and-hungary-partner-on-advancing-religious-freedom-in-the-middle-east-and-africa/",
+ "institution_id": "us-state",
+ "title": "United States and Hungary Partner on Advancing Religious Freedom in the Middle East and Africa",
+ "date": "2026-02-04",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "ee67af8683728c784e839bcd941b4548b476b1919447366693924079c052e3f7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/swiss-businessman-extradited-united-states-pleads-guilty-international-securities-fraud",
+ "institution_id": "us-justice",
+ "title": "Swiss Businessman Extradited to the United States Pleads Guilty to International Securities Fraud Scheme",
+ "date": "2026-03-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "9c933966102ed32f36594ac73a72589bd16353e19615ef6bc68de94ee9dd546f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

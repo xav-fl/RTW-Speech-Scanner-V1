@@ -1,0 +1,53 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-investigates-washington-state-school-district-over-alleged-sexual-assault-of-female-wrestler-male-competitor",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Investigates Washington State School District Over Alleged Sexual Assault of Female Wrestler by Male Competitor",
+ "date": "2026-02-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "7469e7ea874cd12aff661bc14b96b623dfa6a699fa5c16d7195064f63deec92e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

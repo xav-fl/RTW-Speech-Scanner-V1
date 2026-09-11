@@ -1,0 +1,59 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0429/",
+ "institution_id": "us-treasury",
+ "title": "Secretary Bessent: “Financial Literacy Unlocks Opportunity for Every American”",
+ "date": "2026-04-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "95f4a0feef554cb3eb4eea532032dcba52d5d5eb4aa4d9db9581ceca2a436df9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

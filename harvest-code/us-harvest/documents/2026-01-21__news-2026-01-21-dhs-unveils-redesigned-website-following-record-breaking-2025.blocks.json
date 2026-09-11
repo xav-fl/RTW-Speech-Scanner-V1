@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/21/dhs-unveils-redesigned-website-following-record-breaking-2025",
+ "institution_id": "us-dhs",
+ "title": "DHS Unveils Redesigned Website Following Record-Breaking 2025",
+ "date": "2026-01-21",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "c934b4d3719e25111ce8b97612d6d43d66711396baa9d530e87cf0c57499d8c3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/icymi-epa-leads-update-response-potomac-interceptor-collapse",
+ "institution_id": "us-epa",
+ "title": "ICYMI: EPA Leads Update on Response to Potomac Interceptor Collapse",
+ "date": "2026-03-18",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "7005ee67986f054ea4008526b41a6375b777c3675a39348baae5ec5892662396",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Senior Response Officer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Senior Response Officer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

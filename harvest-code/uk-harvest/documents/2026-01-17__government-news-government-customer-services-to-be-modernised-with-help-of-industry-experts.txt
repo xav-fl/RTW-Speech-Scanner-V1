@@ -1,0 +1,78 @@
+TITLE: Government customer services to be modernised with help of industry experts
+URL: https://www.gov.uk/government/news/government-customer-services-to-be-modernised-with-help-of-industry-experts
+DATE: 2026-01-17
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Ian Murray MP; Simon Lightwood MP
+
+---
+
+Faster response times and more efficient service for the millions of people who use government services
+
+Octopus Energy CEO Greg Jackson to co‑chair new CustomerFirst unit
+
+DVLA first to partner with CustomerFirst
+
+Long phone queues, repeated form-filling, and endless paperwork will be cut out as technology is put to work to transform public services, modernise government, and accelerate national renewal across the UK. 
+
+CustomerFirst is a new unit within Department for Science, Innovation and Technology (DSIT), led by Tristan Thomas, formerly of Monzo, with Greg Jackson, CEO of Octopus Energy, as first co-chair. Bringing together the best civil service operators alongside leading private sector disruptors and transformation specialists, it will test innovative ways to tackle delays and frustrations by partnering with departments to rewire the government services on which millions rely. 
+
+CustomerFirst will look to build services that make use of AI and modern solutions to mirror excellent customer services in the best of the private sector – from modern banking and online shopping to utilities. At energy firm Octopus, for example, generative AI tools assist in drafting 35% of all customer emails, slashing wait times and receiving customer satisfaction ratings of 70%.  
+
+CustomerFirst will help the hardworking employees delivering services, not just end customers - ensuring dedicated customer service staff have the right tools to do their job well.   
+
+It will also deliver savings for taxpayers through end‑to‑end reform and smarter use of technology by departments. There is a potential £4 billion saving from moving service processing online, rather than phone, post or in person. 
+
+Minister for Digital Government Ian Murray said:  
+
+Too often people are put off from interacting with the services they need by the frustration that comes with waiting on hold, filling in endless forms, and jumping through hoop after hoop.
+
+A culture of ‘computer says no’ is not good enough, and this Roadmap sets out the wide range of brilliant work happening across government to improve public services and citizens’ interaction with them.
+
+Alongside that we’re launching CustomerFirst – taking bold steps in how we redesign services so they meet the demands of modern life – fast, simple, and stress-free.
+
+Greg Jackson, Founder and CEO of Octopus Energy, said: 
+
+Everyone in Britain is dependent on public services for so many critical things in our lives. With modern technology, including AI, and even more importantly - empowered teams whose job it is to help citizens - we can improve service without increasing costs. Brits deserve better, and I hope this will help deliver it.
+
+The Driver and Vehicle Licensing Agency (DVLA) is the first to partner with CustomerFirst. The team will think radically about how DVLA handles the millions of customer interactions each year on driving licences, vehicle registration and other motoring services. This will make life easier for motorists by deploying technology on the front lines of customer service, much like how government AI tools like Caddy are already helping contact-centre teams give faster, more accurate support. 
+
+The DVLA transformation will serve as a blueprint for improving services across government. Supported by CustomerFirst, other departments will deliver the same improvements unlocked by technology, ensuring millions more people benefit from simpler, faster interactions with the state. 
+
+DVLA CEO Tim Moss CBE, said:   
+
+We are excited to be working with DSIT on the CustomerFirst programme. DVLA has a track record of delivering great digital services and we are keen to build on this and further develop the next generation of high-quality services that citizens should expect.
+
+Minister for Roads and Buses, Simon Lightwood, said: 
+
+Contacting any service provider should be easy. Too many people are stuck waiting on hold or filling out the same forms again and again.
+
+We want to make getting on the road as simple as possible. Beginning with DVLA, we’re using modern technology to help drivers handle their licences quicker and easier, helping motorists get the best support.
+
+The announcement comes as part of the government’s Roadmap for a Modern Digital Government, published today – setting out how technology will be used to transform public services across the state. This will include everything from digitising the planning system to accelerate house building, to making it easier for people to manage their benefits and tax online, putting a seamless user experience at the heart of everyday interactions with government services.
+
+CustomerFirst builds on work taking place across government to modernise public services. HMRC has set out ambitious service improvement goals in its Transformation Roadmap, while the NHS app is making it easier for patients to book appointments and receive test results.  
+
+While these improvements will make services faster and simpler for millions, the government is committed to ensuring no one is left behind. Services will remain accessible to everyone, including older people and those less confident using technology, with telephone and face-to-face options continuing to be available for those who need them. 
+
+The government is looking for senior and experienced talent who want to be part of this change. Expressions of interest are now open for experts in service design, solutions architecture, and product management.
+
+Notes to editors
+
+Statistics referenced on Octopus Energy’s use of AI. The Roadmap for a Modern Digital Government provides a cross-government view of how technology is being used to transform services across the state.   
+
+CustomerFirst is a new team established to help government departments improve customer service through modern technology and delivery practice, working free from legacy constraints. It brings together expertise from the private sector and government to redesign services from the ground up.  
+
+CustomerFirst will take a “NewCo” approach to transformation, tackling problems away from legacy systems, and having the autonomy to test and build new solutions.  
+- It will deliver savings through end‑to‑end reform and smarter use of technology by departments, while building long-term capability and operating structures to deliver transformation.
+
+The first initiative is working with DVLA. DVLA handles millions of customer interactions each year relating to driving licences, vehicle registration and other motoring services.   
+
+The transformation will focus on making services digital-first whilst ensuring they remain accessible to all users, including those who cannot access services online.   
+
+The government is looking for the best and brightest in service design, solutions architecture and product management to help us shake things up and transform essential services end-to-end. Expressions of interest are open now for senior roles in service design, solutions architecture and product management.
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

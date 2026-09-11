@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-the-u-s-switzerland-strategic-partnership-dialogue/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on the U.S.-Switzerland Strategic Partnership Dialogue",
+ "date": "2026-05-07",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "6b6a8d7be111d6e695590e21b25b9b84a12b0e807aea2da0bdaf484e845baf8c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

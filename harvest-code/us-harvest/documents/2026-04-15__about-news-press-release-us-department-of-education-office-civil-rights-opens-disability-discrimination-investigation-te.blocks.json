@@ -1,0 +1,53 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-office-civil-rights-opens-disability-discrimination-investigation-texas-school-district",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Office for Civil Rights Opens Disability-Discrimination Investigation into Texas School District",
+ "date": "2026-04-15",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "e7eba66533b21e3af7dd14ca6f7fd92a6ee109b1a3ab0500eb3211c4e539495d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

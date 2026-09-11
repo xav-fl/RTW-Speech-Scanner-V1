@@ -1,0 +1,83 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-wraps-work-protect-people-hazardous-conditions-3800-highland-ave-niagara-falls-ny",
+ "institution_id": "us-epa",
+ "title": "EPA Wraps Up Work to Protect People from Hazardous Conditions at 3800 Highland Ave, Niagara Falls, NY",
+ "date": "2026-01-22",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "0c56854f68b7ffd9becb42cc648839f2d6a608da3ea46fb989bbb26aa5d2b0b8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Michael Martucci",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Michael Martucci",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-advances-cooperative-federalism-improve-air-quality-taking-important-step",
+ "institution_id": "us-epa",
+ "title": "EPA Advances Cooperative Federalism to Improve Air Quality by Taking an Important Step to Reconsider Biden-era “Good Neighbor Plan”",
+ "date": "2026-01-28",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "bc07e8a36f3e692ff3dc757dce68a25c6422c2c5f6bd07e24e0d2610f55f0a10",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

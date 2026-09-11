@@ -1,0 +1,65 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-on-the-trilateral-meeting-between-the-governments-of-the-united-states-of-america-the-state-of-israel-and-the-syrian-arab-republic/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on the Trilateral Meeting Between the Governments of the United States of America, the State of Israel, and the Syrian Arab Republic",
+ "date": "2026-01-06",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "42cca771cd36f48dc32cceb66bbcc0327a8feb117a09aa98088c1d442b5d15a4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

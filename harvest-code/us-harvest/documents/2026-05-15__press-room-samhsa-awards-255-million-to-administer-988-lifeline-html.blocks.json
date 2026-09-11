@@ -1,0 +1,119 @@
+{
+ "url": "https://www.hhs.gov/press-room/samhsa-awards-255-million-to-administer-988-lifeline.html",
+ "institution_id": "us-hhs",
+ "title": "SAMHSA Awards $255 Million to Administer 988 Lifeline",
+ "date": "2026-05-15",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "3c8b3d1be6f94164f25658d852b4e1667177c89beed57aedadebd101507773f9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

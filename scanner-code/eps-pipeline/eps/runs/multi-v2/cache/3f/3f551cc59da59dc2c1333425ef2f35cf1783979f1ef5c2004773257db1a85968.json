@@ -1,0 +1,5 @@
+{
+  "text": "I need to identify the specific mechanism: a tax relief (business rates relief) for Electric Vehicle Charging Points, administered by local authorities, announced at the Budget.\n\nThe core substance is:\n1. A tax relief instrument (business rates relief) → H2 (Taxation, Subsidies, and Revenue)\n2. Applied to EV charging infrastructure → Q4 (Energy) or R4 (Transportation Economics)\n3. Administered by local authorities → H7 (State and Local Government)\n\nThe primary economic content is a specific tax relief (the instrument itself IS the substance here - it's a charging point relief, a fiscal instrument). The rule says \"unless the instrument itself is the substance of the claim\" - and here the relief IS the substance. This is about administering a tax subsidy/relief.\n\nPrimary: H2 (Taxation, Subsidies, and Revenue) - the EV Charging Point Relief is a tax relief instrument\nSecondary: H7 (State and Local Government - local authorities administering it) and Q4 (Energy - EV charging infrastructure)\n\n{\"primary\": \"H2\", \"secondary\": [\"H7\", \"Q4\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

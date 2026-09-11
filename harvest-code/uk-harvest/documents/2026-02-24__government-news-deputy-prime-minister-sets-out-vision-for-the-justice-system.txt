@@ -1,0 +1,61 @@
+TITLE: Deputy Prime Minister sets out vision for the justice system
+URL: https://www.gov.uk/government/news/deputy-prime-minister-sets-out-vision-for-the-justice-system
+DATE: 2026-02-24
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon David Lammy MP
+
+---
+
+New AI courts assistant and National Listing Framework to standardise listing and limit unnecessary delays for victims 
+
+‘Blitz’ courts surge to tackle backlog of assault against emergency workers 
+
+Vision for future of justice system set out in a speech at Excel Centre in London at the Microsoft AI Tour
+
+Speaking at the Microsoft AI Tour at the Excel Centre in London, David Lammy presented his vision for the future of the court system that will deliver faster and fairer justice for victims by combining investment, reform, and modernisation.  
+
+The Deputy Prime Minister also set out several key measures that will be taken forward from Part Two of Sir Brian Leveson’s Independent Review of Criminal Courts.  
+
+This included the creation of a National Listing Framework – standardising the process of how it is decided when cases are heard in court to stop there being a variation from court to court. 
+
+It will help address what many view as a postcode lottery for victims of crime. This will help ensure serious cases, like rape and sexual offences, are treated with the consistency and urgency they deserve.  
+
+Alongside this the Government will also support the courts and the judiciary in resolving older cases through “Blitz” courts. This is where courts list similar cases together over a short period of time – concentrating court resources and the expertise required – and helping to ensure any guilty pleas come earlier in the process. It will also make it less likely that court time is wasted when a case cannot proceed at the last minute. 
+
+Beginning from April 2026, these Blitz courts in London will focus on assaults on emergency workers to progress and clear older cases that have been waiting years for justice.   
+
+These measures address fundamental changes to how the criminal justice system operates in the modern era and a failure to renew justice at the pace the modern world demands. Police are arresting and charging more people and in the digital era cases have been increasingly complex with 90% of all crime having some form of digital evidence.
+
+At the opening of the speech the Deputy Prime Minister set out the problems the justice system faces and how technology could deliver faster and fair justice:
+
+Recently I visited the Ontario Court of Justice in Toronto. It’s a large modern building, digital by design. Purposefully paperless with judge-only trials handling down quick and fair justice for summary and some more offences… 
+
+It’s efficient, orderly and above all it works. Walking through the courthouse, I had an uncomfortable realisation: I felt less like a visitor from another country and more like one from another time, catching a glimpse of what could be. A vision of justice designed for the world as it is, not as it once was… 
+
+We inherited a justice system on the point of collapse in every arena and it falls to us to fix it. To reform the justice system so that it can react… 
+
+Founded on the progressive principles that have underpinned Britain’s criminal justice system for centuries. But shaped with the realism of recognising that this era requires new structures to produce justice that is swift and fair.
+
+The Deputy Prime Minister also set out his plan to dramatically expand the use of AI throughout the court system to better support the courts, save time and improve efficiency and transparency. This includes using AI to transcribe more hearings, including within the Immigration and Asylum Tribunals, using it to anonymise material across the court system as well as summarising judgments.  
+
+Alongside this HMCTS will also pilot an AI-assisted listing assistant to make it easier for cases to be listed, moving away from pen and paper and introducing digital scheduling as advocated by Sir Brian.
+
+Other measures set out by the Deputy Prime Minister as part of the speech included:
+
+Expanding Case Co-ordinators to all Crown Court centres – ensuring each court has specialist staff whose job is to move cases forward and handling routine tasks that would otherwise take up judges’ time. 
+
+Working with the judiciary to expand the pool of judges eligible to be filmed when passing sentencing – increasing transparency and understanding of the court process and ensuring the public can see justice being served.  
+
+Investing in new video infrastructure to expand online hearings while still maintaining fairness and transparency. This will mean more video hearings in the Crown and Magistrates’ Courts than ever before – saving time, money and making the system more flexible.  
+
+Expanding a scheme already used in cities like Manchester, Bristol, and Nottingham which will mean more local authorities will allow prisoner vans to use bus lanes to deliver defendants to court. The department will also work with Transport for London to reduce avoidable delays and keep the justice system moving.
+
+The speech follows the announcement this morning that the criminal courts will be funded at the highest ever level to hear as many cases as possible next year to speed up justice for victims. The agreement between the Deputy Prime Minister and the senior judiciary guarantees there will be no cap on the number of days the Crown Court can sit next year. It also agreed that the magistrates’ courts will be funded to the highest operational capacity. 
+
+For the first time, firm funding commitments have been agreed for the next three years simultaneously – giving the justice system the long-term stability it needs to plan ahead.
+
+Concluding his speech the Deputy Prime Minister said: 
+
+Today, we are calling time on that system and consigning it to the past – from our huge investment in the courts, to our comprehensive reform programme and our plans to use technology to turbocharge how justice is done… 
+
+We will renew the system after years of decline, so that it is serious about justice as it exists today and once again we’re able to deliver the swifter outcomes that victims should be able to expect and have always deserved.

@@ -1,0 +1,83 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/07/sanctuary-calamity-ice-arrests-criminal-illegal-alien-facing-kidnapping-charges",
+ "institution_id": "us-dhs",
+ "title": "SANCTUARY CALAMITY: ICE Arrests Criminal Illegal Alien Facing Kidnapping Charges Following His RELEASE from Jail by New York Sanctuary Politicians",
+ "date": "2026-04-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "9716f92de7bfffded5cefb107483cfd54465803d2fed6d4a94d5e3e954f950e3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

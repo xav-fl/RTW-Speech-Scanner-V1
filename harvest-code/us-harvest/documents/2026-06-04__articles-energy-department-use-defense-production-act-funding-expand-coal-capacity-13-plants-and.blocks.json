@@ -1,0 +1,71 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-use-defense-production-act-funding-expand-coal-capacity-13-plants-and",
+ "institution_id": "us-energy",
+ "title": "Energy Department to Use Defense Production Act Funding to Expand Coal Capacity at 13 Plants and Build Export Infrastructure",
+ "date": "2026-06-04",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "b623a27c98127a9aa6bd78f7f1ab50bb838ce677328c114e8548da536f53c36b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Energy Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Energy Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "DOE Under Secretary of Energy Kyle Haustveit",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "DOE Under Secretary of Energy Kyle Haustveit",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

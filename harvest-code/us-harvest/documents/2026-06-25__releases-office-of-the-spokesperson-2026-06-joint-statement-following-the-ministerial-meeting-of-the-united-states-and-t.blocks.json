@@ -1,0 +1,59 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-following-the-ministerial-meeting-of-the-united-states-and-the-gulf-cooperation-council-gcc/",
+ "institution_id": "us-state",
+ "title": "Joint Statement Following the Ministerial Meeting of the United States and the Gulf Cooperation Council (GCC)",
+ "date": "2026-06-25",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "86ac68819ccc0c033b2b754f4e783fa23100adde83498b31bd510fafa7507226",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

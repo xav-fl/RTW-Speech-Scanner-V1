@@ -1,0 +1,33 @@
+WASHINGTON—JUNE 26, 2026— The Office of the National Coordinator for Health Information Technology (ONC) at the U.S. Department of Health and Human Services today announced new steps to strengthen the Trusted Exchange Framework and Common Agreement™ (TEFCA®), the nationwide network that helps patients and healthcare providers securely share electronic health information.
+
+> Americans deserve secure, timely access to their health records,
+
+said HHS Secretary Robert F. Kennedy, Jr.
+
+> We are strengthening TEFCA to put patients in control of their health information, improve care coordination, and ensure health data moves securely where it is needed. Access to your own health records is a fundamental right.
+
+Under Secretary Kennedy’s leadership, use of the TEFCA network has expanded rapidly. In less than one year, the number of health records exchanged through TEFCA has grown from 10 million to more than 1 billion.
+
+> Seamless interoperability is essential for quality care; health records must flow easily between providers and patients,
+
+said Chris Klomp, HHS Chief Counselor and Director of the Center for Medicare.
+
+> When critical health information is blocked or withheld, patients suffer the consequences. We are fully committed to using every appropriate regulatory and policy tool available to root out information blocking and protect patients’ right to access their own health data.
+
+To support the continued growth of TEFCA, ONC has awarded a new contract to strengthen oversight of the network and verify that organizations participating in TEFCA follow required policies and procedures. ONC is also conducting additional reviews of Qualified Health Information Networks® (QHINs™) and their participants to help ensure compliance with TEFCA’s rules and operating requirements.
+
+> Exchange across the TEFCA network is just getting started,
+
+said Thomas Keane, MD, MBA, National Coordinator for Health IT.
+
+> ONC is executing against its mission to ensure the network is secure and that the quality of data exchanged allows for better clinical outcomes. As ONC identifies any behaviors on the network that are potentially civilly or criminally actionable, including information blocking and fraud, we will refer them to the appropriate Executive Branch agencies for investigation, including the HHS Office for Civil Rights, HHS Office of Inspector General, and the Department of Justice.
+
+> As HHS advances the exchange of health information through TEFCA, the Office for Civil Rights serves a critical law enforcement function through the enforcement of the HIPAA Rules. Americans’ health information must remain confidential and secure, yet readily accessible by them,
+
+said Paula M. Stannard, Director of the HHS Office for Civil Rights (OCR).
+
+> Trust in those principles is foundational — and nonnegotiable. Individuals who believe that their right to access their health information has been denied or that its security has been violated can file a complaint with OCR.
+
+Today’s investment reflects ONC’s ongoing commitment to maintaining a secure, reliable, and trusted national health information network.
+
+More information about ONC’s health technology efforts is available at www.healthit.gov, on LinkedIn, or by following @ONC_HealthIT on X.

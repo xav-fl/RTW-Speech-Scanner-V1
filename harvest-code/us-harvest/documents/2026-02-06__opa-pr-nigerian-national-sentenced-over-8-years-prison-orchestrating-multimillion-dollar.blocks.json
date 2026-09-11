@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/nigerian-national-sentenced-over-8-years-prison-orchestrating-multimillion-dollar",
+ "institution_id": "us-justice",
+ "title": "Nigerian National Sentenced to Over 8 Years in Prison for Orchestrating Multimillion-Dollar Inheritance Fraud Scheme",
+ "date": "2026-02-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c0261068efd490a8903ac773220d11a5376f69f49358bf7a14064ec3b2d41fd3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

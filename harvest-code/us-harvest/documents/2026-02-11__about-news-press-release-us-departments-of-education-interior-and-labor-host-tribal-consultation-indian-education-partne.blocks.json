@@ -1,0 +1,107 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-departments-of-education-interior-and-labor-host-tribal-consultation-indian-education-partnership",
+ "institution_id": "us-education",
+ "title": "U.S. Departments of Education, Interior, and Labor Host Tribal Consultation on Indian Education Partnership",
+ "date": "2026-02-11",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "545b035b638c6db89f7b1ee2bb5400824aa38b1de1a9e2e19f6c405c158af565",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Education Linda McMahon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Education Linda McMahon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of the Interior Doug Burgum",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of the Interior Doug Burgum",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

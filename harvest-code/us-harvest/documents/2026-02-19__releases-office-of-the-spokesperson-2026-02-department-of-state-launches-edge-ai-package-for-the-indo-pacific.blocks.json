@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/department-of-state-launches-edge-ai-package-for-the-indo-pacific/",
+ "institution_id": "us-state",
+ "title": "Department of State Launches Edge AI Package for the Indo-Pacific",
+ "date": "2026-02-19",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "e4d04a20340904d8de658dcb4404f7d5a5d710351edf755124ae2e02a7a6312f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

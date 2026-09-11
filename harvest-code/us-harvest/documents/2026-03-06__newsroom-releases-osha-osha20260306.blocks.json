@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260306",
+ "institution_id": "us-labor",
+ "title": "US Labor Department finds Union Pacific Railroad wrongly terminated employee for reporting, seeking medical care for work-related injury",
+ "date": "2026-03-06",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "8a8d6b26d6c6c5ea401ce33caa4b06c51b91b97b253a7cc8356dd73f16176b14",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

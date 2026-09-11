@@ -1,0 +1,79 @@
+The Committee convened in a closed session at the Department of the Treasury at 9:00 a.m. All members except Jill Funk and Anastasia Titarchuk were present. Rudy Gopinath from Citigroup was also present to assist the Committee Chair. Director of Policy & Planning Hunter McMaster, Deputy Assistant Secretary for Federal Finance Brian Smith, Director of the Office of Debt Management Fred Pietrangeli, and Deputy Director of the Office of Debt Management Tom Katzenbach welcomed the Committee. Other members of Treasury staff present were Abigail Brown, Chris Cameron, Dave Chung, Gabriella Csepe, Chris Furey, Liang Jensen, Gavin Ross, Joshua Stachura, Nick Steele, and Renee Tang. Federal Reserve Bank of New York staff members Ellen Correia Golay, Oliver Giannotti, and Trevor Graney were also present.
+
+Deputy Assistant Secretary Smith opened the meeting by thanking outgoing member Gagan Singh for his service to the Committee and summarizing recent debt management developments. Following his remarks, Treasury counsel presented the annual review of Committee guidelines.
+
+Director of the Office of Fiscal Projections Steele highlighted changes in receipts and outlays during Q1 FY2026. Within receipts, Steele emphasized a 315% (or $71 billion) increase in customs deposits reflecting higher tariff revenue, as well as growth in both withheld (+$47 billion) and non-withheld (+$45 billion) taxes. Somewhat offsetting these gains, corporate taxes declined by 23% (or $27 billion), likely because corporate tax provisions in the OBBB that allow for accelerated expensing and depreciation. In terms of outlays, Steele noted that the largest increase occurred at Treasury, which rose by 13% (or $48 billion), primarily due to interest on the public debt. Department of Education outlays decreased by 26% (or $11 billion), while a group of other outlays fell by 64% (or $68 billion), primarily due to a reduction in disbursements by the Environmental Protection Agency and the Federal Emergency Management Agency.
+
+Director Pietrangeli then turned to deficit and privately-held net marketable borrowing projections, noting that the median primary dealer reduced its aggregate FY2026-28 privately-held marketable borrowing estimate by $258 billion. The latest dealer estimates show that, at current issuance sizes, Treasury is slightly overfunded in FY2026. However, looking ahead, the median primary dealer forecast for privately-held net marketable borrowing implies a $1.1 trillion funding shortfall in FY2027-28 based on current coupon auction sizes and bill supply.
+
+Deputy Director Katzenbach reviewed primary dealers’ expectations for coupon issuance. The consensus remains that current coupon auction sizes leave Treasury well-positioned to meet its projected financing needs through FY2026, with changes in Treasury bill supply likely being adequate to address any changes in financing needs. Respondents cited the Federal Reserve’s anticipated purchases of Treasury bills as supportive of demand in that sector of the market. Dealers anticipate that nominal coupon auction sizes might next increase in late CY2026 or early CY2027.
+
+Debt Manager Jensen then summarized primary dealers’ views on Secured Overnight Financing Rate (SOFR)-indexed floating rate notes (FRNs). The consensus was that the SOFR FRN market has expanded rapidly in the last five years, with demand focused primarily on money market mutual funds (MMFs) but also including bank treasury portfolios and foreign investors. Most dealers expressed support for Treasury issuing SOFR-indexed FRNs. Supporters argued that a Treasury SOFR FRN would diversify Treasury’s front-end issuance mix and potentially reduce funding costs, given the strong incremental demand. Some dealers emphasized the risk of potentially cannibalizing demand for Treasury bills and for the existing 2-year Treasury FRN, while several dealers cautioned that Treasury could be exposed to spikes in SOFR during periods of funding market stress. Most dealers pointed to a 1-year final maturity as particularly attractive in meeting demand from MMFs. The Committee briefly discussed the feedback from dealers and the pros and cons of Treasury issuing a SOFR-linked FRN, and concluded that Treasury should study the idea further.
+
+Debt Manager Ross reviewed primary dealers’ thoughts on potential alternative buyback execution mechanisms. Dealers noted that off-the-run Treasury securities typically trade on a yield spread basis relative to on-the-run benchmarks in the secondary market, and that exchange transactions are a well-established market practice. Allowing yield spread offers in buyback operations could attract broader participation among market participants, leading to more competitively priced offers in buyback operations. Exchange operations are viewed as marginally beneficial, but the impact would vary across market participants. While many dealers and certain leveraged investors may prefer some form of an exchange transaction due to their typical trading strategies, real-money investors could prefer outright cash transactions. From a Treasury supply perspective, exchanges would have a more neutral effect on the outstanding duration and the weighted average maturity of Treasury’s debt portfolio. However, they would also reduce Treasury’s flexibility in financing buybacks and result in changes to the supply of on-the-run securities. It is important to note that while Treasury values the feedback of market participants, either of these changes would require further exploration of key design details and significant time and effort to implement.
+
+Debt Manager Stachura then summarized primary dealers’ feedback on the potential to issue 7-year notes quarterly with two reopenings instead of a monthly new issue. Most dealers were supportive of this proposal, expecting it would improve liquidity in the secondary market, especially as the securities aged. Dealers estimated that billions of dollars in balance sheet space could be unlocked for intermediation under such a proposal. The potential impact on repo and futures markets was seen as largely benign.
+
+The Committee then discussed the first charge, addressing bill purchases and the consolidated balance sheet. The presenter noted that the concept of a consolidated balance sheet between the Federal Reserve and Treasury was previously addressed in a February 2020 Committee presentation. The Committee then discussed the circumstances where Treasury should focus on the composition of privately-held Treasury debt outstanding or the composition of total debt outstanding. The presenter reviewed the key elements of the Federal Reserve’s balance sheet, and how they alter effective interest rate risk when considered on a consolidated basis. The presenter noted that, in the current environment, it would be reasonable for Treasury to meet some portion of the Federal Reserve’s System Open Market Account (SOMA) demand for Treasury bills through increased issuance in this sector of the curve. The presentation also discussed how the results of the Committee’s optimal debt issuance model might change when separating the interest-bearing and non-interest-bearing components. Lastly, the presenter advised that Fed policy inflection points are relevant times to consider the composition of privately-held Treasury securities when making issuance decisions.
+
+The Committee adjourned at 11:45 a.m. for lunch.
+
+The Committee reconvened at 1:15 p.m.
+
+The Committee then discussed the second charge, which addressed trends in demand for Treasury securities. The presenter highlighted several structural shifts shaping demand, including runoff from SOMA, growth in MMF assets, expanding bank portfolios, evolving pension plan structures, increasing Treasury holdings by foreign private investors, and potential demand associated with stablecoins. The discussion also covered key considerations—such as collateral needs, duration management, diversification benefits, and central bank reserve management—that are influencing Treasury allocations in portfolios. The presenter concluded by describing how incremental demand for Treasuries might evolve going forward, noting that the short and intermediate sectors of the curve were likely to experience the broadest growth.
+
+Finally, the Committee turned to its financing recommendation for the upcoming quarters and unanimously recommended that Treasury maintain nominal coupon, FRN, and TIPS auction sizes at current levels.
+
+The Committee adjourned at 2:20 p.m.
+
+The Committee reconvened at 3:00 p.m.
+
+The Chair summarized key elements of the Committee report for Secretary Bessent and followed with a discussion of recent market developments.
+
+The Committee adjourned at 3:55 p.m.
+
+_________________________________
+
+Brian Smith
+
+Deputy Assistant Secretary for Federal Finance
+
+United States Department of the Treasury
+
+February 3, 2026
+
+Certified by:
+
+_________________________________
+
+Deirdre Dunn, Chair
+
+Treasury Borrowing Advisory Committee
+
+February 3, 2026
+
+Treasury Borrowing Advisory Committee Quarterly Meeting
+
+Committee Charge – February 3, 2026
+
+Fiscal Outlook
+
+Taking into consideration Treasury's short, intermediate, and long-term financing requirements, as well as the variability in financing needs from quarter to quarter, what changes, if any, do you recommend to Treasury issuance? Please also provide perspectives regarding market expectations for Treasury issuance, the effects of changes in SOMA holdings, the evolution of Treasury holdings by different types of investors, as well as auction calendar construction.
+
+Bill Purchases and the Consolidated Balance Sheet
+
+In December 2025, the Federal Reserve began purchasing Treasury bills through open market operations in order to reinvest principal payments on its holdings of agency mortgage-backed securities as well as maintain an ample supply of reserves on an ongoing basis. Building on previous work, including the TBAC presentation from February 2020 and analyses of the effect of Federal Reserve holdings on the maturity profile and timing of rate resets for the “consolidated” balance sheet, please assess to what extent Treasury issuance plans should be affected by expected Federal Reserve purchases of Treasury securities. When evaluating its issuance mix, in what circumstances should Treasury focus on the composition of a) only privately-held Treasury securities or b) total Treasury debt outstanding (including holdings of the Federal Reserve System Open Market Account).
+
+Investor Trends
+
+Please discuss recent developments in investor demand for Treasury securities. How do you expect structural demand for different Treasury products and tenors to evolve over the next several years? What are the most promising sources of potential additional demand (either from new investors or additional demand from existing investors)? What factors are most important in affecting demand from different investor types?
+
+Financing this Quarter
+
+We would like the Committee’s advice on the following:
+
+The composition of Treasury notes and bonds to refund approximately $90.2 billion of privately-held notes and bonds maturing on February 15, 2026.
+
+The composition of Treasury marketable financing for the remainder of the January-March 2026 quarter.
+
+The composition of Treasury marketable financing for the April-June 2026 quarter.

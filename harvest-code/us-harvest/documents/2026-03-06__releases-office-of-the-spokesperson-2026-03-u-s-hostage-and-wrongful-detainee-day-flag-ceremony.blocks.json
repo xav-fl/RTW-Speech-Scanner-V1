@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/u-s-hostage-and-wrongful-detainee-day-flag-ceremony/",
+ "institution_id": "us-state",
+ "title": "U.S. Hostage and Wrongful Detainee Day Flag Ceremony",
+ "date": "2026-03-06",
+ "date_source": "metadata",
+ "source_document_type": "Notice to the Press",
+ "text_sha256": "e68252b75687b27ad7c61e14ab52714f3b226fe84d3cd99fb1390aa3799ecf62",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

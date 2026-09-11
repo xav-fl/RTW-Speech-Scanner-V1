@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/joint-statement-of-the-15th-u-s-italy-joint-commission-meeting-on-science-and-technology-cooperation/",
+ "institution_id": "us-state",
+ "title": "Joint Statement of the 15th U.S.-Italy Joint Commission Meeting on Science and Technology Cooperation",
+ "date": "2026-04-02",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "925b562b4634d36fba53a196c5f18b1477ff5533f14b562c760b1e461c25172c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

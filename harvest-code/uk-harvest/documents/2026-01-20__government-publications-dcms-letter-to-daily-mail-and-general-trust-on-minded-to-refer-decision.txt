@@ -1,0 +1,9 @@
+TITLE: DCMS letter to Daily Mail and General Trust on ‘minded to’ refer decision
+URL: https://www.gov.uk/government/publications/dcms-letter-to-daily-mail-and-general-trust-on-minded-to-refer-decision
+DATE: 2026-01-20
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+DCMS letter to the solicitors acting on behalf of Daily Mail and General Trust plc, informing them that the Secretary of State for Culture, Media and Sport is minded to refer the anticipated acquisition of Telegraph Media Group Holdings by the Daily Mail and General Trust plc for further investigation by Ofcom.

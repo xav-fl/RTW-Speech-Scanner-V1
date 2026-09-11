@@ -1,0 +1,113 @@
+TITLE: Policing minister on the launch of PoliceAI
+URL: https://www.gov.uk/government/speeches/policing-minister-on-the-launch-of-policeai
+DATE: 2026-06-10
+GOVUK_TYPE: speech
+LINKED_SPEAKERS: Sarah Jones MP
+
+---
+
+Thank you so much for the introduction. And isn’t it wonderful to be here?  
+
+I was just saying, I brought my first son here multiple times to make sure he was properly educated, and my last 3 haven’t been here so much. So my first born is very interested in science, and my last 3 are just on their phones all the time.  
+
+Right, it’s really good to be here. It’s such an exciting day. We’ve had, in the last couple of weeks a million young people, not in education or in learning or any kind of training, and there are lots of reasons for that. It’s an awful thing that is happening, and we need to fix it.  
+
+There are lots and lots of reasons why – COVID mental health being one of them – but the risk of AI taking some of our jobs is another one. 
+
+So, on the one hand, you have this body of people who are really worried about AI and, on the other, you have the extraordinary potential of what AI can do.  
+
+I think it’s all of our jobs to take the good and help us fix the bad, but to be really careful how we use AI, so that we are doing it for the right reasons, and we are doing it so we can fight crime, and that we are doing it so we can keep people safe, and that we’re not doing it for the wrong reasons. 
+
+And I think that’s why, in particular, I’m so pleased that we’re launching PoliceAI, because it will help us unleash the power of what AI can do. But it will also help us keep the guardrails around what we’re doing and why we’re doing it, which I think is incredibly important. Of course, across government, there’s a lot of work going on around AI.  
+
+The Prime Minister launched the AI Opportunities Action Plan last year, and he was very clear that we want to be an active government in this space. We want to not just sit back and sort of wait for the change to come, but to guide it.  
+
+And he called on all of the government departments to harness the power of AI to improve our public services across the board, and we are already doing this in areas like healthcare, where AI is helping doctors, for example, to detect diseases earlier, which is extraordinary.  
+
+And it’s speeding up decision making as well. We are using it in the Home Office already in the asylum system, for example, where AI is helping save asylum decision makers over an hour per case, which is very important.
+
+We look at the backlogs that we have in the asylum process but, turning to policing, I think it’s helpful to just remember what the challenge is that we are trying to overcome with our enormous police reform agenda, which is the biggest reform agenda in 200 years.  
+
+We’re basically trying to do a number of things. First, there is an epidemic of everyday harm, and we know that this really bothers people. It makes people feel unsafe in their communities, and it makes people less confident in our policing. An epidemic of everyday crime, where we need to make sure we have enough police in our communities to focus on that crime.  
+
+Secondly, we aren’t joined up at a national level, so the criminals are sometimes one step ahead of us.  
+
+You look at counter terror (CT) and serious organized crime, 2 separate parts of policing, so you might be investigating the money laundering at the National Crime Agency, but actually, that money laundering is driving terrorism that is dealt with through CT. We need to bring these things together.  
+
+Thirdly, the infrastructure of policing has not been invested for a long time, so whether it’s the physical infrastructure or whether it’s the tech, we know that we are in some cases very far behind the times.  
+
+And lastly, a lot of our police officers – and I see this all the time when I go out on response – are having to spend a lot of their time filling in forms, dealing with bureaucracy, and not doing the things that they came into policing to do.  
+
+And AI has some of the answers to all of those challenges from early trials that we’ve done. I think there are police forces across the country who have done some really interesting things in this space, which show that AI can lead to faster investigations, it can lead to new evidential leads, more rapists and robbers caught, and officers freed up from desks to be redeployed into the front line. And those are the opportunities that I want us to just touch on this morning.  
+
+So, what is PoliceAI, and how can it help us catch criminals?  
+
+Well, first, it is dedicated to developing and piloting, evaluating, and scaling AI across police forces across England and Wales, and it will be guided by a fundamental principle of using AI to improve public safety. 
+
+Second, it will take a hands-on approach. So it will focus on areas where we know AI is mature enough already to make the biggest difference to outcomes for the public at a local level. So, where local forces are already trailblazing, PoliceAI will provide the route to evaluate and scale the tools that show the most promise.  
+
+Where universities are leading the research, PoliceAI will work with them to translate applied research into real-world impact. 
+
+And third, we want to maximize success and learn from some of the issues that have held back national delivery in policing, such as the time it can take accessing funding in government, as we all know. 
+
+And that is why we confirmed with PoliceAI a 3-year settlement from the outset with a minimum of £75 million committed over those 3years. 
+
+And that’s why we’ll have the ability to also directly subsidize local force costs for software licenses, or business change, or training and evaluation. PoliceAI has been designed at the core of our police reform agenda, so it will bring together policing and AI at a national level, which will enable us to build towards a much more coherent national system. To give an example, most AI products rely on the same narrow set of underlying models. It will be pointless for each force to independently check these models for accuracy and bias. So, PoliceAI will do it once for all the forces across England and Wales. 
+
+This will save taxpayer money, for sure, but more importantly, it will ensure communities across the country benefit from a consistent, high-quality service.  So, how will PoliceAI help? Well, a top priority is improving police investigations. We know how long it takes to triage digital evidence, to redact it, to translate it, and to prepare disclosure schedules. This is time that is spent behind a desk when we want officers to be able to use their skills fighting crime, and some of the emerging stories from the trials that have been done are really extraordinary. 800 hours of footage in a kidnapping case took three hours and led to an early guilty plea, which is quite extraordinary. 800 hours just shrunk to three hours.  
+
+500,000 eBooks, another example of downloaded data in Romanian, was translated into English immediately, creating new evidential needs that led to the arrest of a serious organized crime gang engaged in catch point theft. PoliceAI will soon launch several large scale pilots, where up to 10 forces will have access to AI tools to help with triaging, disclosing, and summarizing digital evidence.  
+
+These pilots will run over this financial year, backed by high-quality technical assessments of how well the AI performs, and we will then look to scale across policing over 2027  
+
+This will learn from the work we started in 2024 to support officers to adopt AI-enabled redaction technology. 26 forces have been supported to date and, last month, we launched the next round of funding.  
+
+When all 43 forces are using this technology to redact, over a million hours of police time can be freed up per year in total  
+
+We intend to free up at least 6 million hours of police time by the end of 2028. That is the equivalent of 3,000 full-time officers, which is quite extraordinary.  Our top priority, of course, is preventing and detecting crime, and AI is already proving its worth in this space.  
+
+If you look at live facial recognition, the technology is transformational, and we are very proud to promote it.  
+
+I have it in my own constituency and, every 2 weeks, I get a report from the local police about how many criminals they have arrested in a 2-hour period. Most weeks that they do it, 8 to 10 fairly serious criminals are caught in that 2-hour period.  
+
+It’s quite extraordinary, and these are rapists, domestic abusers and child sex offenders as well.  
+
+And I know that there are some chiefs who are leading the way in this in London and South Wales, in particular Sir Mark Rowley and Jeremy Vaughan, but we want all forces to have access, and we want to go further, and we want all communities to benefit.  
+
+So we are, with record investing, investing in 40 more units, a mix of vans, trailer-mounted systems, and national support units, which will triple the capacity that we have at the moment.  
+
+We’re also, through the Police Reform Bill, setting the parameters of what we use live facial recognition for, because people are rightly concerned about the use of this imagery and what that means for their own private rights. And there are organizations that legitimately have concerns about this, so we are, through the Police Reform Bill, going to set the guardrails for the use of live facial recognition, so everyone can be clear what it’s used for and how we’re going to operate it.  
+
+But facial recognition isn’t the only way AI can be used to prevent and accept crime. PoliceAI will take our support to the next level, and I want to give you two examples. First, PoliceAI will take the lead on piloting and scaling deepfake detection tools. I see Great British companies designing these tools, so hopefully we’re going to use. wherever we can, our British expertise when we’re spending our money on police.  
+
+AI deepfakes are sadly very prevalent, and it’s not only the police who can benefit from AI. Our criminals are using it too, particularly so for deepfakes, where we’re seeing what are called nudification apps being used to create really vile deepfake intimate images without consent.  We’ve also started to see the use of deepfake evidence to frustrate and delay investigations with false alibis. So the government’s move simply to ban the creation and distribution of these images, as well as the nudification apps that make them, needs to be backed by ensuring the police have the tools and the training to investigate these crimes.  
+
+So, PoliceAI will lead a national response to AI-enabled crime. It will improve training, guidance, and recording and get high quality detection tools into the hands of our police forces as quickly as we can.  Second, we want to prioritize acquisitive crime, the epidemic of everyday crime that I talked about at the start, particularly retail crime and tool theft. Discovery work has kicked off in this area, along with the National Business Crime Centre and some of our industry partners. A key focus will be joining up police data with existing tool registration and property marking databases. This will allow tools that are recovered from suspects or found in police property stores to more rapidly be identified and returned to their rightful owner.  
+
+We know, for example, our tradesmen, when they get their tools stolen, the immediate return of their tools is absolutely crucial, because the insurance process can take time. So this will speed up that ability to return the tools to their rightful owner, which will make a huge difference to those people. And I want to back this by expanding the use of computer vision search tools, working directly with Google to leverage their state of the art tech, and allowing police to rapidly identify stolen goods being resold online.  I also want to use large language models to analyse the vast reservoirs of free text data held on police systems, so we can better understand the nature of criminality. For something like tool theft, this will allow us to understand exactly what is being solved and the size of the problem, and fundamentally help us design out the crime and catch criminals.  
+
+A final priority that I want to touch on is the responsibility of AI and responsible use of AI.  
+
+Policing by consent is an absolute corporate principle of policing in this country. If we do not take communities with us, then we risk a legal and reputational backlash.  
+
+Ultimately, this could undermine any benefits that we achieve. All of us need to be aware that whilst AI has significant potential, it will never have a zero-error rate.  
+
+AI models will always hallucinate. It’s our job to ensure that these are kept to a minimum, that models are free of bias, and mistakes are caught when they do occur.  
+
+Our work on facial recognition serves as an exemplar. Work in the National Physical Laboratory means we have a really rigorous independent testing regime for live facial recognition with very low rates of false alerts, and we’re going to put, as I said, a legal framework around it.  
+
+This figure we must use with other uses of AI. The public have a right to transparency, not just on what tools are in use, but also how they are being used.  
+
+PoliceAI will publish and maintain a registry of AI tools in use across policing. All forces will need to complete this registry and keep it updated.  
+
+PoliceAI will partner with Centric, based out of Sheffield Hallam University, to produce this by, I hope, the autumn. PoliceAI will also provide national guidance on how to build, test, and run AI models.  
+
+It will be backed by deepening the existing collaboration with the Progressive Futures academic team, led by leading AI ethicists Professor Marion Oswald and Dame Muffy Calder, and supported by £3.4 million of government funding over four years.  We’ll be partnering with Microsoft and Kent Police to deliver a CoPilot Centre of Excellence focused on getting the most out of this tool and using it responsibly. You’ll remember the awful incident in the West Midlands, where an AI model hallucinated a fake Maccabi Tel Aviv match, which found its way into the force’s decision-making process. This incident exemplified the risk to public trust in having insufficient officer training and safeguards in place around the use of AI. We must do more to prevent similar happening again. So, I hope that gives a flavour of what PoliceAI will do, and I’m sure more will be said on it today. PoliceAI isn’t the only action being taken by the government.  
+
+Last month, we announced a £9.3 million cash injection into the Tackling Organized Exploitation Programme, which gives forces access to AI-enabled language translation and transcription tools, which will help pursue offenders faster and better safeguard victims. 
+
+We’re also investing a record £16.5 million into using AI to improve the ways in which the police and the public interact. That will transcribe calls, freeing up call handlers to focus on the caller, automatically link crime reports to police data, spotting patterns and getting intelligence into officers’ hands faster, and triage non-emergency calls, so that 60 per cent of the calls which are for non-policing organizations are sent to the right agency as quickly as possible. That will bring force control rooms into the 21st century, enabling a faster, more informed response to in-kind demand. I started with the risks of AI, but I’ve set out the huge potential that we can see in policing. AI is never here to replace our professional, curious problem-solving, brilliant police forces. It is a tool to help them do their job.  
+
+If we get this right, the tech will fade into the background. It will be part of policing and not uncommon, but it will mean that the police can focus 100% of their time on fighting criminals, keeping the public safe, which is what I know everyone who’s seen and across the country wants them to do.  
+
+Thank you very much.

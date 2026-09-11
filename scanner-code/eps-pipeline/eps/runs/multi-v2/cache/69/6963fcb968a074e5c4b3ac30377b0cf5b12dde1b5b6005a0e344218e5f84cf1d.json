@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about devolving powers to mayors over transport, planning, housing, and regeneration — this is fundamentally about regional/local government authority and economic development at the subnational level.\n\nSpecific mechanism: devolution of powers to mayors (regional government analysis) to enable inclusive local economic growth.\n\nPrimary: **R5** (Regional Government Analysis) — mayors gaining new powers over transport, planning, housing, regeneration is squarely about subnational/regional governance structures.\n\nSecondary: **O1** (Economic Development) — the stated goal is inclusive economic growth, putting more money in more people's pockets, which is a development outcome.\n\nH7 (State and Local Government/Intergovernmental Relations) is also relevant but R5 captures the regional governance dimension more precisely given the urban/regional context.\n\n```json\n{\"primary\": \"R\", \"secondary\": [\"O\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

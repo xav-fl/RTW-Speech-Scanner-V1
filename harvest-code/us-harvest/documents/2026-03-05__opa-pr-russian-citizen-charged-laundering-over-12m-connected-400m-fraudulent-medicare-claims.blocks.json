@@ -1,0 +1,71 @@
+{
+ "url": "https://www.justice.gov/opa/pr/russian-citizen-charged-laundering-over-12m-connected-400m-fraudulent-medicare-claims",
+ "institution_id": "us-justice",
+ "title": "Russian Citizen Charged with Laundering Over $1.2M Connected to $400M in Fraudulent Medicare Claims",
+ "date": "2026-03-05",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "4870f847491a7a6e24a3994210ace5a589273f64f61ebca88e2ce44a3f963af6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

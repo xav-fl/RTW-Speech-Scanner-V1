@@ -1,0 +1,47 @@
+{
+ "url": "https://www.energy.gov/articles/department-energy-announces-american-nuclear-supply-chain-loans",
+ "institution_id": "us-energy",
+ "title": "Department of Energy Announces American Nuclear Supply Chain Loans",
+ "date": "2026-06-23",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "4f12cb8adee642a4bc9a1856327d001d5111d42e3f7fa528eeeac29b3b71b1aa",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "U.S. Energy Secretary Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Energy Secretary Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-announces-500000-brownfields-grant-finance-cleanup-activities-connecticut",
+ "institution_id": "us-epa",
+ "title": "EPA Announces $500,000 for Brownfields Grant to Finance Cleanup Activities in Connecticut",
+ "date": "2026-06-24",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "b6dc8c3f4058fa79740c9b059e8147537b8a3859689b9df77b32f4f505ddb1d7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Acting Assistant Administrator for Land",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Acting Assistant Administrator for Land",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Mark Sanborn",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Mark Sanborn",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

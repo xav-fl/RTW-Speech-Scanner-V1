@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/department-of-state-announces-appointment-of-thomas-tommy-pigott-as-state-department-spokesperson/",
+ "institution_id": "us-state",
+ "title": "Department of State Announces Appointment of Thomas “Tommy” Pigott as State Department Spokesperson",
+ "date": "2026-04-24",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "ae19caaf13ec260435d54263b1281819058cdc909468dde0fcc6af105a02f01f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

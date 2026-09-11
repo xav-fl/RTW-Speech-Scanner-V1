@@ -1,0 +1,185 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-names-ohio-hazardous-waste-permitting-authority-state",
+ "institution_id": "us-epa",
+ "title": "EPA Names Ohio as the Hazardous Waste Permitting Authority for the State",
+ "date": "2026-04-02",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "96f77db32b18e196250cb5c0e9d0c28b78383a0d55992c530d3e659f51cf0127",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "U.S. EPA Regional Administrator Anne Vogel",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. EPA Regional Administrator Anne Vogel",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Ohio Governor Mike DeWine",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Ohio Governor Mike DeWine",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "U.S. Sen. Jon Husted",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "U.S. Rep. Bob Latta",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "U.S. Rep. Troy Balderson",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "Ohio Environmental Service Industries Environmental Technical Leader Nick Petruzzi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "quote",
+   "speaker": "Ohio Environmental Service Industries Environmental Technical Leader Nick Petruzzi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 16,
+   "kind": "quote",
+   "speaker": "Ohio Manufacturers Association President Ryan Augsburger",
+   "method": "speech_verb"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "quote",
+   "speaker": "Ohio Manufacturers Association President Ryan Augsburger",
+   "method": "speech_verb"
+  },
+  {
+   "index": 19,
+   "kind": "quote",
+   "speaker": "AMG Vanadium Senior Vice President Jane Neal",
+   "method": "speech_verb"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "quote",
+   "speaker": "AMG Vanadium Senior Vice President Jane Neal",
+   "method": "speech_verb"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 24,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 25,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 26,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 27,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 28,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

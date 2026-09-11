@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/marking-three-years-of-conflict-in-sudan-with-sanctions-and-appeal-for-humanitarian-truce/",
+ "institution_id": "us-state",
+ "title": "Marking Three Years of Conflict in Sudan with Sanctions and Appeal for Humanitarian Truce",
+ "date": "2026-04-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "1a6a968323c52726324190f1998d409ff8488d9a8d70ca4c381cecd390632d89",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

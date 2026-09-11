@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/the-united-states-applauds-iraqi-leadership-on-isis/",
+ "institution_id": "us-state",
+ "title": "The United States Applauds Iraqi Leadership on Countering ISIS",
+ "date": "2026-01-22",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "8a0a7828ff8fd61af423e58be66648867f008bb95baf3ca9ea17574872b3c8d7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+The Department of Justice announced today the seizure of nearly 400 sites that were engaged in the unauthorized streaming of matches in the FIFA World Cup Finals in violation of U.S. copyright law.
+
+> We have seized hundreds of domains, used to illegally stream World Cup matches for profit, to disrupt the international networks that profit from the global popularity of the World Cup,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> This operation illustrates the Department’s respect for intellectual property rights and the responsibility of the United States as a host nation to protect the FIFA World Cup from criminals. The Criminal Division will continue to disrupt and, where appropriate, seek to prosecute these sites and the subjects responsible for this criminal activity.
+
+> The unauthorized broadcast of World Cup matches violates intellectual property rights and fuels criminal organizations,
+
+said Director Ivan J. Arvelo of the National Intellectual Property Rights Coordination Center.
+
+> Through Operation Offsides and strong partnerships with law enforcement and the private sector, we identified and seized hundreds of domains, disrupting those who steal and distribute copyrighted content. Our ongoing efforts ensure that the excitement of the World Cup reaches fans through legitimate, secure channels.
+
+> When you open your network to illegal streaming sites, you’re taking a significant risk,
+
+said Special Agent in Charge Eric Weindorf of Immigration and Customs Enforcement Homeland Security Investigations (HSI) Washington Field Office.
+
+> These streamers not only violate copyright laws but also expose viewers to potential threats — including malware attacks and unsecure connections that can compromise personal and financial data. These website takedowns are a critical part of HSI’s strategy to uphold intellectual property laws, ensuring fans have a safe and authentic experience supporting their teams during the World Cup.
+
+According to an affidavit in support of a seizure warrant which was filed today in the Eastern District of Virginia, the seized domains were used to illegally offer users copyright-protected content in the form of real-time streams of 2026 World Cup matches as they are being played and first broadcast. In support of the application for seizure authority, HSI special agents confirmed that the seized domains were actively broadcasting World Cup matches without authorization. The seized domains were identified with assistance of FIFA, with further supporting information provided by beIN Media Group, NBC Universal, Motion Picture Association’s Alliance for Creativity and Entertainment (ACE), Ultimate Fighting Championship (UFC), and Warner Brothers. FIFA is the international governing body of association football (soccer) and holds the exclusive rights to sanction and stage the FIFA World Cup 2026, which is being hosted in multiple cities in the United States, Canada and Mexico.
+
+Banner posted on seized sites
+
+Law enforcement actions targeting the illegal broadcast of FIFA World Cup matches was coordinated with international partners through the International Computer Hacking and Intellectual Property (ICHIP) Network of U.S. prosecutors. ICHIP-trained officials took part in actions across multiple countries and involved the following:
+
+Servers and domains linked to illegal streaming of World Cup games were targeted in Peru and Bulgaria, two known centers of online piracy activity. Additional ICHIP-supported disruptions took place in Croatia, Romania, Poland and Colombia.
+
+U.S. authorities provided leads to assist in identifying domains associated with illegal streaming of the World Cup.
+
+The U.S. action is part of Operation Offsides, led by the National Intellectual Property Rights Coordination Center, targeting digital piracy domains associated with the World Cup. This operation is being conducted in coordination with HSI Washington, D.C., HSI Attaché offices, as well as private sector and law enforcement partners globally. This initiative focuses on disrupting illegal World Cup streaming and protecting intellectual property rights by identifying and seizing websites facilitating unauthorized broadcasts. Senior Counsel Brian Mund, Assistant Deputy Chief Adrienne Rose, and Acting Deputy Chief Christopher Merriam of the of the Criminal Division’s Computer Crime and Intellectual Property Section and Assistant U.S. Attorney Jacob Mercer for the Eastern District of Virgina are assisting. The Justice Department’s ICHIP prosecutors based in Sao Paul, Brazil and Bucharest, Romania, and the ICHIP for Internet-Based Fraud and Public Health in Washington, D.C. also provided crucial support to this operation.
+
+CCIPS investigates and prosecutes cybercrime and intellectual property (IP) crime in coordination with domestic and international law enforcement agencies, often with assistance from the private sector. Since 2020, CCIPS has secured the conviction of over 180 cybercriminals and IP criminals, and court orders for the return of over $350 million in victim funds.
+
+The Justice Department is providing intellectual property and cybercrime technical assistance to foreign law enforcement, prosecutorial, and judicial partners in other countries through the ICHIP program. The Criminal Division’s ICHIP Program is jointly administered by the Criminal Division’s Office of Overseas Prosecutorial Development, Assistance and Training (OPDAT) and the Computer Crime and Intellectual Property Section through partnership between the U.S. Department of State’s Bureau of International Narcotics and Law Enforcement Affairs.

@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0463/",
+ "institution_id": "us-treasury",
+ "title": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Minister of Finance Ali bin Ahmed Al Kuwari of Qatar",
+ "date": "2026-04-19",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "bc70be81e0b5169ce3235feccc9e39f3f430c9a581d4e99f50d5c43e9628a1dd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

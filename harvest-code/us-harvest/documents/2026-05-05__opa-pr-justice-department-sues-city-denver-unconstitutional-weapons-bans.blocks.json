@@ -1,0 +1,71 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-sues-city-denver-unconstitutional-weapons-bans",
+ "institution_id": "us-justice",
+ "title": "Justice Department Sues the City of Denver for Unconstitutional Weapons Bans",
+ "date": "2026-05-05",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "102c7c9fb6724b5e06397b42722d80f90c77f539b23d0e78e9140fb5e4cf447a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department's Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department's Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

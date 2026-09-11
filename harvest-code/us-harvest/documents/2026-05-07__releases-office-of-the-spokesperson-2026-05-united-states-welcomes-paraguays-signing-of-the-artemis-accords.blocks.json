@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-welcomes-paraguays-signing-of-the-artemis-accords/",
+ "institution_id": "us-state",
+ "title": "United States Welcomes Paraguay’s Signing of the Artemis Accords",
+ "date": "2026-05-07",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "8189f0c7eb2bb906101ad21e7a7851747030dda7421cfa13a71fd41327861f2a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

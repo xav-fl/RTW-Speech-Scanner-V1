@@ -1,0 +1,101 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-departments-of-education-interior-and-labor-announce-tribal-consultation-indian-education-partnership",
+ "institution_id": "us-education",
+ "title": "U.S. Departments of Education, Interior, and Labor Announce Tribal Consultation on Indian Education Partnership",
+ "date": "2026-01-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "e01b62bfab7338cd17ec7de19f938ade9a7aec25438471f793d1d24ba1f74a69",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Elementary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Elementary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Indian Affairs",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Indian Affairs",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Employment",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

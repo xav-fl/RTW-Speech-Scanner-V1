@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/u-s-participation-in-the-inaugural-regional-security-conference-in-martinique/",
+ "institution_id": "us-state",
+ "title": "U.S. Participation in the Inaugural Regional Security Conference in Martinique",
+ "date": "2026-07-03",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "c12eb70c67d29ec4dcdd22de8f76474a8c71128d1c2ea0ac110de4ba25e6aa09",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

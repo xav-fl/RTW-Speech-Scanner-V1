@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/sanctions-to-disrupt-dprk-it-worker-schemes-defrauding-u-s-businesses/",
+ "institution_id": "us-state",
+ "title": "Sanctions to Disrupt DPRK IT Worker Schemes Defrauding U.S. Businesses",
+ "date": "2026-03-12",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "b756c0057468cacdca544365ce7dac969d45c67bb7806557bb3d59c86eabb6d5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

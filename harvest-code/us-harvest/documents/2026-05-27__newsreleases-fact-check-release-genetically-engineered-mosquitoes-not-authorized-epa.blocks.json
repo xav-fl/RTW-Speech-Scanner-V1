@@ -1,0 +1,47 @@
+{
+ "url": "https://www.epa.gov/newsreleases/fact-check-release-genetically-engineered-mosquitoes-not-authorized-epa",
+ "institution_id": "us-epa",
+ "title": "FACT CHECK: The Release of Genetically Engineered Mosquitoes is Not Authorized by EPA",
+ "date": "2026-05-27",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "01da6d7eb4cab720ec53da0b5bd54ee88f611c870b74521d078075cd60213a0b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

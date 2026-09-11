@@ -1,0 +1,45 @@
+Advanced Pathology Solutions PLLC (formerly known as Advanced Pathology Solutions LLC), an anatomic pathology laboratory headquartered in North Little Rock, Arkansas, and its management services organization, APS MSO LLC (together, “APS”), along with current and former owners Kevin Hannah, Donell Burkett, and Daniel Hunter Pledger have agreed to pay a total of $30 million to the United States to resolve allegations that APS and its owners furnished unlawful kickbacks and ordered medically unnecessary pathology testing services.
+
+> Healthcare referrals must be based on the best decision for patients, not the influence of kickbacks,
+
+said Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division.
+
+> This settlement demonstrates the Department’s commitment to hold accountable both corporations and individuals who profit from improper kickback arrangements and who burden federal healthcare programs with claims for medically unnecessary services.
+
+> Fraud against the taxpayer is rampant and insidious and when discovered must be held accountable. Engineering kickbacks to result in unnecessary medical testing which is then paid for by the United States taxpayer is unacceptable and once discovered as with APS, will result in lengthy investigation and review, and ultimately a significant settlement amount as demonstrated by this settlement,
+
+said U.S. Attorney Jonathan D. Ross for the Eastern District of Arkansas.
+
+> Our office will continue to work with Main Justice to detect and deter any similar schemes and then hold the wrongdoers accountable under the law.
+
+> Any entity that participates in health care and reaps illicit profits by taking advantage of and violating the trust given by Medicare and Medicaid programs must be held accountable,
+
+said U.S. Attorney Troy Rivetti for the Western District of Pennsylvania.
+
+> This settlement is notice that such illegal conduct simply will not be tolerated.
+
+> Kickbacks and medically unnecessary testing don’t just violate the law — they endanger patients and drain critical federal health care funds,
+
+said Acting Deputy Inspector General for Investigations Scott J. Lampert of the U.S. Department of Health and Human Services Office of Inspector General (HHS-OIG).
+
+> Schemes like this erode trust in the health care system and divert resources away from those who truly need care. HHS‑OIG will move swiftly and aggressively with our law enforcement partners to uncover these abuses and hold every responsible party accountable.
+
+The settlement resolves allegations made by the United States in a complaint filed on April 8, in the U.S. District Court for the Eastern District of Arkansas. In its complaint, the United States alleged that, from 2015 through July 2022, APS and its owners violated the False Claims Act (FCA) by providing unlawful kickbacks to gastroenterology practices to induce the referral of pathology testing to APS resulting in false claims to federal healthcare programs. The government’s complaint focused on a business model developed by APS and its owners, in which APS set up and managed limited-purpose laboratories (known as “lean labs”) in gastroenterology practices nationwide that enabled the practices to bill for preparing and staining biopsy specimen slides. The complaint alleged that in exchange for various benefits furnished by APS, the gastroenterology practices agreed to exclusively refer their patients to APS by shipping their patients’ slides to APS’s lab in North Little Rock for pathologist interpretation and review. The United States alleged that the arrangements between APS and the gastroenterology practices were improper financial relationships through which APS provided kickbacks to induce the practices to steer their patients to APS.
+
+The United States further alleged that APS and its owners submitted and caused the submission of claims to federal healthcare programs for unnecessary testing. Specifically, APS directed lean lab personnel to automatically order certain special tests (called “special stains”) before a pathologist reviewed a routine test (a hematoxylin and eosin stain) to determine whether additional testing was necessary. By following the special stain protocol, APS and the lean labs ordered special stains that were not medically reasonable and necessary and were ineligible for Medicare coverage or reimbursement. In many cases, APS would also order additional “confirmatory” immunohistochemical testing on patient samples it received from the lean labs, which was also not medically necessary.
+
+In addition to resolving the allegations in the United States’ complaint, the settlement announced today also resolves allegations that from Nov. 1, 2018, to Nov. 30, 2020, APS and CEO Kevin Hannah knowingly and willfully provided unlawful kickbacks to an individual named Richard Sorgnard in the form of volume-based commission payments to induce the referral of patients to APS for epidermal nerve fiber density (“ENFD”) testing. Sorgnard, who previously entered into a settlement with the government to resolve related claims, encouraged medical providers and practices to order ENFD testing from APS for their patients, and in exchange, APS paid Sorgnard 4% of all payments APS collected for ENFD testing referred. The United States contends that this arrangement violated the Anti-Kickback Statute and resulted in false claims under the FCA.
+
+In connection with the settlement, APS entered into a five-year Corporate Integrity Agreement (CIA) with the U.S. Department of Health and Human Services Office of Inspector General. The CIA requires APS to implement numerous auditing and accountability provisions, including implementation of a robust compliance program, new training and education requirements, and a review of physician referral relationships.
+
+The complaint follows three lawsuits that were originally filed under the qui tam or whistleblower provisions of the FCA. Under the FCA, private parties can file an action on behalf of the United States and receive a portion of the recovery. The FCA permits the United States to intervene in and take over the action, as it has done here. If a defendant is found liable for violating the FCA, the United States may recover three times the amount of its losses plus applicable penalties.
+
+The Justice Department’s Civil Division, Commercial Litigation Branch, Fraud Section and the U.S. Attorney’s Office for the Eastern District of Arkansas are handling the matter. The consolidated cases are captioned United States ex rel. Watkins v. Advanced Pathology Solutions, No. 4:20-cv-1110 (E.D. Ark.); United States ex rel. Aucoin v. Advanced Pathology Solutions, No. 4:21-cv-277 (E.D. Ark.); and United States ex rel. Paulsen v. Advanced Pathology Solutions, LLC, No. 3:22-cv-00652-JPG (E.D. Ark.). This settlement follows a $4.75 million settlement reached earlier this year with Atlanta Gastroenterology Associates, a gastroenterology practice and former client of APS.
+
+The matter was handled by Fraud Section Attorneys Evan Ballan, Jeff McSorley, and Kelley Hauser of the Justice Department’s Civil Division, Assistant U.S. Attorney Jamie Goss Dempsey for the Eastern District of Arkansas, and Assistant U.S. Attorney Paul Skirtich for the Western District of Pennsylvania.
+
+The investigation and prosecution of this matter illustrates the government’s emphasis on combating healthcare fraud. One of the most powerful tools in this effort is the FCA. Tips and complaints from all sources about potential fraud, waste, abuse, and mismanagement, can be reported to HHS at 800-HHS-TIPS (800-447-8477).
+
+This year the Administration launched the Task Force to Eliminate Fraud and the National Fraud Enforcement Division to enhance the Administration’s war on fraud, waste, and abuse in federal programs. When unscrupulous actors exploit these programs for their own financial gain, they defraud the government, harm the people these programs are designed to aid and protect, and undermine American businesses that play by the rules. The Civil Division’s FCA enforcement plays a critical role in combatting such fraudulent schemes, recovering billions of dollars for the American taxpayers, and holding wrongdoers accountable. FCA matters will continue to be on the forefront of the battle against fraud, and the Civil Division’s FCA work will support and advance the mission of the Task Force to Eliminate Fraud and the National Fraud Enforcement Division.
+
+The claims resolved by the settlement are allegations only, and there has been no determination of liability.

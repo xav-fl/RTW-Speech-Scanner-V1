@@ -1,0 +1,77 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-announces-48-million-protect-waterways-sewage-overflows-florida",
+ "institution_id": "us-epa",
+ "title": "EPA Announces $4.8 Million to Protect Waterways from Sewage Overflows in Florida",
+ "date": "2026-04-30",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "d2381c0ced2c36270ff8e18e4de8ba3258a6f26941b33008e7a77218e94303cb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Water Jess Kramer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Water Jess Kramer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Regional Administrator Kevin McOmber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Regional Administrator Kevin McOmber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

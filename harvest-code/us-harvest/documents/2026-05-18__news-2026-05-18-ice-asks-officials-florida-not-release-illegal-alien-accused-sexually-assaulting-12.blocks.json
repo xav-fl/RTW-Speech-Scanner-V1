@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/05/18/ice-asks-officials-florida-not-release-illegal-alien-accused-sexually-assaulting-12",
+ "institution_id": "us-dhs",
+ "title": "ICE Asks Officials in Florida to Not Release Illegal Alien Accused of Sexually Assaulting a 12-Year-Old Girl",
+ "date": "2026-05-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "7d0b8c2e30715d673435760eca014cc5b4ee0b990b56df5159549b4b0de02633",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

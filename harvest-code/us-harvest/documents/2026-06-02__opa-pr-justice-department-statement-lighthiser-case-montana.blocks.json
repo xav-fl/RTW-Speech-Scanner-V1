@@ -1,0 +1,35 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-statement-lighthiser-case-montana",
+ "institution_id": "us-justice",
+ "title": "Justice Department Statement on Lighthiser Case in Montana",
+ "date": "2026-06-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "a8a3f0ed00a9ebf6286bfe6e1eda23fb3d288334e4b79912cad9471bca7270b0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Principal Deputy Assistant Attorney General Adam Gustafson of the Justice Department’s Environment",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Principal Deputy Assistant Attorney General Adam Gustafson of the Justice Department’s Environment",
+   "method": "speech_verb"
+  }
+ ]
+}

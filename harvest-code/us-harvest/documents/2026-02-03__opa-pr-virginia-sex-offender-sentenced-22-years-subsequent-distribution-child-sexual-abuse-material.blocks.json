@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/virginia-sex-offender-sentenced-22-years-subsequent-distribution-child-sexual-abuse-material",
+ "institution_id": "us-justice",
+ "title": "Virginia Sex Offender Sentenced to 22 Years for Subsequent Distribution of Child Sexual Abuse Material",
+ "date": "2026-02-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "b44c4c87392d8eb9872d8ae095df779612a39c5a5d8db74f72a94b0af604a556",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

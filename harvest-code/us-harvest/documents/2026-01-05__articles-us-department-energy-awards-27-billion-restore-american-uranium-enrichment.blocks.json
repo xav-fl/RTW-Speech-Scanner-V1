@@ -1,0 +1,59 @@
+{
+ "url": "https://www.energy.gov/articles/us-department-energy-awards-27-billion-restore-american-uranium-enrichment",
+ "institution_id": "us-energy",
+ "title": "U.S. Department of Energy Awards $2.7 Billion to Restore American Uranium Enrichment",
+ "date": "2026-01-05",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "697dcced3fd739ccf3eb95ed14948b74471be89ff958de5650f903d4b6248b3e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary of Energy Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary of Energy Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

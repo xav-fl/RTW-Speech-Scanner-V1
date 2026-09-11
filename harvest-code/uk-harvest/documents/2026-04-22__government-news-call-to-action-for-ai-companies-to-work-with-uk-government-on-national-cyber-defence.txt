@@ -1,0 +1,49 @@
+TITLE: Call to action for AI companies to work with UK Government on national cyber defence
+URL: https://www.gov.uk/government/news/call-to-action-for-ai-companies-to-work-with-uk-government-on-national-cyber-defence
+DATE: 2026-04-22
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Baroness Lloyd of Effra CBE; The Rt Hon Dan Jarvis MBE MP
+
+---
+
+Responding to AI cyber threats, the Security Minister will call on AI companies to work with the government on national cyber defence capabilities, in a speech to CYBERUK on Wednesday.
+
+This comes as government invites UK businesses to sign a Cyber Resilience Pledge in bid to raise security standards.
+
+A further £90 million will also be invested to strengthen defences of small and medium sized businesses. 
+
+Leading AI companies should work with the UK Government to build AI powered cyber defence capabilities, the Security Minister Dan Jarvis will tell industry leaders and experts at CYBERUK on Wednesday. 
+
+The Security Minister will say that building AI cyber defence capabilities is a “generational endeavour” that will “test the absolute limits of our engineering and innovation”. He will say cooperation could achieve “capabilities that can protect our nation’s most critical networks by autonomously identifying and addressing vulnerabilities at a speed and scale no human can match.” 
+
+His speech at one of the UK’s top cyber security events follows a series of significant advancements in frontier AI. Just last week the Security Minister and the Secretary of State for Science Innovation and Technology published an open letter warning that advancing AI systems are changing the threat landscape for UK businesses (link). 
+
+The number of nationally significant incidents handled by the National Cyber Security Centre more than doubled in 2025, with hostile states and criminal actors increasingly deploying automated AI systems to identify and exploit vulnerabilities.
+
+To boost businesses’ defences, the Security Minister will invite organisations to sign a voluntary Cyber Resilience Pledge. Businesses will be able to become signatories if they take three concrete actions to increase their security: 
+
+Make cyber security a board-level responsibility
+
+Sign up to the National Cyber Security Centre’s free Early Warning service
+
+Require the government-backed Cyber Essentials certification across their supply chains
+
+Security Minister, Dan Jarvis MBE, said: 
+
+Today I’m making a call to action for leading AI companies and UK innovators to work with the UK Government to build AI cyber defence capabilities. We’ve already made the UK a top destination for AI investment and want to take this work a step further in a generational endeavour to protect the UK from a new era of threats.
+
+This work sits alongside all the action we’re taking, through the National Cyber Action Plan, to work with businesses and strengthen cybersecurity across the country.” 
+
+Cyber Security Minister Baroness Lloyd has already written to the CEOs and Chairs of over 180 of the UK’s leading businesses to encourage as many as possible to sign up to the Pledge ahead of a formal launch later this year. 
+
+Cyber Security Minister, Baroness Lloyd, said: 
+
+The cyber threat facing UK businesses is serious, growing and evolving fast. AI is giving attackers capabilities that would have seemed extraordinary just a year ago, and no organisation can afford to be complacent.
+
+Everyone has a role to play in bolstering Britain’s cyber defences. That’s why I have written to nearly two hundred business leaders across the country, calling on them to act by signing the new Cyber Resilience Pledge.
+
+The three actions we’re asking companies take are practical, achievable, and are proven to work - there is no good reason not to act. Cyber resilience isn’t just a technical issue; it’s a board responsibility, and we’re asking every boardroom in Britain to prove they treat it as one.” 
+
+The Pledge will form part of the National Cyber Action Plan to be published this summer. More than 500 businesses and organisations have been consulted by the UK Government in the process of producing the Plan, the Security Minister will tell the audience. 
+
+He will also announce a further £90 million will be invested to boost cyber resilience, including amongst small and medium sized businesses, over the next three years through existing schemes run by the Department for Science, Innovation and Technology and the National Cyber Security Centre.

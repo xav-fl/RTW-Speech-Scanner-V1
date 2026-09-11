@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/meeting-between-the-governments-of-the-united-states-lebanon-and-israel/",
+ "institution_id": "us-state",
+ "title": "Meeting Between the Governments of the United States, Lebanon, and Israel",
+ "date": "2026-04-14",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "82d8fec813db1c6c747e35fa727c2d94acdb92458195ffe8d1c79c17368cadc9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

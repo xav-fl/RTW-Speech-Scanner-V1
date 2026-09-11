@@ -1,0 +1,95 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/01/20/luxury-home-builders-owners-pay-265-million-resolve-loan-fraud-allegations",
+ "institution_id": "us-sba",
+ "title": "Luxury Home Builders and Owners to Pay $2.65 Million to Resolve Loan Fraud Allegations",
+ "date": "2026-01-20",
+ "date_source": "metadata",
+ "source_document_type": "OIG news release",
+ "text_sha256": "da3381bf43a84a20a8f25b3bac33d57284a3475ef280fb1de6f5ae529b7862bf",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": null,
+   "method": "blockquote"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Acting Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

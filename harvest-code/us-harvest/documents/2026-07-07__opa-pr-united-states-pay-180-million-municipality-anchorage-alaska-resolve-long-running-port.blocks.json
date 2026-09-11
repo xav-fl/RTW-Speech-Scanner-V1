@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/united-states-pay-180-million-municipality-anchorage-alaska-resolve-long-running-port",
+ "institution_id": "us-justice",
+ "title": "United States to Pay $180 Million to Municipality of Anchorage, Alaska to Resolve Long-Running Port Litigation that began in 2014",
+ "date": "2026-07-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "5c2e19ba3af74e45361942c3935f401402c575e6427d9abb54386c8b358b9f0f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

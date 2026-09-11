@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/united-states-welcomes-botswanas-signing-of-the-artemis-accords/",
+ "institution_id": "us-state",
+ "title": "United States Welcomes Botswana’s Signing of the Artemis Accords",
+ "date": "2026-06-29",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "267ac5093a15391914edea8a91bb7842d42ead0f03c6ef23dda1adbe331030c1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

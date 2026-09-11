@@ -1,0 +1,71 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-provides-279000-georgia-monitor-water-quality-beaches-and-protect-swimmers",
+ "institution_id": "us-epa",
+ "title": "EPA Provides $279,000 to Georgia to Monitor Water Quality at Beaches and Protect Swimmers",
+ "date": "2026-05-21",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "ae19e23a1a7a92bb83282a372840f62c7769c3c693f5be74625c93fd555a7abf",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

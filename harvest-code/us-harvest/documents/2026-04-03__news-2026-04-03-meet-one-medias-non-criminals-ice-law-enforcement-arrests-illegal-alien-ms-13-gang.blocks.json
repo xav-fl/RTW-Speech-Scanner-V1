@@ -1,0 +1,83 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/03/meet-one-medias-non-criminals-ice-law-enforcement-arrests-illegal-alien-ms-13-gang",
+ "institution_id": "us-dhs",
+ "title": "Meet One of the Media’s ‘Non-Criminals’: ICE Law Enforcement Arrests Illegal Alien MS-13 Gang Member in Connecticut Wanted for Murder in His Home Country",
+ "date": "2026-04-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "082bdeb8bb63b6400ddba735d2eef39ef00af90ebf0959a0fd266d7154959490",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

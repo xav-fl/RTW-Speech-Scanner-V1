@@ -1,0 +1,47 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-rio-blanco-county-achieve-successful-containment-crude-oil-spill",
+ "institution_id": "us-epa",
+ "title": "EPA, Rio Blanco County Achieve Successful Containment of Crude Oil Spill",
+ "date": "2026-01-08",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "5f89cdee53f4f9b4dcbad4902febada6cf537fd1f762b980273f9945701069a0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about the planning system — land use regulation and development approval processes — where \"blockers\" (those who obstruct development) have been favoured over \"builders\" (those who want to construct). The core mechanism is land use planning regulation and its effect on housing/construction supply.\n\nThis maps to **R** — Urban, Rural, Regional, Real Estate, and Transportation Economics, specifically R5 (Regional Government Analysis) and R3 (Real Estate Markets, Spatial Production Analysis). The planning system as a regulatory barrier to construction also has a **K2** (Regulation and Business Law) dimension, but the substance is squarely about land use and development.\n\n{\"primary\": \"R\", \"secondary\": [\"K\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

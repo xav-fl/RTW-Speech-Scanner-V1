@@ -1,0 +1,71 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-approves-carbon-storage-permit-randolph-county-indiana",
+ "institution_id": "us-epa",
+ "title": "EPA Approves Carbon Storage Permit in Randolph County, Indiana",
+ "date": "2026-03-03",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "ca6cb1a1e5d6f30fac822e56d033d0a8d3a9c9d03ac0989dbba4ed25ba5335a0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

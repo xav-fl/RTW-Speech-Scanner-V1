@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/joint-statement-on-cooperation-with-asean-by-the-quad-foreign-ministers/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on Cooperation with ASEAN by the Quad Foreign Ministers",
+ "date": "2026-07-22",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "03d2a4fae172a447cecda04785db6dd4d923b043df23301d443e3192916bda2f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

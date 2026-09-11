@@ -1,0 +1,143 @@
+{
+ "url": "https://www.justice.gov/opa/pr/texas-doctor-sentenced-85-years-prison-145-million-health-care-fraud-scheme",
+ "institution_id": "us-justice",
+ "title": "Texas Doctor Sentenced to 8.5 Years in Prison for $145 Million Health Care Fraud Scheme",
+ "date": "2026-02-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "165423f7e3703dde5cfd0d6de998a4025af13950be4acfb838d34ae0cae50c4a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Inspector General Tammy Hull of the U.S. Postal Service Office of Inspector General",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Inspector General Tammy Hull of the U.S. Postal Service Office of Inspector General",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Inspector General Anthony P. D’Esposito of the U.S. Department of Labor Office of Inspector General",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Inspector General Anthony P. D’Esposito of the U.S. Department of Labor Office of Inspector General",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Inspector General Cheryl L. Mason of the Department of Veterans Affairs Office of the Inspector General",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Inspector General Cheryl L. Mason of the Department of Veterans Affairs Office of the Inspector General",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "Acting Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "quote",
+   "speaker": "Acting Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

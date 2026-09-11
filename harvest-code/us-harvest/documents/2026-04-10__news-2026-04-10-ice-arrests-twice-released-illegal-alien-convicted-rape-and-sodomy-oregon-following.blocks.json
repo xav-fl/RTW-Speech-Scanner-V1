@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/10/ice-arrests-twice-released-illegal-alien-convicted-rape-and-sodomy-oregon-following",
+ "institution_id": "us-dhs",
+ "title": "ICE Arrests TWICE RELEASED Illegal Alien Convicted of Rape and Sodomy in Oregon Following his Release From Jail by Sanctuary Politicians",
+ "date": "2026-04-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "f85346578903226341d88468197ec8f738fcf057ce2baeae6e75245c8707ec65",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

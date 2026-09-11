@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/oasam/oasam20260218",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor launches open data portal to enhance access to labor data",
+ "date": "2026-02-18",
+ "date_source": "listing",
+ "source_document_type": "OASAM",
+ "text_sha256": "619eb2bdd6c3583aba5929d3eefdc400517ce6e422e1b260d0a732fd3982e3d9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

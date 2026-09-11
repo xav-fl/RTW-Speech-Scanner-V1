@@ -1,0 +1,53 @@
+NSF News
+
+NSF-DOE Vera C. Rubin Observatory launches real-time discovery machine for monitoring the night sky
+
+NSF-DOE Rubin Observatory has issued its first scientific alerts, enabling dynamic, real-time observation of the night sky. The alerts are expected to increase to about 7 million per night
+
+February 25, 2026
+
+The NSF-DOE Vera C. Rubin Observatory, jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy's Office of Science, has released its first alerts documenting astronomical events spotted by the observatory. NSF-DOE Rubin issued 800,000 alerts the night of Feb. 24. The alerts called scientists' attention to new asteroids, exploding stars and other changes in the night sky. This milestone marks the launch of a system expected to eventually produce up to 7 million alerts per night.
+
+Among the first alerts are detections of supernovae, variable stars, active galactic nuclei, and objects such as asteroids whizzing around our solar system. The beginning of scientific alerts is one of the last major milestones before Rubin Observatory begins its Legacy Survey of Space and Time (LSST) later this year. During the LSST, Rubin will scan the Southern Hemisphere sky nightly for 10 years to precisely capture every visible change using the largest digital camera ever made. These alerts will chronicle the treasure trove of scientific discoveries that Rubin will make through its time-lapse record of the universe. In the first year of the LSST, Rubin is expected to capture images of more objects than all other optical observatories combined in human history.
+
+> By connecting scientists to a vast and continuous stream of information, NSF-DOE Rubin Observatory will make it possible to follow the universe's events as they unfold, from the explosive to the most faint and fleeting,
+
+says Luca Rizzi, a program director for research infrastructure at NSF.
+
+> The discoveries reported in these alerts reflect the power of the NSF-DOE Rubin Observatory as a tool for astrophysics and the importance of sustained federal support,
+
+says Kathy Turner, program manager in the High Energy Physics program in the DOE's Office of Science.
+
+> Rubin Observatory's groundbreaking capabilities are revealing untold astrophysical treasures and expanding scientists' access to the ever-changing cosmos.
+
+Credit: NSF-DOE Vera C. Rubin Observatory
+
+As new images are taken, NSF-DOE Rubin Observatory’s software automatically compares them with a template image. The template image is made by combining images Rubin has previously taken of the same area. The difference between the new image and the template image reveals what has changed. Each change triggers an alert within two minutes of image capture. The vast majority of the alerts are supernovas, variable stars, active galactic nuclei and solar system objects.
+
+Rubin's alerts will power discoveries in many areas of astronomy, astrophysics and cosmology. Each alert signals something that has changed in the sky since Rubin last looked — a new source of light, a star that brightened or dimmed, or an object that moved.
+
+With Rubin's alerts, scientists will have a greater ability to catch supernovae in their earliest moments, discover and track asteroids to assess potential threats to Earth, and spot rare interstellar objects as they race through the solar system. Scientists can then use this information to better understand the nature of dark matter, dark energy and other unknown aspects of the universe.
+
+This article was originally published by Rubin Observatory. It has been edited for length and style.
+
+Read the full story on the Rubin Observatory website.
+
+Research areas
+
+Directorate for Mathematical and Physical Sciences (MPS)
+
+Topics
+
+Astronomy & Space
+
+Share
+
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+
+Related stories
+
+NSF launches three new Science and Technology Centers with $90M investment in transformative research
+
+Eight NSF research institutes to propel U.S. quantum science with $290M investment
+
+NSF announces $1.5B for foundational research to drive scientific breakthroughs for American technological leadership

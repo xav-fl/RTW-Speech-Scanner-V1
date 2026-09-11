@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/finland-joins-pax-silica-initiative/",
+ "institution_id": "us-state",
+ "title": "Finland Joins Pax Silica Initiative",
+ "date": "2026-04-16",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "266dcd90370a3104bd2b071535ad23d1fd2e928b122e4001092e245f3acd2bee",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

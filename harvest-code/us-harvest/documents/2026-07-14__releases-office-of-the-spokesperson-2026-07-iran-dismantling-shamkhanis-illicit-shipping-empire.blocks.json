@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/iran-dismantling-shamkhanis-illicit-shipping-empire/",
+ "institution_id": "us-state",
+ "title": "Iran: Dismantling Shamkhani’s Illicit Shipping Empire",
+ "date": "2026-07-14",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "04c89f384a5d70a5f89b13ec7d750455fe73e390e7d85024f2c2d3fd38c423a5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/new-commercial-diplomacy-approach-to-bolster-support-for-american-companies/",
+ "institution_id": "us-state",
+ "title": "New Commercial Diplomacy Approach To Bolster Support for American Companies",
+ "date": "2026-04-09",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "772629d17d9dcc70d25b0ef6d6a75cd114383571171054beaf2ea7d0e8881adf",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

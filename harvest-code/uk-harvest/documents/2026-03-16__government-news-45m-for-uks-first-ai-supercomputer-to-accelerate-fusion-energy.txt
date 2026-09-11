@@ -1,0 +1,65 @@
+TITLE: £45M for UK’s first AI supercomputer to accelerate fusion energy
+URL: https://www.gov.uk/government/news/45m-for-uks-first-ai-supercomputer-to-accelerate-fusion-energy
+DATE: 2026-03-16
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: 
+
+---
+
+The UK government is investing £45 million for a 1.4MW mission-focused supercomputer named ‘Sunrise’, a key first step in establishing the country’s first AI Growth Zone at the UK Atomic Energy Authority’s (UKAEA) Culham Campus in Oxfordshire.  
+
+As announced in the Fusion Strategy, Sunrise is targeted for operation in June this year and is primed to be the world’s most powerful AI supercomputer dedicated to fusion energy.  
+
+Funded by the Department for Energy Security and Net Zero (DESNZ), Sunrise will tackle key fusion energy challenges in areas such as plasma turbulence, materials development and tritium fuel breeding, while delivering spillover benefits to other clean energy technologies and the UK’s broader net zero ambitions.   
+
+Sunrise will also strengthen essential AI capabilities at Culham Campus and across the UK’s high-performance computing landscape, contributing to the government’s AI Opportunities Action Plan and AI for Science Strategy. 
+
+Sunrise will see AMD, DESNZ, the Department for Science, Innovation and Technology (DSIT), Dell Technologies, Intel, UKAEA, the University of Cambridge, and WEKA working together. 
+
+It will deliver up to 6.76 Exaflops of AI-accelerated modelling, enabling high-fidelity simulations and the creation of digital twins for complex systems. 
+
+Lord Vallance, Minister for Science, Innovation, Research and Nuclear, said: 
+
+We can be proud that Britain will lead the way on research, innovation and skills for a future of limitless fusion energy. 
+
+By backing our fusion industry, we are not only securing our future energy independence, but from innovation and research to engineers, we are also providing the skilled clean energy jobs of the future for British people.
+
+Dr Rob Akers, UKAEA’s Director for Computing Programmes, said:  
+
+UKAEA is taking lessons from the Apollo programme: we learn fastest when we can test, iterate, and improve safely in the virtual world before we commit to our real-world mission. Sunrise will bring that capability to fusion by combining high-fidelity simulation with physics-informed AI to develop predictive digital twins that reduce the cost, risk and time of learning that would otherwise require expensive and time-consuming physical testing. 
+
+UKAEA is proud to be working with such a pioneering group of partners to harness AI and high-performance computing at scale to support the UK’s fusion roadmap and Net Zero mission.
+
+Dr Paul Calleja, Director of the Cambridge Research Computing Service, said: 
+
+Cambridge is proud to be working with UKAEA, Dell, AMD and StackHPC, a UK AI software SME, to co-design, deliver and operate Sunrise the UK’s latest GPU accelerated scientific AI supercomputer. Sunrise builds on our long-established collaboration with UKAEA also leveraging Cambridge’s leadership class national supercomputing and sovereign AI portfolio. Sunrise is an important first step in the UK’s bold vision to strengthen its sovereign scientific computing capability, accelerate fusion research, and lay the foundations for the Culham AI Growth Zone. 
+
+Thomas Zacharia, SVP, Strategy and Development, Public Sector, AMD, said:  
+
+Fusion research pushes the limits of science and computing, demanding massive simulation, complex modelling and advanced AI to accelerate progress. 
+
+With Sunrise, the UK will have a powerful new capability to rapidly and accurately simulate plasma behaviour and fusion conditions, helping researchers advance the development of stable, efficient and economically viable fusion energy. Sunrise brings together AMD EPYC processors and AMD Instinct GPU acceleration, purpose-built on the Dell PowerEdge platform, to deliver breakthrough AI and high-performance computing for the UK fusion community and supporting the Department for Energy Security & Net Zero as it moves fusion from research toward practical impact.
+
+Tariq Hussain, UK Head of Public Sector, Dell Technologies, said:  
+
+Sunrise is a bold step in advancing fusion energy and AI innovation, made possible through close collaboration and shared ambition. At Dell Technologies, we’re helping turn this vision into reality with advanced AI and storage solutions that enable the UK to tackle complex challenges and accelerate a sustainable energy future.
+
+Simon Wilyman - GM UK/I & Northern Europe, Intel Corporation, said: 
+
+There are grand milestones in the evolution of our civilization, and the commercialization of fusion power is set to be one of them. Intel is delighted to partner with organizations such as UKAEA to support this ambitious endeavour. As part of the first AI Growth Zone, the Sunrise supercomputer strengthens the UK’s position as a global innovation hub. By combining advanced AI capabilities and high memory bandwidth with fusion research, Intel is creating the computational foundation necessary to unlock sustainable energy and improve lives worldwide.
+
+Liran Zvibel, Co-Founder & CEO, WEKA, said: 
+
+Building a supercomputer to simultaneously advance fusion energy and grow an AI-native economy is one of the most valuable scientific investments a nation can make, and Sunrise delivers on exactly that. WEKA is proud to partner with the UK Atomic Energy Authority to ensure Sunrise has the storage performance it needs to move at top speed from scientific discovery to real-world impact.
+
+Sunrise will be used to address real-world challenges from a wide range of UK fusion programmes to drive critical advancements for the LIBRTI (Lithium Breeding Tritium Innovation) programme, which is developing tritium fuel-cycle technologies for self-sufficiency in future fusion operations, and for STEP Fusion, the UK’s flagship initiative to demonstrate fusion energy in the 2040s. 
+
+In 2023, Dell Technologies, Intel, the University of Cambridge and UKAEA shared plans to use supercomputers and AI to advance the development of the UK’s prototype fusion power plant design capabilities through the ‘Industrial Metaverse’. 
+
+In January 2026, £36 million of government investment was injected into the Cambridge supercomputing centre. 
+The supercomputers will support modern AI workloads and simulation demand to turn breakthrough research into practical applications.
+
+Sunrise: Inside the UK’s New AI Supercomputer Accelerating the Future of Fusion Energy
+
+Download 
+ The Sunrise supercomputer key facts (PDF, 762 KB, 1 page)

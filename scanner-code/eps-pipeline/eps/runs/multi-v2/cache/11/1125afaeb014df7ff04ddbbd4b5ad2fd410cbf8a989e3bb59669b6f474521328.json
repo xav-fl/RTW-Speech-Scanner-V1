@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about expanding early childhood education to a universal system — the mechanism is universal early years education provision. This is squarely an education policy matter.\n\nPrimary: **I** (Health, Education, and Welfare → I2 Education and Research Institutions) — the substance is a proposed universal early years education system.\n\nNo strong secondary dimension is substantively named (no labor market, fiscal, or welfare mechanism is specified beyond the education proposal itself).\n\n```json\n{\"primary\": \"I\", \"secondary\": []}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

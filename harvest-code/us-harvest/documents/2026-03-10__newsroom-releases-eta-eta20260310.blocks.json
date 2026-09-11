@@ -1,0 +1,35 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260310",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor awards over $220K to help workers affected by layoffs at southwestern Oregon lumber facility",
+ "date": "2026-03-10",
+ "date_source": "listing",
+ "source_document_type": "ETA",
+ "text_sha256": "f42b28675137c7bb752105b0f893a8d44c6c053e1a9f7eed84fa80498ee968d7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

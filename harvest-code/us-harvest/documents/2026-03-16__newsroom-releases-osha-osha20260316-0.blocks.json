@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260316-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites Midwest commercial bakery for repeat, serious safety violations following employee injury",
+ "date": "2026-03-16",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "858201f5a882b288e72dafb4af4fd9a3b622015da81453559c5f8cd52cdf2d48",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

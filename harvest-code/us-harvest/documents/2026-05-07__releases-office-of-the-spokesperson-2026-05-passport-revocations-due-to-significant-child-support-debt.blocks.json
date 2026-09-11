@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/passport-revocations-due-to-significant-child-support-debt/",
+ "institution_id": "us-state",
+ "title": "Passport Revocations Due to Significant Child Support Debt",
+ "date": "2026-05-07",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "cfa7a1761636d620dc7dafc01fa28743db9dc5ad6e96bdf7ef81406fd3de6943",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

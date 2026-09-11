@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/virginia-man-found-guilty-receipt-and-possession-child-pornography",
+ "institution_id": "us-justice",
+ "title": "Virginia Man Found Guilty of Receipt and Possession of Child Pornography",
+ "date": "2026-07-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "2eacf6c4700e49a0902d5c7104838733ce2ccf289e94cdefc474829021e4a6eb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

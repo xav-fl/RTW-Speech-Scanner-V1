@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about a specific government expenditure pledge (£8.6 billion) to GCAP (Global Combat Air Programme) in a Defence Investment Plan. The core economic content is national government expenditure on defence — a specific funding commitment to a defence programme.\n\nThe specific mechanism: a pledged capital allocation to a defence procurement programme.\n\n- **H5** (National Government Expenditures and Related Policies) fits directly — this is about defence spending allocation.\n- **F5** (International Relations, National Security, and International Political Economy) is also relevant since GCAP is an international defence programme with national security dimensions.\n\n{\"primary\": \"H\", \"secondary\": [\"F\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

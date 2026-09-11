@@ -1,0 +1,67 @@
+Scientists in Britain and France to work together on cures for infectious diseases and pioneering improvements in women’s health
+
+New funding for partnership which brings together two of Europe’s leading supercomputers to accelerate AI adoption and scientific discovery
+
+Technology Secretary heads for G7 talks in Paris on improving AI adoption and security and child safety online
+
+Millions of women suffering from complications arising from childbirth, or living with endometriosis, will benefit from the shared research expertise and ambition of the UK and France, under a new partnership inked today.
+
+Working together, both countries will put AI and data at the heart of their work on these historically under-researched, under-diagnosed conditions which have left patients waiting too long for the answers or care they need.
+
+Announced as the Technology Secretary arrives in Paris for talks with G7 Ministers, this partnership will unlock new treatments, enable earlier diagnoses for safer pregnancies and more personalised care. By closing long-standing gaps in women’s health, it has the potential to transform outcomes, and improve the day-to-day lives of millions of women on both sides of the Channel.
+
+The partnership will also bring together global data on diseases like drug-resistant E. coli, enabling faster detection of microbes which can resist treatments, and speeding up how we can identify and tackle infectious outbreaks. Doctors will be better equipped to spot dangerous infections, helping patients get the right treatment sooner and reducing the risk of illness spreading.
+
+In particular, researchers based in the UK and France will use cutting-edge imaging and AI to study infections like tuberculosis, malaria and emerging viruses – ultimately saving lives.
+
+At the heart of this new collaboration is an ambition to make it simpler and faster for British and French institutions to cooperate on biomedical research. Harnessing emerging tech like AI, this will involve everything from joint projects, sharing research expertise in both countries, and working together on joint funding bids – delivering the technologies and products that will benefit people all over the world.
+
+Science and Technology Secretary Liz Kendall said:
+
+> This ground-breaking partnership between the UK and France will tackle some of the biggest challenges in women’s health, deliver safer and healthier pregnancies, and accelerate the fight against infectious diseases worldwide. That means new treatments, earlier diagnoses, and more personalised care.
+
+> We are determined to build on that spirit of co-operation with our G7 partners this week, to drive forward work on some of the most important issues that affect us all, from AI adoption to keeping kids safe online.
+
+Philippe Baptiste, French minister for higher education, research and space, said:
+
+> The renewed dialogue between France and the United Kingdom marks a decisive step in our scientific partnership. Together, we are building a dynamic and ambitious roadmap, transforming our shared vision into concrete actions, notably through enhanced collaboration in Horizon Europe projects. This cooperation, anchored in trust and excellence, will deliver tangible results in artificial intelligence, health, and beyond, for the benefit of both nations.
+
+At today’s G7 talks (Friday 29 May), Ministers will focus their discussions on key issues to protect citizens and spark the growth which will unlock jobs and new opportunities. AI adoption and security and the resilience and resource efficiency of the digital sector will all be on the agenda, along with discussions on how to create a safer online world for children and young people.
+
+As the Technology Secretary arrives in Paris, nearly £900,000 of UK government funding has also been committed to boosting the partnership between the Bristol Centre for Supercomputing which hosts Isambard‑AI and France’s computing centre GENCI.
+
+This will allow researchers at both bases to access world class compute and deliver scientific breakthroughs. Isambard-AI is already supporting cutting-edge research in areas ranging from drug discovery to combat heart disease to climate scenario modelling.
+
+The UK government will also contribute £300,000, matched by €330,000 from the French government enabling early‑career researchers to be supported to live and work in both the UK and France, helping them advance their careers, and unlock new collaboration opportunities - including on major Horizon Europe projects. This is through UKRI’s International Science Partnerships Fund, designed to support UK researchers and innovators collaborate with peers internationally.
+
+Taking the strength of UK-France collaboration even further, Imperial College London and the French National Center for Scientific Research will sign a separate landmark agreement today to collaborate on metabolism research - tackling major health challenges including heart disease, cancer and neurodegenerative disorders.
+
+Notes to Editors
+
+The G7 Digital and Technology Ministerial Summit takes place in Paris on 28–29 May 2025, under the French G7 presidency.
+
+At the core of the research in women’s health, infectious diseases, data science and advanced bioimaging is the UK–France Strategic Biomedical Alliance in Health and AI, a partnership between the University of Oxford, Université Paris Cité, Institut Pasteur and the UK and French national advanced imaging facilities, the Diamond Light Source and Synchrotron SOLEIL. Together, these partners combine world‑leading science with national bioimaging infrastructure and technology development.
+
+The Bristol Centre for Supercomputing hosts Isambard AI, one of the UK’s most powerful AI supercomputers, as part of the UK’s AI Research Resource the UK’s national programme providing leading, AI‑specialised computing capacity to researchers and innovators
+
+The new partnership will allow mutual access to infrastructure like the UK’s Diamond Light Source and France’s Synchrotron SOLEIL, using extremely bright light to reveal the structure of materials and biological systems down to the molecular level.
+
+GENCI (Grand Équipement National de Calcul Intensif) is France’s national high-performance computing body.
+
+The £1.2 million figure combines the £894,000 Isambard AI/GENCI partnership funding and £300,000 per year student mobility funding.
+
+Professor Richard Cornall, Head of the Nuffield Department of Medicine at the University of Oxford, said:
+
+> At a time of growing global health threats and rapid technological change, the Alliance brings together leading expertise in AI, advanced imaging and biomedical science to better understand, predict and treat complex disease. Starting with accelerating progress in women’s health, infectious diseases and antimicrobial resistance, we will create a powerful UK-France capability for biomedical innovation and the joint development of world-leading new technology.
+
+Professor Philippe Guérin, Director of the Infectious Diseases Data Observatory (IDDO) at the University of Oxford, said:
+
+> Through this Alliance we will be able to see disease in new ways - combining the technology of two of the world’s most powerful synchrotrons, with the world’s greatest research minds, to understand how infections develop, spread and respond to treatment at an unprecedented level of detail. That deeper understanding will drive innovation in diagnostics and therapies, helping improve outcomes for patients and at the same time strengthening preparedness for future health threats worldwide.
+
+Professor Hugh Brady, President of Imperial College London, said:
+
+> Understanding metabolism is crucial to addressing some of the biggest health challenges of our time - from obesity and diabetes to cancer and neurodegenerative diseases - and our new joint laboratory will put the UK and France at the forefront of this critical area of research. By bringing together world-leading expertise and cutting-edge technologies, including AI and machine learning, we will deepen our understanding of these complex conditions for the benefit of all. Our collaboration with France’s CNRS will create new opportunities to share talent, knowledge and resources - accelerating discovery, driving health-tech innovations and delivering meaningful societal impact.
+
+Professor Gianluigi Botton, Chief Executive of Diamond Light Source, said:
+
+> This collaboration represents an exciting step forward in harnessing the full potential of advanced synchrotron imaging, data and AI in healthcare. By strengthening links between UK and French research communities, we are creating new opportunities to better understand disease, accelerate innovation and improve patient care. Diamond is delighted to support this shared ambition to deliver scientific breakthroughs that will have a lasting global impact.

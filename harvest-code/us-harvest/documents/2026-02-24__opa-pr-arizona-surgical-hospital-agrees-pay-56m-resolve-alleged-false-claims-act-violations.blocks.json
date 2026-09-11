@@ -1,0 +1,89 @@
+{
+ "url": "https://www.justice.gov/opa/pr/arizona-surgical-hospital-agrees-pay-56m-resolve-alleged-false-claims-act-violations",
+ "institution_id": "us-justice",
+ "title": "Arizona Surgical Hospital Agrees to Pay $5.6M to Resolve Alleged False Claims Act Violations",
+ "date": "2026-02-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "e168e9cb2097e72f47533df979c8270a93d86c3ae331f3d41e45a4cbbac00eeb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Deputy Inspector General for Investigations Scott J. Lampert",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Deputy Inspector General for Investigations Scott J. Lampert",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0568/",
+ "institution_id": "us-treasury",
+ "title": "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Prime Minister of the Republic of Iraq Ali Al-Zaidi",
+ "date": "2026-07-16",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "0b8bd2ebdd9aeb0f73804ba28ba593d6d5ce6f174651ceff6e74105cbc7350c0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the specific mechanisms named in this quotation:\n\n1. **National Joint Council (NJC)** — a collective bargaining body for the fire service\n2. **Pay reform** — restructuring a national pay and reward structure\n3. **Skills-based pay** — rewarding staff for skills developed\n\nThe core substance is about:\n- Collective bargaining through the NJC (J5 — Labor–Management Relations, Trade Unions, and Collective Bargaining)\n- Wage/compensation structure reform (J3 — Wages, Compensation, and Labor Costs)\n\nThe FBU (Fire Brigades Union) involvement and NJC process point squarely to J5, while the \"pay and reward structure\" and \"rewards the skills\" language points to J3.\n\n```json\n{\"primary\": \"J5\", \"secondary\": [\"J3\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

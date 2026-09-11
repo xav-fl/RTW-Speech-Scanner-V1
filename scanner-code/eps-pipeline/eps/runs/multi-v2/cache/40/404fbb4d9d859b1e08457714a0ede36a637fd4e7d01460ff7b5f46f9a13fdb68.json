@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0d23c1991d.P055.S001\", \"D0d23c1991d.P056.S001\", \"D0d23c1991d.P057.S001\", \"D0d23c1991d.P058.S001\"], \"anchor\": null, \"reason\": \"Commitment to fair national pay/reward structure reform for fire service staff\"}, {\"unit_ids\": [\"D0d23c1991d.P062.S001\", \"D0d23c1991d.P062.S002\", \"D0d23c1991d.P062.S003\"], \"anchor\": null, \"reason\": \"Policy commitment to reform Firefighters' Pension Scheme\"}, {\"unit_ids\": [\"D0d23c1991d.P079.S001\"], \"anchor\": null, \"reason\": \"Commitment to secure investment for fire and rescue services at spending review\"}, {\"unit_ids\": [\"D0d23c1991d.P081.S001\", \"D0d23c1991d.P082.S001\"], \"anchor\": null, \"reason\": \"£15m funding boost and income protection floor for fire authorities\"}, {\"unit_ids\": [\"D0d23c1991d.P083.S001\"], \"anchor\": null, \"reason\": \"Comprehensive review of fire service funding formula announced\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

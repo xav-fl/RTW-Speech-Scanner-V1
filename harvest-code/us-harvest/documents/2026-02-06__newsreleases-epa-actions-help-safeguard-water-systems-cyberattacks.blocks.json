@@ -1,0 +1,47 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-actions-help-safeguard-water-systems-cyberattacks",
+ "institution_id": "us-epa",
+ "title": "EPA Actions Help Safeguard Water Systems from Cyberattacks",
+ "date": "2026-02-06",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "4709a4303687669aaef646dc6ce304defa36fa9d31185938a9b42d3acc5cf952",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Water Jess Kramer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Water Jess Kramer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

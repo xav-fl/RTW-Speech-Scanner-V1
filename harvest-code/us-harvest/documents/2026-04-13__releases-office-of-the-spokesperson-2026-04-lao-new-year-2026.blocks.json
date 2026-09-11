@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/lao-new-year-2026/",
+ "institution_id": "us-state",
+ "title": "Lao New Year 2026",
+ "date": "2026-04-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "8e657ad2c7b012c4a6bb0c32eb0e183b60fc1771be01796a882c42396b91c9f2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

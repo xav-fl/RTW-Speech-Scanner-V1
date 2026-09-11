@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260106-0",
+ "institution_id": "us-labor",
+ "title": "Federal court orders California agricultural employer to comply with law after crash kills 7, injures another during transportation to worksite",
+ "date": "2024-02-23",
+ "date_source": "body",
+ "source_document_type": "WHD",
+ "text_sha256": "5735ba776c93269890b3d1ab760192908bc1773b9f9ac5303b4c46ec563623df",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Regional Solicitor Marc Pilotin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Regional Solicitor Marc Pilotin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

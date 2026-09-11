@@ -1,0 +1,89 @@
+{
+ "url": "https://www.justice.gov/opa/pr/company-ordered-pay-500000-criminal-fine-violating-asbestos-regulations-michigan",
+ "institution_id": "us-justice",
+ "title": "Company Ordered to Pay $500,000 Criminal Fine for Violating Asbestos Regulations in Michigan",
+ "date": "2026-06-05",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "13b7e41323b3c6af15ff7fdbf62a41ad243164f0362110a0e9c639f7fac62492",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Principal Deputy Assistant Attorney General Adam Gustafson of the Justice Department’s Environment",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Principal Deputy Assistant Attorney General Adam Gustafson of the Justice Department’s Environment",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "EPA’s Assistant Administrator Jeffrey A. Hall of the Office of Enforcement",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "EPA’s Assistant Administrator Jeffrey A. Hall of the Office of Enforcement",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

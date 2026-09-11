@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-finds-special-school-district-st-louiss-seclusion-and-restraint-practices",
+ "institution_id": "us-justice",
+ "title": "Justice Department Finds the Special School District of St. Louis’s Seclusion and Restraint Practices Discriminate Against Students with Disabilities",
+ "date": "2026-02-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "36663c70fbc430101969f6e2e327cc2b2faebe375938c916b86affcc7c0c2ad1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

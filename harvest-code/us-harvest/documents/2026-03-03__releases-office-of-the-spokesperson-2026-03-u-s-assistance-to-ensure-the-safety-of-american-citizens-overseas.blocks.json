@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/u-s-assistance-to-ensure-the-safety-of-american-citizens-overseas/",
+ "institution_id": "us-state",
+ "title": "U.S. Assistance to Ensure the Safety of American Citizens Overseas",
+ "date": "2026-03-03",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "0b508b8df48f57637e953f02e93d7253b5f2c13a5cda51ab8edcbb092daa0620",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "url": "https://www.epa.gov/newsreleases/president-trump-expands-historic-ratepayer-protection-pledge-protect-american",
+ "institution_id": "us-epa",
+ "title": "President Trump Expands Historic Ratepayer Protection Pledge to Protect American Ratepayers, Lower Electricity Prices",
+ "date": "2026-07-23",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "ba50e1f4d3d5242d1391cecc7ee6dc96bb88952d5b18f6a32e608bd43bb16c34",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "President Donald. J Trump",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "President Donald. J Trump",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

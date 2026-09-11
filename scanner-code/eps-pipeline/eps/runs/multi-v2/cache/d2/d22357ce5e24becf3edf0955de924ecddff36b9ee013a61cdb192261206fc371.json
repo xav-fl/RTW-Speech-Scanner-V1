@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about securing government investment/funding for Fire and Rescue Services to meet community needs — this is about public expenditure on a publicly provided emergency service, which falls under H4 (Publicly Provided Goods) or H5 (National Government Expenditures and Related Policies). The specific mechanism is budget/spending review allocation for fire and rescue services.\n\nThe substance is: gathering evidence to secure investment in Fire and Rescue Services through a spending review — this is about public expenditure decisions for a government-provided service.\n\nPrimary: H5 (National Government Expenditures and Related Policies) — spending review, investment in fire services\nSecondary: H4 (Publicly Provided Goods) — fire and rescue as a publicly provided service\n\n{\"primary\": \"H5\", \"secondary\": [\"H4\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

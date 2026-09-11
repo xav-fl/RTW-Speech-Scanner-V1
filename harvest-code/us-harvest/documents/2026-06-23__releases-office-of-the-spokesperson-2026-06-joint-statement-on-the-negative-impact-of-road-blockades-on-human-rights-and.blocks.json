@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-on-the-negative-impact-of-road-blockades-on-human-rights-and-democracy-in-bolivia/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on the Negative Impact of Road Blockades on Human Rights and Democracy in Bolivia",
+ "date": "2026-06-23",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "0cd907eead82689ca21362ddd6d67da9bdc421fc0761c39971959cc8f917fae7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

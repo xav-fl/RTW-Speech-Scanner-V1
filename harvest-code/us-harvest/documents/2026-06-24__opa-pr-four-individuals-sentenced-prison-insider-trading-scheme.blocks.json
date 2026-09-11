@@ -1,0 +1,83 @@
+{
+ "url": "https://www.justice.gov/opa/pr/four-individuals-sentenced-prison-insider-trading-scheme",
+ "institution_id": "us-justice",
+ "title": "Four Individuals Sentenced to Prison for Insider Trading Scheme",
+ "date": "2026-06-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c157d14c32131a7921ef3bec2aff3981cb92a4ac96722a5aaca423d069e0b6aa",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Inspector",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Inspector",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

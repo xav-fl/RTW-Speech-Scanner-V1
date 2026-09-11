@@ -1,0 +1,79 @@
+TITLE: UK backs company building breakthrough AI that can discover new knowledge
+URL: https://www.gov.uk/government/news/uk-backs-company-building-breakthrough-ai-that-can-discover-new-knowledge
+DATE: 2026-04-27
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Kanishka Narayan MP; The Rt Hon Liz Kendall MP
+
+---
+
+Sovereign AI backs Ineffable Intelligence, co‑investing with the British Business Bank to help the company scale its breakthrough technology from the UK
+
+Ineffable, anchored in Britain, is building a new kind of AI that can learn for itself and discover new knowledge - not just repeat patterns from human data
+
+Founded by AI pioneer David Silver, the company has the potential to unlock major breakthroughs across science, medicine and engineering
+
+The UK is backing Ineffable Intelligence, a new British AI company building algorithms that can learn for themselves and uncover new knowledge - rather than simply copying what humans already know.
+
+Ineffable Intelligence is the latest frontier AI company to receive backing through the UK government’s Sovereign AI Fund, which is designed to help the UK’s most promising AI startups grow, scale and succeed from Britain.
+
+Founded by one of the world’s leading AI scientists, Ineffable is developing a new generation of algorithms that learn through experience - more like humans do.
+
+Instead of being trained only on vast amounts of existing data, these systems interact with their environment, test ideas, and improve over time, allowing them to discover new solutions and insights on their own - opening the door to breakthroughs in science, medicine, engineering and beyond.
+
+Sovereign AI and the British Business Bank will co-invest in the AI firm, supporting the company as it builds its technology, grows its team and scales its operations from the UK.
+
+The company is led by David Silver, one of the most influential figures in modern AI. A Professor at University College London and formerly Head of Reinforcement Learning at Google DeepMind, his work helped power some of the biggest AI breakthroughs of the last decade, including AlphaGo - the system that famously beat the world champion at the game of Go.
+
+He founded Ineffable to take the next leap forward: building AI that can go beyond imitation and generate genuinely new knowledge.
+
+Sovereign AI is designed to be different from any previous government-backed unit, acting like a venture capital fund with the muscle of the state behind it – moving fast, backing ambition and cutting through the red tape that so often holds brilliant ideas back. It will invest directly in the UK’s most promising AI startups, help them scale quickly, and give them the support they need to compete with the best in the world.
+
+Science and Technology Secretary Liz Kendall said:
+
+Sovereign AI is our bet on Britain - we believe in this nation’s entrepreneurs and innovators and we are backing them to seize the benefits of AI for the UK.
+
+This investment in Ineffable will support a company at the very frontier of AI, with the potential to transform entire sectors, underlining our determination to ensure that the UK isn’t just an AI taker but an AI maker.
+
+It also demonstrates Sovereign AI moving at real speed – locking down its second direct investment in just a couple of months, while also securing a really effective partnership with the British Business Bank.
+
+AI Minister Kanishka Narayan said:
+
+David Silver is one of the world’s foremost AI leaders, now taking one of the world’s most innovative approaches to frontier AI. I am delighted that he is doing so right here in the UK, backed by the full support of the British state. 
+
+With support from Sovereign AI and the British Business Bank, we are together showing what British AI can be: the best talent, backed by exceptional state capacity, building AI in Britain, changing the world with it.
+
+Josephine Kant, Head of Ventures at the Sovereign AI Unit, said:
+
+Very few founders in the world could credibly set out to build a superlearner - a system that discovers new knowledge from its own experience, rather than ours. David is one of them. From AlphaGo to AlphaZero to AlphaProof, he has spent nearly 2 decades turning reinforcement learning from a research idea into the results the rest of the field builds on.
+
+Ineffable is being built in the UK - and that matters. Our job at Sovereign AI is to make sure founders with this level of ambition never have to choose between it and their home - backing them with the speed of venture and the strength of a nation, and standing behind them for the long term as they build category-defining companies.
+
+Charlotte Lawrence, Managing Director of Direct Equity, British Business Bank, said:
+
+David Silver is a generational talent who has consistently been on the cutting edge of AI development. Ineffable Intelligence has the potential to produce a paradigm shift in our scientific and technology landscape, and we are incredibly excited to be supporting him and his team in this endeavour.
+
+Launched just a matter of weeks ago, today’s investment brings the total number of companies backed by the Unit so far to 8. 
+
+Others already receiving support include Callosum – a company building a new class of AI infrastructure who are getting equity investment.
+
+Meanwhile, a further 6 startups will receive access to the AI Research Resource (AIRR) supercomputer network – with Sovereign AI getting a right of first refusal on future investments for a number of recipients. Putting some of the nation’s foremost supercomputing capacity behind some of the country’s most promising new companies tackles a critical hurdle: the need for vast amounts of specialist hardware like GPUs, to train advanced AI models, test ideas and run complex simulations. The companies are: Prima Mente, Cosine, Cursive, Doubleword, Twig Bio and Odyssey.
+
+AI is the defining technology of our era. For Britain to forge its own destiny in the years ahead, the UK needs to have homegrown AI capacity and capabilities. That means backing the very best AI innovators, founders and entrepreneurs to bring their ideas to life in the UK, and grow them here to maximum success.
+
+It comes ahead of the Technology Secretary setting out later this week plans to boost our sovereign AI – which is now essential to the UK’s national security and economic power.
+
+Notes to editors
+
+The Fund will invest directly in promising UK AI companies to help them scale in the UK. Our investments will be focused on companies at the early and growth-stage.
+
+Typical equity investments will be worth around £1-10 million, though every company’s circumstances will be different. 
+
+Like most venture capital funds we do not comment on specific investment figures as they are commercially sensitive.
+
+The announcement of funding in Ineffable Intelligence through the Sovereign AI Fund is in addition to the investment from the British Business Bank.
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

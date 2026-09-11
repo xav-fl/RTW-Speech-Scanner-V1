@@ -1,0 +1,65 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/joint-statement-from-the-international-contact-group-for-the-great-lakes-icg-on-the-situation-in-the-eastern-democratic-republic-of-the-congo-drc/",
+ "institution_id": "us-state",
+ "title": "Joint Statement from the International Contact Group for the Great Lakes (ICG) on the Situation in the Eastern Democratic Republic of the Congo (DRC)",
+ "date": "2026-03-05",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "7eb2d22ac20df39091bb0ed2a4f69b73076b6faf29fedeb573ba3f608c63c6f6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

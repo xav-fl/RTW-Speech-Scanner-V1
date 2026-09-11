@@ -1,0 +1,37 @@
+TITLE: New consultation on draft statutory statement of safety principles for automated vehicles
+URL: https://www.gov.uk/government/speeches/new-consultation-on-draft-statutory-statement-of-safety-principles-for-automated-vehicles
+DATE: 2026-06-17
+GOVUK_TYPE: written_statement
+LINKED_SPEAKERS: Simon Lightwood MP
+
+---
+
+I would like to provide the House with a further update on the progress the government has made in implementing the Automated Vehicles (AVs) Act 2024.
+
+Today (17 June 2026), the government is publishing its analysis of responses to last year’s call for evidence on the statement of safety principles (SoSP). The call for evidence sought views on how the SoSP could be used, described and measured.
+
+Alongside this publication, the government is launching a statutory consultation on the draft statement of safety principles.
+
+This public consultation will seek views from organisations representing road users, road safety groups and self-driving vehicle businesses, in line with the requirements set out in section 2(3) of the AV Act 2024. The consultation will be open until September 2026. Subject to the outcome of the consultation, the statutory statement of safety principles for AVs will be laid before Parliament next year for approval.
+
+Safety sits at the heart of the AV regulatory framework, ensuring that AVs are safe to use on Great Britain’s roads and remain safe throughout their deployment. A cornerstone of this framework is the statutory statement of safety principles, which will guide the Secretary of State in decisions on whether an AV can be deployed on GB roads and in the ongoing monitoring of authorised AVs.
+
+There are also principles relating to behaviours specific to an AV, such as operating only within their authorised domain. In addition, the Secretary of State may have regard to the SoSP when deciding whether the in-use regulator should investigate an incident, and when considering whether to impose sanctions and the appropriate extent of any such sanctions.
+
+The SoSP will provide guidance on the behaviours the Secretary of State expects to see from vehicles in meeting the self-driving test of travelling safely and autonomously. Consistent with the AV Act 2024 and international United Nations Economic Commission for Europe (UNECE) regulations, the safety standard underpinning the SoSP is that AVs should achieve a level of safety equivalent to at least that of careful and competent human drivers.
+
+To achieve this, the draft principles are based on several behaviours considered to be consistent with careful and competent human drivers. These cover 5 broad themes:
+
+vehicle control
+
+hazard anticipation, perception and reaction
+
+obeying traffic rules
+
+interaction with other road users
+
+adaptability to road conditions
+
+This is a reserved matter as the SoSP is made under the Automated Vehicles Act 2024, which confers these functions on the Secretary of State. The SoSP extends to England and Wales and Scotland and applies to England, Scotland and Wales.
+
+The SoSP consultation has been laid as a command paper in both Houses. The summary of responses to the SoSP call for evidence and a research report into public perceptions of AV safety which supports the development of the SoSP will be placed in the libraries of both Houses. All papers are published on GOV.UK.

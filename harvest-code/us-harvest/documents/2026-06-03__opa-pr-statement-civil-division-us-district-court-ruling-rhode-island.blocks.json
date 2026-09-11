@@ -1,0 +1,35 @@
+{
+ "url": "https://www.justice.gov/opa/pr/statement-civil-division-us-district-court-ruling-rhode-island",
+ "institution_id": "us-justice",
+ "title": "Statement from the Civil Division on U.S. District Court Ruling in Rhode Island",
+ "date": "2026-06-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "09a30c297fb94da375c8dd265e94c882c59e635603d8883f9dddf0f239aca6b0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

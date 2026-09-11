@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/the-united-states-hosts-apec-alliance-for-supply-chain-connectivity-a2c2-regional-roundtable-in-mexico-city/",
+ "institution_id": "us-state",
+ "title": "The United States Hosts APEC Alliance For Supply Chain Connectivity (A2C2) Regional Roundtable in Mexico City",
+ "date": "2026-01-13",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "6e6aa259703239309132775662ecc19e0d4163d9501da99fcaecd20c69fb42f2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

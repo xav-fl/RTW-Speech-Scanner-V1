@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260424",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites Florida roofing company for willfully exposing workers to safety hazards after worker suffers fatal fall, another injured",
+ "date": "2025-09-24",
+ "date_source": "body",
+ "source_document_type": "OSHA",
+ "text_sha256": "6044f443bb1cd5b7a41463be1024c1728458e0de6e4a647cd886619fa1c936d9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about leasehold enfranchisement — the legal right of leaseholders to purchase the freehold of their property — being made cheaper and easier. The core mechanism is a reform to property rights and tenure law (leasehold/freehold conversion), which sits squarely in real estate markets and property law.\n\n- **R3** (Real Estate Markets) is the primary fit: this is about the structure of property ownership, tenure reform, and the costs of converting leasehold to freehold — a real estate market institution.\n- **K1** (Basic Areas of Law — property law) is a strong secondary: the instrument is a legislative act reforming property rights (enfranchisement rights under statute).\n\n{\"primary\": \"R3\", \"secondary\": [\"K1\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,83 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/04/13/usda-announces-specialty-crop-investment-thanks-working-families-tax-cuts",
+ "institution_id": "us-agriculture",
+ "title": "USDA Announces Specialty Crop Investment Thanks to Working Families Tax Cuts",
+ "date": "2026-04-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "9695ba4081613d06e4f4d5fe59c79609f8cfdbb73fe2dbb16c3a395d642e7413",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary Brooke Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Brooke Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Congressman Tom Barrett",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Congressman Tom Barrett",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

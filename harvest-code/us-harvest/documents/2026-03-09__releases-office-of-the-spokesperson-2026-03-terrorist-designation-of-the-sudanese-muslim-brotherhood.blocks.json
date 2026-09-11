@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/terrorist-designation-of-the-sudanese-muslim-brotherhood/",
+ "institution_id": "us-state",
+ "title": "Terrorist Designation of the Sudanese Muslim Brotherhood",
+ "date": "2026-03-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "17d05f675249a89da77ac93428a73b3cb45e7ef9458de9b370611a2b2b642a56",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

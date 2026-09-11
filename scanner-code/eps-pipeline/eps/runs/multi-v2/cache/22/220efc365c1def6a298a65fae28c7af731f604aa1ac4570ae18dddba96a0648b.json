@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a \"Small Sites Aggregator\" — a mechanism to pool or bundle small development sites to facilitate housing development — being piloted and then rolled out nationally. The core economic content is about a market/coordination mechanism for real estate/land development, specifically aggregating small sites to overcome fragmentation barriers in housing supply.\n\nThe specific mechanism: aggregating small land parcels to enable development — this is squarely about real estate markets and housing supply, fitting R3 (Real Estate Markets, Spatial Production Analysis, and Firm Location). There's also a market design/coordination element (D4), but the primary substance is housing/land market intervention.\n\n{\"primary\": \"R\", \"secondary\": [\"D\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

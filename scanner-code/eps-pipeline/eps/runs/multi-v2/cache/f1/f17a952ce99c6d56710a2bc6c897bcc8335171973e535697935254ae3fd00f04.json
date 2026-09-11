@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about government commitment to build social and affordable housing at scale, backing councils (local government) and housing associations. The core mechanism is public/subsidized housing supply expansion through local authorities and non-profit housing providers.\n\n- **R** (Urban, Rural, Regional, Real Estate, and Transportation Economics) — specifically R3 (Real Estate Markets) and R2 (Household Analysis) fit housing supply policy directly. This is the primary fit.\n- **H** — H4 (Publicly Provided Goods) or H7 (State and Local Government) is relevant since councils are being backed to build, involving public expenditure and intergovernmental relations.\n\n{\"primary\": \"R\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,6 @@
+{
+  "text": "The quotation is about emergency measures to accelerate housebuilding in London, specifically targeting delivery of social and affordable housing, with expectations set for developers, Registered Providers, and London Boroughs.\n\nThe core mechanism: emergency regulatory/policy measures to accelerate housing construction and affordable housing delivery in an urban region, involving multiple actors (developers, housing associations, local governments).\n\n- **R3** (Real Estate Markets, Spatial Production Analysis) — housing supply/construction policy\n- **R5** (Regional Government Analysis) — intergovernmental coordination between London boroughs and central/regional authority\n- **H7** (State and Local Government, Intergovernmental Relations) — could apply but R5 is more specific to regional governance\n\nPrimary: **R** (Urban, Rural, Regional, Real Estate) — specifically housing supply acceleration and affordable housing delivery in a metropolitan context.\n\nSecondary: **H7** — the coordination expectations set for London Boroughs and Registered Providers reflects intergovernmental/public sector governance dimensions.\n\n{\"primary\": \"R\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}"
+}

@@ -1,0 +1,41 @@
+TITLE: Update on the procurement for Digital Gilt Instrument (DIGIT) Pilot
+URL: https://www.gov.uk/government/news/update-on-the-procurement-for-digital-gilt-instrument-digit-pilot
+DATE: 2026-02-12
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+Today’s announcement is an exciting step towards launching the DIGIT issuance, a key pillar of the government’s Wholesale Financial Markets Digital Strategy.
+
+At Mansion House last year, the government committed to delivering a range of design features, which included ensuring that DIGIT is accessible to a wide range of participants and supporting the development of secondary markets. The government is actively engaging with additional suppliers to support the delivery of these features, together with HSBC. 
+
+Lucy Rigby KC MP, Economic Secretary to the Treasury, said:
+
+We want to attract investment and make the UK the best place to do business, which is why we are launching DIGIT to understand how the UK can capitalise on this technology, deliver efficiencies and reduce costs for firms. 
+
+This is exactly the kind of financial innovation we need to keep the UK at the forefront of global capital markets and I’m looking forward to working with HSBC and other parties to deliver DIGIT.
+
+The government published its invitation to tender (ITT) for the Digital Gilt Instrument (DIGIT) in October 2025 and would like to thank all the prospective suppliers that submitted bids. This was a competitive tender process where HSBC’s proposal was chosen against the government’s published assessment criteria.
+
+Patrick George, Global Head of Markets & Securities Services, HSBC, said:
+
+HSBC is delighted to be supporting the continued development of the gilt market, market innovation, and the growth of the broader UK economy.  We are very pleased that HM Treasury has chosen our market-leading digital assets platform, HSBC Orion, for the DIGIT pilot issuance.
+
+The government has also appointed Ashurst LLP to provide legal services for the DIGIT pilot. Ashurst’s digital assets team is supporting the government in its preparations to launch DIGIT.
+
+Etay Katz, Head of Digital Assets, Ashurst said:
+
+We are proud to have been appointed by HM Treasury to advise on this landmark transaction. Our team brings deep expertise in digital assets transactions, and we look forward to working with HSBC and supporting the government as it takes this transformative step for UK capital markets.
+
+The DIGIT Pilot
+
+DIGIT will support the Government’s commitment to maintain the UK as a world-leading and global financial centre. As other financial hubs explore DLT, the potential for significant growth in this area is clear. By launching now, the Government is positioning the UK financial services sector to take advantage of this opportunity.
+
+The pilot is seeking to:
+
+Enable the Government to explore how DLT can be applied to UK sovereign debt issuance processes.
+
+Catalyse the development of UK based DLT infrastructure and the adoption of DLT across UK financial markets.
+
+The pilot’s design features include DIGIT being digitally native, short-dated, issued on a platform operating within the Digital Securities Sandbox (DSS), delivering on-chain settlement and independent of the Government’s main debt management programme.

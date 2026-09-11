@@ -1,0 +1,39 @@
+Yesterday, a federal jury in San Francisco convicted former Google software engineer Linwei Ding, also known as Leon Ding, 38, on seven counts of economic espionage and seven counts of theft of trade secrets for stealing thousands of pages of confidential information containing Google’s trade secrets related to artificial intelligence technology for the benefit of the People’s Republic of China (PRC). The jury’s verdict follows an 11-day trial before U.S. District Judge Vince Chhabria for the Northern District of California.
+
+> This conviction exposes a calculated breach of trust involving some of the most advanced AI technology in the world at a critical moment in AI development,
+
+said Assistant Attorney General for National Security John A. Eisenberg.
+
+> Ding abused his privileged access to steal AI trade secrets while pursuing PRC government-aligned ventures. His duplicity put U.S. technological leadership and competitiveness at risk. I commend the trial team and investigators whose exceptional work resulted in this conviction.
+
+> In today’s high-stakes race to dominate the field of artificial intelligence, Linwei Ding betrayed both the U.S. and his employer by stealing trade secrets about Google’s AI technology on behalf of China’s government,
+
+said Assistant Director Roman Rozhavsky of the FBI's Counterintelligence and Espionage Division.
+
+> Not only does this case mark the first-ever conviction on AI-related economic espionage charges, but it also demonstrates the FBI’s unwavering dedication to protecting American businesses from the increasingly severe threat China poses to our economic and national security. We remain committed to working closely with our partners across the private sector to protect our nation’s innovation, safeguard our trade secrets, and hold our foreign adversaries accountable.
+
+> Silicon Valley is at the forefront of artificial intelligence innovation, pioneering transformative work that drives economic growth and strengthens our national security. The jury delivered a clear message today that the theft of this valuable technology will not go unpunished. We will vigorously protect American intellectual capital from foreign interests that seek to gain an unfair competitive advantage while putting our national security at risk,
+
+said U.S. Attorney Craig H. Missakian for the Northern District of California.
+
+> This conviction reinforces the FBI’s steadfast commitment to protecting American innovation and national security. The theft and misuse of advanced artificial intelligence technology for the benefit of the People’s Republic of China threatens our technological edge and economic competitiveness,
+
+said FBI Special Agent in Charge Sanjay Virmani for the San Francisco Field Office.
+
+> The FBI San Francisco division serves Silicon Valley and the companies who lead the world in innovation, and we are committed to safeguarding their work. This case demonstrates the strength of collaboration between the FBI and the private sector, including leading companies like Google, whose partnership is critical to protecting sensitive U.S. technology. Today’s verdict affirms that federal law will be enforced to protect our nation’s most valuable technologies and hold those who steal them accountable.
+
+Ding was originally indicted in March 2024. A superseding indictment returned in February 2025 described seven categories of trade secrets stolen by Ding and charged Ding with seven counts of economic espionage and seven counts of theft of trade secrets.
+
+According to the evidence presented at trial, between approximately May 2022 and April 2023, while a Google employee, Ding stole more than two thousand pages of confidential information containing Google’s AI trade secrets from Google’s network and uploaded them to his personal Google Cloud account. Ding also secretly affiliated himself with two PRC-based technology companies while he was employed by Google: around June 2022, Ding was in discussions to be the Chief Technology Officer for an early-stage technology company based in the PRC; by early 2023, Ding was in the process of founding his own technology company in the PRC focused on AI and machine learning and was acting as the company’s CEO. In multiple statements to potential investors, Ding claimed that he could build an AI supercomputer by copying and modifying Google’s technology. In December 2023, less than two weeks before he resigned from Google, Ding downloaded the stolen Google trade secrets to his own personal computer.
+
+The jury found that Ding stole trade secrets relating to the hardware infrastructure and software platforms that allow Google’s supercomputing data center to train and serve large AI models. The trade secrets contained detailed information about the architecture and functionality of Google’s custom Tensor Processing Unit chips and systems and Google’s Graphics Processing Unit systems, the software that allows the chips to communicate and execute tasks, and the software that orchestrates thousands of chips into a supercomputer capable of training and executing cutting-edge AI workloads. The trade secrets also pertained to Google’s custom-designed SmartNIC, a type of network interface card used to facilitate high speed communication within Google’s AI supercomputers and cloud networking products.
+
+In presentations to investors, Ding called out the PRC’s national policies prioritizing AI development and innovation in the PRC, and in late 2023 Ding applied for a government sponsored “talent plan” in Shanghai, PRC. The jury heard evidence pertaining to the PRC government’s establishment of talent plans to encourage individuals to come to China to contribute to the PRC’s economic and technological growth. Ding’s application for this talent plan stated that he planned to
+
+> help China to have computing power infrastructure capabilities that are on par with the international level.
+
+The evidence at trial also showed that Ding intended to benefit two entities controlled by the government of China by assisting with the development of an AI supercomputer and collaborating on the research and development of custom machine learning chips.
+
+Ding is next scheduled to appear at a status conference on Feb. 3, 2026. Ding faces a maximum sentence of 10 years in prison for each count of theft of trade secrets in violation of 18 U.S.C. § 1832 and 15 years in prison for each count of economic espionage in violation of 18 U.S.C § 1831. Any sentence following conviction would be imposed by the Court only after consideration of the U.S. Sentencing Guidelines and the federal statute governing the imposition of a sentence, 18 U.S.C. § 3553.
+
+Assistant U.S. Attorneys for the Northern District of California Casey Boome, Molly K. Priedeman, and Roland Chang are prosecuting this case, with assistance from Veronica Hernandez and Trial Attorney Yifei Zheng from the Counterintelligence and Export Control Section, National Security Division. The prosecution is the result of an investigation by the FBI.

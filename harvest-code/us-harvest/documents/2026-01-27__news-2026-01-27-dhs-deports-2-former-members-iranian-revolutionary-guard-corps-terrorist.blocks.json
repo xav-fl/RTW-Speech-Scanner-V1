@@ -1,0 +1,89 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/27/dhs-deports-2-former-members-iranian-revolutionary-guard-corps-terrorist",
+ "institution_id": "us-dhs",
+ "title": "DHS Deports 2 Former Members of the Iranian Revolutionary Guard Corps, a Terrorist Organization, to Iran",
+ "date": "2026-01-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "1d078269531ec8147374ffee8f56a9b866653dd217524853563b62562e0ee7d1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

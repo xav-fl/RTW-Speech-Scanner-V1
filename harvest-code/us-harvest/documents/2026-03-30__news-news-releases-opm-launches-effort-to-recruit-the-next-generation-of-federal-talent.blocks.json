@@ -1,0 +1,59 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-launches-effort-to-recruit-the-next-generation-of-federal-talent/",
+ "institution_id": "us-opm",
+ "title": "OPM Launches Effort to Recruit the Next Generation of Federal Talent",
+ "date": "2026-03-30",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "1814a0502f5d1ce1301cdf93574cf348fe7f90683964a3f2a3f3268b19e41056",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

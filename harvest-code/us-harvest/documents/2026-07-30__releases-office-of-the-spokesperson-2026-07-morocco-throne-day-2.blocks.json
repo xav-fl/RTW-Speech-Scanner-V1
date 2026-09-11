@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/morocco-throne-day-2/",
+ "institution_id": "us-state",
+ "title": "Morocco Throne Day",
+ "date": "2026-07-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "81b33c43157c8cee485e6cbac7c9578b6deabbfa74a0f52f10935b09b0fa150f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

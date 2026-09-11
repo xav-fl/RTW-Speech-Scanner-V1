@@ -1,0 +1,33 @@
+A U.S.-based technology company, Vercel Inc., agreed today to a enter a Stipulated Dismissal with the United States to resolve civil contempt proceedings related to Vercel’s failure to comply with a federal search warrant issued under the Electronic Communications Privacy Act. According to court documents, Vercel Inc., failed to comply with its obligation to disclose information as required by a federal search warrant issued out of the District of Nebraska, until a federal magistrate judge made a preliminary finding that Vercel was in contempt of court.
+
+> When a federal court issues a search warrant, it is not a suggestion, but a mandatory directive, essential to the pursuit of justice, that a recipient company must comply with,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> The Criminal Division pursues technology companies who fail to uphold their lawfully mandated obligations. We are pleased Vercel has belatedly complied and accepted responsibility for the unnecessary costs incurred by the Government in this matter.
+
+> A private company withheld evidence in a federal investigation, and that poor choice landed them in federal court in Nebraska,
+
+said U.S. Attorney Lesley Woods for the District of Nebraska.
+
+> The U.S. Attorney’s Office will not stand for failure to comply with judicially authorized search warrants. We will protect our federal investigations to the fullest extent of the law. We are grateful to our partners at the Criminal Division who helped us recover this critical evidence.
+
+> While leading a high priority investigation with national and international impact, FBI Omaha and our partners served a lawfully predicated federal search warrant on Vercel Inc.,
+
+said Special Agent in Charge Eugene Kowel of the FBI Omaha Field Office.
+
+> Vercel Inc.’s failure to comply with a lawful court order forced investigators and prosecutors to divert valuable time and resources away from primary investigative matters. To fulfill our mission of protecting the American People and upholding the Constitution with the speed and agility the public expects of us, we rely on companies promptly and completely providing evidence in response to lawful court orders. We will continue working with our Department of Justice partners to aggressively pursue accountability for organizations that fail to uphold their legal responsibilities.
+
+On Aug. 11, 2025, U.S. Magistrate Judge Ryan Carson issued a search warrant requiring Vercel to disclose the contents of a specified user account in its possession, custody, and control. Three days after Vercel received the search warrant, but prior to Vercel taking any action to execute the warrant, the user deleted the account. Although the deleted information was still located in Vercel’s servers in a deletion queue, Vercel did not recover that information and only provided the Government with some records associated with the account. Vercel failed to meet its obligations to produce the entire contents of the account, believing and representing to the court that the records had been deleted.
+
+On Feb. 2 upon motion from the government and following a hearing as to why Vercel should not be held in civil contempt for failure to comply with the warrant, Magistrate Judge Carson issued an order finding that the Government had established a prima facia case of civil contempt and certified the case to a U.S. District Judge for further proceedings. Only after this finding, on Feb. 5 did Vercel fully comply with the warrant by turning over files it previously believed it did not possess and previously could not locate.
+
+As part of the Stipulated Dismissal, Vercel admitted that at the time it received the search warrant, Vercel’s legal process response tools were inadequate in two ways, which together caused their failure to timely comply with the warrant. First, the tools were not designed in a way that permitted members of Vercel’s Trust and Safety team to locate, preserve, and produce certain content. Second, they were not designed in a way that permitted members of Vercel’s Trust and Safety team to locate, preserve, and produce content that resided in a deletion queue. Vercel has since updated its legal process response tools and procedures to enable the preservation and production of certain content associated with customer accounts, including content that is held in a deletion queue. Vercel has also agreed to pay the Government for the costs it incurred in litigating this matter.
+
+FBI’s Omaha Field Office sought and obtained the original search warrant issued to Vercel as part of an ongoing investigation. Vercel is not and never was a target of the underlying criminal investigation. The warrant was served under the Electronic Communications Privacy Act, which allows law enforcement to use a search warrant to compel providers to disclose the contents of specified user records.
+
+Senior Counsel Michael J. Christin of the Criminal Division’s Computer Crime and Intellectual Property Section and Assistant U.S. Attorneys Sean P. Lynch and Daniel D. Packard for the District of Nebraska are litigating the case.
+
+CCIPS investigates and prosecutes cybercrime and intellectual property (IP) crime in coordination with domestic and international law enforcement agencies, often with assistance from the private sector. Since 2020, CCIPS has secured the conviction of over 180 cyber and IP criminals, and court orders for the return of over $350 million in victim funds.
+
+Stipulation of Dismissal here.

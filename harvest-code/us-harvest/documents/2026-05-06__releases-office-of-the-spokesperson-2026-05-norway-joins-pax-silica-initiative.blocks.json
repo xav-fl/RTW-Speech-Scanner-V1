@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/norway-joins-pax-silica-initiative/",
+ "institution_id": "us-state",
+ "title": "Norway Joins Pax Silica Initiative",
+ "date": "2026-05-06",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "1a85fb66ee3bf74890873638c1bb10041485c6ffce8499a4820524abe978ce2d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

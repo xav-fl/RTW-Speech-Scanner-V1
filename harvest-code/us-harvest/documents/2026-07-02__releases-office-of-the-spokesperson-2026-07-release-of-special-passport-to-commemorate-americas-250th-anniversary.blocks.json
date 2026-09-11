@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/release-of-special-passport-to-commemorate-americas-250th-anniversary/",
+ "institution_id": "us-state",
+ "title": "Release of Special Passport to Commemorate America’s 250th Anniversary",
+ "date": "2026-07-02",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "5ea12fe330fe402d8d62645f7bd686e8eadf3e4dcd9e5da4af6b7a8788e61cdd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

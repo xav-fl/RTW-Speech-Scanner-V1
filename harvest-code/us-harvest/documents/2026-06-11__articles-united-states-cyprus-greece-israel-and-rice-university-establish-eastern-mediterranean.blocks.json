@@ -1,0 +1,59 @@
+{
+ "url": "https://www.energy.gov/articles/united-states-cyprus-greece-israel-and-rice-university-establish-eastern-mediterranean",
+ "institution_id": "us-energy",
+ "title": "United States, Cyprus, Greece, Israel and Rice University To Establish Eastern Mediterranean Energy Center in Houston",
+ "date": "2026-06-11",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "ef4a572938a2d4ee2ca505df6d18eb892217aef57ca91c6010bfdf421b4f5d15",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

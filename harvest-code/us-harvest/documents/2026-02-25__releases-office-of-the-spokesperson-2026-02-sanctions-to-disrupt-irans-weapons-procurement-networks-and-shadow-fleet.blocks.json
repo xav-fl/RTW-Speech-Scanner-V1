@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/sanctions-to-disrupt-irans-weapons-procurement-networks-and-shadow-fleet/",
+ "institution_id": "us-state",
+ "title": "Sanctions to Disrupt Iran’s Weapons Procurement Networks and Shadow Fleet",
+ "date": "2026-02-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "339bc1432f27ad130ff0c27ecc47200c2e6d8d9b2209b608ec9f54eb9953ba1f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

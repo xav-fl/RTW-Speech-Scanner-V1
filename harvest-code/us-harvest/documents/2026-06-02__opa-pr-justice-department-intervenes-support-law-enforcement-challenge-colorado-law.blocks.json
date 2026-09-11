@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-intervenes-support-law-enforcement-challenge-colorado-law",
+ "institution_id": "us-justice",
+ "title": "Justice Department Intervenes in Support of Law Enforcement Challenge to Colorado Law",
+ "date": "2026-06-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "72cbd12f3bc2e091d6d7dca86414c7a93befc7058a5b73e1f9144a26a096daa3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

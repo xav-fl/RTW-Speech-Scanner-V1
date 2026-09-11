@@ -1,0 +1,4 @@
+institution,documents_screened,documents_with_observations,total_observations,observations_per_screened_document,distinct_speakers,earliest_observation_date,latest_observation_date
+Department for Education,168,10,35,0.21,1,2026-01-23,2026-07-15
+"Ministry of Housing, Communities and Local Government",225,19,102,0.45,1,2026-03-26,2026-07-15
+Total,393,29,137,0.35,2,2026-01-23,2026-07-15

@@ -1,0 +1,43 @@
+New STOMP program will uncover how microplastics build up in the body—and drive new ways to protect people from their potential health impact
+
+The Advanced Research Projects Agency for Health (ARPA-H), an agency within the U.S. Department of Health and Human Services (HHS), today announced STOMP: Systematic Targeting Of MicroPlastics, a nationwide $144 million program to create the definitive toolbox for measuring, researching, and affordably removing microplastics and nanoplastics (MNPs) in the human body.
+
+> Today, HHS is taking decisive action to confront microplastics as a growing threat to human health,
+
+said HHS Secretary Robert F. Kennedy, Jr.
+
+> Americans deserve clear answers about how microplastics in their bodies affect their health. Through ARPA-H’s STOMP program, we will measure microplastic exposure, identify sources of risk, and develop targeted solutions to reduce it.
+
+Plastic from our food, air, and water is accumulating in the human body. Researchers have detected microplastics in lungs, arterial plaques, and brain. Animal studies show this causes disease 1, 2; in human studies the data shows a high correlation 3.
+
+Yet to date, we are still remarkably in the dark. We don’t have a precise way to measure microplastics in our organs, nor do we understand which ones are affecting us in what ways—because each plastic works differently. This is important: We can’t clear what we can’t measure, and we can’t develop interventions that are precise, safe, and effective for impacts we don’t understand.
+
+> Microplastics are in every organ we look at—in ourselves and in our children. But we don’t know which ones are harmful or how to remove them,
+
+said Alicia Jackson, Ph.D., ARPA-H Director.
+
+> Nobody wants unknown particles accumulating in their body. The field is working in the dark. STOMP is turning on the lights.
+
+The STOMP program, led by Program Managers Drs. Ileana Hancu and Shannon Greene, is designing its tools to be fast, affordable, and broadly available because the goal is not a breakthrough that reaches the few, but a foundation that protects everyone and helps to lower the potential downstream costs that microplastic-related disease could otherwise impose on our healthcare system.
+
+STOMP will focus on three technical areas across two phases: measurement and mechanism (phase one) and removal (phase two).
+
+> A key first step is to measure microplastics accurately and understand how they reach different organ systems,
+
+said ARPA-H Program Manager Ileana Hancu, Ph.D.
+
+> So we must establish a solid, shared foundation for precise measurement and mapping.
+
+During the first phase, STOMP performers will design experiments to understand microplastics within the human body. They will also develop gold-standard microplastics measurement methods, including a clinical test that will quantify individual microplastic burden, thus making monitoring and intervention possible at scale. While microplastics accumulation in the human body is a generally shared concern, the extent of accumulation is not agreed upon. This happens mainly because measurement techniques are not good enough, producing inconsistent results across labs. The CDC will serve as an independent validator of these methods, ensuring the field can trust what it's measuring.
+
+Critically, this work will then produce a risk stratification mechanism for plastic materials—ranking them by biological harm—so that scientists, policymakers, and industry share a common answer to the most important question in the field: which microplastics need to be addressed first, most urgently, and in what ways.
+
+ARPA-H Program Manager Shannon Greene, Ph.D. noted,
+
+> It's physically impossible for us to completely divorce our lives from plastics. They are in everything we touch—our clothes, the materials from which we get our food and water. We need to understand how microplastics are distributed throughout the body and what harm they are causing before we can take the next leap forward to ultimately remove them and improve human health.
+
+Removal is the focus in phase two and where the earlier work proves indispensable. Different microplastics accumulate in different organs, cross different cellular barriers, and disrupt different biological pathways. Only by knowing which types cause the most harm, where they concentrate, and how they move through the body can we design interventions that are precise, safe, and effective. The approaches will draw on pharmaceutical biology and bioremediation science, run in reverse.
+
+These technologies will enable individuals and healthcare providers to detect and reduce potentially harmful microplastics, particularly for vulnerable groups such as pregnant women, children, patients with chronic disease, and highly exposed workers. With reliable, broadly available testing methods, public health authorities, regulators, and health stakeholders could guide policy, monitor interventions, and address health impacts for decades to come.
+
+ARPA-H expects that teams will be needed to address the full goals of STOMP. Prospective proposers are encouraged to form multidisciplinary teams with a range of technical expertise. Learn more about STOMP on its program page, including details about the solicitation and Proposers’ Day registration.

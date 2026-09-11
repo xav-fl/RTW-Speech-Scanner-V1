@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes public investment in mainstream schools specifically to accommodate children with Special Educational Needs and Disabilities (SEND): adapting physical infrastructure (classrooms, corridors) and training staff (teachers, teaching assistants). The core economic content is education spending and provision for a specific needs population.\n\n- **Primary mechanism**: Public expenditure on school infrastructure and teacher training for SEND pupils → **I2** (Education and Research Institutions)\n- **Secondary**: The physical adaptation of school buildings is a capital investment in publicly provided facilities → **H5** (National Government Expenditures and Related Policies) is substantively relevant as the instrument is a large-scale public spending commitment.\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

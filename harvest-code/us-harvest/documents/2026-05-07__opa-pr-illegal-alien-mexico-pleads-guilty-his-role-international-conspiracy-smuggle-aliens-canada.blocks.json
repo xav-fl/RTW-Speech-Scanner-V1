@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/illegal-alien-mexico-pleads-guilty-his-role-international-conspiracy-smuggle-aliens-canada",
+ "institution_id": "us-justice",
+ "title": "Illegal Alien from Mexico Pleads Guilty for his Role in an International Conspiracy to Smuggle Aliens from Canada into the U.S.",
+ "date": "2026-05-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "d8c4524a5f7b41a94bd28c47cfa084ec778798168c2689413ca2be7277d9bbcd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

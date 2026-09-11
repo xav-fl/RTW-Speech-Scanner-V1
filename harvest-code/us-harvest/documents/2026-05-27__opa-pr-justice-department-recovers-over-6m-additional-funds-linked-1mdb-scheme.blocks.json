@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-recovers-over-6m-additional-funds-linked-1mdb-scheme",
+ "institution_id": "us-justice",
+ "title": "Justice Department Recovers Over $6M in Additional Funds Linked to 1MDB Scheme",
+ "date": "2026-05-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "983dc2a14780b1c21b9da33de9f93ec2be140a946beb45fc69b3d070dff59e09",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

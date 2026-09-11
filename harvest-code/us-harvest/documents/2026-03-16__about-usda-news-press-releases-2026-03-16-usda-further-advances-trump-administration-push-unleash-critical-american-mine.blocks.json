@@ -1,0 +1,89 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/03/16/usda-further-advances-trump-administration-push-unleash-critical-american-mineral-and-energy",
+ "institution_id": "us-agriculture",
+ "title": "USDA Further Advances Trump Administration Push to Unleash Critical American Mineral and Energy Dominance",
+ "date": "2026-03-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "6651b8f28ba83a923eca579f045903d150e7f0c99667e234f06b81ad60fcab86",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "url": "https://www.dhs.gov/news/2026/05/29/us-coast-guard-eliminates-race-based-preferences-commissioning-officers",
+ "institution_id": "us-dhs",
+ "title": "U.S. Coast Guard Eliminates Race-Based Preferences for Commissioning of Officers",
+ "date": "2026-05-29",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "2bb8b24fdbd1f0b91c7bc738b27f9f08fa41808e9d4f4ac53fbb07339817d14a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "DHS General Counsel James Percival",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "DHS General Counsel James Percival",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

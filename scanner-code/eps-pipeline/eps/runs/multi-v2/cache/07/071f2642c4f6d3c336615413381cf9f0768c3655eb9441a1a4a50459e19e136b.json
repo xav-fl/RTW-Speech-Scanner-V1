@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da4c701e0b6.P001.S001\"], \"anchor\": \"requesting that the CMA conduct an independent review of the English early years childcare market\", \"reason\": \"Government requests market review of childcare sector\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

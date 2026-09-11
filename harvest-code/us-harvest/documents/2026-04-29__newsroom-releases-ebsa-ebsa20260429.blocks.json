@@ -1,0 +1,95 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260429",
+ "institution_id": "us-labor",
+ "title": "Court orders health plan administrator, owner to pay more than $1.3M to restore losses to health plans in multiple employer welfare arrangement",
+ "date": "2026-04-29",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "c629fcedd047335ca7e1adb70d1c737a10b541919519637873c15411c943f4d3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Employee Benefits Security Administration Acting Regional Director Kelli Hammerl",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Employee Benefits Security Administration Acting Regional Director Kelli Hammerl",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Employee Benefits Security Daniel Aronowitz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+TITLE: AI to speed up cancer diagnosis for millions of NHS patients
+URL: https://www.gov.uk/government/news/ai-to-speed-up-cancer-diagnosis-for-millions-of-nhs-patients
+DATE: 2026-06-10
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon James Murray MP; The Rt Hon Ian Murray MP
+
+---
+
+Over 4 million patients have received a faster lung cancer diagnosis or all-clear thanks to artificial intelligence (AI) tools.
+
+£20 million government investment to roll out this proven technology to every NHS trust in England by 2029.
+
+A further £8.1 million to pilot 6 cutting-edge AI and digital technologies across 13 NHS sites, targeting faster care for heart failure, strokes, lung cancer and more.
+
+Millions of patients will receive faster diagnoses thanks to almost £30 million of government funding in AI across the NHS.
+
+This funding will expand proven AI technology to every NHS trust in England while piloting the next generation of digital innovation, marking the latest step in the government’s drive to modernise the NHS and reduce waiting times.
+
+AI-powered X-ray tools that act as a virtual ‘second pair of eyes’ for radiologists will be rolled out to all NHS trusts in England by 2029, backed by £20 million of government funding - meaning faster diagnoses and quicker treatment for patients.
+
+This technology, currently available in half of England’s NHS trusts, is already transforming care for patients, helping more than 4 million receive a faster diagnosis or all-clear for lung cancer by improving patient care routes.
+
+Early data shows the technology helps radiologists analyse scans in an average of just 4 days, compared to 8 days for the most complex cases previously. By helping clinicians manage growing demand for imaging services more efficiently and easing pressure on radiology teams, the technology is enabling patients to receive follow-up diagnostic tests sooner, helping speed up diagnosis and access to treatment.
+
+Health and Social Care Secretary James Murray said:
+
+For too many patients, a cancer diagnosis tragically comes too late. These AI tools are already changing that - giving radiologists a sharper eye, cutting waiting times and getting people the lifesaving treatment they need faster.
+
+Rolling this out to every NHS trust in the country means millions more patients will benefit, and that is exactly the kind of change this government is determined to deliver - regardless of where you live.
+
+This is what shifting the NHS from analogue to digital looks like in practice. Backed by new investment to test the next generation of technology, we are building an NHS that is fit for the future - and faster for every patient who needs it.
+
+Chest X-rays are one of the most important tools in diagnosing England’s biggest cancer killer, lung cancer, with over 7 million performed across the NHS each year. By cutting the time it takes to analyse them, the tools are expected to help more patients begin treatment within 62 days of a GP referral. This is in line with cancer waiting time standards and a key commitment set out in the National Cancer Plan.
+
+This funding forms part of the AI Diagnostic Fund, a key component of the Prime Minister’s AI Exemplars programme - which is harnessing AI to improve public services, modernise the systems, and support clinicians to diagnose patients more quickly and reduce the diagnostic backlog.
+
+Minister for Digital Government Ian Murray said:
+
+AI is not a future promise - it is already saving lives in our NHS today. For someone waiting to find out whether a shadow on their lung could be cancer, getting that answer in 4 days instead of 8 means 4 fewer days of uncertainty - and a much quicker path to treatment or reassurance.
+
+Now we’re taking what works and making it available everywhere. This is how we modernise the NHS - cutting delays, giving clinicians better tools and delivering faster care for patients wherever they live.
+
+With clinicians firmly in control, we’re safely scaling proven technology - showing how AI can transform public services and deliver better outcomes for people across the country.
+
+Peter Allinson, a 59-year-old regular hill walker from Manchester, was referred urgently to Manchester University NHS Foundation Trust (MFT) by his GP, after experiencing severe breathlessness while on a routine hike. Peter was assessed at MFT using the AI chest X-ray tool, which helped clinicians reach a rapid diagnosis. He was diagnosed with sarcoidosis and started on treatment within 2 weeks, helping to prevent further progression of his condition.
+
+Peter said:
+
+When I collapsed on that hillside, I genuinely thought my life was over. To go from that terrifying moment to having a diagnosis and being on treatment within 2 weeks was just remarkable. I’m so grateful for how quickly everything moved and for the care I received. The speed of the diagnosis made a real difference - I feel like I’ve been given my life back.
+
+Additionally, 6 innovative AI and digital technologies will also be developed and tested at 12 NHS trusts and one GP partnership across England and Scotland. This will be backed by £8.1 million of government funding through the National Institute for Health and Care Research (NIHR).
+
+The technologies will support NHS staff to:
+
+analyse CT scans, ECGs and X-rays
+
+offer digital therapy
+
+identify the most urgent cases for prioritisation
+
+If successful, they could deliver faster, better care for patients with heart failure, stroke, lung cancer, lung infections and tic disorders and ultimately save lives.
+
+These research studies will further bolster the evidence base for how equipping NHS staff with the latest technology can improve patient outcomes and boost productivity across the entire health service.
+
+Technologies that prove effective will be rolled out more widely across the NHS, following the same path as the AI X-ray tools that have already helped over 4 million patients.
+
+Professor Lucy Chappell, Chief Scientific Adviser to the Department of Health and Social Care and CEO of NIHR, said:
+
+By backing these 6 digital research projects, the NIHR is helping to drive the fundamental shift from an analogue to a digital health service and deliver the government’s 10 Year Health Plan.
+
+This important investment in AI and innovation will cut NHS waiting times, fast-tracking diagnoses and ensuring patients receive more accessible, efficient and high-quality care.
+
+Alongside this, NIHR also announced this week the launch of its Innovation Catalyst, which will fund and support the most promising disruptive research to evaluate innovations across medical technology (medtech), digital health, biotech and pharmaceuticals. The catalyst aims to support innovations progressing through regulatory approval and being considered for adoption across the NHS and wider health system.
+
+These initiatives underline the government’s ambition to make the NHS a world leader in the adoption of AI and digital health technology, driving improvements in care while freeing up staff to focus on the patients who need them most.
+
+Stella Vig, NHS National Clinical Director for Elective Care, said:
+
+This is a great example of the NHS harnessing the benefits of AI to support clinicians so that patients receive a diagnosis or the all-clear more quickly, improving care and speeding up treatment.
+
+Rolling this out at all NHS trusts will mean even more can benefit from this pioneering technology which makes a real difference to people’s lives.
+
+Paula Chadwick, Chief Executive, Roy Castle Lung Cancer Foundation, said: 
+
+We welcome this announcement of increased investment in AI diagnostic tools across the NHS. In lung cancer, we are already seeing the benefit to patients of this technology, in ensuring faster X-ray reporting and diagnosis. Reducing the time to receive X-ray results cuts down anxiety and uncertainty. Accessing the appropriate treatment as quickly as possible is vitally important in ensuring people affected by lung cancer have the best possible outcome of care.
+
+Gemma Peters, Chief Executive of Macmillan Cancer Support, said:
+
+To meet our cancer ambitions, we need everyone to be able to benefit from the best innovations, no matter who they are or where they live. Today’s announcement is an important step forward, harnessing innovative technologies to reduce the anxiety of waiting at what can be one of the most worrying times in a person’s life.
+
+Macmillan is committed to making cancer care fairer. That includes investing in and spreading proven innovations across diagnostics, treatment and care, to revolutionise outcomes and improve the experience of people living with cancer.
+
+Michelle Mitchell, Chief Executive of Cancer Research UK, said:
+
+We welcome this investment in cutting-edge technology at a national level. It’s so important to be able to move beyond individual pilots and implement these innovations more broadly to ensure as many people as possible can benefit.
+
+AI tools for chest X-rays have the potential to improve the time it takes to analyse scans, and we look forward to seeing how they can be further rolled out across the NHS in England. AI can play an important role in speeding up cancer diagnoses. However, this can only be achieved with sufficient workforce, capacity and well-designed pathways.
+
+Dr Stephen Harden, President of the Royal College of Radiologists, said:
+
+AI has significant potential to support radiologists in identifying serious conditions more quickly and helping patients receive a diagnosis sooner. Investment in technologies that have been shown to improve patient care is welcome, particularly at a time of growing demand for diagnostics across the NHS.
+
+As these tools are rolled out more widely, evidence-based, clinician-led implementation will be key to their success. AI should support doctors by helping them work more effectively, rather than replacing the expert judgement that patients value and expect. Radiologists will remain central to diagnosis, clinical decision-making and patient care.
+
+Used safely and appropriately, AI can be an important part of improving productivity and helping patients access timely care.
+
+Andrew Davies, Executive Director, Digital Health, Association of British HealthTech Industries (ABHI), said: 
+
+HealthTech has a vital role to play in supporting the NHS workforce, improving productivity, and helping patients access diagnosis and treatment more quickly. The potential of AI is particularly significant. When deployed appropriately, AI can support clinicians by analysing information more efficiently, helping to identify patients who require urgent attention and reducing delays across care pathways.
+
+Today’s announcement is an important example of how proven technologies should be scaled to benefit more patients and support NHS priorities. By helping clinicians make faster decisions and enabling earlier diagnosis, AI has the potential to improve outcomes while supporting a more productive and sustainable health service.
+
+Matthew Hopkins, Interim Acute and Ambulance Director, NHS Alliance, said: 
+
+NHS leaders will welcome greater investment in AI diagnostics tools as a vital enabler toward earlier detection, shorter waits and faster treatment. When used well, AI tools can support more proactive, personalised care and ease pressure on overstretched staff.
+
+However, long‑term success depends on sustained policy implementation and capital funding, so every NHS organisation has the infrastructure, connectivity and training needed to deploy these tools safely and effectively.

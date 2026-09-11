@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/vets/vets20260130",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor honors more than 880 employers committed to veterans’ employment with 2025 HIRE Vets Medallion Awards",
+ "date": "2026-01-30",
+ "date_source": "listing",
+ "source_document_type": "VETS",
+ "text_sha256": "6cfa0503563270e262a189b8212c36570ff86f912c9fa8ac5ee949307c5a5971",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Secretary Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

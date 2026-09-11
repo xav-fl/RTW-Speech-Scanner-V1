@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/a-call-to-action-addressing-the-murillo-ortega-dictatorships-vow-to-abolish-elections/",
+ "institution_id": "us-state",
+ "title": "A Call to Action: Addressing the Murillo-Ortega Dictatorship’s Vow to Abolish Elections",
+ "date": "2026-07-21",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "9bef057593570887e56e60e6e3d899d8b12c69e42ee663020787b10291e34ac5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+TITLE: 20,000 fewer A&E visits a year thanks to single patient record
+URL: https://www.gov.uk/government/news/20000-fewer-ae-visits-a-year-thanks-to-single-patient-record
+DATE: 2026-05-31
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon James Murray MP
+
+---
+
+Single patient record will mean people do not have to repeat their medical history to different NHS staff unnecessarily
+
+NHS modernisation bill will introduce reforms to support patients and ease burden on hospitals
+
+Expected to save NHS more than £20 million a year by reducing medication errors, adverse drug reactions and duplicate prescribing
+
+Up to 20,000 fewer patients will have to go to A&E and 6,000 fewer will be admitted to hospital each year thanks to reforms made possible by new legislation marking the next step in the government’s plan to make the NHS in England fit for the future.
+
+The NHS modernisation bill (formally known as the Health Bill), which will be debated in Parliament today (1 June 2026), will introduce the single patient record, allowing fragmented health information to be joined up around the country for the first time ever.
+
+The single patient record will mean all NHS providers - including hospitals and GPs - have to share data so the right doctors, nurses and specialists across England can securely see a patient’s medical history, no matter where they are treated.
+
+For patients, this means they will not have to keep repeating their story unnecessarily. It will result in safer, more co-ordinated care, with clinicians having the full picture when and where it’s needed.
+
+The record will support better care closer to home - joining up community services and helping people manage their conditions. It will reduce A&E attendances by allowing better community care for frailty patients and reducing misdiagnoses.
+
+It will give clinicians across the country a complete view of patients’ medicines, allergies and prescribing history, allowing them to deliver safer treatment and saving the taxpayer more than £20 million per year in unnecessary medicines expenditure. It will also save doctors around 500,000 hours a year by having patient data available on the spot and reducing the amount of time spent searching for information and inputting data, which they will be able to spend on treating patients instead of admin.
+
+Patients will also have more control over their care, with clear safeguards, audit trails and choice over how their data is used.
+
+James Murray, Secretary of State for Health and Social Care, said: 
+
+When I was in my 20s I was diagnosed with a rare neurological condition. I am now symptom-free and I get fantastic support from the NHS. But I know how much effort it can be to keep different parts of the health service joined up and how distressing it is for some patients to repeat their medical history over and over.
+
+That’s why our single patient record is so important. It sits at the heart of our NHS modernisation bill and will end this once and for all - making care safer while saving clinicians’ time.
+
+My priority as Health Secretary is to modernise the NHS and make it work better for patients. This is our 10 Year Health Plan in action - making the NHS fit for the future by building it around patients’ lives, not the other way round.
+
+Dr Alec Price-Forbes, National Chief Clinical Information Officer at NHS England, said:
+
+For too long, patient information has been held in silos, leading to patients having to repeat their stories, and creating workarounds, potential duplication or gaps in understanding for clinicians.
+
+The single patient record will give us an invaluable single point of truth for both the clinician and the patient and means higher quality, safer, more joined-up and more personalised care for patients.
+
+Clinicians will get improved access to records as early as 2027 for specialties including maternity and frailty care.
+
+At present, pregnant women are required to go through their entire medical history in a first appointment with a midwife, relying on memory. There can subsequently be gaps in information as women move through their pregnancy, and can be distressing for those who have suffered baby loss. The single patient record will stop this issue at source.
+
+Dr Michael Cocker, consultant obstetrician at East Lancashire Hospitals NHS Trust, said it will “set a new benchmark” for maternity care. Dr Maurice Cohen, consultant geriatrician at North Middlesex Hospital and clinical director at the London Frailty Network, said the single patient record would mean the NHS is “wrapping ourselves around the patient rather than the patient wrapping themselves around us”.
+
+The bill will also cut layers of bureaucracy so more time and money can be spent on frontline services by formally transferring NHS England’s functions into the Department of Health and Social Care (DHSC) and the wider system.
+
+Local leaders have complained of ‘2 centres’, creating confusion and inertia, and - most importantly - diluting democratic accountability for the NHS.
+
+Abolishing NHS England will reduce duplication and free up resources to be re-invested in the frontline, with less time spent on administration and more time focused on delivering care while putting patients’ voices at the heart of decision making.
+
+NHS Online
+
+The NHS modernisation bill second reading comes on the day the chair of NHS’s groundbreaking new online hospital trust has been named. NHS Online, which will provide virtual specialist care for patients through the NHS App and video consultations, has now been formally established as the Online NHS Trust with John Browett as the chairman. 
+
+Launching in 2027, NHS Online will be a new, optional online service allowing patients to digitally connect with clinicians across England. Doctors will be able to log in and help cut backlogs much more quickly and efficiently. It will deliver the equivalent of up to 8.5 million appointments and assessments in its first 3 years - 4 times more than an average trust - cutting waiting times for patients and improving lives by speeding up access to expert care. 
+
+This is further evidence of the government’s efforts to digitise the health service and bring it into the 21st century.
+
+These developments follow the government hitting its interim target to cut the huge backlogs it inherited. The overall waiting list is at its lowest level in 3 and a half years, and in March this year the waiting list fell by 110,000 - the largest improvement in performance for a single month in 17 years. 
+
+More care is now available on people’s high streets, with over 100 community diagnostic centres now open at evenings and weekends. The government has recruited an extra 2,000 GPs and almost 8,700 additional mental health workers. GP satisfaction rates are up from 60% in July 2024 to 75% in March 2026, and online booking requests are now available for GP appointments to help end the 8am scramble. Ambulance response times for conditions like strokes and heart attacks are 3 minutes faster than last year, and NHS productivity is up 2.8%.
+
+Dr Deb Gompertz, Honorary Secretary and Vice President for Policy at the British Geriatrics Society, said:
+
+Older people are among the highest users of NHS services, often receiving care from multiple teams across hospitals, community services and primary care. Better sharing of information has the potential to improve continuity of care and reduce the burden on patients and carers having to repeat their history.
+
+It supports safer, more joined-up, person-centred care for older people who often live with multiple long-term conditions, including frailty and dementia. 
+
+The British Geriatrics Society welcomes steps to improve access to timely clinical information across the NHS, particularly where this helps clinicians make informed decisions and supports older people to remain independent for longer.

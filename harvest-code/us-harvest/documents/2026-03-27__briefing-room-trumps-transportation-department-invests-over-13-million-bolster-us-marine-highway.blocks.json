@@ -1,0 +1,101 @@
+{
+ "url": "https://www.transportation.gov/briefing-room/trumps-transportation-department-invests-over-13-million-bolster-us-marine-highway",
+ "institution_id": "us-transportation",
+ "title": "Trump’s Transportation Department Invests Over $13 Million to Bolster U.S. Marine Highway Infrastructure Across America",
+ "date": "2026-03-27",
+ "date_source": "listing",
+ "source_document_type": "Press Release",
+ "text_sha256": "0111483db0ffb4cb9833d583ac579251625921aadf5db04eefb3474302e9f8d0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Transportation Secretary Sean P. Duff",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "U.S. Transportation Secretary Sean P. Duff",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "MARAD Administrator Steve Carmel",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "MARAD Administrator Steve Carmel",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

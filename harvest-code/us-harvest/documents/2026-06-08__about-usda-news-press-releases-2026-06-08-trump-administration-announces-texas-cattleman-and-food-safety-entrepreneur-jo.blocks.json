@@ -1,0 +1,65 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/06/08/trump-administration-announces-texas-cattleman-and-food-safety-entrepreneur-john-bellinger-senior",
+ "institution_id": "us-agriculture",
+ "title": "Trump Administration Announces Texas Cattleman and Food Safety Entrepreneur, John Bellinger, as Senior Advisor New World Screwworm Preparedness",
+ "date": "2026-06-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "7ad349d9b7736d988218d66ef5e6c5771a3006097cc3c1513948b3886f4d14fc",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Secretary Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Senior Advisor Bellinger",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Senior Advisor Bellinger",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

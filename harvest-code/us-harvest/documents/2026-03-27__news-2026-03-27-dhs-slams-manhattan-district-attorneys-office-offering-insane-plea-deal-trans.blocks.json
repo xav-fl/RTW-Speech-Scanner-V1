@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/03/27/dhs-slams-manhattan-district-attorneys-office-offering-insane-plea-deal-trans",
+ "institution_id": "us-dhs",
+ "title": "DHS Slams Manhattan District Attorney’s Office for Offering Insane Plea Deal to Trans-Identifying Illegal Alien Child Rapist",
+ "date": "2026-03-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "b3b6e37dd16408dc11d05c37be5512ac0c4b90b555c2741c55d0160ff28e3ca7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+HUD and Census Bureau Report New Residential Sales in March 2026
+
+March 30, 2026
+
+WASHINGTON (May 5, 2026) - The U.S. Census Bureau and the U.S. Department of Housing and Urban Development jointly announced the following new residential sales statistics for March 2026:
+
+New Home Sales Sales of new single-family houses in March 2026 were at a seasonally-adjusted annual rate of 682,000, according to estimates released jointly today by the U.S. Census Bureau and the Department of Housing and Urban Development. This is 7.4 percent (±15.5 percent)* above the February 2026 rate of 635,000 and, is 3.3 percent (±16.2 percent)* above the March 2025 rate of 660,000.
+
+Sales of new single-family houses in February 2026 were at a seasonally-adjusted annual rate of 635,000. This is 8.9 percent (±21.1 percent)* above the January 2026 rate of 583,000.
+
+For Sale Inventory and Months' Supply The seasonally-adjusted estimate of new houses for sale at the end of March 2026 was 481,000. This is 0.4 percent (±1.5 percent)* below the February 2026 estimate of 483,000, and is 4.6 percent (±4.6 percent)* below the March 2025 estimate of 504,000.
+
+This represents a supply of 8.5 months at the current sales rate. The months' supply is 6.6 percent (±11.7 percent)* below the February 2026 estimate of 9.1 months, and is 7.6 percent (±15.6 percent)* below the March 2025 estimate of 9.2 months.
+
+Sales Price The median sales price of new houses sold in March 2026 was $387,400. This is 5.3 percent (±4.4 percent)* below the February 2026 price of $409,000, and is 6.2 percent (±7.2 percent)* below the March 2025 price of $412,900. The average sales price of new houses sold in March 2026 was $503,100. This is 3.4 percent (±7.9 percent)* below the February 2026 price of $521,000, and is 1.2 percent (±8.2 percent)* below the March 2025 price of $509,200.
+
+The April report is scheduled for release on May 28,2026. View the full schedule in the Economic Briefing Room. The full text and tables for this release can be found here.
+
+EXPLANATORY NOTES These statistics are estimated from sample surveys. They are subject to sampling variability as well as nonsampling error including bias and variance from response, nonreporting, and undercoverage. Estimated average relative standard errors of the preliminary data are shown in the tables. Whenever a statement such as
+
+> 2.5 percent (±3.2%) above
+
+appears in the text, this indicates the range (-0.7 to +5.7 percent) in which the actual percent change is likely to have occurred. All ranges given for percent changes are 90-percent confidence intervals and account only for sampling variability. If a range does not contain zero, the change is statistically significant. If it does contain zero, the change is not statistically significant; that is, it is uncertain whether there was an increase or decrease. The same policies apply to the confidence intervals for percent changes shown in the tables. Changes in seasonally adjusted statistics often show irregular movement. It takes 3 months to establish a trend for new houses sold. Preliminary new home sales figures are subject to revision due to the survey methodology and definitions used. The survey is primarily based on a sample of houses selected from building permits. Since a “sale” is defined as a deposit taken or sales agreement signed, this can occur prior to a permit being issued. An estimate of these prior sales is included in the sales figure. On average, the preliminary seasonally adjusted estimate of total sales is revised about 5.0 percent. Changes in sales price data reflect changes in the distribution of houses by region, size, etc., as well as changes in the prices of houses with identical characteristics. Explanations of confidence intervals and sampling variability can be found on our website.
+
+The Census Bureau has reviewed SOC monthly and quarterly tables to ensure appropriate access, use, and disclosure avoidance protection of the confidential source data (Disclosure Review Board (DRB) approval number: CBDRBFY25-0286).
+
+API The Census Bureau’s application programming interface lets developers create custom apps to reach new users and makes key demographic, socio-economic and housing statistics more accessible than ever before.
+
+FRED Mobile App Receive the latest updates on the nation’s key economic indicators by downloading the FRED App for both Apple and Android devices. FRED, the signature database of the Federal Reserve Bank of St. Louis, now incorporates the Census Bureau’s 13 economic indicators.
+
+* The 90 percent confidence interval includes zero. In such cases, there is insufficient statistical evidence to conclude that the actual change is different from zero.
+
+Follow @SecretaryTurner on X, FB, and Instagram.
+
+Follow @HUDgov on X, FB, and Instagram.
+
+HUD.gov

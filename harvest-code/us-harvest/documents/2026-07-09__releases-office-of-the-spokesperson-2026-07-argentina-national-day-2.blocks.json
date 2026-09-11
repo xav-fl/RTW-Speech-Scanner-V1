@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/argentina-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Argentina National Day",
+ "date": "2026-07-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "1ea127d8289711cfc04fd05187f6a51abb7570e383bebe11a6740c0ad11f142c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/department-of-state-announces-sports-diplomacy-partnership-with-ufc/",
+ "institution_id": "us-state",
+ "title": "Department of State Announces Sports Diplomacy Partnership with UFC",
+ "date": "2026-06-11",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "a8380fa89ef684ba2873dbf8a6772498b947749d139ccccaebcfb69718e6d682",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

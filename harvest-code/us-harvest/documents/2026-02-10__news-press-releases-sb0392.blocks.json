@@ -1,0 +1,47 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0392/",
+ "institution_id": "us-treasury",
+ "title": "U.S.-UK Transatlantic Taskforce for Markets of the Future Hosts Industry Engagement Day in London",
+ "date": "2026-02-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "8c7dd615efa491a135d12f8b23a01f6f974aaaa7812a904042c7ab63e6dfe4e4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/congratulating-barbados-prime-minister-mia-mottley-on-her-reelection/",
+ "institution_id": "us-state",
+ "title": "Congratulating Barbados’ Prime Minister Mia Mottley on her Reelection",
+ "date": "2026-02-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "a63874c9b6e80e20c37e9af383acbc11106e28d20a04696ecfc2e7cc4e29739e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

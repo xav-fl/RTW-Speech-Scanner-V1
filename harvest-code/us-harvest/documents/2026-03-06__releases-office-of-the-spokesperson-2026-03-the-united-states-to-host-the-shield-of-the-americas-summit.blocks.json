@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/the-united-states-to-host-the-shield-of-the-americas-summit/",
+ "institution_id": "us-state",
+ "title": "The United States to Host the Shield of the Americas Summit",
+ "date": "2026-03-06",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "0fc306049b4903e9c9e2786f40be2168d909a9c572aaf544a1fb4d549fb941c0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

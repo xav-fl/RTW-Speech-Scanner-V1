@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/united-states-tajikistan-annual-bilateral-consultations/",
+ "institution_id": "us-state",
+ "title": "United States-Tajikistan Annual Bilateral Consultations",
+ "date": "2026-06-30",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "c301723bb1f585d64387185dac292c5666c545cfaf0f508b76d98402da76c4a7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

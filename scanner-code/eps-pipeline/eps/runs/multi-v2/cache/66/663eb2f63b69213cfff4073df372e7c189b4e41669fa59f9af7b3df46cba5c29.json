@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about redistributing decision-making authority from central government (Whitehall) to regional levels, invoking the principle of subsidiarity. The core mechanism is intergovernmental fiscal/administrative decentralization — moving power to subnational units.\n\nThe specific mechanism: devolution of authority from central to regional government bodies.\n\n- **H7** (State and Local Government • Intergovernmental Relations) is the most precise fit — this is exactly about the structure of intergovernmental relations and the allocation of decision-making power across levels of government.\n- **R5** (Regional Government Analysis) is a secondary fit, as the statement explicitly frames this in regional terms.\n\n{\"primary\": \"H\", \"secondary\": [\"R\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

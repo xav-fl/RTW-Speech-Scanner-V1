@@ -1,0 +1,53 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-expands-access-to-ai-powered-tool-1/",
+ "institution_id": "us-opm",
+ "title": "OPM Expands Access to AI-Powered USA Class Tool to Streamline Federal Hiring",
+ "date": "2026-05-04",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "5c873f8b229cc982cc5f613a10e5ba3d0e1579b5eba2f84a69eda7e5ce33fe46",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

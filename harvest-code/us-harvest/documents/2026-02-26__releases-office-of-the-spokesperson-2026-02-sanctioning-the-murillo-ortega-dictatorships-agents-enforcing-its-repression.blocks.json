@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/sanctioning-the-murillo-ortega-dictatorships-agents-enforcing-its-repression-of-the-nicaraguan-people/",
+ "institution_id": "us-state",
+ "title": "Sanctioning the Murillo-Ortega Dictatorship’s Agents Enforcing Its Repression of the Nicaraguan People",
+ "date": "2026-02-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "31d9d1cbe79f98b7824ae84a39ebf7ad7383c56bf76a9d8a773ef2694d193137",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

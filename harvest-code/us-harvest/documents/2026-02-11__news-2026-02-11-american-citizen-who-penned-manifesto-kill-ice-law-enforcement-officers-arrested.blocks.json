@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/11/american-citizen-who-penned-manifesto-kill-ice-law-enforcement-officers-arrested",
+ "institution_id": "us-dhs",
+ "title": "American Citizen Who Penned Manifesto to Kill ICE Law Enforcement Officers Arrested in Oregon",
+ "date": "2026-02-11",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "ec684a632609c9a0759c54a60c5312d38257d13499d48b243246e1eb4449c733",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

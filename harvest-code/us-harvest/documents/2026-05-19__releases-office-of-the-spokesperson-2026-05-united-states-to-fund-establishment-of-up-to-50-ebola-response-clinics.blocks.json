@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-to-fund-establishment-of-up-to-50-ebola-response-clinics/",
+ "institution_id": "us-state",
+ "title": "United States to Fund Establishment of Up to 50 Ebola Response Clinics",
+ "date": "2026-05-19",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "980c9cdd88136f4e08a83fe9de86805f376ae7cf70458c69d0163575af46d8da",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

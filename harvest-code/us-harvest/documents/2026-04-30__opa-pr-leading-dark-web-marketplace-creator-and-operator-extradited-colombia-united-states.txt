@@ -1,0 +1,41 @@
+A German national living in Colombia was extradited to the United States on charges that he owned and operated “The Versus Project,” an online dark web marketplace that enabled its over 380,000 registered users to buy and sell illegal goods.
+
+The Versus Project, also known as Versus, was a leading dark web marketplace that enabled users to buy and sell illegal goods, including heroin and other illicit drugs, stolen and fraudulent identification documents and access devices, counterfeit currency, malware, and hacking tools. Versus operated from about November 2019 through about May 2022. During that time, Versus had over 380,000 registered users, offered over 32,000 product listings and facilitated over 300,000 completed orders, resulting in millions of dollars’ worth of transactions.
+
+According to court documents, Patrick Schmitz, 37, of Taganga, Colombia, was a cofounder of Versus and handled the day-to-day management, such as responding to user tickets for assistance with issues on the platform, reviewing vendor applications, and resolving disputes between vendors and customers. Over time, Schmitz recruited and supervised staff who worked on Versus and reported to him. Schmitz also promoted Versus on the dark web, recruited vendors, and developed strategies to monetize Versus. Schmitz received a portion of the profits generated and his virtual currency wallets transacted in cryptocurrency worth millions of dollars.
+
+> This extradition demonstrates the strength of the Justice Department’s international partnerships, and our ability to identify dark web criminals running platforms engaging in such widespread and varied illegal conduct,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> The Versus Project allowed thousands of criminals to endanger the American people with heroin, illegal drugs, and tools for fraud and hacking. Although Versus hid on the dark web, today’s announcement demonstrates that Versus was not beyond the reach of the Justice Department and its international partners. Illegal online criminal marketplaces, no matter where they are located, will be targeted and brought down.
+
+> The indictment makes clear that law enforcement will shine a bright light on criminal conduct on the dark web,
+
+said U.S. Attorney Robert Frazer for the District of New Jersey.
+
+> We will investigate and prosecute those who seek to use the anonymity of the dark web to profit from the sale of illegal goods. No matter how many monikers a user hides behind or where in the world they are, we will use all legal means to find them and bring them to justice.
+
+> HSI Newark’s unwavering efforts led to the identification, arrest, and extradition of a key international cybercriminal, significantly disrupting a major illicit online marketplace,
+
+said Special Agent in Charge Michael S. McCarthy of the Homeland Security Investigations (HSI) Newark Field Office.
+
+> This action underscores the dedication of HSI and our partners to combating cyber-enabled crime and ensuring individuals who exploit the internet for illegal activities are held accountable.
+
+Versus was modeled after an e-commerce website. Users could choose a username and password to create a free account to access Versus. Users could then search for products by keyword or scroll through listings by category. The categories of products on Versus included “drugs,” “fraud,” “digital items,” “services,” and “software & malware.”
+
+Versus required its users to transact in digital currencies, including Bitcoin and Monero, and did not allow for transactions in fiat currencies. Versus and its users were therefore able to bypass traditional financial systems, which collect information about their customers and maintain anti-money laundering and fraud programs. Versus generated revenue through multiple methods, including by keeping a percentage of each completed transaction as a commission and vendors were required to pay penalties if they were found to have violated Versus’ rules.
+
+In June 2024, Schmitz was arrested in Colombia pursuant to a U.S. provisional arrest request. On April 29, Schmitz was extradited to the United States and earlier today had an initial appearance, was arraigned, and was ordered detained pending trial.
+
+Schmitz is charged with one count of engaging in a continuing criminal enterprise, which carries a mandatory minimum penalty of 20 years in prison and a maximum penalty of life in prison; one count of narcotics conspiracy, which carries a mandatory minimum penalty of 10 years in prison and a maximum potential penalty of life in prison; one count of conspiracy to import controlled substances, which carries a maximum penalty of 20 years in prison; one count of distribution of controlled substances by means of the internet, which carries a maximum penalty of 20 years in prison; one count of use of a communications facility, which carries a maximum penalty of 4 years in prison; one count of conspiracy to commit access device fraud, which carries a maximum penalty of 10 years in prison; one count of conspiracy to unlawfully transfer an identification document, which carries a maximum penalty of 15 years in prison; and one count of money laundering conspiracy, which carries a maximum potential penalty of 20 years in prison.
+
+The investigation was led by HSI Newark, under the direction of Special Agent in Charge Michael S. McCarthy. Valuable support was provided by the FBI’s Kansas City Field Office, under the direction of Special Agent in Charge Jeff Berkebile, and the IRS- Criminal Investigation Newark Field Office, under the direction of Special Agent in Charge Jenifer L. Piovesan. The Justice Department’s Office of the Judicial Attache in Bogota, Colombia, and the Policía Nacional de Colombia provided valuable assistance concerning Schmitz’s provisional arrest and extradition. The Justice Department’s Office of International Affairs and the United States Marshals Service also provided valuable assistance in securing Schmitz’s arrest and extradition.
+
+Trial Attorneys Jorge Gonzalez and Stefanie Schwartz of the Computer Crime and Intellectual Property Section and Assistant U.S. Attorney Andrew Kogan of the Cybercrime Unit of the U.S. Attorney’s Office for the District of New Jersey are prosecuting this case.
+
+This investigation is part of Operation Take Back America, a nationwide initiative that marshals the full resources of the Department of Justice to repel the invasion of illegal immigration, achieve the total elimination of cartels and transnational criminal organizations (TCOs) and protect our communities from the perpetrators of violent crime. Operation Take Back America streamlines efforts and resources from the Department’s Organized Crime Drug Enforcement Task Forces (OCDETFs) and Project Safe Neighborhood (PSN).
+
+This is also the latest in the Justice Department’s ongoing JCODE efforts (Joint Criminal Opioid Darknet Enforcement) to address the growing number of illicit vendors operating on the darknet providing large quantities of harmful substances to thousands of people across the United States. The Justice Department established the FBI-led JCODE team to lead and coordinate government efforts to detect, disrupt and dismantle major criminal enterprises reliant on the darknet for trafficking opioids and other illicit narcotics, along with identifying and dismantling their supply chains.
+
+An indictment is merely an allegation. All defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law.

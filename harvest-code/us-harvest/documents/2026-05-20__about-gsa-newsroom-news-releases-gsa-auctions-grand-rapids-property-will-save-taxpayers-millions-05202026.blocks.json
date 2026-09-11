@@ -1,0 +1,77 @@
+{
+ "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-auctions-grand-rapids-property-will-save-taxpayers-millions-05202026",
+ "institution_id": "us-gsa",
+ "title": "GSA Auctions Grand Rapids Property, Will Save Taxpayers Millions",
+ "date": "2026-05-20",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "a24baa1d50e2e58e25cef961e93526a8d78bcba72a88a311b48511f4feef6d35",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward C. Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward C. Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

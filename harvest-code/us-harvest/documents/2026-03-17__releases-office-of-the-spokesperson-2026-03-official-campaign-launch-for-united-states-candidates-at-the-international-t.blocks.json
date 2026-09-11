@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/official-campaign-launch-for-united-states-candidates-at-the-international-telecommunication-union-itu/",
+ "institution_id": "us-state",
+ "title": "Official Campaign Launch for United States Candidates at the International Telecommunication Union (ITU)",
+ "date": "2026-03-17",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "6dcf4f3d26a94d36cfede09f7231d750a44e6c8c415bfd5093958a44b7c608f3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ilab/ilab20260610",
+ "institution_id": "us-labor",
+ "title": "Acting Secretary of Labor Sonderling advances US priorities at G7 meeting in Geneva",
+ "date": "2026-06-10",
+ "date_source": "listing",
+ "source_document_type": "ILAB",
+ "text_sha256": "e3c69649ea7790ac371bd5e858555e83196a408f787e131809e1e5bf4ccec6c6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Acting Secretary Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Secretary Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

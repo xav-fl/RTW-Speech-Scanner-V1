@@ -1,0 +1,89 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-region-10-selects-alaska-forum-kalispel-tribe-indians-receive-brownfields-job",
+ "institution_id": "us-epa",
+ "title": "EPA Region 10 Selects Alaska Forum, Kalispel Tribe of Indians to Receive Brownfields Job Training Grants in Alaska, Washington",
+ "date": "2026-02-11",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "0f1a90748010fe51e5dbc7eb8514c8c0edda865eb1499db07b8b17a397c626f4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Land",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Land",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

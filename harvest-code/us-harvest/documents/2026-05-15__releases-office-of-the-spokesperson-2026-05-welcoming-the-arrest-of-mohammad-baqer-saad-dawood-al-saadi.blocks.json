@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/welcoming-the-arrest-of-mohammad-baqer-saad-dawood-al-saadi/",
+ "institution_id": "us-state",
+ "title": "Welcoming the Arrest of Mohammad Baqer Saad Dawood Al-Saadi",
+ "date": "2026-05-15",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "37e1c629336b97829289fa58b59abe865b7a4f10253609f93984f7528a8df267",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

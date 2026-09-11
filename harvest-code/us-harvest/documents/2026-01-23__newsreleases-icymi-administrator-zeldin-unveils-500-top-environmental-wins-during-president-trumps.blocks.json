@@ -1,0 +1,35 @@
+{
+ "url": "https://www.epa.gov/newsreleases/icymi-administrator-zeldin-unveils-500-top-environmental-wins-during-president-trumps",
+ "institution_id": "us-epa",
+ "title": "ICYMI: Administrator Zeldin Unveils 500 Top Environmental Wins During President Trump’s First Year Back in the White House",
+ "date": "2026-01-23",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "0ace18665383ca27cc2772a402e6bd0b121327b6375ccbedf5946a9a61eb12c5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the quotation: \"So we're backing that idea with up to £20m in hard cash for each of those communities.\"\n\nThe specific mechanism here is a direct government cash grant (up to £20m) allocated to specific communities. This is place-based public expenditure directed at communities — a regional/local government spending instrument targeting specific geographic communities.\n\nThe key dimensions:\n- \"Communities\" suggests a place-based/regional targeting\n- \"£20m in hard cash\" is a direct government expenditure/grant\n- The instrument is public funding allocated to localities\n\nThis fits best under **R — Urban, Rural, Regional, Real Estate, and Transportation Economics**, specifically R5 (Regional Government Analysis) or R1 (General Regional Economics), as the substance is about directing funds to specific communities/places.\n\nA secondary classification could be **H5** (National Government Expenditures and Related Policies) since this is explicitly about government spending allocation, which is substantively important here.\n\n{\"primary\": \"R\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

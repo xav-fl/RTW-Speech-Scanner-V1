@@ -1,0 +1,13 @@
+WASHINGTON, DC — The US Office of Personnel Management (OPM) today announced the award of the Federal HRIT Modernization Core Human Capital Management (HCM) contract to Oracle, a major milestone in the administration. By consolidating federal HR systems into one single shared platform, the initiative is expected to reduce costs to taxpayers by more than 90 percent while improving efficiency, security, and service delivery across government.
+
+The federal government currently has more than 100 unique Core HCM software systems across numerous agencies. Many are outdated and duplicative. Fragmented systems lead to delays and errors in personnel processing, leading to unnecessary costs and hurting the government’s operational efficiency. The governmentwide approach leverages the federal government’s scale and purchasing power to reduce duplicative spending while delivering modern capabilities to agencies across government.
+
+The Core HCM platform will serve as the foundation of the Federal HR 2.0 initiative, providing modern, secure, cloud-based human resources capabilities for agencies across government and supporting approximately two million US Executive Branch civilian employees. The new platform will help streamline HR operations, improve data quality, strengthen workforce planning, and deliver a more consistent experience for federal employees and HR professionals.
+
+> Historically, federal agencies have relied on fragmented, aging HR systems that are costly to maintain and difficult to scale,
+
+OPM Director Scott Kupor said.
+
+> This award represents a foundational investment in the future of federal workforce management and supports the Trump Administration’s broader efforts to modernize government operations, improve service delivery, and increase efficiency across the federal enterprise.
+
+The selected solution is a FedRAMP-certified, cloud-based Software-as-a-Service (SaaS) platform that will be implemented through a phased approach to minimize disruption and ensure continuity of operations across government. OPM will work closely with agencies and stakeholders throughout implementation to drive adoption, manage change effectively, and continuously improve the platform over time.

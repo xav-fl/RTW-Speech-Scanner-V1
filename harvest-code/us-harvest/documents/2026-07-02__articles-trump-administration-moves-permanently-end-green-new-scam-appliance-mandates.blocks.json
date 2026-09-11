@@ -1,0 +1,77 @@
+{
+ "url": "https://www.energy.gov/articles/trump-administration-moves-permanently-end-green-new-scam-appliance-mandates",
+ "institution_id": "us-energy",
+ "title": "Trump Administration Moves to Permanently End Green New Scam Appliance Mandates",
+ "date": "2026-07-02",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "2210fc2da497f5e08cf6f334a6f7ac13deca46362f911ae469fae77470c8dc6b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "structural"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Secretary of Energy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Assistant Secretary of Energy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

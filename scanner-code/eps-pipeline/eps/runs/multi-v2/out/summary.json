@@ -1,0 +1,2443 @@
+{
+  "documents_screened": 731,
+  "documents_with_observations": 29,
+  "observations_kept": 137,
+  "observations_rejected": 14,
+  "speaker_warnings": [
+    {
+      "doc_id": "Dd282462fec",
+      "url": "https://www.gov.uk/government/news/childrens-health-further-protected-with-energy-drinks-ban",
+      "warning": "manifest says 'Sharon Hodgson MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D1a75b8ff1f",
+      "url": "https://www.gov.uk/government/news/hundreds-more-schools-to-save-on-bills-as-government-solar-drive-slashes-millions-off-energy-costs",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D2685ee2767",
+      "url": "https://www.gov.uk/government/news/millions-of-unpaid-carers-to-get-recognition-and-earlier-support",
+      "warning": "manifest says 'The Rt Hon Stephen Kinnock MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-14 — check the dates"
+    },
+    {
+      "doc_id": "D59689f01d7",
+      "url": "https://www.gov.uk/government/publications/he-access-and-participation-task-and-finish-group-and-minister-for-skills-correspondence",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'Bridget Phillipson' for 2026-07-09 — check the dates"
+    },
+    {
+      "doc_id": "Dd6695e7f6f",
+      "url": "https://www.gov.uk/government/speeches/education-secretarys-speech-at-ruskin-college",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-08 — check the dates"
+    },
+    {
+      "doc_id": "Db51983dad0",
+      "url": "https://www.gov.uk/government/news/government-action-so-children-do-not-pay-for-a-parents-crime",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-08 — check the dates"
+    },
+    {
+      "doc_id": "D7ec5f9b3cf",
+      "url": "https://www.gov.uk/government/news/crackdown-on-profiteers-through-childrens-social-care-shake-up",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-08 — check the dates"
+    },
+    {
+      "doc_id": "De72df051bd",
+      "url": "https://www.gov.uk/government/news/government-to-cut-costs-for-parents-ahead-of-new-school-year",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-06 — check the dates"
+    },
+    {
+      "doc_id": "Dd31e5d66c5",
+      "url": "https://www.gov.uk/government/news/attorney-general-launches-free-rule-of-law-lesson-plans-for-every-school-in-england-and-wales",
+      "warning": "manifest says 'The Rt Hon Lord Hermer KC' but the officeholder table says 'Bridget Phillipson' for 2026-07-02 — check the dates"
+    },
+    {
+      "doc_id": "Dfd6cb6bed2",
+      "url": "https://www.gov.uk/government/news/government-apologises-for-historic-forced-adoption-practices",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-02 — check the dates"
+    },
+    {
+      "doc_id": "Dd66752f7f0",
+      "url": "https://www.gov.uk/government/news/councils-supported-to-identify-and-support-vulnerable-teenagers",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-02 — check the dates"
+    },
+    {
+      "doc_id": "D748524a2c7",
+      "url": "https://www.gov.uk/government/news/teachers-to-benefit-from-multi-year-pay-deal",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-01 — check the dates"
+    },
+    {
+      "doc_id": "Da3bf9cb8ea",
+      "url": "https://www.gov.uk/government/news/choose-carefully-new-data-shows-degree-choice-drives-earnings",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'Bridget Phillipson' for 2026-06-25 — check the dates"
+    },
+    {
+      "doc_id": "D786f2aa670",
+      "url": "https://www.gov.uk/government/news/young-people-with-send-to-benefit-from-new-guidance-on-inclusion",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-24 — check the dates"
+    },
+    {
+      "doc_id": "D793d794eb7",
+      "url": "https://www.gov.uk/government/news/foreign-secretary-announces-support-for-gaza-with-new-child-medical-evacuations-and-assistance-to-palestinians-going-to-top-uk-universities",
+      "warning": "manifest says 'The Rt Hon James Murray MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-24 — check the dates"
+    },
+    {
+      "doc_id": "D8f7cfc685b",
+      "url": "https://www.gov.uk/government/news/safer-nurseries-with-3000-more-surprise-ofsted-visits",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-22 — check the dates"
+    },
+    {
+      "doc_id": "D01b9fed839",
+      "url": "https://www.gov.uk/government/news/new-deal-for-young-people-to-end-degree-by-default-culture-and-boost-youth-apprenticeships",
+      "warning": "manifest says 'The Rt Hon Pat McFadden MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-22 — check the dates"
+    },
+    {
+      "doc_id": "Dd0f02c0706",
+      "url": "https://www.gov.uk/government/news/4500-bonus-to-attract-graduate-teachers-to-deprived-nurseries",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-11 — check the dates"
+    },
+    {
+      "doc_id": "D9f9c00b0cc",
+      "url": "https://www.gov.uk/government/news/local-areas-prepare-new-experts-at-hand-teams",
+      "warning": "manifest says 'Preet Kaur Gill MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-05 — check the dates"
+    },
+    {
+      "doc_id": "D7878d398c8",
+      "url": "https://www.gov.uk/government/news/every-child-to-get-access-to-enriching-activities-to-build-skills-and-confidence-for-life",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-13 — check the dates"
+    },
+    {
+      "doc_id": "D40de5722bd",
+      "url": "https://www.gov.uk/government/news/new-natural-history-gcse-to-grow-next-generation-of-green-careers",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-12 — check the dates"
+    },
+    {
+      "doc_id": "Dbfe7e54f34",
+      "url": "https://www.gov.uk/government/news/thousands-of-young-people-to-be-offered-two-dose-menb-vaccine",
+      "warning": "manifest says 'The Rt Hon James Murray MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-12 — check the dates"
+    },
+    {
+      "doc_id": "Db7bfc86c2c",
+      "url": "https://www.gov.uk/government/news/record-numbers-of-children-with-mental-health-support-in-schools",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-10 — check the dates"
+    },
+    {
+      "doc_id": "D15b39c1d8a",
+      "url": "https://www.gov.uk/government/news/24-universities-and-colleges-awarded-investment-to-boost-student-places-and-strengthen-uk-defence-industry",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-09 — check the dates"
+    },
+    {
+      "doc_id": "D16dd656df6",
+      "url": "https://www.gov.uk/government/news/birthday-bunk-offs-fuelling-avoidable-school-absence",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-09 — check the dates"
+    },
+    {
+      "doc_id": "Df0ae024c0b",
+      "url": "https://www.gov.uk/government/news/newguidance-on-screen-use-for-children-aged-5-16",
+      "warning": "manifest says 'Sharon Hodgson MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-08 — check the dates"
+    },
+    {
+      "doc_id": "Dfff5214b31",
+      "url": "https://www.gov.uk/government/news/faster-support-for-children-to-get-school-ready-as-tech-sec-vows-to-better-connect-public-services",
+      "warning": "manifest says 'The Rt Hon Liz Kendall MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-04 — check the dates"
+    },
+    {
+      "doc_id": "D01c0bd2df6",
+      "url": "https://www.gov.uk/government/news/government-hits-70-of-pledge-two-years-into-this-parliament",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-04 — check the dates"
+    },
+    {
+      "doc_id": "Dd78da075a8",
+      "url": "https://www.gov.uk/government/news/government-backs-family-reunions-for-children-in-care",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-04 — check the dates"
+    },
+    {
+      "doc_id": "D6baf91a8f4",
+      "url": "https://www.gov.uk/government/news/10-million-free-breakfasts-served-in-schools-across-country",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-06-03 — check the dates"
+    },
+    {
+      "doc_id": "Df3e265895a",
+      "url": "https://www.gov.uk/government/news/new-action-against-hidden-childcare-costs-to-help-families",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-05-26 — check the dates"
+    },
+    {
+      "doc_id": "Da4c701e0b6",
+      "url": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-education-to-the-ceo-of-the-competition-and-markets-authority",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-05-26 — check the dates"
+    },
+    {
+      "doc_id": "D75e8e9ee2b",
+      "url": "https://www.gov.uk/government/news/1bn-boost-to-pe-and-school-sport-to-end-fitness-postcode-lottery",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-05-21 — check the dates"
+    },
+    {
+      "doc_id": "D952e53f04e",
+      "url": "https://www.gov.uk/government/news/government-sets-out-next-steps-for-childrens-social-care-reforms",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-05-21 — check the dates"
+    },
+    {
+      "doc_id": "Ddfffe0f1b1",
+      "url": "https://www.gov.uk/government/news/regional-funding-to-train-next-generation-of-construction-workers",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'Bridget Phillipson' for 2026-05-20 — check the dates"
+    },
+    {
+      "doc_id": "Da88bd09cef",
+      "url": "https://www.gov.uk/government/speeches/education-secretary-speech-at-education-world-forum",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-05-18 — check the dates"
+    },
+    {
+      "doc_id": "Db740874486",
+      "url": "https://www.gov.uk/government/news/new-international-alliance-to-support-children-with-send",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-05-18 — check the dates"
+    },
+    {
+      "doc_id": "Db7b3537a22",
+      "url": "https://www.gov.uk/government/news/adults-locked-out-of-learning-to-access-education-with-new-reform",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'Bridget Phillipson' for 2026-05-15 — check the dates"
+    },
+    {
+      "doc_id": "Dc2aa0e6e89",
+      "url": "https://www.gov.uk/government/news/124-million-boost-to-modernise-foster-care",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-05-14 — check the dates"
+    },
+    {
+      "doc_id": "Dfadbe2290c",
+      "url": "https://www.gov.uk/government/news/pm-vows-to-tear-up-status-quo-that-failed-young-people-on-apprenticeships-and-skills",
+      "warning": "manifest says 'The Rt Hon Pat McFadden MP' but the officeholder table says 'Bridget Phillipson' for 2026-05-11 — check the dates"
+    },
+    {
+      "doc_id": "D67120e07c8",
+      "url": "https://www.gov.uk/government/news/new-missions-to-transform-childhoods-of-most-disadvantaged",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-05-10 — check the dates"
+    },
+    {
+      "doc_id": "Dc2e575ae16",
+      "url": "https://www.gov.uk/government/news/families-to-save-up-to-1000-as-childrens-reforms-become-law",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-04-30 — check the dates"
+    },
+    {
+      "doc_id": "D40da3397c5",
+      "url": "https://www.gov.uk/government/publications/secretary-of-state-sets-out-policy-steers-to-ofqual",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-04-23 — check the dates"
+    },
+    {
+      "doc_id": "D5dcbb871b5",
+      "url": "https://www.gov.uk/government/news/new-powers-to-protect-vital-free-speech-at-universities",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-04-20 — check the dates"
+    },
+    {
+      "doc_id": "Dfa7724be0b",
+      "url": "https://www.gov.uk/government/news/edtech-and-ai-companies-invited-to-help-build-safe-ai-tutoring-tools-for-disadvantaged-pupils",
+      "warning": "manifest says 'The Rt Hon Ian Murray MP' but the officeholder table says 'Bridget Phillipson' for 2026-04-16 — check the dates"
+    },
+    {
+      "doc_id": "D02759846cf",
+      "url": "https://www.gov.uk/government/news/new-practical-advice-for-families-to-get-children-school-ready",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-04-16 — check the dates"
+    },
+    {
+      "doc_id": "D4b6d97b340",
+      "url": "https://www.gov.uk/government/news/government-to-examine-deaths-of-vulnerable-care-leavers",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-04-16 — check the dates"
+    },
+    {
+      "doc_id": "D7a72cda3ca",
+      "url": "https://www.gov.uk/government/news/next-generation-empowered-through-technical-excellence-colleges",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'Bridget Phillipson' for 2026-04-14 — check the dates"
+    },
+    {
+      "doc_id": "D7ad1af2c36",
+      "url": "https://www.gov.uk/government/news/uk-and-eu-finalise-agreement-to-bring-uk-into-erasmus-in-2027",
+      "warning": "manifest says 'The Rt Hon Nick Thomas–Symonds MP' but the officeholder table says 'Bridget Phillipson' for 2026-04-15 — check the dates"
+    },
+    {
+      "doc_id": "Dc01c12dd6c",
+      "url": "https://www.gov.uk/government/news/government-scraps-high-sugar-food-from-school-menus",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-04-12 — check the dates"
+    },
+    {
+      "doc_id": "D36d7cc2a6f",
+      "url": "https://www.gov.uk/government/news/interest-rate-cap-introduced-to-protect-plan-2-borrowers",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'Bridget Phillipson' for 2026-04-07 — check the dates"
+    },
+    {
+      "doc_id": "Da07fcbf655",
+      "url": "https://www.gov.uk/government/news/major-upgrades-to-restore-pride-in-englands-run-down-colleges",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'Bridget Phillipson' for 2026-04-01 — check the dates"
+    },
+    {
+      "doc_id": "Dd22828c38d",
+      "url": "https://www.gov.uk/government/news/hundreds-of-best-start-family-hubs-open-nationwide",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-30 — check the dates"
+    },
+    {
+      "doc_id": "Dd21745c6b3",
+      "url": "https://www.gov.uk/government/news/new-joint-chief-executives-of-office-for-students-to-steer-sector",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-30 — check the dates"
+    },
+    {
+      "doc_id": "Dbb20525184",
+      "url": "https://www.gov.uk/government/news/new-screen-time-guidance-for-parents-of-under-5s",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D0d83747b43",
+      "url": "https://www.gov.uk/government/news/new-legislation-to-keep-brothers-and-sisters-connected-in-care",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D08a104d2fc",
+      "url": "https://www.gov.uk/government/publications/apprenticeship-standards-achievement-rates-update-2026",
+      "warning": "manifest says 'The Rt Hon Pat McFadden MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D5947948cc7",
+      "url": "https://www.gov.uk/government/news/new-school-nurseries-to-help-cut-childcare-costs-in-poorest-areas",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-22 — check the dates"
+    },
+    {
+      "doc_id": "Dc11df00f5e",
+      "url": "https://www.gov.uk/government/news/working-families-saving-thousands-on-childcare-costs",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-18 — check the dates"
+    },
+    {
+      "doc_id": "D34a6a1d16e",
+      "url": "https://www.gov.uk/government/publications/requirements-for-early-education-and-childcare-inspections",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-18 — check the dates"
+    },
+    {
+      "doc_id": "D286f685c31",
+      "url": "https://www.gov.uk/government/speeches/education-secretary-speech-at-ascl-conference",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-13 — check the dates"
+    },
+    {
+      "doc_id": "D8a7677be22",
+      "url": "https://www.gov.uk/government/news/new-tool-for-families-and-schools-to-cut-stigma-of-child-poverty",
+      "warning": "manifest says 'The Rt Hon Dame Diana Johnson DBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-13 — check the dates"
+    },
+    {
+      "doc_id": "Dc490ccca8e",
+      "url": "https://www.gov.uk/government/news/first-v-levels-subjects-revealed-as-part-of-landmark-reforms",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-10 — check the dates"
+    },
+    {
+      "doc_id": "D58fee096a5",
+      "url": "https://www.gov.uk/government/speeches/education-secretarys-speech-at-the-rise-inclusion-conference",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-09 — check the dates"
+    },
+    {
+      "doc_id": "D786364fa2b",
+      "url": "https://www.gov.uk/government/news/students-given-stronger-protections-against-extremism-on-campus",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-08 — check the dates"
+    },
+    {
+      "doc_id": "De104397738",
+      "url": "https://www.gov.uk/government/news/stronger-protections-for-children-with-allergies-in-school",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-04 — check the dates"
+    },
+    {
+      "doc_id": "Db5b674b35a",
+      "url": "https://www.gov.uk/government/news/100-schools-cutting-bills-with-great-british-energy-solar-panels",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-05 — check the dates"
+    },
+    {
+      "doc_id": "D570f8ffbe1",
+      "url": "https://www.gov.uk/government/news/government-launch-antisemitism-review-into-schools-and-colleges",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-03-04 — check the dates"
+    },
+    {
+      "doc_id": "D7120b16275",
+      "url": "https://www.gov.uk/government/news/government-launches-investment-in-support-for-kinship-carers",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-27 — check the dates"
+    },
+    {
+      "doc_id": "D68a02f1d9d",
+      "url": "https://www.gov.uk/government/news/schools-white-paper-to-rewire-education-transforming-life-chances",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-24 — check the dates"
+    },
+    {
+      "doc_id": "D441da27c76",
+      "url": "https://www.gov.uk/government/speeches/bridget-phillipsons-speech-on-the-schools-white-paper",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "D3576ced141",
+      "url": "https://www.gov.uk/government/news/radical-expansion-in-rights-for-children-with-send",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "Deef67a4b44",
+      "url": "https://www.gov.uk/government/news/specialist-send-support-in-every-school-and-community",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "D4002316bea",
+      "url": "https://www.gov.uk/government/news/government-ends-runaway-independent-special-school-fees",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-19 — check the dates"
+    },
+    {
+      "doc_id": "D1437ba0ee5",
+      "url": "https://www.gov.uk/government/news/new-employer-grant-to-boost-quality-in-early-years-education",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-13 — check the dates"
+    },
+    {
+      "doc_id": "Dd2d0c2341e",
+      "url": "https://www.gov.uk/government/news/government-to-publish-new-gender-guidance-for-schools",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-12 — check the dates"
+    },
+    {
+      "doc_id": "Df451f88065",
+      "url": "https://www.gov.uk/government/news/10-year-plan-to-revitalise-schools-and-colleges-for-every-child",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-11 — check the dates"
+    },
+    {
+      "doc_id": "D7e229e5b4d",
+      "url": "https://www.gov.uk/government/news/government-unveils-expanded-support-for-adopted-children",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-10 — check the dates"
+    },
+    {
+      "doc_id": "D1c4cb2248c",
+      "url": "https://www.gov.uk/government/news/government-plans-to-train-next-generation-of-construction-workers",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'Bridget Phillipson' for 2026-02-10 — check the dates"
+    },
+    {
+      "doc_id": "D4dac2f543e",
+      "url": "https://www.gov.uk/government/news/intelligence-agencies-provide-briefings-on-foreign-interference",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-09 — check the dates"
+    },
+    {
+      "doc_id": "D1390146570",
+      "url": "https://www.gov.uk/government/news/pledge-to-get-10000-vulnerable-children-into-foster-homes",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-04 — check the dates"
+    },
+    {
+      "doc_id": "D766b4812d9",
+      "url": "https://www.gov.uk/government/news/parents-prioritising-primary-schools-with-free-breakfast-clubs",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-02-02 — check the dates"
+    },
+    {
+      "doc_id": "D66d5d42f1a",
+      "url": "https://www.gov.uk/government/news/450000-disadvantaged-pupils-could-benefit-from-ai-tutoring-tools",
+      "warning": "manifest says 'The Rt Hon Liz Kendall MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-26 — check the dates"
+    },
+    {
+      "doc_id": "D66bf4e5fbe",
+      "url": "https://www.gov.uk/government/speeches/secretary-of-states-speech-to-the-national-society-conference",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-23 — check the dates"
+    },
+    {
+      "doc_id": "D0c17794025",
+      "url": "https://www.gov.uk/government/news/uk-government-ministers-to-meet-with-northern-ireland-schools-ahead-of-east-west-council",
+      "warning": "manifest says 'Olivia Bailey MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-22 — check the dates"
+    },
+    {
+      "doc_id": "D9b6853383d",
+      "url": "https://www.gov.uk/government/speeches/education-secretary-speech-at-bett-uk-conference",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-21 — check the dates"
+    },
+    {
+      "doc_id": "D5c31850af9",
+      "url": "https://www.gov.uk/government/news/cutting-edge-drone-degree-to-train-military-forces-of-the-future-unveiled",
+      "warning": "manifest says 'Alistair Carns DSO OBE MC MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-21 — check the dates"
+    },
+    {
+      "doc_id": "D8ce83b1394",
+      "url": "https://www.gov.uk/government/news/strategy-to-boost-uk-education-abroad-in-major-40bn-growth-drive",
+      "warning": "manifest says 'The Rt Hon Sir Chris Bryant MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-20 — check the dates"
+    },
+    {
+      "doc_id": "D2dca1652c9",
+      "url": "https://www.gov.uk/government/news/government-to-drive-action-to-improve-childrens-relationship-with-mobile-phones-and-social-media",
+      "warning": "manifest says 'The Rt Hon Liz Kendall MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-19 — check the dates"
+    },
+    {
+      "doc_id": "Dbb62d035cb",
+      "url": "https://www.gov.uk/government/speeches/education-secretary-speech-at-global-ai-safety-summit",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-19 — check the dates"
+    },
+    {
+      "doc_id": "D122d1f91e3",
+      "url": "https://www.gov.uk/government/news/200-million-landmark-send-teacher-training-programme",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-16 — check the dates"
+    },
+    {
+      "doc_id": "D083d4c1e9f",
+      "url": "https://www.gov.uk/government/news/uk-and-ukrainestrengthen-ties-underlandmarkpartnershipas-20m-accelerated-to-support-energy-infrastructure",
+      "warning": "manifest says 'The Rt Hon Yvette Cooper MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-16 — check the dates"
+    },
+    {
+      "doc_id": "D1ac3f24588",
+      "url": "https://www.gov.uk/government/news/premier-league-and-literary-greats-back-national-year-of-reading",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-13 — check the dates"
+    },
+    {
+      "doc_id": "D2fa3e6e5d2",
+      "url": "https://www.gov.uk/government/news/government-to-introduce-academy-trust-inspections",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-01-08 — check the dates"
+    },
+    {
+      "doc_id": "D052b6d612c",
+      "url": "https://www.gov.uk/government/news/government-modernises-exam-records-with-new-app",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'Bridget Phillipson' for 2026-01-08 — check the dates"
+    },
+    {
+      "doc_id": "D214060d0e2",
+      "url": "https://www.gov.uk/government/publications/basildon-borough-council-local-plan-intervention-letter",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Angela Rayner' for 2026-07-21 — check the dates"
+    },
+    {
+      "doc_id": "D2bb207332e",
+      "url": "https://www.gov.uk/government/news/new-pm-says-government-can-bring-back-hope-to-britain-and-launches-drive-to-end-rough-sleeping-at-the-earliest-opportunity",
+      "warning": "the officeholder table gives 2 eligible speakers for 'Ministry of Housing, Communities and Local Government' on 2026-07-20 ('Steve Reed', 'Angela Rayner') — fix the overlapping spell dates in officeholders.csv"
+    },
+    {
+      "doc_id": "Dd1140fd589",
+      "url": "https://www.gov.uk/government/publications/political-party-spending-limits-independent-assessment",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-07-17 — check the dates"
+    },
+    {
+      "doc_id": "D2530dc11a8",
+      "url": "https://www.gov.uk/government/news/crackdown-on-baseless-legal-claims-to-get-britain-building",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'Steve Reed' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "Ddff5ee1502",
+      "url": "https://www.gov.uk/government/publications/city-of-london-corporation-local-plan-intervention-letter-16-july-2026",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D7bec02fe1a",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-letter-to-leaders-in-cambridgeshire-and-peterborough",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "Df61f340ec0",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-letter-to-leaders-in-west-sussex",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D7aa50565d1",
+      "url": "https://www.gov.uk/government/news/14-more-areas-to-benefit-from-streamlined-local-services",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D74ce834a0f",
+      "url": "https://www.gov.uk/government/news/care-workers-to-be-represented-in-fair-pay-agreements",
+      "warning": "manifest says 'The Rt Hon Stephen Kinnock MP' but the officeholder table says 'Steve Reed' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D4b2321f899",
+      "url": "https://www.gov.uk/government/publications/local-plan-examinations-letter-to-the-interim-chief-executive-of-the-planning-inspectorate-july-2026",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "De9d1b03028",
+      "url": "https://www.gov.uk/government/news/stronger-leasehold-protections-in-crackdown-on-hidden-fees",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "D054a7fb225",
+      "url": "https://www.gov.uk/government/publications/woking-borough-council-ministerial-response-to-commissioners-seventh-report",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "Dcddbc6e4a4",
+      "url": "https://www.gov.uk/government/publications/spelthorne-borough-council-letter-to-the-leader-of-the-council-15-july-2026",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "Da4753260dc",
+      "url": "https://www.gov.uk/government/publications/nottingham-city-council-letter-to-council-leader-15-july-2026",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "D9c7538bc6f",
+      "url": "https://www.gov.uk/government/publications/woking-borough-council-letter-to-the-leader-of-the-council-15-july-2026",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "Df4a8275c72",
+      "url": "https://www.gov.uk/government/publications/spelthorne-borough-council-ministerial-response-to-commissioners-second-report",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "D13a0c56676",
+      "url": "https://www.gov.uk/government/news/interim-housing-ombudsman-appointed-to-support-tenants",
+      "warning": "manifest says 'Baroness Taylor of Stevenage OBE' but the officeholder table says 'Steve Reed' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "D3c87acddfb",
+      "url": "https://www.gov.uk/government/news/safer-homes-for-4m-tenants-with-quicker-action-on-dangerous-homes",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-07-13 — check the dates"
+    },
+    {
+      "doc_id": "D7c5d2d766f",
+      "url": "https://www.gov.uk/government/news/expanded-support-for-residents-living-with-unsafe-cladding",
+      "warning": "manifest says 'Rachel Blake MP' but the officeholder table says 'Steve Reed' for 2026-07-09 — check the dates"
+    },
+    {
+      "doc_id": "D20dc5fe853",
+      "url": "https://www.gov.uk/government/speeches/local-government-association-conference-2026",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-07-07 — check the dates"
+    },
+    {
+      "doc_id": "D2a8a4e1be5",
+      "url": "https://www.gov.uk/government/publications/rycroft-review-response-letter-to-parliamentary-parties",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-07-07 — check the dates"
+    },
+    {
+      "doc_id": "D01d365261e",
+      "url": "https://www.gov.uk/government/speeches/housing-secretary-speech-to-lloyds-social-housing-forum",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-07-06 — check the dates"
+    },
+    {
+      "doc_id": "D23a069d8fc",
+      "url": "https://www.gov.uk/government/news/tough-new-rules-to-crackdown-on-foreign-money-in-uk-elections",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-07-06 — check the dates"
+    },
+    {
+      "doc_id": "Da9ca409ac6",
+      "url": "https://www.gov.uk/government/news/fastest-infrastructure-building-in-a-generation-as-planning-rules-overhauled",
+      "warning": "manifest says 'Michael Shanks MP' but the officeholder table says 'Steve Reed' for 2026-07-02 — check the dates"
+    },
+    {
+      "doc_id": "D869cfcaa69",
+      "url": "https://www.gov.uk/government/publications/stockport-council-local-plan-intervention-letter-1-july-2026",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-07-02 — check the dates"
+    },
+    {
+      "doc_id": "D6de34b66bf",
+      "url": "https://www.gov.uk/government/speeches/remaking-the-state-annual-conference-2026",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-07-01 — check the dates"
+    },
+    {
+      "doc_id": "Db212481534",
+      "url": "https://www.gov.uk/government/publications/local-audit-office-chair-appointment",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-07-01 — check the dates"
+    },
+    {
+      "doc_id": "D0beedbe5e5",
+      "url": "https://www.gov.uk/government/news/rough-sleeping-no-longer-a-crime-as-vagrancy-act-repealed",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-06-28 — check the dates"
+    },
+    {
+      "doc_id": "D06898c7c50",
+      "url": "https://www.gov.uk/government/publications/city-of-london-corporation-local-plan-intervention-letter",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-06-26 — check the dates"
+    },
+    {
+      "doc_id": "Dd2ae36ea0f",
+      "url": "https://www.gov.uk/government/publications/community-infrastructure-levy-charges-on-householders-letter-to-local-authorities",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-06-25 — check the dates"
+    },
+    {
+      "doc_id": "Dbb2f55b129",
+      "url": "https://www.gov.uk/government/news/crack-down-on-dangerous-rented-homes-as-new-7k-fines-kick-in",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-06-21 — check the dates"
+    },
+    {
+      "doc_id": "D1c6dd1b802",
+      "url": "https://www.gov.uk/government/news/government-strengthens-wildfire-resilience-heading-into-summer",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-06-20 — check the dates"
+    },
+    {
+      "doc_id": "D82ca17ab95",
+      "url": "https://www.gov.uk/government/news/homebuying-shake-up-to-slash-delays-cut-costs-and-stop-sales-falling-through",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-06-18 — check the dates"
+    },
+    {
+      "doc_id": "Da01e504e60",
+      "url": "https://www.gov.uk/government/news/ai-tool-to-slash-planning-decision-times-as-government-accelerates-push-to-build-15-million-homes",
+      "warning": "manifest says 'The Rt Hon Ian Murray MP' but the officeholder table says 'Steve Reed' for 2026-06-16 — check the dates"
+    },
+    {
+      "doc_id": "Dae118350b5",
+      "url": "https://www.gov.uk/government/speeches/new-locals-stronger-things-conference",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-06-16 — check the dates"
+    },
+    {
+      "doc_id": "D141411ec3f",
+      "url": "https://www.gov.uk/government/news/new-ceo-appointed-to-drive-greater-cambridge-growth",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-06-12 — check the dates"
+    },
+    {
+      "doc_id": "D9b4ba8a6c6",
+      "url": "https://www.gov.uk/government/news/cycling-and-walking-boom-with-45-billion-for-thousands-of-new-routes-and-safer-crossings",
+      "warning": "manifest says 'The Rt Hon Heidi Alexander MP' but the officeholder table says 'Steve Reed' for 2026-06-12 — check the dates"
+    },
+    {
+      "doc_id": "Da025037e07",
+      "url": "https://www.gov.uk/government/publications/torbay-council-local-plan-intervention-letter",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-06-11 — check the dates"
+    },
+    {
+      "doc_id": "D01540f030a",
+      "url": "https://www.gov.uk/government/news/free-flu-jabs-for-people-experiencing-homelessness",
+      "warning": "manifest says 'The Rt Hon James Murray MP' but the officeholder table says 'Steve Reed' for 2026-06-11 — check the dates"
+    },
+    {
+      "doc_id": "Dc83972adce",
+      "url": "https://www.gov.uk/government/speeches/fire-safety-ministers-speech-at-the-fbus-2026-conference",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-06-09 — check the dates"
+    },
+    {
+      "doc_id": "D0d23c1991d",
+      "url": "https://www.gov.uk/government/speeches/fire-safety-ministers-speech-at-the-lgas-2026-fire-conference",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-06-09 — check the dates"
+    },
+    {
+      "doc_id": "D2b868d1eb7",
+      "url": "https://www.gov.uk/government/news/cheers-football-fans-to-raise-a-glass-for-the-world-cup",
+      "warning": "manifest says 'The Rt Hon Emma Reynolds MP' but the officeholder table says 'Steve Reed' for 2026-06-08 — check the dates"
+    },
+    {
+      "doc_id": "D7d112a9968",
+      "url": "https://www.gov.uk/government/news/mayors-meet-in-york-as-devolution-revolution-delivers",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-06-05 — check the dates"
+    },
+    {
+      "doc_id": "D1e4d1e58e2",
+      "url": "https://www.gov.uk/government/news/greater-cambridge-gets-regeneration-body-to-accelerate-growth",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-06-02 — check the dates"
+    },
+    {
+      "doc_id": "D8027db7f84",
+      "url": "https://www.gov.uk/government/speeches/business-in-the-community-speech-2-june-2026",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-06-02 — check the dates"
+    },
+    {
+      "doc_id": "D290a2de842",
+      "url": "https://www.gov.uk/government/news/domestic-abusers-to-be-evicted-under-new-landmark-housing-law",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-06-01 — check the dates"
+    },
+    {
+      "doc_id": "Df857fc5fbf",
+      "url": "https://www.gov.uk/government/news/new-chair-appointed-to-the-planning-inspectorate-board",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-05-29 — check the dates"
+    },
+    {
+      "doc_id": "D5a063e1fea",
+      "url": "https://www.gov.uk/government/news/councils-to-be-prevented-from-making-risky-investments",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-05-28 — check the dates"
+    },
+    {
+      "doc_id": "Df777fccc9a",
+      "url": "https://www.gov.uk/government/news/competition-opens-to-build-a-national-muslim-war-memorial",
+      "warning": "manifest says 'Nesil Caliskan MP' but the officeholder table says 'Steve Reed' for 2026-05-27 — check the dates"
+    },
+    {
+      "doc_id": "D84f6d3139c",
+      "url": "https://www.gov.uk/government/publications/local-audit-office-chair-the-governments-preferred-candidate",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-05-26 — check the dates"
+    },
+    {
+      "doc_id": "D008ad5842c",
+      "url": "https://www.gov.uk/government/news/new-pension-rules-to-boost-retirement-investments",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-05-21 — check the dates"
+    },
+    {
+      "doc_id": "D4c3a18d8f1",
+      "url": "https://www.gov.uk/government/news/neighbourhood-guarantee-to-improve-villages-towns-and-cities",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-05-21 — check the dates"
+    },
+    {
+      "doc_id": "D9c3e5fbf38",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-letter-to-new-surrey-council-leaders",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-05-21 — check the dates"
+    },
+    {
+      "doc_id": "De728d4de6b",
+      "url": "https://www.gov.uk/government/speeches/neighbourhood-guarantee-speech",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-05-21 — check the dates"
+    },
+    {
+      "doc_id": "Dcc5b6e9ae3",
+      "url": "https://www.gov.uk/government/news/strongerstandardsand-training-toimprovebuilding-safety",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-05-20 — check the dates"
+    },
+    {
+      "doc_id": "D8873e3a45c",
+      "url": "https://www.gov.uk/government/speeches/housing-and-planning-minister-speech-to-ukreiif-2026",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-05-19 — check the dates"
+    },
+    {
+      "doc_id": "D17a0883af9",
+      "url": "https://www.gov.uk/government/news/windrush-celebrations-backed-with-500000-for-communities",
+      "warning": "manifest says 'Nesil Caliskan MP' but the officeholder table says 'Steve Reed' for 2026-05-15 — check the dates"
+    },
+    {
+      "doc_id": "Dd8b43073b6",
+      "url": "https://www.gov.uk/government/news/appointment-of-mo-baines-as-lead-non-executive-director",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-05-15 — check the dates"
+    },
+    {
+      "doc_id": "D44af312a8e",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-letter-on-potential-modification-to-the-proposal-to-west-sussex-council-leaders",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-05-12 — check the dates"
+    },
+    {
+      "doc_id": "D53e894d6a2",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-letter-on-potential-modification-to-the-proposal-to-east-sussex-and-brighton-and-hove-council-leaders",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-05-12 — check the dates"
+    },
+    {
+      "doc_id": "D2efb561522",
+      "url": "https://www.gov.uk/government/news/funding-boost-to-help-councils-tackle-antisemitism",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-05-05 — check the dates"
+    },
+    {
+      "doc_id": "D63aeb606ed",
+      "url": "https://www.gov.uk/government/news/historic-protections-for-renters-in-action-across-england",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-04-30 — check the dates"
+    },
+    {
+      "doc_id": "D7284acb555",
+      "url": "https://www.gov.uk/government/speeches/housing-minister-speech-on-leasehold-and-commonhold-reform",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-04-29 — check the dates"
+    },
+    {
+      "doc_id": "D00c2e5c27c",
+      "url": "https://www.gov.uk/government/news/english-devolution-bill-receives-royal-assent",
+      "warning": "manifest says 'The Rt Hon Miatta Fahnbulleh MP' but the officeholder table says 'Steve Reed' for 2026-04-29 — check the dates"
+    },
+    {
+      "doc_id": "D626bdd27bb",
+      "url": "https://www.gov.uk/government/news/right-to-buy-overhaul-to-safeguard-social-housing",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-04-28 — check the dates"
+    },
+    {
+      "doc_id": "D70c9c57a6d",
+      "url": "https://www.gov.uk/government/publications/letter-to-the-chair-and-chief-executive-of-the-regulator-of-social-housing",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-04-21 — check the dates"
+    },
+    {
+      "doc_id": "D3c23b6a75a",
+      "url": "https://www.gov.uk/government/news/firefighters-to-benefit-from-bespoke-health-support",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-04-16 — check the dates"
+    },
+    {
+      "doc_id": "Df407eb156f",
+      "url": "https://www.gov.uk/government/news/over-200-community-organisations-backed-to-help-bridge-divides",
+      "warning": "manifest says 'The Rt Hon Miatta Fahnbulleh MP' but the officeholder table says 'Steve Reed' for 2026-04-15 — check the dates"
+    },
+    {
+      "doc_id": "D3eec1519f1",
+      "url": "https://www.gov.uk/government/publications/shared-ownership-and-the-renters-rights-act-letter-to-registered-providers-of-social-housing",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-04-15 — check the dates"
+    },
+    {
+      "doc_id": "D5f323a9ea9",
+      "url": "https://www.gov.uk/government/news/council-tax-shake-up-to-protect-the-most-vulnerable-households",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-04-15 — check the dates"
+    },
+    {
+      "doc_id": "D00bcd33e18",
+      "url": "https://www.gov.uk/government/news/councils-backed-with-millions-to-take-on-rogue-landlords",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-04-14 — check the dates"
+    },
+    {
+      "doc_id": "D258e9eddf5",
+      "url": "https://www.gov.uk/government/news/new-2m-backed-pilots-to-put-more-power-in-the-hands-of-tenants",
+      "warning": "manifest says 'Baroness Taylor of Stevenage OBE' but the officeholder table says 'Steve Reed' for 2026-04-02 — check the dates"
+    },
+    {
+      "doc_id": "D0711f30a8b",
+      "url": "https://www.gov.uk/government/publications/hm-land-registry-chairs-response-to-the-parliamentary-under-secretary-of-state",
+      "warning": "manifest says 'Baroness Taylor of Stevenage OBE' but the officeholder table says 'Steve Reed' for 2026-03-31 — check the dates"
+    },
+    {
+      "doc_id": "D9e3248cb3c",
+      "url": "https://www.gov.uk/government/news/stalled-housing-and-employment-sites-to-be-unlocked-with-new-165-million-road-fund",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-30 — check the dates"
+    },
+    {
+      "doc_id": "Daaecd85b58",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-update-letter-to-east-sussex-and-brighton-and-hove-council-leaders",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D4c2fcfef62",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-update-letter-to-west-sussex-council-leaders",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D13c8090af0",
+      "url": "https://www.gov.uk/government/news/70m-funding-to-address-building-safety-professional-shortages",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D3f2dd99675",
+      "url": "https://www.gov.uk/government/news/government-launches-new-consultation-as-part-of-commitment-to-introduce-mandatory-certification-for-fire-risk-assessors",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D3f0626c5e9",
+      "url": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-and-the-mayor-of-london-final-proposed-package-of-support-for-housebuilding-in-london",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D4bfa5ced23",
+      "url": "https://www.gov.uk/government/publications/rycroft-review-letter-to-parliamentary-party-representatives",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D22c83bd0fe",
+      "url": "https://www.gov.uk/government/news/emergency-action-to-kickstart-london-housebuilding",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "Ddd4a657fa4",
+      "url": "https://www.gov.uk/government/news/cap-on-donations-from-overseas-electors-and-ban-on-crypto-donations-to-protect-democracy",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D442e3671f0",
+      "url": "https://www.gov.uk/government/speeches/housing-secretary-delivers-call-to-arms-to-get-britain-building",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D9f8b4a997f",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-decision-letter-to-norfolk-council-leaders",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D753fca76aa",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-decision-letter-to-suffolk-council-leaders",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D79ca8e2170",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-decision-letter-to-hampshire-isle-of-wight-portsmouth-and-southampton-council-leaders",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D9155fd1110",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-decision-letter-to-essex-southend-on-sea-and-thurrock-council-leaders",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D4e739d3656",
+      "url": "https://www.gov.uk/government/publications/joint-letter-to-local-authorities-on-the-crisis-and-resilience-top-up-for-heating-oil-support",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-03-24 — check the dates"
+    },
+    {
+      "doc_id": "Dacaf09ac86",
+      "url": "https://www.gov.uk/government/publications/nottingham-city-council-letter-to-former-commissioners-24-march-2026",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-03-24 — check the dates"
+    },
+    {
+      "doc_id": "D3aaf62fb7f",
+      "url": "https://www.gov.uk/government/publications/london-borough-of-croydon-ministerial-response-to-the-commissioners-first-report",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-03-24 — check the dates"
+    },
+    {
+      "doc_id": "D200702c43c",
+      "url": "https://www.gov.uk/government/publications/warrington-borough-council-ministerial-response-to-ministerial-envoys-first-report",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-03-24 — check the dates"
+    },
+    {
+      "doc_id": "D33241920e7",
+      "url": "https://www.gov.uk/government/publications/woking-borough-council-ministerial-response-to-commissioners-sixth-report",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-03-24 — check the dates"
+    },
+    {
+      "doc_id": "D5ecf84175b",
+      "url": "https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-24 — check the dates"
+    },
+    {
+      "doc_id": "Dc45cece328",
+      "url": "https://www.gov.uk/government/publications/hm-land-registry-chairs-letter-202627",
+      "warning": "manifest says 'Baroness Taylor of Stevenage OBE' but the officeholder table says 'Steve Reed' for 2026-03-23 — check the dates"
+    },
+    {
+      "doc_id": "D169a7d1a65",
+      "url": "https://www.gov.uk/government/news/seven-new-towns-proposed-to-kickstart-housebuilding-push",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-22 — check the dates"
+    },
+    {
+      "doc_id": "Dc7d5f22e5b",
+      "url": "https://www.gov.uk/government/news/high-streets-revived-and-children-given-safe-places-to-play",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-21 — check the dates"
+    },
+    {
+      "doc_id": "D4f7f0bb10c",
+      "url": "https://www.gov.uk/government/news/local-people-take-the-lead-in-40-more-communities",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-20 — check the dates"
+    },
+    {
+      "doc_id": "D1dd8037f19",
+      "url": "https://www.gov.uk/government/publications/three-rivers-district-council-local-plan-holding-direction-letter",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-02-05 — check the dates"
+    },
+    {
+      "doc_id": "D9d5642ef68",
+      "url": "https://www.gov.uk/government/publications/three-rivers-district-council-local-plan-intervention-letter",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-03-18 — check the dates"
+    },
+    {
+      "doc_id": "Df2747f2144",
+      "url": "https://www.gov.uk/government/news/new-amendments-will-create-safer-streets-champion-culture-and-strengthen-local-accountability-under-the-english-devolution-bill",
+      "warning": "manifest says 'The Rt Hon Miatta Fahnbulleh MP' but the officeholder table says 'Steve Reed' for 2026-03-18 — check the dates"
+    },
+    {
+      "doc_id": "D409b77d0a3",
+      "url": "https://www.gov.uk/government/publications/london-borough-of-tower-hamlets-letter-to-the-ministerial-envoys-17-march-2026",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-17 — check the dates"
+    },
+    {
+      "doc_id": "Df2bba393e9",
+      "url": "https://www.gov.uk/government/news/new-measures-to-protect-candidates-ahead-of-local-elections",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Steve Reed' for 2026-03-12 — check the dates"
+    },
+    {
+      "doc_id": "Dc94c0041aa",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-decision-order-letter-to-surrey-council-leaders",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-03-10 — check the dates"
+    },
+    {
+      "doc_id": "Dcf25fcf63e",
+      "url": "https://www.gov.uk/government/news/major-community-iftar-held-by-ministersat-lancaster-house",
+      "warning": "manifest says 'The Rt Hon Miatta Fahnbulleh MP' but the officeholder table says 'Steve Reed' for 2026-03-10 — check the dates"
+    },
+    {
+      "doc_id": "D3589a658fa",
+      "url": "https://www.gov.uk/government/news/action-plan-launched-tobuild-stronger-communities",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-03-09 — check the dates"
+    },
+    {
+      "doc_id": "D06060b0b57",
+      "url": "https://www.gov.uk/government/news/weekend-voting-and-shopping-centre-polling-stations-to-be-trialled",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-03-02 — check the dates"
+    },
+    {
+      "doc_id": "Db7082a8d96",
+      "url": "https://www.gov.uk/government/publications/slough-borough-council-ministerial-response-to-the-commissioners-seventh-report",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-03-05 — check the dates"
+    },
+    {
+      "doc_id": "De82f1a4618",
+      "url": "https://www.gov.uk/government/news/government-review-launched-into-park-homes-commission-charge",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-03-05 — check the dates"
+    },
+    {
+      "doc_id": "D74dd212963",
+      "url": "https://www.gov.uk/government/news/over-50-million-pumped-into-the-fight-to-tackle-homelessness",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-26 — check the dates"
+    },
+    {
+      "doc_id": "D3990b1f7ff",
+      "url": "https://www.gov.uk/government/news/government-cracks-down-on-unsafe-and-unregulated-building-products-in-response-to-grenfell-tower-tragedy",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-02-25 — check the dates"
+    },
+    {
+      "doc_id": "Debf92646e2",
+      "url": "https://www.gov.uk/government/publications/london-borough-of-croydon-exceptional-financial-support-request-2026-27",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "De06edbc41c",
+      "url": "https://www.gov.uk/government/publications/thurrock-council-exceptional-financial-support-request-2026-27",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "Df3c297f0a7",
+      "url": "https://www.gov.uk/government/publications/slough-borough-council-exceptional-financial-support-request-2026-27",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "D4a521dfba2",
+      "url": "https://www.gov.uk/government/publications/birmingham-city-council-exceptional-financial-support-request",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "D71359eea80",
+      "url": "https://www.gov.uk/government/publications/woking-borough-council-exceptional-financial-support-request-2026-27",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "Dc994794523",
+      "url": "https://www.gov.uk/government/publications/warrington-borough-council-exceptional-financial-support-request-2026-27",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "Dc7ebc20806",
+      "url": "https://www.gov.uk/government/news/councils-to-get-exceptionalfinancialsupport-tobalance-books",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "Df27d8000e7",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-update-on-secretary-of-states-decision-regarding-local-elections-of-may-2026",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-02-16 — check the dates"
+    },
+    {
+      "doc_id": "D932b1cee95",
+      "url": "https://www.gov.uk/government/publications/buckinghamshire-council-local-plan-intervention-letter",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-02-13 — check the dates"
+    },
+    {
+      "doc_id": "Ddf5cd0f657",
+      "url": "https://www.gov.uk/government/publications/fair-consideration-of-requests-to-have-a-pet-in-social-housing",
+      "warning": "manifest says 'Baroness Taylor of Stevenage OBE' but the officeholder table says 'Steve Reed' for 2026-02-12 — check the dates"
+    },
+    {
+      "doc_id": "D29293ddbdb",
+      "url": "https://www.gov.uk/government/publications/spatial-development-strategies-and-devolution-letter-to-council-leaders",
+      "warning": "manifest says 'The Rt Hon Miatta Fahnbulleh MP' but the officeholder table says 'Steve Reed' for 2026-02-12 — check the dates"
+    },
+    {
+      "doc_id": "D073cb65883",
+      "url": "https://www.gov.uk/government/news/tougher-rules-on-political-interference-to-keep-uk-elections-secure",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-02-12 — check the dates"
+    },
+    {
+      "doc_id": "Dafd4db7b2a",
+      "url": "https://www.gov.uk/government/publications/spelthorne-borough-council-ministerial-response-to-commissioners-first-report",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-10 — check the dates"
+    },
+    {
+      "doc_id": "Df9308526c3",
+      "url": "https://www.gov.uk/government/news/communities-set-to-benefit-from-fairer-funding",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-09 — check the dates"
+    },
+    {
+      "doc_id": "D68f46492bc",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-letter-to-council-leaders",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-05 — check the dates"
+    },
+    {
+      "doc_id": "D20a0c63a4b",
+      "url": "https://www.gov.uk/government/news/major-local-government-shakeup-in-14-areas-opens-for-views",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-05 — check the dates"
+    },
+    {
+      "doc_id": "Dcc1643c4b0",
+      "url": "https://www.gov.uk/government/news/pride-in-place-40-neighbourhoods-join-transformational-programme",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-02-04 — check the dates"
+    },
+    {
+      "doc_id": "Da02c81379d",
+      "url": "https://www.gov.uk/government/news/new-regeneration-body-to-boost-jobs-homes-and-infrastructure-across-greater-cambridge",
+      "warning": "manifest says 'The Rt Hon James Murray MP' but the officeholder table says 'Steve Reed' for 2026-02-04 — check the dates"
+    },
+    {
+      "doc_id": "Db7b7bf88fc",
+      "url": "https://www.gov.uk/government/publications/nottingham-city-council-ministerial-response-to-the-commissioners-fourth-report",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-04 — check the dates"
+    },
+    {
+      "doc_id": "D5a49e370d5",
+      "url": "https://www.gov.uk/government/news/west-midlands-to-become-government-centre-for-transport-and-infrastructure-with-new-campus-to-accelerate-regional-growth-and-delivery",
+      "warning": "manifest says 'The Rt Hon Anna Turley MP' but the officeholder table says 'Steve Reed' for 2026-02-03 — check the dates"
+    },
+    {
+      "doc_id": "Ddaa8da18c3",
+      "url": "https://www.gov.uk/government/news/pension-scheme-reforms-to-tackle-gender-pension-gap",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-02-02 — check the dates"
+    },
+    {
+      "doc_id": "D20aa93c265",
+      "url": "https://www.gov.uk/government/news/high-streets-to-receive-150-million-to-restore-community-pride",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-31 — check the dates"
+    },
+    {
+      "doc_id": "D1e1645bc66",
+      "url": "https://www.gov.uk/government/news/flagship-accelerator-unlocks-125000-homes-and-takes-on-new-sites",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-29 — check the dates"
+    },
+    {
+      "doc_id": "D3cbbdf2c86",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-further-letters-to-councils-on-local-elections-in-may-2026",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-29 — check the dates"
+    },
+    {
+      "doc_id": "Da6bf22a393",
+      "url": "https://www.gov.uk/government/news/thousands-more-families-to-get-warm-secure-social-homes",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-28 — check the dates"
+    },
+    {
+      "doc_id": "D46d824fa99",
+      "url": "https://www.gov.uk/government/publications/thurrock-council-ministerial-response-to-commissioners-sixth-report",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-01-27 — check the dates"
+    },
+    {
+      "doc_id": "D3d7fb55823",
+      "url": "https://www.gov.uk/government/news/pm-were-capping-ground-rents-at-250",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-27 — check the dates"
+    },
+    {
+      "doc_id": "Dcd3b86a8ba",
+      "url": "https://www.gov.uk/government/news/bsr-becomes-standalone-body-in-landmark-step-towards-single-construction-regulator",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-01-27 — check the dates"
+    },
+    {
+      "doc_id": "D64a76f08f5",
+      "url": "https://www.gov.uk/government/news/holocaust-memorial-one-step-closer-as-bill-receives-royal-assent",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-22 — check the dates"
+    },
+    {
+      "doc_id": "Dba90243bcc",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-letter-to-council-leaders-on-the-postponement-of-may-2026-local-elections",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-22 — check the dates"
+    },
+    {
+      "doc_id": "D3af29b3973",
+      "url": "https://www.gov.uk/government/news/councils-granted-flexibility-to-finish-reorganisation",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-01-22 — check the dates"
+    },
+    {
+      "doc_id": "Deddb5f008b",
+      "url": "https://www.gov.uk/government/news/new-design-guidance-to-raise-the-bar-for-new-build-developments",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-01-21 — check the dates"
+    },
+    {
+      "doc_id": "Dedb7e62b39",
+      "url": "https://www.gov.uk/government/publications/london-borough-of-tower-hamlets-letter-to-the-ministerial-envoys",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-20 — check the dates"
+    },
+    {
+      "doc_id": "Df866591a10",
+      "url": "https://www.gov.uk/government/publications/london-borough-of-tower-hamlets-letter-to-the-secretary-of-state-from-the-ministerial-envoys",
+      "warning": "manifest says 'Alison McGovern MP' but the officeholder table says 'Steve Reed' for 2026-01-20 — check the dates"
+    },
+    {
+      "doc_id": "D007f60150f",
+      "url": "https://www.gov.uk/government/publications/london-borough-of-tower-hamlets-letter-to-the-chief-executive-19-january-2026",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-20 — check the dates"
+    },
+    {
+      "doc_id": "Db64830a08e",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-further-letter-to-council-leaders-with-elections-in-may-2026",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-19 — check the dates"
+    },
+    {
+      "doc_id": "D12f636042d",
+      "url": "https://www.gov.uk/government/news/northern-powerhouse-rail-to-drive-biggest-travel-upgrade-in-the-north-in-a-generation",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'Steve Reed' for 2026-01-14 — check the dates"
+    },
+    {
+      "doc_id": "D0517085734",
+      "url": "https://www.gov.uk/government/publications/letter-from-minister-of-state-for-housing-and-planning-to-the-planning-inspectorate-modifying-planning-obligations",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-01-14 — check the dates"
+    },
+    {
+      "doc_id": "D97cec33c47",
+      "url": "https://www.gov.uk/government/news/140m-scottish-local-growth-fund-to-drive-economic-growth",
+      "warning": "manifest says 'The Rt Hon Douglas Alexander MP' but the officeholder table says 'Steve Reed' for 2026-01-08 — check the dates"
+    },
+    {
+      "doc_id": "D29a75a5aa1",
+      "url": "https://www.gov.uk/government/news/major-84bn-investment-advances-uk-nuclear-deterrent-and-backs-british-industry",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-30 — check the dates"
+    },
+    {
+      "doc_id": "D4269ebad86",
+      "url": "https://www.gov.uk/government/news/funding-boost-for-british-companies-to-supercharge-uk-munitions-production",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Wes Streeting' for 2026-07-29 — check the dates"
+    },
+    {
+      "doc_id": "D7a87aef753",
+      "url": "https://www.gov.uk/government/news/pay-rise-for-royal-fleet-auxiliary-personnel-supporting-royal-navy-operations",
+      "warning": "manifest says 'Calvin Bailey MBE MP' but the officeholder table says 'Wes Streeting' for 2026-07-28 — check the dates"
+    },
+    {
+      "doc_id": "Dc6a6f90339",
+      "url": "https://www.gov.uk/government/news/fleet-of-spy-drones-to-equip-british-soldiers-and-back-jobs-in-south-west-england-and-wales",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-25 — check the dates"
+    },
+    {
+      "doc_id": "D4a5bae4efa",
+      "url": "https://www.gov.uk/government/news/commonwealth-games-return-to-glasgow-with-uk-government-backing",
+      "warning": "manifest says 'Stephanie Peacock MP' but the officeholder table says 'Wes Streeting' for 2026-07-24 — check the dates"
+    },
+    {
+      "doc_id": "D59255787d5",
+      "url": "https://www.gov.uk/government/news/uk-takes-command-of-multinational-force-for-ukraine",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-24 — check the dates"
+    },
+    {
+      "doc_id": "D24acd91472",
+      "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streeting-mp-keynote-speech-at-agf-defence-summit-farnborough-international-air-show",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-22 — check the dates"
+    },
+    {
+      "doc_id": "Da9ccede4d7",
+      "url": "https://www.gov.uk/government/news/708-million-to-accelerate-uk-next-generation-air-combat-technology",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-22 — check the dates"
+    },
+    {
+      "doc_id": "Debb1c6be4e",
+      "url": "https://www.gov.uk/government/news/20-million-investment-for-hypersonic-target-to-test-air-defence-systems-and-boost-british-small-businesses--2",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Wes Streeting' for 2026-07-21 — check the dates"
+    },
+    {
+      "doc_id": "D2039ebd219",
+      "url": "https://www.gov.uk/government/news/canada-joins-next-generation-fighter-jet-programme-as-first-observer-nation",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-21 — check the dates"
+    },
+    {
+      "doc_id": "D20724504ab",
+      "url": "https://www.gov.uk/government/news/quadrilateral-joint-statement-on-canada-becoming-an-observer-to-gcap",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-21 — check the dates"
+    },
+    {
+      "doc_id": "D406d9b7174",
+      "url": "https://www.gov.uk/government/speeches/defence-minister-lord-coaker-keynote-speech-at-enterprise-gateway-farnborough-international-airshow",
+      "warning": "manifest says 'Lord Coaker' but the officeholder table says 'Wes Streeting' for 2026-07-21 — check the dates"
+    },
+    {
+      "doc_id": "Df6ecaf7ea3",
+      "url": "https://www.gov.uk/government/speeches/minister-for-defence-readiness-and-industry-luke-pollard-mp-keynote-speech-at-agf-defence-summit-farnborough-international-air-show",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Wes Streeting' for 2026-07-21 — check the dates"
+    },
+    {
+      "doc_id": "D7cd9bc4688",
+      "url": "https://www.gov.uk/government/news/european-security-strengthened-under-landmark-uk-and-estonia-agreement",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D1feb8ce36a",
+      "url": "https://www.gov.uk/government/news/prime-minister-commits-300-million-to-fund-fighter-jets-for-ukraine-backing-british-jobs-and-bolstering-ukraines-defence",
+      "warning": "manifest says 'The Rt Hon Sir Keir Starmer KCB KC MP' but the officeholder table says 'Dan Jarvis' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D11d3d4a963",
+      "url": "https://www.gov.uk/government/speeches/minister-for-defence-readiness-and-industry-luke-pollard-mp-keynote-speech-at-the-global-air-and-space-chiefs-conference",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Dan Jarvis' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D6e1db31068",
+      "url": "https://www.gov.uk/government/news/study-into-long-term-health-of-armed-forces-community-launched",
+      "warning": "manifest says 'Calvin Bailey MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "Dbb1cb38fc1",
+      "url": "https://www.gov.uk/government/news/first-british-made-artillery-barrels-delivered-to-ukraine",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "Dbf7aeb2265",
+      "url": "https://www.gov.uk/government/news/162-employers-across-the-uk-recognised-for-going-above-and-beyond-for-the-armed-forces-community",
+      "warning": "manifest says 'Calvin Bailey MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "Dfe8c255728",
+      "url": "https://www.gov.uk/government/news/record-26-billion-investment-to-transform-uk-naval-bases-docking-facilities-and-waterfront-infrastructure",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Dan Jarvis' for 2026-07-14 — check the dates"
+    },
+    {
+      "doc_id": "D174d19e9c5",
+      "url": "https://www.gov.uk/government/news/boost-for-skills-and-research-as-35-universities-across-the-uk-partner-in-new-defence-alliance",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Dan Jarvis' for 2026-07-13 — check the dates"
+    },
+    {
+      "doc_id": "D724198cfbd",
+      "url": "https://www.gov.uk/government/news/ai-battle-lab-to-prepare-british-army-for-modern-warfare",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-10 — check the dates"
+    },
+    {
+      "doc_id": "D245061ac4e",
+      "url": "https://www.gov.uk/government/news/new-training-guide-launched-to-revolutionise-health-of-servicewomen",
+      "warning": "manifest says 'Calvin Bailey MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-10 — check the dates"
+    },
+    {
+      "doc_id": "Df0a4ff8d08",
+      "url": "https://www.gov.uk/government/news/uk-sme-chosen-to-run-kyiv-business-centre",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Dan Jarvis' for 2026-07-07 — check the dates"
+    },
+    {
+      "doc_id": "D6eb9a46d96",
+      "url": "https://www.gov.uk/government/news/uk-assumes-crucial-nato-command-as-european-allies-step-up-leadership-within-the-alliance",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-07 — check the dates"
+    },
+    {
+      "doc_id": "D2a48a4a1a7",
+      "url": "https://www.gov.uk/government/news/millions-invested-in-new-missile-to-strengthen-british-armys-capability-and-nato-deterrence",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-07 — check the dates"
+    },
+    {
+      "doc_id": "Dd16007f7d9",
+      "url": "https://www.gov.uk/government/news/uk-forces-protect-nato-with-aircraft-carrier-operations-in-high-north",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-06 — check the dates"
+    },
+    {
+      "doc_id": "D00eadbbfcc",
+      "url": "https://www.gov.uk/government/news/over-4-billion-invested-in-next-generation-fighter-jet-with-new-international-contract",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Dan Jarvis' for 2026-07-03 — check the dates"
+    },
+    {
+      "doc_id": "D1f0fe9fcc3",
+      "url": "https://www.gov.uk/government/news/kent-opens-first-valour-recognised-centre-in-new-uk-wide-veteran-support-system",
+      "warning": "manifest says 'Calvin Bailey MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-07-02 — check the dates"
+    },
+    {
+      "doc_id": "Dbf1b488002",
+      "url": "https://www.gov.uk/government/news/uk-deploys-search-and-rescue-team-and-emergency-funding-to-support-venezuela-earthquake-response",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'Dan Jarvis' for 2026-06-26 — check the dates"
+    },
+    {
+      "doc_id": "Db3bc0da610",
+      "url": "https://www.gov.uk/government/speeches/defence-investment-plan-oral-statement",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-30 — check the dates"
+    },
+    {
+      "doc_id": "Dd7ce71a0ad",
+      "url": "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe--2",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-30 — check the dates"
+    },
+    {
+      "doc_id": "Db06a485472",
+      "url": "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe",
+      "warning": "manifest says 'The Rt Hon Sir Keir Starmer KCB KC MP' but the officeholder table says 'Dan Jarvis' for 2026-06-30 — check the dates"
+    },
+    {
+      "doc_id": "D592e87bb57",
+      "url": "https://www.gov.uk/government/news/uk-drone-transformation-to-strengthen-armed-forces-backed-by-more-than-5-billion",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-29 — check the dates"
+    },
+    {
+      "doc_id": "D3cce2650cf",
+      "url": "https://www.gov.uk/government/news/new-world-leading-lab-to-be-built-at-secretive-uk-research-site",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-29 — check the dates"
+    },
+    {
+      "doc_id": "D40665bee7f",
+      "url": "https://www.gov.uk/government/news/at-least-six-new-air-defence-warships-to-defend-uk-waters-and-boost-shipbuilding",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-29 — check the dates"
+    },
+    {
+      "doc_id": "D6a0b7b309d",
+      "url": "https://www.gov.uk/government/news/high-speed-boats-and-new-drones-for-elite-commando-force-under-defence-investment-plan",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-28 — check the dates"
+    },
+    {
+      "doc_id": "D7233fd480c",
+      "url": "https://www.gov.uk/government/news/nation-unites-to-celebrate-armed-forces-day-as-southport-selected-for-2027-national-event",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-27 — check the dates"
+    },
+    {
+      "doc_id": "D4e2f8312fc",
+      "url": "https://www.gov.uk/government/speeches/defence-secretarys-dan-jarvis-mbe-mp-speech-at-the-rusi-land-warfare-conference",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-23 — check the dates"
+    },
+    {
+      "doc_id": "Db9a8f0a3cd",
+      "url": "https://www.gov.uk/government/news/uk-accelerates-long-range-strike-capability-for-ukraine",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'Dan Jarvis' for 2026-06-22 — check the dates"
+    },
+    {
+      "doc_id": "D9a1658ed7c",
+      "url": "https://www.gov.uk/government/news/up-to-70-million-investment-in-essential-spares-for-uk-military-aircraft",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Dan Jarvis' for 2026-06-19 — check the dates"
+    },
+    {
+      "doc_id": "D4d0db41ec3",
+      "url": "https://www.gov.uk/government/news/joint-statement-on-the-multinational-military-mission-for-the-strait-of-hormuz-12-may-2026",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-05-14 — check the dates"
+    },
+    {
+      "doc_id": "D579961add6",
+      "url": "https://www.gov.uk/government/news/750-million-package-to-provide-ukraine-with-150000-drones-and-boost-air-defence",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-18 — check the dates"
+    },
+    {
+      "doc_id": "Dcdf90cd3f4",
+      "url": "https://www.gov.uk/government/speeches/secretary-of-state-for-defence-on-russian-shadow-fleet-interdiction",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-15 — check the dates"
+    },
+    {
+      "doc_id": "D11819fcdd7",
+      "url": "https://www.gov.uk/government/news/uk-forces-intercept-russian-shadow-fleet-vessel-for-the-first-time-in-blow-to-putins-war-chest",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-14 — check the dates"
+    },
+    {
+      "doc_id": "D8e441a9cdf",
+      "url": "https://www.gov.uk/government/news/europes-largest-drone-testing-centre-opens-in-swindon-to-boost-defence-innovation",
+      "warning": "manifest says 'The Rt Hon Dan Jarvis MBE MP' but the officeholder table says 'Dan Jarvis' for 2026-06-12 — check the dates"
+    },
+    {
+      "doc_id": "Da8053c8511",
+      "url": "https://www.gov.uk/government/news/new-taskforce-to-put-ai-on-the-uks-frontline",
+      "warning": "manifest says 'The Rt Hon Sir Keir Starmer KCB KC MP' but the officeholder table says 'John Healey' for 2026-06-10 — check the dates"
+    },
+    {
+      "doc_id": "Dedeb659d0d",
+      "url": "https://www.gov.uk/government/speeches/chief-of-defence-staff-speech-at-london-tech-week",
+      "warning": "manifest says 'Air Chief Marshal Sir Richard Knighton KCB ADC FREng' but the officeholder table says 'John Healey' for 2026-06-10 — check the dates"
+    },
+    {
+      "doc_id": "D15b39c1d8a",
+      "url": "https://www.gov.uk/government/news/24-universities-and-colleges-awarded-investment-to-boost-student-places-and-strengthen-uk-defence-industry",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-06-09 — check the dates"
+    },
+    {
+      "doc_id": "D3543175f32",
+      "url": "https://www.gov.uk/government/news/defence-housing-service-appoints-chair-as-new-data-shows-military-housing-turning-the-corner",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-06-09 — check the dates"
+    },
+    {
+      "doc_id": "D93b9b9e1f6",
+      "url": "https://www.gov.uk/government/news/armed-forces-personnel-receive-third-consecutive-above-inflation-pay-rise",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-06-09 — check the dates"
+    },
+    {
+      "doc_id": "D935f66a3a8",
+      "url": "https://www.gov.uk/government/news/uk-led-operation-interflex-enters-new-phase-of-specialist-training-for-ukraine",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-06-05 — check the dates"
+    },
+    {
+      "doc_id": "Db50aaf3c86",
+      "url": "https://www.gov.uk/government/news/boost-for-britains-air-defence-stockpiles-in-the-middle-east-with-hundreds-more-uk-made-missiles",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-06-01 — check the dates"
+    },
+    {
+      "doc_id": "D2ce1f05691",
+      "url": "https://www.gov.uk/government/news/cutting-edge-underwater-tech-for-aukus-forces-to-be-developed-through-landmark-partnership",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-05-30 — check the dates"
+    },
+    {
+      "doc_id": "D811467bf13",
+      "url": "https://www.gov.uk/government/news/major-new-swedish-fighter-jet-deal-to-strengthen-ukraine-and-boost-british-jobs",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-05-28 — check the dates"
+    },
+    {
+      "doc_id": "D08e9a5b8e5",
+      "url": "https://www.gov.uk/government/news/new-space-system-will-better-protect-uk-satellites-as-new-imagery-released",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-05-22 — check the dates"
+    },
+    {
+      "doc_id": "Dffa83e34ed",
+      "url": "https://www.gov.uk/government/news/raf-aircraft-dangerously-intercepted-by-russian-jets-over-black-sea",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-05-20 — check the dates"
+    },
+    {
+      "doc_id": "D94bb362c61",
+      "url": "https://www.gov.uk/government/news/uk-government-call-for-welsh-organisations-to-join-veteran-support-network",
+      "warning": "manifest says 'The Rt Hon Jo Stevens MP' but the officeholder table says 'John Healey' for 2026-05-20 — check the dates"
+    },
+    {
+      "doc_id": "Df62c6bc6b0",
+      "url": "https://www.gov.uk/government/news/government-backing-future-british-defence-unicorns-as-new-contracts-awarded-to-drive-innovation",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-05-19 — check the dates"
+    },
+    {
+      "doc_id": "Dbceaab62a6",
+      "url": "https://www.gov.uk/government/news/uk-armed-forces-salute-250-years-of-american-independence-with-us-celebrations",
+      "warning": "manifest says 'Lord Coaker' but the officeholder table says 'John Healey' for 2026-05-18 — check the dates"
+    },
+    {
+      "doc_id": "Db16a593f6f",
+      "url": "https://www.gov.uk/government/news/uk-deploys-new-low-cost-anti-drone-system-in-the-middle-east",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-05-17 — check the dates"
+    },
+    {
+      "doc_id": "D9e6b3cd4e7",
+      "url": "https://www.gov.uk/government/news/british-based-firms-lead-the-way-for-apache-helicopter-support-drones",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-05-15 — check the dates"
+    },
+    {
+      "doc_id": "Dc7a4f66360",
+      "url": "https://www.gov.uk/government/news/defence-firms-incentivised-to-deliver-on-time-as-mod-ties-profit-rates-to-improved-delivery",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-05-14 — check the dates"
+    },
+    {
+      "doc_id": "Dbcf4fe507e",
+      "url": "https://www.gov.uk/government/news/defence-minister-calls-on-london-and-the-east-of-england-to-join-new-50m-nationwide-veteran-support-network",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-05-14 — check the dates"
+    },
+    {
+      "doc_id": "D7441b56ff4",
+      "url": "https://www.gov.uk/government/news/defence-delivering-on-diplomacy-strategy-as-minister-visits-western-balkans-and-turkiye",
+      "warning": "manifest says 'Lord Coaker' but the officeholder table says 'John Healey' for 2026-05-14 — check the dates"
+    },
+    {
+      "doc_id": "D6a707bb89a",
+      "url": "https://www.gov.uk/government/news/next-generation-remote-controlled-artillery-systems-to-transform-british-army",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-05-13 — check the dates"
+    },
+    {
+      "doc_id": "Dc99d445c9c",
+      "url": "https://www.gov.uk/government/news/uk-to-contribute-drones-jets-and-warship-to-multinational-mission-to-secure-the-strait-of-hormuz",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-05-12 — check the dates"
+    },
+    {
+      "doc_id": "D7f1f3a7679",
+      "url": "https://www.gov.uk/government/news/uk-and-france-set-to-host-multinational-strait-of-hormuz-meeting-as-british-warship-to-pre-position-in-the-region",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-05-11 — check the dates"
+    },
+    {
+      "doc_id": "D77b735a3b6",
+      "url": "https://www.gov.uk/government/news/military-conducts-daring-parachute-drop-to-deliver-critical-medical-support-to-tristan-da-cunha",
+      "warning": "manifest says 'Alistair Carns DSO OBE MC MP' but the officeholder table says 'John Healey' for 2026-05-10 — check the dates"
+    },
+    {
+      "doc_id": "D0b047847db",
+      "url": "https://www.gov.uk/government/news/second-world-war-veterans-to-travel-to-overseas-commemorations-paid-for-by-the-government",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-05-08 — check the dates"
+    },
+    {
+      "doc_id": "D4e3509520f",
+      "url": "https://www.gov.uk/government/news/uk-armed-forces-better-protected-with-new-jamming-proof-navigation-tech",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-05-06 — check the dates"
+    },
+    {
+      "doc_id": "D5450563549",
+      "url": "https://www.gov.uk/government/news/victims-of-serious-and-sexual-crime-to-receive-better-protection-and-support-in-armed-forces-justice-reforms",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-01-26 — check the dates"
+    },
+    {
+      "doc_id": "D5b90bd3dfd",
+      "url": "https://www.gov.uk/government/news/new-interceptor-missiles-successfully-tested-in-the-middle-east-as-defence-minister-visits-region",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-05-01 — check the dates"
+    },
+    {
+      "doc_id": "D3207e1ed79",
+      "url": "https://www.gov.uk/government/speeches/first-sea-lord-speech-at-rusi",
+      "warning": "manifest says 'General Sir Gwyn Jenkins KCB OBE ADC RM' but the officeholder table says 'John Healey' for 2026-04-29 — check the dates"
+    },
+    {
+      "doc_id": "De639715f2f",
+      "url": "https://www.gov.uk/government/news/uk-tests-defence-supply-chains-under-war-conditions-in-major-exercise",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-04-29 — check the dates"
+    },
+    {
+      "doc_id": "Df7acb31f54",
+      "url": "https://www.gov.uk/government/news/entertainment-on-demand-for-armed-forces-personnel-at-home-and-abroad",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-04-24 — check the dates"
+    },
+    {
+      "doc_id": "D6dee11917f",
+      "url": "https://www.gov.uk/government/news/modernised-homes-for-military-families-in-woolwich-returning-from-cyprus-deployment",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-04-23 — check the dates"
+    },
+    {
+      "doc_id": "Ddbaa76ed3e",
+      "url": "https://www.gov.uk/government/news/northern-ireland-start-up-boost-with-new-50-million-defence-growth-deal",
+      "warning": "manifest says 'Matthew Patrick MP' but the officeholder table says 'John Healey' for 2026-04-22 — check the dates"
+    },
+    {
+      "doc_id": "D050afd7bee",
+      "url": "https://www.gov.uk/government/news/unlocking-private-investment-to-drive-uk-defence-as-an-engine-for-growth",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-04-22 — check the dates"
+    },
+    {
+      "doc_id": "D8819d76970",
+      "url": "https://www.gov.uk/government/news/uk-and-france-to-lead-multinational-strait-of-hormuz-military-planning-conference",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-04-22 — check the dates"
+    },
+    {
+      "doc_id": "Df04c48c2f6",
+      "url": "https://www.gov.uk/government/news/1200-uk-jobs-supported-by-nearly-900-million-defence-deal-to-keep-military-helicopters-mission-ready",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-04-15 — check the dates"
+    },
+    {
+      "doc_id": "D7a72cda3ca",
+      "url": "https://www.gov.uk/government/news/next-generation-empowered-through-technical-excellence-colleges",
+      "warning": "manifest says 'The Rt Hon Baroness Smith of Malvern' but the officeholder table says 'John Healey' for 2026-04-14 — check the dates"
+    },
+    {
+      "doc_id": "Dda6009d85b",
+      "url": "https://www.gov.uk/government/news/50-million-boost-to-defence-innovation-in-south-yorkshire-with-new-defence-growth-deal",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-04-13 — check the dates"
+    },
+    {
+      "doc_id": "D71e6ffba13",
+      "url": "https://www.gov.uk/government/news/nad-group-fully-established-as-deputy-nad-andy-start-retires",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-04-13 — check the dates"
+    },
+    {
+      "doc_id": "D7bd9d98f32",
+      "url": "https://www.gov.uk/government/speeches/minister-for-armed-forces-speech-at-the-london-defence-conference",
+      "warning": "manifest says 'Alistair Carns DSO OBE MC MP' but the officeholder table says 'John Healey' for 2026-04-11 — check the dates"
+    },
+    {
+      "doc_id": "D37ea6f5022",
+      "url": "https://www.gov.uk/government/news/uk-start-up-to-supply-interceptor-missiles-to-uk-military-and-gulf-partners",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-04-10 — check the dates"
+    },
+    {
+      "doc_id": "D87bf384388",
+      "url": "https://www.gov.uk/government/speeches/defence-secretary-no9-speech-09-april-2026",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-04-09 — check the dates"
+    },
+    {
+      "doc_id": "D8e6d083fcc",
+      "url": "https://www.gov.uk/government/news/uk-exposes-covert-russian-submarine-operation-in-and-around-uk-waters",
+      "warning": "manifest says 'The Rt Hon Sir Keir Starmer KCB KC MP' but the officeholder table says 'John Healey' for 2026-04-09 — check the dates"
+    },
+    {
+      "doc_id": "Dd60b1efe99",
+      "url": "https://www.gov.uk/government/news/50-million-boost-for-defence-businesses-in-plymouth-and-the-south-west-with-new-defence-growth-deal",
+      "warning": "manifest says 'Lord Coaker' but the officeholder table says 'John Healey' for 2026-04-09 — check the dates"
+    },
+    {
+      "doc_id": "Dda6da7a6b2",
+      "url": "https://www.gov.uk/government/news/ai-powered-drones-to-detect-explosive-threats-and-protect-military-personnel",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-04-02 — check the dates"
+    },
+    {
+      "doc_id": "Da3ce633ec7",
+      "url": "https://www.gov.uk/government/news/drones-using-ai-to-spot-explosive-dangers-and-help-keep-soldiers-safe",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-04-02 — check the dates"
+    },
+    {
+      "doc_id": "D856c32ae80",
+      "url": "https://www.gov.uk/government/news/gulf-air-defences-boosted-further-as-defence-secretary-visits-middle-east",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-31 — check the dates"
+    },
+    {
+      "doc_id": "Db53c08988e",
+      "url": "https://www.gov.uk/government/news/uk-and-belgium-sign-multi-million-pound-mission-data-partnership",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-03-31 — check the dates"
+    },
+    {
+      "doc_id": "D0646e13b23",
+      "url": "https://www.gov.uk/government/news/raf-personnel-become-first-ever-drone-aces-during-operations-in-the-middle-east",
+      "warning": "manifest says 'Alistair Carns DSO OBE MC MP' but the officeholder table says 'John Healey' for 2026-03-28 — check the dates"
+    },
+    {
+      "doc_id": "D23f67ace4e",
+      "url": "https://www.gov.uk/government/news/uk-commits-100-million-air-defence-package-for-ukraine-to-protect-cities-and-critical-infrastructure",
+      "warning": "manifest says 'The Rt Hon Sir Keir Starmer KCB KC MP' but the officeholder table says 'John Healey' for 2026-03-27 — check the dates"
+    },
+    {
+      "doc_id": "D89e3ff45ee",
+      "url": "https://www.gov.uk/government/news/good-homes-at-the-heart-of-military-life-mod-to-build-first-new-forces-homes-in-a-decade",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-27 — check the dates"
+    },
+    {
+      "doc_id": "D67a9904732",
+      "url": "https://www.gov.uk/government/news/new-boost-to-defence-victim-support-and-prevention-to-raise-standards-across-the-armed-forces",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D8a4de02abd",
+      "url": "https://www.gov.uk/government/news/shadow-fleet-set-to-be-interdicted-in-uk-waters-in-latest-blow-to-russia",
+      "warning": "manifest says 'The Rt Hon Sir Keir Starmer KCB KC MP' but the officeholder table says 'John Healey' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D29f538ca2d",
+      "url": "https://www.gov.uk/government/speeches/minister-for-defence-readiness-and-industry-luke-pollard-mp-keynote-speech-at-dprte-2026",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "Df639956937",
+      "url": "https://www.gov.uk/government/news/boost-to-british-jobs-and-skills-with-new-deals-to-support-thousands-of-defence-boats",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D8610997694",
+      "url": "https://www.gov.uk/government/news/multi-billion-pound-support-deal-agreed-as-part-of-major-uk-export-win",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D07fc448eee",
+      "url": "https://www.gov.uk/government/news/first-government-funded-veteran-centres-launch",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-03-25 — check the dates"
+    },
+    {
+      "doc_id": "D6043c62712",
+      "url": "https://www.gov.uk/government/news/first-ever-armed-forces-commissioner-selected-to-champion-service-personnel-and-families",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-24 — check the dates"
+    },
+    {
+      "doc_id": "D595ce770a8",
+      "url": "https://www.gov.uk/government/news/new-military-diplomacy-training-to-upskill-specialists-in-negotiation-and-languagesas-part-of-newdefencediplomacy-strategy",
+      "warning": "manifest says 'Lord Coaker' but the officeholder table says 'John Healey' for 2026-03-24 — check the dates"
+    },
+    {
+      "doc_id": "D72d5f34720",
+      "url": "https://www.gov.uk/government/news/new-radar-systems-to-unlock-offshore-wind",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-03-20 — check the dates"
+    },
+    {
+      "doc_id": "D37d9bd34f7",
+      "url": "https://www.gov.uk/government/news/transformative-new-childcare-support-will-save-defence-families-up-to-6000-a-year",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-20 — check the dates"
+    },
+    {
+      "doc_id": "Ded74bb5700",
+      "url": "https://www.gov.uk/government/news/lights-out-for-the-landy-british-army-to-retire-iconic-land-rover-fleet",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-03-20 — check the dates"
+    },
+    {
+      "doc_id": "D3460420907",
+      "url": "https://www.gov.uk/government/news/uk-defence-industry-steps-up-support-for-gulf-partners-facing-iranian-attacks",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-18 — check the dates"
+    },
+    {
+      "doc_id": "D22a61efcc2",
+      "url": "https://www.gov.uk/government/news/uk-ukraine-joint-statement-enhanced-security-and-defence-industrial-collaboration-declaration",
+      "warning": "manifest says 'The Rt Hon Sir Keir Starmer KCB KC MP' but the officeholder table says 'John Healey' for 2026-03-17 — check the dates"
+    },
+    {
+      "doc_id": "D118cfcf33e",
+      "url": "https://www.gov.uk/government/news/the-uk-ukraine-strategic-dialogue",
+      "warning": "manifest says 'The Rt Hon Sir Keir Starmer KCB KC MP' but the officeholder table says 'John Healey' for 2026-03-17 — check the dates"
+    },
+    {
+      "doc_id": "Df925024b0c",
+      "url": "https://www.gov.uk/government/news/long-term-defence-commitment-in-scotland-helps-secure-jobs-and-billions-in-export-deals",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-03-16 — check the dates"
+    },
+    {
+      "doc_id": "D2ba71c503a",
+      "url": "https://www.gov.uk/government/news/uk-and-germany-meet-to-advance-deep-precision-strike-missile-programme-to-boost-national-security",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-03-16 — check the dates"
+    },
+    {
+      "doc_id": "D857eb050eb",
+      "url": "https://www.gov.uk/government/news/uk-and-ireland-agree-updated-memorandum-of-understanding-on-bilateral-defence-cooperation",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-13 — check the dates"
+    },
+    {
+      "doc_id": "Dffeb1813ca",
+      "url": "https://www.gov.uk/government/news/overhaul-of-nuclear-system-to-speed-up-building-and-cut-costs",
+      "warning": "manifest says 'The Rt Hon Rachel Reeves MP' but the officeholder table says 'John Healey' for 2026-03-13 — check the dates"
+    },
+    {
+      "doc_id": "De8cc7aab25",
+      "url": "https://www.gov.uk/government/news/scotland-set-for-skills-and-innovation-boost-as-50-million-defence-growth-deal-unveiled",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-03-12 — check the dates"
+    },
+    {
+      "doc_id": "Dd9b990ff4d",
+      "url": "https://www.gov.uk/government/news/uk-convenes-jef-partners-to-disrupt-russias-shadow-fleet",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-11 — check the dates"
+    },
+    {
+      "doc_id": "D0843fe463e",
+      "url": "https://www.gov.uk/government/speeches/middle-east-update-oral-statement",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-09 — check the dates"
+    },
+    {
+      "doc_id": "Dc31d40a808",
+      "url": "https://www.gov.uk/government/news/uk-reveals-military-maintenance-facilities-in-ukraine-for-first-time",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-03-07 — check the dates"
+    },
+    {
+      "doc_id": "D360317f4af",
+      "url": "https://www.gov.uk/government/news/uk-sends-warship-and-drone-busting-helicopters-to-the-eastern-mediterranean-to-protect-brits-and-allies-in-the-region",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-03 — check the dates"
+    },
+    {
+      "doc_id": "D004144eb48",
+      "url": "https://www.gov.uk/government/speeches/statement-following-the-nepalese-supreme-courts-judgment-on-gurkha-pensions",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-03-03 — check the dates"
+    },
+    {
+      "doc_id": "D9c7315c06e",
+      "url": "https://www.gov.uk/government/news/billion-pound-helicopter-deal-secures-3300-british-jobs-boosts-battlefield-kit-and-unlocks-up-to-15billion-in-ukexports",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-03-02 — check the dates"
+    },
+    {
+      "doc_id": "Dc8ed4c6438",
+      "url": "https://www.gov.uk/government/news/new-drone-factory-opens-in-suffolk-to-boost-ukraines-armed-forces-against-russias-war",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-26 — check the dates"
+    },
+    {
+      "doc_id": "D4137929aec",
+      "url": "https://www.gov.uk/government/news/final-piece-in-place-for-defence-support-transformation",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-24 — check the dates"
+    },
+    {
+      "doc_id": "D9e83df8e4c",
+      "url": "https://www.gov.uk/government/news/powerful-new-royal-navy-warship-programme-advances-as-milestones-reached-for-two-ships",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-24 — check the dates"
+    },
+    {
+      "doc_id": "D99a28275a2",
+      "url": "https://www.gov.uk/government/news/uk-steps-up-support-for-ukraine-four-years-on-from-putins-full-scale-invasion",
+      "warning": "manifest says 'The Rt Hon Yvette Cooper MP' but the officeholder table says 'John Healey' for 2026-02-24 — check the dates"
+    },
+    {
+      "doc_id": "D05e3021342",
+      "url": "https://www.gov.uk/government/news/australia-uk-defence-industry-dialogue-joint-statement",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "D79853b3c35",
+      "url": "https://www.gov.uk/government/news/uk-submarine-arrives-in-australia-in-aukus-partnership-first",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-02-23 — check the dates"
+    },
+    {
+      "doc_id": "D84cfaab66b",
+      "url": "https://www.gov.uk/government/news/uk-and-european-allies-to-develop-low-cost-air-defence-weapons-to-protect-nato-skies",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-20 — check the dates"
+    },
+    {
+      "doc_id": "Dcc362c9ccc",
+      "url": "https://www.gov.uk/government/news/wales-becomes-uk-launchpad-for-next-generation-autonomous-technology",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-02-20 — check the dates"
+    },
+    {
+      "doc_id": "D071e8c39e9",
+      "url": "https://www.gov.uk/government/news/uk-carrier-strike-group-to-deploy-to-north-atlantic-to-keep-uk-safe",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-02-14 — check the dates"
+    },
+    {
+      "doc_id": "Daeeb931e3d",
+      "url": "https://www.gov.uk/government/news/enemy-weapons-detector-in-the-hands-of-soldiers-five-years-early",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-14 — check the dates"
+    },
+    {
+      "doc_id": "De101d3ec00",
+      "url": "https://www.gov.uk/government/news/uk-spends-over-400-million-on-long-range-weapons-as-cooperation-scales-up-with-european-allies",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-02-13 — check the dates"
+    },
+    {
+      "doc_id": "D4daea86bbd",
+      "url": "https://www.gov.uk/government/news/bristols-apprentices-celebrated-as-the-future-of-the-defence-industry",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-13 — check the dates"
+    },
+    {
+      "doc_id": "D9ca2ce2ea8",
+      "url": "https://www.gov.uk/government/news/hypersonic-missiles-development-accelerated-by-new-contract",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-13 — check the dates"
+    },
+    {
+      "doc_id": "Ddd2c425b67",
+      "url": "https://www.gov.uk/government/news/armed-forces-careers-unlocked-for-tens-of-thousands-through-new-recruitment-drive",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-02-12 — check the dates"
+    },
+    {
+      "doc_id": "D48f52de31f",
+      "url": "https://www.gov.uk/government/news/uk-announces-urgent-new-air-defence-package-for-ukraine-worth-over-half-a-billion-pounds",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-02-12 — check the dates"
+    },
+    {
+      "doc_id": "Df1884652eb",
+      "url": "https://www.gov.uk/government/news/free-legal-advice-to-be-provided-to-victims-of-sexual-offences-perpetrated-by-military-personnel-for-the-first-time",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-02-10 — check the dates"
+    },
+    {
+      "doc_id": "Df8307bbc61",
+      "url": "https://www.gov.uk/government/news/uk-steps-up-defence-of-arctic-and-high-north-from-rising-russian-threats",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-02-11 — check the dates"
+    },
+    {
+      "doc_id": "Df3e0b5844a",
+      "url": "https://www.gov.uk/government/news/soldiers-to-get-new-ai-capable-radios-headsets-and-tablets-with-futuristic-sensor-data",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-08 — check the dates"
+    },
+    {
+      "doc_id": "D6c156607c4",
+      "url": "https://www.gov.uk/government/news/uk-firms-pitch-future-technologies-in-first-ever-defence-dragons-den-event",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-02-06 — check the dates"
+    },
+    {
+      "doc_id": "D1f7ebb6880",
+      "url": "https://www.gov.uk/government/news/defences-next-top-intelligence-officer-appointed",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-02-05 — check the dates"
+    },
+    {
+      "doc_id": "D25eb7ce1d8",
+      "url": "https://www.gov.uk/government/news/student-skills-investment-to-boost-uk-defence-industry",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-02-05 — check the dates"
+    },
+    {
+      "doc_id": "D0bc448b807",
+      "url": "https://www.gov.uk/government/news/new-powers-for-defence-personnel-to-defeat-drones-following-doubling-of-incidents-near-bases",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-02-02 — check the dates"
+    },
+    {
+      "doc_id": "Dec5674451e",
+      "url": "https://www.gov.uk/government/news/new-review-of-single-living-accommodation-to-transform-military-housing-standards",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-01-30 — check the dates"
+    },
+    {
+      "doc_id": "D9c89358cb8",
+      "url": "https://www.gov.uk/government/speeches/minister-pollard-speech-at-ads-annual-dinner-2026",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-01-28 — check the dates"
+    },
+    {
+      "doc_id": "Da53d2f0042",
+      "url": "https://www.gov.uk/government/news/search-for-britains-next-defence-unicorn-kicks-off-with-new-20-million-fund",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-28 — check the dates"
+    },
+    {
+      "doc_id": "D1ad511272b",
+      "url": "https://www.gov.uk/government/news/red-tape-to-be-slashed-as-mod-launches-new-team-to-back-british-small-businesses",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-01-27 — check the dates"
+    },
+    {
+      "doc_id": "D1f73c0a076",
+      "url": "https://www.gov.uk/government/news/government-spends-record-levels-to-support-our-veterans",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-01-26 — check the dates"
+    },
+    {
+      "doc_id": "D0d7da94769",
+      "url": "https://www.gov.uk/government/news/futuristic-helicopter-drones-programme-advances-as-british-based-companies-selected-to-develop-prototypes",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-01-24 — check the dates"
+    },
+    {
+      "doc_id": "D8c018e66a1",
+      "url": "https://www.gov.uk/government/news/new-digital-medical-records-to-speed-up-armed-forces-recruitment",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-01-23 — check the dates"
+    },
+    {
+      "doc_id": "D150f5ae482",
+      "url": "https://www.gov.uk/government/news/uk-joint-squadron-deploys-typhoon-jets-to-qatar",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-22 — check the dates"
+    },
+    {
+      "doc_id": "D3cff2bb5db",
+      "url": "https://www.gov.uk/government/news/half-a-a-billion-investment-to-upgrade-raf-typhoons-and-secure-1500-british-jobs",
+      "warning": "manifest says 'The Rt Hon Douglas Alexander MP' but the officeholder table says 'John Healey' for 2026-01-22 — check the dates"
+    },
+    {
+      "doc_id": "D91f623e056",
+      "url": "https://www.gov.uk/government/speeches/defence-secretary-denmark-press-conference",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-21 — check the dates"
+    },
+    {
+      "doc_id": "D5c31850af9",
+      "url": "https://www.gov.uk/government/news/cutting-edge-drone-degree-to-train-military-forces-of-the-future-unveiled",
+      "warning": "manifest says 'Alistair Carns DSO OBE MC MP' but the officeholder table says 'John Healey' for 2026-01-21 — check the dates"
+    },
+    {
+      "doc_id": "Dd443d4bf22",
+      "url": "https://www.gov.uk/government/news/high-north-security-set-to-be-focus-of-defence-secretary-visit-to-denmark",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-21 — check the dates"
+    },
+    {
+      "doc_id": "Da987268f59",
+      "url": "https://www.gov.uk/government/news/500-students-now-learning-latest-digital-and-cyber-defence-skills-through-mod-scheme-in-lancashire",
+      "warning": "manifest says 'Louise Sandher-Jones MP' but the officeholder table says 'John Healey' for 2026-01-21 — check the dates"
+    },
+    {
+      "doc_id": "De0a97f79d3",
+      "url": "https://www.gov.uk/government/news/britains-fighter-jet-fleet-strengthened-in-205-million-boost-for-british-jobs",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-01-19 — check the dates"
+    },
+    {
+      "doc_id": "Dc057f17344",
+      "url": "https://www.gov.uk/government/news/uk-industry-support-to-ukraine-supercharged-with-new-business-centre",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-16 — check the dates"
+    },
+    {
+      "doc_id": "D4b7c2d09e7",
+      "url": "https://www.gov.uk/government/news/279-million-investment-to-build-new-home-for-armys-cyber-regiment",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-01-16 — check the dates"
+    },
+    {
+      "doc_id": "Db4aefea790",
+      "url": "https://www.gov.uk/government/news/major-boost-to-pool-of-skilled-former-military-personnel-called-upon-in-crises-as-uk-strengthen-preparedness",
+      "warning": "manifest says 'Alistair Carns DSO OBE MC MP' but the officeholder table says 'John Healey' for 2026-01-15 — check the dates"
+    },
+    {
+      "doc_id": "D669997cd09",
+      "url": "https://www.gov.uk/government/news/new-defence-housing-service-to-transform-housing-for-forces-families-as-armed-forces-bill-backs-those-who-serve",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-15 — check the dates"
+    },
+    {
+      "doc_id": "De05ef7b343",
+      "url": "https://www.gov.uk/government/speeches/defence-secretary-sweden-press-conference-opening-remarks",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-14 — check the dates"
+    },
+    {
+      "doc_id": "D0ccb9bb57a",
+      "url": "https://www.gov.uk/government/news/uk-and-poland-agree-enhanced-missile-defence-and-helicopter-training-cooperation",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-13 — check the dates"
+    },
+    {
+      "doc_id": "D67aeb8fd5d",
+      "url": "https://www.gov.uk/government/news/uk-to-develop-new-deep-strike-ballistic-missile-for-ukraine",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'John Healey' for 2026-01-11 — check the dates"
+    },
+    {
+      "doc_id": "D866badd977",
+      "url": "https://www.gov.uk/government/news/uk-accelerates-200-million-of-funding-for-deployment-to-ukraine-as-air-defence-support-stepped-up",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-09 — check the dates"
+    },
+    {
+      "doc_id": "D6061e35c94",
+      "url": "https://www.gov.uk/government/speeches/defence-secretary-statement-on-us-interception-of-bella-1-and-coalition-of-the-willing-meeting",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-07 — check the dates"
+    },
+    {
+      "doc_id": "D709e97e34e",
+      "url": "https://www.gov.uk/government/news/uk-provides-support-to-us-seizure-of-bella-1-accused-of-shadow-fleet-activities-and-iran-sanctions-breaches",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-07 — check the dates"
+    },
+    {
+      "doc_id": "D5d64cc4365",
+      "url": "https://www.gov.uk/government/news/strikes-on-daesh",
+      "warning": "manifest says 'The Rt Hon John Healey MP' but the officeholder table says 'John Healey' for 2026-01-03 — check the dates"
+    },
+    {
+      "doc_id": "D2530dc11a8",
+      "url": "https://www.gov.uk/government/news/crackdown-on-baseless-legal-claims-to-get-britain-building",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D0bbc70baaa",
+      "url": "https://www.gov.uk/government/news/castles-cruises-and-coastlines-untangling-the-rules-around-tying-the-knot",
+      "warning": "manifest says 'Baroness Levitt KC' but the officeholder table says 'David Lammy' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "Dfea6f2b8ca",
+      "url": "https://www.gov.uk/government/news/legal-aid-investment-to-keep-cases-moving-and-cut-delays-for-victims",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "D1397a14434",
+      "url": "https://www.gov.uk/government/news/last-woman-to-be-hanged-in-the-uk-pardoned-70-years-on",
+      "warning": "manifest says 'Catherine Atkinson MP' but the officeholder table says 'David Lammy' for 2026-07-08 — check the dates"
+    },
+    {
+      "doc_id": "Db51983dad0",
+      "url": "https://www.gov.uk/government/news/government-action-so-children-do-not-pay-for-a-parents-crime",
+      "warning": "manifest says 'Josh MacAlister OBE MP' but the officeholder table says 'David Lammy' for 2026-07-08 — check the dates"
+    },
+    {
+      "doc_id": "D2a1ad0f900",
+      "url": "https://www.gov.uk/government/news/better-protections-for-children-in-custody",
+      "warning": "manifest says 'Jake Richards MP' but the officeholder table says 'David Lammy' for 2026-07-07 — check the dates"
+    },
+    {
+      "doc_id": "D732a73d971",
+      "url": "https://www.gov.uk/government/news/amber-rudd-to-lead-review-into-safety-and-security-of-prisons",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-07-01 — check the dates"
+    },
+    {
+      "doc_id": "D33366ad3ae",
+      "url": "https://www.gov.uk/government/news/justice-for-victims-as-domestic-killers-to-face-longer-behind-bars",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-06-29 — check the dates"
+    },
+    {
+      "doc_id": "D0843e654bd",
+      "url": "https://www.gov.uk/government/news/uk-government-bolsters-ukraines-economic-recovery-with-world-bank-approving-1-billion-in-uk-backed-finance",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-06-26 — check the dates"
+    },
+    {
+      "doc_id": "D3e687f35e0",
+      "url": "https://www.gov.uk/government/news/foreign-secretary-announces-nearly-290-million-to-strengthen-ukraines-recovery-and-energy-security",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-06-25 — check the dates"
+    },
+    {
+      "doc_id": "D6f616df305",
+      "url": "https://www.gov.uk/government/news/world-cup-booze-ban-for-7300-offenders-thanks-to-crime-cutting-alcohol-tags",
+      "warning": "manifest says 'Lord Timpson OBE' but the officeholder table says 'David Lammy' for 2026-06-20 — check the dates"
+    },
+    {
+      "doc_id": "D0280421847",
+      "url": "https://www.gov.uk/government/speeches/deputy-prime-minister-address-to-the-world-gold-council",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-06-18 — check the dates"
+    },
+    {
+      "doc_id": "D2265c1708c",
+      "url": "https://www.gov.uk/government/news/government-welcomes-hospitality-and-tourism-sector-plans-to-further-strengthen-its--safety-standards-to-prevent-violence-against-women-and-girls",
+      "warning": "manifest says 'Catherine Atkinson MP' but the officeholder table says 'David Lammy' for 2026-06-12 — check the dates"
+    },
+    {
+      "doc_id": "D8260693992",
+      "url": "https://www.gov.uk/government/news/tough-us-style-courts-to-crack-down-on-repeat-offenders",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-06-12 — check the dates"
+    },
+    {
+      "doc_id": "D24110ba5dc",
+      "url": "https://www.gov.uk/government/news/35-million-government-funding-boost-to-stop-drones-smuggling-contraband-into-prisons",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-06-11 — check the dates"
+    },
+    {
+      "doc_id": "De8b83a9309",
+      "url": "https://www.gov.uk/government/news/ai-tech-ambition-to-deliver-smarter-justice-for-victims",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-06-09 — check the dates"
+    },
+    {
+      "doc_id": "Dcac30bc166",
+      "url": "https://www.gov.uk/government/news/legal-innovation-to-be-supercharged-by-new-ai-growth-project",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-06-08 — check the dates"
+    },
+    {
+      "doc_id": "D03a0659e4b",
+      "url": "https://www.gov.uk/government/news/east-anglian-prisons-expanded-to-make-streets-safer",
+      "warning": "manifest says 'Lord Timpson OBE' but the officeholder table says 'David Lammy' for 2026-06-05 — check the dates"
+    },
+    {
+      "doc_id": "D7cbf62aaa0",
+      "url": "https://www.gov.uk/government/news/millions-of-unmarried-couples-to-get-stronger-rights",
+      "warning": "manifest says 'Baroness Levitt KC' but the officeholder table says 'David Lammy' for 2026-06-05 — check the dates"
+    },
+    {
+      "doc_id": "D2b6540ece5",
+      "url": "https://www.gov.uk/government/speeches/uk-national-statement-at-united-nations-commission-on-crime--prevention-and-criminal-justice",
+      "warning": "manifest says 'Catherine Atkinson MP' but the officeholder table says 'David Lammy' for 2026-06-04 — check the dates"
+    },
+    {
+      "doc_id": "D66f19d4916",
+      "url": "https://www.gov.uk/government/news/action-to-drive-judge-diversity-and-increase-transparency",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-05-22 — check the dates"
+    },
+    {
+      "doc_id": "D9f3d534783",
+      "url": "https://www.gov.uk/government/news/government-and-rail-industry-say-enough-to-sexual-harassment",
+      "warning": "manifest says 'Natalie Fleet MP' but the officeholder table says 'David Lammy' for 2026-05-22 — check the dates"
+    },
+    {
+      "doc_id": "De88216cdf3",
+      "url": "https://www.gov.uk/government/speeches/deputy-prime-minister-global-partnerships-conference-speech-shifting-the-power-modern-partnerships-in-practice",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-05-19 — check the dates"
+    },
+    {
+      "doc_id": "Dbb182b7afd",
+      "url": "https://www.gov.uk/government/news/youth-justice-overhaul-to-keep-streets-safer",
+      "warning": "manifest says 'Jake Richards MP' but the officeholder table says 'David Lammy' for 2026-05-18 — check the dates"
+    },
+    {
+      "doc_id": "D4864d1c8ea",
+      "url": "https://www.gov.uk/government/news/families-spared-time-and-money-during-separation-thanks-to-government-action",
+      "warning": "manifest says 'Baroness Levitt KC' but the officeholder table says 'David Lammy' for 2026-05-15 — check the dates"
+    },
+    {
+      "doc_id": "D1a8e8d7ae0",
+      "url": "https://www.gov.uk/government/news/uk-government-shows-unwavering-support-for-war-crime-accountability",
+      "warning": "manifest says 'Alex Davies-Jones MP' but the officeholder table says 'David Lammy' for 2026-05-08 — check the dates"
+    },
+    {
+      "doc_id": "D98ea02390e",
+      "url": "https://www.gov.uk/government/speeches/there-can-be-no-lasting-peace-for-ukraine-without-accountability",
+      "warning": "manifest says 'Alex Davies-Jones MP' but the officeholder table says 'David Lammy' for 2026-05-08 — check the dates"
+    },
+    {
+      "doc_id": "D9e638b6003",
+      "url": "https://www.gov.uk/government/news/victims-come-first-in-new-justice-law",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-04-30 — check the dates"
+    },
+    {
+      "doc_id": "D588774ace2",
+      "url": "https://www.gov.uk/government/news/urgent-action-to-rapidly-improve-hmp-woodhill",
+      "warning": "manifest says 'Lord Timpson OBE' but the officeholder table says 'David Lammy' for 2026-04-16 — check the dates"
+    },
+    {
+      "doc_id": "Dcae924c502",
+      "url": "https://www.gov.uk/government/news/raac-hit-court-reopens-in-boost-for-london-justice",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-04-16 — check the dates"
+    },
+    {
+      "doc_id": "D267c634aef",
+      "url": "https://www.gov.uk/government/news/faster-and-fairer-justice-for-victims-thanks-to-major-magistrate-recruitment-drive",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-04-16 — check the dates"
+    },
+    {
+      "doc_id": "Df00e98ac93",
+      "url": "https://www.gov.uk/government/news/digital-overhaul-of-prison-system-to-drive-down-release-errors",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-04-15 — check the dates"
+    },
+    {
+      "doc_id": "D0751e45bc3",
+      "url": "https://www.gov.uk/government/news/ai-court-transcripts-to-boost-access-to-justice-for-victims",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-04-14 — check the dates"
+    },
+    {
+      "doc_id": "D00bcd33e18",
+      "url": "https://www.gov.uk/government/news/councils-backed-with-millions-to-take-on-rogue-landlords",
+      "warning": "manifest says 'The Rt Hon Steve Reed OBE MP' but the officeholder table says 'David Lammy' for 2026-04-14 — check the dates"
+    },
+    {
+      "doc_id": "D7dd89a30b1",
+      "url": "https://www.gov.uk/government/news/new-laws-to-crackdown-on-harmful-pornography",
+      "warning": "manifest says 'The Rt Hon Kanishka Narayan MP' but the officeholder table says 'David Lammy' for 2026-04-10 — check the dates"
+    },
+    {
+      "doc_id": "D2adbacf101",
+      "url": "https://www.gov.uk/government/news/victims-and-bereaved-get-more-time-to-challenge-lenient-sentences",
+      "warning": "manifest says 'The Rt Hon Ellie Reeves KC MP' but the officeholder table says 'David Lammy' for 2026-04-09 — check the dates"
+    },
+    {
+      "doc_id": "D53c0376d77",
+      "url": "https://www.gov.uk/government/news/millions-invested-to-boost-uks-position-as-a-global-tech-leader",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-03-31 — check the dates"
+    },
+    {
+      "doc_id": "D8f0496ab6d",
+      "url": "https://www.gov.uk/government/speeches/harnessing-english-law-for-economic-growth-deputy-prime-ministers-speech",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-03-27 — check the dates"
+    },
+    {
+      "doc_id": "Df314169431",
+      "url": "https://www.gov.uk/government/speeches/kings-counsel-appointments-ceremony-2026-lord-chancellor-speech",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D65b580958d",
+      "url": "https://www.gov.uk/government/speeches/preventing-the-drivers-of-youth-custody",
+      "warning": "manifest says 'Jake Richards MP' but the officeholder table says 'David Lammy' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D2dba701155",
+      "url": "https://www.gov.uk/government/news/longer-behind-bars-for-espionage-in-national-security-boost",
+      "warning": "manifest says 'Jake Richards MP' but the officeholder table says 'David Lammy' for 2026-03-26 — check the dates"
+    },
+    {
+      "doc_id": "D36ac40ccf9",
+      "url": "https://www.gov.uk/government/news/government-announces-plans-to-tag-thousands-of-extra-offenders",
+      "warning": "manifest says 'Lord Timpson OBE' but the officeholder table says 'David Lammy' for 2026-03-19 — check the dates"
+    },
+    {
+      "doc_id": "D59a7e19304",
+      "url": "https://www.gov.uk/government/news/children-to-get-swifter-justice-as-new-family-court-approach-expands-nationally",
+      "warning": "manifest says 'Baroness Levitt KC' but the officeholder table says 'David Lammy' for 2026-03-17 — check the dates"
+    },
+    {
+      "doc_id": "D2b3499e754",
+      "url": "https://www.gov.uk/government/news/major-funding-boost-to-divert-women-from-a-life-of-crime",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-03-16 — check the dates"
+    },
+    {
+      "doc_id": "D2217d85a13",
+      "url": "https://www.gov.uk/government/news/government-launches-new-national-legal-advisors-service-for-rape-victims-and-expands-operation-soteria-into-the-courtroom",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-03-10 — check the dates"
+    },
+    {
+      "doc_id": "Dd6e58ea38e",
+      "url": "https://www.gov.uk/government/news/government-moves-to-protect-children-from-abusive-parents-through-new-courts-and-tribunals-bill",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-03-07 — check the dates"
+    },
+    {
+      "doc_id": "De45c2eafa1",
+      "url": "https://www.gov.uk/government/news/new-register-for-people-convicted-of-child-cruelty-offences",
+      "warning": "manifest says 'Jake Richards MP' but the officeholder table says 'David Lammy' for 2026-03-02 — check the dates"
+    },
+    {
+      "doc_id": "De6b9d69f7d",
+      "url": "https://www.gov.uk/government/news/landmark-bill-to-deliver-swifter-justice-for-victims",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-02-25 — check the dates"
+    },
+    {
+      "doc_id": "Dd8be415533",
+      "url": "https://www.gov.uk/government/speeches/we-are-calling-time-on-the-justice-system-of-the-past",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-02-24 — check the dates"
+    },
+    {
+      "doc_id": "D19896a230d",
+      "url": "https://www.gov.uk/government/news/deputy-prime-minister-sets-out-vision-for-the-justice-system",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-02-24 — check the dates"
+    },
+    {
+      "doc_id": "D3a4eb87418",
+      "url": "https://www.gov.uk/government/news/highest-ever-courts-funding-deal-agreed-to-deliver-faster-fairer-justice-for-victims",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-02-24 — check the dates"
+    },
+    {
+      "doc_id": "Da7f9918bff",
+      "url": "https://www.gov.uk/government/news/sri-lanka-looks-to-join-global-charter-on-childrens-care-reform-to-boost-family-based-care",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-02-17 — check the dates"
+    },
+    {
+      "doc_id": "D35053ad623",
+      "url": "https://www.gov.uk/government/news/uks-largest-tribunals-centre-opens-in-london-to-speed-up-delays",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-02-16 — check the dates"
+    },
+    {
+      "doc_id": "Dd4c9188b86",
+      "url": "https://www.gov.uk/government/news/uk-to-champion-how-ai-can-supercharge-growth-unlock-new-jobs-and-improve-public-services-at-ai-impact-summit-in-india",
+      "warning": "manifest says 'The Rt Hon Kanishka Narayan MP' but the officeholder table says 'David Lammy' for 2026-02-16 — check the dates"
+    },
+    {
+      "doc_id": "D00e7822f5f",
+      "url": "https://www.gov.uk/government/news/every-child-caught-with-a-knife-to-get-tailored-support",
+      "warning": "manifest says 'Jake Richards MP' but the officeholder table says 'David Lammy' for 2026-02-11 — check the dates"
+    },
+    {
+      "doc_id": "D18de738968",
+      "url": "https://www.gov.uk/government/news/children-to-get-swifter-justice-thanks-to-renewed-victims-code",
+      "warning": "manifest says 'Alex Davies-Jones MP' but the officeholder table says 'David Lammy' for 2026-02-05 — check the dates"
+    },
+    {
+      "doc_id": "D610861e091",
+      "url": "https://www.gov.uk/government/news/new-prison-houseblocksunder-construction-to-keep-streets-safe",
+      "warning": "manifest says 'Lord Timpson OBE' but the officeholder table says 'David Lammy' for 2026-02-03 — check the dates"
+    },
+    {
+      "doc_id": "D84ae69aa05",
+      "url": "https://www.gov.uk/government/news/dangerous-extremists-face-supermax-style-restrictions-behind-bars--2",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-02-03 — check the dates"
+    },
+    {
+      "doc_id": "Dce337f3b0c",
+      "url": "https://www.gov.uk/government/news/rehana-azam-appointed-as-member-of-the-prison-service-pay-review-body",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-02-03 — check the dates"
+    },
+    {
+      "doc_id": "Dd9e99ba59a",
+      "url": "https://www.gov.uk/government/news/government-action-to-avert-summer-prison-disaster",
+      "warning": "manifest says 'Jake Richards MP' but the officeholder table says 'David Lammy' for 2026-01-29 — check the dates"
+    },
+    {
+      "doc_id": "Df53cf35640",
+      "url": "https://www.gov.uk/government/news/prisoners-turn-new-page-with-launch-of-reading-laureate--2",
+      "warning": "manifest says 'Lord Timpson OBE' but the officeholder table says 'David Lammy' for 2026-01-27 — check the dates"
+    },
+    {
+      "doc_id": "D77a6374e98",
+      "url": "https://www.gov.uk/government/news/courts-expansion-to-deliver-speedier-justice-for-victims",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-01-27 — check the dates"
+    },
+    {
+      "doc_id": "Ded4d0545f1",
+      "url": "https://www.gov.uk/government/news/uk-marks-first-year-of-100-year-partnership-in-kyiv-for-reform",
+      "warning": "manifest says 'The Rt Hon Sir Chris Bryant MP' but the officeholder table says 'David Lammy' for 2026-01-16 — check the dates"
+    },
+    {
+      "doc_id": "Dfd5b886eb8",
+      "url": "https://www.gov.uk/government/news/sentencing-act-ensuring-punishment-cuts-crime-gets-royal-assent",
+      "warning": "manifest says 'Jake Richards MP' but the officeholder table says 'David Lammy' for 2026-01-22 — check the dates"
+    },
+    {
+      "doc_id": "Dceacbf483c",
+      "url": "https://www.gov.uk/government/news/free-access-to-sentencing-remarks-for-all-victims",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-01-19 — check the dates"
+    },
+    {
+      "doc_id": "Dd6ccd0a1e1",
+      "url": "https://www.gov.uk/government/speeches/the-deputy-prime-ministers-speech-to-100-year-partnership-event",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-01-16 — check the dates"
+    },
+    {
+      "doc_id": "D06a39a2d13",
+      "url": "https://www.gov.uk/government/news/battlefield-tactics-to-inspire-uk-fight-against-prison-drones",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-01-16 — check the dates"
+    },
+    {
+      "doc_id": "Dcb9dea3d63",
+      "url": "https://www.gov.uk/government/news/immediate-action-to-improve-hmp-swaleside",
+      "warning": "manifest says 'Lord Timpson OBE' but the officeholder table says 'David Lammy' for 2026-01-14 — check the dates"
+    },
+    {
+      "doc_id": "D80954ef962",
+      "url": "https://www.gov.uk/government/news/nhs-and-probation-join-forces-to-break-cycle-of-reoffending",
+      "warning": "manifest says 'Lord Timpson OBE' but the officeholder table says 'David Lammy' for 2026-01-09 — check the dates"
+    },
+    {
+      "doc_id": "Dfc4514a657",
+      "url": "https://www.gov.uk/government/news/deputy-pm-david-lammy-travels-to-washington-to-kick-off-uk-role-in-americas-250th-celebrations",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-01-07 — check the dates"
+    },
+    {
+      "doc_id": "D674f015f02",
+      "url": "https://www.gov.uk/government/news/thousands-of-new-magistrates-wanted-in-2026-as-government-launches-national-recruitment-campaign",
+      "warning": "manifest says 'The Rt Hon David Lammy MP' but the officeholder table says 'David Lammy' for 2026-01-03 — check the dates"
+    }
+  ],
+  "speaker_sources": {
+    "officeholder_table": 710
+  },
+  "reject_reasons": {
+    "anchor phrase does not appear exactly in the units": 8,
+    "duplicate of an earlier observation": 3,
+    "unit_ids are not contiguous": 1,
+    "passage is not attributable to the speaker": 1,
+    "unit_ids span a paragraph boundary": 1
+  },
+  "by_institution": {
+    "Ministry of Housing, Communities and Local Government": 102,
+    "Department for Education": 35
+  },
+  "files": {
+    "dataset": "runs\\multi-v2\\out\\dataset.csv",
+    "internal": "runs\\multi-v2\\out\\observations_internal.csv",
+    "screening_log": "runs\\multi-v2\\out\\screening_log.csv",
+    "rejected": "runs\\multi-v2\\out\\rejected.csv"
+  }
+}

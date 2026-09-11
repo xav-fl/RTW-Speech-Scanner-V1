@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the specific mechanisms named: a \"Place Unit\" coordinating government departments, \"neighbourhood working,\" \"service integration at the local level,\" \"collaborative partnerships,\" and \"pooled budgets redirected to meet locally defined priorities.\"\n\nThe core substance is about intergovernmental coordination, place-based service delivery, and fiscal pooling at the local/neighbourhood level. This is fundamentally about the structure of subnational government and intergovernmental fiscal relations.\n\n- **H7** (State and Local Government • Intergovernmental Relations) fits best — pooled budgets, local service integration, and coordination across departments are classic intergovernmental/local government economics topics.\n- **R5** (Regional Government Analysis) is a strong secondary — \"place-based delivery\" and neighbourhood-level governance are explicitly spatial/regional government concerns.\n\n{\"primary\": \"H\", \"secondary\": [\"R\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

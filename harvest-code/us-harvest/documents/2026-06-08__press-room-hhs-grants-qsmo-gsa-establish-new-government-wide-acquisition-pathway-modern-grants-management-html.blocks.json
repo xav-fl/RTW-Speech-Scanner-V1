@@ -1,0 +1,59 @@
+{
+ "url": "https://www.hhs.gov/press-room/hhs-grants-qsmo-gsa-establish-new-government-wide-acquisition-pathway-modern-grants-management.html",
+ "institution_id": "us-hhs",
+ "title": "HHS Grants QSMO and GSA Establish New Government‑Wide Acquisition Pathway for Modern Grants Management",
+ "date": "2026-06-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "44c3058df6e7cf2145b829fe437301d4c2722f1edd69edc925cf3ea4b392ab72",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Gus Chiarello",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Gus Chiarello",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

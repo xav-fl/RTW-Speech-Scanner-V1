@@ -1,0 +1,53 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-announces-governmentwide-hiring-push-for-project-management-talent/",
+ "institution_id": "us-opm",
+ "title": "OPM Announces Governmentwide Hiring Push for Project Management Talent",
+ "date": "2026-04-01",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "a8d1614840306c27db1153dca7af9d513763c5bc92caaf8d3c2a21c3b6eecabf",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

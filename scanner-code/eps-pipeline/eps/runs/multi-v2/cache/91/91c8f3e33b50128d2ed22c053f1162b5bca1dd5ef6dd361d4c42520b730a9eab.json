@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about devolving powers to mayors, councils, and communities to drive local economic growth and job creation. The specific mechanism is fiscal/governance decentralization — transferring authority to subnational governments (mayors, councils) to stimulate local economies.\n\nPrimary: **R5** (Regional Government Analysis) — this is squarely about devolving powers to local/regional governments as a mechanism for local economic development.\n\nSecondary: **H7** (State and Local Government • Intergovernmental Relations) — the devolution of powers from central to local government is a classic intergovernmental relations topic.\n\nAlso relevant is local economic growth/job creation, but R5 and H7 capture the core mechanisms named.\n\n```json\n{\"primary\": \"R\", \"secondary\": [\"H\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

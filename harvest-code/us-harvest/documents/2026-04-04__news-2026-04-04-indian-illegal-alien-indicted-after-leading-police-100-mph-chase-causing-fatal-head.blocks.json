@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/04/indian-illegal-alien-indicted-after-leading-police-100-mph-chase-causing-fatal-head",
+ "institution_id": "us-dhs",
+ "title": "Indian Illegal Alien Indicted After Leading Police on 100 MPH Chase, Causing Fatal Head-On Collision that Killed Pregnant 17-Year-Old and Her Unborn Child in Ohio",
+ "date": "2026-04-04",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "3a3e825526ee9a44e7f5ee96d4507ac7ba87491da672d28fc5cb3be893f9d6b7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

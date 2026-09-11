@@ -1,0 +1,77 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-opens-investigations-maryland-state-department-of-education-and-three-maryland-school-districts-alleged-title-ix",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Opens Investigations into Maryland State Department of Education and Three Maryland School Districts for Alleged Title IX Violations",
+ "date": "2026-06-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "4e696263b45394f9301f1d9a5885dee2bc42e03876cf4c5e5544525a8dc882d6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/russia-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Russia National Day",
+ "date": "2026-06-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "3c827caaab5a493c962d0a1176b23f94a992a5dd7ea8f3c25e5661da07ccb931",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

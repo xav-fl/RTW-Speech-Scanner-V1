@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about the UK joining Erasmus+, an international student/teacher/institutional mobility and exchange programme. The core economic content is:\n\n1. **Education** — study abroad, teacher exchange, institutional collaboration across borders (I2: Education and Research Institutions)\n2. **International factor movements** — cross-border mobility of students and teachers (F2: International Factor Movements and International Business)\n\nThe primary substance is educational exchange and collaboration; the international mobility dimension is substantively important as a secondary.\n\n{\"primary\": \"I\", \"secondary\": [\"F\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

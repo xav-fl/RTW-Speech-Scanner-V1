@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/haiti-national-day/",
+ "institution_id": "us-state",
+ "title": "Haiti National Day",
+ "date": "2026-01-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "d944849d31fae583ec1f606db15ef125e476bf034a1b096e463610f663871d1e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

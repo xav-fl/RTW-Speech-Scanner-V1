@@ -1663,12 +1663,13 @@ orchestration in `pipeline.py`.
   the **first** observation only, so a document with no candidates records neither
   — even though a model call was made for it.
 
-### D-14 — The release table is a projection of a wider internal table, and has eight columns
+### D-14 — The release table is a projection of a wider internal table, and has ten columns
 
 - **Location:** `[build/assemble.py:RELEASE_COLUMNS]`,
   `[build/assemble.py:INTERNAL_COLUMNS]`
 - **Decision:** `dataset.csv` carries `agency`, `speaker`, `document_title`,
-  `document_type`, `date`, `url`, `direct_quote`, `economics_topics`.
+  `document_type`, `date`, `url`, `direct_quote`, `economics_topics`,
+  `jel_major_categories`, `jel_subcategories` (the last two per D-21).
   `observations_internal.csv` adds JEL at all three levels, hashes, provenance and
   the model's reason. Both are written from the same row dictionaries.
 - **Rationale:** The release format can change without re-running anything.
@@ -1689,6 +1690,41 @@ orchestration in `pipeline.py`.
 - **Context:** The AEA's own titles contain semicolons, so the field's separator
   also occurs inside its values. Anyone splitting the column on ";" will
   over-split. The internal table's separate code columns are the safe parse.
+
+### D-21 — The release table names the parent JEL levels alongside the codes
+
+- **Location:** `[build/assemble.py:_topics_at()]`
+- **Decision:** `dataset.csv` gains `jel_major_categories` and
+  `jel_subcategories`, each the same assignments as `economics_topics` rolled up
+  to one level and formatted the same way — `I — Health, Education, and Welfare`,
+  code and AEA title, joined with "; ". Assignments sharing a parent name it
+  once, so two codes under `I` give one `I` label rather than two.
+- **Rationale:** Requested by the supervisor. `economics_topics` gives whatever
+  level the model reached, so a reader meets `I38` with nothing to say it sits
+  under welfare policy under health and education. The parent codes alone would
+  not fix that — `I` is no more legible than `I38` — so both columns carry the
+  title, which is the part that supplies the context.
+- **Status:** Settled and implemented. `eps build` is the only writer of
+  `dataset.csv` (`cmd_build` → `pipeline.build` → `observation_row` →
+  `write_dataset`), so the columns are produced by every run from here on.
+  Verified by replaying `eps build` for `dfe-pilot` from the stored pickles:
+  the rebuilt release table matched the backfilled one in all 10 columns of all
+  17 rows. `test_release_header_is_the_agreed_contract` pins the header on
+  disk — `observation_row` producing a key is not the same as `write_dataset`
+  writing the column, since the writer has its own field list and drops what is
+  missing from it without complaint (`extrasaction="ignore"`).
+
+  The four completed runs (`dfe-pilot`, `dfe-v2`, `multi-v1`, `multi-v2` — 187
+  rows) were backfilled rather than re-run: this is a projection change (D-14),
+  and the internal table already held every level involved. The backfill checked
+  that the two tables still agreed row-for-row on the old columns before
+  rewriting either.
+- **Context:** A secondary's major is not in the internal table (D-16), so the
+  backfill took it from the frozen taxonomy's `parent` link rather than from the
+  first character of the subcategory code — the two agree today, but only one of
+  them is the taxonomy speaking. The semicolon caveat in D-15 applies to these
+  columns too: AEA titles contain semicolons, so the separator occurs inside the
+  values, and the internal table's separate code columns remain the safe parse.
 
 ### D-16 — Secondary JEL codes are recorded at subcategory level only
 

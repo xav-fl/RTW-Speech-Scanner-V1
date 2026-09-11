@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about restructuring the relationship between service users and service providers in public services — specifically shifting accountability and decision-making power toward users. The core mechanism is governance/accountability reform in public service delivery.\n\nThe specific mechanism: empowering service users relative to providers = a governance/accountability reform in publicly provided services.\n\n- **H4** (Publicly Provided Goods) fits well — it covers the provision of public services and how they are organized and delivered.\n- **D7** (Analysis of Collective Decision-Making) is relevant because the statement is about accountability structures and who has decision-making power.\n- **L3** (Nonprofit Organizations and Public Enterprise) could apply to public service providers, but H4 is more direct.\n\nThe primary dimension is public service accountability/governance → H4 under H (Public Economics).\nA secondary dimension is the collective decision-making / principal-agent accountability structure → D7.\n\n{\"primary\": \"H\", \"secondary\": [\"D\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

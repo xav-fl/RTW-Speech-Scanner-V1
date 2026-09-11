@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/03/16/dhs-law-enforcement-arrests-afghan-national-previously-convicted-indecent-exposure",
+ "institution_id": "us-dhs",
+ "title": "DHS Law Enforcement Arrests Afghan National Previously Convicted of Indecent Exposure to a Minor Who Entered U.S. Under Biden’s Operation Allies Welcome",
+ "date": "2026-03-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "47b83ecba7abebfa1a7a5be9400f17df244b825b8d4f24d6d780a153835977ee",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

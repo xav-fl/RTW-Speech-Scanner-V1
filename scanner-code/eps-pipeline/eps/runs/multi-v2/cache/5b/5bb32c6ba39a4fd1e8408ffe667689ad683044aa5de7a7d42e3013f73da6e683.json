@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about regulatory amendments to exceptions for council tax premiums — this is about local property/council tax rules, specifically the premium surcharge on certain properties (e.g., empty homes, second homes) and the exceptions to those premiums.\n\nThe specific mechanism: amendments to eligibility exceptions for a local tax premium (council tax). This is squarely about local government taxation rules.\n\n- Primary: **H2** (Taxation, Subsidies, and Revenue) — the substance is about tax rules (council tax premiums and their exceptions)\n- Secondary: **H7** (State and Local Government) — council tax is a local government tax instrument\n\n{\"primary\": \"H2\", \"secondary\": [\"H7\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

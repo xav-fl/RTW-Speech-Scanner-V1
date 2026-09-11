@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/united-states-conducts-inspections-in-antarctica/",
+ "institution_id": "us-state",
+ "title": "United States Conducts Inspections in Antarctica",
+ "date": "2026-01-22",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "81c0cf39667827992fbb056b6295c66b86a9564e1f898f352fd51c1c568dab15",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

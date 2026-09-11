@@ -1,0 +1,136 @@
+TITLE: New auction delivers unprecedented clean, homegrown power
+URL: https://www.gov.uk/government/news/new-auction-delivers-unprecedented-clean-homegrown-power
+DATE: 2026-02-10
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Ed Miliband MP
+
+---
+
+Record solar, onshore wind, and tidal projects - building on last month’s offshore wind success - deliver Britain’s biggest-ever clean energy auction
+
+Largest ever procurement of solar projects in the UK – 4.9 GW secured – providing a major boost for one of the cheapest and cleanest energy sources available
+
+Taken together with offshore wind results, government secures 14.7 GW of clean, homegrown power enough to power equivalent of 16 million homes
+
+New clean, homegrown power secured today will reduce energy bills for families, deliver clean power by 2030 and give Britain energy sovereignty
+
+Britain has taken another significant leap towards energy independence and lower bills as it announces record levels of new solar and onshore wind projects as part of its latest renewables auction.
+
+This comes just weeks after the government delivered the single biggest procurement of offshore wind that Europe has seen, confounding the global challenges facing the industry and securing a major vote of confidence in the UK’s clean energy mission.  
+
+Today’s outcome builds on that success with a record number of solar projects secured, the largest onshore wind project to be successful in England in a decade, and new tidal stream schemes. Combined with January’s offshore wind results, the government has now delivered a record 201 projects, generating 14.7 GW of new clean power - enough to supply the equivalent of 16 million homes.  
+
+This puts the UK on track for its 2030 clean power target, securing clean, homegrown energy at good value for billpayers - once again proving that clean power is the right choice for energy security and to meet rising electricity demand. New onshore wind has been agreed at a price of £72.24/MWh and new solar at £65.23/MWh, both under half the £147/MWh cost of building and operating new gas power stations. 
+
+Once built and generating, new clean, homegrown power secured today will reduce bills for households and drive down wholesale prices, while protecting families and businesses from fossil fuel price shocks that have triggered half of all recessions since the 1970s. 
+
+These projects deliver major infrastructure for the country as Britain races to cut energy bills and meet future electricity demand – unlocking an additional £5 billion in private sector investment and supporting up to 10,000 jobs. Successful projects include:
+
+Imerys Wind Farm in Cornwall – the largest onshore wind project to be successful in England in a decade, helping rebuild an industry that was stagnant under the de facto onshore wind ban
+
+Sanquhar II Wind Farm in Dumfries and Galloway in Scotland - the fourth largest onshore wind farm in the UK - driving growth and private investment across the region  
+
+West Burton solar farm - a Nationally Significant Infrastructure Project that is now the largest solar farm ever to win a government renewables contract, transforming the home of the last coal-fired power station into a powerhouse of clean, secure, homegrown energy that Britain controls
+
+Britain is building clean, homegrown energy at every scale – these results follow the publication of the Local Power Plan by the government and Great British Energy. A fund of up to £1 billion will enable communities across the UK to own and control their own clean energy projects, building community wealth through the largest public investment in community energy in this country’s history.
+
+It also follows wider action to cut energy bills, including taking an average £150 of costs off bills from April and delivering the biggest ever public investment in home energy upgrades through the Warm Homes Plan.
+
+Energy Secretary Ed Miliband said: 
+
+These results shows once again that clean British power is the right choice for our country, agreeing a price for new onshore wind and solar that is over 50% cheaper than the cost of building and operating new gas.  
+
+By backing solar and onshore wind at scale, we’re driving bills down for good and protecting families, businesses, and our country from the fossil fuel rollercoaster controlled by petrostates and dictators. This is how we take back control of our energy and deliver a new era of energy abundance and independence.
+
+Head of Mission Control, Chris Stark said:   
+
+Today’s record results are another boost for Britain’s 2030 clean power mission. They mean more homegrown power, greater energy security, at a good price for the consumer.
+
+With each new solar and onshore wind project we reduce Britain’s reliance on gas power plants, insulating families from the next spike in global gas prices.
+
+Neil McDermott, Chief Executive of the Low Carbon Contracts Company (LCCC), said: 
+
+These results demonstrate the enormous contribution the CfD is making to Great Britain’s electricity system. 
+
+Together these projects will provide new renewable electricity generation at scale, particularly when paired with the record offshore wind capacity contracted in AR7.  
+
+LCCC is proud to be managing these contracts, providing certainty to investors and supporting British jobs.
+
+Rebecca Beresford, Director of Markets at the National Energy System Operator (NESO), said: 
+
+Providing certainty for developers is critical to delivering on our collective future energy needs. We’re really proud of the work our teams do to help deliver these auctions and to administer the Contracts for Difference process.
+
+Factsheet
+
+Solar: 
+
+Capacity secured: 4.9 GW 
+
+Number of projects: 157 
+
+Onshore wind: 
+
+Capacity secured: 1.3 GW 
+
+Number of projects: 28 
+
+Tidal: 
+
+Capacity  secured: 20.9 MW 
+
+Number of projects: 4 
+
+Offshore wind (fixed and floating): 
+
+Capacity secured: 8.4 GW 
+
+Number of projects: 12
+
+Notes to editors
+
+successful projects can be found here: Contracts for Difference (CfD) Allocation Round 7: results
+
+AR7 as a whole is the largest CfD round ever in awarded capacity – 14.7 GW. The next largest rounds were AR4 which awarded 10.8 GW and AR6 which awarded 9.6 GW   
+
+largest CfD round in terms of number of projects awarded – AR6 was previously the largest round (131 projects). In AR7, a total of 189 projects were awarded in Pots 1 & 2 alone, 201 projects in total across whole round
+
+bill impacts based on DESNZ internal analysis of potential consumer bills under a scenario where Solar and Onshore Wind is delivered by AR7 in addition to existing and committed low carbon generation. This considered household bill impacts over the period 2031-35 (when additional renewable capacity would be fully deployed) and found that the average electricity bill for an exemplar ‘dual fuel, non-EV owning’ household would be lower compared to today (in real terms). This analysis focussed on the incremental impact of the AR7 capacity and as such does not represent a full estimate of future bill levels. For example this analysis doesn’t include all potential bill reduction measures such as those announced in the budget
+
+Technology
+ AR7
+
+Contextual Information
+
+ASP (£/MWh - 2024)
+ Clearing Price (£/MWh - 2024)
+ Discount on ASP
+
+LCOE (£/MWh - 2024)
+
+LCOE Gas CCGT, 30% Load Factor (£/MWh - 2024)
+ Clearing Price Discount on LCOE Gas CCGT, 30% Load Factor
+
+Onshore Wind
+ 92
+ 72.24
+ 21%
+ 58
+ 147
+ 51%
+
+Solar PV
+
+75
+ 65.23
+ 13%
+ 60
+ 147
+ 56%
+
+Note: estimates for the levelised cost of electricity (LCOE) shown in the table above are for plants commissioning in 2030. This table is for Onshore Wind, Large Scale Solar PV and Gas CCGT, where a 30% Load Factor is assumed for gas. Generation cost information (LCOE) available here: Electricity generation costs 2025 - GOV.UK
+
+the homes powered estimate reflects the equivalent number of homes that could be powered based on an estimate of the annual generation from the capacity procured in AR7. It is not possible to continuously power a home through intermittent renewables – this capacity will work alongside the rest of the electricity system to power homes and businesses. The estimate is calculated using published subnational electricity consumption data  and technology specific load factor assumptions published in the CfD Allocation Round 7 contract allocation framework. The actual generation will vary based on site specific factors. 
+
+investment figures are based on generation costs data published for Onshore Wind and Solar in the link provided above. 
+
+jobs figures represent the maximum number of direct and indirect jobs which could be supported at the peak across both Solar and Onshore Wind. The figures are estimated using the DESNZ published methodologies for each technology which are available here: Solar -  Job estimates for solar PV by 2030: methodology note - GOV.UK; Onshore Wind - Job estimates for wind generation by 2030: methodology note - GOV.UK

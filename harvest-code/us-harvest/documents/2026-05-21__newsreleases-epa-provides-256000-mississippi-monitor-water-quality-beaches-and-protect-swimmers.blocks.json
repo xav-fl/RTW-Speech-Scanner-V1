@@ -1,0 +1,71 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-provides-256000-mississippi-monitor-water-quality-beaches-and-protect-swimmers",
+ "institution_id": "us-epa",
+ "title": "EPA Provides $256,000 to Mississippi to Monitor Water Quality at Beaches and Protect Swimmers",
+ "date": "2026-05-21",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "29660fa13342d2171782387ab2b359f00c45e6c29463928c403215ec88c6f427",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

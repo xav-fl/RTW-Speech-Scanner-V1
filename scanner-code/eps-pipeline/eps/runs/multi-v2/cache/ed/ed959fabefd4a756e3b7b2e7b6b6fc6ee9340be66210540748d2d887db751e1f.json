@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes the creation of a permanent National Housing Bank with £16 billion of financial capacity — a public financial institution specifically targeting housing finance.\n\nThe specific mechanism: a government-backed financial institution (bank) providing capital/credit for housing.\n\n- Primary: **R** (Urban, Rural, Regional, Real Estate, and Transportation Economics — specifically R3, real estate markets, and housing finance)\n- Secondary: **G** (Financial Economics — G2, financial institutions and services, since this is explicitly a bank/financial institution being created)\n- H could apply (public expenditure/publicly provided goods), but the substance is the housing finance institution, not general public finance.\n\n{\"primary\": \"R\", \"secondary\": [\"G\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

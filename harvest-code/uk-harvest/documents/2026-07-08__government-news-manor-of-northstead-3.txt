@@ -1,0 +1,9 @@
+TITLE: Manor of Northstead
+URL: https://www.gov.uk/government/news/manor-of-northstead--3
+DATE: 2026-07-08
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+The Chancellor of the Exchequer has this day appointed Nigel Paul Farage to be Steward and Bailiff of the Manor of Northstead.

@@ -1,0 +1,67 @@
+WASHINGTON – Today, U.S. Environmental Protection Agency (EPA) established the strongest protections in agency history for over-the-top (OTT) dicamba application on dicamba-tolerant cotton and soybean crops. This decision responds directly to the strong advocacy of America's cotton and soybean farmers, particularly growers across the Cotton Belt, who have been clear and consistent about the critical challenges they face without access to this tool for controlling resistant weeds in their growing crops. Dicamba has already been on the market and available for sale and in wide, continuous use on farms across the United States regardless of and prior to today’s announcement, which is specifically focused on OTT application.
+
+President Trump has remained deeply committed to supporting America's farmers and rural communities. This action reflects his administration's commitment to ensuring farmers have the tools they need to succeed while protecting the environment with the strongest safeguards ever imposed on OTT dicamba use. Cotton farmers across the southern United States have been particularly vocal about why they need OTT dicamba as herbicide-resistant weeds like Palmer amaranth have become nearly impossible to control with other available tools, threatening crop yields and farm viability. These "super weeds" can grow 3 inches per day and destroy entire fields. Without effective weed management during the growing season, these producers face devastating economic losses. This temporary approval reflects the voices of farmers who depend on this tool using informed restrictions and safety measures.
+
+From day one of this review, EPA committed to gold-standard science and radical transparency. We conducted a thorough pesticide evaluation, using the best available data and reviewing hundreds of publicly available independent, peer-reviewed studies and real-world field results to conduct a comprehensive human health and ecological risk assessment. To be clear, these studies involved pesticide applicators with decades of intensive exposure, not typical consumers. EPA took these studies seriously, carefully considered them in our risk assessments, and built extra protections into the registration to reduce worker contact with the product.
+
+Additionally, the ecological risks associated with dicamba drift and volatility are real. If not carefully mitigated, off-target movement of dicamba can damage sensitive plants and impact neighboring farms and natural ecosystems. These concerns are exactly why the strongest safeguards ever are essential.
+
+When applied according to the new label instructions, EPA's analysis found no unreasonable risk to human health and the environment from OTT dicamba use. EPA recognizes that previous drift issues created legitimate concerns, and designed these new label restrictions to directly address them, including cutting the amount of dicamba that can be used annually in half, doubling required safety agents, requiring conservation practices to protect endangered species, and restricting applications during high temperatures when exposure and volatility risks increase. This determination supports a time limited approval covering only the next two growing seasons and will be subject to further review.
+
+We will continue to track real-world outcomes, and adjust course quickly if new information emerges. EPA’s commitment is clear: protect communities and ecosystems with uncompromising science while providing farmers the tools they need to succeed responsibly.
+
+EPA is requiring an extensive suite of mitigation measures, each designed to reduce drift, minimize volatility, and protect ecosystems:
+
+New Restrictions for 2026 Registration
+
+Maximum application rate cut in half: A maximum of two applications of 0.5 lbs. of dicamba per acre may be made annually, for a maximum of 1.0 lb. of all dicamba products annually.* This directly reduces the total amount of dicamba in the environment and limits potential exposure to sensitive species.
+
+Doubled volatility reduction agents: 40 oz./acre of approved Volatility Reduction Agent (VRA) must be added to every application.** This significantly reduces the likelihood that dicamba will volatilize (turn into vapor) after application and drift off-target hours or days later—one of the primary pathways for environmental damage.
+
+Mandatory conservation practices: Growers must achieve 3 runoff/erosion mitigation points from EPA's certified conservation practices menu on each treated field to protect endangered and threatened species. In some geographically-specific pesticide use limitation areas (PULAs) where especially vulnerable species require additional safeguards, 6 points are required. These practices—such as vegetative buffers, contour farming, and cover crops—physically prevent dicamba from moving off-field in runoff or eroded soil, protecting waterways and habitats.
+
+Temperature-based application limits: For applications occurring on a day with a forecasted temperature between 85-95°F on the day of or the day after application, a user may only treat up to 50% of their untreated dicamba-tolerant (DT) cotton and soybean acres in a county. Remaining DT cotton and soybean acres may not be treated until at least two days after the initial application. This reduces risk during conditions when volatility and drift are elevated. No applications may occur if the temperature is forecasted to be at or above 95°F on the day of or the day after a planned application, eliminating applications during the highest-risk conditions.
+
+*The 2020 registration permitted up to four applications of 0.5 lbs./acre (only two could be over-the-top) for a total of 2.0 lbs. of dicamba annually.
+
+Legacy Restrictions Retained on the 2026 Registration
+
+Restricted Use Pesticide designation: Only certified applicators may use this product, ensuring applications are made by trained professionals who understand the risks.
+
+Annual mandatory training: Certified applicators must complete annual training specific to OTT dicamba use, keeping users informed of label requirements, best practices, and environmental protection guidelines.
+
+Personal protective equipment (PPE): Several products require loaders, mixers, handlers, and applicators to wear label-approved PPE, directly reducing worker exposure.
+
+24-hour Restricted Entry Interval (REI): No one may re-enter a treated field within 24 hours of application, protecting workers and the public from exposure.
+
+Mandatory Drift Reduction Agent (DRA): An approved DRA must be added to every tank mix, creating larger, heavier droplets that are less likely to drift off-target.
+
+240-ft. downwind spray drift buffer:* A substantial physical buffer must be maintained during applications to protect adjacent areas. This distance may be decreased only if additional label-approved mitigations (hooded sprayers, downwind windbreaks, etc.) are used, ensuring protection is maintained.
+
+Strict application timing restrictions: Applications may not be made during a temperature inversion (when atmospheric conditions trap pesticides near the ground and increase drift risk), within 48 hours ahead of forecasted rainfall (which can wash dicamba off-target), if soil is saturated with water, or within one hour after sunrise or after two hours before sunset (when inversions are most likely). These timing restrictions target the specific weather conditions that have historically led to drift problems.
+
+Proximity restrictions: Applications are prohibited if dicamba-sensitive crops or plants are in downwind areas,**** preventing direct harm to vulnerable species and neighboring crops.
+
+Wind speed requirements: Applications must take place when wind speed is between 3-10 mph—strong enough to prevent inversions but not so strong as to cause excessive drift.
+
+Droplet size requirements: Applications must use coarse or coarser spray droplets, which are heavier and less prone to drift than fine droplets.
+
+Low spray height: Spray release height must be no higher than 2 feet above the ground or crop canopy, minimizing the distance droplets can drift before reaching their target.
+
+Aerial application prohibition: Aerial application is completely prohibited, eliminating a higher-risk application method.
+
+Tank mixing prohibition: Tank mixing with ammonium sulfate-containing products is prohibited because these products can increase volatility.
+
+Mandatory record keeping: Specific records must be kept of every application to ensure consistency with all label requirements and enable enforcement.
+
+***The distance of downwind spray drift buffers may be decreased if other label-approved mitigations are used (use of a hooded sprayer, a downwind windbreak, etc.)
+
+****A list of dicamba-sensitive plants and crops is provided on the label.
+
+EPA is making clear that these restrictions are not optional suggestions. They are enforceable legal requirements. Applicators who fail to follow label directions are subject to significant penalties under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA), including civil fines and, in cases of knowing violations, criminal prosecution. EPA will work with state enforcement to actively monitor compliance, and violations will be met with serious consequences.
+
+We will continue to track real-world outcomes, require manufacturers to provide additional data if necessary, and will not hesitate to adjust restrictions or revoke approvals quickly if new information emerges showing risks are not being adequately controlled. This two-season limited approval provides a critical checkpoint. EPA will comprehensively review performance data, incident reports, and environmental monitoring results before considering any future approvals.
+
+Throughout the review process, farmers, workers, environmental organizations, and the public submitted thousands of comments, all of which EPA carefully considered. This decision reflects a careful balance between protecting ecological health and community well-being and supporting farmers’ pressing need for effective weed-control tools.
+
+EPA’s highest priority remains safeguarding human health and the environment. This registration marks an important milestone in the agency’s ongoing work to strengthen pesticide oversight, enhance safety through transparency, and ensure that all regulatory decisions are guided by the best available science.

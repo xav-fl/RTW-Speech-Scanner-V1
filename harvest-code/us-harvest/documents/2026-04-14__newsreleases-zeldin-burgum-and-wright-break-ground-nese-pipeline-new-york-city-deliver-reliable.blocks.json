@@ -1,0 +1,95 @@
+{
+ "url": "https://www.epa.gov/newsreleases/zeldin-burgum-and-wright-break-ground-nese-pipeline-new-york-city-deliver-reliable",
+ "institution_id": "us-epa",
+ "title": "Zeldin, Burgum, and Wright Break Ground on NESE Pipeline in New York City to Deliver Reliable, Affordable Natural Gas to the Northeast",
+ "date": "2026-04-14",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "1dd320af7af8ba45cc525e6453e41b2f60a8ab3b1d0f0cc1cb4def6ceff92531",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Secretary of the Interior Doug Burgum",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Secretary of the Interior Doug Burgum",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Secretary of the Department of Energy Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Secretary of the Department of Energy Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Williams Companies CEO Chad Zamarin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

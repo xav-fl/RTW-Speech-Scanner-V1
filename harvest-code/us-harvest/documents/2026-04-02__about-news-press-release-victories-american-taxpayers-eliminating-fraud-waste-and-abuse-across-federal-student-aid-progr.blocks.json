@@ -1,0 +1,71 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/victories-american-taxpayers-eliminating-fraud-waste-and-abuse-across-federal-student-aid-programs",
+ "institution_id": "us-education",
+ "title": "Victories for American Taxpayers: Eliminating Fraud, Waste, and Abuse Across Federal Student Aid Programs",
+ "date": "2026-04-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "1386900812ff864a069a61662cd89a8a75b028c3ef971e0d9654f72546eeb011",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

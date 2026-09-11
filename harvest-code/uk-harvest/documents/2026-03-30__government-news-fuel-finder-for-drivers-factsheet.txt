@@ -1,0 +1,71 @@
+TITLE: Fuel Finder for drivers: Factsheet
+URL: https://www.gov.uk/government/news/fuel-finder-for-drivers-factsheet
+DATE: 2026-03-30
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+Find the cheapest fuel prices near you
+
+Fuel Finder is a new scheme designed to help drivers find the cheapest fuel near them.
+
+Fuel Finder data is available on a range of third-party mapping and price comparison tools to help drivers shop around for the best deals at the pump.
+
+You can find the cheapest petrol and diesel prices near you on apps and websites, with examples including:
+
+Confused.com
+
+DriveScore
+
+Fuel Finder UK
+
+Fuel Spy
+
+MoneySuperMarket
+
+MotorMouth
+
+PetrolPrices.com
+
+RAC Fuel Watch
+
+Under the scheme, petrol stations across the UK are required to report their fuel prices within 30 minutes of any change.   
+
+We estimate this will save households who own a car an average of £40 a year. It is intended to strengthen competition between retailers over time, bringing down the price for all drivers.
+
+Which apps or websites should I use?
+
+Fuel finder data is already being used by some of the UK’s most popular price comparison sites. As it is a new scheme, some developers are still working to integrate the data into their apps and sites. We anticipate it rolling out more widely very soon.   
+
+Drivers should search online for the app or site that works best for them.    
+
+Drivers can alternatively download data directly, but as the data is intended for website and app developers, it will not be a useful format for everyone.
+
+Are my local petrol stations reporting data to Fuel Finder?  
+
+The scheme places a mandatory obligation on all petrol filling stations in the United Kingdom to submit their pricing data. 
+
+Around 90% of petrol stations are now signed up to Fuel Finder, and we require all outstanding stations to start sharing their prices with Fuel Finder now.
+
+Should a small number of stations continue not to share prices, the Competition and Markets Authority have the power to take enforcement action against them.  
+
+What if I see an error?  
+
+If you visit a petrol station and the price does not match up, you can report it directly to the government’s service.  
+
+How else is the government backing drivers?  
+
+At Budget 2025, the government extended the freeze on fuel duty to the end of August 2026.   
+
+In March 2026 the Chancellor and Energy Secretary asked the CMA to crack down on any ripoffs on road fuel pricing, warning they will not tolerate firms exploiting recent price fluctuations to make excess profits.
+
+This is the latest in a wider set of measures to support drivers, including:  
+
+electric vehicle grants of up to £3,750   
+
+record investment in road resurfacing and tackling potholes  
+
+a national parking platform to allow drivers to use one app for payment rather than multiple  
+
+Fuel Finder comes on top of other measures to help people across the UK more generally with the cost of living.

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about land registration, property rights protection, and efficient property markets. The specific mechanisms are: a registry system for ownership records, legal protection of property rights, and market efficiency in property transactions.\n\n- R3 (Real Estate Markets) fits the property market efficiency dimension.\n- K1 (Basic Areas of Law — property law, registration) fits the legal protection/registration dimension.\n\nPrimary: R (Real Estate Markets, Spatial Production Analysis) — specifically R3\nSecondary: K (Law and Economics) — property rights registration and legal protection\n\n{\"primary\": \"R\", \"secondary\": [\"K\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

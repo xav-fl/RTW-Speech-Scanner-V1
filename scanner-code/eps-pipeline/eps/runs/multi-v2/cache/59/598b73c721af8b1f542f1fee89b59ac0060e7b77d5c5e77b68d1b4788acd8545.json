@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the quotation, the key mechanisms named are:\n- \"Pride in Place\" as an engine for **work and skills** — employment pipeline\n- **Long-term regeneration** — place-based economic development\n\nThe specific substance is: a place-based regeneration program creating employment pipelines and skills development. This is fundamentally about regional/urban regeneration (R) with a labor/skills dimension (J).\n\nThe primary economic content is place-based regeneration — creating sustained local economic development through employment pipelines. This fits R (Urban, Rural, Regional Economics), specifically R1 (General Regional Economics) or R5 (Regional Government Analysis).\n\nThe secondary substantive dimension is the employment pipeline and skills — J2 (Demand and Supply of Labor) or J4 (Particular Labor Markets).\n\n{\"primary\": \"R\", \"secondary\": [\"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

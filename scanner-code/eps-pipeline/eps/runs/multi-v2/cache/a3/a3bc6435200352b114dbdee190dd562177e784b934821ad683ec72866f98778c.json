@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the quotation, the specific mechanism described is: combining an AI incubator team and digital centre of government with education department expertise — this is about applying AI/digital innovation to education policy through inter-departmental coordination.\n\nThe core economic content involves:\n1. **Innovation/technology policy** — AI incubator, digital centre of government (O3: Innovation, R&D, Technological Change)\n2. **Education** — the education department's expertise being combined with tech innovation (I2: Education and Research Institutions)\n\nThe primary substance is the application of AI/digital innovation (O3) with education as the domain context (I2). The statement is fundamentally about technological innovation policy being merged with education governance.\n\n{\"primary\": \"O\", \"secondary\": [\"I\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/18/serial-immigration-fraudster-working-minnesota-corrections-officer-arrested",
+ "institution_id": "us-dhs",
+ "title": "Serial Immigration Fraudster Working as a Minnesota Corrections Officer Arrested",
+ "date": "2026-02-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "ee1c6f8358f7e3a2ffa8e660504738dacd7a8274b7e9356534d355534aa35fe0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "USCIS Director Joseph Edlow",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "USCIS Director Joseph Edlow",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

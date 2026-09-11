@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260106",
+ "institution_id": "us-labor",
+ "title": "Court orders California construction contractor to pay $770K in back wages, damages after federal investigation finds minimum wage, overtime violations",
+ "date": "2026-01-06",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "d4f3c651fbd2be54c1db05c23edf8fa8beba83c61465b4267bc6b006dee6e790",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Regional Solicitor of Labor Marc Pilotin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Regional Solicitor of Labor Marc Pilotin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

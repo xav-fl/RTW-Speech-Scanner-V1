@@ -1,0 +1,87 @@
+TITLE: Healthcare innovator appointed to Health Data Research Service
+URL: https://www.gov.uk/government/news/healthcare-innovator-appointed-to-health-data-research-service
+DATE: 2026-01-12
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Dr Zubir Ahmed MP
+
+---
+
+Dr Melanie Ivarsson appointed as CEO of HDRS to accelerate medical breakthroughs
+
+Service will slash red tape to improve access to health data for approved researchers
+
+HDRS could set the UK on a path to cure diseases like cancer, dementia and arthritis quicker
+
+An industry innovator has been appointed to lead the government’s new health data research body, spearheading efforts to accelerate the discovery of life-saving drugs and make Britain the best place in the world for medical research.
+
+Dr Melanie Ivarsson has today (12 January 2026) been announced as the Chief Executive Officer of the new Health Data Research Service (HDRS), which is backed by up to £600 million in funding from the government and Wellcome.
+
+Dr Ivarsson brings a wealth of expertise in healthcare innovation and industry, having led the clinical trials that produced one of the world’s first COVID-19 vaccines at Moderna. She has also held senior roles at pharmaceutical firms Eli Lilly, Pfizer and Takeda and has a strong research background, conducting post-doctoral research at New York University in the US and Lund University in Sweden.
+
+HDRS will streamline processes for approved researchers in both commercial and academic sectors to develop new medicines and therapies, while upholding rigorous safeguards for data security, privacy and ethical oversight.
+
+Currently, obtaining health data can be slow, complex and fragmented but HDRS will slash red tape and provide a secure single access point to national-scale datasets.
+
+This will give patients better access to new treatments and technologies, and could set the UK on a path to cure cancer, dementia and arthritis quicker.
+
+The new research body is a key part of the government’s Plan for Change, which is committed to building a future-ready NHS using data and technology to overcome challenges and improve healthcare for all.
+
+Dr Zubir Ahmed, Minister for Health Innovation, said:
+
+Speaking to healthcare leaders across the globe, I know the unique potential of NHS data to transform patient care in the UK when used safely and securely.
+
+I am delighted to announce Melanie Ivarsson’s appointment. Her experience leading some of the most important discoveries in healthcare is exactly the sort of expertise we need leading our HDRS.
+
+By combining the care of the NHS with the ingenuity of our world-leading scientists, our health service can truly become the envy of the world once again.
+
+Dr Melanie Ivarsson OBE, incoming HDRS CEO, said:
+
+I am delighted to join HDRS as its first CEO. Having seen first-hand what we can achieve when health and care data is utilised for research, I’m excited to work across the 4 nations of the UK and with partners across the life sciences ecosystem to turn the HDRS ambition into reality.
+
+HDRS brings access to data for medical research into one secure and easy-to-use location, meaning a researcher does not have to navigate different systems or make multiple applications for information for the same project.
+
+Patient confidentiality will continue to be held to a gold standard - with rigorous security measures being in place, like anonymity and virtual locked rooms, to ensure no one’s health data is compromised. 
+
+Dr Ivarsson’s appointment follows Baroness Blackwood being announced as HDRS Chair in November, as the service mobilises to become operational in December this year.
+
+The new service will be housed at the Wellcome Genome Campus in Cambridgeshire, where Wellcome is building a range of new R&D laboratory and office spaces to expand the current campus’s capacity for innovative genomics and biodata companies.
+
+Science Minister Lord Vallance said:
+
+Melanie’s CV speaks for itself, not least her leadership of Moderna’s mRNA vaccine programme which formed an important part of the fight against COVID-19. With decades of experience in clinical research and innovation, and a track record for building and leading teams, she is an ideal leader for HDRS.
+
+HDRS will be instrumental in ensuring that health data is used to improve health, speeding up discoveries and providing information to enhance healthcare delivery. By streamlining access to NHS health data, it will lead to better prevention, treatment and cures for all of us.
+
+Beth Thompson, Executive Director for Policy and Partnerships at Wellcome, said:
+
+I am delighted that Melanie is joining as CEO, marking an exciting milestone for HDRS. Her vast experience in R&D and leadership of strategic life science programmes will be invaluable in heading an organisation at the forefront of UK health research.
+
+HDRS will be pivotal in helping researchers make new discoveries that transform our understanding of life and wellbeing, ultimately improving health for everyone. We are excited to work with Melanie and the UK health research community to continue developing HDRS.
+
+Baroness Nicola Blackwood, HDRS Chair, said:
+
+I am thrilled to welcome Dr Ivarsson to work alongside me as CEO of HDRS. Her deep industry and academic experience that combines clinical innovation and patient-focused research means HDRS is in excellent hands.
+
+Scotland, Wales and Northern Ireland have agreed in principle to the UK-wide ambition, and work will continue collaboratively to ensure HDRS brings benefits across all 4 nations. 
+
+The service builds on recent government reforms that have halved the time it takes to approve clinical trials from 91 to 41 days, ensuring patients can participate in potentially life-changing research several weeks sooner than before. Our 10 Year Health Plan will also see commercial clinical trial set-up times fall to 150 days or fewer by March 2026 - the most ambitious reduction in trial set-up times in British history.
+
+The government’s Life Sciences Sector Plan, backed by over £2 billion of investment, is ensuring that the UK remains at the forefront of medical innovation. 
+
+Professor Dame Anna F Dominiczak, Chief Scientist (Health) Scottish Government, said:
+
+We welcome this key step to establishing HDRS and look forward to working with both Dr Melanie Ivarsson and Baroness Blackwood on this important initiative.
+
+Dr Isabel Oliver, Chief Medical Officer for Wales, said:
+
+Congratulations to Dr Ivarsson on her appointment. A collaborative UK vision and approach for a UK HDRS provides a pivotal opportunity to capitalise on the expertise and data assets across all 4 nations, presenting a service that can empower research and innovation to benefit patients, tackle inequalities and grow our life sciences sectors.
+
+I look forward to working with Dr Ivarsson to develop the vision for the service and how it may benefit the people of Wales and the rest of the UK.
+
+Dr Paul Rice, Chief Digital Information Officer, Department of Health Northern Ireland, said:
+
+We heartily congratulate Dr Ivarsson on her appointment and look forward to working together to generate a common UK-wide vision and consistent approach as the UK HDRS.
+
+This collaboration enables us to leverage the talent, capacity and resource in each jurisdiction to deliver world class research and innovation to benefit everyone within our communities, those in receipt of health and care and those presently excluded or under-represented.
+
+It will be a catalyst to the establishment of a thriving life sciences sectors, generating highly skilled high value employment opportunities. We look forward to working with Dr Ivarsson to further develop the ambitious vision for HDRS ensuring it benefits the people of Northern Ireland and our partners across the UK.

@@ -1,0 +1,167 @@
+{
+ "url": "https://www.epa.gov/newsreleases/foreign-operators-and-technical-superintendent-mv-dali-indicted-roles-key-bridge-crash",
+ "institution_id": "us-epa",
+ "title": "Foreign Operators and Technical Superintendent of M/V Dali Indicted for Roles in Key Bridge Crash",
+ "date": "2026-05-12",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "8ead0d242dc827eba30b0679f044b8a212f7caa6abdac13f516a60f536edd810",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "EPA’s Assistant Administrator for Enforcement",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "EPA’s Assistant Administrator for Enforcement",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Kelly O. Hayes for the District of Maryland",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Kelly O. Hayes for the District of Maryland",
+   "method": "speech_verb"
+  },
+  {
+   "index": 16,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 19,
+   "kind": "quote",
+   "speaker": "Acting Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "quote",
+   "speaker": "Acting Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 24,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 25,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

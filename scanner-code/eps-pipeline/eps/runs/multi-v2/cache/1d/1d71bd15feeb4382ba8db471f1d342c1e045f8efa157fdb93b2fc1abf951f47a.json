@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbd7ba49967.P001.S001\"], \"anchor\": \"secondary legislation that will be taken forward to implement a proposal for 5 unitary councils in Essex, Southend-on-Sea and Thurrock\", \"reason\": \"Government implementing local government restructuring into unitary councils\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260415-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor finds youth employment hours, overtime, tip pool violations at Oregon Korean BBQ restaurant chain",
+ "date": "2026-04-15",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "1ea7ba0634afc79cdd2d467770bd6c44d077d1bc99096fb4d10cb34a3ab52446",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

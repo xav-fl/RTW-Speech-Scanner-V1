@@ -1,0 +1,17 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0478/",
+ "institution_id": "us-treasury",
+ "title": "United States Department of the Treasury Announces Key Nomination",
+ "date": "2026-04-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "5683ceb65932b7b0b89ad17982c76a94096d4d758a4c1b9c2200630754e423d9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

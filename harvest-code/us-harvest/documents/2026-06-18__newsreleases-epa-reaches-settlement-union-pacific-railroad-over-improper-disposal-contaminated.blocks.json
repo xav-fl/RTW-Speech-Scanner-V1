@@ -1,0 +1,83 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-reaches-settlement-union-pacific-railroad-over-improper-disposal-contaminated",
+ "institution_id": "us-epa",
+ "title": "EPA Reaches Settlement with Union Pacific Railroad Over Improper Disposal of Contaminated Waste in Oakland",
+ "date": "2026-06-18",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "39aaf550ecde12968082d1b8e14ebd8d583f49b0d1e94af6dfc388c58feb6d47",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "blockquote"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-elimination-of-unnecessary-burdens-career-and-technical-education-programs",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Announces Elimination of Unnecessary Burdens on Career and Technical Education Programs",
+ "date": "2026-07-22",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "f7e89ab4d5304527264f42674b0be9dcdccb54f676bb4fb386bf0b93bfa25442",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

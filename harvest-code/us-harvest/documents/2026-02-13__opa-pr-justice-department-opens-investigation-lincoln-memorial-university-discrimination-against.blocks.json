@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-opens-investigation-lincoln-memorial-university-discrimination-against",
+ "institution_id": "us-justice",
+ "title": "Justice Department Opens Investigation into Lincoln Memorial University for Discrimination Against Jewish Students",
+ "date": "2026-02-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "e46295478969ed6e1b621cc4f4e7900ddff096fecb2edcd8338c93be4f66ed0d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Paula M. Stannard",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Paula M. Stannard",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

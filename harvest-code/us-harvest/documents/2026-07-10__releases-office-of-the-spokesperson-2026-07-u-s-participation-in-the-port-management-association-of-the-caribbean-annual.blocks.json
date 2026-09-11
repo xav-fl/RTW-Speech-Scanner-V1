@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/u-s-participation-in-the-port-management-association-of-the-caribbean-annual-meeting-in-suriname/",
+ "institution_id": "us-state",
+ "title": "U.S. Participation in the Port Management Association of the Caribbean Annual Meeting in Suriname",
+ "date": "2026-07-10",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "ff1a35bd2fd2b9d4cac9efd0297eed56c3fbe0fa60799da5112d37ccb8211918",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

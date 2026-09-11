@@ -1,0 +1,45 @@
+TITLE: How we protected the UK and space in March 2026
+URL: https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-march-2026
+DATE: 2026-04-24
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+March saw generally sustained levels of space activity, with similar levels of uncontrolled re-entries, collision alerts and space weather activity to February.
+
+All  NSpOC warning and protection services were functioning throughout the period.
+
+Re-entry analysis
+
+There was approximately a 10% increase in the number of objects re-entering Earth’s atmosphere, monitored by NSpOC, when compared with the previous month.
+
+Of the 72 objects that re-entered, 55 were satellites, 12 were rocket bodies and five were likely pieces of debris.
+
+April: 92, May: 64, June: 55, July: 52, August: 34, September: 39, October: 54, November: 43, December: 52, January: 50, February: 66, March: 72
+
+Collision avoidance analysis
+
+Collision risks to UK-licensed satellites were slightly lower in March than in February and fell sightly below the 12-month rolling average.
+
+April: 2,620, May: 1,546, June: 1,259, July: 1,038, August: 971, September: 1,537, October: 2,402, November: 2,472, December: 2,643, January: 2,608, February: 2,117, March: 1,847
+
+Registered Space Objects (RSOs) analysis
+
+The in-orbit population increased in March, with a net addition of 241 objects to the US Satellite Catalogue.
+
+April: 30,289, May: 30,538, June: 30,863, July: 31,071, August: 31,325, September, 31,613, October: 31,906, November: 32,289, December: 32,678, January: 32,906, February: 33,144, March: 33,385
+
+The number of Resident Space Objects (RSOs) reported may be subject to small adjustments over time as the way objects are tracked is refined. Figures in this report reflect the most current available data and may differ slightly from those published in previous months.
+
+Fragmentation analysis
+
+One fragmentation incident took place in March involving a satellite in Low Earth Orbit. Assessments are ongoing to understand how many pieces of debris were released into orbit.
+
+Space weather analysis
+
+A reduction in space weather activity was observed during the month of March, with some geomagnetic storms and solar flares registered throughout the month
+
+Comments
+
+The National Space Operations Centre combines and coordinates UK civil and military space domain awareness capabilities to enable operations, promote prosperity and protect UK interests in space and on Earth from space-related threats, risks and hazards.

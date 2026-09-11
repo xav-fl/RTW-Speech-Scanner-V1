@@ -1,0 +1,37 @@
+TITLE: Farmer productivity boost with new nutrient planning tool
+URL: https://www.gov.uk/government/news/farmer-productivity-boost-with-new-nutrient-planning-tool
+DATE: 2026-02-04
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Dame Angela Eagle DBE MP
+
+---
+
+Farmers and land managers can cut pollution and boost productivity by targeting their planning of fertiliser and manure use, thanks to a free, online and easy to use nutrient management planning tool (NMPT-GB) launched today (4 February).
+
+By matching nutrient inputs such as nitrogen, phosphate, potash and sulphur, and lime to crop and soil needs, the tool helps farmers create, improve and revise nutrient management plans. 
+
+This will maximise nutrient availability for food production while reducing nutrient losses to water and air, supporting the strategic aims of the Food Strategy and the Environment Improvement Plan 2023.
+
+NMPT-GB is available now for England and Wales, via the GOV.UK website, with a Scotland release expected later this year.
+
+Farming Minister Dame Angela Eagle said: 
+
+We are backing farmers with innovative tools that help them increase profitability while protecting the environment. 
+
+We’re investing in practical, science‑led technology like our nutrient planning tool to boost productivity, cut pollution, and help the farming sector thrive for generations to come.
+
+NMPT-GB was developed by Defra, AHDB, RSK ADAS and RSK Business Solutions, using the latest guidance from the AHDB Nutrient Management Guide (RB209) and Scottish Technical Notes.
+
+Notes to editors
+
+NMPT-GB is a web-based nutrient planning tool for farmers, land managers and advisers. 
+
+It supports nutrient management planning linked to current rules, including Nitrate Vulnerable Zones (NVZs) requirements and Farming Rules for Water (England), and The Water Resources (Control of Agricultural Pollution) Regulations (Wales).
+
+Farm data entered into NMPT-GB is only available to the farmer and their appointed users. Regulators cannot access farm-specific data through the tool.
+
+We used a user-centred design approach to create the tool. It helps users learn and comply with nutrient regulations through on-screen guidance, in-tool alerts and warnings, and links to relevant external information.
+
+RSK ADAS – a UK-based independent agricultural and environmental consultancy and provider of rural development and policy advice – will hold a webinar for users on Wednesday 4th March, which will be recorded for future use. Register for the webinar here.
+
+There is no legal requirement to use NMPT-GB. It’s more user-friendly than previous free decision support tools, supporting users to access the latest nutrient recommendations, helping them save time and money and create and implement holistic and effective nutrient management plans which align with latest regulations.

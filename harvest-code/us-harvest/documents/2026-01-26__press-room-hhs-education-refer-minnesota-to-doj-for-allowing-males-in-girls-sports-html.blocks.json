@@ -1,0 +1,77 @@
+{
+ "url": "https://www.hhs.gov/press-room/hhs-education-refer-minnesota-to-doj-for-allowing-males-in-girls-sports.html",
+ "institution_id": "us-hhs",
+ "title": "HHS, Education Refer Minnesota to DOJ for Allowing Males in Girls’ Sports",
+ "date": "2026-01-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "e153004d65c71b3eef38301ad3a61c748a5617e27f88c66832ab7dcd3a5a9b15",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Secretary of Education Linda McMahon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Secretary of Education Linda McMahon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

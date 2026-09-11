@@ -1,0 +1,27 @@
+Promotes American Leadership in Payment Stablecoins
+
+WASHINGTON —Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) and the Office of Foreign Assets Control (OFAC) issued a joint proposed rule to implement provisions of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). The proposed rule, which implements the GENIUS Act’s anti-money laundering and sanctions compliance program requirements, encourages innovation in payment stablecoins while providing an appropriately tailored regime to mitigate potential illicit finance risks.
+
+> President Trump is strengthening American leadership in digital financial technology,
+
+said Secretary of the Treasury Scott Bessent.
+
+> This proposal will protect the U.S. financial system from national security threats without hindering American companies’ ability to forge ahead in the payment stablecoin ecosystem.
+
+The GENIUS Act provides a framework for the federal regulation of payment stablecoins. The law directs Treasury to issue regulations that would treat permitted payment stablecoin issuers (PPSIs) as financial institutions for purposes of the Bank Secrecy Act (BSA) and impose anti-money laundering obligations on PPSIs. The GENIUS Act also mandates that PPSIs maintain an effective sanctions compliance program and directs Treasury to issue appropriate regulations implementing such obligations.
+
+The proposed rule would subject PPSIs to requirements applicable to financial institutions relating to prevention of money laundering and impose obligations specified in the GENIUS Act. Consistent with FinCEN’s efforts to modernize BSA requirements, the proposed obligations are designed to be fit for purpose, assist law enforcement, and minimize unnecessary burden. The proposed rule would require PPSIs to adopt and maintain an effective sanctions compliance program as required by the GENIUS Act.
+
+Read more about the proposed rule here.
+
+FinCEN and OFAC welcome public comments on the proposal, which will be published in the Federal Register in the coming days.
+
+Resources
+
+Notice of Proposed Rulemaking
+
+Fact Sheet
+
+Report to Congress from the Secretary of the Treasury on Innovative Technologies to Counter Illicit Finance Involving Digital Assets
+
+###

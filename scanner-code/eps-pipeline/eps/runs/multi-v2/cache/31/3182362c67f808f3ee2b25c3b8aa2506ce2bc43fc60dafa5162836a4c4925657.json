@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1cce027abc.P005.S001\"], \"anchor\": null, \"reason\": \"Advanced learner loans and adult skills fund allocations policy\"}, {\"unit_ids\": [\"D1cce027abc.P023.S001\"], \"anchor\": null, \"reason\": \"Adult skills fund allocations for 2026-2027 funding year\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

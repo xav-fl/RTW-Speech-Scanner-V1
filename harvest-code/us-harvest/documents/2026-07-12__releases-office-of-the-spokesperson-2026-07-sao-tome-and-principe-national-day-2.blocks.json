@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/sao-tome-and-principe-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Sao Tome and Principe National Day",
+ "date": "2026-07-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "cb6fe7de51486d2cddc26ae11925d1e5aa913a15edb5877db4dfbcc1e72995a2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

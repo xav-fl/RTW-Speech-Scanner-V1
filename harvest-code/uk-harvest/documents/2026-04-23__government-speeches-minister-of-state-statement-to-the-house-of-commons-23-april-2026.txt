@@ -1,0 +1,45 @@
+TITLE: Minister of State statement to the House of Commons: 23 April 2026
+URL: https://www.gov.uk/government/speeches/minister-of-state-statement-to-the-house-of-commons-23-april-2026
+DATE: 2026-04-23
+GOVUK_TYPE: oral_statement
+LINKED_SPEAKERS: The Rt Hon Ian Murray MP
+
+---
+
+Thank you, Madam Deputy Speaker. With permission, I will make a statement about the use of UK Biobank data.
+
+UK Biobank is a non-profit charity, independent of government. The Biobank brings together data, kindly donated by its volunteer participants. This is shared with researchers globally to make significant scientific discoveries that improve patient health. This includes discovering genes that affect the risk of heart disease or cancer, identifying new ways of predicting dementia, early warning signs for cancers, understanding immunity to COVID-19, and work towards earlier detection of Parkinson’s. It is one of the most successful and important studies of its type and continues to benefit patients in the UK and around the world. We are all grateful to those individuals who are part of this landmark study that is so important for all of our health.
+
+On Monday 20 April, Madam Deputy Speaker, the UK Biobank charity informed the government that they had identified their data had been advertised for sale by several sellers on Ali Baba e-commerce platforms in China.
+
+Biobank told us that 3 listings that appear to sell UK Biobank participant data had been identified. At least one of these 3 datasets appears to contain data from all 500,000 UK Biobank volunteers. Additional listings offered support for applying for legitimate access to UK Biobank or analytical support for researchers who already have access to the data.
+
+I want to reassure the House up front however, that Biobank have advised that this data did not contain participants’ names, addresses, contact details, or telephone numbers. The government has spoken to the vendor today and they do not believe that there were any purchases from the 3 listings before they were taken down.
+
+Once the government was made aware of this situation we took immediate action to protect participants’ data.
+
+Firstly, we worked with Biobank, the Chinese government and the vendor to ensure that those 3 listings that UK Biobank informed us included participant data had been removed. I want to thank the Chinese government for the speed and seriousness with which they worked with us to help remove these listings and ongoing work to remove any further listings.
+
+Secondly, we ensured that the Biobank charity revoked access to the research institutions identified as the source of the information.
+
+And thirdly, we have asked that the Biobank charity pause further access to its data until they have put in place a technical solution to prevent data from its current platform from being downloaded in this way again. I can confirm to the House that this pause is now in place.
+
+UK Biobank have also referred themselves to the Information Commissioner’s Office.
+
+We are still working with Biobank to ascertain from them the specific detail of what has happened. We have asked them to investigate how this data ended up for sale online as a priority. But I wanted to ensure that the House were aware of this incident and the action this government are taking.
+
+Officials have been in regular contact with UK Biobank since the government was made aware of this issue on Monday. I personally spoke to the Chief Executive and Chair last night, alongside the Minister of State for Science and the Minister for Health Innovation and Safety.
+
+We have received assurance that the charity will conduct a rapid Board-level review of the safeguards in place for accessing their data. As mentioned, in the short term, Biobank will suspend downloads from their platform. This is until a new system is brought in to control analysis downloads to approved researchers and will significantly enhance data access controls and safeguards.
+
+We have advised the Chair and Chief Executive of Biobank to write to all participants as soon as possible to make sure that they are aware of what has happened here.
+
+In summary, and to be clear to the House and to those people affected, the charity has assured us that the data did not contain anybody’s names, addresses or contact details.
+
+It only includes data of people who explicitly opted in to be part of the Biobank. Those are people who have given their explicit consent that this data can be used. This is in the knowledge that it would be shared with researchers globally. Participants have done a great service to the people of this country and human health globally through their participation. For example, valuable research is being carried out at McGill University in Canada into chronic pain, which afflicts millions of people here in the UK. We expect UK Biobank to remain one of the leading health research resources.
+
+This has been an unacceptable abuse of the UK Biobank charity’s data and an abuse of the trust that participants rightly expect when sharing their data for research purposes. The government takes this incident extremely seriously, which is why we have acted rapidly to support the UK Biobank charity in their response and why I wanted to update the House at this early opportunity.
+
+The government will soon be issuing new guidance on control of data from research studies and I would like to take this opportunity to once again urge all businesses and charities to ensure their systems and data-sharing processes are as secure as possible. We wrote out to businesses last week about the cyber security tools available to them, for free, from government and the steps they should take to maximise security. Ensuring the safe use of UK data is a priority for this government.
+
+And I commend this Statement to the House.

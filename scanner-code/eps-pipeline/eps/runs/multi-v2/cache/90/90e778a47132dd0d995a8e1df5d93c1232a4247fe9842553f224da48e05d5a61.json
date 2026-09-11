@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd1140fd589.P002.S001\"], \"anchor\": null, \"reason\": \"Government commits to reviewing campaign spending limits by 2027\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

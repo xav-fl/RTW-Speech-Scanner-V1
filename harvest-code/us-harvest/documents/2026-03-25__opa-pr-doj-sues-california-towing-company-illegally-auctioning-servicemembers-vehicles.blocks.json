@@ -1,0 +1,89 @@
+{
+ "url": "https://www.justice.gov/opa/pr/doj-sues-california-towing-company-illegally-auctioning-servicemembers-vehicles",
+ "institution_id": "us-justice",
+ "title": "DOJ Sues California Towing Company for Illegally Auctioning Servicemembers’ Vehicles",
+ "date": "2026-03-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "d353f63a4b76e02eda87b5c3b717029bd91d6cda26fd85ec0024dc51946546e3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "First Assistant United States Attorney Bilal A. Essayli for the Central District of California",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "First Assistant United States Attorney Bilal A. Essayli for the Central District of California",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

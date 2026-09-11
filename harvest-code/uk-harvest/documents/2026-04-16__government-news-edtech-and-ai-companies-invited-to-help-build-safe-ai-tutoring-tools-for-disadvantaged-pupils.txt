@@ -1,0 +1,89 @@
+TITLE: Edtech and AI companies invited to help build safe AI tutoring tools for disadvantaged pupils
+URL: https://www.gov.uk/government/news/edtech-and-ai-companies-invited-to-help-build-safe-ai-tutoring-tools-for-disadvantaged-pupils
+DATE: 2026-04-16
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Ian Murray MP; Olivia Bailey MP
+
+---
+
+EdTech companies and AI labs are being invited to work with teachers and the government to design safe classroom ready AI tutoring tools, with safety at the forefront
+
+The next generation of AI tools must align to the national curriculum, classroom context, and clearly show how they will support disadvantaged pupils, with the potential to scale and support up to 450,000 pupils a year
+
+Up to 8 companies will begin testing tools in schools from this summer – under teacher supervision
+
+Children from disadvantaged backgrounds are set to benefit from a new generation of safe, personalised AI tutoring tools, as the government invites EdTech companies and AI labs to bid to build them.
+
+The initiative aims to make high quality, tailored help available to all pupils, with those from disadvantaged households set to benefit the most as this type of support is too often out of reach. This builds on the government’s landmark schools white paper, Every Child Achieving and Thriving, published earlier this year, which charts a path to halving the gap between outcomes for poorer children and their peers.
+
+The AI tutoring tools will be developed for pupils in Years 9 to 10 across English, maths, science and modern foreign languages. The tools will adapt to individual pupils’ needs, providing extra help when they get stuck and identify where they need more practice to master their lessons. Tools will be robustly tested in schools this year, with the aim to make successful tools available nationally from 2027.
+
+Importantly, these tools will be designed in collaboration with teachers to ensure they genuinely support classroom practice. Their purpose is to help educators deliver the highest quality education, enhancing the support they can offer to all pupils. By providing an additional layer of assistance, these tools will enable teachers to give more dedicated attention to those who might otherwise fall behind.
+
+Private tutoring can cost hundreds or even thousands of pounds a year, putting it out of reach for many families – despite evidence it can accelerate learning by up to 5 months.
+
+These tools will help level the playing field and could benefit up to 450,000 disadvantaged pupils per year. Every company bidding to take part must show clearly how their product will benefit this group and how it will be accessible, inclusive and usable for pupils with different needs.
+
+Minister for Digital Government Ian Murray, said:
+
+The best educational support outside school has too often been the privilege of those who can afford it. AI gives us a genuine opportunity to change that - to put the kind of personalised, one-to-one tutoring into the hands of all pupils, regardless of their background, and giving teachers the best technology to complement their work.
+
+That is why I’m calling on edtech companies and AI labs to help us design safe and evidence-based tutoring tools that will deliver real educational improvements.
+
+Education Minister Olivia Bailey said:
+
+Personalised, high-quality tutoring tools have the potential to help us make enormous progress in levelling the playing field for thousands more children.
+
+But getting this right matters just as much as moving quickly. Every tool must be built with teachers, tested rigorously, and held to the highest safety standards before it reaches the country’s classrooms.
+
+That is why we are inviting leading EdTech and AI to rise to this challenge with us – not just to build something innovative, but to build something that will give pupils more opportunity, and perhaps even transform their life chances altogether.
+
+Successful bidders will receive £300,000, with the government seeking up to 8 organisations in total to form a Pioneer Group to design and test what is possible from AI tutoring tools in real classroom settings.
+
+Working hand-in-hand with teachers, selected companies will develop tools that give pupils tailored support, providing teachers with clear, actionable insights into how children are progressing and where they may be struggling.
+
+This will help teachers adapt lessons, target support and use classroom time more effectively based on evidence of how the materials were understood.
+
+Harnessing the benefits of AI and technology safely is a key part of the government’s mission to break down barriers to opportunity so every child, regardless of background, can achieve and thrive.
+
+Woodland Academy Trust CEO, Nav Sanghara said:
+
+This is a welcome step towards a more thoughtful and evidence-informed approach to AI in education. Co-designing tools with teachers is critical to ensuring they are safe, curriculum-aligned, and genuinely improve outcomes for pupils.
+
+At Woodland Academy Trust, we are clear that technology, including AI tools, must enhance rather than replace high quality teaching, and should be grounded in strong pedagogy. This approach rightly recognises the importance of professional expertise in shaping solutions that work in practice.
+
+The emphasis on reaching disadvantaged pupils, including those with SEND, is particularly important and, if implemented well, this programme has the potential to support greater equity alongside improved outcomes.
+
+Child safety is at the heart of the programme. All tools must meet rigorous UK safety standards, align with the national curriculum, and be co-designed with educators. At the end of the pilot phase, suppliers will report on impact for both pupils and teachers.
+
+New national benchmarks are being developed to check AI tools are accurate, age appropriate and safe for pupils to use.  This will make sure the AI models meet the needs of pupils and enable us to rapidly assess new models as they emerge, future-proofing it as the technology develops. 
+
+To get this right, the government is working closely with teachers to create example classroom interactions and clear scoring criteria. This hands on input will help ensure the benchmarks are accurate, aligned to teaching standards, and safe to use.
+
+The government is also opening up access to its AI Content Store, which hosts a range of educational resources to support development of AI for use by teachers and in classrooms. This will provide tech firms and developers with exploratory access to a library of publicly available, high-quality materials to support testing, evaluation, and development activities.
+
+This work builds on the government’s wider investment in EdTech, including an additional £325 million to 2029/2030 in school connectivity to narrow the digital divide, and up to £23 million to test AI and edtech products in schools to improve outcomes and reduce teacher workload.
+
+Notes to editors
+
+The tender notice for the AI Tutoring Tools Pioneers Programme is now live. Register your interest by 12pm on 5th May.
+
+Officials will be proactively contacting a select number of companies, inviting them to apply to be a part of this programme, which will align with this announcement. 
+
+Up to 8 successful bids are expected, with awards anticipated in the summer. Co-design with schools will begin during the summer term, with tools available to school from 2027.
+
+Tools will integrate with the national curriculum with a focus on safety and efficacy and must meet DfE’s Generative AI Product Safety Standards.
+
+National benchmarks are being developed by DSIT’s Incubator for AI, working with hundreds of teachers to create classroom interaction examples and clear scoring criteria.
+
+No identifiable pupil data will be shared publicly. Pupil work will not be used to train AI models without parental permission.
+
+This programme is part of the government’s wider mission to break down barriers to opportunity and ensure every child can achieve and thrive.
+
+No identifiable pupil data will be shared publicly, and pupils work will not be used to train AI systems without parental permission.
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/former-army-civilian-employee-sentenced-15-years-prison-sexually-abusing-children",
+ "institution_id": "us-justice",
+ "title": "Former Army Civilian Employee Sentenced to 15 Years in Prison for Sexually Abusing Children",
+ "date": "2026-03-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "6f5b85aece09216b5ac6a906980074c379fb96f92466c83e61a0c78addd35eb1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

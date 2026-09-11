@@ -1,0 +1,99 @@
+NSF News
+
+NSF-supported teams advanced through the Presidential AI Challenge, with North Carolina teacher named national champion
+
+June 9, 2026
+
+A team supported by the U.S. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the inaugural Presidential AI Challenge through a project led by a second-grade educator, demonstrating how mentored, hands-on artificial intelligence learning experiences can translate into impactful classroom innovation.
+
+NSF congratulates all participants and recognizes the teams, funded in part by NSF, that advanced to state, regional and national levels of the competition. The challenge brought together K-12 youth, educators, mentors and community partners from across the country to develop innovative AI solutions for real-world challenges within their communities, showcasing their creativity, talent and problem-solving potential of the next generation of AI leaders.
+
+The Presidential AI Challenge was created to ignite interest and develop foundational expertise in AI among American youth. As part of the broader presidential initiative on Advancing Artificial Intelligence Education for American Youth, the challenge reflects a national commitment to ensuring students and educators have the knowledge, skills, and opportunities needed to succeed in a rapidly evolving technological era. It encourages K-12 students and educators to engage in hands-on, project-based learning while developing innovative AI solutions to real-world problems.
+
+With close to $1 million in supplemental funding provided by the NSF Directorate for STEM Education, principal investigators from active NSF-funded projects served as team catalysts, supporting challenge participants through outreach, mentorship, project development and community engagement activities. These efforts empowered youth, educators and mentors across the nation to explore how AI could address challenges in their schools and communities.
+
+> Congratulations to every team that participated in the Presidential AI Challenge, and especially to those whose projects advanced through state, regional, and national levels of competition,
+
+said Brian Stone, performing the duties of the NSF Director.
+
+> The students and educators who took part in this challenge represent the future of American AI talent. By applying AI to address real-world problems in their communities, these teams showcased the power of learning through discovery and demonstrated how innovation can improve lives.
+
+Through 40 NSF supplemental awards, participating teams gained access to equipment, software, mentorship, travel opportunities, project showcases and other resources necessary to develop and refine their AI solutions, allowing students to engage with authentic challenges and explore future education and career opportunities.
+
+The NSF-supported teams that advanced through the Presidential AI Challenge are listed below by competition level. For each team, the sponsoring university, state and team project are provided.
+
+National Champion
+
+North Carolina State University (North Carolina) — AI Insect Detectives: Teaching Machine Learning Through Local Entomology
+
+Selected as a national champion, Carrie Robledo, a second-grade teacher and teacher leader at Star Elementary School in North Carolina, developed
+
+> AI Insect Detectives: Teaching Machine Learning Through Local Entomology.
+
+This project introduced second grade students to the fundamentals of machine learning through hands-on science activities. Using Google's Teachable Machine, students trained AI models to identify insects, analyzed errors and improved training data. As students explored how AI systems recognize patterns and make decisions, they built foundational AI literacy, scientific inquiry skills and critical thinking skills at an early age.
+
+Regional Level
+
+North Carolina State University (North Carolina) — AI Insect Detectives: Teaching Machine Learning Through Local Entomology
+
+State Level
+
+Miami Dade College (Florida) — CivicPulse
+
+North Carolina State University (North Carolina) — AI Insect Detectives: Teaching Machine Learning Through Local Entomology
+
+Pennsylvania State University (Pennsylvania) — BioBuddy: Designing AI to Coach Student Thinking, Not Replace It
+
+Purdue University (Indiana) — AccessIN AI Youth Collective
+
+Teachers College, Columbia University (New York) — The MGM BUILD Yourself App
+
+Tufts University (Massachusetts) — Smarter Streets, Safer Communities (a team from Missouri received support)
+
+Tufts University (Massachusetts) — The Utensils Handler (a team from Missouri received support)
+
+University of Akron (Ohio) — An AI-Powered Solution for Cleaner and Safer Community Parks
+
+University of Nevada, Las Vegas (Nevada) — AI-Assisted Parking System
+
+University of North Dakota (North Dakota) — How AI Thinks
+
+University of North Dakota (North Dakota) — AI Literacy, Bias, and Ethical Uses of AI Through Interactive Classroom Activities (a team from Wyoming received support)
+
+University of North Dakota (North Dakota) — Teaching AI Basics in a Multi-Grade Classroom (a team from Montana received support)
+
+University of South Florida (Florida) — Stronger Minds, Stronger Bodies: AI-Enhanced Fitness for the Next Generation of Education
+
+University of South Florida (Florida) — Rapid Response Instruction Optimizer
+
+University of Washington (Washington) — Teaching AI Concepts Through Science
+
+West Virginia University (West Virginia) — AI College Decider
+
+West Virginia University (West Virginia) — Evercare: Restoring Dignity to Elder Care Through AI
+
+Across the NSF-supported teams, projects centered on introducing students to AI through hands-on learning experiences where they trained models, explored patterns and built foundational AI literacy. Other projects focused on strengthening critical thinking and ethical understanding, with tools designed to guide reasoning, support the use of AI for the benefit of all, and support teacher-led instruction rather than replace human judgment.
+
+Additional projects applied AI to real-world challenges in schools and communities, including pedestrian safety, library space accessibility, nursing home and elder care workflow support, student advising tools to identify majors aligned with their interests, and other classroom teaching support systems.
+
+Learn more about the Presidential AI Challenge at ai.gov.
+
+Research areas
+
+Directorate for STEM Education (EDU)
+
+Topics
+
+Artificial Intelligence
+
+Share
+
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+
+Related stories
+
+Podcast: AI and wearable devices
+
+NSF launches three new Science and Technology Centers with $90M investment in transformative research
+
+Eight NSF research institutes to propel U.S. quantum science with $290M investment

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/u-s-coalition-fractures-support-for-the-imo-global-carbon-tax-protecting-american-economic-interests/",
+ "institution_id": "us-state",
+ "title": "U.S. Coalition Fractures Support for the IMO Global Carbon Tax, Protecting American Economic Interests",
+ "date": "2026-05-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "7b86f2783a0015c4f10a30ba1c36ffad3682fff0e973cb94ff0a7253d5d96b74",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

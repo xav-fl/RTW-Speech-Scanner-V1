@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about securing government expenditure for Fire and Rescue Services through the spending review process. The specific mechanism is public funding allocation for emergency/public safety services via a government spending review.\n\nThe core economic content: national government expenditures on publicly provided goods (fire and rescue services), with the spending review as the instrument for allocating those funds.\n\nPrimary: H5 (National Government Expenditures and Related Policies) — directly about securing investment/funding for Fire and Rescue Services through a spending review.\n\nSecondary consideration: H4 (Publicly Provided Goods) — fire and rescue is a classic publicly provided good. This adds substantive dimension beyond just the expenditure process.\n\n{\"primary\": \"H5\", \"secondary\": [\"H4\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

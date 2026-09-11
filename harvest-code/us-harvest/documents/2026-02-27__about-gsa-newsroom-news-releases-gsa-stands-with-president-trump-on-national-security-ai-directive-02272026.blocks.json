@@ -1,0 +1,71 @@
+{
+ "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-stands-with-president-trump-on-national-security-ai-directive-02272026",
+ "institution_id": "us-gsa",
+ "title": "GSA Stands with President Trump on National Security AI Directive",
+ "date": "2026-02-27",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "fe440f62f689d69616b9b0d7d9e9384808ab4dbe6ddf04fa0761cd490dd4abf4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward C. Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward C. Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

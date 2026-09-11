@@ -1,0 +1,83 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-announces-800000-small-businesses-developing-environmental-technologies-colorado",
+ "institution_id": "us-epa",
+ "title": "EPA Announces $800,000 for Small Businesses Developing Environmental Technologies in Colorado, Wyoming",
+ "date": "2026-07-14",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "c4c48ed3ea7e74ef44200c51d6383f0c9c0112d8f35f77459fab2d708de726d8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Teresa Booeshaghi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Regional Administrator Cyrus Western",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Regional Administrator Cyrus Western",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

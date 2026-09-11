@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/united-states-hosts-second-pax-silica-summit-in-washington-dc/",
+ "institution_id": "us-state",
+ "title": "United States Hosts Second Pax Silica Summit in Washington, DC",
+ "date": "2026-06-26",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "a759966976aed73dcb3f2fa2cdde6af91589d9465d0e337449084eda29eb963a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/illinois-woman-pleads-guilty-distributing-and-conspiring-create-and-distribute-animal-crush",
+ "institution_id": "us-justice",
+ "title": "Illinois Woman Pleads Guilty to Distributing and Conspiring to Create and Distribute Animal Crush Videos Showing Violent Torture of Monkeys",
+ "date": "2026-04-15",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "d7291786421eb7a72a68361b348e649ca7bb96ea95a6ba5d35017fca00df97a9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

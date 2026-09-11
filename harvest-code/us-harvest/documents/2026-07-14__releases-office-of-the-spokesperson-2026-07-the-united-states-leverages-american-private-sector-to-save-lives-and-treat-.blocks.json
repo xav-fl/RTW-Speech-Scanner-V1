@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/the-united-states-leverages-american-private-sector-to-save-lives-and-treat-global-malnutrition/",
+ "institution_id": "us-state",
+ "title": "The United States Leverages American Private Sector to Save Lives and Treat Global Malnutrition",
+ "date": "2026-07-14",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "5738aa2a0082a190abba88a7197835837ee92d46e57bfc1b7d93ce3ee639b965",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

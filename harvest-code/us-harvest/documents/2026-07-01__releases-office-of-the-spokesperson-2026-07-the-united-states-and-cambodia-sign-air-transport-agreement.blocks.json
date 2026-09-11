@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/the-united-states-and-cambodia-sign-air-transport-agreement/",
+ "institution_id": "us-state",
+ "title": "The United States and Cambodia Sign Air Transport Agreement",
+ "date": "2026-07-01",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "099a8721f5363d899bd38cbe22c22b40d564a191b639c20ba0be6bbe2aaea72e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

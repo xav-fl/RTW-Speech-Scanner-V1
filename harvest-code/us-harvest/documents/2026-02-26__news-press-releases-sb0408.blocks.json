@@ -1,0 +1,71 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0408/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Proposes Rule to Sever Swiss Bank MBaer’s Access to U.S. Financial System",
+ "date": "2026-02-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "9d40e6fb9453b78205bc10afadb51997e5a8dac1d5d09ee5ddf774e7e1fac834",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

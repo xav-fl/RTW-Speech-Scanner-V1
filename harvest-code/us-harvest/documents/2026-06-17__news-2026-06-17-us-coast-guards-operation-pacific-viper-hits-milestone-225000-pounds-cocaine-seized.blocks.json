@@ -1,0 +1,101 @@
+{
+ "url": "https://www.dhs.gov/news/2026/06/17/us-coast-guards-operation-pacific-viper-hits-milestone-225000-pounds-cocaine-seized",
+ "institution_id": "us-dhs",
+ "title": "U.S. Coast Guard’s Operation Pacific Viper Hits Milestone of 225,000 Pounds of Cocaine Seized",
+ "date": "2026-06-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "92af576f32bb8e90630b03b464a1f3e950b1d3deff5f7d1f4289f4a3de155757",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "DHS Secretary Markwayne Mullin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "DHS Secretary Markwayne Mullin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Admiral Kevin Lunday",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Admiral Kevin Lunday",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

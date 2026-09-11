@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/21/ice-lodges-arrest-detainer-illegal-alien-charged-incest-and-child-sex-crimes-south",
+ "institution_id": "us-dhs",
+ "title": "ICE Lodges Arrest Detainer for Illegal Alien Charged for Incest and Child Sex Crimes in South Carolina",
+ "date": "2026-04-21",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "e9c28b03db348a52cdd7c4881ac61d438a9a67bc51ce0eb9ab507f5581f66559",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

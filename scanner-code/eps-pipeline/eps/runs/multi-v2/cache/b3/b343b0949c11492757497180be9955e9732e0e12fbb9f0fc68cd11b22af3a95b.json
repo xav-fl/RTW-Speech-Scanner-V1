@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2b868d1eb7.P019.S001\", \"D2b868d1eb7.P019.S002\", \"D2b868d1eb7.P020.S001\", \"D2b868d1eb7.P020.S002\"], \"anchor\": null, \"reason\": \"Reform to reduce pavement licence renewal burden and extend term lengths\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

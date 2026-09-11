@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes public investment in vocational training for construction workers — the specific mechanism is government-funded workforce training targeted at a particular industry (construction).\n\nPrimary classification: **J** (Labor and Demographic Economics) — specifically J2 (supply of labor/training) and J4 (particular labor markets, here construction workers). This is fundamentally about building labor supply through training.\n\nSecondary: **L7** (Industry Studies: Primary Products and Construction) — the training is explicitly sector-specific to construction, making this substantively relevant.\n\n{\"primary\": \"J\", \"secondary\": [\"L7\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

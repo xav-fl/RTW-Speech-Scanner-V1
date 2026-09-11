@@ -1,0 +1,47 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/01/15/tampa-man-sentenced-federal-prison-stealing-more-half-million-dollars-covid-relief-funds",
+ "institution_id": "us-sba",
+ "title": "Tampa Man Sentenced to Federal Prison for Stealing More Than Half a Million Dollars in COVID Relief Funds",
+ "date": "2026-01-15",
+ "date_source": "metadata",
+ "source_document_type": "OIG news release",
+ "text_sha256": "91ce7c8aeb7f392125aaf8da94b409691d3173e68f4b64e5e39bb0221f0681cc",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

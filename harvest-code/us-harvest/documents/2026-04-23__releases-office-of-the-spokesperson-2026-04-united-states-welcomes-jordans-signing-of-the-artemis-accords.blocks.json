@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/united-states-welcomes-jordans-signing-of-the-artemis-accords/",
+ "institution_id": "us-state",
+ "title": "United States Welcomes Jordan’s Signing of the Artemis Accords",
+ "date": "2026-04-23",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "298f20328bf5aa0391c9ecb534ec6b1f38a8bae4d890075aee871909e3e47eba",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

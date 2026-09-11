@@ -1,0 +1,71 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/sanctions-on-cuban-military-instrumentalities-other-actors-responsible-for-subversive-anti-american-activities/",
+ "institution_id": "us-state",
+ "title": "Sanctions on Cuban Military Instrumentalities & Other Actors Responsible for Subversive Anti-American Activities",
+ "date": "2026-06-04",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "c30672be1418d7930ba1fc60de69be67ecf64f6aed2a45a90b0a9ec880e978b4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

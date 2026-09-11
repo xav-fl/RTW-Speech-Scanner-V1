@@ -1,0 +1,53 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-initiates-title-vi-investigation-portland-public-schools",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education’s Office for Civil Rights Initiates Title VI Investigation into Portland Public Schools",
+ "date": "2026-02-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "7534d056434330220c7ed2677857ab97a0dba74647b9264c7250b596c626d30c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

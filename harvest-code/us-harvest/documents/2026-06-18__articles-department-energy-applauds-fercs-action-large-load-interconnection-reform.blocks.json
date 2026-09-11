@@ -1,0 +1,59 @@
+{
+ "url": "https://www.energy.gov/articles/department-energy-applauds-fercs-action-large-load-interconnection-reform",
+ "institution_id": "us-energy",
+ "title": "The Department of Energy Applauds FERC’s Action on Large Load Interconnection Reform",
+ "date": "2026-06-18",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "ed01fc5a3569d9abcfc7d0a05fc4d146bbe217f6e059f9dcb64f31db9a7fa31c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Energy Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Energy Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Deputy Secretary Danly",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Deputy Secretary Danly",
+   "method": "speech_verb"
+  }
+ ]
+}

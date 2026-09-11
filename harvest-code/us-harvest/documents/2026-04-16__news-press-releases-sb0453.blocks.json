@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0453/",
+ "institution_id": "us-treasury",
+ "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with Ukrainian Prime Minister Yulia Svyrydenko",
+ "date": "2026-04-16",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "c70ac5090b7e4c1d9d1ae0fb3a70143dbbe9e8434a9d75c653bab2c9afa6afc2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/05/15/aphis-announces-funding-support-chronic-wasting-disease-control-and-prevention",
+ "institution_id": "us-agriculture",
+ "title": "APHIS Announces Funding to Support Chronic Wasting Disease Control and Prevention",
+ "date": "2026-05-15",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "4097babd2086b330a64dda92210f8b04b05b9aeddabaab03c42f67a0277b26e2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Dr. Alan Huddleston",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

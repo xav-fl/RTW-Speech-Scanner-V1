@@ -1,0 +1,59 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-initiates-strategic-petroleum-reserve-emergency-exchange-stabilize",
+ "institution_id": "us-energy",
+ "title": "Energy Department Initiates Strategic Petroleum Reserve Emergency Exchange to Stabilize Global Oil Supply",
+ "date": "2026-03-13",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "d4eb1b3c56e34c4ae38a34d12420879ff161cfec958c53f5cbc9c22d795c7077",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Kyle Haustveit",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Kyle Haustveit",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

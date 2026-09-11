@@ -1,0 +1,41 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260422-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers $200K in back wages after investigation finds Oregon restaurant denied 19 workers overtime, operated invalid tip pool",
+ "date": "2026-04-22",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "cfbc5d3c12f95d5b9092684986282ca500e14397a02bf2d1ddfbd6f1dc549eee",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260318",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor’s OSHA Cares initiative strengthens customer service, expands compliance assistance",
+ "date": "2026-03-18",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "1937259926042ba246fe476dd9a4d21e3f244f35fd3be647dc15b65b99967393",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

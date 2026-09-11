@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-announces-new-funding-opportunity-prosecute-fraud-drug-trafficking-and",
+ "institution_id": "us-justice",
+ "title": "Justice Department Announces New Funding Opportunity to Prosecute Fraud, Drug Trafficking, and Other Crimes",
+ "date": "2026-04-22",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "506d99f1939ae1137ef97123c5f821b586329028391e298f3a33fd90650c0daa",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Colin McDonald",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Colin McDonald",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

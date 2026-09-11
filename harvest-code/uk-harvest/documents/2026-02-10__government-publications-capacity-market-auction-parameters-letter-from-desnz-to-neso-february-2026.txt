@@ -1,0 +1,15 @@
+TITLE: Capacity Market auction parameters: letter from DESNZ to NESO, February 2026
+URL: https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-february-2026
+DATE: 2026-02-10
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+Letter from the Secretary of State to National Energy System Operator (NESO) setting out adjustments to: 
+
+the 1-year ahead (T-1) auction for the delivery year 2026 to 2027
+
+the 4-year ahead (T-4) auction for the delivery year 2029 to 2030
+
+and table setting out final auction parameters for the T-1 and T-4 auctions.

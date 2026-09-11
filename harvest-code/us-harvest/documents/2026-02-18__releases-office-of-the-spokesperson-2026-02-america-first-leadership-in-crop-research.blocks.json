@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/america-first-leadership-in-crop-research/",
+ "institution_id": "us-state",
+ "title": "America First Leadership in Crop Research",
+ "date": "2026-02-18",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "4daf324ba432427c01a975d749721399913ffdca5e17c5a1ba669fb35bed6d5d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

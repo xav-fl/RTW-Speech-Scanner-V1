@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a £100 million government funding allocation to strengthen the capacity and capability of local planning authorities. The specific mechanism is intergovernmental grant funding directed at local government administrative capacity in land-use planning.\n\n- **R5** (Regional Government Analysis) fits well: local planning authorities are local/regional government bodies, and the investment targets their institutional capacity.\n- **H7** (State and Local Government • Intergovernmental Relations) is also directly relevant: this is a central government expenditure grant flowing to local authorities.\n\nThe primary substance is about local planning authority capacity — a local government function — making R the best major category, with H as a meaningful secondary given the intergovernmental transfer mechanism.\n\n{\"primary\": \"R\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

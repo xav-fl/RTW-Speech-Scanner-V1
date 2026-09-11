@@ -1,0 +1,59 @@
+TITLE: Government leads global fight against deepfake threats
+URL: https://www.gov.uk/government/news/government-leads-global-fight-against-deepfake-threats
+DATE: 2026-02-05
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: The Rt Hon Liz Kendall MP; Jess Phillips MP
+
+---
+
+Bringing together leading technology companies, such as Microsoft, academics and experts, the government is set to develop and implement a world-first deepfake detection evaluation framework, establishing consistent standards for assessing all types of detection tools and technologies. This will help position the UK as a global leader in tackling harmful and deceptive deepfake content.
+
+The framework will evaluate how technology can be used to assess, understand and detect harmful deepfake materials, no matter where they come from. By testing leading deepfake detection technologies against real world threats like sexual abuse, fraud and impersonation, the government and law enforcement will have better knowledge than ever before on where gaps in detection remain.
+
+Once the testing framework is established, it will be used to set clear expectations for industries on deepfake detection standards.
+
+In 2025 alone, 8,000,000 deepfakes are estimated to have been shared, up from 500,000 in 2023. 
+
+Every person in the UK faces growing risk from harmful deepfakes – AI-generated fake images, videos and audio designed to deceive. These materials are often being used by criminals to deceptively steal money, strip away the dignity of women and girls, and spread harmful content online. 
+
+Criminals are already using this technology to impersonate celebrities, family members and trusted political figures in sophisticated scams, with tools to create convincing fake content being cheaper and more widely available than ever before, and little to no technical expertise required.
+
+Minister for Safeguarding and Violence Against Women and Girls, Jess Phillips, said:
+
+A grandmother deceived by a fake video of her grandchild. A young woman whose image is manipulated without consent. A business defrauded by criminals impersonating executives. This technology does not discriminate.
+
+The devastation of being deepfaked without consent or knowledge is unmatched, and I have experienced it firsthand.
+
+For the first time, this framework will take the injustice faced by millions to seek out the tactics of vile criminals, and close loopholes to stop them in their tracks so they have nowhere to hide. Ultimately, it is time to hold the technology industry to account, and protect our public, who should not be living in fear.
+
+Tech Secretary Liz Kendall said:
+
+Deepfakes are being weaponised by criminals to defraud the public, exploit women and girls, and undermine trust in what we see and hear. 
+
+We are working with technology, academic and government experts to assess and detect harmful deepfakes. The UK is leading the global fight against deepfake abuse, and those who seek to deceive and harm others will have nowhere to hide. 
+
+But detection is only part of the solution. That is why we have criminalised the creation of non-consensual intimate images, and are going further to ban the nudification tools that fuel this abuse.
+
+Last week, the government led and funded the Deepfake Detection Challenge, which was hosted by Microsoft. Over 4 days, more than 350 participants took part, including INTERPOL, members of the Five Eyes community and big tech.
+
+Teams were immersed in high pressure, real world scenarios, challenging them to identify real, fake and partially manipulated audiovisual media. These scenarios reflected some of the most pressing national security and public safety risks – victim identification, election security, organised crime, impersonation and fraudulent documentation. More than a technical challenge, the event brought together global experts united by a common mission: strengthening the UK’s ability to detect and defend against malicious synthetic media.
+
+Andrea Simon, Director of the End Violence Against Women Coalition (EVAW) said:
+
+We successfully campaigned for the new law that makes creating non-consensual sexually explicit deepfakes a criminal offence, and welcome this move to better protect victims of this harmful abuse. But the onus cannot be on victims to detect and report abuse and battle with platforms to have this violating material taken down. 
+
+It is therefore positive to see the government and regulator’s efforts to combat this global issue, but we know it is the platforms themselves who could and should be doing so much more. 
+
+It is essential that the response to deepfake abuse and other forms of image-based abuse is on the front foot as these harms evolve.
+
+Deputy Commissioner Nik Adams, City of London Police, said: 
+
+This new framework is a strong and timely addition to the UK’s response to the rapidly evolving threat posed by AI and deepfake technologies. As the national lead force for fraud, the City of London Police see first-hand how criminals are increasingly exploiting AI as a powerful tool in their arsenal to deceive victims, impersonate trusted individuals and scale harm at unprecedented speed. 
+
+By rigorously testing deepfake technologies against real-world threats and setting clear expectations for industry, this framework will significantly bolster law enforcement’s ability to stay ahead of offenders, protect victims and strengthen public confidence as these technologies continue to evolve.
+
+This work forms part of the government’s Plan for Change commitment to make Britain’s streets and communities safer, ensuring people are protected from evolving threats both online and offline.
+
+We have fast tracked work to bring into force legislation making illegal for anyone to create or request deepfake intimate images of adults without consent, which will become law tomorrow.
+
+Already, we have brought forward to criminalise the creation of non-consensual intimate images, including sexually explicit deepfakes. The DSIT Secretary of State also announced that we are taking action to designate this offence as a priority under the Online Safety Act, meaning platforms can be required to take proactive steps to prevent it from happening in the first place, not just react after the harm is done. Further measures will ban ‘nudification’ tools, criminalising those who design and supply them. These actions form part of this government’s ambition to halve violence against women and girls within a decade.

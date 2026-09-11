@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260318",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor restores long-standing investment advice rule after pair of court decisions vacate 2024 retirement security rule",
+ "date": "2026-03-18",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "fdc7380637d3d27b0e60d49530041970a3b2ec45ed2b5a1eb1ce5b7a7dc328fa",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary of Labor for Employee Benefits Security Daniel Aronowitz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Secretary of Labor for Employee Benefits Security Daniel Aronowitz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

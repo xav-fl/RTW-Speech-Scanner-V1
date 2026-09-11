@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/nauru-national-day/",
+ "institution_id": "us-state",
+ "title": "Nauru National Day",
+ "date": "2026-01-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "898c20f502db94bb677174b8895035483ac4266eb2578b1cb61b69cc233f5a03",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

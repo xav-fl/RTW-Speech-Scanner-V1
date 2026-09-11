@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about dismantling the leasehold system and emancipating leaseholders — this is about property tenure law reform, specifically the legal structure governing leasehold property rights.\n\nThe specific mechanism: abolishing leasehold tenure arrangements that govern how residential property is held.\n\n- **K** (Law and Economics) — K1 (Basic Areas of Law, including property law) is the best fit, as this is fundamentally about reforming property law/tenure structures.\n- **R** (Urban, Rural, Regional, Real Estate) — R3 (Real Estate Markets) is a strong secondary, as leasehold reform directly affects real estate market structures and housing tenure.\n\n{\"primary\": \"K\", \"secondary\": [\"R\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

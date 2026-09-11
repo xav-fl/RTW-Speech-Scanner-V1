@@ -1,0 +1,83 @@
+{
+ "url": "https://www.hhs.gov/press-room/oig-clears-path-for-lower-cost-prescription-drugs.html",
+ "institution_id": "us-hhs",
+ "title": "HHS Clears Path for Lower-Cost Prescription Drugs Through Direct-to-Consumer Programs",
+ "date": "2026-01-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "b797809262da9823f82d7c4f0e3179546bc387220b62dd2dc4fb393e5e0ea66b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "CMS Administrator Dr. Mehmet Oz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "CMS Administrator Dr. Mehmet Oz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

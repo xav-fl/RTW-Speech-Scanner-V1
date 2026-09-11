@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/sex-trafficking-leader-pleads-guilty-multiple-counts-sex-trafficking",
+ "institution_id": "us-justice",
+ "title": "Sex Trafficking Leader Pleads Guilty to Multiple Counts of Sex Trafficking",
+ "date": "2026-04-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "0f869dc7f186d1cf5cf72fc682a0ac24f070789aa2d81479afc4ba01ad14cc22",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

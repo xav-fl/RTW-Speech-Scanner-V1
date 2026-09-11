@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a £39 billion government spending programme to fund construction of social and council housing, with a specific allocation target (60% for social rent). The core economic content is:\n\n- **Mechanism**: Public capital expenditure programme funding social/affordable housing construction\n- **Instrument**: Government investment with a tenure-mix target (social rent proportion)\n- **Outcome**: Expansion of publicly provided/subsidised housing stock\n\nThis maps most precisely to **R** (Urban, Rural, Regional, Real Estate, and Transportation Economics) — specifically housing markets and publicly provided housing — with a secondary dimension of **H** (Public Economics), given the large public expenditure commitment and the publicly provided goods nature of social housing (H4/H5).\n\n```json\n{\"primary\": \"R\", \"secondary\": [\"H\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

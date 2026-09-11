@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/malawi-national-day/",
+ "institution_id": "us-state",
+ "title": "Malawi National Day",
+ "date": "2026-07-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "6d3151da6cd48befc35e6a24a58e5305da3870d5fd41a233e5472ec2bfde3ba7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/democratic-republic-of-the-congo-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Democratic Republic of the Congo National Day",
+ "date": "2026-06-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "8be3715be4671fb9ddb28e9af8ca340eb76cfe53856736d55e4432ab07820787",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

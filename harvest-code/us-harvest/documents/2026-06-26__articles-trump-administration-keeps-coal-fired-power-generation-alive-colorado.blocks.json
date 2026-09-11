@@ -1,0 +1,71 @@
+{
+ "url": "https://www.energy.gov/articles/trump-administration-keeps-coal-fired-power-generation-alive-colorado",
+ "institution_id": "us-energy",
+ "title": "Trump Administration Keeps Coal-Fired Power Generation Alive in Colorado",
+ "date": "2026-06-26",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "87b318bdbc32e153f61d1725a230f2d2cf9a7b0ccbcf0c585af05109d7c2d898",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Energy Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Energy Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

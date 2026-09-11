@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about capping ground rent (a property income stream) to reduce the cost of enfranchisement (leaseholders buying out their leasehold to gain freehold). The core mechanism is a legislative cap on ground rent affecting leasehold property rights and the pricing of enfranchisement — this is fundamentally about real estate markets and leasehold/freehold property arrangements.\n\nPrimary: **R3** (Real Estate Markets) — the cap on ground rent directly affects leasehold property costs and enfranchisement pricing.\n\nSecondary: **K1** (Basic Areas of Law / Property Law) — the instrument is a legislative provision in a draft Bill altering property rights (leasehold reform), which has substantive legal-economic content beyond just real estate markets.\n\n```json\n{\"primary\": \"R\", \"secondary\": [\"K\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

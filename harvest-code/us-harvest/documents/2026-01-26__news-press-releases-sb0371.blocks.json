@@ -1,0 +1,47 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0371/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Cancels Contracts with Booz Allen Hamilton",
+ "date": "2026-01-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "1726dd6b1f97b61b9b4612225f8525f682b90347e4e67b9a9bc66fef4e1a4741",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Secretary Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

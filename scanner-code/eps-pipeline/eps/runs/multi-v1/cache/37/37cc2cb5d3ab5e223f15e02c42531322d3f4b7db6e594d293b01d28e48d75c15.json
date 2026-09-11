@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a £708 million government contract extension for \"critical sovereign technologies\" — this is public procurement/government expenditure directed at advancing domestically controlled (sovereign) technological capabilities.\n\nThe specific mechanism: government spending on R&D/technology development to maintain sovereign capability. This sits at the intersection of:\n- **O3** (Innovation, R&D, Technological Change) — the substance is advancing critical technologies\n- **H5** (National Government Expenditures) — the instrument is a large government contract\n- **F5** (International Relations, National Security) — \"sovereign technologies\" implies national security/strategic autonomy dimension\n\nPrimary: **O** (the core economic content is about technological development and innovation through public investment)\nSecondary: **H** (government expenditure/procurement is the instrument), **F** (sovereign/national security framing)\n\n```json\n{\"primary\": \"O\", \"secondary\": [\"H\", \"F\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/03/texas-terror-ice-asks-texas-authorities-not-release-alien-who-brutally-murdered-his",
+ "institution_id": "us-dhs",
+ "title": "TEXAS TERROR: ICE Asks Texas Authorities to Not Release Alien Who Brutally Murdered His Wife in Dallas",
+ "date": "2026-04-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "c2609a737f172dd0ce75027deadc668a7344d9931a1b59cc3c751ec50552b629",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

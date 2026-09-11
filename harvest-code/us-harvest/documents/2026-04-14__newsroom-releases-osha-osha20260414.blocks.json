@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260414",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor honors fallen workers with national Workers Memorial ceremonies, vigil April 23",
+ "date": "2026-04-14",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "092b70d51c92c9526f535ca03dbc594ec951565a4c920ee88d86ccec145e1fa0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

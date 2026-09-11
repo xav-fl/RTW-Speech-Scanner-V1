@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/13/dhs-arrests-criminal-illegal-alien-pedophile-and-rapist-after-being-released",
+ "institution_id": "us-dhs",
+ "title": "DHS Arrests Criminal Illegal Alien Pedophile and Rapist After Being Released from Sanctuary City Jail in Oregon",
+ "date": "2026-02-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "c404a586e874aa37cbbf0f7a8cd8295473090e44a7db2f56fa6462160bc36533",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

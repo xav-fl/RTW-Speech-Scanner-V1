@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/senegal-independence-day/",
+ "institution_id": "us-state",
+ "title": "Senegal Independence Day",
+ "date": "2026-04-04",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "47037bd470506ebdf3d2f872c1e0b5fc4d3bd9bf433123731d0a921be1f4b372",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

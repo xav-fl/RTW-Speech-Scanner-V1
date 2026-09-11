@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/delivering-priority-medical-supplies-for-the-venezuelan-people/",
+ "institution_id": "us-state",
+ "title": "Delivering Priority Medical Supplies for the Venezuelan People",
+ "date": "2026-02-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "2015e833abdebc0820a0d31850e1f67ec39698ad36862338d47f9e8127eb2e18",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

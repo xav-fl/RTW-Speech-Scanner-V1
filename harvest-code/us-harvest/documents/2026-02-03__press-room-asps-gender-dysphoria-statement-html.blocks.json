@@ -1,0 +1,131 @@
+{
+ "url": "https://www.hhs.gov/press-room/asps-gender-dysphoria-statement.html",
+ "institution_id": "us-hhs",
+ "title": "HHS Leaders Commend the American Society of Plastic Surgeons for Disavowing Pediatric Sex-Rejecting Procedures",
+ "date": "2026-02-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "f84c6669b18c541e05f9fadae7a6cee75571f81f4ee1262c76c3133d6eea57a0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Deputy Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Deputy Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Centers for Medicare",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Centers for Medicare",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "HHS General Counsel Mike Stuart",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "HHS General Counsel Mike Stuart",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

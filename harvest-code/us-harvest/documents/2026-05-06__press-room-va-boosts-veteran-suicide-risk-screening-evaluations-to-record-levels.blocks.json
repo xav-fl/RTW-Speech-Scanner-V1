@@ -1,0 +1,59 @@
+{
+ "url": "https://news.va.gov/press-room/va-boosts-veteran-suicide-risk-screening-evaluations-to-record-levels/",
+ "institution_id": "us-va",
+ "title": "VA boosts Veteran suicide risk screening, evaluations to record levels",
+ "date": "2026-05-06",
+ "date_source": "metadata",
+ "source_document_type": "news-releases",
+ "text_sha256": "890e8b74543e0174e42fc7943fa1bb0d6c707337db668fb01cedbff93e0e7523",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "VA Secretary Doug Collins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

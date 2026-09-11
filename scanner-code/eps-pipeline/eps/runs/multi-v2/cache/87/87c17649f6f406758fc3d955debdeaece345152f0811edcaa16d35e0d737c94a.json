@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D84f6d3139c.P002.S002\"], \"anchor\": \"The Local Audit Office will be instrumental in delivering the manifesto commitment to overhaul the local audit system, and the Chair will ensure the reforms are effectively implemented to provide better value for taxpayers and support economic growth.\", \"reason\": \"Commits to overhauling local audit system for taxpayer value\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

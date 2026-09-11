@@ -1,0 +1,65 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-issues-pesticide-stop-sale-orders-houston-san-antonio-inspections-found",
+ "institution_id": "us-epa",
+ "title": "EPA Issues Pesticide Stop Sale Orders in Houston, San Antonio Inspections Found Unregistered Cleaning Products",
+ "date": "2026-01-12",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "53c9be2f6670741396991eb2c8e7eb4ed5bdfdeba08a5808d2524406e12ded90",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Regional Administrator Scott Mason",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Regional Administrator Scott Mason",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

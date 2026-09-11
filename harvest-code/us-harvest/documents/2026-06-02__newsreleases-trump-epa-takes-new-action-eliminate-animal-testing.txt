@@ -1,0 +1,53 @@
+WASHINGTON -- Delivering on its commitment to end animal testing, U.S. Environmental Protection Agency (EPA) today took two major steps toward replacing outdated, slow, and inhumane animal studies with modern science that is faster, more humane, and more relevant to human health.
+
+For the first time in five years, EPA is updating its list of cutting-edge alternative test methods to replace the use of animal studies, also known as New Approach Methods (NAMs), for chemical assessments under the Toxic Substances Control Act (TSCA). EPA is also introducing a streamlined process for researchers, companies, and other stakeholders to nominate NAMs for consideration in chemical assessments.
+
+Taken together, these two actions mark major strides in meeting the Trump EPA’s goal of eliminating all mammalian animal testing by 2035 – an ambitious target set during the first Trump Administration that Administrator Lee Zeldin recommitted to meeting earlier this year. The Trump EPA has already made great strides reducing animal testing. For instance, EPA implemented the agency’s first-ever lab animal adoption program in April 2025 at one of its premiere research laboratories in Research Triangle Park, North Carolina, and the agency will continue working to get more animals into loving homes. Last year, EPA used high-quality alternative scientific methods to animal testing in its cancer evaluations for dibutyl phthalate and di(2-ethylhexyl) phthalate for the first time ever, sparing an estimated 1,600 mice and rats from undergoing lab experiments.
+
+> When the Trump Administration makes a commitment, we deliver. With today’s announcement, we’re accelerating the shift to modern, gold standard science – without the use of animal testing – by using new, innovative methods to review chemicals,
+
+said EPA Administrator Lee Zeldin.
+
+> By broadening high-quality alternatives and inviting strong new candidates, we can deliver faster, more protective decisions while reducing animal testing.
+
+Under President Trump and Administrator Zeldin's leadership, EPA is prioritizing developing and implementing high-quality alternatives to reduce testing on vertebrate mammals, like rabbits, mice, rats, and dogs, to better align with regulatory requirements, advancing the high bar of gold standard science, and efforts to Make America Healthy Again.
+
+The Biden Administration canceled the agency's animal testing phase-out deadlines, delaying scientific progress on developing alternatives that would save more animals from experimentation. Today's actions get that progress back on track.
+
+TSCA directs EPA to use NAMs whenever scientifically appropriate when evaluating chemicals, and to reduce, refine, or replace vertebrate mammal testing. Modern NAMs, including human cell models and advanced computer-based methods, help EPA identify hazards and exposures faster and often with results that are more relevant to people, not laboratory animals. These tools can cut costs and time, reduce animal use, and provide clearer insight into how a chemical works in the body. The result is quicker, more transparent safety decisions that better protect families, workers, and communities while giving businesses clear, up‑to‑date expectations.
+
+EPA is adding 13 new NAMs from external authoritative bodies to the agency’s approved list that industry, researchers, and other stakeholders use to comply with TSCA testing requirements. New additions to the list include:
+
+a new method to evaluate eye hazards with reconstructed human cells;
+
+a method to evaluate phototoxicity using a 3D human cell-based tissue model; and
+
+combinations of Organization for Economic Co-operation and Development (OECD)-validated in chemico and in vitro test data to identify potential dermal sensitization hazard, dermal sensitization potency, and a quantitative point-of-departure.
+
+EPA last updated its NAMs list in 2021. By updating the list and committing to do so regularly, EPA provides certainty for industry, which anticipates regular updates on the tools the agency recognizes, and increases transparency, helping stakeholders keep track of newly identified methods.
+
+EPA is also launching a streamlined process for researchers, companies, NGOs, and other stakeholders to nominate NAMs for use in chemical assessments. Stakeholders bring cutting-edge science, real-world data, and fit-for-purpose methods tailored to specific chemicals and use patterns, helping close data gaps and improve accuracy. Accepted methods will be added to EPA's NAMs list.
+
+This open, gold-standard, science-driven pathway will grow the toolbox of reliable alternatives, improve transparency, reduce animal testing, and help deliver clearer, faster, and more predictable chemical safety decisions that support innovation and U.S. competitiveness.
+
+EPA will review any first-round submissions that are sent to nam@epa.gov and then pursue any promising submissions further by providing the submitter with an in-depth form to complete about the NAM, which will then be evaluated by EPA scientists.
+
+Why it matters
+
+Ending animal testing. NAMs advance humane science by reducing and replacing animal use — without sacrificing quality. In many cases, they improve it.
+
+Faster, better protection. NAMs deliver results more quickly and often with greater human relevance, helping EPA catch real risks sooner and protect workers, communities, and consumers.
+
+Clarity that drives innovation. A robust toolbox of validated methods gives industry regulatory certainty, rewards safer product design, and strengthens American scientific leadership.
+
+How to nominate a New Approach Method
+
+EPA wants to hear from the scientists, companies, and innovators building the future of chemical safety. The process is straightforward:
+
+Step 1 — Tell us about it. Email a short description of your method and its validation status to nam@epa.gov
+
+Step 2 — Make the case. If EPA pursues your submission, you'll be asked to complete an in-depth form with supporting scientific information, which EPA scientists will then evaluate.
+
+EPA's subject-matter experts will assess each method for scientific soundness — relevance, reliability, transparency, reproducibility, and fitness-for-purpose — and how well it fits specific pesticide and chemical risk decisions and endpoints.
+
+To view the updated NAMs list, learn more about the nomination process, or explore EPA's broader work to reduce vertebrate animal testing, visit EPA’s List of Alternative Test Methods and Strategies web page.

@@ -1,0 +1,59 @@
+{
+ "url": "https://www.hhs.gov/press-room/hhs-supports-repatriation-us-citizens-specialized-care-facilities.html",
+ "institution_id": "us-hhs",
+ "title": "HHS Supports Repatriation of U.S. Citizens to Specialized Care Facilities",
+ "date": "2026-05-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "a585d83db5c528086c04664c4316e6ab9637732ba38bed0b78629e24c40b42c8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+TITLE: Tech giants meet disability sector to break down barriers at work
+URL: https://www.gov.uk/government/news/tech-giants-meet-disability-sector-to-break-down-barriers-at-work
+DATE: 2026-02-03
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: 
+
+---
+
+Government brings together tech giants and disability charities to improve workplace accessibility.
+
+Discussions explored how emerging technologies can create new job opportunities for disabled people.
+
+Initiative supports the government’s mission to help people into good jobs.
+
+Disabled people are set to benefit from the expertise of some of the world’s tech giants to help make the workplace more accessible to them.
+
+The Department for Work and Pensions hosted a meeting with big tech companies Google, Meta, Microsoft and Amazon, alongside leading UK disability charities to identify practical ways that cutting-edge technology can remove barriers preventing disabled people from finding and keeping jobs.
+
+Technologies such as screen readers, real-time captioning, and AI-powered visual description tools are already helping disabled employees perform tasks.
+
+It marked the first step in a larger conversation the government wants to see take place around assistive technology breaking down barriers to work and complements wider action to help disabled people into work.
+
+This includes the Connect to Work programme which will help 300,000 sick or disabled people into work by the end of this Parliament, and the government’s engagement with employers following Sir Charlie Mayfield’s Keep Britain Working Review.
+
+Work and Pensions Secretary Pat McFadden said:
+
+We must harness the power of technology to open more opportunities for disabled people to work.
+
+By bringing together the biggest names in tech with those who understand the barriers disabled people face, we can identify the tools and approaches that will help build workplaces that truly support everyone.
+
+This is part of our wider mission to Get Britain Working – investing in employment support and working with employers to create genuinely inclusive workplaces.
+
+Vice President Accessibility and Engagement at Meta Maxine Williams said:
+
+Technology has the power to unlock opportunities for everyone, and we’re committed to building tools that help people live, work, and connect on their own terms.
+
+Our AI-powered wearables are transforming accessibility by providing real-time support that helps people with disabilities navigate work and public spaces independently, unlocking new possibilities for employment and connection.
+
+Chief Executive at Scope Mark Hodgkinson said:
+
+There are a million disabled people who want to work, but many face barriers such as inflexible workplaces, negative attitudes and outdated systems.
+
+We need government, employers, and others to come together to tackle these barriers. To make it easier for disabled people to get in work and stay in work.
+
+The current pace of technological development and growth in the availability of accessibility features is an opportunity which cannot be missed.
+
+The Work and Pensions Secretary brought the groups together to explore how existing accessibility innovations can be more widely adopted in workplaces, and to encourage further collaboration on tools designed specifically for employment settings.
+
+Many common workplace technologies now include effective assistive features, and new tools - such as AI-powered glasses that describe surroundings for visually impaired users - are coming onto the market. However, awareness of these tools varies, and many workplaces may not yet be fully set up to use them.
+
+The discussion was about moving beyond tick boxes to explore practical integration of assistive technology in everyday work.
+
+Director of Workforce Staffing at Amazon Jaqui Sampson said:
+
+At Amazon, creating an accessible workplace goes far beyond simply doing the right thing. It’s about unlocking talent. When barriers are removed and technology is designed inclusively, people are better able to thrive at work.
+
+By working with government and disability organisations, we’re helping to ensure innovations are meaningfully embedded in everyday workplaces. This approach strengthens our teams, broadens opportunity and helps build a more inclusive and resilient workforce across the UK.
+
+Head of Accessibility, Diversity, Equity and Inclusion at Guide Dogs UK Alex Pepper said:
+
+It’s encouraging to see major technology companies coming together to open opportunities in the workplace. Assistive technology can remove barriers at work, but it is not a solution on its own. Without accessible recruitment, the right training and affordability, it risks creating new exclusions. At Guide Dogs, we see technology, human expertise and guide dogs as a blended solution – and the same joined-up approach is essential if workplaces are serious about inclusion.
+
+CEO at Lightyear Foundation Jeff Banks said:
+
+Today’s roundtable was an incredibly valuable opportunity to move beyond broad commitments and focus on how AI and assistive and accessible technologies can be embedded into real working environments.
+
+For deaf, disabled and neurodivergent people, the issue is not whether the technology exists, but whether employers understand it, adopt it well, and involve disabled people in shaping how it is used. Collaboration between government, tech companies and disabled-led organisations will be essential if we are serious about turning innovation into more inclusive employment opportunities in the future.
+
+Director of Policy, Policy Connect, Robert McLaren said:
+
+We know Assistive and Accessible Technology is vital to the success of disabled people - I certainly wouldn’t be able to do my job without these tools. That makes the adoption of this technology, in business and the public sector, one of the great challenges and opportunities for our economy.
+
+CEO at Ability Net Amy Low said:
+
+At AbilityNet we have seen tech advancements in the past 5 years alone blow the doors off the art of the possible when it comes to disability inclusion in the workplace.
+
+This gathering was exciting as in the room we had all the right people - big tech, government departments and third sector representatives, many of us with lived experience of disability and neurodivergence - to mount a collaborative campaign to drive this awareness at every level in an organisation.
+
+CEO at Business Disability Forum Diane Lightfoot said:
+
+Technology is moving at pace. Disabled people need to be involved in the design of AI-powered tools from the very beginning to ensure they are designed inclusively.
+
+Employers must also be at the heart of these conversations to make sure solutions are practical, scalable and meet wider business security and compatibility requirements. By coming together, we can harness the potential of technology to remove barriers in the workplace and beyond.
+
+Additional information:
+
+Attendees included representatives from Meta UK, Google, Microsoft, Amazon, Lightyear Foundation, Business Disability Forum, AbilityNet, Disability Rights UK, Regional Stakeholder Network, Scope, Guide Dogs, RNID, Global Disability Innovation Hub, Atech Policy Lab.
+
+A £1 billion government investment has already been announced to help disabled people into employment by the end of the decade. This includes the Connect to Work programme which will help 300,000 sick or disabled people into work by the end of this Parliament.
+
+The Disability Confident scheme is being overhauled with tougher standards and tailored support for smaller businesses, with 19,000 employers have already signed up.
+
+A number of early employer adopters will address issues highlighted in the Keep Britain Working Review have also been launched, and the government announced the national expansion of WorkWell across England, which will support up to 250,000 more people with health conditions.
+
+Nine inactivity trailblazers backed by £125 million are also launching across England and Wales. These bring together health, skills and employment support to help people back into work.

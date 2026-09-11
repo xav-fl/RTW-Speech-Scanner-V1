@@ -1,0 +1,185 @@
+{
+ "url": "https://www.justice.gov/opa/pr/fraud-division-launches-west-coast-strike-force-target-health-care-fraud-schemes-across",
+ "institution_id": "us-justice",
+ "title": "The Fraud Division Launches West Coast Strike Force to Target Health Care Fraud Schemes Across Arizona, Nevada, and Northern California",
+ "date": "2026-04-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "e542cb09323b5526f36765dc38f4236dcfde8ff24af3c6dba7b60b25b80c7e55",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Colin McDonald of the Justice Department’s Fraud Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Colin McDonald of the Justice Department’s Fraud Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Craig H. Missakian",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Craig H. Missakian",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Timothy Courchaine",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Timothy Courchaine",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "First Assistant U.S. Attorney Sigal Chattah for the District of Nevada",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "First Assistant U.S. Attorney Sigal Chattah for the District of Nevada",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "quote",
+   "speaker": "Assistant Administrator Cheri Oz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "quote",
+   "speaker": "Assistant Administrator Cheri Oz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 21,
+   "kind": "quote",
+   "speaker": "Assistant Director Heith Janke of the FBI’s Criminal Investigative Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "quote",
+   "speaker": "Assistant Director Heith Janke of the FBI’s Criminal Investigative Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 24,
+   "kind": "quote",
+   "speaker": "Acting Deputy Inspector General for Investigations Scott J. Lampert of the U.S. Department of Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 25,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 26,
+   "kind": "quote",
+   "speaker": "Acting Deputy Inspector General for Investigations Scott J. Lampert of the U.S. Department of Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 27,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 28,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

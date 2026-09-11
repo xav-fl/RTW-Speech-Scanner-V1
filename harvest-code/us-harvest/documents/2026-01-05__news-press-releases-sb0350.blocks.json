@@ -1,0 +1,47 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0350/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Secures Agreement to Exempt U.S.-Headquartered Companies from Biden Global Tax Plan",
+ "date": "2026-01-05",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "ecfe503ab7423187587c22f2b36e79b1626f81ce7ab0952d6315a718c29349ec",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

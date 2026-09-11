@@ -1,0 +1,107 @@
+{
+ "url": "https://www.justice.gov/opa/pr/defendant-charged-damaging-brooklyn-headquarters-chabad-lubavitch-movement",
+ "institution_id": "us-justice",
+ "title": "Defendant Charged with Damaging the Brooklyn Headquarters of the Chabad-Lubavitch Movement",
+ "date": "2026-03-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "74091424abc50621004ecb08589989e01de6c65ae9940c501de64789a5dfcf6a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Joseph R. Nocella for the Eastern District of New York",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Joseph R. Nocella for the Eastern District of New York",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Director",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Assistant Director",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Commissioner Jessica S. Tisch of the New York Police Department",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Commissioner Jessica S. Tisch of the New York Police Department",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

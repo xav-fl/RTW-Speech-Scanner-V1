@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/06/05/ice-lodges-detainer-asking-north-carolina-officials-not-release-illegal-alien",
+ "institution_id": "us-dhs",
+ "title": "ICE Lodges Detainer Asking North Carolina Officials to Not Release Illegal Alien Charged with Attempted Arson and Hit-and-Run",
+ "date": "2026-06-05",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "68d47966ebce841311652bbc7a626f6c2d3ff1208e45359ab616ea4333e51d1c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

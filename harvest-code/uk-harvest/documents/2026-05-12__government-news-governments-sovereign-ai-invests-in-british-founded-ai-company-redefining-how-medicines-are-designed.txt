@@ -1,0 +1,59 @@
+TITLE: Government’s Sovereign AI invests in British-founded AI company redefining how medicines are designed
+URL: https://www.gov.uk/government/news/governments-sovereign-ai-invests-in-british-founded-ai-company-redefining-how-medicines-are-designed
+DATE: 2026-05-12
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Liz Kendall MP
+
+---
+
+Isomorphic Labs – a company using frontier AI for drug design and development – is the latest to receive investment from Sovereign AI. 
+
+Investment forms part of a raise by London-based scale-up as Britain’s AI sector continues to accelerate. 
+
+Isomorphic Labs is founded by AI pioneer Sir Demis Hassabis, whose breakthroughs have been honoured with accolades including the Nobel Prize and Breakthrough Prize. 
+
+Isomorphic Labs, a London-founded and headquartered company, using AI to design and develop new medicines, has been named as the latest firm to receive investment from the UK Government’s Sovereign AI Fund today (Tuesday 12 May). 
+
+The investment forms part of a fundraise announced by Isomorphic Labs today, as it scales up its work to tackle some of the world’s most serious diseases. 
+
+The company, founded by Nobel Prize-winner Sir Demis Hassabis, is reimagining drug discovery, with AI at its core.
+
+Launched just last month, Sovereign AI is the government’s big bet on promising early-stage AI companies to help them grow, scale and succeed from Britain, offering a range of backing to high-potential AI businesses that are starting out here in the UK.  
+
+It is a venture capital fund with the muscle of the state behind it – moving fast, backing ambition and cutting through the red tape that so often holds brilliant ideas back, so they can go on to succeed globally. 
+
+Science and Technology Secretary Liz Kendall said: 
+
+Isomorphic Labs’ ground-breaking work has the potential to reshape completely how medicines are discovered – cutting years off development and giving real hope to people living with devastating diseases. This is AI at its very best – pushing the boundaries of innovation to improve people’s lives. 
+
+Britain has a proud history of world-changing medical breakthroughs – from penicillin to MRI scanners. Now in the AI era, we are backing a brilliant UK firm working on another huge jump forward in science to the benefit of people across the country and around the world.
+
+Isomorphic’s work builds on the breakthrough success of AlphaFold: the AI model developed by DeepMind that sent shockwaves through the world of science through its ability to accurately predict the structures of proteins –  which are the chemical building blocks of all life on Earth.  
+
+Isomorphic Labs is going beyond AlphaFold, developing a number of proprietary breakthrough AI models that together form its unified drug design engine, across multiple therapeutic areas and drug modalities.
+
+This backing brings the number of startups receiving equity investment from Sovereign AI to 3 since it launched, and the overall number of startups receiving Sovereign AI backing - including support accessing compute –  to 9. 
+
+Sovereign AI Head of Ventures Joséphine Kant said: 
+
+Isomorphic is one of the most consequential companies being built anywhere in the world today, and it’s being built in Britain. Sovereign AI exists to invest in the companies that will shape what this country becomes next. Sir Demis Hassabis, Max Jaderberg, and the team they have built deserve a country willing to match their ambition with its own, and we intend to make sure it does.
+
+AI is the defining technology of our era. For Britain to shape its own future in the years ahead, the UK needs to strong, homegrown AI capability. That means backing the very best AI innovators, founders and entrepreneurs to bring their ideas to life here - and grow and succeed from the UK. With the third largest AI market in the world and more AI startups than anywhere else in Europe, the UK is starting from a position of strength but we know we need to go further and faster.  Sovereign AI is the government doing exactly that: making sure the next wave of AI breakthroughs are built in Britain so the benefits – jobs, growth and innovation –  remain on our shores.  
+
+All of the companies Sovereign AI supports have a meaningful presence here in the UK, and are set to create jobs and contribute to the economy here. 
+
+ENDS 
+
+Notes to editors: 
+
+The Fund will invest directly in promising UK AI companies to help them scale in the UK. Our investments will be focused on companies at the early and growth-stage. 
+
+Typical equity investments will be worth around £1-10 million, though every company’s circumstances will be different.  
+
+Like most venture capital funds we do not comment on specific investment figures as they are commercially sensitive.
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

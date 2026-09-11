@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about fiscal/political devolution — transferring powers and responsibilities to local/regional governments — framed around improving local service delivery, and linked to a budget process. The core mechanism is intergovernmental relations and the structure of sub-national government.\n\n- **H7 (State and Local Government • Intergovernmental Relations)** is the precise fit: devolution is the transfer of authority/fiscal powers between levels of government.\n- **R5 (Regional Government Analysis)** is a secondary fit: the stated rationale is better local services for communities, which is the regional/local public goods delivery dimension.\n\nNo other substantive economic dimension is present.\n\n```json\n{\"primary\": \"H\", \"secondary\": [\"R\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

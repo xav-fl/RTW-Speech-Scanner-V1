@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/department-of-state-charter-flight-departs-middle-east-to-united-states/",
+ "institution_id": "us-state",
+ "title": "Department of State Charter Flight Departs Middle East to United States",
+ "date": "2026-03-04",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "8c1398012bdaf867a11da860f7d20dde1ac956afd09e42aaa333454e844786d1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260514",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor announces technical amendment restoring regulations on exemptions for executive, administrative, professional employees",
+ "date": "2026-05-14",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "beded94b654455b65fc4dcfe0dc419b2d688700a7c4d1e4a2cb4441b9b7be25e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

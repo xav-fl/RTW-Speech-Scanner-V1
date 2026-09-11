@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/third-meeting-of-the-u-s-mexico-security-implementation-group/",
+ "institution_id": "us-state",
+ "title": "Third Meeting of the U.S.-Mexico Security Implementation Group",
+ "date": "2026-01-24",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "6206ccda6d51ff5ddca71f4b9096faa26fe399786ff3c36a9e03dbd99916cb5c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

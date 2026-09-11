@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-closes-60-year-old-tennessee-desegregation-case",
+ "institution_id": "us-justice",
+ "title": "Justice Department Closes 60-Year-Old Tennessee Desegregation Case",
+ "date": "2026-02-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "e09d2d67470f2deab30789eb52a38b642470aedf51aef66968fbe5e9e2abfcda",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Attorney D. Michael Dunavant for the Western District of Tennessee",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "U.S. Attorney D. Michael Dunavant for the Western District of Tennessee",
+   "method": "speech_verb"
+  }
+ ]
+}

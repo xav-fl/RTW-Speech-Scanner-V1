@@ -1,0 +1,77 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/03/23/fresno-man-sentenced-14-months-prison-paycheck-protection-program-loan-fraud",
+ "institution_id": "us-sba",
+ "title": "Fresno Man Sentenced to 14 Months in Prison for Paycheck Protection Program Loan Fraud",
+ "date": "2026-03-23",
+ "date_source": "metadata",
+ "source_document_type": "OIG news release",
+ "text_sha256": "e67e494ad328d234e31d551ded498350157c55fe68b9dc1f1d18d4b2d902a335",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Grant",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Grant",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "FBI Sacramento Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

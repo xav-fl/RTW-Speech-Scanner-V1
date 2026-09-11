@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/terrorist-designation-of-comando-vermelho-and-primeiro-comando-da-capital/",
+ "institution_id": "us-state",
+ "title": "Terrorist Designation of Comando Vermelho and Primeiro Comando da Capital",
+ "date": "2026-05-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "a1efaa8d5f4c4deec8b958746a4de749528cbcdf7cefdc9fdecde9c5bd753e12",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

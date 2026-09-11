@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/five-years-after-the-july-11-demonstrations-cubans-deserve-a-better-future/",
+ "institution_id": "us-state",
+ "title": "Five Years After the July 11 Demonstrations, Cubans Deserve A Better Future",
+ "date": "2026-07-11",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "32b4a43e6f70b9ecf4c51d008d1686fe1545c01baead5953a733dbc094610d49",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

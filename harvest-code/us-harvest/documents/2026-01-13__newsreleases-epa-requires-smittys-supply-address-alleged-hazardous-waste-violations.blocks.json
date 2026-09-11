@@ -1,0 +1,65 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-requires-smittys-supply-address-alleged-hazardous-waste-violations",
+ "institution_id": "us-epa",
+ "title": "EPA Requires Smitty’s Supply to Address Alleged Hazardous Waste Violations",
+ "date": "2026-01-13",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "02aeed9915d6e7caa94ebe69bf32da13fd69a90218809921d976664862e904cd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

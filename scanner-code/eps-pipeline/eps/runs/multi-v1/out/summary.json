@@ -1,0 +1,121 @@
+{
+  "documents_screened": 40,
+  "documents_with_observations": 3,
+  "observations_kept": 13,
+  "observations_rejected": 5,
+  "speaker_warnings": [
+    {
+      "doc_id": "Dd282462fec",
+      "url": "https://www.gov.uk/government/news/childrens-health-further-protected-with-energy-drinks-ban",
+      "warning": "manifest says 'Sharon Hodgson MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D1a75b8ff1f",
+      "url": "https://www.gov.uk/government/news/hundreds-more-schools-to-save-on-bills-as-government-solar-drive-slashes-millions-off-energy-costs",
+      "warning": "manifest says 'The Rt Hon Bridget Phillipson MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D2685ee2767",
+      "url": "https://www.gov.uk/government/news/millions-of-unpaid-carers-to-get-recognition-and-earlier-support",
+      "warning": "manifest says 'The Rt Hon Stephen Kinnock MP' but the officeholder table says 'Bridget Phillipson' for 2026-07-14 — check the dates"
+    },
+    {
+      "doc_id": "D214060d0e2",
+      "url": "https://www.gov.uk/government/publications/basildon-borough-council-local-plan-intervention-letter",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Angela Rayner' for 2026-07-21 — check the dates"
+    },
+    {
+      "doc_id": "D2bb207332e",
+      "url": "https://www.gov.uk/government/news/new-pm-says-government-can-bring-back-hope-to-britain-and-launches-drive-to-end-rough-sleeping-at-the-earliest-opportunity",
+      "warning": "the officeholder table gives 2 eligible speakers for 'Ministry of Housing, Communities and Local Government' on 2026-07-20 ('Steve Reed', 'Angela Rayner') — fix the overlapping spell dates in officeholders.csv"
+    },
+    {
+      "doc_id": "Dd1140fd589",
+      "url": "https://www.gov.uk/government/publications/political-party-spending-limits-independent-assessment",
+      "warning": "manifest says 'Samantha Dixon MBE MP' but the officeholder table says 'Steve Reed' for 2026-07-17 — check the dates"
+    },
+    {
+      "doc_id": "D2530dc11a8",
+      "url": "https://www.gov.uk/government/news/crackdown-on-baseless-legal-claims-to-get-britain-building",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'Steve Reed' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "Ddff5ee1502",
+      "url": "https://www.gov.uk/government/publications/city-of-london-corporation-local-plan-intervention-letter-16-july-2026",
+      "warning": "manifest says 'The Rt Hon Matthew Pennycook MP' but the officeholder table says 'Steve Reed' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D29a75a5aa1",
+      "url": "https://www.gov.uk/government/news/major-84bn-investment-advances-uk-nuclear-deterrent-and-backs-british-industry",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-30 — check the dates"
+    },
+    {
+      "doc_id": "D4269ebad86",
+      "url": "https://www.gov.uk/government/news/funding-boost-for-british-companies-to-supercharge-uk-munitions-production",
+      "warning": "manifest says 'Luke Pollard MP' but the officeholder table says 'Wes Streeting' for 2026-07-29 — check the dates"
+    },
+    {
+      "doc_id": "D7a87aef753",
+      "url": "https://www.gov.uk/government/news/pay-rise-for-royal-fleet-auxiliary-personnel-supporting-royal-navy-operations",
+      "warning": "manifest says 'Calvin Bailey MBE MP' but the officeholder table says 'Wes Streeting' for 2026-07-28 — check the dates"
+    },
+    {
+      "doc_id": "Dc6a6f90339",
+      "url": "https://www.gov.uk/government/news/fleet-of-spy-drones-to-equip-british-soldiers-and-back-jobs-in-south-west-england-and-wales",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-25 — check the dates"
+    },
+    {
+      "doc_id": "D4a5bae4efa",
+      "url": "https://www.gov.uk/government/news/commonwealth-games-return-to-glasgow-with-uk-government-backing",
+      "warning": "manifest says 'Stephanie Peacock MP' but the officeholder table says 'Wes Streeting' for 2026-07-24 — check the dates"
+    },
+    {
+      "doc_id": "D59255787d5",
+      "url": "https://www.gov.uk/government/news/uk-takes-command-of-multinational-force-for-ukraine",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-24 — check the dates"
+    },
+    {
+      "doc_id": "D24acd91472",
+      "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streeting-mp-keynote-speech-at-agf-defence-summit-farnborough-international-air-show",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-22 — check the dates"
+    },
+    {
+      "doc_id": "Da9ccede4d7",
+      "url": "https://www.gov.uk/government/news/708-million-to-accelerate-uk-next-generation-air-combat-technology",
+      "warning": "manifest says 'The Rt Hon Wes Streeting MP' but the officeholder table says 'Wes Streeting' for 2026-07-22 — check the dates"
+    },
+    {
+      "doc_id": "D2530dc11a8",
+      "url": "https://www.gov.uk/government/news/crackdown-on-baseless-legal-claims-to-get-britain-building",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-07-16 — check the dates"
+    },
+    {
+      "doc_id": "D0bbc70baaa",
+      "url": "https://www.gov.uk/government/news/castles-cruises-and-coastlines-untangling-the-rules-around-tying-the-knot",
+      "warning": "manifest says 'Baroness Levitt KC' but the officeholder table says 'David Lammy' for 2026-07-15 — check the dates"
+    },
+    {
+      "doc_id": "Dfea6f2b8ca",
+      "url": "https://www.gov.uk/government/news/legal-aid-investment-to-keep-cases-moving-and-cut-delays-for-victims",
+      "warning": "manifest says 'Sarah Sackman KC MP' but the officeholder table says 'David Lammy' for 2026-07-15 — check the dates"
+    }
+  ],
+  "speaker_sources": {
+    "officeholder_table": 38
+  },
+  "reject_reasons": {
+    "anchor phrase does not appear exactly in the units": 4,
+    "duplicate of an earlier observation": 1
+  },
+  "by_institution": {
+    "Ministry of Defence": 8,
+    "Department for Education": 4,
+    "Ministry of Housing, Communities and Local Government": 1
+  },
+  "files": {
+    "dataset": "runs\\multi-v1\\out\\dataset.csv",
+    "internal": "runs\\multi-v1\\out\\observations_internal.csv",
+    "screening_log": "runs\\multi-v1\\out\\screening_log.csv",
+    "rejected": "runs\\multi-v1\\out\\rejected.csv"
+  }
+}

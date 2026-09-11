@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/status-of-u-s-embassy-kuwait-city/",
+ "institution_id": "us-state",
+ "title": "Status of U.S. Embassy Kuwait City",
+ "date": "2026-03-05",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "9f75bb3648b1de0490ea0a3b605343631123c31066b4891a4deea0bfb9a77c9a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0473/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Moves to Prevent Abuse of Community Development Financial Institutions Fund Programs",
+ "date": "2026-04-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "30fae781aadc110d4d1b9201dfc1f66fb87cdaa675813fb74441c7703abf3027",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

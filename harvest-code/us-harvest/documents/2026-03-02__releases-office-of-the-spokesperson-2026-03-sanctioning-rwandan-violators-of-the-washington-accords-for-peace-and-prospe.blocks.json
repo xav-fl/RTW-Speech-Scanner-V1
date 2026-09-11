@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/sanctioning-rwandan-violators-of-the-washington-accords-for-peace-and-prosperity/",
+ "institution_id": "us-state",
+ "title": "Sanctioning Rwandan Violators of the Washington Accords for Peace and Prosperity",
+ "date": "2026-03-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "2972c5d98b80ff86bf8d2029af8d03f40ea4d64bed4470f8c0973bc2b9cbf858",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

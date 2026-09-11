@@ -1,0 +1,41 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260715",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites big rig parts distributer for confined space, safety hazards after worker fatality at company’s Corpus Christi facility",
+ "date": "2026-07-15",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "0a30ee8f27e6e1e3e33303f7c67a0ee0f3cd3999249389d83200d42000478186",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

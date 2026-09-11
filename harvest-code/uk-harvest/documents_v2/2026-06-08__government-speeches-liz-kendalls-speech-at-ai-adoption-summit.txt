@@ -1,0 +1,163 @@
+I’m delighted to be here, at the wonderful Science Museum, and I’m very proud to take part in this summit on AI adoption.
+
+A summit that I believe will play a crucial role in shaping a better future for Britain.
+
+My message today – and throughout London Tech Week – is simple.
+
+AI is the defining technology of our lifetime. The engine of economic power and hard power, with the potential to transform almost every aspect of our lives.
+
+This government is determined to win for Britain on AI. That means seizing the opportunities, dealing with the risks, and shaping this powerful technology to work for all - not just the powerful few. So we give everyone a stake in our AI future.
+
+Because that is how our country and our people succeed.
+
+The reason we are all here today is to focus on how we as a country adopt AI. How we take it out of the lab and put it into practice and into people’s hands.
+
+Now I studied history at university, not computer science, engineering or maths, and what history teaches us about the emergence of general purpose technologies, from the industrial revolution onwards, is that the countries which lead and get the most from each wave of change aren’t just those who come up with the initial discovery or innovation, but those who adopt it the broadest and the deepest.
+
+So they drive stronger growth, improve productivity, and increase demand for more innovation.
+
+Propelling the country forward.
+
+That is why, in January this year I announced the government’s goal to make Britain the fastest adopting AI country in the G7. A bold ambition, but one I believe is well within our grasp.
+
+[Political content redacted]
+
+This government takes a different approach, because we believe an active government, that works in partnership with businesses and the workforce, delivers better results.
+
+And we are already making a difference.
+
+We’re providing free, flexible AI skills for all, working in partnership with many of you here in this room, with a goal of upskilling 10 million people by 2030 - almost a third of the workforce…the biggest national training effort since Harold Wilson’s Open University.
+
+Two million of these will be workers in small and medium sized businesses, the backbone of our economy.
+
+And I am delighted to tell you today that, as of April, 1.7 million courses have already been delivered.
+
+And we are signing up 8 new industry partners in priority sectors like manufacturing and the creative industries to further widen our reach.
+
+We’re tackling the regulatory barriers that are holding back the safe adoption of AI.
+
+Our new Regulatory Innovation Office (RIO) is speeding up the delivery of British innovation, from a game changing drone blood delivery service at Guy’s and St Thomas’s hospital to trialling street sweeping robots in Milton Keynes.
+
+We are establishing new AI Sandboxes so companies can safely test AI products, and through our new pioneering cross-economy AI Growth Lab which we will legislate for in our Regulating for Growth Bill.
+
+And because having trust in AI and knowing AI tools are reliable is absolutely critical to adoption, we are backing the emerging AI Assurance industry, including by supporting professional development and through our £11m AI Assurance Fund.
+
+But we know there’s much more to do to deliver our ambitions.
+
+Last summer, when we launched our Modern Industrial Strategy, we set out how AI can drive improvements across our 8 priority sectors.
+
+And today we are publishing reports from our AI champions in these sectors on how to embrace AI and make it work in industries that are vital to our country’s future.
+
+I have read each of them and urge everyone to do the same.
+
+I want to thank and pay tribute to all of the champions for their really fantastic work.
+
+While each has their unique take, there are many similar themes.
+
+The huge potential for AI to grow the different sectors, and drive innovation unimaginable even a few years ago.
+
+The need for businesses to trust AI tools; have a workforce with the right skills; and deliver tangible benefits in every region, not just London and the South East.
+
+And - crucially – the importance of delivering change in partnership with the workforce, focusing on the medium and long-term benefits for business, not just short-term pressures.
+
+Because we know workers often understand best where innovation is really needed, and what actually delivers concrete productivity improvements.
+
+We will seriously consider all of the proposals that have been put forward.
+
+But today I can announce our initial AI adoption package, backed by more than £200m of government investment.
+
+We are expanding to £100m our “Bridge AI scheme”, matching British companies with British AI, along with support on skills, AI assurance and practical help so business know how to use AI to secure the strongest growth potential.
+
+We’re investing £5m in each of our AI Growth Zones to support local businesses to adopt AI and upskill the local workforce.
+
+We’re expanding our Tech Town programme, which Barnsley has pioneered.
+
+We’re launching a new national prize for the best examples of pro-worker AI adoption, chaired by the Nobel economist Simon Johnson.
+
+And we are increasing funding to match our best and brightest masters students with British start-ups, scale-ups and blue chip companies, so we double down on our incredible talent pipeline.
+
+This brings me back to the critical issue of AI and jobs.
+
+AI has huge potential to create more good jobs.
+
+We’re seeing this already through the 15,000 jobs being created in our AI Growth Zones, and through the success of brilliant British companies like Sage, Wayve and Graphcore.
+
+AI will also change jobs, helping to free up time currently taken on red tape and repetitive tasks so employees can focus more on the things that matter most.
+
+But the truth is some jobs are at risk. That is always the case with the onset of new technologies, especially such a powerful general purpose technology as AI.
+
+This is something the public is deeply concerned about and an issue reflected in many of the adoption reports.
+
+A clear majority of the public think AI will reduce more jobs than create or enhance them.
+
+These concerns are particularly acute among young people, with only 1 in 10 believing the benefits of AI will be shared fairly across society.
+
+A key driver of this is the potential impact of AI on early job and career opportunities.
+
+Those of us who believe in the immense potential of AI to improve people’s lives must take these concerns seriously.
+
+Because if we don’t, people will be far more reluctant to adopt AI. And that will be bad for businesses, for workers, and our country as a whole.
+
+This government wants AI to enhance people’s jobs, not threaten them. To drive opportunity, as well as productivity. To be pro-business and pro-worker.
+
+So our plan for AI will help people through the jobs transition, alongside workers and trade unions, not leave them to cope on their own as we saw under previous governments, especially in the ‘80s and ‘90s.
+
+I believe workers should have a say over how AI is implemented in their workforce; that change should be done with them and not to them.
+
+A partnership on adoption.
+
+Employers should be having these conversations with their workforce and trade unions to alleviate concerns that technology is being introduced to replace jobs and instead focus on using AI to enhance jobs – as I know many of you already are.
+
+We also have a real opportunity to shape this technology to support young people – our children and grandchildren – the talent and workforce of the future.
+
+So today, I am making three announcements.
+
+First, our new Early Careers Jobs Alliance – a partnership between trade unions and businesses to ensure young people continue to have high quality routes into work and careers – backed by an initial £20m of government funding.
+
+It will be co-chaired by our AI Sector Champion and head of Manchester Digital, Katie Gallagher, and Mike Clancy from Prospect trade union.
+
+Working across all regions, the Alliance will map how entry-level work is changing, assess what skills are required and how to redesign entry-level roles.
+
+It will initially focus on digital and tech before expanding to our other industrial strategy sectors, with the first report, published this autumn.
+
+Second, we are announcing new support for young people who are at risk of not being in education, employment or training.
+
+Starting this year in the North West, and rolled out across the country next year this will provide free summer AI bootcamps to give school leavers with few or no qualifications basic AI skills, followed by a guaranteed apprenticeship for those who successfully complete the course, working with companies like JD Sports and BAE Systems, in towns including Blackpool, Blackburn, Wigan and Oldham.
+
+Alongside this, we are trialling a new programme in the North East for young people who have already fallen out of education or work, that will provide intensive, on the job training and structured job placements in AI.
+
+Working with Mayor Kim McGuiness and companies like Sage, Microsoft and Accenture, to ensure young people from all walks of life can benefit from our AI future.
+
+Last but by no means least, we will back the tech and AI talent of the future through our £187m Tech First scheme, helping 1 million young people get the skills they need, with a new target that 40% will be in the most disadvantaged schools.
+
+So 400,000 pupils in deprived areas will get the chance to fulfil their potential, and so our businesses can draw on the talent that exists in every part Britain. That is how they and our country succeed.
+
+Let me finish by saying this.
+
+We are on the cusp of great change, I don’t need to tell you that.
+
+An industrial revolution in a decade. This brings huge opportunities which Britain is well placed to grasp.
+
+We also have a responsibility to deal with the real risks that it poses.
+
+Some people may think the challenge we face is too daunting, or that we should somehow try and ‘pause AI’.
+
+But that would simply leave this incredibly powerful technology to be exploited by others. Based on their interests and values, not ours.
+
+The choice we face isn’t between a world that has AI and one that does not.
+
+It is a choice between shaping this technology in our interests or being left at its mercy and whim.
+
+History teaches us: we are not powerless in the face of technological change.
+
+Collectively, we can choose to act.
+
+And I believe, in partnership with all of you here in this room, we can shape this technology to work for all.
+
+For our businesses, for our workers, and for our young people.
+
+And give everyone a stake in our AI future.
+
+So let’s get on with the job.
+
+Thank you.

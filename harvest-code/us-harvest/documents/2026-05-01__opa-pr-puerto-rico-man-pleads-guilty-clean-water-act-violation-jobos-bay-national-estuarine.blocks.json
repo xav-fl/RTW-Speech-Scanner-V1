@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/puerto-rico-man-pleads-guilty-clean-water-act-violation-jobos-bay-national-estuarine",
+ "institution_id": "us-justice",
+ "title": "Puerto Rico Man Pleads Guilty to Clean Water Act Violation in Jobos Bay National Estuarine Research Reserve",
+ "date": "2026-05-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "d83d99a94bcb0860086e19f77d32738580ffcdeef3417deed413493e741abd78",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

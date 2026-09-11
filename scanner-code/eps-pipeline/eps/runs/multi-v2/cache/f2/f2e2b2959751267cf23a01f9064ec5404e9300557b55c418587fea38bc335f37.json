@@ -1,0 +1,5 @@
+{
+  "text": "I need to identify the specific mechanism here.\n\nThe quotation talks about \"fixing the broken placements market\" for children - this refers to the market for children's residential care placements (foster care, children's homes, etc.), where profiteering is occurring. This is about welfare provision for children in care.\n\nThe mechanism is: **regulating the children's care placements market to reduce profiteering**\n\nChecking the codes:\n- I38 — Government Policy • Provision and Effects of Welfare Programs — this fits well, as it's about government policy on welfare provision for children (care placements)\n- I3 is Welfare, Well-Being, and Poverty — children in care placements are a welfare population\n\nThis is about children's social care placements market regulation — a welfare program provision issue, not health or education.\n\n{\"mechanism\": \"regulating children's care placements market to curb profiteering\", \"sub\": \"I3\", \"detailed\": \"I38\"}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

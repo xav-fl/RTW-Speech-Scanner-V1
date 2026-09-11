@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/republic-of-rwanda-national-day/",
+ "institution_id": "us-state",
+ "title": "Republic of Rwanda National Day",
+ "date": "2026-07-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "3ee81fa83943ab5f6aebf77ebd2b16a46f0852fd2d018433dce5314d85dcd0a7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

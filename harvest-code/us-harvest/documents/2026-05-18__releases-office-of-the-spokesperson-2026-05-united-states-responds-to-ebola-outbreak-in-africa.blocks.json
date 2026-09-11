@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-responds-to-ebola-outbreak-in-africa/",
+ "institution_id": "us-state",
+ "title": "United States Responds to Ebola Outbreak in Africa",
+ "date": "2026-05-18",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "c1936c69e997918301e955613a0485de57246302592e44357c6fca2531c4c075",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

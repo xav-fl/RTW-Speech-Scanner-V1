@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0444/",
+ "institution_id": "us-treasury",
+ "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with Saudi Arabian Minister of Finance Mohammed Al-Jadaan",
+ "date": "2026-04-15",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "b819f45c4637577c22d802e6ae0ec45e95de0249d828a5bedce829694c42a4bd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

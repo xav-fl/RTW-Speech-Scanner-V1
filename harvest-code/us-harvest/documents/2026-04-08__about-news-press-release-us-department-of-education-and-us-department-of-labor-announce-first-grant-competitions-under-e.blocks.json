@@ -1,0 +1,83 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-labor-announce-first-grant-competitions-under-elementary-and-secondary-education-partnership",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education and U.S. Department of Labor Announce First Grant Competitions Under Elementary and Secondary Education Partnership",
+ "date": "2026-04-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "4bfb0b05ba9c2add20c58da92645ce67b4192827635ae32a018488d0aff8bfa3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for the Office of Elementary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for the Office of Elementary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Employment",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Employment",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about using AI technology to improve learning outcomes for children, with particular focus on disadvantaged students and those with special educational needs. The core mechanism is AI as an educational tool to enhance learning equity.\n\nPrimary: **I2** (Education and Research Institutions) — directly about educational outcomes and learning for children, including those with special needs.\n\nSecondary: **O3** (Innovation, Technological Change) — AI as a technological innovation being applied to education is substantively important here, not just incidental.\n\nNo H code warranted — this is about educational outcomes, not public finance or government structure.\n\n{\"primary\": \"I\", \"secondary\": [\"O\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

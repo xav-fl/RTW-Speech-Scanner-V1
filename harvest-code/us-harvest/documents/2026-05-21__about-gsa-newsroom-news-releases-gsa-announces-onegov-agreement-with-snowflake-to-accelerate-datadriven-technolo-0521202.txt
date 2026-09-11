@@ -1,0 +1,33 @@
+Federal agencies can now save up to 50% on transformational tools for IT enhancement and data streamlining through this new OneGov Agreement
+
+WASHINGTON — Today, the U.S. General Services Administration (GSA) announced a new OneGov agreement with Snowflake, the AI Data Cloud company, to empower federal workers to break down data silos, enhance mission effectiveness, and accelerate their IT modernization initiatives.
+
+> GSA’s OneGov agreement with Snowflake supports President Trump’s priority to accelerate technological innovation by giving agencies streamlined access to a shared data platform that breaks down long-standing silos,
+
+said GSA Administrator Edward C. Forst.
+
+> With stronger cross-agency data capabilities, we can accelerate AI tools tailored to each agency’s mission. We’re already seeing promising early projects, and through OneGov, GSA is delivering a unified federal approach that saves taxpayer dollars and increases value for the American people.
+
+All new U.S. Snowflake customers will automatically receive:
+
+A 20% discount on computer services.
+
+A 26.67% discount on storage.
+
+Potential eligibility for higher-tier discounts of up to 50% reduced consumption cost on compute, as overall usage increases.
+
+The one year agreement is available until September 30, 2027 through GSA’s Multiple Award Schedule under the OneGov framework.
+
+> Federal agencies are seeking efficiency in cost, enterprise scaled performance, intuitive design driven tools for the workforce and simplicity in contracting - we are the only multi-cloud data platform that can meet this charge on day one,
+
+said Snowflake CEO, Sridhar Ramaswamy.
+
+> Our participation in the GSA OneGov program is part of our commitment to our nation’s public servants. We are removing procurement barriers so agencies can focus on what truly matters: leveraging their data to make faster, more informed decisions that better serve the American people.
+
+GSA is building on the momentum of the OneGov initiative by extending agreements, expanding access to services, deepening collaboration and laying the groundwork for more scalable AI infrastructure across the government, in alignment with the goals of the White House AI Action Plan [PDF].
+
+###
+
+About GSA: GSA provides centralized procurement and shared services for the federal government. GSA manages a nationwide real estate portfolio of approximately 360 million rentable square feet, oversees more than $126 billion in products and services via federal contracts, and delivers technology services to millions of people across dozens of federal agencies. GSA’s mission is to deliver exceptional customer experience and value in real estate, acquisition, and technology services to the government and the American people. For more information, visit GSA.gov and follow us at @USGSA.
+
+Contact press@gsa.gov

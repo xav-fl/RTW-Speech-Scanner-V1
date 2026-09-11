@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-for-the-u-s-eu-counterterrorism-dialogue/",
+ "institution_id": "us-state",
+ "title": "Joint Press Statement for the U.S.-EU Counterterrorism Dialogue",
+ "date": "2026-06-26",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "29560aa4a567b86924d8670bdd3ed64f3c304c4ac9cfd651c1c91fd8719bfe33",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

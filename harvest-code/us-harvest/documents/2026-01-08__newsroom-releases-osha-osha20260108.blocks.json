@@ -1,0 +1,35 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260108",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor investigation finds Texas trucking company wrongly terminated driver for raising safety concerns",
+ "date": "2026-01-08",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "a5a2ccfb26bf127946b992555609e25478686477ddcef5a713700d313a21e0bf",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

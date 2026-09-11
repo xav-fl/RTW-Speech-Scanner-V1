@@ -1,0 +1,29 @@
+{
+ "url": "https://www.justice.gov/opa/pr/doj-and-ftc-extend-deadline-public-comment-guidance-business-collaborations",
+ "institution_id": "us-justice",
+ "title": "DOJ and FTC Extend Deadline for Public Comment on Guidance on Business Collaborations",
+ "date": "2026-04-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "9e9684f803995724bc140335ebcf9995c88f009386b59299d5d9a400e171637f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

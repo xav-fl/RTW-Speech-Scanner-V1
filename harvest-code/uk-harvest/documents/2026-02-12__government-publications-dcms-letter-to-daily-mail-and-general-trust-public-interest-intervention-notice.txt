@@ -1,0 +1,9 @@
+TITLE: DCMS letter to Daily Mail and General Trust - Public Interest Intervention Notice
+URL: https://www.gov.uk/government/publications/dcms-letter-to-daily-mail-and-general-trust-public-interest-intervention-notice
+DATE: 2026-02-12
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+DCMS letter to Daily Mail and General Trust plc regarding issue of Public Interest Intervention Notice.

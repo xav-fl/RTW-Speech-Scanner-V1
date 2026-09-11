@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/further-u-s-sanctions-on-cuban-regime-elites/",
+ "institution_id": "us-state",
+ "title": "Further U.S. Sanctions on Cuban Regime Elites",
+ "date": "2026-05-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "a6df9f0ce3698de75af35efe2f51c0868b74a27dfaae415b970be6dc913f42c0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "The Trump Administration",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

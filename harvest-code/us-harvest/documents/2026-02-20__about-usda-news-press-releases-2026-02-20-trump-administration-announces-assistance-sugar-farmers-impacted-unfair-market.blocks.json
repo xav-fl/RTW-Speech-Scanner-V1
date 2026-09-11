@@ -1,0 +1,59 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/02/20/trump-administration-announces-assistance-sugar-farmers-impacted-unfair-market-disruptions",
+ "institution_id": "us-agriculture",
+ "title": "Trump Administration Announces Assistance for Sugar Farmers Impacted by Unfair Market Disruptions",
+ "date": "2026-02-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "f8929021dcd5a24440635662cb4f52f888525e25266c69cf7ae46a2fc4beb112",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary Brooke Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Brooke Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

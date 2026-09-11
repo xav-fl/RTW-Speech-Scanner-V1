@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/u-s-imposes-sanctions-on-hizballah-aligned-officials-and-business-associates/",
+ "institution_id": "us-state",
+ "title": "United States Imposes Sanctions on Hizballah-Aligned Officials and Business Associates",
+ "date": "2026-06-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "787c4e2dcd8abc5c60dc1ef3334df630b4e78ba12737f952055a3cff77d91294",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

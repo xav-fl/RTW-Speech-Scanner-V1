@@ -1,0 +1,5 @@
+{
+  "text": "I need to identify the specific mechanism: a government fund enabling community groups to purchase and operate local venues (pubs, clubs, community centres, sports halls) — this is about community/nonprofit takeover of assets, supported by public policy.\n\nThe key elements:\n- Community groups taking over assets = nonprofit/social enterprise activity\n- Fund supporting this = public policy toward nonprofit institutions\n- The venues include recreational/hospitality facilities\n\nThe mechanism is a public fund supporting community (nonprofit) groups to acquire and run local assets. This fits best under L3 (Nonprofit Organizations and Public Enterprise), specifically L38 (Public Policy) since it's government policy directed at nonprofit/community institutions.\n\n{\"mechanism\": \"public fund enabling community groups to acquire and operate local venues\", \"sub\": \"L3\", \"detailed\": \"L38\"}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

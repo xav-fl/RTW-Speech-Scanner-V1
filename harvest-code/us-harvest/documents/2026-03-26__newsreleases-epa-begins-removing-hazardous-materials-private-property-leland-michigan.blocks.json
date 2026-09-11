@@ -1,0 +1,41 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-begins-removing-hazardous-materials-private-property-leland-michigan",
+ "institution_id": "us-epa",
+ "title": "EPA Begins Removing Hazardous Materials from Private Property in Leland, Michigan",
+ "date": "2026-03-26",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "8fa870e36d59e8ac34b38bf4e220395b441c2a9385e45c6eb25d8d549ccf182f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

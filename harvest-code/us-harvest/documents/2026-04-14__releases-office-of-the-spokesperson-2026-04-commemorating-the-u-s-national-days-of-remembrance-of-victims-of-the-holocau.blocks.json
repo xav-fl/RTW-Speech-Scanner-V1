@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/commemorating-the-u-s-national-days-of-remembrance-of-victims-of-the-holocaust/",
+ "institution_id": "us-state",
+ "title": "Commemorating the U.S. National Days of Remembrance of Victims of the Holocaust",
+ "date": "2026-04-14",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "d71ba71271161945492f6d3960da5909e85dc090d2f97082d8f149897f12ad5a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

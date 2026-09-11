@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/marking-31-years-since-the-panchen-lamas-disappearance/",
+ "institution_id": "us-state",
+ "title": "Marking 31 Years Since the Panchen Lama’s Disappearance",
+ "date": "2026-05-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "5829d63a8c1c126a0482384a473d2cd7f85dba56ec2eae98abe146ab9e08b657",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

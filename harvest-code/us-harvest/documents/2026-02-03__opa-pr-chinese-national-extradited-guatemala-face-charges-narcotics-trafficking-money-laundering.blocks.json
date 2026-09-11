@@ -1,0 +1,71 @@
+{
+ "url": "https://www.justice.gov/opa/pr/chinese-national-extradited-guatemala-face-charges-narcotics-trafficking-money-laundering",
+ "institution_id": "us-justice",
+ "title": "Chinese National Extradited from Guatemala to Face Charges of Narcotics Trafficking, Money Laundering and Material Support to Terrorism",
+ "date": "2026-02-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "9c46c57634f65a8d832680d7af3ef8ab80141ec480268eb15880fdcafc52db59",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

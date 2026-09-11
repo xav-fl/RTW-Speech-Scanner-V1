@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260108",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers more than $259M in back wages for workers in 2025",
+ "date": "2026-01-08",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "3c71d3a23a0c406831b974cd66c2e60d100f98d9200c148f0eb3381eafcc4025",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

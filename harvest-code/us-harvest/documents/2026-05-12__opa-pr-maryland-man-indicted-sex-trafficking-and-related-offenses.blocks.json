@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/maryland-man-indicted-sex-trafficking-and-related-offenses",
+ "institution_id": "us-justice",
+ "title": "Maryland Man Indicted for Sex Trafficking and Related Offenses",
+ "date": "2026-05-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "b0471dd2e5e4f3ee379b8265189f26a794ef644c0702cdaef2a3c0c39a422745",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

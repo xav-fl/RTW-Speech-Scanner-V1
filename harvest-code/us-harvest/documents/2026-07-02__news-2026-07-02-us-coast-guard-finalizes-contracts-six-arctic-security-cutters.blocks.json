@@ -1,0 +1,89 @@
+{
+ "url": "https://www.dhs.gov/news/2026/07/02/us-coast-guard-finalizes-contracts-six-arctic-security-cutters",
+ "institution_id": "us-dhs",
+ "title": "U.S. Coast Guard Finalizes Contracts for Six Arctic Security Cutters",
+ "date": "2026-07-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "d3a0f9060d46cc286125683157fb2a4a0602f70c21ad5c414338ca6af4c3df0e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary of Homeland Security Markwayne Mullin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Secretary of Homeland Security Markwayne Mullin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Admiral Kevin E. Lunday",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Admiral Kevin E. Lunday",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

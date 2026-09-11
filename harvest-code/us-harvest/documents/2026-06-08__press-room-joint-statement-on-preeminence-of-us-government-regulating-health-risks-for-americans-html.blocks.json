@@ -1,0 +1,35 @@
+{
+ "url": "https://www.hhs.gov/press-room/joint-statement-on-preeminence-of-us-government-regulating-health-risks-for-americans.html",
+ "institution_id": "us-hhs",
+ "title": "Joint Statement on the Preeminence of the U.S. Government Regulating Health Risks for Americans",
+ "date": "2026-06-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "ed05ac66eb349af612bbf1c45d70ddc1c41cbc59d090f600ab9b0323bb328b1d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

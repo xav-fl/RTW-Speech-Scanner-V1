@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/re-election-of-thai-prime-minister-anutin-charnvirakul/",
+ "institution_id": "us-state",
+ "title": "Re-Election of Thai Prime Minister Anutin Charnvirakul",
+ "date": "2026-03-21",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "dfb685974261d1ca1b41d2bd12b570ffa88812f23e77dffbdf3855a3f5aa94cd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

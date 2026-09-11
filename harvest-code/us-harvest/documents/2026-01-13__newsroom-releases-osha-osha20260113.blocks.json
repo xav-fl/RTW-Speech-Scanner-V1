@@ -1,0 +1,41 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260113",
+ "institution_id": "us-labor",
+ "title": "Department of Labor, Methuen Obayashi Joint Venture partner to promote safety, health during Cemetery Brook Drain Tunnel Project",
+ "date": "2026-01-13",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "6ece0a74a99981ec5eb5325fa8c5239b4eb5d2d9c91cbee6b03468c2267bb3f4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260311",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor awards $2M to help Kentucky workers affected by mass layoffs, closures",
+ "date": "2026-03-11",
+ "date_source": "listing",
+ "source_document_type": "ETA",
+ "text_sha256": "0fbbf5c45046a1a3f4f85f07a1a8b0473ff78b5408ec377cb07ae73002459b9b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

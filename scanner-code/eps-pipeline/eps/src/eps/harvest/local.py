@@ -19,6 +19,7 @@ which documents entered the dataset.
 from __future__ import annotations
 
 import csv
+import json
 import re
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -27,7 +28,7 @@ from typing import Iterable, Optional
 from ..models import DELIVERY_STATUS, DOC_TYPES, Document, sha256
 from ..normalise import (
     SEGMENTER_VERSION, html_to_text, make_doc_id, mark_attribution,
-    normalise_text, segment,
+    normalise_text, segment, SPEAKER_IS_DOCUMENT_EVIDENCE,
 )
 from .store import RawStore, canonical_url
 
@@ -205,6 +206,47 @@ def validate_row(row: dict, line: int) -> list[str]:
 # --- ingestion -------------------------------------------------------------
 
 
+SIDECAR_SUFFIX = ".blocks.json"
+
+
+def load_block_sidecar(path: Path) -> Optional[list[dict]]:
+    """Read `<name>.blocks.json` beside `<name>.txt`, if one exists.
+
+    US-only in practice: the US collector emits a sidecar because its pages
+    carry no frame line for `mark_attribution()` to read. UK documents have no
+    sidecar, get None, and take the original path untouched.
+
+    A sidecar whose recorded hash does not match the text beside it is a hard
+    error. That is the failure mode worth catching loudly -- a stale sidecar
+    still lines up by length and attributes every quote to the wrong person.
+    """
+    sidecar = path.with_name(path.stem + SIDECAR_SUFFIX)
+    if not sidecar.is_file():
+        return None
+
+    try:
+        payload = json.loads(sidecar.read_text(encoding="utf-8"))
+    except (OSError, ValueError) as exc:
+        raise IngestError(f"{sidecar}: cannot read block sidecar: {exc}") from exc
+
+    blocks = payload.get("blocks")
+    if not isinstance(blocks, list):
+        raise IngestError(f"{sidecar}: no 'blocks' list")
+
+    expected_hash = payload.get("text_sha256")
+    if expected_hash:
+        # Newline-normalised, so a corpus written on Windows and read on Linux
+        # does not look tampered with.
+        body = path.read_bytes().decode("utf-8", errors="replace")
+        body = body.replace("\r\n", "\n").replace("\r", "\n")
+        if sha256(body) != expected_hash:
+            raise IngestError(
+                f"{sidecar}: text_sha256 does not match {path.name}; "
+                f"the sidecar is stale"
+            )
+    return blocks
+
+
 def ingest_row(row: dict, store: Optional[RawStore] = None) -> Document:
     path = Path(row["path"].strip())
     raw_bytes = path.read_bytes()
@@ -229,6 +271,13 @@ def ingest_row(row: dict, store: Optional[RawStore] = None) -> Document:
             segment(text, doc_id),
             doc_type,
             (row.get('speaker_hint') or '').strip() or None,
+            load_block_sidecar(path),
+            (row.get('country') or '').strip(),
+            # The manifest's "notes" column carries the collector's
+            # speaker_evidence. Only its top value grants whole-document
+            # attribution, and only a source that named the officeholder as
+            # the document's author earns it (H-86).
+            (row.get('notes') or '').strip() == SPEAKER_IS_DOCUMENT_EVIDENCE,
         )
 
     delivery = (row.get("delivery_status") or "").strip() or "unknown"

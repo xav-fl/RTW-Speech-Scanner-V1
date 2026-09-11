@@ -1,0 +1,65 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-announces-members-office-science-advisory-committee-strengthening-gold",
+ "institution_id": "us-energy",
+ "title": "Energy Department Announces Members of the Office of Science Advisory Committee, Strengthening Gold Standard Science in America",
+ "date": "2026-02-03",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "13b1ec973d2c1db61389729db37f1dfd7e42f568bb84c29c13d7dfb9db8c30ce",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "DOE Under Secretary for Science",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "DOE Under Secretary for Science",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

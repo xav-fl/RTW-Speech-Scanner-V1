@@ -1,0 +1,13 @@
+WASHINGTON, DC — The US Office of Personnel Management (OPM) today announced the expansion of access to USA Class, an artificial intelligence (AI)–enabled tool designed to accelerate the creation of federal position descriptions, to all federal agencies using USA Staffing at no additional cost.
+
+This move integrates USA Class directly into the federal government’s primary hiring platform, providing hiring managers and human resources professionals with modern tools to reduce administrative burdens and speed the hiring process.
+
+USA Class uses AI technology trained on thousands of existing federal position descriptions to help managers quickly generate structured draft duties and assist classifiers in aligning those duties with OPM classification standards. The tool is designed to strengthen collaboration between managers and classifiers, reduce rework, and significantly shorten timelines needed to prepare position descriptions, an essential first step in the hiring process.
+
+> Hiring great talent starts with clearly defining the job, but too often that step takes longer than it should,
+
+OPM Director Scott Kupor said.
+
+> By bringing USA Class to USA Staffing users government-wide, we’re using AI to cut unnecessary delays, reduce administrative burden, and help agencies move faster to hire the people they need to deliver for the American public.
+
+USA Class functionality, training, and implementation support will begin rolling out to USA Staffing users in early May. The release of USA Class reflects OPM’s broader efforts to modernize federal hiring and bring advanced technology into core HR processes. Learn more by watching in OPM’s video here and read Director Kupor’s blog about this announcement here.

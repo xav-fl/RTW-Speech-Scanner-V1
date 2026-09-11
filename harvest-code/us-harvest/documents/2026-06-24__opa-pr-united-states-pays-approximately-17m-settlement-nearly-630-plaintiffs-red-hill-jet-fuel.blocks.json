@@ -1,0 +1,77 @@
+{
+ "url": "https://www.justice.gov/opa/pr/united-states-pays-approximately-17m-settlement-nearly-630-plaintiffs-red-hill-jet-fuel",
+ "institution_id": "us-justice",
+ "title": "United States Pays Approximately $17M Settlement for Nearly 630 Plaintiffs in Red Hill Jet Fuel Spills",
+ "date": "2026-06-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "8e4f982372c20125b0abbfd6b8c3cbe54b8e384b9f33f363d5b13f588d962c0e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

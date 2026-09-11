@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/sanctioning-two-sinaloa-cartel-networks-for-trafficking-illicit-fentanyl/",
+ "institution_id": "us-state",
+ "title": "Sanctioning Two Sinaloa Cartel Networks for Trafficking Illicit Fentanyl",
+ "date": "2026-05-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "9875f22a4328627c2d0451f57f092156543366f58decdb21d27f75f914965514",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

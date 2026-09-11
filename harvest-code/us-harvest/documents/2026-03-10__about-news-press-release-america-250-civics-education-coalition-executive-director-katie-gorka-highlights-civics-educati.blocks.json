@@ -1,0 +1,77 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/america-250-civics-education-coalition-executive-director-katie-gorka-highlights-civics-education-history-rocks-event-new-hampshire",
+ "institution_id": "us-education",
+ "title": "America 250 Civics Education Coalition Executive Director Katie Gorka Highlights Civics Education at “History Rocks!” Event in New Hampshire",
+ "date": "2026-03-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "6a343d757444138a24add9ee0ff2d206b655151edebb1bfb334c416068f20e7a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "America",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "America",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

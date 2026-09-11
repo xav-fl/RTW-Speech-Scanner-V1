@@ -1,0 +1,17 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/the-37th-anniversary-of-the-tiananmen-square-massacre/",
+ "institution_id": "us-state",
+ "title": "The 37th Anniversary of the Tiananmen Square Massacre",
+ "date": "2026-06-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "eef3efc91e71de1cf26c838ebddad645d42dc86adecea1ee862796b45d8b05ad",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/implementing-the-trump-administrations-america-first-global-health-strategy-in-angola/",
+ "institution_id": "us-state",
+ "title": "Implementing the Trump Administration’s America First Global Health Strategy in Angola",
+ "date": "2026-03-19",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "923366e73dc6020e135d090e7534ff93f77ac4a7a7a1e89ecced60eeb84da50e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-opens-title-ix-investigation-all-womens-smith-college-admitting-men",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Opens Title IX Investigation into All-Women's Smith College for Admitting Men",
+ "date": "2026-05-04",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "d730a7419409e28b7e1169854d900923756faa59eb93ed9180b2a76b0205fd68",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

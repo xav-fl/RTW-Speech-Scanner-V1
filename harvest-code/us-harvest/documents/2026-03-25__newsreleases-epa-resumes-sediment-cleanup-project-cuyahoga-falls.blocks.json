@@ -1,0 +1,53 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-resumes-sediment-cleanup-project-cuyahoga-falls",
+ "institution_id": "us-epa",
+ "title": "EPA Resumes Sediment Cleanup Project in Cuyahoga Falls",
+ "date": "2026-03-25",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "b6ba20bdab332195d1e9fe158204f7782169107831a16040e77132544e63294c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

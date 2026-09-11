@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/advancing-u-s-rok-security-and-economic-cooperation/",
+ "institution_id": "us-state",
+ "title": "Advancing U.S.-ROK Security and Economic Cooperation",
+ "date": "2026-05-19",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "1603a49fc09c07987e8333fd91a822ba3245090a20c19cdb144974ecd90ada54",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

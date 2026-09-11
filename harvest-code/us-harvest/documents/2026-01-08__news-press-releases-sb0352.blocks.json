@@ -1,0 +1,41 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0352/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Announces the United States’ Immediate Withdrawal from the Green Climate Fund",
+ "date": "2026-01-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "52b250d98690c8163fb7a670824a9108c524a8e2b918a148a45cdb75a3b8fe7a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260210",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites Horizon Biofuels for willful, serious safety violations after deadly explosion in July 2025",
+ "date": "2025-07-29",
+ "date_source": "body",
+ "source_document_type": "OSHA",
+ "text_sha256": "0b6a02f9e85a03b2dfa1bedba28c048faddadc0b52326aa9848340d3bc64451e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

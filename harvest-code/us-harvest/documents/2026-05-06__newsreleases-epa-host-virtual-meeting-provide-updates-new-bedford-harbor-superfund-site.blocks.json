@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-host-virtual-meeting-provide-updates-new-bedford-harbor-superfund-site",
+ "institution_id": "us-epa",
+ "title": "EPA to Host Virtual Meeting to Provide Updates on the New Bedford Harbor Superfund Site",
+ "date": "2026-05-06",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "6252497315a5184e066f0f8f0882e6d4181736089bca54fcc363e3706313dda9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

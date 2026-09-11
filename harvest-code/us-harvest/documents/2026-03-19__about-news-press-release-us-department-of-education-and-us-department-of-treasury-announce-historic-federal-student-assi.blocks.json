@@ -1,0 +1,77 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-treasury-announce-historic-federal-student-assistance-partnership",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education and U.S. Department of the Treasury Announce Historic Federal Student Assistance Partnership",
+ "date": "2026-03-19",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "42c49c9255cef756017128c2db82f8749be7c8bc59ec11b7b79bd1d4de7829f2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Education Linda McMahon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Education Linda McMahon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260225-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers over $409K in back wages from Little Caesars franchise operator for 32 workers",
+ "date": "2026-02-25",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "af6ad3547c23a91ac1619fa92f629254119e0a773762a214574989baa3a01e62",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

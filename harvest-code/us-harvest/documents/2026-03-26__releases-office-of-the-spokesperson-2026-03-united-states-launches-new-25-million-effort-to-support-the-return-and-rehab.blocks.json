@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/united-states-launches-new-25-million-effort-to-support-the-return-and-rehabilitation-of-forcibly-relocated-ukrainian-children/",
+ "institution_id": "us-state",
+ "title": "United States Launches New $25 Million Effort to Support the Return and Rehabilitation of Forcibly Relocated Ukrainian Children",
+ "date": "2026-03-26",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "a599a64218225171d92fcd6bd3d8ec043eff9cc18192cc97afa0067ec09ca43b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

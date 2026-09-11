@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the quotation, the specific mechanisms are:\n1. A £15m funding boost for standalone fire and rescue authorities via a multi-year Local Government Finance Settlement\n2. A \"funding floor\" protecting 2025/26 income in real terms\n\nThe substance is intergovernmental fiscal transfers — specifically, how central government allocates and guarantees funding to local/regional fire and rescue authorities. This is squarely about H7 (State and Local Government • Intergovernmental Relations), covering the finance settlement structure and the funding floor mechanism.\n\nThe fire and rescue service dimension could touch H4 (Publicly Provided Goods) as a secondary, since the funding is specifically for a public safety service. However, the quotation is primarily about the funding formula and floor mechanism, not the service delivery itself.\n\n{\"primary\": \"H7\", \"secondary\": [\"H4\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

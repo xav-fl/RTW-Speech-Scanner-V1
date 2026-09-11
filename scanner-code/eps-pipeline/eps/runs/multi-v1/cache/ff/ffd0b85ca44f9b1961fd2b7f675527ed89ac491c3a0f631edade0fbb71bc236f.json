@@ -1,0 +1,5 @@
+{
+  "text": "I need to identify the specific economic mechanism in this quotation.\n\nThe statement is about defense spending - specifically arguing that military resources/equipment (\"kit\") must be provided efficiently, linking investment with modernization. The core claim is about:\n1. Defense expenditure (spending on military resources and equipment)\n2. Efficiency/value-for-money in that spending (\"every penny is spent wisely\")\n3. Modernization paired with investment as a reform agenda\n\nThe primary economic content is **national government expenditure on defense** - specifically the efficiency and reform of defense spending. This falls under H5 (National Government Expenditures and Related Policies), which covers defense spending and expenditure efficiency.\n\nThe secondary dimension is the modernization/reform aspect - linking investment to structural change in defense capability, which touches on O3 (Innovation, Technological Change) as it concerns modernizing military capability through investment.\n\n{\"primary\": \"H5\", \"secondary\": [\"O3\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-announces-293-million-funding-support-genesis-mission-national-science",
+ "institution_id": "us-energy",
+ "title": "Energy Department Announces $293 Million in Funding to Support Genesis Mission National Science and Technology Challenges",
+ "date": "2026-03-17",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "2b61a1810e155653d06dc7001fe5a27ac82c488b9361c7e744d738d0465cca64",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Under Secretary for Science",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Under Secretary for Science",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

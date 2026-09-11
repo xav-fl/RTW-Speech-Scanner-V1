@@ -1,0 +1,83 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/05/13/forest-service-announces-additional-2026-fee-free-day-june-6",
+ "institution_id": "us-agriculture",
+ "title": "Forest Service Announces Additional 2026 Fee‑Free Day on June 6",
+ "date": "2026-05-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "b8e099abb6e3d624cfa97375ba11306356aad103f7bae33cc63fd7ebc83a340d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Forest Service Chief Tom Schultz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Forest Service Chief Tom Schultz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

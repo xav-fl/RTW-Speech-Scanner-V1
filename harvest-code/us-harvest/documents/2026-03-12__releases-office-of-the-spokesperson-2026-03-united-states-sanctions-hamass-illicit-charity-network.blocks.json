@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/united-states-sanctions-hamass-illicit-charity-network/",
+ "institution_id": "us-state",
+ "title": "United States Sanctions Hamas’s Illicit Charity Network",
+ "date": "2026-03-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "22eafbb30ee78949836707ff5068c328c7d5c8dc99fc5689469d6bbeb9071ec0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+The Justice Department’s Antitrust Division filed a proposed settlement today to resolve the United States’ claims against Agri Stats Inc. (Agri Stats) for unlawful information sharing of price, output, and costs among competing meat processors. Filed in the District of Minnesota, the proposed settlement will help lower food prices, undo decades of distorted competition in the broiler chicken market, and ensure that the pork and turkey markets remain free from these anticompetitive practices that harmed American consumers across the country.
+
+> A stable and affordable food supply is critical to our country’s well-being,
+
+said Acting Attorney General Todd Blanche.
+
+> This Department of Justice is laser-focused on making everyday life affordable for all Americans.
+
+> A fair market depends on real competition, not privileged access to competitors’ playbooks,
+
+said Associate Attorney General Stanley Woodward.
+
+> When dominant firms share sensitive data in ways that exclude buyers and the public, they gain an artificial advantage that weakens market discipline and drives up prices for everyday Americans. This settlement proves the Department’s commitment to promoting transparency in the marketplace, enforcing the law, and delivering real relief for American consumers at the grocery store.
+
+> The American people should not have to tolerate business models that only increase their cost of living. The Antitrust Division’s mission is to use the antitrust laws to protect American consumers from inflated prices,
+
+said Acting Assistant Attorney General Omeed A. Assefi of the Justice Department’s Antitrust Division.
+
+> This settlement delivers immediate relief in the meat section of grocery stores across our nation. I am grateful for my talented staff’s dedicated efforts in securing instant justice and to the Attorneys General from California, Minnesota, North Carolina, Tennessee, Texas, and Utah for partnering with us on this matter.
+
+Agri Stats is a data-sharing and consulting company that currently operates in the broiler chicken market and has historically operated in the pork and turkey markets. Agri Stats collects information on prices, output, and costs directly from meat processors’ accounting systems, standardizes that data, and redistributes it back to the processors in granular detail through digital and written reports and in-person meetings. Agri Stats and meat processors have historically refused to make this information available to meat buyers like restaurants, grocery stores, and food distributors.
+
+> When companies decide certain information is too sensitive to share with the broader market, but not too sensitive to share with their closest competitors, that is a significant red flag that competition is being harmed,
+
+said Mr. Assefi.
+
+As alleged in the complaint, this one-sided information exchange reduced competition and enabled systematic price increases and coordinated decisions about how much meat to produce.
+
+The proposed settlement brings an end to important anticompetitive features of Agri Stats’ information exchange. If approved by the court, the proposed settlement will require Agri Stats to:
+
+Stop providing any sales reports or non-public pricing information, which chicken, pork, and turkey processors have systematically used to identify opportunities to increase prices;
+
+Stop reporting production, cost, and labor data at either the company or facility level, which enabled competing processors to adjust output, pricing, or both based on near-total visibility into their rivals’ operations;
+
+Make the vast majority of information that Agri Stats distributes available to all interested domestic purchasers on reasonable and non-discriminatory terms, eliminating the asymmetry of its prior information sharing and increasing market transparency;
+
+Adhere to restrictions on the timeliness of the information that Agri Stats shares;
+
+Report to a court-approved monitor selected by the Department of Justice who will be responsible for reporting on and ensuring compliance with the proposed settlement; and
+
+Establish an antitrust compliance program to ensure data security, whistleblower protections, and mandatory reporting of any future potential violations of the antitrust laws.
+
+Agri Stats’ subsidiary Express Markets Inc. (EMI) will be permitted to continue to provide its price reports in substantially the same manner as it has in the past. Because EMI’s price reports are less detailed and provided to all interested parties, not only meat processors, they were not the focus of the case.
+
+As required by the Tunney Act, the proposed settlement, along with a competitive impact statement, will be published in the Federal Register. Any interested person should submit written comments concerning the proposed settlement within 60 days following the publication to Kate Riggs, Acting Chief, Anti-Monopoly and Collusion Enforcement Section, Antitrust Division, U.S. Department of Justice, 450 Fifth Street NW, Suite 8000, Washington, DC 20530. At the conclusion of the public comment period, the U.S. District Court for the District of Minnesota may enter the final judgment upon finding it is in the public interest.
+
+Anyone with information about anticompetitive conduct in agricultural industries or any other violations of the antitrust laws is encouraged to contact the Antitrust Division’s Citizen Complaint Center at 1-888-647-3258 or antitrust.complaints@usdoj.gov. Information about anticompetitive practices in livestock and poultry markets can also be submitted to the USDA’s and Justice Department’s Agricultural Markets Enforcement Partnership at www.farmerfairness.gov.
+
+Agri Stats is headquartered in Fort Wayne, Indiana.
+
+Note: Read the Proposed Final Judgement here, and the Stipulation and Order here.

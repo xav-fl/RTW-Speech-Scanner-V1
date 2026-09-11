@@ -1,0 +1,9 @@
+TITLE: DAO 07/26 Sharing information covered by injunctions
+URL: https://www.gov.uk/government/publications/dao-0726-sharing-information-covered-by-injunctions
+DATE: 2026-07-28
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+This DAO provides supplementary guidance on the procedures that should be followed in respect of informing the Public Accounts Committee (PAC) and the Comptroller and Auditor General (C&AG) as part of the process for determining whether to seek or renew a super-injunction. Both the PAC and the C&AG expect the C&AG to be informed of any matter with potential material financial consequences so that they may determine the significance of such information for their statutory audit responsibilities.

@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-secures-agreement-south-carolina-protect-rights-military-and-overseas",
+ "institution_id": "us-justice",
+ "title": "Justice Department Secures Agreement with South Carolina to Protect the Rights of Military and Overseas Voters in South Carolina Special Primary Election and Runoff",
+ "date": "2026-07-21",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "226bd6234144ef4f2c3db467286e7b8a19f9cace0691777b34dde40b88bf1e7f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

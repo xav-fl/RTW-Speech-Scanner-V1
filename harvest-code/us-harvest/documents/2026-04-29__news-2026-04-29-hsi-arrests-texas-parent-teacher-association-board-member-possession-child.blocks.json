@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/29/hsi-arrests-texas-parent-teacher-association-board-member-possession-child",
+ "institution_id": "us-dhs",
+ "title": "HSI Arrests Texas Parent Teacher Association Board Member for Possession of Child Pornography",
+ "date": "2026-04-29",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "49073d0eef770d2011d2f86901541feba6d86c9b0382bd0c165c95b2c647ade8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

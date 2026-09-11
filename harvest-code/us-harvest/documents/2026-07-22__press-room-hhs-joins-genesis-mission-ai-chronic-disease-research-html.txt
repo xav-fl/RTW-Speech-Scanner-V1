@@ -1,0 +1,31 @@
+WASHINGTON — JULY 22, 2026 — The U.S. Department of Health and Human Services (HHS) today announced new efforts to support President Donald J. Trump’s Genesis Mission, aligning expertise and capabilities across the Department to harness artificial intelligence in support of biomedical research and accelerate discoveries that improve the health of the American people. These efforts advance a key priority of Secretary Robert F. Kennedy, Jr. to address the nation’s chronic disease epidemic, a prime focus of the MAHA Strategy unveiled by the Trump Administration in September 2025.
+
+> America will lead the next generation of medical discovery by harnessing the power of artificial intelligence,
+
+said Secretary Kennedy.
+
+> We are mobilizing the nation’s best researchers to uncover the root causes of chronic disease, accelerate lifesaving breakthroughs, and help Make America Healthy Again.
+
+Working in partnership with the White House Office of Science and Technology Policy (OSTP), HHS will launch a series of National Science and Technology Challenges that invite America’s scientific community to apply next-generation artificial intelligence to some of the nation’s most urgent health challenges. The flagship challenge will focus on identifying the root causes of chronic disease; additional challenges will accelerate research on pediatric cancer and transform drug discovery and development.
+
+Launched by President Trump in November 2025, the Genesis Mission will usher in a new era of American scientific discovery by harnessing artificial intelligence, advanced computing, and the Nation’s unparalleled research enterprise to solve some of humanity’s greatest challenges. As the Genesis Mission platform is developed, HHS will help shape its biomedical capabilities by contributing diverse scientific datasets and rallying researchers to explore how AI can accelerate breakthroughs that improve the health of the American people.
+
+The centerpiece of HHS’ participation in the Genesis Mission is a government-wide effort — the NIH-led Bio Genesis Mission — which will use artificial intelligence, advanced computing, and cross-sector partnerships to modernize the biomedical research ecosystem and cut in half the time it takes for scientific discoveries to reach patients. By applying advanced AI tools to large and complex datasets with appropriate security and privacy protection spanning multiple scientific disciplines, researchers will be challenged to uncover previously unseen patterns, generate new hypotheses, and identify promising pathways for prevention and treatment.
+
+> Patients living with cancer, chronic disease, and rare conditions cannot afford to wait decades for scientific discoveries to reach them,
+
+said NIH Director Dr. Jay Bhattacharya.
+
+> Through the Bio Genesis Mission, we are harnessing artificial intelligence and advanced computing to help researchers uncover the root causes of disease, accelerate the development of new treatments, and build a biomedical research ecosystem that delivers lifesaving innovations to patients faster, while upholding the rigorous scientific standards and responsible stewardship that earn the public’s trust.
+
+HHS agencies, including NIH, FDA, and ARPA-H, will contribute a broad range of scientific resources to support these efforts, including biomedical research, genomics, public health, and safety data. These rich datasets, combined with the Genesis Mission’s advanced computing capabilities, will help researchers analyze information at a scale and speed that has never before been possible.
+
+In addition to the chronic disease challenge, HHS will launch research challenges focused on:
+
+Accelerating breakthroughs in pediatric cancer research by identifying new biological insights and therapeutic opportunities.
+
+Transforming drug discovery and development by using AI to shorten development timelines, identify promising therapeutic targets, and bring safe, effective treatments to patients faster.
+
+Together, these efforts will help demonstrate how artificial intelligence can strengthen America’s biomedical research enterprise by enabling scientists to generate hypotheses more rapidly, analyze enormous volumes of data, and accelerate discoveries that otherwise could take years using traditional approaches.
+
+By combining America’s world-class researchers with cutting-edge AI and computing infrastructure, the Department aims to unlock discoveries that improve health, reduce the burden of chronic disease, and position the United States as the global leader in AI-driven biomedical innovation.

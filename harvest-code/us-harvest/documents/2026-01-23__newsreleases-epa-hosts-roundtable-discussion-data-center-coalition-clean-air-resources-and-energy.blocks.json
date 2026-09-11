@@ -1,0 +1,101 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-hosts-roundtable-discussion-data-center-coalition-clean-air-resources-and-energy",
+ "institution_id": "us-epa",
+ "title": "EPA Hosts Roundtable Discussion with Data Center Coalition on Clean Air Resources and Energy Reliability",
+ "date": "2026-01-23",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "28dff5ffc080b600b29cb5e839454b2b0cc4c0fe03327e1f6954d79e4a1dd25c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Air Aaron Szabo",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Air Aaron Szabo",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "EPA Deputy Chief of Staff for Policy Pouya Lavian",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Administrator for Strategic Initiatives Caitlin McHale",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

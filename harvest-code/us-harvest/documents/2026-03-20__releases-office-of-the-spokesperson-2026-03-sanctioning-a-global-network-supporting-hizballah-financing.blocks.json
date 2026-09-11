@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/sanctioning-a-global-network-supporting-hizballah-financing/",
+ "institution_id": "us-state",
+ "title": "Sanctioning a Global Network Supporting Hizballah Financing",
+ "date": "2026-03-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "101e00626833a577735b6961dcfaef129f4eb624e689579d2c6b304c46ebccb8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

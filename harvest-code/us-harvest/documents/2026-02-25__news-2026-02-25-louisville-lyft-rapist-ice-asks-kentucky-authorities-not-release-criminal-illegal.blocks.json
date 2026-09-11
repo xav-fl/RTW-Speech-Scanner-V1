@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/25/louisville-lyft-rapist-ice-asks-kentucky-authorities-not-release-criminal-illegal",
+ "institution_id": "us-dhs",
+ "title": "LOUISVILLE LYFT RAPIST: ICE Asks Kentucky Authorities to Not Release Criminal Illegal Alien Charged for Sexual Assaulting a Mother of Four Passenger",
+ "date": "2026-02-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "49f714b783702ba4ff6722362cbbaa4c1100ee302fff21182f9a4922a8c7be2f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/02/25/rollins-vaden-and-forst-announce-disposal-dilapidated-usda-facilities",
+ "institution_id": "us-agriculture",
+ "title": "Rollins, Vaden, and Forst Announce Disposal of Dilapidated USDA Facilities",
+ "date": "2026-02-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "fda406daf32b2c9bf4683a7dd2db992c73bb1261f39fdff7630f85579e2e60d0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Secretary Brooke Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary Brooke Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Deputy Secretary Stephen Vaden",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Deputy Secretary Stephen Vaden",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

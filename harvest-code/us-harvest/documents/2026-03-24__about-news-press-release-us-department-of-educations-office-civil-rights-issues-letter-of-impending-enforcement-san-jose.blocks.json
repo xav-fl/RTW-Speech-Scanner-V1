@@ -1,0 +1,77 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-issues-letter-of-impending-enforcement-san-jose-state-university-title-ix-compliance",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education’s Office for Civil Rights Issues Letter of Impending Enforcement to San Jose State University on Title IX Compliance",
+ "date": "2026-03-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "02339725f53051321b1761c773b95a6e0d7ada451e3bdf7821aabaf5692223e1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

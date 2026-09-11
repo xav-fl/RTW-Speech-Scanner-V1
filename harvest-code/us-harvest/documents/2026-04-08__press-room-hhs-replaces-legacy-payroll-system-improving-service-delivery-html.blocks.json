@@ -1,0 +1,59 @@
+{
+ "url": "https://www.hhs.gov/press-room/hhs-replaces-legacy-payroll-system-improving-service-delivery.html",
+ "institution_id": "us-hhs",
+ "title": "HHS Replaces Legacy COBOL Payroll System, Delivering Faster, More Reliable Services",
+ "date": "2026-04-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "a93710320c8fc9e23e48a824992a6b8b84ed80772b0bcd49d45d545a9319f2c7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "HHS Chief Information Officer Clark Minor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "HHS Chief Information Officer Clark Minor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the quotation, the specific mechanism named is: **efficient allocation of defense spending combined with modernization reform** — the idea that investment must be paired with structural modernization to avoid waste.\n\nThis is about planning and policy for how resources should be deployed — specifically the pairing of investment with modernization as a policy principle. Within the O codes, O2 (Development Planning and Policy) is the closest fit, and O21 (Planning Models • Planning Policy) captures the notion of how spending/investment should be structured and planned.\n\nHowever, this is a stretch — the quotation is really about defense resource allocation efficiency, which doesn't map cleanly to any O code. The best available fit is O21 (Planning Policy), as it concerns the policy principle governing how investment and modernization should be coordinated.\n\n```json\n{\"mechanism\": \"efficient defense investment paired with structural modernization as policy principle\", \"sub\": \"O2\", \"detailed\": \"O21\"}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

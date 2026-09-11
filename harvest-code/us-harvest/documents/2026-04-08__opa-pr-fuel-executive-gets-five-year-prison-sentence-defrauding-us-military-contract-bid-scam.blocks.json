@@ -1,0 +1,155 @@
+{
+ "url": "https://www.justice.gov/opa/pr/fuel-executive-gets-five-year-prison-sentence-defrauding-us-military-contract-bid-scam",
+ "institution_id": "us-justice",
+ "title": "Fuel Executive Gets Five Year Prison Sentence for Defrauding U.S. Military in Contract Bid Scam",
+ "date": "2026-04-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "8baec9bcd6f4d86d5bc418a43943400a9c704c303e800e407dbb4eaf5b8dc53e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Attorney General Omeed A. Assefi of the Justice Department’s Antitrust Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Acting Assistant Attorney General Omeed A. Assefi of the Justice Department’s Antitrust Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Jason A. Reding",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Jason A. Reding",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 18,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about amending eligibility criteria for a business rates relief scheme (\"Supporting Small Business Relief\") specifically concerning vacancy and reoccupation of property. The core mechanism is a tax relief (business rates subsidy) for small businesses, with eligibility rules tied to property occupancy status.\n\n- The instrument is a property tax relief/subsidy → H2 (Taxation, Subsidies, and Revenue)\n- The subject is small business support tied to property vacancy/reoccupation → R3 (Real Estate Markets, Spatial Production Analysis, and Firm Location) is relevant given the property vacancy dimension\n- Small business context → L (Industrial Organization, specifically firm behavior) is a secondary consideration but less specific\n\nPrimary: H (Public Economics, specifically H2 — tax relief/subsidy eligibility rules)\nSecondary: R (Urban/Real Estate — property vacancy and reoccupation criteria)\n\n{\"primary\": \"H\", \"secondary\": [\"R\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/charting-a-new-phase-of-trump-administrations-america-first-global-health-strategy-in-asia-beginning-with-cambodia/",
+ "institution_id": "us-state",
+ "title": "Charting a New Phase of Trump Administration’s America First Global Health Strategy in Asia, Beginning with Cambodia",
+ "date": "2026-04-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "37d01db6818e7bcba8aa1db727f18b054727dab0125417c10e642dc02034fa82",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

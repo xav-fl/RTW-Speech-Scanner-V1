@@ -1,0 +1,59 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-issues-governmentwide-guidance-on-annual-staffing-plans/",
+ "institution_id": "us-opm",
+ "title": "OPM Issues Governmentwide Guidance on Annual Staffing Plans",
+ "date": "2026-07-31",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "6a6ef1bf6ef77c8442fb694fc97ab7d7199a82f5e0afb4be5fc1e24e39ab2853",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

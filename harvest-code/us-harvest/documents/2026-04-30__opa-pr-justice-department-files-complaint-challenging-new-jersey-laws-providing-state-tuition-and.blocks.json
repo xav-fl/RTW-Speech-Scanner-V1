@@ -1,0 +1,71 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-files-complaint-challenging-new-jersey-laws-providing-state-tuition-and",
+ "institution_id": "us-justice",
+ "title": "The Justice Department Files Complaint Challenging New Jersey Laws Providing In-State Tuition and Financial Assistance for Illegal Aliens",
+ "date": "2026-04-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "b261b425e94f5376993a4b6abbafeaf695c0238e77e27a55cd5028d16125fe2b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

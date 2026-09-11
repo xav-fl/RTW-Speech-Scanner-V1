@@ -1,0 +1,71 @@
+{
+ "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-completes-sale-of-former-madawaska-land-port-of-entry-03102026",
+ "institution_id": "us-gsa",
+ "title": "GSA Completes Sale of Former Madawaska Land Port of Entry, Removing Surplus Property from the Federal Footprint",
+ "date": "2026-03-10",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "85202dbafabbd6026869f1f978ac71b70def571d2d63f373a788c2991a91e1a0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward C. Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward C. Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

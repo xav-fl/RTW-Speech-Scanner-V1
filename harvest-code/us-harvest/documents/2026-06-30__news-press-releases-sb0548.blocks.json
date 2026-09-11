@@ -1,0 +1,83 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0548/",
+ "institution_id": "us-treasury",
+ "title": "URIF Holds Fourth Board Meeting at Ukraine Recovery Conference",
+ "date": "2026-06-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "e9b41ca147b0a0c1d7297bec6ae2a7813b87047124f394c382e2ef46c5757cc3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "U.S. Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Yulia Svyrydenko",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "DFC CEO Ben Black",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "DFC CEO Ben Black",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

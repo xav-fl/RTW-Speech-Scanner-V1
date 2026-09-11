@@ -1,0 +1,59 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0438/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Moves to Prevent Abuse of Community Development Financial Institutions (CDFI) Fund Programs",
+ "date": "2026-04-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "fdcc88c247b9e224f626ae2e9912f8718bf4315970bc8e909f6f40e88a42b4ed",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

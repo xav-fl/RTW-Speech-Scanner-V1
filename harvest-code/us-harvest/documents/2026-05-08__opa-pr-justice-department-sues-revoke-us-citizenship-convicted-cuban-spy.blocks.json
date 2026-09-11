@@ -1,0 +1,83 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-sues-revoke-us-citizenship-convicted-cuban-spy",
+ "institution_id": "us-justice",
+ "title": "Justice Department Sues to Revoke US Citizenship of Convicted Cuban Spy",
+ "date": "2026-05-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "37041d33fae15db658bd933296c75c0fe4f8f8da5acc5dea4a280966c9d6968c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett Shumate",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett Shumate",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Jason A. Reding",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Jason A. Reding",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

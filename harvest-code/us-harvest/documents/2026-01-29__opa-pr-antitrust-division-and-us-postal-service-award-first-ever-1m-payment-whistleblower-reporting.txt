@@ -1,0 +1,37 @@
+The Antitrust Division today announced its first-ever whistleblower reward: a $1 million reward to a whistleblower who provided information that led to EBLOCK Corporation resolving criminal antitrust and fraud charges through a deferred prosecution agreement, under which it has agreed to pay a $3.28 million criminal fine.
+
+EBLOCK Corporation offers an online auction platform for used vehicles. In November 2020, EBLOCK acquired Company A, another online auction platform for used vehicles. According to the Criminal Information and Deferred Prosecution Agreement filed today in the U.S. District Court for the Central District of California, EBLOCK did not take immediate action after the acquisition to end the bid-rigging conspiracy and fraud at Company A. From November 2020 to February 2022, individuals at Company A conspired with individuals at Company B to suppress and eliminate competition for used vehicles sold on Company A’s online auction platform, in violation of the Sherman Act, 15 U.S.C. § 1. EBLOCK also did not take immediate action to end “shill bidding” on Company A’s platform, resulting in the placement of fake bids intended to artificially increase the sales prices for used vehicles, in violation of 18 U.S.C. § 1343.
+
+> Whistleblowers serve as the Justice System’s greatest disinfectant against criminal antitrust conspiracies,
+
+said Deputy Assistant Attorney General Omeed A. Assefi of the Justice Department’s Antitrust Division.
+
+> A car is the second largest purchase most Americans will make in their lifetimes. This whistleblower helped expose a brazen $16 million scheme that made it more expensive for hardworking Americans to afford second-hand cars across the country. This $1 million reward not only recognizes a whistleblower for bravely stepping forward to report crimes to the Antitrust Division, but also underscores the indispensable role whistleblowers will continue to play in the Division’s criminal enforcement program. Remember, the first company in an antitrust cartel that reports its collusion to the Antitrust Division might receive Leniency — but the race is faster now, because employees and their attorneys are incentivized to blow the whistle and beat their companies to the Division’s doorstep.
+
+> Today’s reward shows that the Antitrust Division leverages whistleblower reports to drive forward our investigations,
+
+said Acting Director of Criminal Enforcement Daniel Glad of the Justice Department’s Antitrust Division.
+
+> If a whistleblower provides new information that ultimately assists the Antitrust Division in bringing charges, the whistleblower might receive a significant award — even if the criminal activity has already ended.
+
+> Whistleblowers play a critical role in helping law enforcement to identify and investigate a wide variety of criminal activities,
+
+said Acting Assistant Director Mark Remily of the FBI’s Criminal Division.
+
+> In this case, information from a whistleblower led to the identification and dismantlement of a criminal antitrust conspiracy, that if unreported, would have continued to harm American consumers who were unknowingly overpaying for automobiles.
+
+> In this case, the defendant used the U.S. Mail to send documentation related to the scheme; a scheme that valued illegal profits over protecting unsuspecting car buyers. The Postal Inspection Service does not tolerate this abuse of the U.S. Mail or its customers and will pursue these types of criminals wherever they are,
+
+said Chief Postal Inspector Gary Barksdale.
+
+> This $1 million dollar award comes only six months after the Whistleblower Rewards Program first started. This award shows the commitment the U.S. Postal Service and the Antitrust Division to support those who provide accurate, actionable intelligence about antitrust and related competition crimes with a connection to the U.S. Mail.
+
+As described in the court documents, legacy employees at Company A conspired with employees at Company B to share bidding information and agree on the maximum amount Company A or Company B would bid on certain vehicles. Company A employees provided special access and user permissions to Company B that enabled it to view the confidential bidding information of other buyers and sellers on its auction site. The co-conspirators maintained a shared inventory of vehicles purchased pursuant to the bid rigging scheme, and they coordinated to relist those vehicles and place shill bids with the intention of artificially increasing the prices paid by legitimate buyers. They also misrepresented the numbers and identities of these fake bidders during the online auctions by commissioning the development of software that would automatically place shill bids under the names of actual auto dealerships without those dealerships’ consent. The co-conspirators pooled and split the profits from the scheme. During the course of these actions, various documents in support of the scheme were sent via U.S. Mail.
+
+In addition to the $3.28 million fine, the deferred prosecution agreement requires EBLOCK to undertake remedial measures, including implementing an appropriate compliance program and cooperating with the Justice Department’s ongoing criminal investigation and any resulting prosecutions.
+
+Federal law protects employees who report criminal antitrust violations from retaliation by their employers. At all times, the Antitrust Division will take reasonable steps to protect whistleblowers and minimize risks that use of the information will lead to public identification. More information on confidentiality and anti-retaliation protections is on the Confidentiality page.
+
+The Antitrust Division works with its law enforcement partners the U.S. Postal Inspection Service and the U.S. Postal Service Office of Inspector General to pay rewards to whistleblowers. Whistleblowers who voluntarily report original information about antitrust and related offenses that result in criminal fines or other recoveries of at least $1 million may be eligible to receive a whistleblower reward. Whistleblower awards can range from 15 to 30 percent of the money collected. For more information on the Antitrust Whistleblower Rewards Program, including a link to submit reports, visit www.justice.gov/atr/whistleblower-rewards.
+
+The Federal Bureau of Investigation and the U.S. Postal Inspection Service investigated the case. Trial Attorneys Melanie Krebs-Pilotti and Patrick Hallagan, and Assistant Chief Kristina Srica for the Antitrust Division’s Washington Criminal Section, are prosecuting the case.

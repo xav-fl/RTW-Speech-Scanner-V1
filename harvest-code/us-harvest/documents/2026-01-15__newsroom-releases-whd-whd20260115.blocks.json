@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260115",
+ "institution_id": "us-labor",
+ "title": "Federal court orders Wisconsin-based medical care partnership to pay back wages, damages to 68 employees denied overtime",
+ "date": "2026-01-15",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "cef1648e42cebdf6c898991edcac806a15c63142cc0c6a5757e5a1456aae3995",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

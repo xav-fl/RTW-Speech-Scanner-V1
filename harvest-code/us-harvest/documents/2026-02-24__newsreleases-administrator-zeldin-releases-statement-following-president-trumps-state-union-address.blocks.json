@@ -1,0 +1,35 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-zeldin-releases-statement-following-president-trumps-state-union-address",
+ "institution_id": "us-epa",
+ "title": "Administrator Zeldin Releases Statement Following President Trump’s State of the Union Address",
+ "date": "2026-02-24",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "6efe4f628facad232ec72ac69c04d0893db36193cea12a8e3612e71bf8d93bff",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Administrator Lee Zeldin",
+   "method": "speech_verb"
+  }
+ ]
+}

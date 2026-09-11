@@ -1,0 +1,101 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-officials-and-local-leaders-highlight-civics-education-history-rocks-events-montana-and-oklahoma",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Officials and Local Leaders Highlight Civics Education at 'History Rocks!' Events in Montana and Oklahoma",
+ "date": "2026-04-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "041445e44be6cc86524c17a9d0f326eca192b86346e31f089b167dcb7adf81cd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Department of Education Assistant Secretary for Postsecondary Education Dr. David Barker",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Department of Education Assistant Secretary for Postsecondary Education Dr. David Barker",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0462/",
+ "institution_id": "us-treasury",
+ "title": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Her Majesty Queen Maxima of the Netherlands and Minister of Finance Eelco Heinen of the Kingdom of the Netherlands",
+ "date": "2026-04-19",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "c10b03632e5abcfcb44b7c9c56529e5c5f3feb2919422e6a4bae4a8465828282",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osec/osec20260218",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor to probe California’s Unemployment Insurance program to address fraud and improper payment concerns",
+ "date": "2026-02-18",
+ "date_source": "listing",
+ "source_document_type": "Office of the Secretary",
+ "text_sha256": "a61240b2823829246c917ef57866efaea94bce9f213994244ae8f31917e49085",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Labor Lori Chavez-DeRemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

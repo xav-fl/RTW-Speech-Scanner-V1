@@ -1,0 +1,111 @@
+TITLE: Lord Vallance speech to London Tech Week
+URL: https://www.gov.uk/government/speeches/lord-vallance-speech-to-london-tech-week
+DATE: 2026-06-09
+GOVUK_TYPE: speech
+LINKED_SPEAKERS: Lord Vallance
+
+---
+
+Thanks very much and good morning everybody. I got a bit side-tracked when Ben said that the happy hour was underlined. I just wondered if it was happy or hour that was underlined.
+
+Look, the UK has always been a country of discovery and invention. And if you go back to the mid 18th century, towards the second-half of the 18th century, a group of people came together every full moon in Birmingham, the Birmingham Lunar Society.
+
+And in that society there were entrepreneurs, business people, engineers, scientists, philosophers, and between them they got canals going, they discovered oxygen, Joseph Priestley, the steam engine, Watt, Pottery, Wedgwood revolutionised the pottery industry.
+
+They talked about medicine, they talked about geology, they talked about botany, they invented microscopes, they made things accessible to people and of course they were essentially the foundation of the Industrial Revolution.
+
+I think that mix of people is exactly what we’re talking about now, people from all of those areas coming together.
+
+Now with less than 1% of the world’s population, the UK produces 6% of the research publications and 12% of the most highly cited research publications.
+
+It’s that curiosity, the insatiable appetite to ask questions and seek answers that creates the knowledge which ultimately transforms things and creates breakthroughs that have lasting impact across industrial sectors and society.
+
+And that link of course is not linear.
+
+So we need the conditions that allow curiosity to thrive and that’s good in this country, but we also need to make sure that ideas are translated into innovation, scale successfully, and deliver real-world impact.
+
+I said, I think on my first day in this job, the day after the election in ‘24, I said to the Secretary of State and to the Prime Minister, you don’t get above average growth if you don’t have science and tech companies.
+
+So if you want above average growth in this country, you’ve got to get this right. And that’s why science, research and innovation sits at the very heart of the government’s growth mission and indeed the industrial strategy.
+
+And it’s worth noting that the industrial strategy not only lays out specific science and technology points, but it is woven through every single part of it. And as somebody said to me, it’s the first time we’ve read an industrial strategy in the UK that actually you don’t have to look in the appendix to see science and technology. So that’s a big change.
+
+And that’s what’s going to give us the advantage that long-term, above-average growth depends on. And we’re backing that ambition with record investment. We’ve committed £86 billion to research and development during this spending review and that was at a time when budgets were really and are really tight, and that supports new industries, accelerates business growth, ensures that innovation improves lives right the way across the country.
+
+And at the centre of that is UKRI. And UKRI under Ian Chapman’s leadership is being reshaped to strengthen the full research and innovation pipeline.
+
+First, £14.5 billion is committed to that curiosity-driven research. The sorts of things that frankly politicians should not make decisions on what happens there, the sort of thing that comes bottom up and then ultimately some of it leads to something that’s massively important, other bits don’t.
+
+Second is £8 billion targeted towards more applied research for the priorities of society and government, the sorts of things that really matter to us in society, whether that’s trying to work out how you get safer streets, how you end up with opportunities for all, how you make the health service actually improve through innovation.
+
+And the third bucket is £7 billion to support innovative companies, to support them to start, scale and of course to support R&D intensive larger companies. And all of that’s underpinned by £8 billion in skills, infrastructure, state-of-the-art facilities that are needed to make this work.
+
+So there’s a very logical approach to how UKRI is approaching its investment and there’s another billion more allocated to the Advanced Research and Invention Agency, and you’ll be hearing from Matt Clifford later on, to fund breakthroughs in a way where you take a big societal challenge and try and tackle that through the partnerships that are needed from academia, businesses and others. And that has a huge potential to open up new areas and drive new company formation.
+
+In the industrial strategy, there was a 10 year plan for national renewal with a high-skilled, more connected, and resilient economy. It includes every aspect of science and technology, including life sciences. But I want to talk about something at the very heart of that, and that’s the digital and technology sector plan which focus on 6 frontier areas where the UK has world-leading strength.
+
+Advanced connectivity technologies, AI, cybersecurity, engineering biology, quantum and semiconductors.
+
+Since we published the plan 12 months ago, we’ve invested £4 billion in these 6 frontier technologies and launched a sovereign AI venture fund. And this is something I’ll come back to, a billion pound commitment to buy scaled quantum computers, a procurement option, something that will pull things through.
+
+And let me just take the quantum as an example. If you look at what we’ve done over the past 14 or so years there, there’s been a big investment in R&D.
+
+That big investment in R&D and a more coordinated approach to R&D has led to that becoming an engineering issue, not just a science question. That in turn has started to lead to companies forming, and we’re now at the stage where we need to think about scaling those companies and getting them to stay in the UK.
+
+And that requires everything from a regulatory approach, and you’ve seen the regulatory paper on regulation and quantum, it requires skills, it requires procurement. And that procurement is critically important, you know, that’s what unlocks a big investment.
+
+Quantum technologies will drive UK growth, but will also help with resilience and social environmental outcomes. including by enabling breakthroughs in drug discovery, sustainable materials, diagnostics, satellite-independent navigation, sovereign timing and situational awareness across critical infrastructure.
+
+And there’s a big economic benefit underlying all of that. But that’s not going to happen without one further thing, and that is industry using these technologies.
+
+And that’s why I’m really pleased today to announce the formation of a new Quantum Growth Alliance - bringing together 10 industry partners from across the UK’s financial services, life sciences, energy, defence and telecoms.
+
+The first members include HSBC, Barclays, Standard Chartered, GSK, BP, Rolls Royce, BAE Systems, BT, Vodafone, QinetiQ and others.
+
+So that is a really important group we met last week and it is a working partnership to set out plans to prepare for quantum adoption. Now it’s early because we don’t yet have scale quantum computers, but we will have, and we need to make sure that we create that demand signal so that people know what the potential customer base is here in the UK and in doing so build a national capability that supports not just UK businesses but also export.
+
+The integration of quantum computing and existing compute services will be central. And the flagship procure programme that I’ve talked about is an important first step and it’s not trivial to have an announcement about £1.2 billion to procure computers in a future spending review to make sure that we already say to companies, yes, there is something here and we’re getting it now to see the applications for companies that think they can deliver against that.
+
+Later this week, we’ll also be saying something about a £12 million funding pool based on hybrid quantum and quantum computing algorithms. So this is joining up between conventional quantum computing and indeed the application of that to AI I think is going to be incredibly important.
+
+So I think quantum technologies and science is a prime example of where we’re turning scientific leadership into industrial advantage. And engineering biology is the next one that we want to focus on.
+
+We want to do exactly the same sort of thing, back the science, build the infrastructure, develop the skills and work with the industry to capture growth. And that’s why I’m delighted to announce today the Engineering Biology Value Chain Growth Fund, £45 million to support those foundational capabilities for engineering biology.
+
+It will support companies in building those foundations such as the ability to write DNA, the automation of research and biomanufacturing and using biological data and AI models. The fund is in addition to the commitment of £196 million to support research and innovation in engineering and biology, and £184 million for scale up infrastructure.
+
+I hope what you can see is that what we’re trying to do is to join up all these things. It’s not good enough just to have a single point intervention. We need to have a system that goes from the ideas right the way through to release and finance, procurement, pull through and adoption.
+
+And we know we need to go further.
+
+We’re really effective, and Ben mentioned this, at supporting spin-outs. It’s a very different environment in the UK from a decade ago. Lots and lots of spin-outs, lots of entrepreneurial people coming through the system. But we need to scale. We need to start, we need to scale and we need them to stay.
+
+That’s why we’re working on this alignment between investment, regulation, procurement and skills to support companies at every stage. Finance, the British Business Bank, has now got £25.6 billion of permanent capacity and aims to mobilise at least 10 new growth rate funds by 2030.
+
+Pension reforms, I know people often feel it’s been slow, but it’s happening. The pension industry is beginning to invest in this space. And I think this year is going to be a pivotal year for that, where we’re going to see significant investment and develop that most important of things, which is FOMO.
+
+And once that happens, we’re going to see lots of other people coming in on this.
+
+Regulation, the Regulatory Innovation Office is removing barriers to accelerate the safe adoption of new technologies, and it’s been specific. For example, today we’re launching what is, I think, a global first-of-its-kind regulatory sandbox to test how AI can predict drug safety risks, helping to get treatments faster through the regulatory system and in doing so, also reducing animal testing.
+
+That’s the first part of around £70 million going to regulatory innovation funding in this spending review.
+
+I’ve talked about procurement, but it’s worth just reflecting that £400 billion per year is spent by the government procuring things. And if we can use a proportion of that to procure innovation from SMEs and indeed from large companies doing innovative things, then that’s going to be the most effective way of driving that pull-through system and giving companies in the UK a base to have a customer here.
+
+That early customer point I think is critically important, as are advanced market commitments and the use of different business models to think about procurement that isn’t possible today, but you can see it could be possible if several companies came together or you’ve got different parts of the procurement chain from different companies.
+
+Talent, we’re investing in the skills base and attracting global talent and the Global Talent Fund was extremely successful in pulling people in from around the world to get them here in the UK working to help us grow the economy here.
+
+The UK’s innovation ecosystem is thriving. In fact, it’s probably about as good as it’s been for 20 years and looking actually much more exciting in terms of the numbers. But every day that we now don’t fix the scale up problem is a wasted opportunity.
+
+Much more so than a decade ago when frankly the problem was can we get enough startups? But now, when we don’t scale, what we’re doing is wasting an opportunity for the UK.
+
+So this scaling point is the one that we’re very focused on.
+
+So I’m pleased that you’re doing this today. I’m pleased about this conference and what you’re going to do.
+
+My message is clear. Let’s build on the UK’s extraordinary strengths. Move faster at turning ideas into impact and make the UK, which I really think it can be and it’s headed towards, make the UK one of the top places in the world to create, invest in, and scale up science and technology businesses.
+
+And I look at you and I think, well, I hope you’ve got some weight of expectation on your shoulders. And if it was a little less before this talk, I’m pleased. Because I want it to be much more.
+
+Thank you very much.

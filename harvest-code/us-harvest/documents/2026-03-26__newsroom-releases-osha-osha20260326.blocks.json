@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260326",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites Georgia stone product manufacturers for exposing workers to respirable crystalline silica, other safety violations",
+ "date": "2026-03-26",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "214f5c085e58c61457b4544f9782dc12754840a87d4555db04bbf8283089a9d6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

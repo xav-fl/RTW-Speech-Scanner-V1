@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/sanctioning-an-iranian-financial-evasion-network/",
+ "institution_id": "us-state",
+ "title": "Sanctioning an Iranian Financial Evasion Network",
+ "date": "2026-07-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "157c593186c7aa23772fde71418e33b7f43bf68dfecb260ffbe590759eb149d1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

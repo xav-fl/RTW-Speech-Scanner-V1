@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/support-for-panamas-sovereignty/",
+ "institution_id": "us-state",
+ "title": "Support for Panama’s Sovereignty",
+ "date": "2026-04-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "3ec1a865f87a7425e79c6f6dbe0c0bf00a285f32e81559fc6ac40b2f5d397365",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

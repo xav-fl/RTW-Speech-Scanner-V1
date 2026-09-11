@@ -1,0 +1,13 @@
+WASHINGTON, DC — The US Office of Personnel Management (OPM) today announced a new series of initiatives to combat fraud, waste, and abuse across the Federal Employees Health Benefits (FEHB) Program and Postal Service Health Benefits (PSHB) Program. OPM is undertaking this effort as part of its ongoing work with the White House Task Force to Eliminate Fraud, led by Vice President JD Vance.
+
+> President Trump has made eliminating fraud, waste, and abuse across the federal government a top priority,
+
+OPM Director Scott Kupor said.
+
+> Working alongside the White House Task Force to Eliminate Fraud, OPM is taking additional steps to safeguard the premiums paid by federal employees and taxpayers, protect beneficiaries, and ensure health insurance companies are meeting the highest standards of accountability.
+
+OPM issued a Carrier Letter today detailing these initiatives and reiterating its fraud, waste, and abuse compliance expectations for all FEHB and PSHB carriers, including requirements related to fraud prevention, payment integrity, pharmacy benefit oversight, subcontractor accountability, investigations, audits, and reporting.
+
+OPM is also building a data science and audit team that will review de-identified claims data in partnership with the OPM Office of Inspector General to proactively identify cases of fraud, waste, and over-billing. This will end the practice of relying upon retrospective reviews of data to find and address fraud and will be a proactive approach in identifying problems as they arise and implementing corrective mechanisms that save hard-earned premium dollars paid by federal employees.
+
+These initiatives will allow OPM to evaluate and hold insurance carriers accountable for their ability to identify and prevent fraud, waste, and abuse, their oversight of pharmacy benefit managers and vendors, and their ability to identify and recover improper payments; strengthening program integrity protections for health insurance programs serving millions of federal employees, retirees, family members, and postal workers; and advancing the administration’s government-wide effort to root out fraud, waste, and abuse.

@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260224",
+ "institution_id": "us-labor",
+ "title": "Federal investigators find Illinois grain silo operator violated safety standards after worker suffers injury",
+ "date": "2026-02-24",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "2caa830a144c2327bea67cc7c4093ec92ad826d103830cd896dceb0bc2e5f93c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

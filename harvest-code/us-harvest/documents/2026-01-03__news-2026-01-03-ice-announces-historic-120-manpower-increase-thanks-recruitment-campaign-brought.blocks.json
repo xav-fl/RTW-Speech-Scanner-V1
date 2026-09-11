@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/03/ice-announces-historic-120-manpower-increase-thanks-recruitment-campaign-brought",
+ "institution_id": "us-dhs",
+ "title": "ICE Announces Historic 120% Manpower Increase, Thanks to Recruitment Campaign that Brought in 12,000 Officers and Agents",
+ "date": "2026-01-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "0d1360fa1f13bcef4679409c0553aaf1a701a789d8ea304d5d687e08a67f31d4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

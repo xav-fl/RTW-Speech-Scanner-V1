@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/further-sanctions-on-the-cuban-regimes-revenue-generation-network/",
+ "institution_id": "us-state",
+ "title": "Further Sanctions on the Cuban Regime’s Revenue Generation Network",
+ "date": "2026-06-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "f7d4e75f17c0056953055115748e06f66d3dc2ec431f4d7d99a8fe86852c4775",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

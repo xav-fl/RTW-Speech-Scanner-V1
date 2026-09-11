@@ -1,0 +1,27 @@
+WASHINGTON — In support of the President’s AI Action Plan, the U.S. Department of the Treasury today announced the conclusion of a major public-private initiative to strengthen cybersecurity and risk management for artificial intelligence (AI) in the financial services sector. Over the course of February, Treasury will release a series of six resources developed in partnership with industry and federal and state regulatory partners to enable secure and resilient AI across the U.S. financial system.
+
+> As this Administration has made clear, it is imperative that the United States take the lead on developing innovative uses for artificial intelligence, and nowhere is that more important than in the financial sector,
+
+said Secretary of the Treasury Scott Bessent.
+
+> This work demonstrates that government and industry can come together to support secure AI adoption that increases the resilience of our financial system.
+
+The Artificial Intelligence Executive Oversight Group (AIEOG), a partnership between the Financial and Banking Information Infrastructure Committee and the Financial Services Sector Coordinating Council, brought together senior executives from financial institutions, federal and state financial regulators, and other key stakeholders. Together, participants focused on addressing identified gaps in the financial sector’s use of AI, developing practical tools that financial institutions can use to manage AI-specific cybersecurity risks while unleashing innovation.
+
+> Treasury brought public- and private-sector partners together to develop practical tools that can effect real change in the financial sector through the AIEOG,
+
+said Cory Wilson, Deputy Assistant Secretary of the Treasury for Cybersecurity and Critical Infrastructure Protection.
+
+> These resources are designed to help institutions, particularly small and mid-sized institutions, harness the power of AI to strengthen cyber defenses and deploy AI more securely.
+
+Treasury will release the AIEOG deliverables in stages throughout February. The AIEOG workstreams provide a foundation for the use of AI in financial services, addressing governance, data practices, transparency, fraud, and digital identity in an integrated way. By focusing on practical implementation rather than prescriptive requirements, the resources are intended to help financial institutions adopt AI more confidently and securely, strengthening resilience and cybersecurity while supporting innovation across the sector.
+
+> Through our public-private partnership, FSSCC and Treasury have taken an important step to address complex challenges posed by AI
+
+said William S. Demchak, PNC Chairman & CEO, and AIEOG executive member.
+
+> By clearly identifying and addressing the associated risks, financial institutions—regardless of size—are now positioned to harness the full power of this transformative technology, driving innovation and value for their clients while strengthening multiple facets of their organizations.
+
+Through this work, Treasury advances the President’s AI Action Plan by strengthening the security of AI data, infrastructure, and models in the financial sector, promoting best practices for secure AI deployment, and driving adoption of American AI systems globally.
+
+###

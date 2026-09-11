@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/department-justice-sues-colorado-providing-state-tuition-illegal-aliens",
+ "institution_id": "us-justice",
+ "title": "The Department of Justice Sues Colorado for Providing In-State Tuition to Illegal Aliens",
+ "date": "2026-07-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "fe621b6bbc1f39ac49872c3e4da6429aab166c45242cc58ee40c717e95bfb1ea",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley E. Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley E. Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

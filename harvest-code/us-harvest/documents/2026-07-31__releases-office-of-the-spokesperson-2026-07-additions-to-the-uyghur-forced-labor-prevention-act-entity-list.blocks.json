@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/additions-to-the-uyghur-forced-labor-prevention-act-entity-list/",
+ "institution_id": "us-state",
+ "title": "Additions to the Uyghur Forced Labor Prevention Act Entity List",
+ "date": "2026-07-31",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "362c84202de88395ee22fc8b211285028294290a20f60ece483aacd3ce079079",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

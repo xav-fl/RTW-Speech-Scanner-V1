@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260105",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor expands self-correction program to encourage compliance with Form M-1 annual reporting rules",
+ "date": "2026-01-05",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "d1af2d20ea641b55fe31844fe83e65ba1a1a9b62c4e7e1eaaf319c914b150908",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Deputy Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Deputy Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/sanctioning-the-ortega-murillo-dictatorship-linked-gold-sector/",
+ "institution_id": "us-state",
+ "title": "Sanctioning the Ortega-Murillo Dictatorship-Linked Gold Sector",
+ "date": "2026-04-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "8cf8f72b3eb5b5eb5254171e7afc912988fd918d05e89e6e0d10f7d701a00fac",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

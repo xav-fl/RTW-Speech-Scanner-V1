@@ -21,11 +21,14 @@ from pathlib import Path
 from typing import Iterable, Optional
 
 from .assemble import observation_row, write_dataset, write_reject_log, write_screening_log
-from .jel import JELTaxonomy
+from .jel import ACTIVE_CODES_FILE, ActiveJELList, JELTaxonomy
 from .models import Document, ScreeningRow
 from .validate import OfficeholderTable, validate_observations
 
 REFERENCE_DIR = Path(__file__).parent / "reference"
+# The dated JEL list sits outside the package with the other supplied reference
+# data, and is versioned by filename rather than rebuilt.
+DATA_REFERENCE_DIR = Path(__file__).parent.parent.parent / "data" / "reference"
 
 
 @dataclass
@@ -71,6 +74,11 @@ def load_taxonomy(path: Optional[Path] = None) -> JELTaxonomy:
     return JELTaxonomy.load(path or REFERENCE_DIR / "jel_codes.csv")
 
 
+def load_active_codes(path: Optional[Path] = None) -> ActiveJELList:
+    """The 845 active three-character codes the classifier selects from."""
+    return ActiveJELList.load(path or DATA_REFERENCE_DIR / ACTIVE_CODES_FILE)
+
+
 def _d(value: Optional[str]) -> Optional[date]:
     value = (value or "").strip()
     if not value:
@@ -113,6 +121,10 @@ def build(
     still logged, so a genuine zero is distinguishable from a document that was
     never processed.
     """
+    # `taxonomy` is still accepted for callers that pass it; JEL validation runs
+    # against the dated active list.
+    active = load_active_codes()
+
     rows: list[dict] = []
     rejects: list[dict] = []
     screening: list[ScreeningRow] = []
@@ -126,7 +138,7 @@ def build(
         if max_quote_chars is not None:
             kwargs["max_chars"] = max_quote_chars
         validated, speaker, speaker_source, warning = validate_observations(
-            doc, obs_list, taxonomy, officeholders, **kwargs
+            doc, obs_list, active, officeholders, **kwargs
         )
         if warning:
             warnings.append({"doc_id": doc.doc_id, "url": doc.url, "warning": warning})

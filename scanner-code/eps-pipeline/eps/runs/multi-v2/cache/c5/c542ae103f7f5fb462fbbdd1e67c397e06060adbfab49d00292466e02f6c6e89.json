@@ -1,0 +1,5 @@
+{
+  "text": "The quotation names an \"International Education Strategy\" aimed at \"delivering growth and opportunity, at home and abroad.\" The specific mechanism is a cross-border education policy designed to generate economic growth through international educational collaboration.\n\nThe primary economic content is international education policy — this sits squarely in I2 (Education and Research Institutions), as the strategy is fundamentally about education.\n\nThe international dimension (\"at home and abroad,\" cross-border collaboration) adds a substantive F-category element — international factor movements or globalization impacts related to education exports/imports (students, institutions).\n\nThe growth framing adds an O4/O1 dimension, but it's too vague to justify a secondary code on its own.\n\n{\"primary\": \"I\", \"secondary\": [\"F\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

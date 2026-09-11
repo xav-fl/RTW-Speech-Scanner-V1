@@ -1,0 +1,5 @@
+{
+  "text": "The statement is about cutting the \"disadvantage gap\" — a reference to educational attainment or outcomes inequality between disadvantaged and non-disadvantaged students. This is a classic education policy goal (reducing achievement gaps tied to socioeconomic status).\n\nThe specific mechanism: reducing educational outcome inequality linked to socioeconomic disadvantage.\n\nPrimary: I2 (Education and Research Institutions — educational attainment/achievement gaps)\nSecondary: I3 (Welfare, Well-Being, and Poverty — socioeconomic disadvantage dimension)\n\n{\"primary\": \"I2\", \"secondary\": [\"I3\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

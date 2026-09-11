@@ -1,0 +1,41 @@
+{
+ "url": "https://www.justice.gov/opa/pr/virginia-landlord-sentenced-prison-obstructing-irs-and-willfully-failing-file-tax-returns",
+ "institution_id": "us-justice",
+ "title": "Virginia Landlord Sentenced to Prison for Obstructing the IRS and Willfully Failing to File Tax Returns",
+ "date": "2026-02-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "cace10c556e3c814bddf1640887fcec9b4097be3bdd5e3018ab876638143d1af",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

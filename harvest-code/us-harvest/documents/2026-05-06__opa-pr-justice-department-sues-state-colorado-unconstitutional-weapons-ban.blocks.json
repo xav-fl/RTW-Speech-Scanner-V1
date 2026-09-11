@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-sues-state-colorado-unconstitutional-weapons-ban",
+ "institution_id": "us-justice",
+ "title": "Justice Department Sues Colorado for Unconstitutional Weapons Ban of Standard-Capacity Firearms Magazines",
+ "date": "2026-05-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "b114ece2addf31335d1dde62d9852f041f696c779f9bd313d52af583e8616285",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

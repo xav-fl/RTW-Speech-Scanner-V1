@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/sanctioning-senior-operatives-of-cartel-del-noreste/",
+ "institution_id": "us-state",
+ "title": "Sanctioning Senior Operatives of Cártel del Noreste",
+ "date": "2026-04-14",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "c56645972ebedf6f3f66636da6f04621cacac2aef76fdd2383f1c83239d50488",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

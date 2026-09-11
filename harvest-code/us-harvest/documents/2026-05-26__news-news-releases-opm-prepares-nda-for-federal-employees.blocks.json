@@ -1,0 +1,59 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-prepares-nda-for-federal-employees/",
+ "institution_id": "us-opm",
+ "title": "OPM Prepares NDA for Federal Employees Handling Sensitive Information Following Series of Major Leaks",
+ "date": "2026-05-26",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "2be0fd8ade9863f1834dfee3cccf13a291f37fde1e5818fe4176977b5dd6ac98",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

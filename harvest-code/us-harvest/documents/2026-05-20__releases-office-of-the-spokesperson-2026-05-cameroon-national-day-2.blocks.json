@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/cameroon-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Cameroon National Day",
+ "date": "2026-05-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "402b36bfedd78ae3d2cc5fd8f471cd9b32c5264fc25b1b6c5b6d8b394cfca31c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

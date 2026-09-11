@@ -209,10 +209,150 @@ def frame_names_speaker(frame_text: str, speaker: str) -> bool:
     return all(t in hay for t in toks)
 
 
+class AttributionMismatch(ValueError):
+    """A block sidecar does not line up with the text it describes."""
+
+
+def speaker_names_match(found: str, expected: str) -> bool:
+    """Compare two names. Not "are all these tokens somewhere in this text".
+
+    The all-tokens rule is right for testing a frame line, which is prose that
+    happens to contain a name. It is wrong for comparing two names to each
+    other: "Secretary McMahon" and "Linda McMahon" are the same person and
+    share only one token. Office titles, honorifics and possessives are
+    stripped, then the surname must match and any forenames present must not
+    conflict.
+    """
+    from .sources.blocks import names_match      # stdlib-only, no cycle
+    return names_match(found, expected)
+
+
+def _mark_from_blocks(
+    units: list[Unit],
+    doc_type: str,
+    speaker: str | None,
+    blocks: list[dict],
+    country: str | None = None,
+    speaker_is_document: bool = False,
+) -> list[Unit]:
+    """Attribution from a block sidecar, for sources with no frame lines.
+
+    US agencies put the attribution after the quote and end it with a full
+    stop, so the colon-frame rule below finds nothing and the whole corpus
+    yields no observations. The collector already worked out who was speaking;
+    this reads that verdict rather than re-deriving it from punctuation.
+
+    Nothing is synthesised. If the sidecar says a block has no speaker, the
+    block is not attributable -- the rule fails closed exactly as the frame
+    rule does.
+    """
+    if speaker_is_document or doc_type in speaker_only_types(country):
+        return units
+
+    paras: dict[int, list[int]] = {}
+    for i, u in enumerate(units):
+        paras.setdefault(u.para_idx, []).append(i)
+    order = sorted(paras)
+
+    # A hard error, not a warning. A sidecar off by one silently attributes
+    # every quote to the wrong speaker, and nothing downstream would notice.
+    if len(order) != len(blocks):
+        raise AttributionMismatch(
+            f"sidecar has {len(blocks)} blocks but the text has {len(order)} "
+            f"paragraphs; the sidecar is stale or the text was edited"
+        )
+
+    attributable_para: dict[int, bool] = {}
+    for pos, p in enumerate(order):
+        block = blocks[pos]
+        found = (block.get("speaker") or "").strip()
+        # Record who the source named, including when that is not the agency
+        # head; whether it counts is decided by the comparison below, and the
+        # unit is kept either way.
+        attributable_para[p] = bool(
+            block.get("kind") == "quote"
+            and found
+            and speaker
+            and speaker_names_match(found, speaker)
+        )
+
+    out: list[Unit] = []
+    for p in order:
+        for n, i in enumerate(paras[p]):
+            u = units[i]
+            text, start = u.text, u.char_start
+            # Only the first sentence of a block carries the marker.
+            if n == 0 and text.startswith(QUOTE_MARKER):
+                shift = len(QUOTE_MARKER)
+                text = text[shift:]
+                start = start + shift
+            out.append(
+                Unit(
+                    unit_id=u.unit_id,
+                    para_idx=u.para_idx,
+                    sent_idx=u.sent_idx,
+                    text=text,
+                    char_start=start,
+                    char_end=u.char_end,
+                    attributable=attributable_para[p],
+                )
+            )
+    return out
+
+
+#: Types that are wholly the officeholder's own words, BY COUNTRY.
+#:
+#: The default set is the UK's and is unchanged: `SPEAKER_ONLY_TYPES`. It was
+#: derived from GOV.UK material where a `statement` is an oral or written
+#: statement to Parliament -- all 48 in the UK corpus carry
+#: `speaker_match=linked`, and they read "I am today updating the House...",
+#: "With permission Madam Deputy Speaker...". First-person parliamentary
+#: speech, attributed at source. The set is right for that material.
+#:
+#: The United States uses the same word for a different genre. A State
+#: Department "Press Statement" is a press-office product: of 262 in the
+#: corpus, 37% open in the first person, 34% open in the Department's
+#: institutional voice ("The Department of State will impose visa
+#: restrictions..."), and **243 carry `speaker_evidence=none`** -- the
+#: collector found no trace of the Secretary in them at all.
+#:
+#: Applying the UK set to those marked every unit of all 262 as Rubio's own
+#: words. H-45 had already decided the narrower US set for the collector; this
+#: is ingest being brought into line with that decision rather than silently
+#: overriding it. See H-86.
+COUNTRY_SPEAKER_ONLY_TYPES = {
+    "US": {"speech", "testimony"},
+}
+
+
+def speaker_only_types(country: str | None = None) -> set:
+    """The speaker-only set for a country, defaulting to the UK's."""
+    return COUNTRY_SPEAKER_ONLY_TYPES.get(
+        (country or "").strip().upper(), SPEAKER_ONLY_TYPES)
+
+
+#: The collector's verdict that a document is wholly the officeholder's words.
+#:
+#: Narrowing the US type set (above) is the right default but it is blunt: it
+#: also excludes the State Press Statements that genuinely ARE the Secretary's,
+#: which is roughly a third of them. State's index prints an author per
+#: document -- "Marco Rubio" or "Thomas 'Tommy' Pigott" -- so the collector can
+#: decide each one on the source's own authority and record
+#: `speaker_evidence=speaker_is_document`.
+#:
+#: Honouring that here is what makes attribution follow the EVIDENCE rather
+#: than the category, which is the whole point of H-86. A document reaches this
+#: only when the source named the officeholder as its author.
+SPEAKER_IS_DOCUMENT_EVIDENCE = "speaker_is_document"
+
+
 def mark_attribution(
     units: list[Unit],
     doc_type: str,
     speaker: str | None = None,
+    blocks: list[dict] | None = None,
+    country: str | None = None,
+    speaker_is_document: bool = False,
 ) -> list[Unit]:
     """Flag which units can carry the speaker's own words.
 
@@ -220,8 +360,17 @@ def mark_attribution(
     blockquoted passages are, and only those introduced by a frame naming the
     eligible speaker. Getting this wrong is the single largest source of false
     positives, so it is done in code rather than left to the model.
+
+    Two paths. With a block sidecar (`blocks`), attribution is read from what
+    the collector recorded. Without one, the GOV.UK colon-frame rule below runs
+    exactly as it always has -- `blocks` defaults to None, so every existing
+    caller takes the original path and its output cannot move.
     """
-    if doc_type in SPEAKER_ONLY_TYPES:
+    if blocks is not None:
+        return _mark_from_blocks(units, doc_type, speaker, blocks, country,
+                                 speaker_is_document)
+
+    if speaker_is_document or doc_type in speaker_only_types(country):
         return units
 
     # Group unit indices by paragraph, preserving order.

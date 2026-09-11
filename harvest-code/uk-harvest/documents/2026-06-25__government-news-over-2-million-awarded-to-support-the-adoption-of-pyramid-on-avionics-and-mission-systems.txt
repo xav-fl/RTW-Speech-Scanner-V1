@@ -1,0 +1,51 @@
+TITLE: Over £2 million awarded to support the adoption of PYRAMID on avionics and mission systems.
+URL: https://www.gov.uk/government/news/over-2-million-awarded-to-support-the-adoption-of-pyramid-on-avionics-and-mission-systems
+DATE: 2026-06-25
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+Four innovative organisations have been awarded over £2 million in funding to help develop software systems that are PYRAMID complaint.
+
+The Phase 2 UK Defence Innovation (UKDI) PYRAMID for avionics and mission systems competition was run on behalf of the RAF Rapid Capabilities Office (RCO).
+
+This phase of the competition sought further proposals to support the adoption of PYRAMID in current and upcoming systems.  
+
+PYRAMID (PYRAMID: rapid adaptability for avionics systems - GOV.UK) is a UK Ministry of Defence (MOD) initiative to develop rapidly adaptable modular avionics and mission systems, underpinned by a well-defined open reference architecture, enabling systematic re-use and through life capability enhancement. PYRAMID targets both future and legacy air systems reducing the time and cost in implementing through-life capability enhancements and enabling military operational advantage. 
+
+The MOD has made a significant investment in this initiative, and is now working across national and international programmes, and industrial partners to support adoption; unlocking benefits for both industry and the MOD. This UKDI competition forms a key aspect of this strategy.
+
+Mike Lane, PYRAMID Lead, RAF Rapid Capabilities Office said:
+
+Phase 1 of the UKDI led ‘PYRAMID for avionics and mission systems’ initiative has been, and continues to be, a huge success with UK and international partners embracing PYRAMID for their products. This has provided affirmation of the value of the PYRAMID approach while significantly increasing the number of suppliers delivering PYRAMID compliant products. We are delighted that UKDI agreed to run Phase 2 and their professionalism in leading and coordinating activities continues to demonstrate the impact that UKDI have on programmes representing a real asset to UK defence.
+
+The four successful organisations are:
+
+Barnard Microsystems Limited (BML)
+
+BML will apply the open PYRAMID Reference Architecture (PRA) to their multi-role All Electric AWAE-24 Uncrewed Aerial Vehicle (UAV). This will enable these UAVs to be operated individually or as part of a group and pave the way for a follow-on PRA application to our Long Range UAVs and to our High Speed UAVs. The application of the PRA will better enable BML to interface sub-systems from other suppliers, and the inherent adaptability provided by PYRAMID will position us well for upgrading the capabilities of our UAVs in the future. To enable these UAVs to be manufactured at scale in the UK, we will ensure our PRA implementation is compliant with ISO 9001:2015, the CAA Specific Operations Risk Assessment (SORA), and Cyber Essentials.
+
+Applied Intuition
+
+Applied Intuition UK is delighted to have been selected by UK Defence Innovation for Phase 2 of the PYRAMID for avionics and mission systems. As a global physical AI company building autonomy software, we recognise the necessity of open, adaptable architectures. This contract allows us to demonstrate a functional airborne targeting chain that is compliant with the Ministry of Defence’s (MOD) PYRAMID Reference Architecture – the MOD’s open modular architecture for air system software – while remaining aligned with the US Government’s FACE™ (Future Airborne Capability Environment) standard. This dual compliance is highly relevant to the Defence Science and Technology Laboratory (Dstl) and the RAF Rapid Capability Office, while being critical for enabling future UK / US interoperability. This work directly demonstrates the value of PYRAMID by enabling increased modularity and adaptability, and positions Applied Intuition UK as a key part of the supplier base for programmes including the Global Combat Aircraft Programme (GCAP).
+
+FLYBY Technology
+
+“Modern operational environments demand constant and rapid adaptation,” said Jon Parker, a former Fighter Pilot Weapons Instructor and Founder of FLYBY Technology. By leveraging PYRAMID, we’re demonstrating that capability upgrades, whether incremental or transformational, can be delivered at pace, without compromising assurance or performance. This will allow our systems to stay relevant at all times and be the ‘reach for’ weapon of choice. It removes the need for costly mid-life updates which distract and complicate acquisition cycles. We are used to achieving World Firsts and we are striving to ensure that this will be the first time the PYRAMID Reference Architecture is used in a flying combat platform.”
+
+Auterion
+
+Auterion views PYRAMID Phase 2 as an opportunity to collaborate with UK Defence Innovation (UKDI), the RAF Rapid Capabilities Office, and Frazer-Nash Consultancy, to demonstrate how PYRAMID can be applied to autonomous swarming systems. Building on Frazer-Nash’s experience of the PYRAMID Reference Architecture, the project will develop and demonstrate PYRAMID-compliant enhancements to Nemyx; Auterion’s swarm autonomy platform. It will also examine how distributed uncrewed systems can be designed for greater modularity, interoperability, and adaptability in operational contexts.
+
+The objective is not simply to map an existing capability to PYRAMID, but to use the programme to demonstrate how the modularity enabled by PYRAMID can help clearly define effective swarming capability, its integration with wider mission systems, and its controlled, scalable use by operators in real-world scenarios. Within this context, PYRAMID provides a distinct framework complementing broader MOD leadership on swarming systems delivered through other initiatives.
+
+In partnership with Frazer-Nash, this work aims to provide the UK MOD with practical evidence on adopting, governing, and evolving swarming autonomy through open architectures, while aligning Auterion’s field-ready autonomy stack with UK defence standards and future user requirements.
+
+We share our congratulations with the 4 successful teams for their winning submissions.
+
+Learn more and participate
+
+Learn more about the PYRAMID for avionics and mission systems (Phase 2).
+
+We advertise current funding opportunities on our website, and upcoming funding opportunities within our pipeline.

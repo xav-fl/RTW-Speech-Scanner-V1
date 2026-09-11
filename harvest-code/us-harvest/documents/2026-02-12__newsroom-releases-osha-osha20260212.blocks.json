@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260212",
+ "institution_id": "us-labor",
+ "title": "US Labor Department orders Texas companies to pay more than $200K in back wages, damages to workers fired after raising asbestos concerns",
+ "date": "2026-02-12",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "17db19098f7c60ae4d6a638bbd637c57db59a0247eb3c67783e990c2170ace24",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

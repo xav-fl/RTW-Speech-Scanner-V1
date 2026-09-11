@@ -1,0 +1,83 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrators-zeldin-loeffler-issue-statement-meeting-mayor-karen-bass-and-county",
+ "institution_id": "us-epa",
+ "title": "Administrators Zeldin, Loeffler Issue Statement on Meeting with Mayor Karen Bass and County Supervisor Kathryn Barger in Los Angeles on Accelerating Wildfire Rebuild Efforts",
+ "date": "2026-02-04",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "74a0d1c3da66615f98c1a4df9611ce16010c17b640c01bd37bd2b86d595933c7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Administrator Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Administrator Kelly Loeffler",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Administrator Kelly Loeffler",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

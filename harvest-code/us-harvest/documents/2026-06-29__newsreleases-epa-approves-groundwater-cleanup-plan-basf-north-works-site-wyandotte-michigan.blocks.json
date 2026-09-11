@@ -1,0 +1,77 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-approves-groundwater-cleanup-plan-basf-north-works-site-wyandotte-michigan",
+ "institution_id": "us-epa",
+ "title": "EPA Approves Groundwater Cleanup Plan for BASF North Works Site in Wyandotte, Michigan",
+ "date": "2026-06-29",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "1e90b752533ea7d72adc2b9d5f2c7a0cd8b141f26f47160c1273b6ea8e425f71",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

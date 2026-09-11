@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/special-envoy-gor-hosts-meeting-of-the-u-s-uzbekistan-business-investment-council/",
+ "institution_id": "us-state",
+ "title": "Special Envoy Gor Hosts Meeting of the U.S.-Uzbekistan Business Investment Council",
+ "date": "2026-04-06",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "1a6ac3ec750ae67fccdd53b5b0049b3fc22ab99f23ee3192f44f769b5f302acc",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Special Envoy Gor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

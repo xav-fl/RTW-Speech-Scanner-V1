@@ -1,0 +1,37 @@
+The U.S. Department of Health and Human Services (HHS) today announced that it is reversing a 2024 reorganization that: (1) dually titled the Office of the National Coordinator for Health Information Technology (ONC) as the Office of the Assistant Secretary for Technology Policy/Office of the National Coordinator for Health IT (ASTP/ONC), headed by the Assistant Secretary for Technology Policy, dually titled as the National Coordinator for Health IT; (2) moved three HHS-wide technology roles to ONC from the Office of the Chief Information Officer (OCIO); and (3) shifted specific cybersecurity functions out of OCIO.
+
+Today’s action restores a unified, Department‑wide technology leadership model by returning these enterprise responsibilities to OCIO while sharpening ONC’s mission focus on nationwide health IT interoperability and data liquidity.
+
+Under this alignment, HHS has ended the Biden administration’s dual management title for the Assistant Secretary for Technology Policy, restored ONC as a singularly titled office, and shifted the roles, responsibilities, and offices of the HHS Chief Technology Officer (CTO), HHS Chief Artificial Intelligence Officer (CAIO), and HHS Chief Data Officer (CDO) back under the HHS Chief Information Officer’s leadership. This structure reinforces OCIO’s statutory responsibility for enterprise IT, cybersecurity, and data operations, while enabling ONC to concentrate on health IT policy, standards, and certification that support better care and lower costs.
+
+To better integrate policy and operations, OCIO will organize enterprise roles around three core functions: (1) strategic technology leadership and innovation, led by the CTO; (2) responsible, trustworthy artificial intelligence, led by the CAIO; and (3) enterprise data governance and analytics, led by the CDO. These leaders will work as a unified team under the CIO to deliver secure, scalable platforms and common services that support ONC’s policy work and the Department’s mission programs.
+
+> This structure allows OCIO to provide an integrated backbone for cloud, cybersecurity, data, and AI that every HHS component can rely on,
+
+said HHS Chief Information Officer Clark Minor.
+
+> By bringing CTO, CAIO, and CDO functions together under one roof, we can move faster on shared platforms, protect our systems more effectively, and support ONC and the operating divisions with the technology capabilities they need to innovate for patients.
+
+> With this alignment, OCIO is squarely focused on delivering enterprise services that are resilient, compliant, and ready for the next generation of digital health,
+
+Minor added.
+
+> Our close partnership with ONC means that as policies and standards evolve, the Department’s technology infrastructure will be ready to implement them at scale in a secure and cost-effective way.
+
+ONC will continue to operate as a staff division within the HHS Office of the Secretary, and the National Coordinator will continue to report directly to the Secretary. As the use of health technology continues to expand, ONC will work across an even broader set of stakeholders — including OCIO, HHS operating divisions, health care providers, health IT developers, and patients — to advance health technology policies and regulations that enable a safe, secure, and interoperable current and future state, including leading coordination with respect to the use of artificial intelligence in clinical care.
+
+> Our remit is broad: making sure technology serves patients, providers, and other stakeholders with data and services that are secure, immediately accessible, and accurate,
+
+said National Coordinator Dr. Thomas Keane, MD, MBA.
+
+> With this Department‑wide alignment, ONC can focus even more on standards, certification, and policy, while our close partnership with OCIO ensures that the infrastructure and cybersecurity foundation are in place to support the health care system of tomorrow.
+
+> ONC and OCIO are now tightly coordinated in how we set policy, build infrastructure, and deploy AI and data capabilities,
+
+added Dr. Keane.
+
+> Together, we will drive toward true data liquidity across the health system so that the right information is available to the right person at the right time—improving outcomes and lowering costs for the American people.
+
+More information about ONC’s health technology efforts is available at www.healthit.gov, on LinkedIn, or by following @ONC_HealthIT.
+
+OCIO serves as the collaborative hub for a unified One HHS technology enterprise. To learn more about OCIO initiatives, please visit tech.hhs.gov or email hhs.ocio@hhs.gov.

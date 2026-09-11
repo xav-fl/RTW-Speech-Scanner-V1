@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-welcomes-irelands-signing-of-the-artemis-accords/",
+ "institution_id": "us-state",
+ "title": "United States Welcomes Ireland’s Signing of the Artemis Accords",
+ "date": "2026-05-04",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "f4e09af1767704f836abf7762e569dac53207738e77db18e058cd906e961ff5b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

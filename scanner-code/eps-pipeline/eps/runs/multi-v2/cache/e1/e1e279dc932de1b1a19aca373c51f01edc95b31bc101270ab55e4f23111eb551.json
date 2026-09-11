@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a coordinated set of government policy strategies targeting children and young people: a schools white paper, a child poverty strategy, a \"best start in life\" strategy, children's social care reform, and a post-16 white paper. The substantive economic content spans education policy (I2) and child poverty/welfare (I3), with the overarching framing being child well-being and development.\n\nThe specific mechanisms named are: education reform (schools white paper, post-16 white paper), child poverty reduction strategy, early childhood investment (\"best start in life\"), and children's social care. These are all within the Health, Education, and Welfare major category (I).\n\nPrimary: I2 (Education and Research Institutions) — schools white paper and post-16 white paper are the lead instruments named.\nSecondary: I3 (Welfare, Well-Being, and Poverty) — child poverty strategy and social care are substantively important additional dimensions.\n\n{\"primary\": \"I2\", \"secondary\": [\"I3\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

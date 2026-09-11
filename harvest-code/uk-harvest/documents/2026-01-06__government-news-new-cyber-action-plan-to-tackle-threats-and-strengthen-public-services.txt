@@ -1,0 +1,71 @@
+TITLE: New cyber action plan to tackle threats and strengthen public services
+URL: https://www.gov.uk/government/news/new-cyber-action-plan-to-tackle-threats-and-strengthen-public-services
+DATE: 2026-01-06
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Ian Murray MP
+
+---
+
+£210 million plan to strengthen cyber resilience across government
+
+Government Cyber Unit to coordinate risk management and incident response across departments
+
+Leading firms with strong track record of cyber security to drive best practice through new Software Security Ambassador Scheme
+
+New measures will be introduced to make online public services more secure and resilient, so people can use them with confidence - whether applying for benefits, paying taxes or accessing healthcare. 
+
+Backed by over £210 million, the Government Cyber Action Plan published today (Tuesday 6 January) sets out how government will rise to meet the growing range of online threats. Driven by a new Government Cyber Unit, the plan will rapidly improve cyber defences and digital resilience across government departments and the wider public sector, so people can trust that their data and services are protected.  
+
+It underpins UK government plans to digitise public services. This will make more services accessible online, reduce time spent on phone queues and paperwork, and enable citizens to access support without repeating information across multiple departments. This approach could unlock up to £45 billion (note) in productivity savings by using technology effectively across the public sector. 
+
+However, realising these benefits depends on trust. As services move online, they must be secure and resilient. Cyber attacks can take vital public services offline in minutes, disrupting lives and undermining confidence. The new plan addresses this challenge head-on. 
+
+Released as the Cyber Security and Resilience Bill has its Second Reading in the House of Commons, the Bill sets out clear expectations for firms providing services to government to boost their cyber resilience. From energy and water suppliers to healthcare and data centres, strong defences throughout supply chains will help keep the water running and the lights burning - facing down the cyber attackers who want to grind our country to a halt.   
+
+The plan will lead to: 
+
+clearer visibility of risks: shining a light on cyber and digital resilience risks across government, so we can focus efforts where it matters most
+
+stronger central action on the toughest challenges: taking decisive, joined-up action across departments on severe and complex risks that no single organisation can solve alone with a dedicated team overseeing coordination
+
+faster response to threats and incidents: reacting quickly to fast-moving cyber threats and vulnerabilities to minimise harm and speed up recovery by requiring departments to have robust incident response arrangements in place
+
+higher resilience across government: boosting resilience at scale, with targeted measures to close major gaps and protect critical services
+
+Digital Government Minister Ian Murray said: 
+
+Cyber-attacks can take vital public services offline in minutes – disrupting our digital services and our very way of life.  
+
+This plan sets a new bar to bolster the defences of our public sector, putting cyber-criminals on warning that we are going further and faster to protect the UK’s businesses and public services alike. 
+
+This is how we keep people safe, services running, and build a government the public can trust in the digital age.
+
+Today’s plan is also bolstered by further steps to take the UK’s cyber defences further and faster. 
+
+A new Software Security Ambassador Scheme will now help drive adoption of the Software Security Code of Practice - a voluntary project designed to reduce software supply chain attacks and disruption. 
+
+Software underpins the economy as a core component of all technologies that businesses rely on. Yet weaknesses in software can cause severe disruption to supply chains and the essential services the public use every day with more than half (59%) (note) of organisations experiencing software supply chain attacks in the past year. 
+
+These issues can be addressed by embedding basic software security practices across the software market. Among others, Cisco, Palo Alto Networks, Sage, Santander and NCC Group will come on board as the scheme’s ambassadors, championing the Code across sectors, showcasing practical implementation, and providing feedback to inform future policy improvements. 
+
+Cyber risk to the public sector remains high. The plan responds with £210 million to spark a step change in public sector cyber defences, holding organisations to account for fixing vulnerabilities. This includes setting clear minimum standards and investing in more hands-on support to minimise the impact when incidents do occur.
+
+Cyber resilience is central to the government’s mission of national renewal. Secure, reliable digital public services help protect citizens, support growth, and deliver better value for taxpayers, while maintaining trust in the services communities rely on every day.
+
+Thomas Harvey, Chief Information Security Officer (CISO), Santander UK said:
+
+We are pleased to be an ambassador for the UK government’s Software Security Code of Practice and it reflects our broader commitment to collective resilience. By advocating for these standards we’re not just protecting Santander and our customers, we are helping to build a more secure digital economy for everyone.
+
+Notes to editors
+
+Statistics referenced in the Department for Science, Innovation, and Technology’s State of digital government review.
+
+Statistics on software supply chain cyber incidents are taken from The State of Software Supply Chain Security Risks report, by Ponemon Institute LLC.
+
+Read the Government Cyber Action Plan.
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

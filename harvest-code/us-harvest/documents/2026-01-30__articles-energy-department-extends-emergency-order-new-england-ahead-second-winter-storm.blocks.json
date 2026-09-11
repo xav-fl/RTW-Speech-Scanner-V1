@@ -1,0 +1,71 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-extends-emergency-order-new-england-ahead-second-winter-storm",
+ "institution_id": "us-energy",
+ "title": "Energy Department Extends Emergency Order in New England Ahead of Second Winter Storm",
+ "date": "2026-01-30",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "cbe49d73a2f71f12c64b2f054f757859a5420736f7d76f4056d42fb454cd6b3e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Energy Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Energy Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Energy Chris Wright",
+   "method": "structural"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

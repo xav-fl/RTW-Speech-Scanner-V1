@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/department-of-state-announces-appointment-of-dylan-johnson-as-assistant-secretary-for-global-public-affairs/",
+ "institution_id": "us-state",
+ "title": "Department of State Announces Appointment of Dylan Johnson as Assistant Secretary for Global Public Affairs",
+ "date": "2026-01-22",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "9131177c893d9a2e1d94bcf1e7df06fdc21735c621035073590518ce1cc1eac0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

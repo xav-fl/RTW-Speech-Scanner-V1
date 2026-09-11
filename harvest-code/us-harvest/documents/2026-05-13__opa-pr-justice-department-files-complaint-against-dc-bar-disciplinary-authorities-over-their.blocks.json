@@ -1,0 +1,83 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-files-complaint-against-dc-bar-disciplinary-authorities-over-their",
+ "institution_id": "us-justice",
+ "title": "Justice Department Files Complaint Against D.C. Bar Disciplinary Authorities Over Their Weaponization of the Bar Disciplinary Process Against Federal Government Attorneys",
+ "date": "2026-05-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "e4fc9cd556d3996ed0acdaaa3bc00d6712605e6cc4b10d5c4127d7ee2251acc1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Acting Attorney General Todd Blanche",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

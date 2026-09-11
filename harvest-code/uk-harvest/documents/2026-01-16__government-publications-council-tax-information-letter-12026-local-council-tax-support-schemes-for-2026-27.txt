@@ -1,0 +1,9 @@
+TITLE: Council Tax information letter 1/2026: Local Council Tax Support schemes for 2026-27
+URL: https://www.gov.uk/government/publications/council-tax-information-letter-12026-local-council-tax-support-schemes-for-2026-27
+DATE: 2026-01-16
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+This letter sets out the provisions of the Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2026 which billing authorities must include when designing their Local Council Tax Support schemes for 2026 to 2027.

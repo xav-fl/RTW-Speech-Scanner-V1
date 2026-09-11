@@ -1,0 +1,9 @@
+TITLE: Improving access to and use of digital services: open letter to business leaders
+URL: https://www.gov.uk/government/publications/improving-access-to-and-use-of-digital-services-open-letter-to-business-leaders
+DATE: 2026-07-17
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: Baroness Lloyd of Effra CBE; Emma Hardy MP
+
+---
+
+Letters written to industry leaders and the financial sector inviting them to work with government to make their digital services easier to use, more accessible, and less exclusionary.

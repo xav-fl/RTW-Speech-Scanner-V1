@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/denmark-constitution-day/",
+ "institution_id": "us-state",
+ "title": "Denmark Constitution Day",
+ "date": "2026-06-05",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "212df4852ed15171e37353b82ce302f676d7dd61c7f1f8858936a806c13801f7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

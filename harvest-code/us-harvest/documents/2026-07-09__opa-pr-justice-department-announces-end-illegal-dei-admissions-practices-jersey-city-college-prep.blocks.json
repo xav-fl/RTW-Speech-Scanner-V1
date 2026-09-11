@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-announces-end-illegal-dei-admissions-practices-jersey-city-college-prep",
+ "institution_id": "us-justice",
+ "title": "Justice Department Announces End to Illegal DEI Admissions Practices at Jersey City College Prep School",
+ "date": "2026-07-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "fa29ad635c55cff3ef31a11a6c79cd21d1cd82e9266bf8e1104ca99b029b344d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

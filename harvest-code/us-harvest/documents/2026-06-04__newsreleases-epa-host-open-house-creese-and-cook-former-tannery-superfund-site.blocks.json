@@ -1,0 +1,65 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-host-open-house-creese-and-cook-former-tannery-superfund-site",
+ "institution_id": "us-epa",
+ "title": "EPA to Host Open House for the Creese and Cook (Former) Tannery Superfund Site",
+ "date": "2026-06-04",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "b022badbabd2146846a73fc2e60918b50d8dfe8dfc96657f1029104a1d80f1ad",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

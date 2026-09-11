@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about restructuring local government into 5 unitary councils via secondary legislation — this is about the structure and organization of subnational government units.\n\nThe specific mechanism: consolidating multiple local authorities into unitary councils (local government reorganization/structure).\n\nThis fits squarely under **R5 — Regional Government Analysis** (structure, organization, and reform of regional/local government), or alternatively **H7 — State and Local Government • Intergovernmental Relations** (which covers the economics of local government structure and intergovernmental arrangements).\n\nH7 is the better fit as it directly addresses local government structure and organization. R5 covers regional government analysis but is more about economic analysis of regions. H7 explicitly covers \"State and Local Government\" including structural arrangements.\n\n{\"primary\": \"H\", \"secondary\": [\"R\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

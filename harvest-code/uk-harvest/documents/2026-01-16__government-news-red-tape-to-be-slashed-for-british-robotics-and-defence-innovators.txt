@@ -1,0 +1,97 @@
+TITLE: Red tape to be slashed for British robotics and defence innovators
+URL: https://www.gov.uk/government/news/red-tape-to-be-slashed-for-british-robotics-and-defence-innovators
+DATE: 2026-01-16
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Baroness Lloyd of Effra CBE; Lord Vallance
+
+---
+
+Outdated red tape blocking robotics and defence innovation will be cut under new priorities for the Regulatory Innovation Office
+
+£52 million for new hubs to drive robotics adoption in British business – backing farming, healthcare and beyond
+
+Direct portal launched for businesses to report regulatory barriers holding back innovation and growth
+
+Red tape holding back innovations like robots for inspecting wind turbines in stormy seas and autonomous vessels for patrolling British waters is to be curbed as part of a new drive to remove roadblocks to innovation.
+
+The Regulatory Innovation Office (RIO) has unveiled robotics and defence as new priorities that will make Britain safer and more productive. This builds on its mission to seek out and remove outdated rules which hold back the technologies that drive growth, to lift living standards and improve public services as part of our national renewal and the central mission of the government’s Modern Industrial Strategy.
+
+The RIO, which launched in October 2024, has already engaged with over 150 businesses and is working to unlock the potential of sectors worth over £100 billion across its initial priority sectors. For example, it worked with the Civil Aviation Authority (CAA) to simplify the approval process for drone flights, helping companies like Apian cut their medical delivery time from 30 minutes by van to 2 minutes by drone.
+
+Robotics and defence tech are 2 areas where British companies are world-leaders. Firms like CMR Surgical are already using robots to reduce the need for invasive surgery, transforming patient care. But across these sectors, outdated and complex regulations can hold back innovation and slow the path to market. Many essential jobs also put workers at risk or take place in hard-to-reach locations – from inspecting offshore wind turbines to checking pipes in nuclear facilities. Robots can take on these tasks, keeping people safe while getting the job done faster.
+
+Currently, businesses developing robotic technologies must navigate different regulatory frameworks across multiple bodies. A company building autonomous inspection drones, for example, may need separate approvals for aviation, data protection, and sector-specific safety rules - a process that can take months and cost significant resources. The RIO will aim to streamline overlapping requirements to bring products to market safely, but more quickly, to improve lives and grow our economy.
+
+Autonomous technologies – such as self-operating sea vessels – can strengthen UK defence capabilities while reducing risks to military personnel. Many of these technologies also have civilian uses, from environmental monitoring to search and rescue.
+
+Minister for Digital Economy, Liz Lloyd said:
+
+British innovators shouldn’t be held back by needless red tape. We have world-leading robotics and defence tech firms, but regulations haven’t kept pace with their innovations.
+
+We’re updating the rules so they work for modern technologies, cutting the barriers that stop these firms from growing and competing globally.
+
+Minister for Defence Readiness and Industry Luke Pollard MP said:
+
+When we said we would make it easier for defence firms to innovate we meant it. 
+
+By cutting red tape, we’re delivering on the Strategic Defence Review’s ambition to fast-track the military equipment our forces need. 
+
+We want the UK to be one of the best places in the world to start and grow a defence business – making defence an engine for growth in every region and nation of the UK.
+
+Research suggests that wider adoption of robotics across just 7 sectors could add £150 billion to the UK economy. But many businesses – particularly smaller firms – don’t know where to start with adopting these technologies.
+
+Building on commitments in the Advanced Manufacturing Sector Plan as part of the Modern Industrial Strategy, the government is launching a £52 million competition for around 5 new Robotics Adoption Hubs across the country.
+
+Many businesses can see the potential of robotics but need support to take the first step – whether that’s a small manufacturer looking to automate part of their production line, a farm wanting to explore new ways to monitor crops, or a hospital considering how robots could free up staff time.
+
+Run by universities, businesses, or public sector organisations selected through an Innovate UK competition launching in the coming weeks, these Hubs will give companies of all sizes access to expert advice, live demonstrations, and networking opportunities to help them take the first steps towards adopting robotics, and in turn help grow our economy and improve lives.
+
+Each Hub will receive at least £2 million over 4 years, with additional funding available for ambitious bids. Hubs are expected to be operational from the second half of 2026.
+
+Science Minister, Lord Vallance said:
+
+From manufacturing to healthcare, robotics can help British businesses work smarter and grow faster.
+
+These Hubs will make sure companies of all sizes can access the support they need to embrace automation, wherever they are in the country.
+
+Businesses in both these sectors can tell RIO about regulatory barriers through a new pilot – helping the office target the rules causing the most problems and unlock growth in robotics and defence technologies.
+
+Notes to editors
+
+The Regulatory Innovation Office has focused on 4 fast-growing areas of technology since it was established: engineering biology, space, artificial intelligence and digital in healthcare, and drones and other autonomous technology.
+
+Innovate UK is launching a competition in the coming weeks to identify organisations to run the Robotics Adoption Hubs.
+
+The Robotics Adoption Hubs was announced in the Advanced Manufacturing Sector Plan in June 2025.
+
+The £150 billion GVA figure is based on 2 reports:
+
+- The UK RAS Landscape
+
+- The economic impact of robotics and autonomous systems across UK sectors
+
+Naomi Weir, Technology and Innovation Director, CBI, said:
+
+The CBI welcomes RIO’s new front door for business and announcement of its new priority sectors. Developed in partnership with industry and technology experts, zeroing in on defence technology and robotics - which are strategically important areas for Industrial Strategy sectors - can really accelerate innovation and unlock growth. We look forward to working with RIO to help deliver on this ambition.
+
+£100 billion is an approximate aggregate of the GVA and GDP of 4 individual sectors to the UK economy: Drones, Engineering Biology, Healthtech, and Space:
+
+£45 billion GVA for drones by 2030
+
++£14 billion in GDP by 2030
+
+£34.65 billion GVA for the UK’s market share of the global space economy by 2030
+
+£13.5 billion GVA for healthtech by 2030, which forms part of the RIO’s broader priority area AI in healthcare: 
+
+Artificial Intelligence sector study 2024
+
+Economic Estimates: Digital Sector Annual Gross Value Added (2019 to 2023)
+
+UK HealthTech Industrial Councils
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

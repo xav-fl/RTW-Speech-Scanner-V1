@@ -1,0 +1,9 @@
+TITLE: Bail Act 1976 amendments
+URL: https://www.gov.uk/government/publications/bail-act-1976-amendments
+DATE: 2026-03-19
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+The Sentencing Act 2026 establishes a package of amendments to the Bail Act 1976 to help reduce the prison remand population. There are three main amendments to the Bail Act: a change to the ‘no real prospect of custody’ test; changes to the eligibility for electronic monitoring and adding specific additional factors to the list of relevant factors that a court should consider when deciding whether to bail or remand a defendant.

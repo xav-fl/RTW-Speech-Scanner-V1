@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/colombia-national-day/",
+ "institution_id": "us-state",
+ "title": "Colombia National Day",
+ "date": "2026-07-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "ff65d7538a51f9913b0098d4837d6106c4abf01176c47c32f48487be16eb4f87",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

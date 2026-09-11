@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/fortifying-health-systems-and-countering-infectious-disease-threats-through-the-america-first-global-health-strategy-in-burkina-faso/",
+ "institution_id": "us-state",
+ "title": "Fortifying Health Systems and Countering Infectious Disease Threats Through the America First Global Health Strategy in Burkina Faso",
+ "date": "2026-02-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "640f5ac456503838868b4e9ce3cc7c1138feda64755fce1bf114e7b823724d44",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

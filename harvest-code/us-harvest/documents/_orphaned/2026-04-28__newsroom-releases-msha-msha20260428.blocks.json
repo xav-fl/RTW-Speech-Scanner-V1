@@ -1,0 +1,89 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/msha/msha20260428",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor announces all-injury rate for mining industry reached historic low in 2025",
+ "date": "2026-04-28",
+ "date_source": "listing",
+ "source_document_type": "MSHA",
+ "text_sha256": "3d7d4c4f61b1b11b8707658239712ef8d9e11f66d1470ad7b091973dfaab8eef",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Mine Safety",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Mine Safety",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Acting Deputy Director of MSHA’s Program Evaluation",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Acting Deputy Director of MSHA’s Program Evaluation",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

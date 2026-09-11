@@ -1,0 +1,83 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/25/best-best-ice-agents-delivered-emergency-medical-care-and-saved-life-4-year-boy-who",
+ "institution_id": "us-dhs",
+ "title": "BEST OF THE BEST: ICE Agents Delivered Emergency Medical Care and Saved Life of 4-Year-Boy Who Drowned in a Hotel Pool",
+ "date": "2026-02-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "afa538cea1767f8f97dfc8944c74ccb6917d4d5eae49af25e5e50849758ba8a2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

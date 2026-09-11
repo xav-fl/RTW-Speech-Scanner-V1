@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/inaugural-united-states-asean-ai-ministerial/",
+ "institution_id": "us-state",
+ "title": "Inaugural United States-ASEAN AI Ministerial",
+ "date": "2026-05-20",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "d66aeaf3064c7ba1a2fd84c6580509273207487fb3e2f065118a6481919a83ea",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/u-s-support-for-jennifer-warren-for-itu-radio-regulation-board/",
+ "institution_id": "us-state",
+ "title": "U.S. Support for Jennifer Warren for ITU Radio Regulation Board",
+ "date": "2026-01-13",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "c4f177e4d81fe25278d9d9b873589ed5fb07f3741cfaceb270831e9c1d030f2c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

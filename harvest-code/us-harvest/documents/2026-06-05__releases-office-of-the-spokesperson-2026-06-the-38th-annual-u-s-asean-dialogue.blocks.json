@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/the-38th-annual-u-s-asean-dialogue/",
+ "institution_id": "us-state",
+ "title": "The 38th Annual U.S.-ASEAN Dialogue",
+ "date": "2026-06-05",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "f36859704e488ad7c3c9b639b782c2d5067d63ccbdb17838846615ed32ff4bbf",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

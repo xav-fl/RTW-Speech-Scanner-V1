@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/fostering-health-sovereignty-in-the-democratic-republic-of-the-congo-through-the-america-first-global-health-strategy/",
+ "institution_id": "us-state",
+ "title": "Fostering Health Sovereignty in the Democratic Republic of the Congo Through the America First Global Health Strategy",
+ "date": "2026-02-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "c369ef1f7b658bf3380e741c603964476b03f9eb1501cff11218f8c723e59e2b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

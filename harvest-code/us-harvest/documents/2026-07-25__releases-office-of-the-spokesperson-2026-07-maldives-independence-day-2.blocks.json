@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/maldives-independence-day-2/",
+ "institution_id": "us-state",
+ "title": "Maldives Independence Day",
+ "date": "2026-07-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "bb803091fddbfddc91ca6c4c2bf41a8445f6138a93f6735e5ad60829cd996a37",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+TITLE: Cutting-edge timing technology to protect vital services
+URL: https://www.gov.uk/government/news/cutting-edge-timing-technology-to-protect-vital-services
+DATE: 2026-03-07
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Lord Vallance
+
+---
+
+A new cutting-edge timing network for the UK will help keep critical services like phone networks and bank transactions up and running
+
+£180 million programme to ease the UK’s reliance on satellite services, which can often be targeted and disrupted
+
+Strengthening British expertise in precision timing will open up new high-skilled job opportunities, and boost economic growth
+
+The clocks and timing systems we all rely on every day, underpinning phone networks and online banking services, will be better protected than ever thanks to new government investment in the cutting-edge National Timing Centre (NTC).  
+
+Accurate timekeeping is fundamental to our daily lives – keeping our transport systems moving, allowing us to stay in touch with loved ones, and ensuring emergency services can get on the scene as quickly as possible.   
+
+At the moment, these all rely heavily on Global Navigation Satellite Systems (GNSS), which beam ultra-accurate timing signals from space, but are vulnerable to disruption from attacks, jamming, and technical malfunctions.  
+
+Recent incidents as part of the war in Ukraine have shown how satellite signals can be deliberately disrupted, with jamming attacks repeatedly interfering with civilian aircraft and other critical services. An outage impacting the UK could cost our economy some £1.4 billion in the space of just 24 hours.   
+
+Coinciding with the start of British Science Week, the National Timing Centre (NTC) will now set to work on a new £180 million programme to enhance UK resilience and safeguard our economy. 
+
+It will distribute the resilient timing signal free over air, via internet and by fibre. When existing systems fail, the National Timing Centre (NTC) will be there to support vital digital infrastructure. 
+
+The funding will also help build British expertise in precision timing training, creating new opportunities for graduates, apprentices and, over time, PhD‑level training. This will ensure the UK has the skills needed to maintain secure, reliable timekeeping, while backing innovative British firms to scale up and drive national renewal. 
+
+Science Minister Lord Vallance said:      
+
+Accurate timekeeping is about more than just keeping the clocks ticking, it is fundamental to keeping the country running - from banking and staying in touch with friends and family through to our emergency services having the information they need.
+
+The systems we rely on today are increasingly vulnerable to disruption, which is why we’re acting now to strengthen the infrastructure we rely on every day.
+
+This project will give us a safety net that will help protect our national security, safeguard our economy, and give people the confidence they need to go about their daily lives.
+
+CEO of NPL, Pete Thompson said:    
+
+At NPL we are proud to be leading the way in providing trusted and assured timing to protect and enhance the UK’s digital infrastructure. This funding ensures the NTC programme can deliver huge benefits to industry and the economy, whilst underpinning secure applications in the future.
+
+Atomic clocks work by using the energy of atoms which allows them to produce and maintain an exceptionally accurate timing signal. 
+
+They already play a huge role across a range of critical services. 5G stations for example use atomic timing signals to ensure thousands of devices can transmit in perfectly‑coordinated time slots, preventing interference to keep networks and the country running smoothly.  
+
+Led by the National Physical Laboratory (NPL), the National Timing Centre (NTC) will create an alternative to satellite timing technology, which will help keep our economy, public services, and transport networks moving, even in the face of the most severe disruption.   
+
+As part of the programme announced today, 2 dedicated sites will now harness the power of these machines to share signals via fibre, satellites and radio waves - meaning systems no longer have to depend on any single location or on transmission which are easier to disrupt.   
+
+The National Physical Laboratory (NPL) is already working with companies across the UK to see how these atomic clocks could also be put to use, exploring new applications in everything from navigation and communication to improved radar systems.  
+
+It comes as part of British Science Week, a ten-day celebration of science, technology, engineering and maths in the UK. Later in the week Science and Technology Secretary Liz Kendall will address the Royal Society’s ‘Women and the future of science’ event where she will celebrate the contribution of women to British science. 
+
+Notes to editors
+
+This investment follows a successful R&D phase undertaken by NPL which ended in March 2025
+
+During this phase state of the art, ground-based facilities and a dedicated software environment were designed, developed and tested to ensure the feasibility of the National Timing Centre (NTC)
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

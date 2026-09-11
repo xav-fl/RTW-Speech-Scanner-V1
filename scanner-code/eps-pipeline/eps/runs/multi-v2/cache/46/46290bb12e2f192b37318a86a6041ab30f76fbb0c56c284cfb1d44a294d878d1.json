@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D66bf4e5fbe.P086.S001\", \"D66bf4e5fbe.P087.S001\", \"D66bf4e5fbe.P088.S001\"], \"anchor\": null, \"reason\": \"White paper linked to child poverty, social care, post-16 strategies with coherent goal\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

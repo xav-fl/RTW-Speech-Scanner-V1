@@ -1,0 +1,35 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260312-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor awards more than $1.6 million to assist workers affected by closure of Nebraska beef processing plant",
+ "date": "2026-01-20",
+ "date_source": "body",
+ "source_document_type": "ETA",
+ "text_sha256": "511fcc949a0ecacdfbce8543346d672ebb3113dcb0cc84917d58011487f8a398",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

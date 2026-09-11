@@ -1,0 +1,101 @@
+{
+ "url": "https://www.energy.gov/articles/wright-zeldin-and-burgum-break-ground-nese-pipeline-new-york-city-deliver-reliable",
+ "institution_id": "us-energy",
+ "title": "Wright, Zeldin, and Burgum Break Ground on NESE Pipeline in New York City to Deliver Reliable, Affordable Natural Gas to the Northeast",
+ "date": "2026-04-14",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "58cfe0bb1f5d88dced644f06fac708e08253470248ec30d6b9f47dd4cfaecf1d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Energy Secretary Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Energy Secretary Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Secretary of the Interior Doug Burgum",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Secretary of the Interior Doug Burgum",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Williams Companies CEO Chad Zamarin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

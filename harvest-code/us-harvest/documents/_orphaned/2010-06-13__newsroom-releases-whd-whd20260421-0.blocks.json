@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260421-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor seeks to return $128K in recovered wages to more than 200 current, former Puerto Rico Police Department officers",
+ "date": "2010-06-13",
+ "date_source": "body",
+ "source_document_type": "WHD",
+ "text_sha256": "08b612dbd473549ef9e7676b5d9e1d37df681322862c5ec4498469c04c2f95af",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

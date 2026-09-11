@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-on-u-s-mexico-security-cooperation/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on U.S.-Mexico Security Cooperation",
+ "date": "2026-01-15",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "23ccbe78f2acd5eedc268a3e7c9fd57624277159e4d7d86d8cab3a56c34e3bb7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

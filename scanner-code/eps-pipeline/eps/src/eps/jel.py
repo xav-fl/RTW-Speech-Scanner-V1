@@ -119,6 +119,7 @@ class JELTaxonomy:
 # --- fetching --------------------------------------------------------------
 
 _CODE_RE = re.compile(r"^([A-Z])(\d)?(\d)?$")
+_ACTIVE_CODE_RE = re.compile(r"^[A-Z]\d{2}$")
 
 
 def fetch_from_aea(url: str = AEA_URL, timeout: int = 60) -> list[JELCode]:
@@ -171,3 +172,123 @@ def write_csv(codes: list[JELCode], path: str | Path) -> None:
         w.writerow(["code", "title", "level", "parent"])
         for c in codes:
             w.writerow([c.code, c.title, c.level, c.parent])
+
+
+# --- the active three-character list ----------------------------------------
+#
+# Everything above is the hierarchical taxonomy, which the rest of the pipeline
+# still uses. Classification no longer does: it picks a three-character code
+# straight from the flat list below, and the parents are derived here by lookup
+# rather than asked of the model.
+
+ACTIVE_CODES_FILE = "jel_codes_active_20260828.csv"
+
+
+@dataclass(frozen=True)
+class ActiveCode:
+    """One active three-character code, with the parents it belongs to.
+
+    The parent columns are for lookup and monitoring only. They are never shown
+    to the model: seeing the hierarchy is what invites picking a branch before
+    picking a code, which is the behaviour this list replaces.
+    """
+
+    code: str
+    title: str
+    sub_code: str
+    sub_title: str
+    major_code: str
+    major_title: str
+    is_residual: bool
+
+
+class ActiveJELList:
+    """The dated list of active codes the classifier selects from.
+
+    Presents the same `check()` contract as `JELTaxonomy`, so `validate_jel`
+    works against either without knowing which it was handed.
+    """
+
+    def __init__(self, codes: list[ActiveCode], source: str = ""):
+        if not codes:
+            raise ValueError("no active JEL codes loaded")
+        self.codes = codes
+        self.source = source
+        self.by_code: dict[str, ActiveCode] = {c.code: c for c in codes}
+
+    @classmethod
+    def load(cls, path: str | Path) -> "ActiveJELList":
+        path = Path(path)
+        codes: list[ActiveCode] = []
+        # utf-8-sig: the file is plain UTF-8, but a BOM would otherwise end up
+        # inside the first column name.
+        with open(path, newline="", encoding="utf-8-sig") as fh:
+            for r in csv.DictReader(fh):
+                code = r["jel_code"].strip()
+                if not _ACTIVE_CODE_RE.match(code):
+                    raise ValueError(f"{path}: {code!r} is not a three-character code")
+                codes.append(ActiveCode(
+                    code=code,
+                    title=r["jel_title"].strip(),
+                    sub_code=r["subcategory_code"].strip(),
+                    sub_title=r["subcategory_title"].strip(),
+                    major_code=r["major_code"].strip(),
+                    major_title=r["major_title"].strip(),
+                    is_residual=r.get("is_residual", "").strip().lower() == "true",
+                ))
+        dupes = len(codes) - len({c.code for c in codes})
+        if dupes:
+            raise ValueError(f"{path}: {dupes} duplicate code(s)")
+        return cls(codes, source=path.name)
+
+    def __contains__(self, code: str) -> bool:
+        return code in self.by_code
+
+    def __len__(self) -> int:
+        return len(self.codes)
+
+    # -- what the model sees ------------------------------------------------
+
+    def prompt_lines(self) -> str:
+        """The list as the model receives it: code and title, nothing else."""
+        return "\n".join(f"{c.code} \u2014 {c.title}" for c in self.codes)
+
+    # -- what the model never has to supply ---------------------------------
+
+    def assignment(self, code: str, match_strength: int = 0) -> JELAssignment:
+        """Build a full assignment from a three-character code by lookup.
+
+        Every code on the list carries both parents, so this cannot fail for a
+        code that is on the list. Callers must refuse codes that are not.
+        """
+        c = self.by_code[code]
+        return JELAssignment(
+            major_code=c.major_code, major_title=c.major_title,
+            sub_code=c.sub_code, sub_title=c.sub_title,
+            detailed_code=c.code, detailed_title=c.title,
+            match_strength=match_strength,
+        )
+
+    # -- validation ---------------------------------------------------------
+
+    def check(self, a: JELAssignment) -> tuple[bool, str]:
+        """Codes must be on the list, at three characters, with the parents
+        this list gives them rather than whatever a caller filled in."""
+        if not a.detailed_code:
+            return False, "no three-character JEL code"
+        known = self.by_code.get(a.detailed_code)
+        if known is None:
+            return False, f"{a.detailed_code!r} is not on the active list"
+        for label, got, want in (
+            ("detailed title", a.detailed_title, known.title),
+            ("subcategory", a.sub_code, known.sub_code),
+            ("subcategory title", a.sub_title, known.sub_title),
+            ("major", a.major_code, known.major_code),
+            ("major title", a.major_title, known.major_title),
+        ):
+            if got and got.strip() != want:
+                return False, f"{a.detailed_code}: {label} does not match the active list"
+        if a.match_strength not in (1, 2, 3):
+            return False, (f"{a.detailed_code}: match strength {a.match_strength!r} "
+                           f"is not 1, 2 or 3")
+        return True, ""

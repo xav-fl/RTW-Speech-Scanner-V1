@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-region-4-takes-action-halt-illegal-pesticide-sales-metro-atlanta",
+ "institution_id": "us-epa",
+ "title": "EPA Region 4 Takes Action to Halt Illegal Pesticide Sales in Metro Atlanta",
+ "date": "2026-07-23",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "b9d16bfa59c2d8944cd5884f148c6832951e5f3c0f467b8dfeba4a9d6f411149",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Regional Administrator Kevin McOmber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Regional Administrator Kevin McOmber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

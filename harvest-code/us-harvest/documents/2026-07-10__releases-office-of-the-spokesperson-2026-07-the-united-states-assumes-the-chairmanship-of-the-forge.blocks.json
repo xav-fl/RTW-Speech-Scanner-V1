@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/the-united-states-assumes-the-chairmanship-of-the-forge/",
+ "institution_id": "us-state",
+ "title": "The United States Assumes the Chairmanship of the FORGE",
+ "date": "2026-07-10",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "dc9baaee6e449dfa4051e6372dcdd0616b52a6de75c145e337f40847bf12edb2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260506",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers $171K in back wages for 32 workers shortchanged overtime pay by Hawaii rehabilitation services employer",
+ "date": "2026-05-06",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "eb0abd0695775137ea81f98a20ab6f8871292e92f0ef37d9a7afc16e1d23a0d2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

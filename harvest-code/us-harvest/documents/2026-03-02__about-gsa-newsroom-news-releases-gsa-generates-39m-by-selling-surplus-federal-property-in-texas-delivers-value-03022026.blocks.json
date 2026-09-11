@@ -1,0 +1,71 @@
+{
+ "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-generates-39m-by-selling-surplus-federal-property-in-texas-delivers-value-03022026",
+ "institution_id": "us-gsa",
+ "title": "GSA Generates $3.9M by Selling Surplus Federal Property in Texas, Delivers Value to American Taxpayers",
+ "date": "2026-03-02",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "473989776fe235891f6c3db62367e49fcf92e1b146ad207456eceefc4d1ad8ea",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward C. Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

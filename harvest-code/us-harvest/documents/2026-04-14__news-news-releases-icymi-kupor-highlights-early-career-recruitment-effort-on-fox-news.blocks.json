@@ -1,0 +1,59 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/icymi-kupor-highlights-early-career-recruitment-effort-on-fox-news/",
+ "institution_id": "us-opm",
+ "title": "ICYMI: Director Kupor Highlights Early Career Recruitment Effort on Fox News’ Saturday in America",
+ "date": "2026-04-14",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "1a11dff1dc66b78867ee0608a4518b08785d9337b91841662612d2f8699904d1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/06/16/hsi-investigation-leads-conviction-man-who-laundered-nearly-100-million",
+ "institution_id": "us-dhs",
+ "title": "HSI Investigation Leads to Conviction of Man Who Laundered Nearly $100 Million",
+ "date": "2026-06-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "e65d80fda0b91aec7cf90bd45550a58a7a78d20923a7b59935903c0521a02cf3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting HSI Seattle Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting HSI Seattle Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

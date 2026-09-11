@@ -1,0 +1,137 @@
+{
+ "url": "https://www.justice.gov/opa/pr/former-american-embassy-employee-sentenced-rape-minors-burkina-faso",
+ "institution_id": "us-justice",
+ "title": "Former American Embassy Employee Sentenced for Rape of Minors in Burkina Faso",
+ "date": "2026-02-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "89f6ffde3b494a905c9264e898044a05dfef70c2d09053d421f819c3db3a3e4a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Kelly O. Hayes for the District of Maryland",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Kelly O. Hayes for the District of Maryland",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Director George Semertsidis of the DSS Office of Special Investigations",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Director George Semertsidis of the DSS Office of Special Investigations",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Acting Deputy Assistant Inspector General for Investigations Laura Rousseau of USAID OIG",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Acting Deputy Assistant Inspector General for Investigations Laura Rousseau of USAID OIG",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "Acting Executive Director John Condon of HSI",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 15,
+   "kind": "quote",
+   "speaker": "Acting Executive Director John Condon of HSI",
+   "method": "speech_verb"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-notifies-fairfax-county-virginia-commonwealths-attorney-investigation-his",
+ "institution_id": "us-justice",
+ "title": "Justice Department Notifies Fairfax County, Virginia Commonwealth’s Attorney of Investigation into His Plea Bargaining, Charging Decisions, and Sentencing Policy",
+ "date": "2026-05-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "b9afd9f46c5f6ff258935316f80c2ad18448f27a31f9c918adeedd0a168e838d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

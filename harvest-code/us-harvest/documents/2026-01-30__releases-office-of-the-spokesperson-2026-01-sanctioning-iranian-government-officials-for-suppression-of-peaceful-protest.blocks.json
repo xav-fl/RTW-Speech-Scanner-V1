@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/sanctioning-iranian-government-officials-for-suppression-of-peaceful-protest/",
+ "institution_id": "us-state",
+ "title": "Sanctioning Iranian Government Officials for Suppression of Peaceful Protest",
+ "date": "2026-01-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "dbd70334a6236d8fcb455867f51b86ad93fdf43e56f8fdd8c809f823ac972f25",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/canada-day-2/",
+ "institution_id": "us-state",
+ "title": "Canada Day",
+ "date": "2026-07-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "9d5f32e7b88d0b14fa54d5788d81f7b5a134232125d443e77b2c89b03ef0a207",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

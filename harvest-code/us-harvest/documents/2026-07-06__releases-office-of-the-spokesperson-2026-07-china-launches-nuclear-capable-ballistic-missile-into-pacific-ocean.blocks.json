@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/china-launches-nuclear-capable-ballistic-missile-into-pacific-ocean/",
+ "institution_id": "us-state",
+ "title": "China Launches Nuclear Capable Ballistic Missile into Pacific Ocean",
+ "date": "2026-07-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "ba772dfef90ab1b04d49f1babde4e6e6d767561a9fd5e5f4dcce20be49ed2922",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-nebraska",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event Nebraska",
+ "date": "2026-04-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "cec25e038574e2c6545d6159e4d4dd404225c171bdfb37c25677506ebde179b1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

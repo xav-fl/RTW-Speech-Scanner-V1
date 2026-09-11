@@ -1,0 +1,359 @@
+Introduction
+
+The economic landscape under the Trump Administration is favorable, supported by robust business investment in equipment and intellectual property products, as well as solid household consumption growth. Moreover, data on investments, sales, and earnings indicate that the economy is poised for continued expansion. Business investment rose by over 10% in the first quarter of 2026 (1Q26), driven by investments in new equipment and intellectual property.
+
+On the labor side, employment growth in early 2026 underscores labor market resilience. Average monthly private payroll growth surged in 1Q26 to over 2.5 times above the monthly average in 2025. Importantly, worker wages continue to outpace inflation, even despite elevated price levels associated with the Iranian conflict.
+
+Despite recent shifts in energy costs due to the Iran conflict nudging headline inflation the U.S. economy is more resilient to fluctuations in energy prices due to increased U.S. oil production and supply augmentation by releases from the strategic petroleum reserves. The United States is the world’s largest producer of petroleum and natural gas and a net exporter of both, cushioning supply shocks and strengthening energy resilience and dependence. This status should help inflation come down quickly following the cessation of conflict with Iran.
+
+Real Gross Domestic Product (GDP)
+
+Real GDP growth accelerated to 2.0% at an annual rate in 1Q26, rebounding from the 0.5% growth at the end of 2025. The pick-up in the first quarter largely reflected faster growth in business fixed investment (BFI), recovery from the federal shutdown in 4Q25, and slower drawdown in private inventories (see Table 1 – Real Gross Domestic Product). Growth of BFI quadrupled in 1Q26, making the largest contribution to growth of any component at 1.4 percentage points.
+
+Investment in real business equipment rose at a 17.2% rate in 1Q26, driven largely by increases in information processing equipment. Intellectual property products increased at a 13.0% rate, reflecting an acceleration in software investment. Although structures investment declined overall, investment in data centers jumped over 22% (annualized) over the quarter. These investments are policy driven and bode well for future productivity enhancements and growth.
+
+Personal consumption of goods and services (PCE) was relatively stable in the first quarter, contributing 1.1 percentage points to overall GDP growth. PCE growth reflected an increase in services consumption, particularly health care services, whereas inflation-adjusted purchases of goods were flat.
+
+Residential investment, the final component of PDFP, contracted moderately in the first quarter, marking the fifth consecutive quarter of decline. The decrease was led by a decline in the construction of single-family residences and a drop in brokers’ commissions on sales of new and existing homes. Brokers’ commissions have seen offsetting growth since 3Q23.
+
+Overall, private domestic final demand (PDFP) rose at a solid rate in the final quarter of 2025 (4Q25), attesting to underlying momentum in the domestic economy. PDFP—composed of personal consumption expenditures (PCE), BFI, and residential investment—captures the most stable and persistent components of economic growth and can be useful for assessing the economy’s future path. This category added 2.2 percentage points (percentage points) to topline real GDP growth, materially above the fourth quarter’s 1.6 percentage point contribution.
+
+Of the remaining main components of GDP, government spending and the change in private inventories made positive contributions to economic growth in the first quarter, while the drag from net exports increased as imports grew faster than exports.
+
+The end of the 4Q25 federal shutdown led to a rebound in federal expenditures, and the state and local government sector added 0.7 percentage points to growth.
+
+Labor Markets
+
+Labor markets have stabilized or improved in recent months, with job growth picking up and the unemployment rate ticking lower (see Table 2 – Labor Market Indicators). In addition, the headline labor force participation rate (LFPR), as well as prime age (ages 25 to 54) LFPR, were stable at high levels during 1Q26, and the job openings count turned higher.
+
+In 1Q26, the pace of net total (private and public) job creation accelerated sharply, reflecting a strong pick-up in private sector hiring. During the final two months of 2025, net job growth averaged 12,000 per month before jumping up to an average of 68,000 per month.
+
+Net private-sector job creation remains positive; from a pace of 26,000 in 4Q25, average job growth more than tripled to 79,000 per month in 1Q26.
+
+Less drag from federal government payrolls also contributed to the pickup in total job creation. The end of the Deferred Resignation Program yielded an outsized drop in federal payroll jobs in 4Q25 after the end of the federal fiscal year (September), which led to a sizeable, single-quarter drop in federal employment.
+
+Net job growth in 1Q26 was more than sufficient to keep the unemployment rate relatively stable. In 1Q26, the unemployment rate declined to an average of 4.3% per month – in line with the 2025 estimate by the Congressional Budget Office of the non-cyclical unemployment rate (the rate of unemployment that is consistent with stable inflation and excludes fluctuations in aggregate demand).
+
+Total labor force participation eased in 1Q26, held down by demographic pressures and immigration enforcement. The overall LFPR eased to an average 62.0% in 1Q26, after rising to an average 62.5% per month in November and December 2025 (the average rate during the first half of 2025).
+
+Nonetheless, the LFPR among prime-age workers strengthened further, ticking up to an average of 83.9% in 1Q26 – or 0.8 percentage points above the previous business cycle peak in January 2020. Among prime-age men, the LFPR averaged 89.6% per month, matching the monthly average in 4Q25. In addition, the LFPR for prime-age women rose 0.2 percentage points to an average 78.4% per month in 1Q26. Notably, prime-age women’s LFPR reached an all-time high of 78.5% in March 2026 (series dates from January 1948).
+
+The participation rate among those aged 55 or older eased in 1Q26, consistent with broader demographic trends. The 55 or older LFPR averaged 37.3% per month, the lowest quarterly reading since mid-2005.
+
+Another measures of labor demand improved at the margin in 1Q26. Average monthly job openings had declined throughout 2025, dropping to an average of 6.9 million job openings per month in 4Q25. However, in the first two months of 2026 (latest data available), job openings increased to an average 7.1 million per month, and the ratio of job openings edged up slightly to an average 0.95 per month.
+
+Other indicators point to stable labor markets as well: the layoffs rate remains stable and low, initial unemployment claims remain exceptionally low by historical standards, and the hires rate has remained remarkably stable for over two years.
+
+Workers realized strong nominal wage growth. Average hourly earnings (AHE) for all employees were up 3.5% over the year ending in March 2026, continuing the easing trend that started in 2Q25. Adjusted for inflation, real AHE for all employees was 0.3% higher over the year.
+
+Meanwhile, the Employment Cost Index (ECI) for all private workers, which includes wages, salaries, and benefits and controls for compositional changes and other biases that may be present in AHE, rose 3.4% over the year ending in March 2026.
+
+Because year-over-year labor productivity growth ranged between 2.0% and 2.5% throughout 2025, wage growth is almost certainly not a driver of inflationary pressures at this time—and likely is disinflationary.
+
+Inflation
+
+As of March 2026, twelve-month core CPI inflation, which excludes the volatile components of food and energy, was 2.6%, moderating from the 2.8% rate over the year through March 2025. From a monthly average of 0.1% in 4Q25, core inflation ticked up slightly to an average 0.2% per month in the latest quarter. Over the twelve months through March 2026, the core inflation rate was 2.6%, slowing from the 2.8%, year-earlier rate.
+
+Monthly core goods prices ticked up to a monthly average of 0.1% in 1Q26, after a flat reading in 4Q25. On a twelve-month basis core goods inflation was 1.2% through March 2026.
+
+Inflation for rent of housing services (rent of primary residence and owners’ equivalent rent) was stubbornly elevated between May 2023 through 2024. In 4Q25, rent of housing inflation slowed to an average 0.1% per month but ticked up slightly to 0.2% in the latest quarter. Nonetheless, over the year through March 2026, rent of housing inflation was just 3.0%, the slowest pace since September 2021 and below the pre-pandemic average of 3.3%.
+
+Inflation for non-housing core services slowed significantly in 4Q25, averaging 0.1% per month, but accelerated again in 1Q26 to an average 0.4% per month. This reflected fluctuations in medical services prices and higher airfares. Over the year through March 2026, non-housing core services inflation was 3.1%, up from the 2.9%, year-earlier rate.
+
+Due in part to recent fluctuations in energy prices arising from the conflict with Iran, headline CPI inflationary pressures increased in 1Q26. As of March 2026, twelve-month CPI inflation – as measured by the headline consumer price index (CPI) – was 3.3%, up from the 2.4% annual rate through March 2025. Average monthly inflation also accelerated: average headline inflation was 0.4% per month in 1Q26, up from 0.2% in 4Q25 (see Table 3 – Inflation Indicators).
+
+CPI inflation for energy goods and services averaged 3.2% per month in 1Q26, following a monthly average of 0.6% in 4Q25. On a twelve-month basis, energy price inflation was 12.5% through March 2026, contrasting with a 3.3% decline a year earlier.
+
+Food price inflation was stable at 0.2% in 1Q26, matching the previous quarter’s monthly average. On a twelve-month basis, however, food price inflation was 2.7% through March 2026, slowing from 3.0% over the year through March 2025. The slower twelve-month rate reflects receding price pressures from beef, coffee, and eggs, but overall, food price inflation remains broadly elevated. The category of food away from home remains persistently elevated: since mid-2024, it has fluctuated in a range of 3.6-4.0% and, over the year through March 2026, stood at 3.8%.
+
+Inflation as measured by the PCE price index has notable differences in weights and methodologies versus the CPI. Over the past 20 years, twelve-month CPI inflation has exceeded PCE inflation by about 0.35 percentage points on average. Over the year through March 2026, the headline PCE price index was 3.5%, 1.1 percentage points above the 2.4% pace over the year through March 2025—though fluctuations in energy prices were a large contributor to the PCE inflation pick up. The Federal Reserve’s target for PCE inflation is 2%.
+
+Risks to the Outlook
+
+Looking ahead to the next few quarters, the outlook for the U.S. economy is favorable. On balance, economists view the risk of a recession as relatively low. According to The Wall Street Journal’s survey of economists in April, the average probability of a recession in the next twelve months was just 33%, up modestly from the January survey. Both upside and downside risks persist, some of which we discuss below.
+
+Energy prices and geopolitical uncertainty: Geopolitical uncertainty remains an upside risk to the medium-term inflation outlook. Energy prices are one of the most fluctuating categories of inflation, and growth through March alone contributed over a quarter of annual headline inflation. The timing, duration, and magnitude of energy price swings adds upside risk to inflation for other consumer goods and services – such as food (through fertilizer and fuel for farming equipment) and airfares – adding uncertainty to the medium run inflation outlook.
+
+Importantly, the Trump Administration’s policies have made the U.S. economy more resilient to fluctuations in global oil prices. Average domestic crude oil production in 2025 rose by 350,000 barrels per day relative to the 2024 average. The United States is now the world’s largest producer of petroleum products and natural gas, and it is a net exporter of both.
+
+Labor markets: Labor markets appear to be in balance, and Treasury is monitoring private-sector labor market developments closely. Data suggest that both labor supply and demand softened similarly in 2025, leading to low hires / low fires environment—that is, soft hiring has not been accompanied by a sharp rise in unemployment. This is likely due to a lower breakeven rate of payroll job growth.
+
+From mid-2024 to January 2025, private sector hires rates were relatively flat, ranging from 3.5-3.8%, comparable to the slow recovery early-2010 to early-2014. Although the private hires rate fell to 3.3% in February, the private layoff rates remained historically low. With modest hiring but low layoff rates, firms appear to be shedding labor via attrition and using productivity growth to drive output. Further supporting evidence for the continued balance in the labor market is the stable, low levels of initial and continuing jobless claims.
+
+Artificial intelligence (AI): Investment in artificial intelligence has been a significant driver of economic growth in recent quarters. Throughout 2025, AI-driven investment (BFI in software, computers and hardware, and data center structures relative to pre-LLM trends) accounted for over a third of GDP growth. The contribution picked up in 1Q26, with roughly half of GDP growth due to AI-driven investment.
+
+Firms’ continued investment in artificial intelligence is likely to lead to efficiency gains, particularly in service-sector industries where productivity growth has been slower. However, the timeline and magnitude of productivity gains is uncertain, as is the ultimate effect on the composition of labor markets. If the integration of artificial intelligence acts as a standard technology improvement, productivity growth could return to historical norms after a period of above-trend growth. On the other hand, artificial intelligence could prove transformational and permanently upshift the path of productivity as it enables workers to build skills and human capital faster than in the past. Artificial intelligence also could have disruptive impacts on the economy and labor markets. Firms that are slow to adapt could find themselves at a competitive disadvantage, as could workers who delay incorporating artificial intelligence to improve their own skills’ growth and productivity.
+
+Private credit: Private credit does not appear to be a significant risk to financial stability, redemption requests have recently exceeded private credit firms’ internal limits, and shares for several of the largest private credit firms declined since the beginning of the year. Treasury continues to monitor market developments closely, and to engage proactively and regularly with market participants.
+
+Conclusion
+
+The U.S. economy remains resilient, and the outlook is favorable. Robust business investment in equipment and intellectual property products, particularly related to AI, and steady household consumption growth remain the key drivers of economic growth. Job growth has picked up and the unemployment rate is at or near estimates of full employment. And although inflation has recent shifted, the U.S. economy is resilient to fluctuations in energy prices because of increased oil production, and energy prices should recede following the cessation of conflict in Iran.
+
+The Trump Administration’s has successfully stewarded major fiscal legislation to prevent a historic tax increase. The Council of Economic Advisers has estimated that pro-growth provisions in the law are expected to increase real GDP by 4.6-4.9% in the first four years of implementation.
+
+Indeed, businesses are saying now is a good time to expand and invest in America, presaging accelerated economic growth as the private sector leads. Investment data suggest that the economy is in the early stages of a policy-driven capital expenditures surge. As a result, we should expect product development, product deployment, and ultimately increases in productivity and macroeconomic growth to increase in the future.
+
+Accordingly, trillions of dollars of investments in U.S. manufacturing, production, and innovation have been announced, reflecting global confidence in the United States as a destination to invest. This policy-driven cap ex boom is made possible by the Administration’s policies allowing full expensing of equipment and R&D, tariffs and reshoring incentives, and deregulation. The combined policies of the Trump Administration, both enacted and planned, provide a solid foundation to economic growth and will bring prosperity to all Americans.
+
+Table 1 - Real Gross Domestic Product
+
+Contribution to GDP Growth (percentage points)
+
+2025 Q3
+
+2025 Q4
+
+2024 Q4/Q4
+
+2025 Q4/Q4
+
+Real GDP Growth (Δ%, annual rate)
+
+0.5
+
+2.0
+
+2.4
+
+2.0
+
+Private Domestic Final Purchases
+
+1.6
+
+2.2
+
+2.4
+
+2.0
+
+Personal Consumption Expenditures
+
+1.3
+
+1.1
+
+2.3
+
+1.4
+
+Business Fixed Investment
+
+0.3
+
+1.4
+
+0.1
+
+0.7
+
+Residential Investment
+
+-0.1
+
+-0.3
+
+-0.2
+
+-0.2
+
+Total Government Purchases
+
+-1.0
+
+0.7
+
+0.6
+
+-0.2
+
+Net Exports
+
+-0.2
+
+-1.3
+
+-0.5
+
+0.4
+
+Change in Private Inventories
+
+0.1
+
+0.4
+
+-0.2
+
+-0.2
+
+Source. Bureau of Economic Analysis, Gross Domestic Product, First Quarter 2026 (Advanced Estimate).
+
+Table 2 - Labor Market Indicators
+
+Establishment Survey
+
+Average Monthly Change
+
+2025 Q4
+
+2026 Q1
+
+CY 2024
+
+CY 2025
+
+Total Payroll Employment
+
+-39
+
+68
+
+122
+
+10
+
+Private Sector
+
+26
+
+79
+
+85
+
+25
+
+Government
+
+-65
+
+-11
+
+36
+
+-15
+
+Household Survey
+
+Monthly Average
+
+2025 Nov & Dec
+
+2026 Q1
+
+CY 2024
+
+CY 2025
+
+Unemployment Rate
+
+4.5
+
+4.3
+
+4.0
+
+4.3
+
+Labor Force Participation Rate
+
+62.5
+
+62.0
+
+62.6
+
+62.4
+
+Prime-Age (25–54)
+
+83.8
+
+83.9
+
+83.6
+
+83.6
+
+JOLTS
+
+Monthly Average
+
+2025 Q4
+
+2026 Jan-Feb
+
+CY 2024
+
+CY 2025
+
+Job Openings
+
+6.9
+
+7.1
+
+7.7
+
+7.1
+
+Vacancies per Unemployed
+
+0.9
+
+0.9
+
+1.1
+
+1.0
+
+Sources. Bureau of Labor Statistics, March 2026.
+
+Table 3 - Inflation Indicators
+
+Inflation
+
+Avg Monthly Change
+
+12-Month Change
+
+2025 Q4
+
+2026 Q1
+
+2025 Mar
+
+2026 Mar
+
+CPI
+
+0.18
+
+0.43
+
+2.4
+
+3.3
+
+Foods
+
+0.25
+
+0.19
+
+3.0
+
+2.7
+
+Energy
+
+0.58
+
+3.21
+
+-3.3
+
+12.5
+
+Sources. BLS CPI March 2026; BEA PCE.

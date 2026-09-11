@@ -1,0 +1,65 @@
+TITLE: Stronger laws for tech firms to ensure you don’t see unsolicited nudes
+URL: https://www.gov.uk/government/news/stronger-laws-for-tech-firms-to-ensure-you-dont-see-unsolicited-nudes
+DATE: 2026-01-08
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Liz Kendall MP; Jess Phillips MP
+
+---
+
+Online Safety Act strengthened as ‘cyberflashing’ becomes a priority offence
+
+Dating apps and social media platforms now have to take proactive steps to prevent this vile content before users see it
+
+New law follows a historic government strategy to halve Violence Against Women and Girls (VAWG) within a decade, which included a commitment to make cyberflashing a ‘priority offence’ under the Online Safety Act
+
+People using dating apps and social media platforms will be better protected from receiving unsolicited nude images, as a new law compelling tech firms to stop this type of content before it reaches users comes into force today (Thursday 8 January).
+
+Platforms will be required to take proactive steps to prevent this vile content from appearing in the first place, not just react after the harm is done. Tech firms will now face some of the strongest requirements under the Online Safety Act as ‘cyberflashing’ becomes a Priority Offence.
+
+Companies could tackle these images for example by using automated systems that pre-emptively detect and hide the image, implementing moderation tools or stricter content policies.
+
+Those that fail to comply could face fines of up to 10% of their qualifying worldwide revenue, or have their services blocked in the UK.
+
+Bumble was the first dating app to explicitly moderate cyberflashing to protect its members from seeing unwanted pictures. 
+
+The women-first dating app launched Private Detector, an AI-powered feature that automatically detects and blurs nudity in images sent within chats. It then alerts the recipient who can choose to view, block, or report the image. The AI model is carefully trained with vast datasets to avoid misclassification.
+
+Liz Kendall, Technology Secretary, said: 
+
+We’ve cracked down on perpetrators of this vile crime – now we’re turning up the heat on tech firms. Platforms are now required by law to detect and prevent this material.
+
+The internet must be a space where women and girls feel safe, respected, and able to thrive.
+
+Elymae Cedeno, VP of Trust and Safety at Bumble said: 
+
+Receiving unsolicited sexual images is a daily violation that disproportionately impacts women and undermines their sense of safety online. Strengthening the law to make cyberflashing a Priority Offence is an important step toward ensuring platforms proactively address this behaviour to better protect members.
+
+As part of our long standing safety commitments, Bumble introduced features like Private Detector, which uses AI to identify and blur nude images in chats, giving members greater control over what they see. We hear regularly from our community about the impact of this behaviour, and we welcome measures that increase accountability and help create a safer digital environment.
+
+Ofcom will now consult on new codes of practice, setting out exactly what steps platforms must take to protect users from unsolicited sexual images.
+
+The priority offence marks another step in making the online world safer, particularly for women and children, who are disproportionately targeted. 1 in 3 teenage girls has received unsolicited sexual images*. This government is serious about ending that.
+
+This builds on the government’s wider commitment to tackle online abuse and halve violence against women and girls, making clear that the digital world is not a law-free zone.
+
+Minister for Safeguarding and Violence against Women and Girls Jess Phillips said:
+
+For too long cyberflashing has been just another degrading abuse women and girls are expected to endure. We are changing this.
+
+By placing the responsibility on tech companies to block this vile content before users see it, we are preventing women and girls from being harmed in the first place. 
+
+We will deploy the full power of the state to make this country safe for women and girls, both online and offline.
+
+Through the cross-government strategy to Build a Safer Society for Women and Girls, published on 18 December, we committed to making the ‘cyberflashing’ offence a ‘priority offence’ under the Online Safety Act.
+
+These strengthened protections will tackle the problem at the root, before women are subject to this gross violation.
+
+Note to editors
+
+The survey was carried out by YouGov between people aged 12–18-year-olds in England.
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

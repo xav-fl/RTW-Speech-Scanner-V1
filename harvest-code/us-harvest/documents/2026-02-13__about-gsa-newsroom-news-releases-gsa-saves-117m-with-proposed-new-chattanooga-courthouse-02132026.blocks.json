@@ -1,0 +1,71 @@
+{
+ "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-saves-117m-with-proposed-new-chattanooga-courthouse-02132026",
+ "institution_id": "us-gsa",
+ "title": "GSA Saves $117M with Proposed New Chattanooga Courthouse",
+ "date": "2026-02-13",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "4b24889441c1b4d4a308c36525c9c98ecdcba807bb3a0c1f5320ee4437a62619",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward C. Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "GSA Administrator Edward C. Forst",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

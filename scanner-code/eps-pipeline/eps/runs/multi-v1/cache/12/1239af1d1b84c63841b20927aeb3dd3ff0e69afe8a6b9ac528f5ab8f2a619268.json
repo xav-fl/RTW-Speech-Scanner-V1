@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about an \"early years funding consultation 2026\" — specifically a government funding formula/allocation mechanism for early childhood education and care. The core economic content is public expenditure on early years education and the formula by which it is distributed.\n\n- **I2** (Education and Research Institutions) — the subject is early years education funding\n- **H5** (National Government Expenditures and Related Policies) — the instrument is a government funding formula/grant\n\nPrimary: I (Education), with H as secondary for the public finance/expenditure dimension.\n\n```json\n{\"primary\": \"I\", \"secondary\": [\"H\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

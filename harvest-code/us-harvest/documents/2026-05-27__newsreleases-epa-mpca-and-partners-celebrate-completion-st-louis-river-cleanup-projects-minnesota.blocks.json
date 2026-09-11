@@ -1,0 +1,191 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-mpca-and-partners-celebrate-completion-st-louis-river-cleanup-projects-minnesota",
+ "institution_id": "us-epa",
+ "title": "EPA, MPCA and Partners Celebrate Completion of St. Louis River Cleanup Projects in Minnesota",
+ "date": "2026-05-27",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "4ff814f5401ae5910dbd5a86e23a4105b46127a114374334453cfcbd01196695",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "MPCA Deputy Commissioner Peter Tester",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "MPCA Deputy Commissioner Peter Tester",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Minnesota Department of Natural Resources Commissioner Sarah Strommen",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Minnesota Department of Natural Resources Commissioner Sarah Strommen",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "U.S. Rep. Pete Stauber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "U.S. Rep. Pete Stauber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "Lt. Col. Wallace W. Bandeff",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "quote",
+   "speaker": "Lt. Col. Wallace W. Bandeff",
+   "method": "speech_verb"
+  },
+  {
+   "index": 17,
+   "kind": "quote",
+   "speaker": "St. Louis River Alliance Executive Director Kris Eilers",
+   "method": "speech_verb"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "quote",
+   "speaker": "St. Louis River Alliance Executive Director Kris Eilers",
+   "method": "speech_verb"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 24,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 25,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 26,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 27,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 28,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 29,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

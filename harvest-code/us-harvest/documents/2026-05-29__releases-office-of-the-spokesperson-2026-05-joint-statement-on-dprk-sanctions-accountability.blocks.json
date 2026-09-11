@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-dprk-sanctions-accountability/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on DPRK Sanctions Accountability",
+ "date": "2026-05-29",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "bb379fd88a517fa32a7688446a4f2730975619f69c5aad41c18e70a8d385a4ff",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

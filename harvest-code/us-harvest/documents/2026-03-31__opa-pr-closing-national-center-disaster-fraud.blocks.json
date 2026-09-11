@@ -1,0 +1,29 @@
+{
+ "url": "https://www.justice.gov/opa/pr/closing-national-center-disaster-fraud",
+ "institution_id": "us-justice",
+ "title": "Closing the National Center for Disaster Fraud",
+ "date": "2026-03-31",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "3c14b06930043fa0472b70a1955244826f9cd74f45debf192df9e52bb97b002b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

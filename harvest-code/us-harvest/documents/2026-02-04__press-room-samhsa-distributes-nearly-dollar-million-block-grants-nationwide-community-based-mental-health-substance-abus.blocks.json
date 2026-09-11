@@ -1,0 +1,65 @@
+{
+ "url": "https://www.hhs.gov/press-room/samhsa-distributes-nearly-dollar-million-block-grants-nationwide-community-based-mental-health-substance-abuse-programs.html",
+ "institution_id": "us-hhs",
+ "title": "SAMHSA Distributes Nearly $800 Million in Block Grants Nationwide for Community-Based Mental Health and Substance Abuse Programs",
+ "date": "2026-02-04",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "22070e94d7afd0e061bb10e2a74c27d47b03ea43d54c9db6b8b7ac2262b0bb96",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

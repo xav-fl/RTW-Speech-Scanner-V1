@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/06/23/ice-seeking-fine-more-250000-against-immigration-attorney-allegedly-filing",
+ "institution_id": "us-dhs",
+ "title": "ICE Seeking Fine of More Than $250,000 Against Immigration Attorney for Allegedly Filing Fraudulent Asylum Claims",
+ "date": "2026-06-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "292ca9f734b099094ec87b6d116b815f22684e4344a901ba6168b925a7d3fd65",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "DHS General Counsel James Percival",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "DHS General Counsel James Percival",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

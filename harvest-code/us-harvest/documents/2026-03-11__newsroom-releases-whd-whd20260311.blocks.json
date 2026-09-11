@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260311",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers more than $1M in back wages, damages for 24 warehouse workers denied minimum wage, overtime pay",
+ "date": "2026-03-11",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "6e5ed6dc15f44a2f679d03113efca30e19c692f94fc691cdd9a6304f2af6db28",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

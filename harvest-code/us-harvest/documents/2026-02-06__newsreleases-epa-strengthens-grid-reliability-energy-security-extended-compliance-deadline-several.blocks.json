@@ -1,0 +1,71 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-strengthens-grid-reliability-energy-security-extended-compliance-deadline-several",
+ "institution_id": "us-epa",
+ "title": "EPA Strengthens Grid Reliability & Energy Security with Extended Compliance Deadline for Several Coal Combustion Residual Management Unit Requirements",
+ "date": "2026-02-06",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "dc3e81d0dc1c9a9c6f34df635f24505dadb92236600bb391266971fd4a23974f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Administrator Lee Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

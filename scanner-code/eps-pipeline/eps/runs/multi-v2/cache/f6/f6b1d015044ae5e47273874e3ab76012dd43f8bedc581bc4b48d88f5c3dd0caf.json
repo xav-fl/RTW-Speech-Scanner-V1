@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about delegating planning approval authority from council committees to planning officers for minor applications, specifically to speed up the process for small businesses (shopkeepers, pub landlords) making improvements.\n\nThe specific mechanism: streamlining land-use planning decision-making by shifting authority within local government bureaucracy to reduce approval time for minor development applications.\n\nThis is fundamentally about land-use regulation and planning permissions — squarely in R (Urban, Rural, Regional, Real Estate, and Transportation Economics), specifically R5 (Regional Government Analysis) which covers land use and zoning regulation.\n\nA secondary dimension is K2 (Regulation and Business Law) — the substance is deregulatory: changing who has authority to approve applications, reducing regulatory burden on small businesses.\n\n{\"primary\": \"R\", \"secondary\": [\"K\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

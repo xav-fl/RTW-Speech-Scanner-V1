@@ -1,0 +1,9 @@
+TITLE: Notice to improve: Boston College
+URL: https://www.gov.uk/government/publications/notice-to-improve-boston-college
+DATE: 2026-04-15
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+This letter and its annex serve as a notice to improve financial health, financial management and other controls at Boston College.

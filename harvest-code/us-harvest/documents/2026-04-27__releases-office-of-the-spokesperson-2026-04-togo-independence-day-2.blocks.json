@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/togo-independence-day-2/",
+ "institution_id": "us-state",
+ "title": "Togo Independence Day",
+ "date": "2026-04-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "dac0b16085aba7a256f330c365fbc9cfe8e995cda809f7c526ccda59e79e0426",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

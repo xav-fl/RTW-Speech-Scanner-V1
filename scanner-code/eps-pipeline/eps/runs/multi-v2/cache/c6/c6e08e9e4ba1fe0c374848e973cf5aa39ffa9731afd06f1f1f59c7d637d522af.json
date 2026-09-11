@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about land-use planning rules (a \"yes-by-default\" rule for development around train stations) as part of a shift toward a development-friendly planning system. The core mechanism is a zoning/planning regulation that affects land development and real estate markets near transit nodes.\n\nPrimary: **R** — Urban, Rural, Regional, Real Estate, and Transportation Economics (specifically R3 — Real Estate Markets, Spatial Production Analysis, and Firm Location, and R5 — Regional Government Analysis; the planning framework governs land use and development)\n\nSecondary: **K2** — Regulation and Business Law (the National Planning Policy Framework is a regulatory instrument governing development permissions)\n\n{\"primary\": \"R\", \"secondary\": [\"K\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

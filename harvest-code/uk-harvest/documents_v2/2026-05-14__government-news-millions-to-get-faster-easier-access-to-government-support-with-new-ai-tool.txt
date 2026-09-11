@@ -1,0 +1,75 @@
+GOV.UK Chat – a new AI tool in the GOV.UK app – lets people ask questions in plain language and get clear, reliable answers instantly
+
+Instead of calling a helpline or getting lost searching through 80,000 web pages, people can now access reliable government information faster
+
+Whether it’s parents checking childcare, young people finding apprenticeships or retirees understanding their entitlements, GOV.UK Chat helps people quickly find support and save money
+
+People across the UK can now get quick and easy help to navigate government services and save money – from information on accessing funded childcare to buying a first home and pensions – as a new AI tool launches in the GOV.UK App.
+
+GOV.UK Chat – the most comprehensive government-built chat tool in the world – allows people to ask questions in plain language and receive instant, clear and reliable answers drawn from official government information – removing the need to call helplines or trawl through thousands of pages on GOV.UK.
+
+From understanding childcare entitlements and finding apprenticeships, to working out first‑home schemes or retirement benefits, the new tool helps people quickly find the support they’re entitled to – driving down people’s bills and putting money back into the public’s pockets.
+
+Instead of a long wait on hold to a helpline or searching through more than 80,000 pages of government guidance, people can now get the information they need in seconds – at any time of day or night.
+
+With some government call centres taking around 100,000 calls per day, GOV.UK Chat will also help reduce pressure on frontline staff, freeing them up to focus on complex cases where human support is more needed. The new AI tool is also timely, with research suggesting up to half of callers questions could be answered by GOV.UK Chat.
+
+The tool draws on tens of thousands of pages GOV.UK guidance and is designed to answer the kinds of real‑life questions people face every day and support them at key moments in their lives - with early trials showing demand is strongest around tax, driving and transport, and benefits.
+
+GOV.UK Chat is also a powerful tool for businesses. From sole traders getting to grips with their tax obligations to entrepreneurs setting up a new company or small business owners searching for available grants and support, the tool provides fast, reliable answers drawn from across GOV.UK – helping businesses spend less time navigating government and more time focused on growth.
+
+Liz Kendall, Technology Secretary, says:
+
+> Modernising our digital services is central to building a government that works for everyone.
+
+> For too long, navigating government has felt like a full-time job. Whether you’re a parent trying to find out what childcare you’re entitled to, a first-time buyer working out which schemes you can access, or someone approaching retirement, you shouldn’t have to spend time trawling through hundreds of web pages to get a straight answer.
+
+> GOV.UK Chat changes that – putting clear, reliable information in people’s hands in seconds, at any time of day.
+
+Examples include:
+
+Cutting through complexity for parents – immediately pulling government guidance to generate quick answers 24/7 parents can see what child support they could access – potentially saving up to £8,000 through government funded childcare
+
+Helping young people find the support they need – navigating finding apprenticeships or applying for a drivers’ licence
+
+Helping first-time buyers navigate the property ladder – highlighting multiple government schemes from Lifetime ISAs and the First Homes scheme to Stamp Duty relief and shared ownership, GOV.UK Chat streamlines reliable information instantly
+
+Helping retirees claim what they’re owed – people approaching or entering retirement face a maze of entitlements - State Pension, Pension Credit, housing support, Cold Weather Payments - but often don’t claim what they’re owed because they don’t know about it or find the process daunting. GOV.UK Chat helps retirees see what they could be entitled to and how to access it, in clear, accessible language, without requiring digital expertise.
+
+Helping businesses break down barriers – whether checking tax rules, understanding regulations or finding support schemes, GOV.UK Chat gives business owners instant, reliable answers so they can get on with running and growing their business
+
+The tool is designed to handle the kinds of real-life questions people face every day, including:
+
+“I’ve just had a baby. How can the government help me?”
+
+“What free childcare am I entitled to?”
+
+“How do I get maternity pay?”
+
+“How can I find an apprenticeship?”
+
+“What government schemes are available to help me buy my first home?”
+
+“How much Stamp Duty will I pay as a first-time buyer?”
+
+“I’m coming up to retirement - what benefits might I be entitled to?”
+
+“What is Pension Credit and would I get it?”
+
+“How do I find out how much State Pension I’ll get?”
+
+“How do I set up a limited company?”
+
+“What government support is available to help my business grow?”
+
+In each case, GOV.UK Chat draws on information from across GOV.UK to provide clear answers, relevant links, and signposting to tools such as the childcare calculator, the Stamp Duty calculator, the maternity pay calculator, and the benefits eligibility checker.
+
+Helplines and other forms of government support services will remain available to those that need it.
+
+Notes to editors
+
+See HMRC call volume stats in the State of digital government review.
+
+See GDS Blog - Answers in seconds, 24/7: GOV.UK Chat launches in the GOV.UK app.
+
+Find guidance on how to access GOV.UK Chat in the GOV.UK app. Users should download the app, then follow the prompts to create or sign in to an existing GOV.UK One Login account. This secures and personalises their experience and enables them to opt in to use GOV.UK Chat.

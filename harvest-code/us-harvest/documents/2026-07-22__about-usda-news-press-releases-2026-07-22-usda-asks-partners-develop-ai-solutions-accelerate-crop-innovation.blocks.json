@@ -1,0 +1,59 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/07/22/usda-asks-partners-develop-ai-solutions-accelerate-crop-innovation",
+ "institution_id": "us-agriculture",
+ "title": "USDA Asks Partners to Develop AI Solutions to Accelerate Crop Innovation",
+ "date": "2026-07-22",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c0399176728191bd773cbf814c8ab215b59b0452f6652efcf8981e8653418738",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "REE Under Secretary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "REE Under Secretary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

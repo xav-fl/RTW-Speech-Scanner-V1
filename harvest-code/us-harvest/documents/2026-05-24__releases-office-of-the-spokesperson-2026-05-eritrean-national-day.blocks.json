@@ -1,0 +1,17 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/eritrean-national-day/",
+ "institution_id": "us-state",
+ "title": "Eritrean National Day",
+ "date": "2026-05-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "59972a404e5cb9fa5486ae971de0a06b86ff79a07cbefe511057e397def675b2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

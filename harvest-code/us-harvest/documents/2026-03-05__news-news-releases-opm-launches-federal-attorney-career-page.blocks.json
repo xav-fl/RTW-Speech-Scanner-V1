@@ -1,0 +1,59 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-launches-federal-attorney-career-page/",
+ "institution_id": "us-opm",
+ "title": "OPM Launches Federal Attorney Career Page and Talent Network to Strengthen Federal Legal Workforce",
+ "date": "2026-03-05",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "69ea937224139dff468d75511374eafc768744de370f771f7e0a16b6ce0c9181",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

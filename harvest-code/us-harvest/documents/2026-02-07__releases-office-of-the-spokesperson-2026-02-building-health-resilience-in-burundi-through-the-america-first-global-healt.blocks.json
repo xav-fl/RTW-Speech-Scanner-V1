@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/building-health-resilience-in-burundi-through-the-america-first-global-health-strategy/",
+ "institution_id": "us-state",
+ "title": "Building Health Resilience in Burundi Through the America First Global Health Strategy",
+ "date": "2026-02-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "dec3a6137bbe96dbd096c0e49f01da3e40865f4a837aa830e2e07fb62a516619",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

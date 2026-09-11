@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/condemnation-of-hizballahs-reckless-call-to-overthrow-lebanese-government/",
+ "institution_id": "us-state",
+ "title": "Condemnation of Hizballah’s Reckless Call to Overthrow Lebanese Government",
+ "date": "2026-05-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "8ed6dcd3475d1295649ccd999658112f497d6acbea585628ba8a56958759fa71",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

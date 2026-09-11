@@ -1,0 +1,113 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-settles-lawsuit-challenging-biden-administrations-alleged-social-media",
+ "institution_id": "us-justice",
+ "title": "Justice Department Settles Lawsuit Challenging Biden Administration’s Alleged Social Media Coercion and Censorship",
+ "date": "2026-05-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "d7bb168ed1d9130f7cf8c8bd209e92e159252ecfe751c0a5fc93fbab060a5cf9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett Shumate",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett Shumate",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

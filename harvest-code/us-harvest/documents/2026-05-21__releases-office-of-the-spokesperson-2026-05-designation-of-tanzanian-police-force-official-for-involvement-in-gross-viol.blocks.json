@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/designation-of-tanzanian-police-force-official-for-involvement-in-gross-violations-of-human-rights/",
+ "institution_id": "us-state",
+ "title": "Designation of Tanzanian Police Force Official for Involvement in Gross Violations of Human Rights",
+ "date": "2026-05-21",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "8859fd76494c3513180d55cc1ecc7465748c3bca6541001277e417925d5f271d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

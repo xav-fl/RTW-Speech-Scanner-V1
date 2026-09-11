@@ -1,0 +1,41 @@
+TITLE: AI tech ambition to deliver smarter justice for victims
+URL: https://www.gov.uk/government/news/ai-tech-ambition-to-deliver-smarter-justice-for-victims
+DATE: 2026-06-08
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon David Lammy MP
+
+---
+
+AI legal assistants to be developed and tested to speed up justice and cut delays
+
+New AI tool to assist judges in listing trials and get cases heard sooner for victims
+
+Technology to free thousands of staff from admin grind to protect the public
+
+A raft of new technology projects is being developed which will aim to deliver improvements across the justice system and tackle the court backlog - including AI legal assistants to support legal professionals and staff, and streamlined case management processes to get cases moving faster.
+
+The new AI legal assistants will be developed in partnership with the UK’s top legal experts and leading AI developers to support legal professionals with routine casework, including research and case analysis. The purpose of the technology will be to drive productivity, boost efficiency in the Crown Court, and cut the time victims have to wait for their day in court.
+
+Before being used in the Crown Court, the new technology will first be trialled in highly controlled environments that set clear standards for safe and ethical use. This will ensure any new software meets the high bar required by judges and lawyers before being considered for rollout in the courts system.
+
+Judges are already planning to use a new AI tool to help identify trial-ready cases and group similar hearings together – helping maximise judicial, prosecutorial and court resources to resolve cases sooner and deliver swifter justice for victims.
+
+The announcement will be made by the Deputy Prime Minister at London Tech Week (Tuesday 09 June), where he will outline how AI can drive criminal justice system modernisation.
+
+Deputy Prime Minister and Lord Chancellor David Lammy said:  
+
+Artificial intelligence has the power to transform how we live, work, and govern for the better.
+
+This impact for good can be seen in our justice system – with thousands of days of admin work saved for our probation staff, and the advent of new tools which aim to cut court backlogs and deliver swifter justice for victims.
+
+The Deputy Prime Minister will also announce that every probation officer in England and Wales has been equipped with Justice Transcribe – a cutting-edge AI tool that automatically records and transcribes conversations with offenders.
+
+This will cut the hours which probation officers spend between these meetings manually transferring handwritten notes into digital systems, so they can focus on the vital work of stopping offenders from reoffending. 
+
+By automating time-consuming tasks such as this, AI technology across the Probation Service is expected to save significant amounts of probation officers’ time. Justice Transcribe alone could free up the equivalent of 18,750 calendar days of valuable time every year allowing frontline staff to spend more time monitoring offenders and keeping our streets safe. 
+
+And following the success of Justice Transcribe, a similar tool is being trialled in the Immigration and Asylum Tribunals that will allow judges to transcribe case notes and alleviate admin pressures, before being considered for wider rollout across the court and tribunal system.
+
+The tool is one of the projects forming part of the Prime Minister’s AI Exemplars programme which are prime examples of how the government wants to use AI across the public sector to make people’s lives easier and protect the public.
+
+Earlier this week, the Government unveiled state-of-the-art testing environments – dubbed AI Growth Labs. The initiative will enable the UK’s growing lawtech sector to develop and refine cutting-edge AI products in a secure, controlled setting, before bringing them to market at pace – delivering a major boost to innovation and economic growth.

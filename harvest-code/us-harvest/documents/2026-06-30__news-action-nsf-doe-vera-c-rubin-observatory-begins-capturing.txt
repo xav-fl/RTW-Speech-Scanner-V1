@@ -1,0 +1,77 @@
+NSF News
+
+Action! NSF-DOE Vera C. Rubin Observatory begins capturing the greatest cosmic movie ever made
+
+The 10-year Legacy Survey of Space and Time has officially started, marking the beginning of a new era in astronomy and astrophysics
+
+June 30, 2026
+
+The wait is over: NSF–DOE Rubin Observatory, funded by the U.S. National Science Foundation and the U.S. Department of Energy's (DOE) Office of Science, is now capturing the cosmos in unprecedented detail, transforming the way we study the dynamic universe.
+
+From a mountaintop in Chile, under clear dark skies, the NSF-DOE Vera C. Rubin Observatory has begun the revolutionary Legacy Survey of Space and Time (LSST). The ten-year survey is Rubin's signature campaign to create the most comprehensive, cinematic record of the universe in history.
+
+The Rubin Observatory is a U.S. government facility jointly operated by NSF NOIRLab and DOE's SLAC National Accelerator Laboratory. NSF NOIRLab is managed by the Association of Universities for Research in Astronomy (AURA).
+
+Over the next 10 years, Rubin will relentlessly observe the entire southern sky every few nights to create an ultrawide, ultrahigh-definition time-lapse record of the universe. This long-awaited milestone is the culmination of years of effort by thousands of people around the world. It follows the celebratory Rubin First Look event that took place in June 2025, which was followed by final commissioning work, an operational readiness review, and the beginning of the alert stream.
+
+> Today, we begin filming the greatest cosmic movie ever made,
+
+says Brian Stone, performing the duties of the NSF director.
+
+> This moment reflects decades of vision, innovation and the power of federal investment in science through the U.S. National Science Foundation and the Department of Energy. Every night, NSF-DOE Rubin Observatory will expand the frontiers of knowledge and strengthen America's global leadership in science and innovation.
+
+> With the launch of the 10-year Legacy Survey of Space and Time, NSF-DOE Rubin Observatory is opening a new window on the universe. It is embarking on a mission that will redefine modern cosmology and astrophysics,
+
+says Darío Gil, undersecretary for science at the U.S. Department of Energy.
+
+> With its world-class design and tools, Rubin Observatory will capture the dynamic nature of our cosmos and reveal unimagined insights into our universe’s biggest mysteries, from our own Solar System to the very structure of the universe. By seeking to understand the enigmatic phenomena of dark energy and dark matter, we are not just observing the stars; we are striving to grasp the fundamental laws that govern our existence.
+
+> It is amazing and humbling to be here at this time and place as we start the Legacy Survey of Space and Time, after more than two decades of incredible work by our dedicated team,
+
+says Bob Blum, director of the Rubin Observatory at NSF NOIRLab.
+
+> Rubin Observatory is for everyone; the LSST will change how we do astronomy and astrophysics, allowing researchers anywhere to participate in cutting-edge science.
+
+> It's taken 20 years of hard science, engineering and more to get to the point where we can call 'action' as we start rolling on this blockbuster movie of the universe,
+
+says Phil Marshall, deputy director of Rubin Operations for SLAC.
+
+> Millions of alerts in just the last couple of months show that Rubin is up and running as a discovery machine. Now we're putting it all together.
+
+> The decision to officially begin the LSST was made after a period of system optimization and a careful operational review of technical readiness, data system performance and scientific validation,
+
+says Željko Ivezić, head of LSST.
+
+> Important factors that played a role in this decision included image quality, effective survey speed, system uptime and reliability, and calibration accuracy.
+
+Rubin Observatory’s unique design combines enormous light-collecting power, the ability to move rapidly across the sky, and a wide field of view. Its 3,200-megapixel camera — the largest digital camera in the world — is now capturing a new, detailed image approximately every 40 seconds. Operating with this speed and sensitivity, Rubin functions as a unified, well-tuned system capable of catching faint objects and fleeting events with remarkable reliability and consistency every night. Visit rubinobservatory.org to follow the status of the LSST in real time.
+
+Rubin is bringing the universe to life, illuminating a treasure trove of discoveries: pulsating stars, supernova explosions, the fossil record of galaxies, clues to the mysteries of dark energy and dark matter, and entirely new phenomena never seen before. Some cosmic processes unfold slowly, unpredictably or incredibly rarely, which is why a 10-year survey is essential. By returning to each point in the sky about 800 times over a decade, Rubin data is providing the scientific community with deep, time-rich views needed to uncover subtle events, capture moving objects, and study the accelerating expansion of the universe.
+
+Not only is Rubin helping to unlock the mysteries of the distant universe, but it is also the most powerful solar system discovery machine ever built. By taking about a thousand images every night, Rubin is compiling an astonishingly detailed census of the Solar System, including millions of asteroids and comets. In just a month and a half, during early optimization surveys, Rubin discovered over 11,000 never-before-seen asteroids, including 33 near-Earth objects and 380 trans-Neptunian objects.
+
+Rubin will also advance opportunities for multi-messenger astronomy, which is the study of cosmic events using multiple signals such as light, gravitational waves and cosmic rays. The observatory's rapid, color-rich observations of transients such as stellar explosions, actively feeding black holes and collisions between compact objects will guide telescopes around the world to follow up on these fleeting events.
+
+Each night, Rubin collects approximately 10 terabytes of data and produces as many as 7 million alerts of changes in the night sky. These alerts stream to alert brokers — automated systems that sort and classify these changes so scientists can act quickly.
+
+When the LSST is complete, the final dataset will contain billions of objects with trillions of measurements, all accessible through regular data releases. This is the first time so much astronomical data will be available to so many people, opening the door to new kinds of discoveries by both scientists and the public. Rubin invites anyone in the world to engage with its data and explore the dynamic universe in ways never before possible.
+
+Research areas
+
+Directorate for Mathematical and Physical Sciences (MPS)
+
+Topics
+
+Astronomy & Space
+
+Share
+
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+
+Related stories
+
+NSF launches three new Science and Technology Centers with $90M investment in transformative research
+
+Eight NSF research institutes to propel U.S. quantum science with $290M investment
+
+NSF announces $1.5B for foundational research to drive scientific breakthroughs for American technological leadership

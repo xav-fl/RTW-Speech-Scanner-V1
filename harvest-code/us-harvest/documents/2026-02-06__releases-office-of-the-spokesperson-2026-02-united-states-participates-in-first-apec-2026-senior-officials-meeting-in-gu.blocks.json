@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/united-states-participates-in-first-apec-2026-senior-officials-meeting-in-guangzhou/",
+ "institution_id": "us-state",
+ "title": "United States Participates in First APEC 2026 Senior Officials’ Meeting in Guangzhou",
+ "date": "2026-02-06",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "3e556039581b4ab88d0d53cbf9376bcf0e20c5def60fcee29c3c782bf35926cd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

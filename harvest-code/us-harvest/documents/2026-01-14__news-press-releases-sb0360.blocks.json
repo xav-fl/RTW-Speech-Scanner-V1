@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0360/",
+ "institution_id": "us-treasury",
+ "title": "Readout from Secretary Bessent’s meeting with Chancellor of the Exchequer Rachel Reeves of the United Kingdom",
+ "date": "2026-01-14",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "abd816c10aedce094ceeeb48092ab23556034654cac3ea335fd08f88464b86a4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

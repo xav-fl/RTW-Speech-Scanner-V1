@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a government department collaborating with major tech firms (Google, Microsoft) to establish a safety framework for schools — specifically, setting safety expectations/standards for technology use in educational settings.\n\nThe specific mechanism: a regulatory/safety framework governing tech firms' interactions with schools.\n\n- Primary dimension: Education policy (schools as the target institution, safety framework for school use of technology) → **I2**\n- Secondary dimension: The collaboration with tech firms to set safety standards has an industrial regulation/policy dimension → **L5** (Regulation and Industrial Policy, specifically tech industry)\n\n{\"primary\": \"I\", \"secondary\": [\"L\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

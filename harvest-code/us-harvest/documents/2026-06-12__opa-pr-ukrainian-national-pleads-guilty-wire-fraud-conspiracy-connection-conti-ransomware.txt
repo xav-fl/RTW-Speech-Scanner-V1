@@ -1,0 +1,43 @@
+Following his extradition from Ireland, Oleksii Oleksiyovych Lytvynenko, 44, a Ukrainian national, pleaded guilty on Wednesday to conspiracy to commit wire fraud in connection with a conspiracy to deploy Conti, a ransomware variant that infected more than 1,000 computers and networks worldwide.
+
+> The defendant and his conspirators used the Conti ransomware to terrorize people and businesses in the United States and around the world, causing millions of dollars in damage,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> Ransomware continues to pose a threat to all business organizations, from critical infrastructure to small businesses. The Justice Department will continue to work with international partners to bring to justice anyone, anywhere who attacks the United States with ransomware.
+
+> Targeting transnational criminal organizations who victimize American citizens with these outrageous ransomware attacks are among the highest priorities of our office and the Department of Justice,
+
+said U.S. Attorney Braden H. Boucek for the Middle District of Tennessee.
+
+> These criminal enterprises are sophisticated, but our prosecutors are up to this challenge and are dedicated to rooting these thieves out and holding them accountable.
+
+> Lytvynenko’s guilty plea is a significant step toward holding cyber criminals accountable for the damage they inflict on victims worldwide,
+
+said Assistant Director Brett Leatherman of the FBI’s Cyber Division.
+
+> Lytvynenko profited from fear and coercion, conspiring to use Conti ransomware to extort victims and steal their data. This case demonstrates that the FBI and our partners will relentlessly pursue those responsible for cybercrimes, regardless of where they operate, and bring them to justice.
+
+> This guilty plea is a powerful reminder that cybercriminals — whether acting alone or as part of a larger group — cannot hide behind their keyboards or international borders,
+
+said Acting Special Agent in Charge Andrew Forrest of the U.S. Secret Service (USSS) Criminal Investigative Division.
+
+> While this individual played a role in a group responsible for significant harm, this guilty plea demonstrates our commitment to tracking down every member of these criminal networks. The Secret Service will continue to work with our partners here and around the world to disrupt ransomware operations and ensure those responsible are held accountable.
+
+According to court documents, Lytvynenko, of Cork, Ireland, conspired with others to deploy Conti ransomware to extort victims and steal their data. Court filings allege the conspirators hacked into victims’ computers and networks, encrypted data, and demanded a ransom to restore the victims’ access to their files and to avoid public disclosure of the stolen information. From 2020 until 2022, Conti was used to attack computers and networks in 47 states, 31 foreign countries, as well as the District of Columbia and Puerto Rico. The FBI estimates that, as of January 2022, Conti ransomware attacks resulted in at least $150 million in ransom payments.
+
+Lytvynenko admitted to joining the Conti conspiracy no later than approximately September 2021. He admitted to possessing data from eight U.S. and four overseas victims which had been stolen by Conti conspirators. Lytvynenko further admitted to joining a team run by a Conti conspirator during which time Lytvynenko was directed to work on coding a “loader,” which is typically a type of malware, or malicious software, that is used to load programs necessary to execute other malicious attacks.
+
+Lytvynenko pleaded guilty to conspiracy to commit wire fraud. He is scheduled to be sentenced on Sept. 10, 2026, and faces a maximum penalty of 20 years in prison. A federal district court judge will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors.
+
+In September 2023, an indictment charging four other Conti conspirators was unsealed in the Middle District of Tennessee.
+
+The FBI’s San Diego, Nashville, and El Paso Field Offices and the U.S. Secret Service are investigating the case.
+
+Trial Attorney Sonia V. Jimenez of the Justice Department’s Computer Crime and Intellectual Property Section (CCIPS), and Assistant U.S. Attorney Taylor Phillips for the Middle District of Tennessee are prosecuting the case.
+
+The Justice Department’s Office of International Affairs, the Irish Department of Justice, Home Affairs, and Migration, the Irish Office of the Attorney General and the Garda National Cyber Crime Bureau provided valuable assistance to secure the arrest and extradition of Lytvynenko.
+
+CCIPS investigates and prosecutes cybercrime and intellectual property (IP) crime in coordination with domestic and international law enforcement agencies, often with assistance from the private sector. Since 2020, CCIPS has secured the conviction of over 180 cyber and IP criminals, and court orders for the return of over $350 million in victim funds.
+
+This action is part of Operation Riptide, an ongoing FBI campaign targeting the criminal actors, infrastructure, and financial networks behind cybercrime, cyber-enabled crime, and fraud against the American people. Last year, Americans reported over $20 billion in losses to cybercrime, a 26 percent single-year increase. Operation Riptide is the FBI's sustained enforcement response to that threat.

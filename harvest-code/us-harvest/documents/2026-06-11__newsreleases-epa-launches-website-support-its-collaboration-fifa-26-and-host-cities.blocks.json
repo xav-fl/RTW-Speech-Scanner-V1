@@ -1,0 +1,29 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-launches-website-support-its-collaboration-fifa-26-and-host-cities",
+ "institution_id": "us-epa",
+ "title": "EPA Launches Website in Support of its Collaboration with FIFA 26 and Host Cities",
+ "date": "2026-06-11",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "d80834fd1b5090756c1d28691104543f474e04d366cb93ca81af72127f712aea",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/sudan-humanitarian-fund-call-to-action-event/",
+ "institution_id": "us-state",
+ "title": "Sudan Humanitarian Fund Call to Action Event",
+ "date": "2026-02-04",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "4d87258de220c6b7ff6154a53892ef5cb1e63c8eb89de357b33232791b3e5cd1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

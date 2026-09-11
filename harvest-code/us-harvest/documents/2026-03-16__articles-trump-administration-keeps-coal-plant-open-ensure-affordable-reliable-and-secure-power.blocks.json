@@ -1,0 +1,59 @@
+{
+ "url": "https://www.energy.gov/articles/trump-administration-keeps-coal-plant-open-ensure-affordable-reliable-and-secure-power",
+ "institution_id": "us-energy",
+ "title": "Trump Administration Keeps Coal Plant Open to Ensure Affordable, Reliable and Secure Power in the Northwest",
+ "date": "2026-03-16",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "5069acabb7c16282be8b00ccc4c2e6795284a543cc145a6c0d150059c5480642",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Energy Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Energy Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

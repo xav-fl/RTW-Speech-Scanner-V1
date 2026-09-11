@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/disrupting-procurement-networks-supporting-irans-unmanned-aerial-vehicle-uav-and-ballistic-missile-programs-and-mahan-air/",
+ "institution_id": "us-state",
+ "title": "Disrupting Procurement Networks Supporting Iran’s Unmanned Aerial Vehicle (UAV) and Ballistic Missile Programs and Mahan Air",
+ "date": "2026-04-21",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "d9255519795c361d6363372cac9dfde2fe4866889723ffd7dc23bde7c90218af",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The specific mechanism here is **profit caps on private providers supplying child placement services** — this is price/profit regulation of firms operating in a quasi-market for social care services.\n\n- **L5 (Regulation and Industrial Policy)** fits best as primary: it's about regulating the conduct and profitability of private firms in a specific industry (children's social care placements).\n- **I3 (Welfare, Well-Being, and Poverty)** is substantively relevant as a secondary: the population affected is vulnerable children in care — a welfare/social care context.\n- **L8 (Industry Studies: Services)** could apply but L5 already captures the regulatory instrument directly.\n\n```json\n{\"primary\": \"L5\", \"secondary\": [\"I3\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

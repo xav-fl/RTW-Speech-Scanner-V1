@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/joint-statement-on-the-u-s-france-deterrence-strategic-stability-and-non-proliferation-dialogue/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on the U.S.-France Deterrence, Strategic Stability, and Non-Proliferation Dialogue",
+ "date": "2026-03-11",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "b85132429059ad708f87fcfcb22b5e917a890a38dfd8c1c5f44911c3b8c55956",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

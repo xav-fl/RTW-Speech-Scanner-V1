@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/united-states-and-kyrgyz-republic-advance-cooperation-at-annual-bilateral-consultations/",
+ "institution_id": "us-state",
+ "title": "United States and Kyrgyz Republic Advance Cooperation at Annual Bilateral Consultations",
+ "date": "2026-04-14",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "beedbb971db38adb80b085d65596913c124699cbc4ccd6dc1599ece721885313",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

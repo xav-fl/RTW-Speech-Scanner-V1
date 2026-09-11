@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about removing regulatory barriers (unnecessary costs, delays, requirements) to stimulate house building in London. The core mechanism is deregulation of land use/planning to increase housing supply.\n\n- Primary: **R** — Urban, Rural, Regional, Real Estate, and Transportation Economics (specifically R3: Real Estate Markets, Spatial Production Analysis; and the housing supply/construction angle fits squarely here)\n- Secondary: **K2** — Regulation and Business Law (the instrument is stripping out regulatory requirements), and **L7** — Industry Studies: Primary Products and Construction (house building as a construction industry)\n\nThe most substantive secondary dimension is the regulatory reform mechanism (K2), as the statement is explicitly about removing regulatory burdens to kickstart construction.\n\n{\"primary\": \"R\", \"secondary\": [\"K2\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

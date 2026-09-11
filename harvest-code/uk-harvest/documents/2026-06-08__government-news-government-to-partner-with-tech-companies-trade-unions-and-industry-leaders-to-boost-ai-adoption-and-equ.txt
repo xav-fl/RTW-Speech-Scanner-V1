@@ -1,0 +1,181 @@
+TITLE: Government to partner with tech companies, trade unions and industry leaders to boost AI adoption and equip workers with AI skills
+URL: https://www.gov.uk/government/news/government-to-partner-with-tech-companies-trade-unions-and-industry-leaders-to-boost-ai-adoption-and-equip-workers-with-ai-skills
+DATE: 2026-06-08
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Liz Kendall MP; The Rt Hon Rachel Reeves MP
+
+---
+
+More than £200 million in government support to help companies in Britain adopt AI – paving the way for the UK to become fastest AI adopting country in the G7  
+
+Businesses such as Cisco and IBM aim to facilitate  AI training, support job creation and provide resources to assist SMEs to explore the technology as part of a nationwide push to boost uptake   
+
+Nobel Prize-winning economist Simon Johnson to lead institute tracking how AI is changing jobs and growth, with businesses sharing data and insights to help shape future policy
+
+Thousands of workers and businesses across the UK are set to benefit from a major new push to put AI to work - backing companies to adopt the technology while equipping people with the skills to use it.  
+
+At the first-ever AI Adoption Summit (Monday 8 June), government is bringing together major tech companies, trade unions and industry leaders to drive the adoption of AI in ways that boost growth while creating new opportunities for workers and supporting them with new skills. Alongside this, more than £200 million of government investment - backed by partnerships with industry and trade unions - will help turn that approach into action, supporting skills, opening up routes into AI careers for young people, and helping businesses put AI into practice. 
+
+Many businesses and individuals want to use AI but don’t yet have the tools, support or confidence to do so – holding back productivity and growth. Today the government is unveiling a first-of-its-kind partnership on AI adoption - working with businesses, trade unions and workers to spread adoption across our economy, give workers they skills they need to thrive in the AI-era, while ensuring workers can have a say over how AI is implemented in their workforce.  
+
+To help turn that ambition into action, a new package of support – backed up £200 million – will make it easier for businesses to test, adopt and scale AI. Measures announced today include:  
+
+Expanding our ‘Bridge AI’ scheme with £100m to match British companies with British AI, along with support on skills, AI assurance and practical help so business know how to use AI to secure the strongest growth potential, boosting AI adoption in their businesses.   
+
+A further £53 million will be ringfenced for new initiatives to boost AI adoption and innovation, including the expansion of our Tech Town programme, which Barnsley has pioneered.   
+
+This will also include a £4 million expansion to the Spärck AI Scholarships programme, to double down on our incredible talent pipeline. The expansion will sponsor up to 50 industry placements for top university scholars to get vital, hands-on experience in key UK companies. Those already signed up to provide placements include the likes of BT and Universal Music Group.  
+
+Investing £5m in each of our AI Growth Zones to support local businesses to adopt AI and upskill the local workforce  
+
+Industry-led AI Adoption Plans written by expert AI Champions to help sectors like advanced manufacturing and financial services put AI into practice - testing what works and sharing lessons so others can follow.  
+
+New AI Advisory Growth Labs will be set up for businesses, regulators and experts to work together to trial AI in working environments - starting with legal services - and giving firms clear, practical information on how to responsibly adopt AI while meeting regulations.  
+
+Nobel Prize-winning economist Simon Johnson will chair the AI Economics Institute, tracking how AI is changing jobs and growth.  
+
+The government has signed a joint statement with Google, Anthropic, Microsoft and OpenAI committing to close collaboration with the UK government and frontier AI labs in support of evidence-based policymaking and responsible AI development. 
+
+More than 30 major companies, like BT, Rolls Royce, Accenture and EDF, have signed up to share data and insights on how they’re using AI in the workplace – such as how they are supporting staff and adapting the way they work. This will help shape future policy and share expertise with small businesses looking to adopt the technology.  
+
+A new prize to recognise and promote UK organisations that help workers adapt to AI or create new job opportunities by responsibly using AI – which will also be led by Simon Johnson.  
+
+This comes as government and industry’s AI Skills Boost programme hits over 1.7 million AI skills courses completed and nine companies including Cisco, IBM and Deloitte plan to support the expansion of training to employers, contributing to job creation  and helping smaller businesses adopt the technology. Trade organisations are also launching their own efforts to share what works on AI adoption, and highlight what needs fixing.  
+
+Together, these commitments form a coordinated national push to accelerate uptake across the key sectors of the economy earmarked for growth under the Industrial Strategy – giving businesses the tools and confidence to adopt AI, and ensuring people have the skills to benefit.  
+
+Technology Secretary Liz Kendall said:  
+
+AI is the defining technology of our lifetime, and it has the power to transform lives for the better – but only if everyone gets a stake in it.   
+
+That is why we are bringing together businesses, trade unions and workers in a shared mission to make sure no one is left behind.   
+
+By giving workers the skills they need, opening up opportunities for young people, and backing businesses of every size to adopt this technology, we can ensure AI delivers for everyone in every part of Britain. 
+
+Chancellor of the Exchequer Rachel Reeves said:   
+
+Britain’s future will be shaped by the choices we make now. Our economic plan is the right one, and AI and innovation is one of my three big choices to grow our economy.   
+
+Today we are going further and faster to drive AI adoption, give workers and businesses the tools and skills they need, and harness AI to deliver secure, resilient growth across the country.
+
+With the public and private sector working in lockstep it will help ensure people and companies have what they need to benefit from AI. By combining investment in skills and practical support for AI adoption, the UK is creating the conditions to drive growth, better jobs and opportunity across the country.
+
+Notes to editors
+
+Pioneering firms and major organisations are already leading the way on AI adoption here in the UK, including: 
+
+Accenture has reached more than one million people across the UK through its Regenerative AI initiative, helping individuals - particularly those from historically underserved backgrounds - access the tools they need to get online, and build their digital and AI skills 
+
+Multiverse opening a new tech hub in Edinburgh, and creating 200 new jobs across the UK, as they further step up their work supporting employers to adopt AI by boosting their workers’ AI skills  
+
+Reflection, the US-based open source AI lab founded by former Google DeepMind researchers Misha Laskin and Ioannis Antonoglou, is expanding its UK footprint with plans to hire more than 100 highly-skilled employees within the next 12 months, growing to over 1,000 roles within three years. Reflection’s decision to scale significantly in the UK reflects the country’s world-class AI research talent pool and position as a leading global destination for frontier technology investment and development. 
+
+Perplexity is launching The Billion Pound Build, a UK edition of its Computer-native startup competition. Perplexity will award up to £1 million in Perplexity Computer credits across up to three UK winning teams, competing to build a company with a credible path to £1 billion valuation. 
+
+Synthesia has signed a Memorandum of Understanding with DSIT, committing to support DSIT’s ambitions on upskilling the UK workforce across industry, the public sector and education in the practical use of AI. 
+
+ElevenLabs has signed a Memorandum of Understanding with DSIT, building on the existing research partnership with AISI, and committing to cooperate across public services, talent and upskilling opportunities. 
+
+SAS publishing its 2026 AI Cities index, showing how UK cities are adopting AI and where more can still be done – with Manchester topping the tables, followed by Bristol and Glasgow 
+
+The CBI, together with Oliver Wyman, a Marsh Business, is leading the Accelerating AI Adoption Taskforce. It brings together senior business leaders, AI experts, academics and government to develop practical recommendations for accelerating AI adoption at scale. 
+
+UK trade associations convened by techUK including ABPI, ADS, Creative UK, Energy UK, ICAEW, Make UK, and TheCityUK are forming a new coalition to share best practice, highlight barriers to uptake, and drive responsible AI adoption across the economy. 
+
+Boston Consulting Group publishing a new report showing that, done right, AI adoption could add up to £1 trillion to the UK economy over the next ten years. 
+
+German AI unicorn n8n will expand its investment into the UK by delivering up to 200 high-skilled jobs over the next three years, a strong endorsement of the UK’s AI talent ecosystem. 
+
+Cisco has signed a Memorandum of Understanding with DSIT, to explore ways to further support the AI Skills Boost, Barnsley Tech Town, and TechFirst programmes. 
+
+IBM expanding its SkillsBuild programme with new, free AI learning courses, supporting the government’s mission give 10 million UK workers key AI skills by 2030. 
+
+eBay is putting AI adoption at the heart of local communities this year, expanding its virtual and in-person training for business sellers to help them start, grow and innovate online. It will also pilot place-based AI training and peer-led learning to support Barnsley Tech Town. 
+
+Deloitte and Nvidia are launching ‘Adopt 100’, a new programme designed to help businesses unlock the full potential of AI by matching Deloitte’s clients to curated AI solutions.   
+
+The AI Champion’s AI Adoption Plans, and the government’s response to them, can be viewed on GOV.UK.  
+
+The Financial Services AI Adoption Plan will be published in due course.  
+
+The businesses newly signed up to support the the Spärck AI Scholarships programme are BT, HSBC, LSEG, National Grid, Octopus Energy, WPP, and Universal Music Group. They join existing Anchor partners AISI, Beamery, CausaLens, Darktrace, Faculty, Flok, i.AI, PolyAI, and Quantexa 
+
+Together with BCS, the Chartered Institute for IT, we are also launching the AI Assurance Stakeholder Consortium. AI assurance - essentially, how we measure, evaluate and communicate the trustworthiness of AI systems - is a strong and growing market for the UK, with the potential to reach £18.8 billion Gross Value Added by 2035. The Consortium will develop guidance and best practice to support the sector’s development and help deliver AI people can trust.  
+
+Organisations can apply to the Pro-Worker AI Exposition Prize.  
+
+Here is a list of organisations that signed the AI Adoption Insights agreement:
+
+Accenture
+
+Admiral
+
+Akamai
+
+Airbus Defence and Space UK
+
+Amazon Web Services
+
+Baringa
+
+British Chambers of Commerce
+
+BT
+
+Cisco
+
+Disguise
+
+EDF
+
+eBay
+
+Great British Railways
+
+HSBC
+
+LinkedIn
+
+Linklaters
+
+Matillion
+
+Microsoft
+
+Multiverse
+
+National Grid
+
+NatWest
+
+Octopus Energy
+
+Oracle
+
+Revolut
+
+Rolls Royce
+
+Sage
+
+Salesforce
+
+SAS
+
+Siemens
+
+Sky
+
+Starling Bank
+
+Stripe
+
+TechUK
+
+Virgin Media O2
+
+Vodafone
+
+WPP
+
+Xero

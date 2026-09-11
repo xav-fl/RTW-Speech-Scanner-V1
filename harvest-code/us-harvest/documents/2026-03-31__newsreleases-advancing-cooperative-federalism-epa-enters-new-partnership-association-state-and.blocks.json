@@ -1,0 +1,83 @@
+{
+ "url": "https://www.epa.gov/newsreleases/advancing-cooperative-federalism-epa-enters-new-partnership-association-state-and",
+ "institution_id": "us-epa",
+ "title": "Advancing Cooperative Federalism, EPA Enters into New Partnership with the Association of State and Territorial Health Officials, Environmental Council of the States to Collaborate on Environmental Health Projects",
+ "date": "2026-03-31",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "12407e01b04e03d9651ba96997b8b444dad3647c255e85245367601aa82a998e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Associate Deputy Administrator Travis Voyles",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "ECOS President Chris Wells",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Manisha Juthani",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Manisha Juthani",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

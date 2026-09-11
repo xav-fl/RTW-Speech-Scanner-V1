@@ -1,0 +1,47 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-marks-public-service-recognition-week/",
+ "institution_id": "us-opm",
+ "title": "OPM Marks Public Service Recognition Week",
+ "date": "2026-05-04",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "246995cbd455993bfb6c22e3b7926e82f5fb18a8097499853b9e2604819baba9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

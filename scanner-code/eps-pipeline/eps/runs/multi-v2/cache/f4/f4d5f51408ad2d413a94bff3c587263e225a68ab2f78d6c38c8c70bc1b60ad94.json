@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about capital funding (a government expenditure instrument) directed at improving the physical condition of school buildings. The core economic content is:\n\n- **Instrument**: capital grants/expenditure\n- **Target**: school infrastructure (physical condition of school buildings)\n- **Area**: education facilities\n\nThe primary classification is **I2** (Education and Research Institutions) — this is about school infrastructure investment, squarely an education policy matter.\n\nA secondary classification of **H5** (National Government Expenditures and Related Policies) is substantively justified because the statement is specifically about capital funding allocation — a public expenditure decision.\n\n```json\n{\"primary\": \"I\", \"secondary\": [\"H\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

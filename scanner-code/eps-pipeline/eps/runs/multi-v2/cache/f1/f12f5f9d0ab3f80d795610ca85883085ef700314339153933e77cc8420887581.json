@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about rejoining an international survey (TALIS) that collects comparable data on the teaching profession to improve educational outcomes. The core substance is education policy and the teaching profession — this fits I2 (Education and Research Institutions). There's a secondary dimension of international data collection/comparison, but the rules caution against C codes unless the statement is actually about measurement methodology — here it's more about the policy decision to participate. The international cooperation aspect is minor.\n\n{\"primary\": \"I\", \"secondary\": []}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

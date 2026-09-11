@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/united-states-and-mauritius-to-hold-bilateral-security-discussions/",
+ "institution_id": "us-state",
+ "title": "United States and Mauritius to Hold Bilateral Security Discussions",
+ "date": "2026-02-17",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "336f2cf5acb1e18f1aeec3b385eae0b3ff0ac3ed7b822e7b4f352165ee4e082c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

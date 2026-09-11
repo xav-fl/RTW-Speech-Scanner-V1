@@ -1,0 +1,77 @@
+{
+ "url": "https://www.energy.gov/articles/department-energy-celebrates-second-advanced-reactor-achieving-criticality",
+ "institution_id": "us-energy",
+ "title": "Department of Energy Celebrates Second Advanced Reactor Achieving Criticality",
+ "date": "2026-06-18",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "4e4efc7e354866dd6189ed8ec6b4d70469588228e2140c5abfae4e111b0a090b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "U.S. Energy Secretary Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Energy Secretary Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Isaiah Taylor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Isaiah Taylor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

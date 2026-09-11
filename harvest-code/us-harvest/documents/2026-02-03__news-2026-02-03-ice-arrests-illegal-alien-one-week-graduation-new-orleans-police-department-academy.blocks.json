@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/03/ice-arrests-illegal-alien-one-week-graduation-new-orleans-police-department-academy",
+ "institution_id": "us-dhs",
+ "title": "ICE Arrests Illegal Alien One Week Before Graduation from New Orleans Police Department Academy Training, Issued Firearm",
+ "date": "2026-02-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "f66feab08ca2694c40e8dde274ecae6d516bf80c916d39d6f78349be3088bb9f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/03/23/federal-judge-sentences-suburban-chicago-man-six-half-years-prison-33-million-covid-relief-fraud",
+ "institution_id": "us-sba",
+ "title": "Federal Judge Sentences Suburban Chicago Man to Six and a Half Years in Prison for $3.3 Million COVID-Relief Fraud",
+ "date": "2026-03-23",
+ "date_source": "metadata",
+ "source_document_type": "OIG news release",
+ "text_sha256": "e81310a04b52b966f259feae0fff824924897928f174aae7e721fadb72389763",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Assistant U.S. Attorney Jeffrey S. Snell",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Assistant U.S. Attorney Jeffrey S. Snell",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

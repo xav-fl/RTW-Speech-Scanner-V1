@@ -1,0 +1,71 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-sues-ohiohealth-anticompetitive-healthcare-contracts-increase-costs-ohio",
+ "institution_id": "us-justice",
+ "title": "Justice Department Sues OhioHealth for Anticompetitive Healthcare Contracts That Increase Costs for Ohio Patients",
+ "date": "2026-02-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "6034c6bbe57024b8b92cc6f576c4c722fe002556be3e8e591e482711cef23e60",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Attorney General Pamela Bondi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Attorney General Pamela Bondi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Attorney General Omeed A. Assefi of the Justice Department’s Antitrust Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Attorney General Omeed A. Assefi of the Justice Department’s Antitrust Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

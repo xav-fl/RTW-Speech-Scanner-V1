@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/u-s-squeezes-irans-regime-financiers-and-shadow-banking-networks/",
+ "institution_id": "us-state",
+ "title": "U.S. Squeezes Iran’s Regime Financiers and Shadow Banking Networks",
+ "date": "2026-07-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "db0e833939e49a6d716e7398425b82eb3358721586a5ba6cad3dd2174c9992d4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

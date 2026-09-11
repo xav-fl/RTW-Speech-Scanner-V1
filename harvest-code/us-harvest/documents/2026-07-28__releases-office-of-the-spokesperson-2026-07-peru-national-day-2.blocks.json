@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/peru-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Peru National Day",
+ "date": "2026-07-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "8c115b02a9e11b5f2cee8e70a6b73bc3c733cf2627c03ed65b68c5d399b432b6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

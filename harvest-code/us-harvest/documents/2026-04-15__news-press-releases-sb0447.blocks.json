@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0447/",
+ "institution_id": "us-treasury",
+ "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with UAE Minister of State for Financial Affairs H.E. Mohamed bin Hadi Al Hussaini",
+ "date": "2026-04-15",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "14258fbaaf0e0d883c61411db01e79f891769cd5158ad1839a8f833bcaf66002",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

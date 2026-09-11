@@ -1,0 +1,79 @@
+The Justice Department today announced the sentencings of two U.S. nationals, Kejia Wang, 42, and Zhenxing Wang, 39, for their roles in facilitating North Korean remote information technology (IT) workers posing as U.S. residents to obtain work at more than 100 U.S. companies. The multi-year scheme used the stolen identities of at least 80 U.S. persons and generated more than $5 million in illicit revenue for the government of the Democratic People’s Republic of Korea (DPRK).
+
+Kejia Wang, of Edison, New Jersey, was sentenced to 108 months in prison. In September 2025, he pleaded guilty in the District of Massachusetts to conspiracy to commit wire fraud, conspiracy to commit money laundering, and conspiracy to commit identity theft. Zhenxing Wang, of New Brunswick, New Jersey, was sentenced to 92 months in prison. In January 2026, he pleaded guilty in the District of Massachusetts to conspiracy to commit wire fraud and conspiracy to commit money laundering. In addition to the sentences of imprisonment, U.S. District Court Judge Nathaniel M. Gorton ordered the defendants to serve three years each of supervised release and to forfeit a total of $600,000 that was paid to them for facilitating the North Koreans. As of today, the United States has already received $400,000 of the ordered forfeiture amount. The court also ordered Kejia Wang to pay a judgment of $29,236.03 in restitution.
+
+> For years, the defendants enriched themselves by assisting North Korean actors in a fraudulent scheme to gain employment with U.S. companies,
+
+said Assistant Attorney General for National Security John A. Eisenberg.
+
+> The ruse placed North Korean IT workers on the payrolls of unwitting U.S. companies and in U.S. computer systems, thereby harming our national security. NSD will hold accountable those who facilitate North Korea’s illicit revenue generation efforts.
+
+> This case exposes a sophisticated scheme that exploited stolen American identities and U.S. companies to generate millions of dollars for a hostile foreign regime. By operating so-called ‘laptop farms,’ these defendants enabled overseas actors to infiltrate U.S. businesses, access sensitive data and undermine our economic and national security,
+
+said U.S. Attorney Leah B. Foley for the District of Massachusetts.
+
+> The sentences imposed this week reflect the seriousness of this conduct and our commitment to holding accountable those who facilitate sanctions evasion and foreign threats from within our borders.
+
+> Today’s announcement sends a clear message: U.S. nationals who facilitate DPRK IT worker schemes and funnel revenue to North Korea will face FBI investigation and potential prison time,
+
+said Assistant Director Brett Leatherman of the FBI’s Cyber Division.
+
+> Working closely with our partners, the FBI will pursue their co-conspirators and hold accountable those who seek to empower the DPRK by defrauding American companies and stealing the identities of private citizens.
+
+> These sentencings should act as a deterrent to foreign individuals and entities attempting to illegally access and export critical defense information,
+
+said Special Agent in Charge John Helsing for the Department of Defense Office of Inspector General’s Defense Criminal Investigative Service (DCIS), Western Field Office.
+
+> Investigating the theft, illegal export, diversion, or proliferation of sensitive Department technologies is a priority for DCIS, particularly where such compromises could enable foreign adversaries to use those capabilities against our nation’s warfighters. We will continue to work aggressively with our law enforcement partners and the Department of Justice to investigate and prosecute those who threaten our national security.
+
+> Homeland Security Investigations (HSI) is steadfast in its commitment to protecting the integrity of the U.S. financial system from foreign adversaries and criminal actors,
+
+said Acting Special Agent in Charge Kevin Murphy of HSI San Diego.
+
+> This case demonstrates the critical importance of collaboration across law enforcement agencies to disrupt schemes that threaten our economy and national security. HSI will continue to aggressively pursue those who exploit our financial institutions and technology infrastructure for illicit purposes, ensuring that the United States remains a safe and secure place to do business.
+
+> Today’s sentences should serve as a warning to those who continue to carry out schemes intending to deceive U.S. companies,
+
+said Special Agent in Charge Christopher S. Delzotto of the FBI Las Vegas Field office.
+
+> We will relentlessly pursue those responsible! The FBI is committed to working with our partners to expose and mitigate these fraudulent IT schemes and provide unwavering support to victims of North Korean cyber actors. The FBI strongly advises organizations to closely monitor their data, strengthen their remote hiring processes, and report any suspicious activity or fraud to the FBI.
+
+According to court documents, from approximately 2021 until October 2024, the defendants and their co-conspirators compromised the identities of more than 80 U.S. persons to obtain remote jobs at more than 100 U.S. companies, including many Fortune 500 companies, and caused U.S. victim companies to incur legal fees, computer network remediation costs, and other damages of at least $3 million. Kejia Wang traveled to Shenyang and Dandong, China on two separate occasions in 2023, to meet with overseas actors about the scheme, including a former classmate that Kejia Wang knew was from North Korea. Kejia Wang went on to serve as the U.S.-based manager for the scheme, supervising at least five facilitators in the United States who collectively hosted hundreds of computers of U.S. victim companies at their residences. Zhenxing Wang was among the U.S. facilitators who received and hosted victim company laptops at his residence. He and the others also enabled overseas IT workers to access the laptops remotely by, among other things, connecting the laptops to hardware devices designed to allow for remote access (referred to as keyboard-video-mouse or “KVM” switches).
+
+Kejia Wang and Zhenxing Wang created shell companies with corresponding financial accounts, including Hopana Tech LLC, Tony WKJ LLC, and Independent Lab LLC, to make it appear as though the overseas IT workers were affiliated with legitimate U.S. businesses. In fact, these companies had no employees or operations and existed only to further the scheme and enable the defendants and their co-conspirators to receive proceeds from the scheme. The financial accounts established by the two defendants for these shell companies ultimately received millions of dollars from victimized U.S. companies, much of which was subsequently transferred to overseas co-conspirators. In exchange for their services, Kejia Wang, Zhenxing Wang, and the four other U.S. facilitators received nearly $700,000 for their respective roles in the scheme.
+
+IT workers employed under this scheme also gained access to sensitive employer data and source code, including International Traffic in Arms Regulations (ITAR) data from a California-based defense contractor that develops artificial intelligence-powered equipment and technologies. Specifically, between on or about January 19, 2024, and on or about April 2, 2024, an overseas co-conspirator remotely accessed without authorization the company’s laptop and computer files containing technical data and other information. The stolen data included information marked as being controlled under the ITAR.
+
+The other eight defendants indicted in June 2025 remain at large and wanted by the FBI. Concurrent with today’s announcement, the U.S. Department of State’s Rewards for Justice (RFJ) program, administered by the Diplomatic Security Service, announced a reward of up to $5 million for information leading to the disruption of financial mechanisms of persons engaged in certain activities that support DPRK, including money laundering, exportation of luxury goods to North Korea, specified cyber-activity and actions that support weapons of mass destruction proliferation. The reward is offered for the following eight defendants who are alleged to have participated in the above-described scheme and one suspected IT worker:
+
+Xu Yongzhe (徐勇哲)
+
+Huang Jingbin (黄靖斌)
+
+Tong Yuze (佟雨泽)
+
+Zhou Baoyu (周宝玉)
+
+Yuan Ziyou (Samuel Yuan)
+
+Zhou Zhenbang (周震邦)
+
+Liu Menting (劉孟婷)
+
+Liu Enchia (刘恩嘉)
+
+Song Min Kim (also known as Chengmin Jin)
+
+Previously, in June 2025, the FBI and Defense Criminal Investigative Service (DCIS) announced the seizure of 17 web domains used in furtherance of this scheme and the seizure of 29 financial accounts, holding tens of thousands of dollars in funds, used to launder revenue for the North Korean regime through the remote IT work scheme. In October 2024, as part of this investigation, federal law enforcement executed searches at eight locations across three states that resulted in the recovery of more than 70 laptops and remote access devices, such as KVMs. Simultaneously with that action, the FBI seized four web domains associated with Kejia Wang’s and Zhenxing Wang’s shell companies Hopana Tech LLC, Tony WKJ LLC, and Independent Lab LLC.
+
+The FBI Las Vegas Field Office, DCIS San Diego Resident Agency, and Homeland Security Investigations San Diego Field Office investigated the cases.
+
+Assistant U.S. Attorney David Holcomb and former Assistant U.S. Attorney Jason Casey of the U.S. Attorney’s Office for the District of Massachusetts and Trial Attorney Gregory J. Nicosia Jr. of the National Security Division’s National Security Cyber Section prosecuted the cases, with significant assistance from Legal Assistants Daniel Boucher and Margaret Coppes. Valuable assistance was also provided by Mark A. Murphy of the National Security Division’s Counterintelligence and Export Control Section and the U.S. Attorneys’ Offices for the District of New Jersey, Eastern District of New York, and Southern District of California.
+
+***
+
+Today’s announcement represents the Department’s latest actions to combat North Korean IT worker schemes as part of a joint NSD and FBI Cyber and Counterintelligence Divisions effort, the DPRK RevGen: Domestic Enabler Initiative. This effort prioritizes targeting and disrupting the DPRK’s illicit revenue generation schemes and its U.S.-based enablers. The Department previously announced sentencings of DPRK IT worker facilitators in July and December 2025, and February and March 2026.
+
+As described in Public Service Announcements published in May 2024, January 2025, and July 2025, North Korean remote IT workers posing as legitimate remote IT workers have committed data extortion and exfiltrated the proprietary and sensitive data from U.S. companies. DPRK IT worker schemes typically involve the use of stolen identities, alias emails, social media, online cross-border payment platforms, and online job site accounts, as well as false websites, proxy computers, and witting and unwitting third parties located in the U.S. and elsewhere. North Korean IT workers leverage these third parties, which include U.S.-based individuals, to gain fraudulent employment and access to U.S. company networks to generate this revenue
+
+Other public advisories about the threats, red flag indicators, and potential mitigation measures for these schemes include a May 2022 advisory released by the FBI, Department of the Treasury, and Department of State; a July 2023 advisory from the Office of the Director of National Intelligence; and guidance issued in October 2023 by the United States and the Republic of Korea (South Korea). As described the May 2022 advisory, North Korean IT workers have been known individually to earn up to $300,000 annually, generating hundreds of millions of dollars collectively each year, on behalf of designated entities, such as the North Korean Ministry of Defense and others directly involved in the DPRK’s weapons programs.

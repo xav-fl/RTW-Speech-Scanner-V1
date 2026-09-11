@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/statement-by-members-of-the-high-level-mission-of-oas-member-states-to-bolivia/",
+ "institution_id": "us-state",
+ "title": "Statement by Members of the High-Level Mission of OAS Member States to Bolivia",
+ "date": "2026-07-30",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "7f8dbd81448ee7b409759ecd2f611a261e572937eedaa45bd35d6f257ad0e4c1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0431/",
+ "institution_id": "us-treasury",
+ "title": "Treasury and IRS Announce Tax Filing Relief to DHS Personnel",
+ "date": "2026-04-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "2a6801dbfa5cbd693d4e3ccbe01a9e87b297c30db988ec3f5b4c52348fe742e3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

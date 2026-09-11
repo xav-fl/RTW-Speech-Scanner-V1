@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/expanding-visa-restriction-policy-to-protect-u-s-interests-in-the-western-hemisphere/",
+ "institution_id": "us-state",
+ "title": "Expanding Visa Restriction Policy to Protect U.S. Interests in the Western Hemisphere",
+ "date": "2026-04-16",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "4166a415ce21d9256e770e2bfa1bc4c153dae57f5fbf37a95f53e3c258ba64d8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

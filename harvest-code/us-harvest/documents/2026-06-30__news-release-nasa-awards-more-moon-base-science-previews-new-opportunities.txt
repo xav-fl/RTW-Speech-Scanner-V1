@@ -1,0 +1,75 @@
+Three artist renderings depict commercial lunar landers from Astrobotic, Intuitive Machines, and Firefly on the Moon. NASA announced June 30 the landers will deliver more NASA science investigations and technology demonstrations to the lunar surface for NASA’s Moon Base Program.
+
+Credit: Astrobotic/Intuitive Machines/Firefly
+
+Editor’s note: This release was updated on June 30, 2026, to clarify the engineering development version for the PROMISE rover.
+
+NASA announced Tuesday the selection of three companies to land four new missions on the Moon in late 2028 as part of the agency’s Moon Base Program. Astrobotic, Firefly Aerospace, and Intuitive Machines will deliver NASA science payloads to the lunar surface as the agency builds the first outpost on another celestial world.
+
+> These new awards to our commercial partners, totaling nearly $600 million to land more missions on the Moon with science payloads, demonstrate our commitment to accelerating our effort to build a long-term presence on the lunar surface, and give us more opportunity to develop the skills we need to prosper there,
+
+said Lori Glaze, associate administrator for the Human Spaceflight Mission Directorate at NASA Headquarters in Washington.
+
+Astrobotic is awarded $297.9 million total for two deliveries, as well as Firefly Aerospace $144.2 million and Intuitive Machines $148.3 million for one delivery each as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative, a backbone of the Moon Base. Each will use updated versions of already-flown lander designs to enable NASA’s increased mission cadence.
+
+> We’re building a proving ground for Moon Base operations,
+
+said Ryan Stephan, NASA’s Moon Base acting director of cargo landers.
+
+> Accelerating our Moon mission ordering cadence and launch opportunities enable us to move quickly to learn, iterate, and improve.
+
+With 17 lunar surface deliveries across multiple providers, NASA also announced new opportunities for American industry to contribute to the Moon Base. The agency is considering plans to send to the Moon, PROMISE (Polar Rover for Observation, Mapping, and In-Situ Exploration), a hybrid engineering development version of the Mars Perseverance and Curiosity rovers. Agency experts will define potential opportunities for PROMISE to characterize the lunar surface, subsurface, and prospect for resources.
+
+In addition, NASA plans to solicit proposals in the coming months for lunar landers to deliver a power and avionics technology demonstration, another science manifest, and a South Pole optical imager. NASA also will share an open solicitation for Moon Base technology demonstrations and seek a lunar communication and navigation relay constellation to enable improved communication between Moon Base elements and Earth.
+
+The awards announced June 30 will play a critical role in establishing the infrastructure for lunar surface operations. The companies are responsible for initiating and executing procurements, providing an assessment of a similar previous lunar lander, and incorporating lessons learned to improve the overall mission reliability.
+
+Each delivery will carry three NASA payloads to the lunar surface:
+
+Stereo Camera for Lunar Plume Surface Studies (SCALPSS): An array of four cameras that uses a technique called stereo photogrammetry to produce a 3D view of the impact of an engine’s exhaust plume on lunar dust as the lander descends on the Moon’s surface. Collecting data from a variety of engine sizes, propellants, and landing locations, these high-resolution stereo images will aid in creating models to predict lunar dust erosion and ejecta characteristics, playing a vital role as bigger, heavier spacecraft and hardware are delivered to the Moon near each other.
+
+Laser Retroreflector Array (LRA): Reflects laser beams transmitted by Moon orbiters or landing spacecraft to help them determine their orbit position or navigate to the surface. A small cookie-sized device made of eight quartz corner-cube prisms set into a dome-shaped aluminum frame, the array is passive, requiring no power or maintenance. These arrays have flown on previous CLPS landers and international lunar landers and will continue to be used to build a network of permanent location markers on the Moon for future exploration.
+
+Linear Energy Transfer Spectrometer (LETS): Helps to better understand the radiation environment from a variety of lunar transit approaches and at different locations on the lunar surface. Derived from heritage hardware, this radiation monitor uses a tiny, advanced silicon detector to measure the energy carried by incoming space radiation. It will provide information about how strong radiation is and what kind of radiation is hitting the lunar surface, and provides the kind of detailed radiation data NASA needs to design safer missions, protect astronauts, and plan long‑duration exploration.
+
+The agency also is reviewing options for these landers to deliver potential additional payloads to the Moon.
+
+> By flying the same science instruments on multiple landers, we will better understand potential hazards during landing and build out a global network of environmental data and location markers on the Moon,
+
+said Joel Kearns, deputy associate administrator for exploration, Science Mission Directorate, NASA Headquarters.
+
+> It’s akin to having weather stations in different locations on Earth. These three payloads are flight-proven and their data is critical to supporting safe human exploration of the lunar surface.
+
+NASA is advancing development of the Moon Base, a long-term lunar exploration and infrastructure initiative designed to enable sustained human presence and expanded scientific and commercial activity on the lunar surface.
+
+As part of the Golden Age of innovation and exploration, NASA will send astronauts on increasingly difficult missions to explore more of the Moon for scientific discovery, economic benefits, and to build on our foundation for the first crewed missions to Mars.
+
+For more information about NASA’s Moon Base plans, visit:
+
+https://www.nasa.gov/moonbase
+
+-end-
+
+Rachel Kraft / Molly Wasser Headquarters, Washington 202-358-1600 rachel.h.kraft@nasa.gov / molly.l.wasser@nasa.gov
+
+Ivry Artis / Kenna Pell Johnson Space Center, Houston 281-483-5111 ivry.w.artis@nasa.gov / kenna.m.pell@nasa.gov
+
+Share
+
+Details
+
+Last Updated
+
+Jun 30, 2026
+
+Location
+
+NASA Headquarters
+
+Related Terms
+
+Moon Base
+
+Commercial Lunar Payload Services (CLPS)
+
+Science Mission Directorate

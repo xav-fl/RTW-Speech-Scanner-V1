@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/strengthening-western-hemisphere-health-security-through-the-america-first-global-health-strategy-in-panama/",
+ "institution_id": "us-state",
+ "title": "Strengthening Western Hemisphere Health Security Through the America First Global Health Strategy in Panama",
+ "date": "2026-02-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "14d71ae36d4bf1495865222ab42dc65ce63ac8bdd4b23223caa403ceeab2a35e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

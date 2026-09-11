@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/14/dhs-reduces-wait-times-thousands-religious-workers-abroad",
+ "institution_id": "us-dhs",
+ "title": "DHS Reduces Wait Times for Thousands of Religious Workers Abroad",
+ "date": "2026-01-14",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "09dfb62a7dddaa6a2011e8e2200c928a3b97bd183b274fcf9353a8b1739cdf31",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

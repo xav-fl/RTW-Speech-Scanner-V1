@@ -1,0 +1,71 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-on-sudan-political-track/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on Sudan: Political Track",
+ "date": "2026-06-08",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "3a3e2d83d0e8a55cb82057cd6a4d6212955f67748569e2f5ff45c1fddee555e7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

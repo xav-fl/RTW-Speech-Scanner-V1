@@ -1,0 +1,53 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-cracking-down-on-fraudulent-health-benefits-enrollment/",
+ "institution_id": "us-opm",
+ "title": "OPM Cracking Down on Fraudulent Health Benefits Enrollment",
+ "date": "2026-06-02",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "7c34ecbd4c396729d29d1a6caad7e87684b236dba445d4f372cb7b34038d27af",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

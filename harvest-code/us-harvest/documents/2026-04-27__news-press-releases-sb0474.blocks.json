@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0474/",
+ "institution_id": "us-treasury",
+ "title": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with European Commissioner for Trade and Economic Security Maroš Šefčovič",
+ "date": "2026-04-27",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "9b5dc7d2537a587c086c1bd746e1f367da6396e37d8d4476a129987a5e9f2a5d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

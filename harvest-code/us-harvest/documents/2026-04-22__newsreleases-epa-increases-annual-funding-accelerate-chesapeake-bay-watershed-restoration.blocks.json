@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-increases-annual-funding-accelerate-chesapeake-bay-watershed-restoration",
+ "institution_id": "us-epa",
+ "title": "EPA Increases Annual Funding to Accelerate Chesapeake Bay Watershed Restoration",
+ "date": "2026-04-22",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "a33255f1ff658971d8f7b63943c7ad3c5948268413700e331b378504c8781a85",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Region",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

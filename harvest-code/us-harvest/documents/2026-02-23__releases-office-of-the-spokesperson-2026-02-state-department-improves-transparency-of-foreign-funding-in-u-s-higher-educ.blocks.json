@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/state-department-improves-transparency-of-foreign-funding-in-u-s-higher-education/",
+ "institution_id": "us-state",
+ "title": "State Department Improves Transparency of Foreign Funding in U.S. Higher Education",
+ "date": "2026-02-23",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "c86e9fb48b01c8f75d8da5342184167c7f1f15a03049d40cc8724cf664da8353",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

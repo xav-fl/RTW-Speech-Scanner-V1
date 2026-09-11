@@ -1,0 +1,79 @@
+Sources and Uses Tables
+
+WASHINGTON - - The U.S. Department of the Treasury today announced its current estimates of privately-held net marketable borrowing [1] for the January–March 2026 and April–June 2026 quarters.
+
+During the January–March 2026 quarter, Treasury expects to borrow $574 billion in privately-held net marketable debt, assuming an end-of-March cash balance of $850 billion. [2] The borrowing estimate is $3 billion lower than announced in November 2025, primarily due to the higher beginning-of quarter cash balance, partially offset by lower projected net cash flows. Excluding the higher-than-assumed beginning-of-quarter cash balance, the current quarter borrowing estimate is $19 billion higher than announced in November.
+
+During the April–June 2026 quarter, Treasury expects to borrow $109 billion in privately-held net marketable debt, assuming an end-of-June cash balance of $900 billion.
+
+During the October–December 2025 quarter, Treasury borrowed $550 billion in privately-held net marketable debt and ended the quarter with a cash balance of $873 billion. In November 2025, Treasury estimated borrowing of $569 billion and assumed an end-of-December cash balance of $850 billion. The $20 billion in lower privately-held net marketable borrowing resulted primarily from higher net cash flows, partially offset by the higher-than-assumed end-of-quarter cash balance. Excluding the higher-than-assumed end-of-quarter cash balance, actual borrowing was $42 billion lower than announced in November.
+
+Additional financing details relating to Treasury’s Quarterly Refunding will be released at 8:30 a.m. on Wednesday, February 4, 2026.
+
+###
+
+[1] Privately-held net marketable borrowing excludes rollovers (auction “add-ons”) of Treasury securities held in the SOMA but includes financing required due to SOMA redemptions. Secondary market purchases of Treasury securities by SOMA do not directly change privately-held net marketable borrowing but, all else equal, when the securities mature and assuming the Federal Reserve does not redeem any maturing securities, would increase the amount of cash raised for a given privately-held auction size by increasing the SOMA “add-on” amount. Additionally, buybacks are not expected to significantly affect privately-held net marketable borrowing as new issuance replaces securities that are bought back.
+
+2
+
+Cash Balance
+
+October - December Quarter
+
+January - March Quarter
+
+Assumptions
+
+Prior
+
+Current
+
+Change
+
+Prior
+
+Current
+
+Change
+
+Opening Balance
+
+$891
+
+$891
+
+$0
+
+$850
+
+$873
+
+$23
+
+Closing Balance
+
+$850
+
+$873
+
+$23
+
+$850
+
+$850
+
+$0
+
+Impact on Borrowing
+
+-$41
+
+-$18
+
+$23
+
+$0
+
+-$23
+
+-$23

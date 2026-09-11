@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the quotation, the specific mechanism is: **governance reform of Business Improvement Districts (BIDs) — voting procedures, transparency, accountability, and inclusion of property owners in collective decision-making**.\n\nThis is fundamentally about reforming the rules governing a collective decision-making body (BIDs are associations/clubs of businesses and property owners that vote on local improvement levies and strategies).\n\nChecking the D7 codes:\n- **D71 — Social Choice • Clubs • Committees • Associations** — BIDs are precisely associations/clubs with voting procedures and governance structures. Reforming their voting rules and membership (including property owners) fits squarely here.\n- D72 covers elections and voting behavior more broadly, but D71's explicit mention of \"Clubs\" and \"Associations\" is more precise for BID governance reform.\n\n{\"mechanism\": \"reform of BID governance — voting rules, transparency, and property owner inclusion in collective decision-making\", \"sub\": \"D7\", \"detailed\": \"D71\"}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

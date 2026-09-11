@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260130-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor’s Employee Benefits Security Administration recovered over $1.4B in FY25 for workers, families, benefit plans",
+ "date": "2026-01-30",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "47baaa75a622d937d809ad43dbfb410d55ad9de1dee74dd090c0615ebb4e37dd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Employee Benefits Security Daniel Aronowitz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

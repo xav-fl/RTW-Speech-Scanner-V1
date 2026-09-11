@@ -1,0 +1,89 @@
+{
+ "url": "https://www.justice.gov/opa/pr/mississippi-man-indicted-arson-beth-israel-synagogue-and-goldringwoldenberg-institute",
+ "institution_id": "us-justice",
+ "title": "Mississippi Man Indicted for Arson of Beth Israel Synagogue and the Goldring/Woldenberg Institute of Southern Jewish Life",
+ "date": "2026-02-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "70758e8bdeef5fadcfb301b19ffb8a11a2ee95e42e13a65daa8e6aec28dd50ca",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "U.S. Attorney J.E. Baxter Kruger for the Southern District of Mississippi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "U.S. Attorney J.E. Baxter Kruger for the Southern District of Mississippi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

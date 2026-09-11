@@ -1,0 +1,55 @@
+TITLE: New space system will better protect UK satellites as new imagery released
+URL: https://www.gov.uk/government/news/new-space-system-will-better-protect-uk-satellites-as-new-imagery-released
+DATE: 2026-05-22
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Luke Pollard MP; Baroness Lloyd of Effra CBE
+
+---
+
+First time images from Noctis-1 space telescope are released, capturing objects such as the International Space Station and the UK’s SKYNET military communications satellites.
+
+UK satellites vital to our everyday lives and crucial military operations are better protected with new space awareness software.
+
+20% of UK economy reliant on satellite services which are essential for military operations, navigation, money transfers and global communications.
+
+Vital emergency services, military operations and British businesses will be better protected through a new system to protect UK satellites and the services they provide from space.
+
+The new software, known as Borealis, is now operational six months ahead of schedule and will better protect the UK by improving the awareness and ability to track objects in space.
+
+This includes debris and satellites from adversaries that might be a threat to UK satellites, with Borealis providing the military with crucial information to protect and defend space systems and assets.
+
+The software rapidly compiles, fuses, and analyses data from multiple sources to provide the National Space Operations Centre a faster and more accurate picture of space, helping the UK monitor threats more effectively.
+
+This comes as the UK releases for the first time images captured by the Britain’s Noctis-1 military telescope (formerly called Nyx-Alpha), which monitors objects in Earth’s orbit, providing position information on UK satellites, helping to prevent collisions and protecting critical space assets.
+
+Luke Pollard MP, Minister for Defence Readiness and Industry, said:
+
+Space is now a contested domain. Protecting our satellites from adversaries keeps our economy moving and keeps us all safe. As we increase defence spending we are investing in new defensive capabilities in all domains, including UK space-based capabilities.
+
+Images captured by Noctis-1 show a range of objects in space, such as the International Space Station, the UK’s SKYNET military communications satellites, and other satellites from nations around the world. Images and data from Noctis-1 are fed into the Borealis system, supporting its mission to enhance the UK’s space awareness.
+
+The new software is being rolled out as part of a £65 million, five-year contract with CGI UK, supporting 100 skilled jobs in Leatherhead, Reading and Bristol. The UK’s investment in space capabilities is part of this government’s largest sustained rise in defence spending since the Cold War, growing to 2.6% of GDP from 2027.
+
+With nearly 20% of UK GDP reliant on satellites, it will enhance the UK’s ability to monitor and safeguard the critical national space assets that underpin national security, modern military operations, global navigation, money transfers, and weather forecasting.
+
+Space Minister Liz Lloyd said:
+
+Borealis represents a significant step forward in the UK’s ability to monitor, protect and defend the critical space capabilities.
+
+This joint investment by the UK Space Agency and Space Command, backed by British expertise and jobs, ensures the UK remains a world leader in understanding and protecting the space environment for generations to come.
+
+Major General Paul Tedman, Commander of UK Space Command, said:
+
+Protecting and defending the invisible front line in space requires us to see and understand what is happening in orbit and then make decisions at machine speed.
+
+Noctis-1, with Noctis-2 swifty to follow, will provide us the sovereign eyes we need to augment our space domain awareness. Data is the coin of the realm in space operations. Borealis exploits edge software to make sense of the vast amounts of information we ingest and then model actionable choices to my operators in the National Space Operations Centre. Together, they represent a significant enhancement to the UK’s space capability.
+
+Borealis is a unique, UK-made system which underpins military operations around the world. It is being deployed in the National Space Operations Centre, which delivers the UK’s space surveillance and protection mission.  
+
+Neil Timms, Senior Vice President of Space, Defence & Intelligence UK & Australia at CGI said:
+
+Delivering Borealis to operational readiness half a year early highlights CGI’s track record in delivering complex, secure space systems. By combining deep domain expertise with modern engineering practices, we’ve provided a scalable capability that can adapt as mission demands and the threat landscape continue to evolve.
+
+It will monitor environmental conditions and objects in space such as space debris and active satellites; compile all data related to UK satellites so they can be better protected; and provide timely information to government and military commanders to strengthen decision making, enabling military operations on earth.
+
+This investment builds on a strong and enduring partnership between UK Space Command and the UK Space Agency (UKSA), combining defence with civil leadership and expertise to strengthen national resilience, improve space safety, and ensure the UK continues to operate as a responsible and trusted spacefaring nation.

@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/cabo-verde-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Cabo Verde National Day",
+ "date": "2026-07-05",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "e53dee6ee7ecb93f6813257f0ecba278178787e78351ca78e3b79a18170eb649",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

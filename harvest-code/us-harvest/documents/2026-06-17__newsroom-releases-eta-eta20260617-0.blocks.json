@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260617-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers over $512M in fraudulent unemployment claims to US Treasury",
+ "date": "2026-06-17",
+ "date_source": "listing",
+ "source_document_type": "ETA",
+ "text_sha256": "f19a87c4b7c5d3a3db80f9e990b72d71478e39870e58e3cab601ea16ddf18369",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Inspector General Anthony D’Esposito",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Inspector General Anthony D’Esposito",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about reviewing the **funding formula** for fire services, where the formula determines how resources are allocated based on risk. The core economic content is:\n\n1. **Fire service funding** — this is a publicly provided good (emergency/protective services), funded through government expenditure\n2. **The formula used to determine risk** — this is about how intergovernmental or local government grants/allocations are calculated\n\nThe specific mechanism is a **grant/funding formula for a local public service (fire)**, which sits squarely in H7 (State and Local Government • Intergovernmental Relations) given the formula-based allocation of funds, and H4 (Publicly Provided Goods) since fire protection is a classic publicly provided good.\n\nH7 is the best fit because the review is about the **formula** — the fiscal allocation mechanism — rather than the service delivery itself. H4 is a strong secondary because fire service is a canonical publicly provided good.\n\n```json\n{\"primary\": \"H7\", \"secondary\": [\"H4\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

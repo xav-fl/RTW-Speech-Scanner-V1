@@ -1,0 +1,17 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/election-of-solomon-islands-prime-minister-matthew-wale/",
+ "institution_id": "us-state",
+ "title": "Election of Solomon Islands Prime Minister Matthew Wale",
+ "date": "2026-05-19",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "10975ee465e830f6bc74c638bca7e58d43ac1e65028a8a00559af858bb2252a7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

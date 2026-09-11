@@ -1,0 +1,13 @@
+WASHINGTON – The U.S. Department of Labor today announced an enforcement action against Cloudera Inc. following the allegations that it violated the Immigration and Nationality Act by unlawfully discriminating against hiring American workers in favor of foreign labor.
+
+> Protecting the integrity of our immigration and labor systems requires employers to follow the law and provide American workers a fair opportunity to compete for jobs,
+
+said Acting Secretary of Labor Keith Sonderling.
+
+> Today’s action reflects this Administration’s commitment to holding bad actors accountable when they attempt to circumvent those protections.
+
+As part of the enforcement action, the department’s Employment and Training Administration’s Office of Foreign Labor Certification has suspended processing of all permanent labor certification applications filed by, or on behalf of, Cloudera for 180 days. The PERM program allows employers to sponsor workers for permanent resident status, only after completing recruitment of U.S. workers. There is potential for an extension of the enforcement action pending the results of a Department of Justice investigation.
+
+This action follows evidence obtained by the DOJ’s Civil Rights Division alleging Cloudera engineered a non-functional recruitment process that prevented qualified American workers from applying for high-paying technology positions while certifying to ETA that no qualified U.S. workers were available. On April 28, the DOJ filed a lawsuit against Cloudera with its Office of the Chief Administrative Hearing Officer, which has jurisdiction over cases arising under the INA.
+
+While the department already initiated the suspension of all PERM applications filed by, or on behalf of, Cloudera, it will continue to proactively enforce its existing suspension authority against any employer, attorney, or agent who is under investigation by Justice or other government entity for possible fraud or willful misrepresentation in relation to the permanent labor certification program.

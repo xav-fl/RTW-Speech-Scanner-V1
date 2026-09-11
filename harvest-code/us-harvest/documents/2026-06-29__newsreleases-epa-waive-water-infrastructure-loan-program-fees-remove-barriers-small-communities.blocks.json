@@ -1,0 +1,65 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-waive-water-infrastructure-loan-program-fees-remove-barriers-small-communities",
+ "institution_id": "us-epa",
+ "title": "EPA to Waive Water Infrastructure Loan Program Fees, Remove Barriers for Small Communities",
+ "date": "2026-06-29",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "313387fab02e52dc8d77cafdd0deda8d7c649188775ee465298894a560979787",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Water Jess Kramer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator for Water Jess Kramer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/sanctioning-cubas-state-owned-oil-and-gas-company-union-cuba-petroleo/",
+ "institution_id": "us-state",
+ "title": "Sanctioning Cuba’s State-Owned Oil and Gas Company Unión Cuba-Petróleo",
+ "date": "2026-06-11",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "fae3f4a4966da397da078a3332c9806bbfc1ea234e83a7a071226bbf1263e54e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

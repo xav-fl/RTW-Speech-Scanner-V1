@@ -1,0 +1,71 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-deputy-administrator-fotouhi-advances-trump-administrations-alaskan-energy-and",
+ "institution_id": "us-epa",
+ "title": "EPA Deputy Administrator Fotouhi Advances Trump Administration’s Alaskan Energy and Infrastructure Priorities During Trip to Anchorage and Nome",
+ "date": "2026-06-23",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "d89bad1a48befbd2143daa6873ab476158910713e8d3e81a5ab1fd30333ad5a3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Deputy Administrator Fotouhi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Deputy Administrator Fotouhi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Regional Administrator Emma Pokon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Regional Administrator Emma Pokon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

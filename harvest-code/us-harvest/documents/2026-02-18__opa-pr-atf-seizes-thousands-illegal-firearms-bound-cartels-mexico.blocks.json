@@ -1,0 +1,71 @@
+{
+ "url": "https://www.justice.gov/opa/pr/atf-seizes-thousands-illegal-firearms-bound-cartels-mexico",
+ "institution_id": "us-justice",
+ "title": "ATF Seizes Thousands of Illegal Firearms Bound for Cartels in Mexico",
+ "date": "2026-02-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "80327883210ec434fa8cb9ea84440b03584aab4c33a28f3a7bc49f699e2fbabd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "ATF Deputy Director Robert Cekada",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "ATF Deputy Director Robert Cekada",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

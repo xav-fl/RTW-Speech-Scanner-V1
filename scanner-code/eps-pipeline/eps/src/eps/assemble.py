@@ -2,7 +2,8 @@
 
 The internal schema is wide (JEL at three levels, provenance, reject reasons).
 The Section 6 release is a *projection* of it, so the release format can change
-without re-running anything. Rows are sorted on a fixed key so that a diff
+without re-running anything -- the rolled-up JEL columns were added to the
+release this way, from levels the internal table already held. Rows are sorted on a fixed key so that a diff
 between two runs shows real disagreement rather than ordering noise.
 """
 
@@ -24,6 +25,8 @@ RELEASE_COLUMNS = [
     "url",
     "direct_quote",
     "economics_topics",
+    "jel_major_categories",
+    "jel_subcategories",
 ]
 
 INTERNAL_COLUMNS = RELEASE_COLUMNS + [
@@ -38,6 +41,7 @@ INTERNAL_COLUMNS = RELEASE_COLUMNS + [
     "jel_primary_detailed", "jel_primary_detailed_title",
     "jel_secondary_1", "jel_secondary_1_title",
     "jel_secondary_2", "jel_secondary_2_title",
+    "match_strength_1", "match_strength_2", "match_strength_3",
     "raw_sha256", "text_sha256", "segmenter_version",
     "provider", "model_id", "prompt_version", "prompt_sha", "identity_mode", "run_id",
     "model_reason",
@@ -58,6 +62,23 @@ def _topics(obs: Observation) -> str:
     return "; ".join(labels)
 
 
+def _topics_at(obs: Observation, level: str) -> str:
+    """The same assignments rolled up to one level, code and AEA title.
+
+    `economics_topics` gives whatever level the model reached, so a reader meets
+    `I38` with no indication that it sits under welfare policy under health and
+    education. These columns supply the parents. Repeats are dropped: two
+    assignments under the same major say the major once, so the column reads as
+    context rather than as a padded restatement of the codes.
+    """
+    labels = []
+    for a in [obs.primary] + list(obs.secondary):
+        label = a.fmt(level)
+        if label and label not in labels:
+            labels.append(label)
+    return "; ".join(labels)
+
+
 def observation_row(doc: Document, obs: Observation, speaker: str,
                     speaker_source: str = "") -> dict:
     sec = list(obs.secondary) + [None, None]
@@ -70,6 +91,8 @@ def observation_row(doc: Document, obs: Observation, speaker: str,
         "url": doc.url,
         "direct_quote": obs.quote,
         "economics_topics": _topics(obs),
+        "jel_major_categories": _topics_at(obs, "major"),
+        "jel_subcategories": _topics_at(obs, "sub"),
         "country": doc.country,
         "doc_id": doc.doc_id,
         "unit_ids": " ".join(obs.unit_ids),
@@ -82,10 +105,16 @@ def observation_row(doc: Document, obs: Observation, speaker: str,
         "jel_primary_sub_title": obs.primary.sub_title,
         "jel_primary_detailed": obs.primary.detailed_code,
         "jel_primary_detailed_title": obs.primary.detailed_title,
-        "jel_secondary_1": sec[0].sub_code if sec[0] else "",
-        "jel_secondary_1_title": sec[0].sub_title if sec[0] else "",
-        "jel_secondary_2": sec[1].sub_code if sec[1] else "",
-        "jel_secondary_2_title": sec[1].sub_title if sec[1] else "",
+        # The three-character code, not its parent. These columns used to
+        # record sub_code, so a reader saw `H5` where the classifier had said
+        # `H54`; the parents are in jel_subcategories already.
+        "jel_secondary_1": sec[0].detailed_code if sec[0] else "",
+        "jel_secondary_1_title": sec[0].detailed_title if sec[0] else "",
+        "jel_secondary_2": sec[1].detailed_code if sec[1] else "",
+        "jel_secondary_2_title": sec[1].detailed_title if sec[1] else "",
+        "match_strength_1": obs.primary.match_strength or "",
+        "match_strength_2": sec[0].match_strength if sec[0] else "",
+        "match_strength_3": sec[1].match_strength if sec[1] else "",
         "raw_sha256": doc.raw_sha256,
         "text_sha256": doc.text_sha256,
         "segmenter_version": doc.segmenter_version,

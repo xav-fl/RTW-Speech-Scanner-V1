@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/joint-statement-on-the-fifth-joint-oversight-committee-for-the-peace-agreement-between-the-democratic-republic-of-the-congo-and-the-republic-of-rwanda/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on the Fifth Joint Oversight Committee for the Peace Agreement Between the Democratic Republic of the Congo and the Republic of Rwanda",
+ "date": "2026-04-23",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "4998363fd114a159851e4ef1a0f1680b9ceb9276e1d9508601d6e7995efe464d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

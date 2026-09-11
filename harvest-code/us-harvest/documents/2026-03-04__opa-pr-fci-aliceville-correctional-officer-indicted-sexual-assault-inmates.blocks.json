@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/fci-aliceville-correctional-officer-indicted-sexual-assault-inmates",
+ "institution_id": "us-justice",
+ "title": "FCI Aliceville Correctional Officer Indicted for Sexual Assault of Inmates",
+ "date": "2026-03-04",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "14a674133b4f24d4822d0713e591ac4ed162550c31e910e5caa9235a44bf287d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

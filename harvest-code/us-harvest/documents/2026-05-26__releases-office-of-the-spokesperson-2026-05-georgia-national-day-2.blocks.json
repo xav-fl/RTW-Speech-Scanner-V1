@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/georgia-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Georgia National Day",
+ "date": "2026-05-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "7dcf30e9fc64365ebe980a781f8d64ec09bbda8b9c6cd54dba49c7802010d297",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

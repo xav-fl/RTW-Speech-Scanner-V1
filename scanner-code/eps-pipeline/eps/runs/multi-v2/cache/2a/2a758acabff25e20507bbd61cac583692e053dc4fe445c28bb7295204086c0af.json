@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about a \"community right to buy\" — a legal mechanism giving communities the first right of refusal when community spaces come up for sale. The specific mechanism is a pre-emption right over real property transactions, aimed at community ownership of local spaces.\n\nThe core economic content is about real estate/land transactions and property rights at the local/community level — this fits R3 (Real Estate Markets) most directly. There's also a dimension of collective decision-making and community governance (D7), and a legal/property rights dimension (K1 — property law).\n\nThe most precise fit: R3 covers real estate markets and property transactions. The community right to buy is fundamentally a rule about who gets priority in property sales — a market design intervention in real estate. Secondary: K1 (property law/rights of first refusal as a legal instrument) is substantively important here since the statement explicitly references legislation.\n\n{\"primary\": \"R\", \"secondary\": [\"K\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

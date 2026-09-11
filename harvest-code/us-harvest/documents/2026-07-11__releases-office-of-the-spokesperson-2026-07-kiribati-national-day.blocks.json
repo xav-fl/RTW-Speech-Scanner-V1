@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/kiribati-national-day/",
+ "institution_id": "us-state",
+ "title": "Kiribati National Day",
+ "date": "2026-07-11",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "b78b6b5f1c79ac560b59ad0b46de3a6ac5bd617dc9fa6985d8a5f7c4e1af8513",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

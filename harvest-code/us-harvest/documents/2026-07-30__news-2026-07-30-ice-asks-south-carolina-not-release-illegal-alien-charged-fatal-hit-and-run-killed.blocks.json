@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/07/30/ice-asks-south-carolina-not-release-illegal-alien-charged-fatal-hit-and-run-killed",
+ "institution_id": "us-dhs",
+ "title": "ICE Asks South Carolina to Not Release Illegal Alien Charged in Fatal Hit-and-Run that Killed a Teenager",
+ "date": "2026-07-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "e71a05ad8accb252a557316454f3f822d54fbfcc4e2b0f23fcf7c29ce044ec66",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

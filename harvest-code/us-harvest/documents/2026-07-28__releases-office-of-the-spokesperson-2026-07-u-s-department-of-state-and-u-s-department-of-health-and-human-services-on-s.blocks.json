@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/u-s-department-of-state-and-u-s-department-of-health-and-human-services-on-stopping-high-risk-life-sciences-research/",
+ "institution_id": "us-state",
+ "title": "U.S. Department of State and U.S. Department of Health and Human Services on Stopping High-Risk Life Sciences Research",
+ "date": "2026-07-28",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "3a7019a175cf2db9029ce2b7405c8a4aa7c24c4528d381c5cb0015dd653963f2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

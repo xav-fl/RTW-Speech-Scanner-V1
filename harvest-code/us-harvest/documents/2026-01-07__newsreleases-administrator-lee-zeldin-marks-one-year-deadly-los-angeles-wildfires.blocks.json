@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-lee-zeldin-marks-one-year-deadly-los-angeles-wildfires",
+ "institution_id": "us-epa",
+ "title": "Administrator Lee Zeldin Marks One Year Since Deadly Los Angeles Wildfires",
+ "date": "2026-01-07",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "378527dc51fd040e0d843dd3b9d2d2b00a430078dd4b646017bef747ad865a25",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Administrator Zeldin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

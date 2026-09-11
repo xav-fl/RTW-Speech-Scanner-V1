@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/two-hells-angels-sentenced-racketeering-attempted-murder",
+ "institution_id": "us-justice",
+ "title": "Two Hells Angels Sentenced for Racketeering Attempted Murder",
+ "date": "2026-06-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "fb1df37ad12d9b72ab7ca0a2373c69842d6b5b30144afa0f5fdff10d0fb695e2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

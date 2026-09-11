@@ -1,0 +1,143 @@
+TITLE: From precision-bred hemp to Sunshine Tomatoes: £21.5m to drive farm innovation in England
+URL: https://www.gov.uk/government/news/from-precision-bred-hemp-to-sunshine-tomatoes-215m-to-drive-farm-innovation-in-england
+DATE: 2026-01-31
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Dame Angela Eagle DBE MP
+
+---
+
+At least £21.5 million in new funding will back 15 innovation projects across England to help farms cut emissions, strengthen resilience and boost productivity. 
+
+Delivered through Defra’s Farming Innovation Programme in partnership with Innovate UK, the projects will move cutting-edge research into practical tools farmers can use on the ground – from vitamin-enriched tomatoes and climate-ready hemp. 
+
+Farming Minister Dame Angela Eagle said: 
+
+Innovation is central to a more productive, resilient farming sector. 
+
+This funding will back new ideas farmers can use on the ground to cut methane and fertiliser-related emissions, strengthen crop resilience, and improve nutrition. 
+
+It’s part of our Plan for Change to support rural growth and long-term food security.
+
+Successful projects include: 
+
+‘Sunshine Tomato’ (provitamin D₃): Using precision breeding to create a tomato enriched with provitamin D₃. Building on earlier field trials, it aims to improve nutrition and help tackle vitamin D deficiency. 
+
+Low-emissions fertilisers for dairy: Replacing 50% of synthetic nitrogen fertiliser with biological alternatives to cut nitrous oxide (N₂O) emissions, improve soil health and strengthen nutrient management. 
+
+Climate-resilient industrial hemp: Developing high-value hemp varieties better able to cope with changing weather. Because hemp can grow on poorer land, it could offer new income streams from less productive farmland, supporting sustainable food, fibre, and biomaterials. 
+
+Dr Stella Peace, Managing Director at Innovate UK, said:  
+
+Working alongside Defra, Innovate UK is ensuring precision breeding and low emission technologies move swiftly from research into real‑world use, enabling farmers and agri businesses to grow, compete, and unlock new economic opportunities across the UK’s food and farming sector.
+
+This funding supports the government’s commitment to invest at least £200 million in agricultural innovation by 2030, reflecting a clear choice to back rural growth and food security through the Plan for Change.  
+
+This builds on nearly £2.3 million awarded to 30 projects announced in December through the first round of the government’s ADOPT Fund. The trials are testing new ideas on working farms – from lower-emission machinery to digital tools that support day-to-day farm management. 
+
+ENDS
+
+Notes to editors 
+
+The projects are supported through the Farming Innovation Programme, Defra’s flagship innovation programme, delivered by Innovate UK as part of UK Research and Innovation (UKRI). 
+
+They were selected through two competitions launched in April 2025 under the programme’s Farming Futures Fund – one focused on precision breeding and the other on low emissions farming.  
+
+Precision breeding describes a range of technologies, such as gene editing, that can make the same type of genetic changes as traditional breeding but in a more efficient and targeted way. It can deliver disease resistance, climate resilience, and better nutrition without adding genes from other species. Following the Genetic Technology (Precision Breeding) Act, the precision breeding competition is the first bespoke competition of its kind in this area. 
+
+The Low Emissions Farming competition builds on the first Farming Innovation Programme climate-smart competition launched in 2022, funding collaborative projects that support UK farming to achieve low emissions. 
+
+List of successful applicants 
+
+Low Emissions Farming 
+
+Innovative Faba Bean Feed Ingredients: Enteric Methane Abatement and Feed Carbon Intensity Reduction in English Dairy Systems 
+
+Lead: McArthur Agriculture Ltd. Award across partners: £1,491,526 
+
+Demonstrating UK-grown faba bean feed ingredients to reduce emissions from English dairy systems by up to 1.6 million tonnes of CO₂e per year, targeting enteric methane using faba bean co-products rich in condensed tannins. Includes on-farm diet trials; a 10% reduction would mitigate 875,000 tCO₂e annually. 
+
+Feed Less, Waste Less, Emit Less: Transforming Monogastric Farming with Hyper-oxygenated Water 
+
+Lead: Oxcel Ltd. Award across partners: £840,029 
+
+Developing a Water-as-a-Service technology using hyper-oxygenated nanobubble drinking water to support livestock gut health, survivability and feed conversion in pigs and poultry, improving efficiency while reducing environmental impact. 
+
+BIO-PHAGE-UK: Applying biological and Phage biostimulants for greenhouse gas emissions mitigation in UK agriculture 
+
+Lead: Terrafarmer Agriculture Ltd. Award across partners: £966,228 
+
+Reducing emissions from UK dairy farming by replacing 50% of synthetic nitrogen fertiliser with biological alternatives, focusing on cutting nitrous oxide (N₂O) via improved soil health and nutrient management. 
+
+BioBLEND: Carbon-negative fertilisers for UK cereal production 
+
+Lead: Cefetra Ltd. Award across partners: £1,340,082 
+
+Developing biochar-based fertilisers to cut the carbon footprint of UK cereal production while maintaining yields, supported by field trials comparing products against conventional fertilisers. 
+
+RePeat 
+
+Lead: Pollybell Farms Ltd. Award across partners: £1,571,734 
+
+A circular approach to farmed peatlands, demonstrating that rewetted peatlands can cut emissions while enabling productive new farming models, combining restoration, paludiculture, controlled-environment production and renewable fuel generation. 
+
+HyDigest: A Novel Pathway for Regenerative Organic Fertiliser and Optimised Biomethane Production 
+
+Lead: HydroStar Europe Ltd. Award across partners: £1,958,493 
+
+Transforming anaerobic digestate into a low-carbon alternative to synthetic fertiliser while boosting on-farm energy production, integrating material science with energy systems alongside university partners. 
+
+Large scale Electromethanogenic Reactor (EMR) technology to process agricultural waste and better manage digestate 
+
+Lead: WASE Ltd. Award across partners: £1,901,559 
+
+Scaling EMR technology to process manure, slurry, and crop residues more efficiently, using electrodes colonised by electroactive bacteria to accelerate digestion and generate up to 30% more biomethane than traditional anaerobic digestion. 
+
+CLEAR-FARM – Carbon and Livestock Emissions Abatement via Recovery and Manure management 
+
+Lead: CCM Technologies Ltd. Award across partners: £1,683,630 
+
+Developing a two-stage treatment system that converts livestock manure into a safe, nutrient-rich, carbon-negative fertiliser, offering a lower-emission alternative to conventional manure storage and spreading. 
+
+Precision Breeding 
+
+Precision-Bred Hemp: Unlocking Sustainable, Productive and Profitable Farming in England 
+
+Lead: Precision Plants Ltd. Award across partners: £912,259 
+
+Developing high-value, climate-resilient hemp varieties using responsible, non-GM precision gene editing, to expand sustainable food, fibre and biomaterials opportunities and reduce import dependence. 
+
+Sunshine Tomatoes: a farming future through precision breeding 
+
+Lead: John Innes Enterprises Ltd. Award across partners: £967,797 
+
+Commercialising a CRISPR-edited tomato enriched with provitamin D₃, aimed at tackling vitamin D deficiency and anticipated to be among the first products approved under new UK precision breeding legislation. 
+
+Scaling Gene Editing induced Gene Silencing (GEiGSⓇ) for Virus Yellows Resistance in Sugar Beet 
+
+Lead: British Sugar plc Award across partners: £1,159,351 
+
+Developing a precision-bred, gene-edited solution for durable resistance to Virus Yellows (including BYV), addressing major yield-loss risk and limitations of traditional breeding. 
+
+Light Leaf Spot Enhancing Resistance And reducing Susceptibility with EDiting (LLS ERASED) 
+
+Lead: Bofin Farmers Ltd. Award across partners: £1,891,044 
+
+Advancing oilseed rape lines (TILLING mutant and CRISPR/Cas9-edited) with reduced susceptibility to light leaf spot through regulatory steps and into commercial field trials. 
+
+QuBOOSTR – Quality Bioengineering for Optimised Output & Sustainable Technologies in Rubber producing crops 
+
+Lead: QUBERTECH Ltd. Award across partners: £1,894,420 
+
+Producing alternative sources of natural rubber via precision-bred dandelions engineered for high latex output in temperate climates, reducing supply chain risk linked to Hevea production pressures. 
+
+AUTOTOM: Reimagining Tomato Production Through Precision Breeding and Automation 
+
+Lead: Cambridge Glasshouse Company Limited Award across partners: £1,755,172 
+
+Combining compact precision-bred tomato plants with automated greenhouse systems and conveyor-based harvesting to cut labour needs by 70%+ and boost yields to 45–50 kg/m²/year. 
+
+ExtendDNA: Solving the #1 problem in plant biology engineering – making long DNA sequences 
+
+Lead: Newcleic Ltd. Award across partners: £1,210,198 
+
+Developing faster, more robust production of long DNA sequences to enable next-generation precision-bred crops and delivery of complex traits (e.g., reduced pesticide use, improved resilience, and food security).

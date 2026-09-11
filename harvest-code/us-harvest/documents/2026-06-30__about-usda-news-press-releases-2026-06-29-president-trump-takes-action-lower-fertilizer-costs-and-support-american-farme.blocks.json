@@ -1,0 +1,89 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/06/29/president-trump-takes-action-lower-fertilizer-costs-and-support-american-farmers",
+ "institution_id": "us-agriculture",
+ "title": "President Trump Takes Action to Lower Fertilizer Costs and Support American Farmers",
+ "date": "2026-06-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "033515021e792908af1291e014b98682b2371aa06f068fc7f90a79f4d2965f9c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Deputy Secretary Stephen Alexander Vaden",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Deputy Secretary Stephen Alexander Vaden",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-resumes-contaminated-sediment-cleanup-detroits-lower-rouge-river-old-channel",
+ "institution_id": "us-epa",
+ "title": "EPA Resumes Contaminated Sediment Cleanup in Detroit’s Lower Rouge River Old Channel",
+ "date": "2026-03-30",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "09fd773950d18b7949677c40eb60927aae4945117538dfb9353d78dbb2892aec",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

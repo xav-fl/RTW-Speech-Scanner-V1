@@ -1,0 +1,35 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0356/",
+ "institution_id": "us-treasury",
+ "title": "Secretary Bessent Convenes Finance Ministerial on Securing Critical Minerals Supply Chains",
+ "date": "2026-01-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "ac5c768d0595eda80a05ca0c8568d8e3e0680a88952bacdf39401207248bf7e2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

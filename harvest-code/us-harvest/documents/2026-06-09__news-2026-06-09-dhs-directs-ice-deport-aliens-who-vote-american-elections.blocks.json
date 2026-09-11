@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dhs.gov/news/2026/06/09/dhs-directs-ice-deport-aliens-who-vote-american-elections",
+ "institution_id": "us-dhs",
+ "title": "DHS Directs ICE to Deport Aliens Who Vote in American Elections",
+ "date": "2026-06-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "f269dad7355e9f51f6931f5d65628509fe6dbfbf22106148d9f0e47ab1177542",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "DHS General Counsel James Percival",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "DHS General Counsel James Percival",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

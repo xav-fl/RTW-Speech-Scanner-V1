@@ -1,0 +1,77 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0470/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Announces Form 990 Transparency Initiative to Expose Hidden Funding and Strengthen Oversight",
+ "date": "2026-04-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "aec7911856cc0db029b9f492c9efa56c041b243ec4e1fe320ff0eb9c777a88fc",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Treasury Assistant Secretary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Treasury Assistant Secretary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260102",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor awards over $550K to help workers affected by layoffs at northern Massachusetts tool manufacturer",
+ "date": "2025-06-30",
+ "date_source": "body",
+ "source_document_type": "ETA",
+ "text_sha256": "96a1ccaf5c3e05482fac37e47acce94746fb4cbbe200a31eb61b64e2fb9adbcf",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

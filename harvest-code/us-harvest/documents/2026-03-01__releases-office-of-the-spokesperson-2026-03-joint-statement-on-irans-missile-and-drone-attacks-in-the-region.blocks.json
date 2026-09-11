@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/joint-statement-on-irans-missile-and-drone-attacks-in-the-region/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on Iran’s Missile and Drone Attacks in the Region",
+ "date": "2026-03-01",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "eb3687f62c5e13b00368ec512fc5e56a3fcc951a4923aa6217dac81d1ae62b3f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

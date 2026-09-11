@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/27/dhs-launches-investigation-american-citizen-who-attempted-purchase-firearm-kill-ice",
+ "institution_id": "us-dhs",
+ "title": "DHS Launches Investigation into American Citizen Who Attempted to Purchase Firearm to “Kill ICE Agents”",
+ "date": "2026-01-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "14556fbf938ce0f8094c85080e4339cbcef8fcacab7b15a7dda17b66c946b5d2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "url": "https://www.hhs.gov/press-room/hhs-welcomes-10-new-states-into-ccbhc-medicaid-demonstration-program.html",
+ "institution_id": "us-hhs",
+ "title": "HHS Welcomes 10 New States into CCBHC Medicaid Demonstration Program",
+ "date": "2026-05-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "2d3850b09473c46a790601176746f0f21c5c636995d51e1094b74eba49fa7665",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "White House Senior Advisor for Addiction Recovery Kathryn Burgum",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "White House Senior Advisor for Addiction Recovery Kathryn Burgum",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "CMS Administrator Dr. Mehmet Oz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "CMS Administrator Dr. Mehmet Oz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+TITLE: Manor of Northstead
+URL: https://www.gov.uk/government/news/manor-of-northstead--2
+DATE: 2026-05-14
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+The Chancellor of the Exchequer has this day appointed Stephen Mark Flynn to be Steward and Bailiff of the Manor of Northstead.

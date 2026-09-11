@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/27/ice-lodges-arrest-detainer-criminal-illegal-alien-monster-charged-raping-11-year",
+ "institution_id": "us-dhs",
+ "title": "ICE Lodges Arrest Detainer on Criminal Illegal Alien Monster Charged with Raping 11-Year-Old and Holding 10-Year-Old Sister at Knifepoint in Georgia",
+ "date": "2026-01-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "7d4c1a416c9693a31ba53555d77e5c055d8024e4f593edabc138bbf2b50eb288",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/05/13/coast-guard-finalizes-contract-five-new-arctic-security-cutters",
+ "institution_id": "us-dhs",
+ "title": "Coast Guard Finalizes Contract for Five New Arctic Security Cutters",
+ "date": "2026-05-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "491c47d830d97f387bb0b716ebd1bffcaaa4c189a4ac7dd1437f29a13113aa69",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Admiral Kevin E. Lunday",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Admiral Kevin E. Lunday",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

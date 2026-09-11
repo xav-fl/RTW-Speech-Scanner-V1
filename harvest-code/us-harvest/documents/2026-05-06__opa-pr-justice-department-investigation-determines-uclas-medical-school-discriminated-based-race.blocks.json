@@ -1,0 +1,71 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-investigation-determines-uclas-medical-school-discriminated-based-race",
+ "institution_id": "us-justice",
+ "title": "Justice Department Investigation Determines UCLA’s Medical School Discriminated Based on Race in Admissions",
+ "date": "2026-05-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "bf13a88a52d3f7d736e208d47bf1e2c371439663ee21583471dd30f8fcc8b0f3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "First Assistant United States Attorney Bill Essayli for the Central District of California",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "First Assistant United States Attorney Bill Essayli for the Central District of California",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

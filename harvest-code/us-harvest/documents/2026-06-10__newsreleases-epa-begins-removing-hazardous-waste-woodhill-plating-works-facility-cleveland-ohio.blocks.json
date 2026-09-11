@@ -1,0 +1,53 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-begins-removing-hazardous-waste-woodhill-plating-works-facility-cleveland-ohio",
+ "institution_id": "us-epa",
+ "title": "EPA Begins Removing Hazardous Waste from Woodhill Plating Works Facility in Cleveland, Ohio",
+ "date": "2026-06-10",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "01f105ec343cd63d00ab6d5f811d0f3bc5e805d2953536473ccf0ec12f939224",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

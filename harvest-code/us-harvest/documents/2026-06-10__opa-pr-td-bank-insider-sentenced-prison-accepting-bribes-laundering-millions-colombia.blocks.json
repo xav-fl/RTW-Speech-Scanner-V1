@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/td-bank-insider-sentenced-prison-accepting-bribes-laundering-millions-colombia",
+ "institution_id": "us-justice",
+ "title": "TD Bank Insider Sentenced to Prison for Accepting Bribes, Laundering Millions to Colombia",
+ "date": "2026-06-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "82d06242a14ec1773742ac692ab53757fcfc2884ed4672dfe2179e654d5c0e0a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/01/ice-arrests-ms-13-gang-member-california-wanted-murder-el-salvador",
+ "institution_id": "us-dhs",
+ "title": "ICE Arrests MS-13 Gang Member in California Wanted for Murder in El Salvador",
+ "date": "2026-04-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "3f2e3c4892d7447f52b4526ef4a78e0a07d7e284aa00cf1cd954617c16a7e80b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/10/ice-asks-north-carolina-politicians-not-release-criminal-illegal-alien-charged",
+ "institution_id": "us-dhs",
+ "title": "ICE Asks North Carolina Politicians to Not Release Criminal Illegal Alien Charged with Multiple Counts of Child Rape",
+ "date": "2026-02-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "83b19f8757324cf6fc9fb6419b9e8a8ad65c9a326f57901f3e91e33254db15df",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

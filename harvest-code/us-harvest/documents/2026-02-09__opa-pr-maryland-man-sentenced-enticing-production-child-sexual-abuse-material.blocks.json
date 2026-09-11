@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/maryland-man-sentenced-enticing-production-child-sexual-abuse-material",
+ "institution_id": "us-justice",
+ "title": "Maryland Man Sentenced for Enticing Production of Child Sexual Abuse Material",
+ "date": "2026-02-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "37b5b839a47dd1e4a2ce1c100ada3b6e9c545e4c0ac049cb7de0aee973702ca8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

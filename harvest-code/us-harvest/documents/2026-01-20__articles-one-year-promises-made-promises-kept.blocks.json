@@ -1,0 +1,17 @@
+{
+ "url": "https://www.energy.gov/articles/one-year-promises-made-promises-kept",
+ "institution_id": "us-energy",
+ "title": "THE STATE OF AMERICAN ENERGY: Promises Made, Promises Kept",
+ "date": "2026-01-20",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "915d5b186bc36498fc8b2079d9cd625c7bed3c72b8663eb5378505139adc87df",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

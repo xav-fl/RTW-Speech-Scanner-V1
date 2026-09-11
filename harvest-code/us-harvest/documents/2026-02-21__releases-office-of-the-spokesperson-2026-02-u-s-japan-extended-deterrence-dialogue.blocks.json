@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/u-s-japan-extended-deterrence-dialogue/",
+ "institution_id": "us-state",
+ "title": "U.S.-Japan Extended Deterrence Dialogue",
+ "date": "2026-02-21",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "567ba90cad809ab21a31cda27a887d3da65a180fc39ab6c7600a19a3e874fc56",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

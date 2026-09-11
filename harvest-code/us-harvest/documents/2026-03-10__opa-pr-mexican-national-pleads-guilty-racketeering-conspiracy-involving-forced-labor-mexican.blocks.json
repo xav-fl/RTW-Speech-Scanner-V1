@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/mexican-national-pleads-guilty-racketeering-conspiracy-involving-forced-labor-mexican",
+ "institution_id": "us-justice",
+ "title": "Mexican National Pleads Guilty to Racketeering Conspiracy Involving the Forced Labor of Mexican Workers",
+ "date": "2026-03-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "f03c5e88509dd9c27a9f4db6e6b1c277303cda46729e278c2ef9d484a0e9a594",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

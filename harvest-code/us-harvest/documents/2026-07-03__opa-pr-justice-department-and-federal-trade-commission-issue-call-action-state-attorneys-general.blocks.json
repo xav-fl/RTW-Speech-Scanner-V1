@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-and-federal-trade-commission-issue-call-action-state-attorneys-general",
+ "institution_id": "us-justice",
+ "title": "Justice Department and Federal Trade Commission Issue Call to Action to State Attorneys General to Follow Federal Enforcers in Investigating Antitrust and Consumer Protection Violations Causing High Gas Prices",
+ "date": "2026-07-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "338a69d91d67000aa470641e7fa3de43611f8ff16a0404880ea66e9ed76404ba",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

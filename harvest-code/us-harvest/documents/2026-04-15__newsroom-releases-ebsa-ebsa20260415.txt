@@ -1,0 +1,13 @@
+WASHINGTON – The U.S. Department of Labor’s Employee Benefits Security Administration has issued first-of-its-kind guidance stating that proxy advisory firms commonly engage in business practices that meet the test for being investment advice fiduciaries.
+
+In a recently published Technical Release, the department spells out that proxy advisors regularly engage in conduct that makes them investment advice fiduciaries under the department’s long-standing five-part test. The Technical Release also makes clear that proxy advisors regularly fit the definition of functional fiduciaries under the Employee Retiree Income Security Act of 1974.
+
+The guidance follows President Trump’s Executive Order from last year, Protecting American Investors From Foreign-Owned and Politically Motivated Proxy Advisors. The Executive Order singled out Institutional Shareholder Services and Glass, Lewis & Co. – two foreign companies that control more than 90% of the proxy advisory market. For years, ISS and Glass Lewis have recommended votes for board members, management proposals, and shareholder proposals that have political rather than economic motivations. Such recommendations could cause ERISA’s fiduciary duties to apply.
+
+While focused on proxy advisors, the parameters of President Trump’s Executive Order are much broader. The President asked the department to determine if
+
+> any individual who has a relationship of trust and confidence with their client… who provides advice for a fee or other compensation, direct or indirect, with respect to the exercise of the rights appurtenant to shares held by ERISA plans, is an investment advice fiduciary under ERISA.
+
+The Executive Order makes clear that EBSA should not just examine whether proxy advisors’ actions meet the test to make them investment advice fiduciaries but also asked the department to look at other actors who manage, or advise those that manage, the rights connected to shares of stock, such as the right to vote for board members, held by ERISA-covered plans. Proxy advisors have played a central role in politicizing the capital markets by pursuing ESG investing and DEI positions, but they aren’t alone. At the President’s directive, EBSA’s Technical Release looks beyond the proxy advisors to consider when the actions of others, such as large asset managers, sovereign wealth funds, and the overseers of the proxy plumbing, render them investment advice fiduciaries.
+
+Read the full Technical Release on proxy advisors.

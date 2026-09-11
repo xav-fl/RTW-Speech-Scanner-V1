@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/03/09/ice-requests-utah-authorities-not-release-criminal-illegal-alien-accused-sexually",
+ "institution_id": "us-dhs",
+ "title": "ICE Requests Utah Authorities to Not Release Criminal Illegal Alien Accused of Sexually Assaulting a 14-Year-Old Girl",
+ "date": "2026-03-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "a6530de62ad12d4eaffa6629420777a887a1f7bceda8b4cbb10cf7616c29f028",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "DHS Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "DHS Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

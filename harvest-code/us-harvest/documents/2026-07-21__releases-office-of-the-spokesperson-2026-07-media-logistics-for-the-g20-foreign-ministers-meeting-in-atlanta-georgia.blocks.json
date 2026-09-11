@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/media-logistics-for-the-g20-foreign-ministers-meeting-in-atlanta-georgia/",
+ "institution_id": "us-state",
+ "title": "Media Logistics for the G20 Foreign Ministers’ Meeting in Atlanta, Georgia",
+ "date": "2026-07-21",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "97b5833246ed4c02f6ee768e381e814183fd50893b0ccc19ac6d2dd546353e1e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

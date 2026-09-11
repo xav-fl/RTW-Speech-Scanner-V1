@@ -1,0 +1,47 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-releases-report-highlighting-millions/",
+ "institution_id": "us-opm",
+ "title": "OPM Releases Report Highlighting Millions in Taxpayer-Funded Collective Bargaining Costs",
+ "date": "2026-02-04",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "6b6760e96a1211f722957f72abf9c7a3c0f235f2740120ce5b16630bc30c74be",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

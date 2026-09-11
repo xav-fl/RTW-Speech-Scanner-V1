@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-deputy-administrator-fotouhi-visits-auto-supply-facilities-southeast-michigan",
+ "institution_id": "us-epa",
+ "title": "EPA Deputy Administrator Fotouhi Visits Auto Supply Facilities in Southeast Michigan, Advances Key Agency Pillar",
+ "date": "2026-04-23",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "695837a1280e23c341d51b970baf3c583b42274909c48b22dcc78842b7f06a55",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Deputy Administrator Fotouhi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Deputy Administrator Fotouhi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

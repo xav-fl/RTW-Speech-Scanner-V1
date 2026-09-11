@@ -1,0 +1,5 @@
+On February 27, 2026, GSA announced that it was removing Anthropic from USAi.gov and our Multiple Award Schedule (MAS) in accordance with President Trump’s directive to all federal agencies to stop using Anthropic’s technology.
+
+Pursuant to a preliminary injunction from the U.S. District Court for the Northern District of California (Case No. 26-cv-01996-RFL) on March 26, 2026, pausing the government’s implementation of the President’s directive, GSA is withdrawing this announcement and restoring Anthropic technology to the status quo in effect prior to February 27, 2026. GSA will continue allowing system integrations with Anthropic products, and will offer Anthropic models in GSA Chat. Anthropic models will also be made available in external facing services and our Multiple Award Schedule.
+
+Contact press@gsa.gov

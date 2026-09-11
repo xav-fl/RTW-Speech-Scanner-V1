@@ -1,0 +1,5 @@
+{
+  "text": "I need to identify the specific mechanism here:\n- Grants of up to £20m each to ~300 of the poorest communities\n- Purpose: transform life and life chances (poverty/deprivation)\n- Decision-making devolved to local people, not politicians\n\nThe core substance is:\n1. **Place-based grants targeting deprived communities** — this is about poverty/welfare and regional development\n2. **Local decision-making over spending** — decentralized governance\n\nThe primary mechanism is targeted funding to poor communities to improve life chances → this is poverty/welfare policy (I3 — Welfare, Well-Being, and Poverty).\n\nThe secondary dimension is the place-based/regional aspect — grants to specific geographic communities — which fits R5 (Regional Government Analysis) or H7 (State and Local Government/Intergovernmental Relations). The devolution of spending decisions to local communities is substantively important here, pointing to H7.\n\n{\"primary\": \"I\", \"secondary\": [\"R\", \"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osec/osec20260211",
+ "institution_id": "us-labor",
+ "title": "Secretary Chavez-DeRemer statement on January jobs report",
+ "date": "2026-02-11",
+ "date_source": "listing",
+ "source_document_type": "Office of the Secretary",
+ "text_sha256": "1d1cf8004f1fbdd31966f66aab01a429575019e7982ee4ad66b8b98fbecb8e5c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

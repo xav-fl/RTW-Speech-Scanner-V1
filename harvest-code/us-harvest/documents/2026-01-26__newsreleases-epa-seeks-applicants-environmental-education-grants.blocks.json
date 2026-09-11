@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-seeks-applicants-environmental-education-grants",
+ "institution_id": "us-epa",
+ "title": "EPA Seeks Applicants for Environmental Education Grants",
+ "date": "2026-01-26",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "12246405ce55830c5057437eacd5352e717c07f2522a7da9098f1a08ac73c541",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

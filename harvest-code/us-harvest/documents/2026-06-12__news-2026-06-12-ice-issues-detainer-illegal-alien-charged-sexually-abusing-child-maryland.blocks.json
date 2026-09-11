@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dhs.gov/news/2026/06/12/ice-issues-detainer-illegal-alien-charged-sexually-abusing-child-maryland",
+ "institution_id": "us-dhs",
+ "title": "ICE Issues Detainer for Illegal Alien Charged with Sexually Abusing a Child in Maryland",
+ "date": "2026-06-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "59d8c8db530daa9c02cdc4febffd435617a487b5694b162a39aa34b0d7a3096f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

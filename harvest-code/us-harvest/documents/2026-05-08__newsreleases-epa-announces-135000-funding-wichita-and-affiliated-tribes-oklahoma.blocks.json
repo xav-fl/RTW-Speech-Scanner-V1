@@ -1,0 +1,65 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-announces-135000-funding-wichita-and-affiliated-tribes-oklahoma",
+ "institution_id": "us-epa",
+ "title": "EPA Announces $135,000 in Funding for the Wichita and Affiliated Tribes in Oklahoma",
+ "date": "2026-05-08",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "d7456c6f92a5f9bae8b82b4a4a05ba86bc82a27dd4a6da55de7d4732996485a8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Regional Administrator Scott Mason",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Regional Administrator Scott Mason",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Assistant Administrator Usha Turner",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

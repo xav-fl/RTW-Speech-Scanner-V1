@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a government program offering free courses in engineering and manufacturing — the specific mechanism is subsidized vocational/skills training targeted at particular industrial sectors.\n\nPrimary dimension: vocational education and training policy → I2 (Education and Research Institutions)\nSecondary dimension: the engineering and manufacturing sector focus adds a labor supply/skills dimension → J2 (Demand and Supply of Labor); and the sectoral focus on manufacturing is substantively present → L6 (Industry Studies: Manufacturing)\n\n{\"primary\": \"I\", \"secondary\": [\"J\", \"L\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

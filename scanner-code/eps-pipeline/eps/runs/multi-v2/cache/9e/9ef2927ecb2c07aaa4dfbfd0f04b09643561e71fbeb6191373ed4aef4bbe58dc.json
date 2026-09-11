@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D054a7fb225.P002.S001\"], \"anchor\": null, \"reason\": \"Minister emphasises priorities: commercial programme, housing services, reorganisation capacity\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

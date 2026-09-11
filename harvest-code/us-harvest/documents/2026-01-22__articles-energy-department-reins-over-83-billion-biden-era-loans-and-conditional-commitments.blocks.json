@@ -1,0 +1,65 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-reins-over-83-billion-biden-era-loans-and-conditional-commitments",
+ "institution_id": "us-energy",
+ "title": "Energy Department Reins in Over $83 Billion in Biden-Era Loans and Conditional Commitments",
+ "date": "2026-01-22",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "50c90369263bd56a1cf2eff88a5554104e8d99017d9a0923699847393542d910",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

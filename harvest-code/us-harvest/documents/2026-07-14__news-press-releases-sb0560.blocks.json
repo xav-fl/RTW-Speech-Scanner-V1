@@ -1,0 +1,53 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0560/",
+ "institution_id": "us-treasury",
+ "title": "U.S.-UK Transatlantic Taskforce for the Markets of the Future Publishes Recommendations to Promote Growth and Innovation in Capital Markets and Digital Assets",
+ "date": "2026-07-14",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "d29da11ae47eced1239306e0da119ef104ad922aa6e2a61058a456b88f65aaf6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

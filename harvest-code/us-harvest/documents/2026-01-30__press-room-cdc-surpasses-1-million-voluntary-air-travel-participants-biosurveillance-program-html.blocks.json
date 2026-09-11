@@ -1,0 +1,71 @@
+{
+ "url": "https://www.hhs.gov/press-room/cdc-surpasses-1-million-voluntary-air-travel-participants-biosurveillance-program.html",
+ "institution_id": "us-hhs",
+ "title": "CDC Surpasses 1 Million Voluntary Air Travel Participants in Biosurveillance Program",
+ "date": "2026-01-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "0a79f5ee6d302f69e0619c8ba2dc466bfbc59e62c29c8d1711248e9f0b3e0ae0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "HHS Deputy Secretary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "HHS Deputy Secretary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

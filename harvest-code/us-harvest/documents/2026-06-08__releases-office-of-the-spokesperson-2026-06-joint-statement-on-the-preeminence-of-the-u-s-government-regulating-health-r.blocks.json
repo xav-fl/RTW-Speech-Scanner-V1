@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-on-the-preeminence-of-the-u-s-government-regulating-health-risks-for-americans/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on the Preeminence of the U.S. Government Regulating Health Risks for Americans",
+ "date": "2026-06-08",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "7b880cf421c417c4c01cba3d6e3b442c94ef82f2ea800995bdbb80218897f14c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

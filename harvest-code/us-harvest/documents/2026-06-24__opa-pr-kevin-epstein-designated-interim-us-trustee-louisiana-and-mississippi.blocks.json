@@ -1,0 +1,35 @@
+{
+ "url": "https://www.justice.gov/opa/pr/kevin-epstein-designated-interim-us-trustee-louisiana-and-mississippi",
+ "institution_id": "us-justice",
+ "title": "Kevin Epstein Designated as Interim U.S. Trustee for Louisiana and Mississippi",
+ "date": "2026-06-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "eae4981131a0ddfd53e9ce931960342c155885eedf5b82ca3ebc9b8141f5b1a9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

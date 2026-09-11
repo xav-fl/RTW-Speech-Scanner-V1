@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/05/08/ice-asks-montana-not-release-illegal-alien-jail-who-facing-charges-raping-his-dead",
+ "institution_id": "us-dhs",
+ "title": "ICE Asks Montana to Not Release Illegal Alien from Jail Who is Facing Charges for Raping His Dead Girlfriend’s Underage Daughter",
+ "date": "2026-05-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "cd508fb2a04cd7b7fa2d2a3d94aa21a59898ce7db45b37e9cc2dde61702f053a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

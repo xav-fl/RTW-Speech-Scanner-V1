@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a government-funded free courses programme targeting engineering and manufacturing skills. The core mechanism is subsidised vocational training (free courses) directed at specific industrial sectors (engineering and manufacturing) to address labour supply/skills gaps.\n\n- Primary: **I2** (Education and Research Institutions — vocational/adult education provision)\n- Secondary: **J2** (Demand and Supply of Labor — skills supply for specific occupations) and **L6** (Industry Studies: Manufacturing — sector-specific focus)\n\n{\"primary\": \"I\", \"secondary\": [\"J\", \"L\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260227",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor extends comment period for pharmacy benefit manager fee disclosure proposed rule",
+ "date": "2026-02-27",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "7bc3b44acebdf4e81c58ae5052a54856be4f541de522fb49e2b3e66d1469b7a2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

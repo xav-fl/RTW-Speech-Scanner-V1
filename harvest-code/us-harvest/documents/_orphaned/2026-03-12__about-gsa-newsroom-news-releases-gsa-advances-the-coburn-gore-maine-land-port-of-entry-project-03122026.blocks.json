@@ -1,0 +1,83 @@
+{
+ "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-advances-the-coburn-gore-maine-land-port-of-entry-project-03122026",
+ "institution_id": "us-gsa",
+ "title": "GSA Advances the Coburn Gore, Maine Land Port of Entry Project",
+ "date": "2026-03-12",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "81c48811610b075d8ecd7ce35706ae0386d0804f04977d06355f9c44785ff046",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "GSA Deputy Administrator Mike Lynch",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "GSA Deputy Administrator Mike Lynch",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

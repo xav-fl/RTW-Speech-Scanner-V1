@@ -1,0 +1,83 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/04/23/homeland-security-task-force-investigation-leads-lengthy-prison-sentences-two-mexican-nationals",
+ "institution_id": "us-sba",
+ "title": "Homeland Security Task Force Investigation Leads to Lengthy Prison Sentences for Two Mexican Nationals Convicted of Drug Trafficking",
+ "date": "2026-04-23",
+ "date_source": "metadata",
+ "source_document_type": "OIG news release",
+ "text_sha256": "b2edd26e9bb01d37f308f918f22e3538dc68058ae7ff5c5438ef3aec01cad78d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Russ Ferguson",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Attorney Russ Ferguson",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

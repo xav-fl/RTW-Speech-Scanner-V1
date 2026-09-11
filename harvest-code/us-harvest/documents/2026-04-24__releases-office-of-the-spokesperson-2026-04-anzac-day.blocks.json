@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/anzac-day/",
+ "institution_id": "us-state",
+ "title": "Anzac Day",
+ "date": "2026-04-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "a409d6ee2740f4637667824903c411501ce3b52227a9ca3d53fe848520135643",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+TITLE: Labour Markets Evaluation and Pilots (LMEP) Fund: funded projects
+URL: https://www.gov.uk/government/news/labour-markets-evaluation-and-pilots-lmep-fund-funded-projects
+DATE: 2026-05-14
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+About the fund
+
+The Labour Market Evaluation and Pilots Fund provided funding to government departments to carry out research that improved the government’s evidence base on what works to improve labour market outcomes. It was announced at Spring Budget 2023.
+
+HM Treasury administered this funding in collaboration with the Evaluation Task Force (Cabinet Office). Government departments were eligible to submit proposals for projects either to better understand the impact of recently implemented interventions on labour market outcomes, or to trial new and innovative programmes. HM Treasury and the Evaluation Task Force oversaw three competitive bidding rounds.
+
+Round 1 Funded projects (awarded August 2023)
+
+Evaluating the impact of Tax-Free Childcare on labour market participation of working parents [HMRC]
+
+This project was a commissioned piece of mixed-methods research, including a quantitative survey of around 3600 parents, followed by 60 in-depth qualitative interviews. It was carried out by Ipsos, who were recruited by HMRC following a standard tendering process.
+
+Building on previous research, this project further explored the role Tax-Free Childcare (TFC) has in decisions around work preference and labour market retention. It offers a high-level comparison of existing users and eligible non-users, to better understand the role and importance of TFC in making childcare decisions.
+
+The survey found that TFC impacted the hours worked by some parents. TFC was one contributing factor to parents’ work decisions alongside childcare choices, work arrangements and overall household finances. The extent to which TFC impacted work hours varied based on personal, work and financial circumstances.
+
+The research has resulted in a better understanding of the usage of TFC and the role it plays in supporting parents with their decisions around work. It has begun to build the evidence base for the role of TFC in the context of the new expanded free childcare hours offer announced at Spring Budget 2023.
+
+Please see published findings here.
+
+Quantifying the impact of Tax-Free Childcare on labour supply by using RTI and self-assessment data [HMRC]
+
+The focus of this project was a large-scale quantitative evaluation of Tax-Free Childcare (TFC) to understand its impact on labour market outcomes.
+
+This project allowed HMRC to build the capability to carry out complex data linkage, matching TFC, Child Benefit, PAYE income data and self-assessment income data to provide insights on the labour market impacts of TFC. This allowed detailed understanding of the demographics and income levels of the TFC user population for the first time.
+
+This publication in April 2026 examined how Tax-Free Childcare supports labour market participation for mothers from pregnancy to childbirth and following maternity leave. The analysis found that mothers using TFC are more likely than non-users to return to work following childbirth and return to working hours from before pregnancy. However, it cannot be inferred that TFC was the cause of this higher labour market engagement.
+
+This project is supporting the Department for Education in their evidence and evaluation work of the Early Years Free Childcare expansion to 1-2-year-olds.
+
+Endometriosis and labour market outcomes in women in England [ONS]
+
+This evaluation used ONS linked datasets (Census, hospitalisation, and tax records) to quantify the impact of endometriosis on women’s labour market participation and progression using population level data in England for the first time.
+
+The evaluation quantified the impact of having a diagnosis on labour market outcomes and estimated the loss of productivity due to delays in diagnosis. This work can inform scalable policy change for health interventions to support earlier diagnosis and treatment for women living with endometriosis.
+
+The first publication in December 2024 looked at the prevalence of endometriosis at the population level, and the characteristics of people with diagnoses. Using 2011 Census data linked to hospital records from 2011 to 2021, the analysis estimated the prevalence of an endometriosis diagnosis to be approximately 2% of reproductive age women in the linked population, with an average age at diagnosis of 35 years. However this is likely an underestimate of the true prevalence, as many women will not have a diagnosis.
+
+The second publication in February 2025 looked at the impact of an endometriosis diagnosis on monthly employee pay and employee status, and found a statistically significant average decrease in monthly earnings among women aged 25 to 54 years from one to five years after diagnosis, compared with the two-year period before being diagnosed with the condition. The probability of being a paid employee statistically significantly decreased (by 2.7%) after diagnosis for the same timeframes.
+
+National labour market outcomes of bariatric surgery and diabetes prevention programmes [ONS]
+
+This study assessed the labour market outcomes of two interventions aiming to prevent the development of diabetes:bariatric surgery (a medical procedure) and the NHS Diabetes Prevention Programme (DPP) (a public health intervention).
+
+To estimate the effect of these interventions on employment and earnings, the study combined anonymised electronic health records with data from HMRC, using the Office National Statistics secure analytical platform. The study also analysed the inequalities in access to these interventions and quantified the potential labour market impacts of increasing service provision.
+
+The first publication focusing on bariatric surgery found a sustained increase in monthly earnings from six months to five years post-surgery which was largely driven by people entering the workforce.
+
+A second publication is due in December 2025, following an agreed extension to the final work package with University of Leicester.
+
+Partnering with job boards to test employer/employee interventions to assess impact on LM outcomes [DBT]
+
+Flexible working arrangements are important in supporting labour market participation, yet job adverts frequently fail to communicate this employment benefit effectively. To address a gap in recruitment strategy, the Behavioural Insights Team was commissioned to carry out a randomised controlled trial on Indeed’s recruitment platform.
+
+The trial tested whether enhancing the visibility of flexible work arrangement through a ‘flexible schedule’ badge on sponsored adverts would attract more job applications. Outcomes were compared between the intervention group, where applicants saw the badge, and a control group, where applicants did not see the badge. Although there was a small increase in advert views (0.5%), the trial did not find a statistically significant increase in application rates within the intervention groups.
+
+The report is due to be published in Winter 2025.
+
+Testing the effectiveness of flexible working information and personalised career support to help recent parents return to work [DBT]
+
+Parents, and particularly mothers with young children, face challenges re-entering the labour market. A common barrier to a prompt reintegration into work following the birth of a child is limited workplace flexibility.
+
+Recognising the substantial economic and social benefits of supporting mothers to (re-)enter employment after having children, the Behavioural Insights Team conducted a randomised controlled trial to evaluate the effectiveness of two interventions: (1) government letters signposting to information on flexible working rights and (2) personalised career support sessions on return to work for recent parents.
+
+Overall, the trial found no statistically significant effects of either intervention on parents’ workforce (re-)entry rates six months after intervention delivery. In addition there were no significant differences in workforce (re-)entry rates between mothers and fathers. However, the take up of the career support sessions exceeded targets and parents in the support session group found the support provided to be highly valuable.
+
+The report is due to be published in Winter 2025.
+
+Improving recruitment and retention through targeted HR support to small businesses [DBT]
+
+A previous pilot by the Chartered Institute of Personnel and Development (CIPD) demonstrated the potential value of bespoke HR support on workplace relations, productivity, and financial outcomes. However, it remains unclear whether providing HR support to SMEs can have a positive impact on recruitment and retention of individuals at higher risk of economic inactivity.
+
+The Behavioural Insights Team was commissioned to carry out a randomised controlled trial to evaluate the effectiveness of 1-2 days of bespoke HR support on recruitment and retention of individuals at higher risk of economic inactivity. Due to low take up of the offer from the SMEs the design was pivoted to a mixed methods Implementation and Process Evaluation (IPE) consisting of interviews with SMEs, HR consultants and delivery partners (local authorities and CIPD) to explore perceptions of short-term HR support for SMEs. Analysis of project data was also carried out to inform lessons learnt on take-up and engagement from businesses.
+
+The IPE found that SMEs perceived the HR support as helpful for developing formal employee policies, improving hiring practices, and ensuring compliance with employment law changes. The 1-2 days of HR support was seen as effective in addressing immediate recruitment issues, but less useful for addressing more systematic recruitment challenges which would require longer-term support. The findings will be used to inform future policy initiatives and strategies to support SMEs.
+
+The report is due to be published in Winter 2025.
+
+WCMA Rent Support Pilot, offering work incentives for young people in social housing [DWP]
+
+DWP and the West Midlands Combined Authority have developed the Rent Simplification and Support Proof of Concept (PoC) to help young people living in supported housing make a transition into work and move-on accommodation. The project tested financial support and simplification of the benefits system for 18-24 year olds living in commissioned supported housing who increased their earnings. Participants paid a proportion of their rent from their earned income, and the balance was met by a top up payment of at least 87% for up to 6-months, enabling them to build their employment prospects further and work towards becoming financially independent.
+
+Take-up of the Rent Simplification and Support offer was low, insufficient for quantitative evaluation. Interviews with key stakeholders pointed to mixed views about the offer. Some felt that the duration and amount of the top-up payments were insufficient, while others felt positively about the offer. Interview responses included that work behaviour of participants was largely unchanged and work progression short-lived.
+
+The PoC has provided valuable learnings on supported housing and the challenges faced by young people considering entering work or increasing earnings. Evidence obtained from the PoC will be used to inform future policy making and in supporting wider discussions on pilot opportunities and local activity, which would enable further research into effectiveness of different work incentive measures for this group.
+
+Job Plus Pilot - offering intensive employment support and wrap-around support, combined with work/rent incentives [DWP]
+
+Jobs Plus aims to improve employment outcomes in social housing communities, which can suffer from high levels of disadvantage. For example, social housing residents are nearly twice as likely to be out of work as those in other tenures. This is linked to associated disadvantages – they are more than twice as likely to be disabled, and more than three times as likely to be lone parents or to have no qualifications.
+
+The Jobs Plus model originates from the US where there have been strong, sustained results since the 1990s. The National Learning and Work Institute was commissioned to test whether and how Jobs Plus can work in the UK context.
+
+Ten pilot sites went live in Summer 2024. DWP committed additional funding to enable a longer-term evaluation beyond the lifespan of the Labour Markets Evaluation and Pilots Fund. An implementation and process evaluation is due in Summer 2025, with a first impact evaluation due in Spring 2026.
+
+Round 2 Funded projects (awarded December 2023)
+
+Childcare deserts and oases: how the childcare reforms programme supports parental engagement with local labour markets [Ofsted]
+
+This project evaluated the rollout of increased free childcare provision announced at Spring Budget 2023 to understand (1) whether parents in some parts of the country will continue to be under-served by childcare and (2) the potential influence of the expanded childcare entitlements on local labour market participation.
+
+The project has transformed disparate cross-government and commercial data into novel insights on the everyday experiences of parents seeking nurseries or childminders. It has provided a hyperlocal view of childcare access across 180,000 neighbourhoods in England, using a two-step-floating-catchment model to account for local transport connections and the population of local children. An interactive tool has been published to inform the childcare market of “deserts” at a very granular level, and another interactive visual shows local area change in childcare accessibility since March 2020. Findings of the project are summarised in a research report.
+
+Mitigating displacement effects and improving labour market productivity through developing AI skills [DSIT]
+
+The Flexible AI Upskilling Fund (FAIUF) was an initiative aimed at providing matched funding grants to Small-Medium Enterprises (SMEs) in the Professional Business Service (PBS) sector. The goal was to enhance their employees’ AI-related skills, addressing barriers to AI adoption and improving productivity.
+
+The project was launched in April 2024 with the aim to support training for approximately 4,300 employees across 2,000 businesses. However, the demand was significantly lower than expected, resulting in 327 successful applications.
+
+Overall, the FAIUF provided insights into the needs of SMEs regarding AI training and the challenges they face in adopting AI technologies, which can inform future initiatives aimed at enhancing AI skills within the workforce.
+
+Key findings from the process evaluation, carried out by Ipsos, are that (1) lower-than-anticipated demand for the fund was due to low awareness among eligible SMEs, though professional bodies and newsletters were the most effective when engaging firms; (2) there was a need to provide guidance and support to help businesses identify relevant training programmes; (3) the matched funding model was effective in promoting investment in AI skills; and (4) financial barriers still posed challenges for some smaller firms to invest in AI skills training.
+
+An impact evaluation is ongoing and is expected to report in 2027.
+
+Relationship between musculoskeletal diagnosis and surgery and employment status and income using national linked data [ONS]
+
+This study aimed to better understand the labour market effects of experiencing musculoskeletal (MSK) conditions and of receiving orthopaedic surgery in people with MSK conditions, and whether these effects differ by socio-economic characteristics.
+
+The study used population-level data to characterise the relationship between MSK conditions and labour market variables such as employment status, earnings and working hours, and evaluate the labour market outcomes of receiving MSK surgery, by linking national census data to health and employment records. This work was delivered in collaboration with the University of Leicester, the University of Southampton, and NHS England.
+
+Publication of findings is expected in 2025.
+
+Kirklees Better Outcomes Partnership (KBOP): understanding the effects of person-centred service reforms in housing support [DWP and DCMS]
+
+The evaluation focused on the Kirklees Better Outcomes Partnership (KBOP), an outcomes-based housing support programme delivered in Kirklees, England. KBOP aimed to improve outcomes for adults with housing-related support needs through education, training and employment, accommodation, and health and wellbeing.
+
+KBOP was designed to address persistent challenges of fragmentation and short-termism in support provision. By replacing prescriptive service specifications with a more flexible, person-centred and asset-based approach, the programme aimed to better meet the needs of individuals and achieve a broader set of social outcomes.
+
+Through a quantitative impact evaluation and cost-effectiveness analysis, the evaluation explored whether these person-centred reforms led to improved labour market and housing outcomes, compared to more conventional housing support services. The evaluation was carried out by the Government Outcomes Lab of the Blavatnik School of Government in Oxford.
+
+The impact evaluation, published in August 2025, demonstrates that the KBOP intervention was associated with increased labour market engagement among participants. Individuals receiving support through KBOP were, on average, 3% significantly more likely to either sustain pre-intervention employment or begin a new job within the first six months of programme entry, relative to matched pre-KBOP participants. KBOP participants were significantly more likely to sustain non-receipt of the Universal Credit’s Housing Element (UCHE) for up to eighteen consecutive months post-intervention, with effect sizes ranging from 6% to 10%. The cost-effectiveness analysis shows that KBOP was more effective and less costly per unit of outcome achieved.
+
+Systematic evidence review on what works for disadvantaged groups in supporting them into employment [DWP]
+
+This DWP-led project aimed to better understand what works in supporting those from disadvantaged backgrounds move into employment. It used a robust systematic evidence review approach to synthesise both UK and international evidence on this topic.
+
+“Disadvantaged groups” covers those who have multiple complex needs, including ex-offenders, homeless, care leavers, and those with substance misuse problems. These groups face significant and sometimes multiple barriers to accessing support and moving into work. They also often experience other disadvantages associated with their life experiences, such as poor mental health, domestic abuse and childhood trauma, and are less likely to be in employment.
+
+Findings from this review will be used by DWP and other government departments to develop tailored policies and services for these groups. This project was supported by the Ministry of Housing, Communities & Local Government, and the Ministry of Justice.
+
+DWP published the review in July 2025.
+
+STEP Ukraine Evaluation [MHCLG]
+
+In 2023, MHCLG launched the STEP Ukraine programme as part of a package to support Ukrainian guests to become more economically independent through English language and employment interventions. The programme was delivered by World Jewish Relief and the British Council to 7,805 Ukrainians across the UK.
+
+Unlike traditional support programmes, STEP Ukraine took a novel approach to intervention by providing a service that was intensive, flexible and completely remote. Participation consisted of 10 weeks of daily online English classes and 12 weeks of employment support with a dedicated employment advisor.
+
+MHCLG commissioned Alma Economics and RAND Europe to conduct an impact evaluation to determine whether the programme was effective at improving English language and employment outcomes, an economic evaluation to determine whether the programme was good value for money, and a process evaluation to determine whether the programme was delivered as intended.
+
+A publication reporting on the results of the impact evaluation, the economic evaluation, and the process evaluation is expected in early 2026.
+
+Round 3 Funded projects (awarded May 2024)
+
+Labour market outcomes of NHS Talking Therapies [ONS]
+
+The NHS Talking Therapies (NHSTT) for anxiety and depression programme was developed to improve the access to evidence-based psychological therapies for depression and anxiety disorders. In 2021/22, nearly 1.2 million people accessed the service. Poor mental health is widely thought to be a driver of economic inactivity and affecting earnings among people who are in work, by affecting the number of hours people can work as well as career progression.
+
+This project estimated the long-term impact of completing NHSTT on labour market outcomes. The ONS published an analysis of the impact of completing NHS Talking Therapies on employment and earnings. The likelihood of being a paid employee increased by 1.5 percentage points seven years after starting treatment. The analysis found a maximum average increase in pay of £17 per month two years after completing treatment. The impacts were greatest in those who were not working but seeking work (3.1p.p. increase after 4 years) and younger adults aged 25 to 34 years (2.3 p.p by year seven).
+
+Further analysis is ongoing and will be published after completion. This further work is an analysis of the impacts of completing NHSTT on benefits receipt, health care utilisation and tax paid. The findings of this will complement the analysis already completed assessing the economic impact of NHSTT in England and will help to inform future spending on the NHSTT service for supporting people back into work with mental ill-health.
+
+This work is available as a pre-print and as a discussion paper on the Centre for Economic Performance website. An academic paper will be published in due course.
+
+Labour market outcomes of major adverse cardiovascular events and the NHS Health Check [ONS]
+
+Cardiovascular disease is a leading cause of death and disability in England, including in the working age population, and after musculoskeletal and mental health disorders is the most-cited health issue among those who are economically inactive for reasons of ill-health.
+
+The project linked health and earnings data to understand the relationship between major adverse cardiovascular events in secondary care and labour market outcomes. Events in scope included stroke, heart failure and myocardial infarction between 2014-21. The project also tried to estimate the impacts of NHS Health Checks on MACE prevention.
+
+The report is expected to be published in 2025.
+
+Labour Market outcomes following adverse events in pregnancy and child birth [ONS]
+
+The project aimed to estimate the labour market effects of adverse pregnancy events on parents by linking 2014-2021 births data to hospitalisation records, census data, and earnings data to understand the labour market impact of adverse pregnancy events on both mothers and fathers/partners. Events in scope included late miscarriages, ectopic pregnancies, molar pregnancies, stillbirths and neonatal deaths.
+
+Outcomes were compared to two additional groups: a live birth cohort of mothers who have had a live birth but no record of an adverse event and a control group of women who have no record of a live birth or an adverse event. The analysis was broken down by socio-demographic characteristics where possible.
+
+Key findings from the published report are that following an adverse pregnancy event, earnings were lower for at least five years compared with a year before the event, with an average total loss ranging from £3,511 following a missed miscarriage over this period to £13,581 following a stillbirth. Following an ectopic pregnancy, earnings were lower for at least three and a half years after the event, with an average total loss of £2,040 in this period. The probability of employment had returned to pre-event levels by two years after a stillbirth and a neonatal death, one and a half years following a missed miscarriage or an ectopic pregnancy, and one year after a spontaneous miscarriage. The project provides valuable insights into the impact of adverse childbirth events on labour market outcomes and will inform future policy.
+
+UK Transport Deserts and their influence on local employment estimates [ONS]
+
+This project was led by the ONS Data Science Campus and examined the relationship between transport and employment, assessing effects at a subnational level.
+
+The project delivered a code base allowing users to estimate transport accessibility at a subnational level to a fine spatial scale, alongside a dataset on transport accessibility and employment.
+
+The exploratory analysis found clear disparities in job accessibility across the country. This includes accessibility differences by both mode of transport and types of job. Beyond initial analyses at a high spatial granularity, future iterations of this work would also yield longer term benefits including monitoring job accessibility over time and evaluating specific transport and labour market policy interventions across the country.
+
+A systematic evidence review of the link between skills and productivity [Cabinet Office]
+
+Alma Economics were commissioned to carry out an evidence review looking at the link between skills and productivity, particularly in the public sector.
+
+The review found strong evidence for a positive association between skills and productivity. Preliminary findings suggest that the relationship between skills and productivity tends to be stronger in high-skilled sectors, such as public administration, health and social work. Productivity also appears to increase when workers’ existing skills are fully utilised in their jobs. The findings also suggest that workplaces with more innovation exhibit stronger skills-productivity relationships. Better management practices strengthen the skills-productivity relationship.
+
+The research report was published in July 2025.
+
+An experimental evaluation of the Digital Excellence Programme [Cabinet Office]
+
+This project was a pilot randomised control trial of the Digital Excellence Programme (DEP), an online training programme primarily targeted at Senior Civil Servants. The aim was to test the feasibility of running similar experimental evaluations of digital upskilling and other training in the future. ICF Consulting Services Ltd were commissioned to carry out the project.
+
+Preliminary findings suggest that the DEP produced a positive effect overall as well as for each individual training module (Data Culture, Digital Culture and AI Confidence) on behaviours and attitudes, although not on a new measure of self-reported productivity. Effect size estimates were found to range considerably.
+
+The report is expected to be published in September 2025.
+
+A systematic review of the features of effective learning and development design in a Civil Service context [Cabinet Office]
+
+Alma Economics were commissioned to deliver a systematic evidence review of the external evidence on ‘what works’ in learning and development design to drive Civil Service knowledge, skills, performance and productivity.
+
+The review found that professional development has a positive impact on skills in the Civil Service. Most studies show some positive effects on knowledge, skills, performance, or productivity. The review also found that combining professional development methods, especially interactive ones like peer coaching or workshops, tends to be more effective than using just one professional development method.
+
+The findings were used to develop a taxonomy for practitioners which focuses on the specific mechanisms identified in the research that are likely to drive change. This will be used to support evidence-based learning design as part of the new operating model for skills.
+
+The final report was published in July 2025.
+
+Systematic evidence review of implementing labour market interventions for sick-listed workers in the public sector [Cabinet Office]
+
+Chronic health conditions contribute significantly to sickness absence and lead some working-age people to leave work. Not all interventions targeted at workers with chronic health conditions lead to improvements in health, performance, or employment. The impacts of interventions depend on how well they are managed and delivered.
+
+This evidence review focuses on understanding how effective programmes for workers with chronic health conditions are implemented and what factors are associated with effective programmes.
+
+The review highlights that success depends on facilitating factors like supportive government policy, positive attitudes from staff delivering initiatives, and effective management that co-ordinates teams and services.
+
+Quasi-experimental reanalysis of Randomised Controlled Trials [DWP]
+
+Quasi-experimental (QE) methods are used widely across DWP for major impact evaluations including Universal Credit, the various New Deals, the Future Jobs Fund, and the Work Programme. By comparing results from QE methods to results from randomised controlled trials (RCTs) conducted by DWP, this project aims to produce evidence of the comparative robustness of QE methods in a DWP context.
+
+This project is ongoing.
+
+JobStart 50+ Employability Pilot [Department for Communities (Northern Ireland) & Northern Ireland Office]
+
+This pilot employment scheme supported 180 economically inactive people aged 50+ in Northern Ireland into employment. It was based on the design of the existing JobStart Scheme in Northern Ireland, with some features of the Kickstart Scheme in Great Britain.
+
+The programme provided 6-month JobStart job opportunities to economically inactive people and reimbursed employers 25 hrs/week at National Living Wage rates equivalent. It also paid employer national insurance and pension contributions, in addition to offering £1,000 per placement to support onboarding and meet the cost of additional training needs. Work placements were in the Private, Public and Third Sectors across Northern Ireland.
+
+The project will continue to be used to inform future policy in Northern Ireland. An independent evaluation report has been completed by the University of Ulster (Epic Futures Project).

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about the right-to-buy scheme — a policy that governs tenants' ability to purchase social housing units — and its reform to protect the social housing stock. The core economic content is about social/public housing supply, ownership rules, and the stock of publicly provided housing.\n\nThe specific mechanism: restricting the right of social housing tenants to purchase their homes (right-to-buy), particularly for newly built homes, to preserve the social housing stock.\n\n- **R3** (Real Estate Markets) fits well — this is about housing stock, ownership transitions, and real estate policy.\n- **H4** (Publicly Provided Goods) is also relevant — social housing is a publicly provided good, and the policy is about preserving that public stock.\n\nPrimary: **R** (Urban, Rural, Regional, Real Estate, and Transportation Economics — specifically housing stock and real estate policy)\nSecondary: **H** (Public Economics — publicly provided housing stock)\n\n```json\n{\"primary\": \"R\", \"secondary\": [\"H\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

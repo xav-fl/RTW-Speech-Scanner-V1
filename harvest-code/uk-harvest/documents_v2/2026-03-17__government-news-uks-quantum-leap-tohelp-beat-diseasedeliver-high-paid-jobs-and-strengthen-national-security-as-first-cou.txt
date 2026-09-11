@@ -1,0 +1,181 @@
+Raft of support worth up to £2 billion to establish the UK as a world leader in Quantum, from skills and talent to research and procurement programmes.
+
+UK aims to become first country in the world to commit to making and deploying  Quantum computers at scale by the early 2030s, ushering in a new era for computing which could add £200 billion to the economy by 2045
+
+A defining technology of the future, Quantum will deliver better drugs and treatments, greener energy, and protect people’s finances and national security
+
+The next step in the UK’s plans for Quantum technology will help deliver personalised treatments, potential cures for diseases, safeguard our national security and deliver high-paid jobs – revolutionising the health and wealth of hardworking people across the UK and delivering on the government’s Modern Industrial Strategy.
+
+A pioneering programme worth up to £2 billion of government investment announced by the Technology Secretary and the Chancellor today (Tuesday 17 March), will ensure the UK stays at the forefront of Quantum innovation. The UK will  become the first country to benefit from revolutionary Quantum computers, sensors and networks, and support the emergence of the next generation of leading British companies who will help shape the curve of progress.
+
+Quantum is technology’s next great generational leap and will rival AI as the defining technology of the future. While a traditional computer solves problems using a one-by one approach, a Quantum system explores thousands of potential answers at once -slashing the time it takes to reach a solution. That will accelerate how we can drive growth, investment, and national renewal for future generations, delivering new, life-changing breakthroughs in the process.
+
+As of today, the UK is the first country in the world to commit to an advanced procurement to build large-scale quantum computers on our shores by the early 2030s. Joining R&D, manufacturing, software, hardware and procurement into a single programme, we will be world leaders in developing and deploying large-scale Quantum computers.
+
+These systems will be built in Britain – creating British jobs, new opportunities for British businesses, and opening new routes of investment to flow into our economy from all over the world.
+
+Technology Secretary Liz Kendall said:
+
+> I am determined this country grasps the benefits will Quantum computing will bring. It is only by keeping pace with technological progress that we can deliver the high-paid jobs, cutting-edge public services, and innovations which change lives.
+
+> Today’s announcements are an investment in our future - unlocking better health, wealth, and more opportunities for communities across the country.
+
+> This government is ushering in a Quantum leap - making the choice today to back UK scientists, companies, and innovators so we can deliver a future that works for all.
+
+This first of its kind procurement programme, ”ProQure:Scaling UK Quantum Computing” will launch next week, where companies will be invited to table proposals to partner with us to deliver state of the art prototypes for evaluation.
+
+Prototypes will then be assessed, with the most promising companies invited to deliver larger scale machines for use by scientists, researchers, the public sector, and businesses, as part of our national computing infrastructure - transforming the UK into a hotbed for the latest, cutting-edge Quantum technology.
+
+This will also accelerate growth of the UK’s already thriving Quantum industry-supporting homegrown firms as they scale-up and grow while building an environment which encourages private backers from around the world to pour money into the sector, capturing everything from hardware, processors and manufacturing through to sustained investment in UK supply chains.
+
+Estimates show Quantum could boost productivity by 7% in the next 2 decades, creating more than 100,000 jobs in the process. That would mean £212 billion worth of economic impact – the equivalent of adding the combined annual GDP of Wales and Northern Ireland.
+
+The technology is already being put to work across the country, with Q-BIOMED researchers at the University College London exploring wearable brain scanners to support people suffering from epilepsy.
+
+Laying the foundations which will give the UK a rich pool of Quantum talent, the government’s flagship TechFirst programme will launch new partnerships with companies in the sector – offering up to 100 fully funded internships. This will give people the tools they need to embark on future, high-paying careers in the field.
+
+The UK is already a global powerhouse in the technology, launching a first of its kind National Quantum Technologies programme in 2014 which has already been backed by more than £1 billion in public funding to support skills, research, and infrastructure. Our credentials as a global magnet for private investment are also thriving. Coinciding with today’s announcements, several global companies are announcing technical breakthroughs delivered in the UK, as well as new and recent investment commitments including:
+
+Infleqtion have delivered a 100qubit quantum computer at our National Quantum Computing Centre, marking a significant step forward in developing large-scale systems for operational capability
+
+Vescent has selected the UK’s National Physical Laboratory for its next office outside the US, backing worldleading talent and expertise across UK institutions
+
+IonQ have formed a major strategic research partnership with Cambridge University. This will create the IonQ Quantum Innovation Centre, hosting IonQ’s most advanced 256-qubit computer, accelerating research and discovery in the UK
+
+The raft of measures set out today not only lay the foundations for new investment, jobs, and improved public services across the country, but cement the UK’s position as a global leader in the emerging technologies which will shape the future.
+
+Notes to editors
+
+In addition to the £1 billion for procuring large scale quantum computers, the investments announced today include:
+
+Over £1 billion over the next 4 years to support our leading companies and researchers to put Quantum into action by investing at scale in technology development, skills and facilities. Specifically:
+
+over £500 million dedicated to Quantum computing - helping companies scale and develop new uses for the technology in areas like pharmaceuticals, financial services, and energy
+
+over £400 million to support breakthroughs in sensing and navigation and the skills and infrastructure needed to bring these technologies to market
+
+dedicated funding of £125 million for Quantum networking and £205 million for Quantum sensing and navigation to ensure we are poised to accelerate innovations in medical diagnostics, greenhouse gas monitoring, and ultra-secure communications. This will transform our ability to diagnose and treat medical conditions like childhood epilepsy and potentially Alzheimer’s in the years to come – transforming outcomes for patients
+
+an extra £13.8 million injected into the UK’s 5 National Quantum Research Hubs delivered by UK Research and Innovation, with researchers working in healthcare, clean energy, and national security projects among the first to get access to the most powerful technology in the world
+
+fresh support for the Quantum Software Lab based in Edinburgh will accelerate the discovery of new applications for Quantum computers in sectors such as financial services, life sciences and advanced manufacturing
+
+an additional £90 million to fund quantum infrastructure and meet the scaling needs of industry along with £20 million in skills and commercialisation programmes.
+
+Supporting commentary:
+
+Professor Charlotte Deane, UKRI Senior Responsible Owner for Quantum, said:
+
+> Quantum technology holds transformative potential across everything from healthcare and renewable energy to national security and defence.
+
+> Today’s announcement signals a shift in pace towards turning research into commercial deployment that delivers meaningful benefits for people across the country.
+
+> It reflects years of sustained government and UKRI investment in the UK’s quantum research base and the nurturing of exceptional talent, skills and partnerships that have made this moment possible.
+
+Philip Intallura, HSBC Group Head of Quantum Technologies, said:
+
+> Quantum computing is moving from promise to practical impact - unlocking new computational capabilities that can help solve complex realworld problems.
+
+> It will also reshape how we think about cybersecurity, making it vital that we invest now in quantumsafe approaches. It’s encouraging to see the UK government backing the skills, research and scale-up needed to turn world-class science into deployable capability and long-term economic growth.
+
+Dominic O’Brien, QCi3 Hub Director, said:
+
+> The QCi3 Hub is excited about the opportunities to engage with industry, work with the other hubs, and support the delivery of the UK mission to enable large scale quantum computers by the mid 2030s. The ACF will allow us to support additional research collaborations that will accelerate this mission, with the potential to support startups, collaboration with industry, and ultimately reinforce the UK’s position as a leading quantum economy.
+
+Gabriela Styf Sjöman, Managing Director Research and Commercialisation, BT Group said:
+
+> Quantum technologies will transform science, industry and society – and this investment puts the UK firmly at the forefront.
+
+> BT is proud to be building the quantum secure networks and next generation quantum networking infrastructure that will underpin our digital sovereignty, strengthen national resilience, and power the UK’s leadership in the quantum internet age.
+
+> We look forward to working closely with government and partners across industry to drive this ambitious agenda forward.
+
+Professor Sir John Aston, Pro-Vice-Chancellor for Research at the University of Cambridge said:
+
+> This week’s announcement of a new partnership between IonQ and the University of Cambridge to establish a Quantum Innovation Centre is a strong example of how the UK can translate world-leading science into commercial capability.
+
+> By bringing IonQ’s next-generation quantum systems and cloud platform together with Cambridge’s research expertise, the centre will accelerate innovation across computing, networking, sensing and cybersecurity, while helping train the next generation of quantum scientists and engineers.
+
+> Partnerships of this kind, combining global technology leaders with Britain’s world-class universities, are exactly how the UK ensures quantum technologies move from the laboratory into real-world use.
+
+Professor Elham Kashefi, Principal investigator at the Quantum Software Lab and Chief Scientist for the National Quantum Computing Centre said:
+
+> To turn this unprecedented hardware investment into provable economic impact, QSL will launch the UK’s first Full-Stack Feedback Loop, serving as the software engine that translates fundamental theory into verified applications.
+
+> Through daily co-creation between our researchers, hardware vendors, and industry end-users on national testbeds, we are ensuring that software doesn’t just run on these new quantum machines, it actively drives their design and utility forward.
+
+Jonathan Legh-Smith, Executive Director, UKQuantum, said:
+
+> The UK has long been at the forefront of turning quantum research into commercial reality. Sustained investment from UK government and industry has transitioned our world‑class science into world‑leading companies.
+
+> Today’s announcement strengthens our national position, accelerating the scale‑up of UK quantum firms, driving adoption across our industrial base, and reinforcing the UK as the leading global nation for quantum technologies.
+
+Sue Daley OBE, Director of Technology and Innovation, techUK said:
+
+> Today’s quantum announcements are a significant step forward. Prioritising skills, investment in quantum applications, and leveraging world-leading research and technical capability will help scale the sector and strengthen the UK’s end-to-end quantum pipeline.
+
+> The commitment to government procurement of quantum computers is a particularly important signal as it gives industry the confidence to invest and grow here in the UK. We look forward to working with UK government to ensure this investment translates into lasting advantage for the UK’s quantum sector and the wider economy.
+
+Vinous Ali, Deputy Executive Director, Startup Coalition, said:
+
+> With AI, the UK has proven that its size has no bearing on its ambition or impact when competing against technological giants like the US and China. It is fantastic to see us doing the same in quantum.
+
+> This announcement signals not only the government’s intent on quantum technologies, but a genuine shift in how it procures from and supports British startups. Procurement is the single biggest lever government has for pulling innovation through to scale, and it is great to see that recognised so explicitly here.
+
+Professor John Morton, Q-BIOMED Principal Investigator and Co-Director, said:
+
+> This major new investment in the UK’s quantum ecosystem represents a leap in ambition to unlock the potential economic and societal impacts of quantum technology.
+
+> At Q-BIOMED, this funding will accelerate our work on translating breakthrough quantum science into technologies that can transform healthcare through earlier diagnosis, enabling better treatment decisions and improved patient outcomes. We’re proud to be part of a visionary national effort that is shaping the future of quantum innovation.
+
+Professor David Cumming, Director of the UK Hub for Quantum Enabled Position, Navigation & Timing, said:
+
+> As leaders of research in developing quantum navigation systems and resilient quantum timing technologies, the QEPNT Hub, led by University of Glasgow, is delighted to receive funding to accelerate the translation of our technology by strengthening industry partnerships, developing UK supply chains, and exploring applications to benefit the UK economy and infrastructure.
+
+> Quantum timing technologies are being developed by the Hub to create alternatives to Global Navigation Satellite Systems (GNSS), which are vulnerable to jamming and spoofing. These technologies offer superior stability and precision, essential for securing critical infrastructure such as electricity grids, financial transactions, telecommunications, and transport networks.
+
+Professor Gerald Buller, IQN Hub Director said:
+
+> This exciting new support will ensure that the UK enhances its position as a leader in the development of quantum-secured communications and the future “quantum internet.
+
+> Today’s announcement will allow researchers in the EPSRC Integrated Quantum Networks Hub, together with our industry and governmental partners, to continue to lay the foundations for our future national security needs and supercharge the impact of new quantum computing and quantum sensing technologies.
+
+Michael Holynski, Principal Investigator for the UK Quantum Technology Hub in Sensing, Imaging and Timing (QuSIT) said:
+
+> QuSIT is driven by the need to translate quantum sensing, imaging and timing technologies into practical solutions to important end-user problems.
+
+> Our researchers have made critical advancements in technologies that support national priorities across infrastructure, health, transport, green energy, and beyond. These include wearable scanners that give new insights into brain health, imaging systems that can pinpoint greenhouse gas leaks and quantum sensors to see what is hidden below the ground.
+
+> To turn our research into widely available products and services, we have created and grown 14 spinouts and a network of established enterprises. The Hub is positioned as an engine for fostering economic growth and delivering elements of the government’s Modern Industrial Strategy. I am excited by this new government investment. It will enable us to further accelerate the delivery of these technologies at scale in real-world applications and support our commitment to make quantum technologies a driver for economic and societal benefit to the UK.
+
+Dr. Manjari Chandran-Ramesh, Partner, Amadeus Capital and SAB member, said:
+
+> This is a welcome announcement, and it aligns well with the UK’s ambition to be the home of quantum technology companies—headquartered here or building here.
+
+> The last decade has positioned UK with real strengths: world-class research, deep talent, translational funding, government procurement, end-user engagement and private capital. Put together, that’s an ecosystem with genuine depth, and this announcement helps to reinforce the UK’s position as a serious place to build and deploy quantum at scale – not just discovery.
+
+Tom Grinyer, Chief Executive, Institute of Physics, said:
+
+> It’s welcome to see continued ambition — and new investment — to ensure the UK remains one of the world’s leading centres for quantum research and innovation. This is a sector built on decades of sustained physics discovery and today’s announcement signals a commitment to keep that momentum going. The physics-driven Quantum revolution in computing, sensing, imaging and communications is set to transform sectors as diverse as healthcare, transport and finance and drive economic growth for generations to come.
+
+Professor Andrew Morris CBE FRSE PMedSci, President of the Academy of Medical Sciences, said:
+
+> Quantum sensing could transform how we detect and diagnose disease by enabling earlier intervention in conditions that are difficult to diagnose, offering less invasive alternatives to current tests and helping move care out of hospitals and into the community.
+
+> This £2 billion investment signals real ambition to turn the potential of quantum into practice and aligns directly with the important shift towards prevention and early detection at the heart of the NHS 10 Year Health Plan for England.
+
+> Getting this right means developing quantum technologies in partnership with the clinicians and patients who will use them, so that innovation is guided by real health needs, not technology for its own sake. The Academy’s recent quantum sensing report sets out principles to make this happen – because investment at this scale must deliver real improvements for patients across the UK.
+
+Dr Dame Frances Saunders DBE CB FREng, Chair of the Royal Academy of Engineering’s Quantum Infrastructure Review Working Group, said:
+
+> Today’s announcement recognises that the UK has built a world class foundation in quantum technologies, across sensing, communications and computing, and that scaling technologies and adoption are now matters of urgency alongside continuing innovations that will underpin further development.
+
+> The focus on procurement, commercialisation and applications to attract early users is what is needed at this stage. However, we cannot take our leading position for granted. Infrastructure that industry can access at scale, together with the capital to expand hardware, software development and manufacturing capacity, are also critical to how we accelerate the UK’s progress.
+
+> While the additional £90 million for infrastructure is welcome, it will need to be targeted and sustained to make a material difference, and attract private investment. Other nations are moving quickly - but timely, coordinated action will help the UK convert its leadership in research into leadership in markets.
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

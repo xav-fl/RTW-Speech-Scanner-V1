@@ -1,0 +1,89 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-proposes-approving-north-carolinas-plan-remove-vehicle-emissions-testing",
+ "institution_id": "us-epa",
+ "title": "EPA Proposes Approving North Carolina’s Plan to Remove Vehicle Emissions Testing Requirement in 19 Counties",
+ "date": "2026-05-11",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "654fcc61b97c6452d3d1e4ccaae625ec3d69c4da4db9e8fc0f6e7b8c89cb0f4c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Kevin McOmber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Kevin McOmber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

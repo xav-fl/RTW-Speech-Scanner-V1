@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260421",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers nearly $64K for 8 Austin restaurant workers denied overtime wages",
+ "date": "2026-04-21",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "f7a68a59c737fd32da5aa9a81016686a8530d345dc71f215fd33d11117cf9536",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

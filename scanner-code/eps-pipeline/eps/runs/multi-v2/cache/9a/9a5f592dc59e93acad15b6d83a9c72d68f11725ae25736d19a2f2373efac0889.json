@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about a school funding formula (\"Fair Funding\") that links the size of the funding pot to deprivation and need. The specific mechanism is an intergovernmental/public funding allocation formula tied to socioeconomic need in education.\n\nPrimary: **I2** (Education and Research Institutions — the substance is school funding allocation)\nSecondary: **H7** (State and Local Government / Intergovernmental Relations — the funding formula redistributes across jurisdictions based on need) and **I3** (Welfare, Well-Being, and Poverty — deprivation/need as the allocation criterion has a poverty-targeting dimension)\n\n```json\n{\"primary\": \"I2\", \"secondary\": [\"H7\", \"I3\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

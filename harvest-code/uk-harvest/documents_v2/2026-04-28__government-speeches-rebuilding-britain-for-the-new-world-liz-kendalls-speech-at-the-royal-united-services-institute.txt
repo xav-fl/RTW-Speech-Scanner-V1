@@ -1,0 +1,285 @@
+Introduction
+
+I am delighted to be here at RUSI.
+
+A unique organisation
+
+… with a proud history of leading debates on the security issues of our age
+
+… and with a powerful ambition: to build a more secure, equitable and stable world.
+
+From the revolutionary impact of steam power in the 19th century, to nuclear submarines in the 20th, and the importance of cloud computing for our current defence … you have long argued that technology is a defining feature of national security.
+
+Which is why I’m so pleased to be giving this speech at RUSI.
+
+The age of disruption
+
+I want to start with 2 truths about the world we face today.
+
+First: the geopolitical settlement of the last 40 years has ruptured … and many would argue, is gone for good.
+
+And second: technology is disrupting our economies and societies in ways unimaginable a few years ago.
+
+The fact that these 2 forces should come together at this moment is not a coincidence. Far from it.
+
+They feed and fuel one another.
+
+Geopolitical rivalry is driving the tech boom.
+
+Why has China poured billions into the semi-conductor industry? To catch up. Why does the US invest billions into drones and autonomous warfare? To stay ahead.
+
+When rival countries glimpse a new technology they rush to build it first, so they lay claim to the future.
+
+And the compounding nature of technology means securing a leading edge in one development can inexorably lead to another.
+
+Technology is also driving political discord.
+
+Through the power of algorithms, and the reach of social media, tech and AI are propelling the populist politics that shape our increasingly divided and volatile world.
+
+There’s little point in asking which came first. The technology and geopolitics fuel one another.
+
+And create an age of disruption.
+
+AI: The defining currency of the future
+
+The technology which drives this disruption more than any other is Artificial Intelligence.
+
+I studied history at university; not computer science or engineering.
+
+And what history teaches us is that the nations which pull ahead are those that master the defining currency of their age.
+
+In the past this was the size of your navy, the spread of your railways, the reach of your power grids. The infrastructure for commerce, trade and militarization.
+
+Today the defining currency is AI.
+
+And the countries which harness AI will not only lead the race to cure diseases, discover new materials and create trillion dollar companies … but also build far more powerful militaries.
+
+Put simply, AI is now the engine of economic power and hard power.
+
+And the future is coming at us fast …not in the next few decades but the next few years.
+
+In around 7 years, AI models have progressed from completing tasks that toddlers can do to surpassing PHD level intelligence.
+
+And it is only speeding up, with AI model capabilities now doubling every 4 months instead of every 8.
+
+Extrapolate this trend and by the end of next year AI will be able to complete in hours what would currently take software engineers weeks.
+
+And control of this incredibly powerful technology is becoming increasingly concentrated, with 70 per cent of global AI compute now controlled by just 5 companies - up from around 60% a year ago.
+
+Faced with the power and speed at which this technology is developing we must ask ourselves… how do we make this technology work for Britain and deliver a better, safer future for all?
+
+We must shape this technology, not just be shaped by it.
+
+We must ensure its development reflects our interests and values and plays to our strengths.
+
+And we must be ready to seize the opportunities, as well as build resilience to the risks.
+
+In short, we must have greater control.
+
+AI sovereignty
+
+We are not the only country to be grappling with these issues and the question of AI sovereignty.
+
+Each nation has its own interpretation.
+
+For some it means building the entire AI stack - the energy, chips, data centres, models and applications – to become entirely self-sufficient.
+
+For others it is about creating the right institutions, governance and regulatory oversight of AI, to fit their national culture.
+
+This government believes AI sovereignty is not about isolationism or attempting to pull up the drawbridge and go it alone.
+
+We will continue to use the best technology and welcome inward investment because that is what our public services and economy demand.
+
+For Britain, AI sovereignty is about reducing over dependencies and increasing resilience in key national strategic priorities, as the Prime Minister has rightly argued.
+
+So we secure greater control and greater leverage over the issues that matter most.
+
+And if you want true leverage for your country, you need to be a keystone in the global tech architecture – an indispensable partner.
+
+This requires 2 key shifts in our approach.
+
+First, a decisive move towards backing more British AI companies, especially in areas where we have real strengths.
+
+And second, by working more closely with our international partners, particularly other so-called middle power nations, including on setting the standards for how AI is deployed.
+
+Everyone needs confidence in how AI tools will be used, wherever they are in the world.
+
+Safety and security isn’t to stifle innovation or speed. It is about future proofing what we do, working with our partners.
+
+Because in this increasingly volatile, bi-polar world we believe Britain’s national interests are strengthened, not diminished when we work with like-minded nations.
+
+Backing Britain and British AI
+
+We are already making real progress towards these goals.
+
+Earlier this month I launched Sovereign AI - a major step which I believe will be one of the single most important things this government does to build a better future for our country.
+
+Sovereign AI combines the speed of venture backed by the weight of a nation to seize the opportunities we have right here in Britain: our superb talent pool, world leading universities, vibrant tech ecosystem, and pragmatic not dogmatic approach to regulation.
+
+Sovereign AI will invest £500 million in British AI companies to start up, scale up and win globally … and offer the key to unlocking much wider government support where it makes a real difference.
+
+That means
+
+… providing fully funded access to the UK’s largest super computers, with several companies already on board and thirty more in the pipeline
+
+… fast tracking global talent, with super priority visa decisions in one working day and up to 10 visas for R&D talent completely cost free
+
+… working seamlessly with the British Business Bank and its £2 billion of investment to seamlessly take companies to the next stage
+
+… and mobilising the power of government procurement to back the best of Britain, including £400 million ringfenced by the Ministry of Defence explicitly to support British innovation including cutting edge technologies like AI.
+
+Taken together these steps mark a decisive shift towards ensuring Britain is an AI maker not just an AI taker.
+
+Sovereign AI has already made 2 direct investments.
+
+… in Callosum: a brilliant team building the AI infrastructure of the future…
+
+… and just yesterday we announced our investment, alongside the British Business Bank, in Ineffable Intelligence … founded by David Silver, a world-leading AI scientist and one of the key architects of DeepMind.
+
+And today I can announce we will go further, with a new AI Hardware Plan which I will launch at London Tech Week in June.
+
+The global AI chips market is growing at an annual rate of 30% and expected to reach one trillion dollars in the early 2030s.
+
+If Britain could secure just 5% of this market it would bring fifty billion dollars in revenue to the UK with tens of thousands of high paid jobs in tech.
+
+There are those who say this race is already lost. That it is too late to challenge the dominance of the US or China in AI chips.
+
+But I do not accept such defeatism.
+
+We have a rich history of excelling at hardware.
+
+The first programmable computer. The first electronic memory. The first commercial computer, first parallel computer and the first widely used chip IP model all happened right here in the UK.
+
+ARM’s CPU architecture is the most widely used processor design on earth. In almost every smartphone, tablet and in more and more AI servers all over the world.
+
+And AI compute is rapidly diversifying, with different hardware needed for different tasks. This shift provides real openings for new entrants and specialist hardware that couldn’t have been predicted, even a few years ago.
+
+We’re investing £100 million in ARIA’s scaling compute programme including £50 million for their scaling inference lab, so British startups can test and showcase that their new AI hardware works.
+
+Alongside ARM, we have brilliant new British companies like Fractile, Olix, Lumai, Optalysys and Salience Labs … and we are determined to support even more with our new AI hardware plan.
+
+So yes, this a competitive market. But we are a competitive nation. And I would argue we are better placed than almost any other country to run the race to develop new, quicker, smarter and more energy efficient hardware which is critical for the future of AI and our future prosperity.
+
+Working with our allies
+
+So there is much we are already doing to secure our AI future, right here in Britain.
+
+But there is more we can and must do to build our sovereign capabilities and increase our leverage by working with our allies, especially other middle power nations.
+
+We already have a Strategic Science and Technology Partnership with Germany, including a £6 million joint quantum project.
+
+Last year our Prime Minister and President Macron agreed to build on the Entente Cordiale with a new Entente Technologique.
+
+Our Growth and Innovation Partnership with Canada includes joint work on AI security.
+
+Our Digital Partnership with Japan covers AI, cyber security and data.
+
+And we recently invited foreign ministers from countries including Australia, Canada and the Republic of Korea to discuss the most pressing geo-economic challenges of our age, including technology.
+
+I have been having further conversations with many of my counterparts.
+
+They see the same challenges and opportunities as we do.
+
+The need to build stronger sovereign AI capability.
+
+To shape this AI future, not be shaped by it.
+
+And ensure AI works for all, not just a powerful, unaccountable few.
+
+I believe there are 2 areas where we should now do more, to build complementary strengths and make ourselves an indispensable partner.
+
+The first is jointly investing in parts of the AI value chain where we share an advantage and competitive edge.
+
+Look at our work in another transformative technology - Quantum.
+
+This month I hosted the fifth meeting of the Quantum Development Group: a forum of 13 like minded countries working together to advance the responsible development of quantum technologies, including working together on investment. This is exactly the kind of role we in the UK should be playing in AI.
+
+And second: combining our efforts to boost resilience, including on AI security.
+
+One of Britain’s genuinely world leading strengths is the AI Security Institute (AISI), an organisation I am extremely proud of.
+
+Earlier this month Anthropic announced that their new Mythos model could discover novel cyber vulnerabilities.
+
+AISI tested and verified those claims, and its analysis was widely reported and heralded across the world.
+
+And other models have since shown similar capabilities, like OpenAI’s GPT 5.5 released last week.
+
+At the same time, powerful open-source AI models are rapidly following the frontier.
+
+This trend has profound implications for our national security, our country, and our future.
+
+The UK is in a strong position to deal with these challenges, with both the internationally recognised National Cyber Security Centre (NCSC), and our AI Security Institute (AISI).
+
+Many countries are interested in working with us on these crucial issues.
+
+So in July, at the next meeting of the international network of AI Security Institutes, which the UK Chairs, we will publish best practice on the science of evaluating AI models.
+
+Working with our allies to share our research and experience of model evaluation, build capabilities and strengthen our resilience together.
+
+None of this should be taken as weakening our deep, close and enduring relationship with the US.
+
+Far from it.
+
+We remain committed to the UK US Tech Prosperity Deal - the first of its kind – with all its potential benefits.
+
+But, as the Prime Minister has rightly said, we must step up - in NATO and across Europe - on defence and national security, and a crucial part of this is technology.
+
+Because stronger nations make for better allies.
+
+And that is what we are determined to be.
+
+Conclusion: Rebuilding Britain for the new world
+
+So this is our plan.
+
+Backing British AI.
+
+Building responsible tech, including with our allies.
+
+So we manage the twin pressures of geopolitical and technological disruption …
+
+… and rebuild Britain for the new world.
+
+Indeed I would go further and argue Britain is uniquely placed to lead these efforts …
+
+… because of our huge strengths in AI, and in AI security
+
+… and because this government believes that an active and muscular state is crucial to seizing the opportunities and managing the risks AI inevitably brings.
+
+I want to finish with a wider point, about the political choice I believe we now face.
+
+I know there are many people in this country who are deeply worried about the state of the world, including what AI will mean for their jobs and their children’s futures.
+
+We’ve already heard calls, including in Parliament, to ‘Pause AI ’.
+
+I think doing so would be a double betrayal.
+
+A betrayal of British talent and British interests.
+
+It would send a message that Britain is closed to new ideas and new opportunities. That a country so rich in talent, innovation and enterprise has put an ‘out of office’ sign on its front door.
+
+If we retreat from progress we retreat from the world, leaving this powerful technology to be exploited by other nations to their advantage and our disadvantage.
+
+The choice isn’t between a world that has AI and one that does not.
+
+It is a choice between a world where we shape our AI future, based on our own interests and values, or where we are left at its mercy and whim.
+
+This government is determined to lead our country into a better future.
+
+We have a new generation of patriotic British founders and investors who want to build ambitious and responsible AI, and cement Britain’s unique place in the world.
+
+We have a government that understands the state can move fast and work in different ways – as we have seen with the AI Security Institute and Sovereign AI.
+
+[Redacted political content] We are once again asserting the importance of our international alliances because we know can achieve more together than we can do alone.
+
+We are standing on the cusp of a technological British renaissance.
+
+And these scientists, these founders, and this government will not let it pass us by.
+
+We will seize this moment and opportunity for Britain.
+
+For our economic prosperity, and our national security.
+
+To build a future that works for all.
+
+Thank you.

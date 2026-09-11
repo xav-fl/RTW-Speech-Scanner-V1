@@ -1,0 +1,5 @@
+{
+  "text": "The quotation makes two substantive claims: (1) economic growth depends on an \"active and strategic state\" — a statement about the role of government/industrial policy in growth; and (2) this principle applies specifically to house building — pointing to housing/construction supply policy.\n\nThe specific mechanism named is state-led/strategic intervention in housebuilding to drive economic growth. The primary economic content is housing supply policy (R — Urban, Rural, Regional, Real Estate), with a secondary dimension of growth policy through active state intervention (O — Economic Development, Growth).\n\n{\"primary\": \"R\", \"secondary\": [\"O\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

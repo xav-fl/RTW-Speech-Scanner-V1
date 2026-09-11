@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/france-national-day-2/",
+ "institution_id": "us-state",
+ "title": "France National Day",
+ "date": "2026-07-14",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "2bc07ee7353a8203300efa4a3f615e4077ace96acee8bbca7dc9a57e9e3c07a6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

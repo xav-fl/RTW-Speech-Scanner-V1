@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/03/16/dhs-asks-fairfax-county-sanctuary-politicians-not-release-illegal-alien-pedophile",
+ "institution_id": "us-dhs",
+ "title": "DHS Asks Fairfax County Sanctuary Politicians Not to Release Illegal Alien Pedophile Charged with Assault after He Groped High School Girls",
+ "date": "2026-03-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "2c093bb69226ba8e876d5d0d545f063f074020f20bfb9f65b92ba2bb990b6c86",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "DHS Deputy Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "DHS Deputy Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

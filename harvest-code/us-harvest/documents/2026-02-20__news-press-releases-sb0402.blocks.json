@@ -1,0 +1,47 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0402/",
+ "institution_id": "us-treasury",
+ "title": "FATF Holds Plenary in Mexico, Advances Key Illicit Finance Initiatives",
+ "date": "2026-02-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "835c88b8997c13732b0651afd22e42c0663214b1cbbc6fcfe22902964a0760df",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

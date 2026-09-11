@@ -1,0 +1,65 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-issues-warning-letter-jefferson-county-public-schools-colorado-district-refuses-follow-title-ix",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Issues Warning Letter to Jefferson County Public Schools in Colorado as District Refuses to Follow Title IX",
+ "date": "2026-06-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "b6340bad71106359783f8a6d74659eac86d8b1861b216c9155fcba3a737eef50",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

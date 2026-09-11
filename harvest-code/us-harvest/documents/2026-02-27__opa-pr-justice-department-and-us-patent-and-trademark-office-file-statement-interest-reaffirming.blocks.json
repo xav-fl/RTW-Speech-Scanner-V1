@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-and-us-patent-and-trademark-office-file-statement-interest-reaffirming",
+ "institution_id": "us-justice",
+ "title": "Justice Department and U.S. Patent and Trademark Office File Statement of Interest Reaffirming the Importance of Incentives to Innovate",
+ "date": "2026-02-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "1bcdac76366c91e73dcb2fd9eedf7accc63bc8adaaff266d256947ca0ce201d3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Attorney General Dina Kallay of the Justice Department’s Antitrust Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Attorney General Dina Kallay of the Justice Department’s Antitrust Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "John A. Squires",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "John A. Squires",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

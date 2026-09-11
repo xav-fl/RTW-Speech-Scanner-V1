@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/release-of-dennis-coyle/",
+ "institution_id": "us-state",
+ "title": "Release of Dennis Coyle",
+ "date": "2026-03-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "ad3fe5d906aaa65834167fa9b8900163ca1f3ad6d72a5b6667ee8913d17f08f7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

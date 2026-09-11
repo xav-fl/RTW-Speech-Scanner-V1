@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about grant funding to increase the supply of social housing — a public expenditure commitment targeting publicly provided/subsidized housing stock.\n\nSpecific mechanism: long-term increase in government grant funding for social housing construction/provision.\n\n- R3 (Real Estate Markets, Spatial Production Analysis) covers housing markets and housing supply — this fits the social housing supply expansion.\n- H5 (National Government Expenditures and Related Policies) fits the grant funding instrument — public spending commitment.\n- H4 (Publicly Provided Goods) also fits social housing as a publicly provided good.\n\nPrimary: R (Urban, Rural, Regional, Real Estate, and Transportation Economics) — specifically housing supply policy.\nSecondary: H (Public Economics) — specifically the grant funding/public expenditure dimension.\n\n{\"primary\": \"R\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

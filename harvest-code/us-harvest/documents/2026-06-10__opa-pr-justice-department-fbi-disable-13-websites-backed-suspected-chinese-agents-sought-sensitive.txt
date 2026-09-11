@@ -1,0 +1,53 @@
+Thirteen internet domains used to target U.S. persons, including current and former security clearance holders with access to classified and sensitive U.S. government information, were seized today by federal authorities.
+
+> These domain seizures offer a glimpse at how foreign actors can use promises of easy money to lure Americans into revealing sensitive or classified information that they are duty‑bound to protect,
+
+said Assistant Attorney General for National Security John A. Eisenberg.
+
+> Anyone approached online with offers of easy income for vague ‘consulting’ work should treat those overtures with extreme caution and remain vigilant for warning signs of malicious targeting.
+
+> Today’s seizures send a clear message that any attempts to exploit Americans trusted with access to our nation’s most sensitive information will be exposed and dismantled,
+
+said U.S. Attorney Jeanine Ferris Pirro for the District of Columbia.
+
+> These sham consulting sites were crafted to deceive, but thanks to the persistent work of our prosecutors and law enforcement partners, this scheme, like so many others, has been stopped in its tracks. We will always protect the integrity of our workforce and safeguard the trusted information that underpins our national security.
+
+> The fake consulting company domains seized by the FBI illustrate the lengths the Chinese government’s intelligence services will go to as they try to use AI-generated content to trick, recruit, or coerce current and former U.S. security clearance holders into sharing sensitive information,
+
+said Assistant Director Roman Rozhavsky of the FBI’s Counterintelligence and Espionage Division.
+
+> The FBI and our partners have observed China’s intelligence services resort to using AI, professional networking sites, and online payment platforms to target Americans, and we have taken actions to defend the homeland and our national security. The FBI is grateful for all of the assistance provided by our private sector and domestic and international partners.
+
+> For too long, the Chinese government has tried to exploit U.S. government employees behind the cover of fake companies and phony job postings,
+
+said Special Agent in Charge Daniel Wierzbicki of the FBI’s Washington Field Office Counterintelligence and Cyber Division.
+
+> Today, we shut them down. These seizures will prevent these fraudulent sites from being used to target Americans with access to sensitive information. The FBI will continue to use every tool available to protect Americans and our national security from this threat.
+
+> The Chinese government continues to pursue U.S. innovation, research, and sensitive information through a variety of deceptive techniques, including fraudulent job postings and online recruitment efforts,
+
+said Special Agent in Charge Dominique Evans of the FBI’s Norfolk Field Office.
+
+> By seizing these domains and exposing these tactics, we are working to protect national security, safeguard American ingenuity, and help the public recognize and defend against these threats. We urge anyone approached with suspicious job opportunities or recruitment efforts to remain vigilant, recognize the warning signs, and report suspicious activity to the FBI.
+
+According to the affidavit filed in support of the seizure warrants, beginning in November 2023, the conspirators created at least 13 fake consulting company websites. The websites and their associated job postings advertised generic “consulting” jobs and included statements indicating their purpose was to recruit current or former U.S. government and U.S. military employees to provide expertise to unspecified clients.
+
+The websites were typically linked or referenced within the entities’ job postings on hiring platforms. The methods and means used by the conspirators include (1) the use of aliases, fictitious personas, and the stolen identities of actual persons; (2) the use of Artificial Intelligence (AI)-generated photographs; (3) relatively large payments for research reports; (4) the use of Telegram and other encrypted applications; (5) pressure to provide “exclusive” or “insider” information; and (6) the transfer of money from places and accounts located overseas to places and accounts located in the United States.
+
+According to court documents, the conspirators recruited applicants through job postings, on social media and other platforms including Upwork, Expertia AI, Hubstaff Talent, Wellfound, and Post Job Free. The postings related to topics of interest to the government of the People’s Republic of China.
+
+The conspirators targeted current and former security clearance holders and other Americans who have access to classified and sensitive U.S. government information. The fake positions included “Senior Analyst” and “International Affairs Consultant” jobs. The recruiters pressured candidates to share confidential information and reports from “insider” sources in violation of their official duties. The scheme used contracts and confidentiality agreements to give their bogus consulting companies an air of legitimacy.
+
+The conspirators have denied any involvement by any foreign government.
+
+The affidavit alleges that the conspirators offered money to applicants and recruits in exchange for sensitive information, paid for reports using online payment accounts in the names of fictitious individuals, and used cryptocurrency to conceal the conspirators’ identities and the true source of the payments. These payments allowed for the flow of money from places outside the United States to places inside the United States in furtherance of the conspiracy.
+
+According to the affidavit, the conspirators used the following domains in their conspiracy to commit bribery of current and former public officials, identity theft, and international money laundering: Centrik Global Consulting, centrikglobalconsulting.com (CENTRIK); Rightinfo Consulting, rightinfoconsult.com (RIGHTINFO); Finnacle-Vesper Consulting (FV), finnaclevesperconsulting.com; CYDF Consulting, cydfconsulting.com (CYDF); Pulse Wave Global, pulsewaveglobal.com (PWG); Catalyst Global Solutions, catalystglobalsolutions.com (CGS); Horizzen, thehorizzen.com (HORIZZEN); GeoIndopacific, geoindopacific.com (GEOINDOPACIFIC); Global Peace Foundation – Indonesia, gpf-ina.org (GPFI); SafeSec Group, safesec-group.com (SAFESEC); The TruthInfo, thetruthinfo.com (TRUTHINFO); Vandercons.com; and Gulf Peace Foundation, gulfpeace.org (GULF PEACE).
+
+The domains seized today include centrikglobalconsulting.com; rightinfoconsult.com; finnaclevesperconsulting.com; cydfconsulting.com; pulsewaveglobal.com; catalystglobalsolutions.com; thehorizzen.com; geoindopacific.com; gpf-ina.org; safesec-group.com; thetruthinfo.com; Vandercons.com; and gulfpeace.org.
+
+Following the seizures, the FBI placed takeover pages on the seized websites to warn site visitors that the sites were rendered inoperable in order to disrupt the intended illegal activity and money laundering tied to the domains.
+
+Today’s seizure was handled by Assistant U.S. Attorney Jolie F. Zimmerman for the District of Columbia, along with the FBI’s Washington Field Office and Norfolk Field Office, with substantial assistance from Trial Attorney Maria Fedor of the Department of Justice’s Counterintelligence and Export Control Section of the National Security Division and Paralegal Kate Abrey of the U.S. Attorney’s Office.
+
+If you have information concerning the websites, please contact the FBI at 1-800-Call-FBI (225-5324) or online at tips.fbi.gov.

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-zeldin-wraps-6-stop-nevada-swing",
+ "institution_id": "us-epa",
+ "title": "Administrator Zeldin Wraps Up 6-Stop Nevada Swing",
+ "date": "2026-04-22",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "7638fc51d6a5b60530464f5fdfaaa0c21e6d886f6343edb98fde8ce5bcfed6a8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

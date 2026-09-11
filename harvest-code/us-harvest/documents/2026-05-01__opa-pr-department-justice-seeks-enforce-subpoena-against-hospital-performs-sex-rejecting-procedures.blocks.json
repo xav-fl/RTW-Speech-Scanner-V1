@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/department-justice-seeks-enforce-subpoena-against-hospital-performs-sex-rejecting-procedures",
+ "institution_id": "us-justice",
+ "title": "Department of Justice Seeks to Enforce Subpoena Against Hospital that Performs Sex-Rejecting Procedures on Minors",
+ "date": "2026-05-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "5c395198cc9e99a97b61a7faecd531ea0d66000fa5a0eac85f49d8507b78ff57",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Brett A. Shumate",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Brett A. Shumate",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

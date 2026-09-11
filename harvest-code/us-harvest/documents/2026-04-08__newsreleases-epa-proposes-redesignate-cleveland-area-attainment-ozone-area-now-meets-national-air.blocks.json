@@ -1,0 +1,173 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-proposes-redesignate-cleveland-area-attainment-ozone-area-now-meets-national-air",
+ "institution_id": "us-epa",
+ "title": "EPA proposes to redesignate Cleveland area to “attainment” for ozone; area now meets national air quality standards",
+ "date": "2026-04-08",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "f64260ccf0dbe64350248332005bfe63c9e6a935c1edb9fdfecbb123c997cfd1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Anne Vogel",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "EPA Regional Administrator Anne Vogel",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Gov. Mike DeWine",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Gov. Mike DeWine",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "U.S. Sen. Jon Husted",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "U.S. Rep. Bob Latta",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "quote",
+   "speaker": "U.S. Rep. Dave Joyce",
+   "method": "speech_verb"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "quote",
+   "speaker": "U.S. Rep. Dave Joyce",
+   "method": "speech_verb"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "State Rep. Bill Roemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "quote",
+   "speaker": "State Rep. Bill Roemer",
+   "method": "speech_verb"
+  },
+  {
+   "index": 17,
+   "kind": "quote",
+   "speaker": "Managing Director of Public Policy Services for the Ohio Manufacturers Association James Lee",
+   "method": "speech_verb"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "quote",
+   "speaker": "NOACA Executive Director",
+   "method": "speech_verb"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "quote",
+   "speaker": "NOACA Executive Director",
+   "method": "speech_verb"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 24,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 25,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 26,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

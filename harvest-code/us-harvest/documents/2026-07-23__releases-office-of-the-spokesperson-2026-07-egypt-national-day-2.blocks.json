@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/egypt-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Egypt National Day",
+ "date": "2026-07-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "cbffab502f1f5cd3dce1ef7f23a9f73eaea3248d4a839e0e3112af69d2206e10",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

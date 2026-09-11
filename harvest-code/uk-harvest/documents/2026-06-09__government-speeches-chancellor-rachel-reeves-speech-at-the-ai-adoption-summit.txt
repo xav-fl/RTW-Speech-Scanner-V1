@@ -1,0 +1,121 @@
+TITLE: Chancellor Rachel Reeves speech at the AI Adoption Summit
+URL: https://www.gov.uk/government/speeches/chancellor-rachel-reeves-speech-at-the-ai-adoption-summit
+DATE: 2026-06-09
+GOVUK_TYPE: speech
+LINKED_SPEAKERS: The Rt Hon Rachel Reeves MP
+
+---
+
+Well, thank you very much, Alison.
+
+From the start, backing innovation has been central to my strategy for growth.
+
+Three months ago, in my second Mais lecture, I built on that strategy, setting out AI and innovation as one of my three big choices for the UK economy.
+
+In those three months since that speech, the technology has continued to advance at extraordinary speed. New capabilities, new applications, new competition between countries.
+
+The OECD now estimates that AI could add between between 0.4 and 1.3 percentage points to UK productivity growth over the next decade. That can mean up to £140 billion of additional economic output by 2035.
+
+The winners of the AI age will be those countries that can get AI out of the lab and into businesses, factories and into front line public services.
+
+Our modern industrial strategy is built to do exactly that, to take AI and other frontier technologies from invention to everyday tool.
+
+I firmly believe that adoption is where the biggest gains lie. That’s why I want the UK to be the fastest adopter of AI in the G7.
+
+But rapid adoption depends on the conditions that we create, the right infrastructure, strong British firms, and a plan for managing the transition fairly and seriously.
+
+We all know that we start in the UK from a position of strength.
+
+We are the third largest venture capital market in the world.
+
+We create more unicorn businesses than almost any other country in Europe. Like Quantexa, and Isomorphic Labs. We have the most vibrant AI and tech ecosystem outside of the US.
+
+Google DeepMind started here. OpenAI and Anthropic expanding here.
+
+That reflects the depth of our talent, the quality of our research base and our entrepreneurial culture. You’re all key to that. And we want to build on that to be one of the best places in the world for businesses to innovate, to start to scale and crucially, to stay.
+
+In my budget last year, I announced an ambitious package of measures to support scaling businesses, including expanding the Enterprise Management Incentive scheme to more scale ups than ever before, so that growing businesses can recruit, retain and reward world class talent by offering tax free equity up front.
+
+And since then, our Call for Evidence has received responses from hundreds of founders, investors and industry leaders about how we can continue to improve on our offer for businesses of all sizes.
+
+In the last few months, we’ve gone even further to support the companies of the future. The Sovereign AI Unit is up and running. It has already made three equity investments and supported six companies through its compute offer.
+
+And today, I can announce building on its largest ever direct investment into Oxford quantum circuits. Last week, the British Business Bank will make a £150 million cornerstone investment into Playgrounds Deep Technology Fund, providing capital to help AI hardware firms scale, unlock private investment and building lasting capability here in Britain.
+
+You are all part of this story, adopting AI in the firms that you lead to boost productivity, boost capability and grow your businesses. And we’re the same in government.
+
+In the Treasury, we’re already using AI to streamline routine tasks and starting to roll out frontier Agentic AI in the first instance to support coding and analysis.
+
+At HMRC, we’re expanding the use of generative AI to improve customer service, and the £10 billion I committed at the Spending Review for our NHS digital transformation is already funding initiatives to free up time for patient care through, for example, ambient voice technology.
+
+To accelerate adoption, every industry needs a blueprint. And so today, I am very pleased to confirm the publication of AI adoption plans developed by our AI champions, working directly with their industries. These plans are practical, real world guides that show what works for adopting AI in each sector and businesses of all sizes, and show how government can act to harness potential and break down barriers to adoption.
+
+Across almost every sector, businesses tell me that access to high quality data remains a key barrier to their growth. The industrial strategy recognized data as a modern economic asset.
+
+But in realizing its economic potential, we must safeguard privacy and security. So we are investing in data sharing infrastructure, supporting smart data initiatives, and improving how public sector data is used across the economy. And there are practical examples already out there that we can learn from.
+
+The Creative Content Exchange, powered by British company Harbr Data, are testing how high quality British content from our national creative institutions can be shared securely and on clear commercial terms. We want to see more innovation of that kind, opening new routes to market and supporting responsible AI development.
+
+And we will collaborate with citizens and businesses to explore further opportunities.
+
+A second barrier is regulatory uncertainty. Businesses need confidence to invest and deploy AI at scale. Getting the regulatory environment right is a necessary condition for growth. In my Mais’s lecture, I announced that we would legislate to give powers to safely test innovative products and services in ways current regulation prohibits.
+
+The Secretary of State for business will bring forward that legislation in the autumn. And in advance of that, today, I am launching the advisory AI Growth Lab, bringing together regulators to provide practical guidance on how existing rules apply to emerging AI applications. With our first focus in legal services.
+
+Helping innovators, law firms and technology providers navigate practical questions around confidentiality, explainability and responsible deployment of these technologies.
+
+The third barrier to adoption is commercialization. With our existing strengths in financial services and digital commerce, Britain has a genuine opportunity to lead the world in one of the most promising applications of AI: Agentic payments.
+
+And to grasp this opportunity, we are upgrading payments infrastructure, supporting digital money, modernizing our payment regulators and supporting innovators to safely test and to scale.
+
+The Financial Conduct Authority received a record number of applications to join the second supercharged sandbox AI cohort, signaling the strength of innovation already happening in the UK financial services sector.
+
+And to build on the scale of opportunity in financial services. I can announce today that I will publish the Financial Services AI Adoption Plan at my Mansion House speech on the 14th of July.
+
+Underpinning all of this, we need the right infrastructure.
+
+This morning, the Prime Minister set out our long term AI hardware plan to back British companies to develop the chips, the semiconductor technologies behind AI, supporting jobs and supporting growth.
+
+This is backed by a £400 million fund to equip the UK’s next national AI supercomputer with next generation chips. With government acting as a first customer to support British companies and help bring cutting edge technologies to market. From invention to adoption.
+
+I can also confirm that we will soon be launching the tender process for the new national supercomputer in Edinburgh.
+
+Together, these two complementary supercomputer resources will help boost British researchers and businesses right across the country, giving them access to advanced compute that they need to develop, test and scale AI. Turning our world leading innovation in AI hardware into real world deployment.
+
+This is how we create the conditions for firms to scale, invest and adopt a coherent offer access to data, clear regulation, the ability to commercialize and world class infrastructure.
+
+One year on, this is our industrial strategy in action and we are delivering it across the country.
+
+But if we are to truly seize the prize that adopting AI and innovation offers, we must do that more quickly. We must manage the transition carefully.
+
+I’m not naive about the challenges or the concerns that people have, but an active and strategic state embracing and shaping technology can ensure that the gains are shared broadly and the risks managed seriously.
+
+That is why today I am announcing the AI Economics Institute that I first set out in my Mais’s lecture, a joint research organization of the Treasury and the Department for Science, Innovation and Technology.
+
+It is the first institute of its kind in the world, bringing capacity and expertise from academia and industry together at the heart of government to better understand AI’s impact on productivity, labour markets and economic growth.
+
+Today, I’m very pleased to announce the Nobel Prize winning economist, Professor Simon Johnson, has agreed to become chair of that institute. His expertise in how new technologies can affect growth, create good jobs and boost productivity will be absolutely invaluable in setting the institute’s direction.
+
+And I am also pleased to announce that leading UK businesses, including many in this room today, have pledged to share critical data and insights with the institute.
+
+And the leading AI firms Google, OpenAI and Anthropic have committed to work closely with the institute in support of evidence based policy making and responsible AI development.
+
+This includes sharing insights about AI use and adoption throughout the UK, building on data and analysis already published by labs.
+
+AI is also changing the cybersecurity landscape.
+
+The UK’s AI Security Institute and the National Cyber Security Centre provide world leading technical advice. Our security is a collective security and every business must play its part.
+
+That is why we are supporting innovative, British designed cyber secure chips, making it easier for British cyber companies to work with government. And later this month we will publish our National Cyber Action plan, setting out all of the actions that organizations can and should take.
+
+Three months ago, I set out a strategy. Today I have shown how we are delivering it.
+
+Removing barriers to adoption. Backing strong great British firms. Building the right infrastructure and actively managing the transition.
+
+The countries that succeed in AI will be those that act.
+
+Britain has the talent. We have the research and the entrepreneurship to drive forward from invention to adoption.
+
+The prize is huge. The opportunity is close at hand.
+
+I believe that Britain can seize it. I believe that Britain should seize it. And I am determined that working together government, business, our universities and our great entrepreneurs will. Thank you very much.

@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-launches-title-vi-investigation-dei-programs-arizona-state-university",
+ "institution_id": "us-justice",
+ "title": "Justice Department Launches Title VI Investigation into DEI Programs at Arizona State University",
+ "date": "2026-06-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c56e31f19cb9b0998ac9f83cb7e7ee4dfd6a488452f74c0f2a632544bd7f4a24",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

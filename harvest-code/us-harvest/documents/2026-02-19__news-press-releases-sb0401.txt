@@ -1,0 +1,33 @@
+WASHINGTON — In support of the President’s AI Action Plan, which calls for clear standards, shared understanding, and risk-based governance to ensure artificial intelligence is deployed safely and responsibly, the U.S. Department of the Treasury today released two new resources to guide AI use in the financial sector, a shared Artificial Intelligence Lexicon and the Financial Services AI Risk Management Framework (FS AI RMF).
+
+> Implementing the President’s AI Action Plan requires more than aspirational statements, it requires practical resources that institutions can use,
+
+said Derek Theurer, who is performing the duties of Deputy Secretary of the Treasury.
+
+> By establishing a common language for AI and a tailored framework for managing AI risks in financial services, these deliverables help protect consumers while supporting responsible innovation.
+
+By strengthening common terminology and risk management practices for AI, these resources support quicker and more widespread adoption of AI in the financial sector, via more robust AI cybersecurity and improved operational resilience. Developed through the Financial and Banking Information Infrastructure Committee and the Financial Services Sector Coordinating Council ’s Artificial Intelligence Executive Oversight Group (AIEOG), the publications advance implementation of the Action Plan by translating national AI priorities into practical tools for financial institutions, regulators, and technology providers.
+
+As financial institutions increasingly rely on AI to support decision-making, customer engagement, and operational functions, inconsistent terminology and uneven risk management practices have created challenges for effective governance and oversight. The AI Lexicon addresses these challenges by establishing common definitions for key AI concepts, capabilities, and risk categories, enabling clearer communication across regulatory, technical, legal, and business functions and supporting more consistent supervision and implementation.
+
+> Clear terminology and pragmatic risk management are essential to accelerating AI adoption in financial services,
+
+said Paras Malik, Chief Artificial Intelligence Officer at the U.S. Department of the Treasury.
+
+> These resources are designed to help institutions move faster with AI by reducing uncertainty and supporting consistent, scalable implementation.
+
+Building on this shared foundation, the Financial Services AI Risk Management Framework adapts the NIST AI Risk Management Framework to the specific operational, regulatory, and consumer protection considerations of financial services. The FS AI RMF provides practical tools and reference materials to help institutions evaluate AI use cases, manage risks across the AI lifecycle, and embed accountability, transparency, and resilience into AI deployment decisions. The framework is designed to be scalable and flexible, supporting adoption by institutions of varying size and complexity.
+
+Josh Magri, CEO of the Cyber Risk Institute, agrees.
+
+> In an era where AI is rapidly reshaping financial services, ensuring security and building trust are paramount. The FS AI RMF not only aligns closely with NIST standards but also offers practical, scalable guidance tailored to the varying stages of AI adoption,
+
+said Mr. Magri.
+
+> It's an essential resource for both community and multinational institutions alike, empowering them to effectively manage AI risks while driving growth and innovation.
+
+The AI Lexicon and FS AI RMF are part of a coordinated series of AIEOG deliverables addressing priority areas such as identity, fraud, explainability, and data practices. Together, these efforts reflect the Administration’s emphasis on public-private collaboration and implementation-focused solutions that strengthen trust, resilience, and accountability as AI adoption accelerates.
+
+Treasury will continue to work with federal and state regulators, industry leaders, and other stakeholders to advance the President’s AI Action Plan by promoting responsible AI adoption and reinforcing the safety and stability of the U.S. financial system.
+
+###

@@ -1,0 +1,53 @@
+TITLE: MHRA action boosts drive to phase out animal testing
+URL: https://www.gov.uk/government/news/mhra-action-boosts-drive-to-phase-out-animal-testing
+DATE: 2026-03-24
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Lord Vallance
+
+---
+
+By offering early review of non‑animal data and clarifying how it will be assessed, the UK’s medicines regulator aims to give developers more confidence when making marketing applications based on evidence generated without animal testing.
+
+The move supports the Government’s long-term strategy to reduce use of animals in drug development, where complete elimination is not yet feasible, and ensure medicines continue to meet rigorous standards of safety and efficacy.
+
+Julian Beach, Interim Executive Director Healthcare Quality and Access said:
+
+A clearer regulatory route for medicines developed without animal testing will help accelerate the transition to modern, predictive science and support the Government’s strategy to reduce and ultimately replace animals in research.
+
+Advances such as AI‑driven analysis and human‑derived cell models mean some medicines no longer require animal studies to demonstrate safety and efficacy.
+
+Our offer to review study data ahead of a full marketing application is designed to help researchers who are adopting these approaches build the robust evidence needed to demonstrate safety and efficacy.
+
+Clearer principles for a new era of medicines development
+
+While each application will be assessed on a case-by-case basis, considering the totality of the evidence presented and the proposed clinical use, the guidance sets out general regulatory principles:
+
+Generic/biosimilar products or drugs that are not pharmacologically active in animals should not be tested on animals .
+
+Toxicity testing of biological products on animals should only be done in species shown to be pharmacologically relevant.
+
+Products with a well-recognised pharmacological profile may enter UK clinical trials without having first been tested on animals,.
+
+Products with a novel pharmacological action should be tested on animals, in line  with international guidelines .
+
+Products that cannot be tested for efficacy in clinical trials, such as vaccines for some emerging pandemic infectious diseases, should be tested on animals
+
+To support the use of NAMs and reduce perceived risks of approaches that do not involve animal testing, the MHRA has committed to review preliminary data from drug trials that use non-animal models. By the end of 2026, companies with a product developed without animal testing can have Module 4 of their Marketing Authorisation application reviewed by the MHRA in advance.
+
+In this scheme, companies will submit Module 4, the Investigator Brochure and the final report of at least one clinical trial. The MHRA will give a non-binding written opinion that accepts the adequacy of the data or explains deficiencies.  This will be included in the Marketing Authorisation application, alongside the Module 4 previously submitted and any updated version. The MHRA will undertake a further review, in consultation with the Commission on Human Medicines, and either endorse or reject the application, with reasons for any rejection. Companies submitting Module 4 in advance will be charged a fee to recover administrative costs and discourage unsuitable applications. 
+
+Notes to editors
+
+The full guidance can be found on the MHRA website
+
+In November 2025, the Government published Replacing animals in science: A strategy to support the development, validation and uptake of alternative methods.
+
+New Approach Methodologies (NAMs) are modern, non-animal scientific methods used to assess the safety, efficacy, and biological effects of medicines and chemicals. Instead of relying on traditional animal studies, NAMs generate data using human-relevant systems and computational tools.
+
+Review of Module 4 relates only to Marketing Authorisation applications and has no impact on Clinical Trial Authorisation applications.
+
+The MHRA is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe.  All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks.    
+
+The MHRA is an executive agency of the Department of Health and Social Care.    
+
+For media enquiries, please contact the newscentre@mhra.gov.uk, or call on 020 3080 7651.

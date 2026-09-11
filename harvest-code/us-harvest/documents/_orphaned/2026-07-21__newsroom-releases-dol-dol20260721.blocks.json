@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/dol/dol20260721",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor files amicus brief clarifying use of pension risk transfers to annuity providers",
+ "date": "2026-07-21",
+ "date_source": "listing",
+ "source_document_type": "Department of Labor",
+ "text_sha256": "029ef66a8be3f41224956db573bfb8caaa94df6a0cd7db0598cca6dc81f595d1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

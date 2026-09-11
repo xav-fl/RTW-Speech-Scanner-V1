@@ -1,0 +1,63 @@
+The EVIDENT initiative builds on the Trump Administration’s executive order to accelerate medical treatments for serious mental illness
+
+The Advanced Research Projects Agency for Health (ARPA-H), an agency within the U.S. Department of Health and Human Services (HHS), is today announcing the first set of research teams for its Evidence-Based Validation & Innovation for Rapid Therapeutics in Behavioral Health (EVIDENT) initiative, which will collectively fund up to $139.4 million to help spur new, effective therapies for behavioral health. As part of the Trump Administration’s Executive Order to Accelerate Medical Treatments for Serious Mental Illness, EVIDENT will allocate at least $50 million to match state government investments in psychedelic research for populations with serious mental illness.
+
+Over their lifetime, half of all Americans will experience mental or behavioral health disorders, with Veterans facing even higher rates. Since 2000, spending on behavioral health and substance use treatments has skyrocketed from $40.9 billion a year to more than $140 billion. Yet promising options have stalled because we continue to lack the tools to objectively know what is working, and for whom.
+
+EVIDENT is designed to catalyze a new era in mental and behavioral health treatments by generating FDA-ready clinical endpoints to validate the effectiveness of rapid-acting therapies such as digital interventions, neuromodulation, and neuroplastogens, including the safe use of psychedelics.
+
+> For too long, we’ve dismissed treatments that could genuinely heal people—not because they don’t work, but because medicine has never had the tools, and we’ve lacked the courage to prove it,
+
+said HHS Secretary Robert F. Kennedy, Jr.
+
+> EVIDENT changes that. ARPA-H is building the measurement science that can finally show what’s happening inside the body when someone is under treatment. Through this data, we’ll be able to match the right treatment to the right person and know how an individual will respond before it begins. This is about gaining unprecedented insights into the physiology of mental health and unlocking a new class of treatments using hard science that proves what actually works.
+
+The research teams announced today are just the beginning for EVIDENT, as the initiative will continue to make investments to gather, integrate, and analyze multimodal, longitudinal data from registered clinical trials and real-world care settings on a rolling basis. These research teams will help build the first generation of scalable, objective measures of behavioral health, enabling providers to move away from trial-and-error approaches of validating treatments and toward precise, personalized, data-driven care. These measures will also work to accelerate the regulatory approval of effective therapies, reducing the cost of developing interventions for Americans living with conditions such as depression, anxiety, addiction, and post-traumatic stress disorders.
+
+> Today, mental health care too often depends on subjective scales, delayed feedback, and trial-and-error,
+
+said ARPA-H Director Alicia Jackson, Ph.D.
+
+> Core to ARPA-H's strategy for addressing behavioral health needs is to be able to definitively understand what works for whom, and when. Through EVIDENT, we are investing in objective, predictive measures that will help clinicians know much sooner whether a therapy is working for an individual patient. These awards are a critical step toward faster relief, fewer failed treatment attempts, and a future where behavioral health care is as measurable and precise as other areas of medicine.
+
+EVIDENT solicited proposals through four technical areas (TAs) designed to answer four core questions that the field currently cannot reliably answer.
+
+What should we use for objective measurement? (TA1)
+
+What is happening during treatment? (TA2)
+
+Who will respond to what treatment? (TA3)
+
+What is our shared data foundation? (TA4)
+
+The performer teams are led by:
+
+Alden Scientific, in Cambridge, MA, which will provide multi-omics analysis (e.g., proteomics, genomics) to assess physiological changes that may also indicate mental health state and change.
+
+Attune Neurosciences, in San Francisco, which will provide data and insights from the use of its low-intensity-focused-ultrasound to deliver neuromodulation therapy for chronic pain and depression.
+
+Motif Neurotech, in Houston, which seeks to accelerate measures of neuromodulation by leading adjunctive data collection.
+
+NeuroFlow, Inc., Philadelphia, which is developing a population-scale framework for evaluating rapid-acting behavioral health interventions against real-world standard care baselines.
+
+INVI MindHealth, in Denver, which is augmenting behavioral health research in neuromodulation and psychedelic therapies with a platform for real-time objective biomarkers as new endpoints for rapidly determining treatment efficacy.
+
+Diamond Therapeutics, in Toronto, which, in partnership with Tactical Mind Research Coalition, in St. Petersburg, FL, will contribute data from a phase 2a clinical trial on psilocybin for generalized anxiety disorder.
+
+Duke University, in Durham, NC, which will quantify cortisol, estradiol, interleukin 6 (IL 6), and interleukin 1β (IL 1β) from saliva samples to capture stress physiology, endocrine modulation, and inflammatory signaling.
+
+Holobiome, in Boston, which will contribute data through a large-scale clinical trial to identify microbiome-modulating interventions that target the gut-brain axis to decrease stress and anxiety.
+
+The John Hopkins University School of Medicine, in Baltimore, which will contribute data from 8 approved clinical trials on psilocybin use across a range of conditions.
+
+Ksana Health, in Eugene, OR, which will integrate continuous wearable device data with electronic health records at unprecedented scale to predict and prevent behavioral health disorders and promote healthy behaviors.
+
+The University of Southern California, in Los Angeles, which will contribute data from a trial on the feasibility and efficacy in healthy adults of psilocybin alone versus with eight weeks of mindfulness training.
+
+The University of Wisconsin, in Madison, which will contribute data from 3 approved psilocybin trials, seeking to dissociate the contributions of conscious psychedelic experience and non-conscious neurobiological mechanisms, as well as examining whether transcutaneous auricular vague nerve stimulation (taVNS) can augment durable outcomes following a single psilocybin session.
+
+The Yale Stress Center, in New Haven, CT, which will contribute data from an interventional clinical trial testing the effects of pregnenolone in individuals with alcohol use disorder.
+
+Through EVIDENT, HHS and ARPA-H are building the science that will let promising rapid treatments to finally cross the finish line and become affordable options for Veterans and all Americans who need them.
+
+ARPA-H anticipates future award announcements under the EVIDENT initiative to be made on a rolling basis. To learn more about EVIDENT and stay up to date on awardees and progress, visit the EVIDENT initiative page.

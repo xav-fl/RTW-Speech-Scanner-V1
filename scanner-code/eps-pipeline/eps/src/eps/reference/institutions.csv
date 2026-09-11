@@ -1,49 +1,49 @@
-﻿institution_id,country,institution,status,successor_institution_id,note
-uk-ago,United Kingdom,Attorney General's Office,active,,
-uk-cabinet-office,United Kingdom,Cabinet Office,active,,"Departmental head taken to be the Chancellor of the Duchy of Lancaster, not the PM."
-uk-dbt,United Kingdom,Department for Business and Trade,renamed,,"Continuing entity: renamed Department for Business, Innovation, Science and Trade (DBIST) on 2026-07-20 and absorbed DSIT. Collect DBIST output under this ID."
-uk-dcms,United Kingdom,"Department for Culture, Media and Sport",renamed,,"Renamed Department for Digital, Culture, Media and Sport on 2026-07-20; same institution, same officeholder, same ID."
-uk-defra,United Kingdom,"Department for Environment, Food and Rural Affairs",active,,
-uk-desnz,United Kingdom,Department for Energy Security and Net Zero,active,,
-uk-dfe,United Kingdom,Department for Education,active,,Skills brief moved to DWP on 2025-09-05 - relevant to J24/I2 coding.
-uk-dft,United Kingdom,Department for Transport,active,,
-uk-dhsc,United Kingdom,Department of Health and Social Care,active,,
-uk-dsit,United Kingdom,"Department for Science, Innovation and Technology",merged,uk-dbt,Folded into DBIST (see uk-dbt) on 2026-07-20. Shares a speaker with uk-dbt after that date - de-duplicate.
-uk-dwp,United Kingdom,Department for Work and Pensions,active,,
-uk-fcdo,United Kingdom,"Foreign, Commonwealth and Development Office",active,,
-uk-hmt,United Kingdom,HM Treasury,active,,
-uk-home-office,United Kingdom,Home Office,active,,
-uk-leader-commons,United Kingdom,Office of the Leader of the House of Commons,active,,
-uk-leader-lords,United Kingdom,Office of the Leader of the House of Lords,active,,
-uk-mhclg,United Kingdom,"Ministry of Housing, Communities and Local Government",active,,"GOV.UK uses both 'Ministry of' and 'Department for' after July 2026 - match on ID, not name."
-uk-mod,United Kingdom,Ministry of Defence,active,,
-uk-moj,United Kingdom,Ministry of Justice,active,,
-uk-nio,United Kingdom,Northern Ireland Office,active,,
-uk-oags,United Kingdom,Office of the Advocate General for Scotland,active,,Very low expected yield of economics-relevant statements.
-uk-scotland-office,United Kingdom,Scotland Office,active,,
-uk-ukef,United Kingdom,UK Export Finance,active,,No political head of its own; answers to the Business and Trade Secretary. Shares a speaker with uk-dbt - de-duplicate or drop as a separate unit.
-uk-wales-office,United Kingdom,Wales Office,active,,
-us-agriculture,United States,Department of Agriculture,active,,
-us-commerce,United States,Department of Commerce,active,,
-us-defense,United States,Department of Defense,active,,Secretary carries 'Secretary of War' as a secondary title from 2025-09-05; search both.
-us-dhs,United States,Department of Homeland Security,active,,
-us-education,United States,Department of Education,active,,Programmes being transferred to other agencies during 2026; some education-relevant statements now come from other agency heads.
-us-energy,United States,Department of Energy,active,,
-us-epa,United States,Environmental Protection Agency,active,,
-us-gsa,United States,General Services Administration,active,,
-us-hhs,United States,Department of Health and Human Services,active,,
-us-hud,United States,Department of Housing and Urban Development,active,,
-us-interior,United States,Department of the Interior,active,,
-us-justice,United States,Department of Justice,active,,
-us-labor,United States,Department of Labor,active,,
-us-nasa,United States,National Aeronautics and Space Administration,active,,
-us-nrc,United States,Nuclear Regulatory Commission,active,,"Eligible speaker is the designated Chairman only, not other commissioners."
-us-nsf,United States,National Science Foundation,active,,No Senate-confirmed director since 2025-04-24; head is acting.
-us-opm,United States,Office of Personnel Management,active,,
-us-sba,United States,Small Business Administration,active,,
-us-ssa,United States,Social Security Administration,active,,
-us-state,United States,Department of State,active,,Absorbed USAID's remaining foreign-assistance functions from 2025-07-01.
-us-transportation,United States,Department of Transportation,active,,
-us-treasury,United States,Department of the Treasury,active,,
-us-usaid,United States,U.S. Agency for International Development,dissolved,us-state,Ceased implementing foreign assistance 2025-07-01. Structural zero in the main window - expect and log zero documents.
-us-va,United States,Department of Veterans Affairs,active,,
+﻿institution_id,country,institution,govuk_slug,status,successor_institution_id,note
+uk-ago,UK,Attorney General's Office,attorney-generals-office,active,,
+uk-cabinet-office,UK,Cabinet Office,cabinet-office,active,,"Departmental head taken to be the Chancellor of the Duchy of Lancaster, not the PM."
+uk-dbt,UK,Department for Business and Trade,department-for-business-and-trade,renamed,,"Continuing entity: renamed Department for Business, Innovation, Science and Trade (DBIST) on 2026-07-20 and absorbed DSIT. Collect DBIST output under this ID."
+uk-dcms,UK,"Department for Culture, Media and Sport",department-for-culture-media-and-sport,renamed,,"Renamed Department for Digital, Culture, Media and Sport on 2026-07-20; same institution, same officeholder, same ID."
+uk-defra,UK,"Department for Environment, Food and Rural Affairs",department-for-environment-food-rural-affairs,active,,
+uk-desnz,UK,Department for Energy Security and Net Zero,department-for-energy-security-and-net-zero,active,,
+uk-dfe,UK,Department for Education,department-for-education,active,,Skills brief moved to DWP on 2025-09-05 - relevant to J24/I2 coding.
+uk-dft,UK,Department for Transport,department-for-transport,active,,
+uk-dhsc,UK,Department of Health and Social Care,department-of-health-and-social-care,active,,
+uk-dsit,UK,"Department for Science, Innovation and Technology",department-for-science-innovation-and-technology,merged,uk-dbt,Folded into DBIST (see uk-dbt) on 2026-07-20. Shares a speaker with uk-dbt after that date - de-duplicate.
+uk-dwp,UK,Department for Work and Pensions,department-for-work-pensions,active,,
+uk-fcdo,UK,"Foreign, Commonwealth and Development Office",foreign-commonwealth-development-office,active,,
+uk-hmt,UK,HM Treasury,hm-treasury,active,,
+uk-home-office,UK,Home Office,home-office,active,,
+uk-leader-commons,UK,Office of the Leader of the House of Commons,the-office-of-the-leader-of-the-house-of-commons,active,,
+uk-leader-lords,UK,Office of the Leader of the House of Lords,office-of-the-leader-of-the-house-of-lords,active,,
+uk-mhclg,UK,"Ministry of Housing, Communities and Local Government",ministry-of-housing-communities-local-government,active,,"GOV.UK uses both 'Ministry of' and 'Department for' after July 2026 - match on ID, not name."
+uk-mod,UK,Ministry of Defence,ministry-of-defence,active,,
+uk-moj,UK,Ministry of Justice,ministry-of-justice,active,,
+uk-nio,UK,Northern Ireland Office,northern-ireland-office,active,,
+uk-oags,UK,Office of the Advocate General for Scotland,office-of-the-advocate-general-for-scotland,active,,Very low expected yield of economics-relevant statements.
+uk-scotland-office,UK,Scotland Office,scotland-office,active,,
+uk-ukef,UK,UK Export Finance,uk-export-finance,active,,No political head of its own; answers to the Business and Trade Secretary. Shares a speaker with uk-dbt - de-duplicate or drop as a separate unit.
+uk-wales-office,UK,Wales Office,office-of-the-secretary-of-state-for-wales,active,,
+us-agriculture,United States,Department of Agriculture,,active,,
+us-commerce,United States,Department of Commerce,,active,,
+us-defense,United States,Department of Defense,,active,,Secretary carries 'Secretary of War' as a secondary title from 2025-09-05; search both.
+us-dhs,United States,Department of Homeland Security,,active,,
+us-education,United States,Department of Education,,active,,Programmes being transferred to other agencies during 2026; some education-relevant statements now come from other agency heads.
+us-energy,United States,Department of Energy,,active,,
+us-epa,United States,Environmental Protection Agency,,active,,
+us-gsa,United States,General Services Administration,,active,,
+us-hhs,United States,Department of Health and Human Services,,active,,
+us-hud,United States,Department of Housing and Urban Development,,active,,
+us-interior,United States,Department of the Interior,,active,,
+us-justice,United States,Department of Justice,,active,,
+us-labor,United States,Department of Labor,,active,,
+us-nasa,United States,National Aeronautics and Space Administration,,active,,
+us-nrc,United States,Nuclear Regulatory Commission,,active,,"Eligible speaker is the designated Chairman only, not other commissioners."
+us-nsf,United States,National Science Foundation,,active,,No Senate-confirmed director since 2025-04-24; head is acting.
+us-opm,United States,Office of Personnel Management,,active,,
+us-sba,United States,Small Business Administration,,active,,
+us-ssa,United States,Social Security Administration,,active,,
+us-state,United States,Department of State,,active,,Absorbed USAID's remaining foreign-assistance functions from 2025-07-01.
+us-transportation,United States,Department of Transportation,,active,,
+us-treasury,United States,Department of the Treasury,,active,,
+us-usaid,United States,U.S. Agency for International Development,,dissolved,us-state,Ceased implementing foreign assistance 2025-07-01. Structural zero in the main window - expect and log zero documents.
+us-va,United States,Department of Veterans Affairs,,active,,

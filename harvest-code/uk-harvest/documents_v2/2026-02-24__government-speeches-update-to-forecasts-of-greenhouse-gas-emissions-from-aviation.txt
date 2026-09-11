@@ -1,0 +1,37 @@
+On 19 February I wrote to the judge hearing the above claim in respect of my ongoing duty of candour in those proceedings.
+
+Pursuant to an order of the court from 10 December 2025, on 12 December 2025 I approved the disclosure of a number of documents that related to forecasts of greenhouse gas emissions from aviation. The documents were produced to fulfil a request from the Department for Energy Security and Net Zero (DESNZ) and supported preparation of the government’s carbon budget and growth delivery plan (CBGDP).
+
+The information contained in the disclosed documents was not relevant to my original decision to grant a development consent order for the expansion of Gatwick Airport, as the decision-making process for considering development consent orders requires me to consider published policies and relevant legislation.
+
+The disclosed data did not represent final policy and was produced solely for the purposes of discharging the Secretary of State for Energy Security and Net Zero’s duties under the Climate Change Act 2008.
+
+During the process of updating the department’s aviation model in preparation for the development of new forecasts to support the setting of carbon budget 7, and the quality assurance processes involved in this, officials in the department identified that the disclosed data contained a small error.
+
+I have apologised to the court and the parties and submitted a statement from a senior official in the department to explain the error and correct our position. Those parts of the documents previously submitted that require updates to remedy the error were also provided.
+
+The error came from the incorrect application of fuel efficiency measures (and therefore incorrect emissions values) to next generation planes that were modelled as flying beyond their standard operating range. This meant that in the small number of cases where an aircraft is modelled as flying beyond its optimal range, its emissions values were wrong.
+
+As a result of this correction, the headline difference between the average annual total aviation emission figures as provided to the court and the corrected figures for the CB6 period is an increase of 4.1 MtCO2e over the 5-year carbon budget 6 period - i.e. with an annual average difference of 0.8 MtCO2e.
+
+The table below shows the corrected figures, which have been subject to enhanced quality assurance procedures and checks:
+
+Year Disclosed figures (MtCO2e) Corrected figures (MtCO2e) Difference (MtCO2e)
+
+2033 32.9 33.3 0.4
+
+2034 32.3 32.6 0.4
+
+2035 31.6 32.3 0.6
+
+2036 31.1 32.1 1.0
+
+2037 29.9 31.6 1.7
+
+Average 31.6 32.4 0.8
+
+The department’s quality assurance processes are fully aligned with the government’s AQuA Book (the quality assurance guidance), but I have asked my officials to strengthen our current practices further.
+
+This small error does not affect the decision I have taken. This is because I maintain to the court that the information contained in the disclosed information was not material to the decision at the time, and even if it had been taken into account, it is highly likely the outcome of the decision would have been the same.
+
+With regards to the CBGDP, my officials have informed DESNZ officials of the error. DESNZ has confirmed that the error, which represents 0.5% of the required additional carbon savings from the baseline projections for carbon budget 6, is marginal. The CBGDP remains the government’s extant plan to meet carbon budgets.

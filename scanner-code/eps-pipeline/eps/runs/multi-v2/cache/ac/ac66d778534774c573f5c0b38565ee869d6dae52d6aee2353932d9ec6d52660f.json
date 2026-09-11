@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about reducing development risks and transaction costs to facilitate construction/building. The specific mechanism is lowering barriers (risk and transaction costs) to real estate/housing development.\n\nPrimary: R (Urban, Rural, Regional, Real Estate — specifically R3, real estate markets and spatial production, and the construction/development process)\n\nSecondary: L7 (Industry Studies: Primary Products and Construction) is a possible secondary, but the core is about development risk and transaction costs in building, which fits R best. K2 (Regulation and Business Law) could apply since transaction costs in development often relate to regulatory/planning processes, but the quotation doesn't specify regulation explicitly.\n\n{\"primary\": \"R\", \"secondary\": [\"L\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,29 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-region-6-encourages-caution-and-safety-during-winter-storm",
+ "institution_id": "us-epa",
+ "title": "EPA Region 6 Encourages Caution and Safety During Winter Storm",
+ "date": "2026-01-23",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "453cdf5130e338172c4c1a75e99eead978de21d0239ff37397f4e6c3a4ccc9c4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

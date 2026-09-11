@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/bangladesh-national-day/",
+ "institution_id": "us-state",
+ "title": "Bangladesh National Day",
+ "date": "2026-03-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "1cd3733d2de035cc9eee719e4def3a07ae96a58275419ae6088595741f346e07",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

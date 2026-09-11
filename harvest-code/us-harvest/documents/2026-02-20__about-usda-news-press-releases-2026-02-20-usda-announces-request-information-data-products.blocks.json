@@ -1,0 +1,71 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/02/20/usda-announces-request-information-data-products",
+ "institution_id": "us-agriculture",
+ "title": "USDA Announces Request for Information on Data Products",
+ "date": "2026-02-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "1c68e064c6c8b555f0614479fbfb2e8d593da36ac40accc4f2f6dcdd081acd91",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Under Secretary for Research",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Under Secretary for Research",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "USDA Chief Economist Dr. Justin Benavidez",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "USDA Chief Economist Dr. Justin Benavidez",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

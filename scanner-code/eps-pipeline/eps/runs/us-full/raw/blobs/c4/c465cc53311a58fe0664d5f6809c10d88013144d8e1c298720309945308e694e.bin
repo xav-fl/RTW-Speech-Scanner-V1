@@ -1,0 +1,49 @@
+Today, the Department of Justice and the FBI announced a court-authorized technical operation to neutralize the U.S. portion of a network of small office/home office (SOHO) routers compromised by a unit within Russia’s Main Intelligence Directorate of the General Staff (GRU) Military Unit 26165, also known as APT28, Sofacy Group, Forest Blizzard, Pawn Storm, Fancy Bear, and Sednit. The unit used the routers to facilitate malicious Domain Name System (DNS) hijacking operations against worldwide targets of intelligence interest to the Russian government, including individuals in the military, government, and critical infrastructure sectors.
+
+Since at least 2024, GRU actors have exploited known vulnerabilities to steal credentials for thousands of TP-Link routers worldwide. The actors then accessed many of these compromised routers without authorization and manipulated their settings to redirect DNS requests to GRU-controlled servers - i.e., malicious DNS resolvers. GRU actors were indiscriminate in their initial targeting and manipulation of routers. The actors then implemented an automated filtering process to determine which DNS requests were of interest and warranted interception. For select targets, the GRU’s DNS resolvers provided fraudulent DNS records for specific domains that mimicked legitimate services – including Microsoft Outlook Web Access – to facilitate Actor-in-the-Middle attacks against encrypted victim network traffic. In doing so, the GRU actors harvested unencrypted passwords, authentication tokens, emails, and other sensitive information from devices on the same network as the compromised TP-Link routers.
+
+> The GRU’s predatory use of networks in American homes and businesses for its malicious cyber operations remains a serious and persistent threat,
+
+said Assistant Attorney General for National Security John A. Eisenberg.
+
+> NSD will continue to use every tool at our disposal to detect such intrusions and expel hostile foreign actors from our Nation’s networks.
+
+> Russian military intelligence once again hijacked Americans’ hardware to commandeer critical data,
+
+said U.S. Attorney David Metcalf for the Eastern District of Pennsylvania.
+
+> In the face of continued aggression by our nation-state adversaries, the U.S. government will respond just as aggressively. Working with the FBI — and our partners around the world — we are committed to disrupting and exposing such threats to our nation’s cybersecurity.
+
+> Operation Masquerade demonstrates the FBI’s commitment to identifying, exposing, and disrupting the Russian government's efforts to compromise American devices, steal sensitive information, and target critical infrastructure,
+
+said Assistant Director Brett Leatherman of FBI’s Cyber Division.
+
+> GRU actors compromised routers in the US and around the world, hijacking them to conduct espionage. Given the scale of this threat, sounding the alarm wasn't enough. The FBI conducted a court-authorized operation to harden compromised routers across the United States. We urge all router owners to take the remediation steps outlined today, because defending our networks requires all of us. The FBI will continue to use its authorities to identify and impose costs on state-sponsored actors who target the American people.
+
+> Operation Masquerade – led by FBI Boston – is the latest example of how we’re defending our homeland from Russia’s GRU which weaponized routers owned by unsuspecting Americans in more than 23 states to steal sensitive government, military, and critical infrastructure information,
+
+said Special Agent in Charge Ted E. Docks of the FBI’s Boston Field Office.
+
+> The FBI utilized cutting edge technology and leveraged our private sector and international partners to unmask this malicious activity and remediate routers. Now we’re asking everyone who has a router to secure it, update its firmware, and replace it if needed. By working together, we can guard against nefarious nation state actors trying to compromise our national security.
+
+As described in court documents unsealed in the Eastern District of Pennsylvania, the FBI developed a series of commands to send to compromised routers in the United States, designed to collect evidence regarding the GRU actors’ activity, reset DNS settings (i.e., remove GRU DNS resolvers and force routers to obtain legitimate DNS resolvers from their Internet Service Providers (ISP)), and to otherwise prevent the GRU actors from exploiting the original means of unauthorized access.
+
+As described in court documents, the government extensively tested the operation on firmware and hardware for affected TP-Link routers. Other than stymieing the GRU’s ability to access the routers, the operation did not impact the routers’ normal functionality or collect the legitimate users’ content information.
+
+The court-authorized steps to remediate compromised routers can be reversed by legitimate users at any time through factory resets with hardware reset buttons. Legitimate users can also reverse changes by logging into web management pages and restoring desired settings (e.g., factory default settings).
+
+To better protect themselves, all users of SOHO devices are encouraged to conduct the following remediation steps:
+
+Replace End-of-Life and End-of-Support routers;
+
+Upgrade to the latest available firmware;
+
+Verify the authenticity of DNS resolvers listed in router settings; and
+
+Review and implement firewall rules to prevent the unwanted exposure of remote management services.
+
+Users are encouraged to navigate to the official TP-Link website and review documentation for their affected routers in the download center to learn more about proper configurations. Users should also ensure their routers are operating the latest firmware and review the End-of-Life product lists to determine if their routers should be replaced. Additional remediation guidance is provided in a separate PSA.
+
+The FBI is working with ISPs to provide notice of the operation to users of SOHO routers covered by the court’s authorization. If you believe you have a compromised router, please contact your local FBI field office or file a report with the FBI’s Internet Crime Complaint Center.
+
+The FBI Boston and Philadelphia Field Offices and Cyber Division, U.S. Attorney’s Office for the Eastern District of Pennsylvania, and the National Security Division’s National Security Cyber Section led the disruption effort. Black Lotus Labs ® at Lumen and Microsoft Threat Intelligence provided valuable technical contributions to this announcement. MIT Lincoln Laboratory provided valuable assistance with testing and validation.

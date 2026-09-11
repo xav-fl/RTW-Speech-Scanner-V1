@@ -1,0 +1,19 @@
+Today, the Justice Department is announcing an anti-fraud initiative that will materially strengthen its working relationship with whistleblowers. The Civil Division has experienced a rapid increase in the number of qui tam complaints filed in recent years. Much of this surge has been driven by companies or individuals who analyze publicly available government data for potential signals of fraud (data miners), rather than the insiders who have traditionally served as relators under the federal False Claims Act (FCA).
+
+The Civil Division welcomes the contributions of data miners but will prioritize working with data miners that demonstrate an insightful application of sophisticated technological capabilities to regulatory frameworks to help identify potential fraud that would otherwise go undetected. To support the Civil Division’s capacity to identify and partner with the best data miners, the Civil Division is launching the Fraud Oversight through Careful Use of Statistics (FOCUS) initiative.
+
+> Sophisticated data analytics have become an increasingly important means of identifying fraud trends and uncovering patterns of misconduct across federal programs,
+
+said Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division.
+
+> The FOCUS initiative reflects our commitment to ensuring that the Civil Division is engaging with the strongest and most effective partners in the war against fraud.
+
+> We are interested in hearing from data miners who believe they have developed particularly effective tools for detecting fraud against the government,
+
+said Deputy Assistant Attorney General Brenna E. Jenny of the Justice Department’s Civil Division.
+
+> Participants should be prepared to explain what differentiates their approach, how they validate their findings, and why their methodology provides a reliable basis for identifying high-quality, actionable False Claims Act matters.
+
+Through the FOCUS initiative, data miners will have an opportunity to meet with the Civil Fraud Section to discuss their capabilities and outline why and how their data signals reliably correlate to fraud. Such meetings are not a pre-filing requirement, but the Department will prioritize working with data miners that have demonstrated an investment in pre-filing diligence and commitment to analytical rigor, familiarity with program rules, and legally sufficient allegations.
+
+Data miner relators interested in meeting with the Department may submit the FOCUS Initiative White Paper Questionnaire, available here, by email to FOCUS.dataminers@usdoj.gov.

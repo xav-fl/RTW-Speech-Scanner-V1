@@ -1,0 +1,35 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-lee-zeldin-travels-greensboro-north-carolina-stops-focused-manufacturing",
+ "institution_id": "us-epa",
+ "title": "Administrator Lee Zeldin Travels to Greensboro, North Carolina, for Stops Focused on Manufacturing and Agricultural Innovation",
+ "date": "2026-06-18",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "69ba456e14d4fc5938b594f98020c3bd023c17bc0791520e039d7acae2783601",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

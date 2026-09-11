@@ -4,9 +4,10 @@ Two things make this stage auditable:
 
 1. The model returns *unit IDs*, never quote text. The quote is reconstructed
    from the frozen document in validate.py, so it is verbatim by construction.
-2. JEL classification is a two-stage selection from the frozen taxonomy — pick
-   a major category from the full list, then a code from that branch only. The
-   model can never emit a code that does not exist.
+2. JEL classification is a single selection from the flat list of active
+   three-character codes. The model picks codes; it never picks a branch, and
+   it never supplies a parent or a title, which are looked up from the list.
+   A code that is not on the list is refused rather than written.
 
 The document is supplied in full; the model does no searching. Every call is
 cached by a hash of its inputs so a re-run replays rather than re-queries.
@@ -21,7 +22,9 @@ from typing import Optional
 import inspect
 
 from .models import Document, JELAssignment, Observation
-from .jel import JELTaxonomy
+from .jel import ActiveJELList, JELTaxonomy
+from anthropic import Anthropic
+
 from .providers import AnthropicProvider, ModelProvider
 
 PROMPT_VERSION = "P6-units-blind"
@@ -43,22 +46,23 @@ def prompt_fingerprint() -> str:
     computed from the prompts themselves, so every output row records exactly
     which wording produced it whether or not you remembered to relabel.
 
-    Both system prompts are hashed, and so is the source of the three methods
-    that build user messages: build_user_message(), classify() and _refine().
-    Those methods contain prompt wording too — the residual-code guidance in
-    _refine() is prompt text by any reasonable definition — and hashing only the
-    system constants leaves changes to it invisible in the provenance columns.
+    Both system prompts are hashed, and so is the source of the two methods
+    that build user messages: build_user_message() and classify(). Those methods
+    contain prompt wording too, and hashing only the system constants leaves
+    changes to it invisible in the provenance columns.
 
     Method source is hashed wholesale, so editing a comment or renaming a local
     variable inside those methods also moves the fingerprint. That is the safe
     direction: a fingerprint that moves without a wording change is noise, but a
     fingerprint that holds still despite one is a false provenance record.
+
+    _refine() used to be hashed here too. It selected within a branch and no
+    longer exists.
     """
     parts = [EXTRACT_SYSTEM, JEL_SYSTEM]
     for fn in (
         Extractor.build_user_message,
         Extractor.classify,
-        Extractor._refine,
     ):
         parts.append(inspect.getsource(fn))
     return hashlib.sha256("".join(parts).encode("utf-8")).hexdigest()[:12]
@@ -113,7 +117,13 @@ You assign JEL classifications to a quoted policy statement for an academic \
 economics dataset.
 
 Classify the economic content of the QUOTATION, not the identity of the agency \
-that produced it. Choose from the supplied list only. Do not invent codes.
+that produced it. You will be given the full list of active three-character JEL \
+codes. Choose from that list only, and return codes exactly as they appear in \
+it. Do not invent codes, and do not return a one- or two-character category.
+
+Assign one to three codes. Put the best and most central code first. Add a \
+second or third only when it covers a distinct and important part of the \
+quotation. Do not pad to three.
 
 Rules:
 - When a passage names both a policy area and a policy instrument, classify by \
@@ -123,18 +133,31 @@ taxation), unless the instrument itself is the substance of the claim.
 data, forecasting, or methodology.
 - Do not assign H codes merely because a government official is speaking.
 - Do not assign D04 merely because the passage discusses policy.
-- Assign a secondary classification only when there is an additional, \
-substantively important economic dimension. At most two. Fewer is better.
-- Before selecting a code at any level, identify in a few words the specific \
-mechanism, instrument, population, or outcome the quotation names — a funding \
-formula, a staffing incentive, an eligibility rule, a governance structure, a \
-market intervention, and so on. The code you choose must match that phrase. \
-This dataset exists to reveal what policymakers are actually choosing to do, \
-so a classification that would fit almost any government statement is not \
-doing its job, whatever its title happens to be.
+- Before selecting any code, identify in a few words the specific mechanism, \
+instrument, population, or outcome the quotation names — a funding formula, a \
+staffing incentive, an eligibility rule, a governance structure, a market \
+intervention, and so on. The codes you choose must match that phrase. This \
+dataset exists to reveal what policymakers are actually choosing to do, so a \
+classification that would fit almost any government statement is not doing its \
+job, whatever its title happens to be.
+
+Give each code a match strength describing how well it fits. This is a semantic \
+match score, not a probability and not your confidence:
+  3 — direct: the code describes a central part of the quotation;
+  2 — strong: the code clearly fits an important part, but the quotation is \
+broader or less specific;
+  1 — weak: the code is plausible, but substantial interpretation is needed.
+
+If the quotation has no defensible economic research or policy object at all, \
+return an empty "codes" list. Economic content normally concerns behaviour, \
+choice, incentives, allocation, markets, production, welfare, distribution, \
+valuation, regulation, or the effects of public policy; a statement is not \
+economic merely because an economist could study it. Returning nothing is a \
+valid answer and the observation is set aside — do not reach for a weak code to \
+avoid giving it.
 
 Return ONLY JSON, no preamble, no markdown fences:
-{"primary": "<code>", "secondary": ["<code>", "<code>"]}
+{"mechanism": "<a few words>", "codes": [{"code": "I22", "strength": 3}]}
 """
 
 
@@ -216,11 +239,23 @@ class Extractor:
         cache: Optional[ResponseCache] = None,
         prompt_version: str = PROMPT_VERSION,
         identity_mode: str = "blind",
+        active: Optional[ActiveJELList] = None,
     ):
         if identity_mode not in IDENTITY_MODES:
             raise ValueError(f"identity_mode must be one of {IDENTITY_MODES}")
         self.tax = taxonomy
+        # The dated flat list classification selects from. `taxonomy` is still
+        # accepted and still used elsewhere in the pipeline; classification does
+        # not read it any more.
+        if active is None:
+            from .pipeline import load_active_codes
+            active = load_active_codes()
+        self.active = active
         self.cache = cache
+        # Store the client directly for prompt caching support. When client is
+        # passed directly (not wrapped in a provider), we can use it with
+        # cache_control for cost savings on the large code list.
+        self._direct_client = client
         self.prompt_version = prompt_version
         self.identity_mode = identity_mode
 
@@ -303,159 +338,98 @@ class Extractor:
     def classify(
         self, quote: str, context: str = ""
     ) -> tuple[JELAssignment, list[JELAssignment], str]:
-        majors = self.tax.majors()
-        # Each major with its two-character subcategories nested underneath,
-        # so the branch is chosen knowing what is inside it rather than from
-        # titles alone. Three-character codes are left to _refine().
-        lines: list[str] = []
-        for c in majors:
-            lines.append(f"{c.code} — {c.title}")
-            for sub in self.tax.subcategories(c.code):
-                lines.append(f"  {sub.code} — {sub.title}")
-        major_list = "\n".join(lines)
+        """Pick one to three three-character codes from the flat active list.
+
+        One call, one list, no branch. The previous version chose a major
+        category first and then searched inside it, which meant a wrong turn at
+        the top could not be recovered lower down: the code that actually fitted
+        was never on the table. Here every code competes on every call.
+
+        The model returns codes and strengths only. Parents and titles come from
+        the list by lookup, so it cannot emit a code that does not exist, cannot
+        corrupt a title, and cannot return a level mismatch — the three failure
+        modes the old two-stage path spent its recovery logic on.
+
+        Returns (primary, secondary, mechanism). An empty result means the
+        classifier found no defensible economic object; the caller leaves the
+        assignments empty and validation sets the observation aside.
+
+        Prompt caching: if a client was provided directly (not via provider),
+        uses the Anthropic SDK's cache_control to cache the code list across
+        calls. The provider.call() fallback does not support caching.
+        """
         user = (
             f"QUOTATION:\n{quote}\n\n"
             f"{('CONTEXT: ' + context) if context else ''}\n\n"
-            f"Choose the single major category whose subtree best fits the "
-            f"economic content, and up to two others only if substantively "
-            f"justified. The subcategories are listed under each major so you "
-            f"can see what competes with it.\n\nMAJOR CATEGORIES:\n{major_list}\n\n"
-            'Return {"primary": "<letter>", "secondary": ["<letter>"]}'
+            f"ACTIVE JEL CODES — choose only from these:\n"
+            f"{self.active.prompt_lines()}\n\n"
+            'Return {"mechanism": "<a few words>", '
+            '"codes": [{"code": "<three characters>", "strength": 3}]}'
         )
-        top = _parse_json(self._call(JEL_SYSTEM, user, max_tokens=500))
 
-        major, hint = self._resolve_major(str(top.get("primary", "")).strip())
-        primary, mechanism = self._refine(quote, major, sub_hint=hint)
-        secondary: list[JELAssignment] = []
-        for code in (top.get("secondary") or [])[:2]:
-            sec_major, sec_hint = self._resolve_major(str(code).strip())
-            a, _ = self._refine(quote, sec_major, sub_hint=sec_hint)
-            if not a.is_empty() and a.major_code != primary.major_code:
-                secondary.append(a)
-        # Only the primary branch's phrase is kept: it is the one attached to
-        # the code that lands in `jel_primary_*`.
-        return primary, secondary, mechanism
+        # Try the cached path first (direct client with cache_control). Falls
+        # back to provider.call() if no client was given.
+        picked_text = None
+        if self._direct_client is not None:
+            try:
+                response = self._direct_client.messages.create(
+                    model=self.model,
+                    max_tokens=600,
+                    system=[
+                        {
+                            "type": "text",
+                            "text": JEL_SYSTEM,
+                            # Cache the system prompt and the list together. The
+                            # list is byte-identical on every call, so this is the
+                            # big cost win: 30KB paid once, reused across thousands.
+                            "cache_control": {"type": "ephemeral"},
+                        }
+                    ],
+                    messages=[
+                        {
+                            "role": "user",
+                            "content": user,
+                        }
+                    ],
+                )
+                if response.content and response.content[0].type == "text":
+                    picked_text = response.content[0].text
+            except Exception:
+                # If direct client fails for any reason, fall back to provider.
+                pass
 
-    def _resolve_major(self, code: str) -> tuple[str, str]:
-        """Resolve whatever the model returned in a major-category slot.
+        # Fallback: use the provider if no client was given or it failed.
+        if picked_text is None:
+            picked_text = self._call(JEL_SYSTEM, user, max_tokens=600)
 
-        classify() asks for a single letter, but it now shows subcategories
-        alongside the majors, and a model reading that list answers "I2" often
-        enough to matter. validate_jel() rejects a non-level-1 major outright,
-        which loses the whole observation -- the same trade _refine() already
-        refuses one level down, and the cost is higher here because a bad major
-        takes the row with it rather than just its specificity.
-
-        So walk up instead of failing: a level-2 code yields its parent major
-        and survives as a subcategory hint, and a level-3 code yields both of
-        its ancestors. A code that is not in the frozen taxonomy at all is
-        still dropped -- recovery applies to real codes at the wrong depth,
-        never to invented ones.
-
-        Returns (major, sub_hint), both empty when nothing is recoverable.
-        """
-        node = self.tax.by_code.get(code)
-        if node is None:
-            return "", ""
-        if node.level == 1:
-            return code, ""
-        if node.level == 2:
-            return node.parent, code
-        parent = self.tax.by_code.get(node.parent)
-        if parent is None or parent.level != 2:
-            return "", ""
-        return parent.parent, node.parent
-
-    def _refine(self, quote: str, major: str,
-                sub_hint: str = "") -> tuple[JELAssignment, str]:
-        """Given a major category, pick a subcategory and detailed code from
-        that branch only.
-
-        `sub_hint` is a subcategory the model already named in classify(). It
-        is deliberately not shown in the prompt: this variant changes parsing
-        only, so the wording stays identical to P5 and any movement in the
-        numbers is attributable to the fix rather than to new instructions.
-        It is used as a fallback when this call's own answer does not survive
-        verification, so a level-2 answer upstream recovers specificity that
-        would otherwise be cleared to a bare major.
-
-        Returns the assignment and the `mechanism` phrase the model stated
-        before naming a code. The phrase is recorded, never fed back in.
-        """
-        if not major or major not in self.tax.by_code:
-            return JELAssignment(), ""
-
-        # Verified against the taxonomy on the way in, and discarded unless it
-        # is a real subcategory sitting under this major.
-        if sub_hint and (sub_hint not in self.tax.by_code
-                         or self.tax.by_code[sub_hint].level != 2
-                         or self.tax.by_code[sub_hint].parent != major):
-            sub_hint = ""
-
-        branch: list[str] = []
-        for sub in self.tax.subcategories(major):
-            branch.append(f"{sub.code} — {sub.title}")
-            for det in self.tax.detailed(sub.code):
-                branch.append(f"  {det.code} — {det.title}")
-        if not branch:
-            return self.tax.fill_titles(JELAssignment(major_code=major)), ""
-
-        user = (
-            f"QUOTATION:\n{quote}\n\n"
-            f"Within major category {major}, choose the most specific code the "
-            f"quotation clearly supports. Prefer a three-character code when it "
-            f"clearly fits; otherwise give only the two-character subcategory "
-            f"and leave 'detailed' empty. Do not stretch for specificity.\n\n"
-            f"First, in a few words, name the specific mechanism, instrument, "
-            f"population, or outcome the quotation names. Then check every code "
-            f"in the list below and choose the one whose title most precisely "
-            f"matches what you just named.\n\n"
-            f"AVAILABLE CODES:\n" + "\n".join(branch) + "\n\n"
-            'Return {"mechanism": "<a few words>", "sub": "<code>", '
-            '"detailed": "<code or empty>"}'
-        )
-        picked = _parse_json(self._call(JEL_SYSTEM, user, max_tokens=400))
+        picked = _parse_json(picked_text)
         mechanism = str(picked.get("mechanism") or "").strip()[:200]
-        sub = str(picked.get("sub", "")).strip()
-        det = str(picked.get("detailed", "")).strip()
 
-        # Selection from a fixed list, then verified against the taxonomy.
-        #
-        # The prompt asks for a two-character code in "sub" and a
-        # three-character one in "detailed", but both are shown in one indented
-        # list above and the model sometimes returns a detailed code in the
-        # "sub" slot. Demote it and recover its parent here, rather than
-        # passing a level mismatch to validate_jel(), which rejects the whole
-        # observation -- losing a quotation that has already passed every
-        # structural check.
-        known = self.tax.by_code.get(sub)
-        if known is not None and known.level == 3:
-            det = det or sub
-            sub = known.parent
+        assignments: list[JELAssignment] = []
+        seen: set[str] = set()
+        for entry in (picked.get("codes") or [])[:3]:
+            if not isinstance(entry, dict):
+                continue
+            code = str(entry.get("code") or "").strip().upper()
+            try:
+                strength = int(entry.get("strength") or 0)
+            except (TypeError, ValueError):
+                strength = 0
 
-        # Levels are checked, not only membership. A code that exists but sits
-        # at the wrong depth fails JELTaxonomy.check() later; clearing it here
-        # costs specificity, whereas keeping it costs the observation.
-        if sub and (sub not in self.tax.by_code
-                    or self.tax.by_code[sub].level != 2
-                    or self.tax.by_code[sub].parent != major):
-            sub = ""
+            # Selection from a fixed list, then verified against it. A code that
+            # is not on the list is dropped rather than written: the old path
+            # could recover a real code at the wrong depth, but there are no
+            # depths here, so anything unrecognised is simply wrong.
+            if code in seen or code not in self.active:
+                continue
+            if strength not in (1, 2, 3):
+                continue
+            seen.add(code)
+            assignments.append(self.active.assignment(code, match_strength=strength))
 
-        # Nothing usable came back, but classify() had already named a
-        # subcategory under this major. Falling back to it beats emitting a
-        # bare major code, and it is the same verified taxonomy entry either
-        # way. The detailed code is re-checked against it below.
-        if not sub and sub_hint:
-            sub = sub_hint
-
-        if det and (det not in self.tax.by_code
-                    or self.tax.by_code[det].level != 3
-                    or self.tax.by_code[det].parent != sub):
-            det = ""
-
-        return self.tax.fill_titles(
-            JELAssignment(major_code=major, sub_code=sub, detailed_code=det)
-        ), mechanism
+        if not assignments:
+            return JELAssignment(), [], mechanism
+        return assignments[0], assignments[1:3], mechanism
 
     # -- orchestration -----------------------------------------------------
 

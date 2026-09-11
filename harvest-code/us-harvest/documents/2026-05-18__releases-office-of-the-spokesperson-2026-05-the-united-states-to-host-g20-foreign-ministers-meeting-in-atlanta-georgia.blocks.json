@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/the-united-states-to-host-g20-foreign-ministers-meeting-in-atlanta-georgia/",
+ "institution_id": "us-state",
+ "title": "The United States to Host G20 Foreign Ministers’ Meeting in Atlanta, Georgia",
+ "date": "2026-05-18",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "74788697f8df1808a504f9ebad1b12588e8a2273221b0b4540b834bb168ce90a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

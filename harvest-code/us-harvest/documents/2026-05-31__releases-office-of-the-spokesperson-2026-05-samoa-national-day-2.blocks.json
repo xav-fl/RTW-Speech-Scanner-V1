@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/samoa-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Samoa National Day",
+ "date": "2026-05-31",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "57451cc1b074f3ba6537db1729376f8c2e52051da013f0ad705bd6d9bb45878c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

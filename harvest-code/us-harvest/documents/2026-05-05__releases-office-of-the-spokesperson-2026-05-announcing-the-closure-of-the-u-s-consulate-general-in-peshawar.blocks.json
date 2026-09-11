@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/announcing-the-closure-of-the-u-s-consulate-general-in-peshawar/",
+ "institution_id": "us-state",
+ "title": "Announcing the Closure of the U.S. Consulate General in Peshawar",
+ "date": "2026-05-05",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "6b94c9ed1ea3baac6666e036d4e84933b4b6aaddd88e50a795d0557fe3bf0433",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/u-s-sanctions-on-former-drc-president-for-support-of-armed-group/",
+ "institution_id": "us-state",
+ "title": "U.S. Sanctions on Former DRC President for Support of Armed Group",
+ "date": "2026-04-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "52777283d09f023ceca117a63954093fc18edea0a5fc693799dcf9f6a936effe",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/threats-of-atrocities-around-el-obeid-by-the-rapid-support-forces-and-their-allied-forces/",
+ "institution_id": "us-state",
+ "title": "Threats of Atrocities Around El Obeid by the Rapid Support Forces and Their Allied Forces",
+ "date": "2026-06-22",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "d115834a8eb9d828fe3bff602e33055db2e9105868b4b8b7bcca6d99a3d26550",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-probes-loudoun-county-public-schools-over-alleged-bathroom-filming-incidents",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Probes Loudoun County Public Schools Over Alleged Bathroom Filming Incidents",
+ "date": "2026-05-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "f3026135091454e02dfe251f170fe70d9be7e93e494ac192e057165b4b4ab501",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

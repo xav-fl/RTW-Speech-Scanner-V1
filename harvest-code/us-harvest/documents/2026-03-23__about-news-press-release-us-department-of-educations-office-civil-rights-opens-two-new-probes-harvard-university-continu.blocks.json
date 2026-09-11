@@ -1,0 +1,71 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-opens-two-new-probes-harvard-university-continued-discrimination-campus",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education’s Office for Civil Rights Opens Two New Probes into Harvard University for Continued Discrimination on Campus",
+ "date": "2026-03-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "51014e44a85280facf493169c90212866689d30ab96ece1da41db9f2b361e4bd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Education Linda McMahon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Education Linda McMahon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

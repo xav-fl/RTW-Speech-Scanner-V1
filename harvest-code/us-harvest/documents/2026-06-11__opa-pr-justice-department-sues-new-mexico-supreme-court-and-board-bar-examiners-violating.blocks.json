@@ -1,0 +1,71 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-sues-new-mexico-supreme-court-and-board-bar-examiners-violating",
+ "institution_id": "us-justice",
+ "title": "Justice Department Sues New Mexico Supreme Court and Board of Bar Examiners for Violating the Servicemembers Civil Relief Act",
+ "date": "2026-06-11",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "fb82e6b0e8b1b7e983f1aa54a7a412e23b5952d5d5ed8d5ad9259d02891d24c9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "First Assistant U.S. Attorney Ryan Ellison for the District of New Mexico",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "First Assistant U.S. Attorney Ryan Ellison for the District of New Mexico",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

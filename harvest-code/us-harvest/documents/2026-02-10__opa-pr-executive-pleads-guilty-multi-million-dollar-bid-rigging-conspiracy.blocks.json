@@ -1,0 +1,83 @@
+{
+ "url": "https://www.justice.gov/opa/pr/executive-pleads-guilty-multi-million-dollar-bid-rigging-conspiracy",
+ "institution_id": "us-justice",
+ "title": "Executive Pleads Guilty to Multi-Million Dollar Bid-Rigging Conspiracy",
+ "date": "2026-02-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "f8d2789df2ef6f13f762df4e69d0f93746229d01fda71c111a6cab670317d0c0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Attorney General Omeed A. Assefi of the Justice Department’s Antitrust Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Deputy Assistant Attorney General Omeed A. Assefi of the Justice Department’s Antitrust Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Special Agent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

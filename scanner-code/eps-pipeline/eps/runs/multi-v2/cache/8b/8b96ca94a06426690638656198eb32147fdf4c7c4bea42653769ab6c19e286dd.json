@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4b2321f899.P001.S001\"], \"anchor\": \"emphasise the importance of taking an appropriately pragmatic and proportionate approach in respect of deliverability and viability when examining local plans\", \"reason\": \"Minister directs planning body on viability assessment approach for local plans\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

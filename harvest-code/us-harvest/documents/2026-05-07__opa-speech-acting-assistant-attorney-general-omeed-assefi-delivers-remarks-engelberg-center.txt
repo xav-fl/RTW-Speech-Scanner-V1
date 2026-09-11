@@ -1,0 +1,105 @@
+Remarks as Prepared for Delivery,
+
+> Shirley Temple Antitrust: A Fresh Take on an Old Classic
+
+Good afternoon – thank you for having me here. I’d like to thank New York University Law School for hosting this event and inviting me to speak about our approach to merger enforcement. And I’d like to particularly thank my good friend Bill Rinner for helping organize today’s event. I have learned so much from Bill — in life and in antitrust. Your continued success in life is certain precisely because of the person you choose to be, in good times and in bad. We miss you at the Division.
+
+It is axiomatic that if free markets are the lifeblood of the American economy, competition is its beating heart. Competition is what pushes companies to deliver innovation, affordability, and prosperity for consumers and workers. It has been the driving force for the dramatic increase in the standard of living in America over the last 150 years. It preserves freedom of choice so consumers can choose which products are of the highest quality for the lowest price. It allows market forces to drive technological improvements and lower the costs of goods and services. In short, the downstream impacts of robust competition affect every aspect of a person’s life.
+
+Our duty at the Antitrust Division is to protect competition so that consumers, workers, and businesses can continue to benefit from free markets. As part of the President’s agenda, we are prioritizing enforcement that affects affordability, including household staples, such as food, energy, and healthcare.
+
+For example, two months ago, here in New York, we sued the New York-Presbyterian Hospital system for contractual restrictions that prevent insurers and employers from offering New Yorkers lower-cost health insurance plans. [1]
+
+A major component of our duty at the Justice Department is to get out of the way of transactions that do not raise competitive concerns so that we can protect the American public by focusing on the anticompetitive mergers that do concern us.
+
+To be clear, the vast majority of mergers do not threaten competition, our job is to address the ones that do. And I’m pleased to announce that the Division practices what it preaches. If you have the pleasure of visiting my staff and I you’ll find a sign outside our Antitrust conference room at Main Justice that says:
+
+> Before entering this room, you acknowledge and concede that in FY25, the Antitrust Division approved 99.5% of all mergers submitted to DOJ for HSR review.
+
+As an aside, I must acknowledge that the sign I’m so proud of hanging may need a light revision. One of the seminal moments of my career was the opportunity to represent the Office of the President in the Mueller Investigation. And, as life would have it, one of the most enduring aspects of the investigation occurred after my departure from the White House to the Justice Department. In response to Special Counsel Mueller’s written statement that he could not exonerate the President, my boss and mentor, Emmet Flood, responded that it’s of course never a prosecutor’s job to exonerate anyone. A prosecutor either brings charges or doesn’t. Only a judge or a jury can exonerate someone.
+
+In that vein, I’ll ensure that our sign’s revision states the percentage of mergers we do not block. Because of course, it is not our job at the Division to ever approve mergers. We either block or don’t block. And as Bill and my merger deputy Charlie Beller have noted, there is no presumption that mergers are harmful and the overwhelming majority proceed without issue.
+
+Today, I would like to tell you about how we are using merger enforcement to protect the American economy. Our approach is based on transparency, practicality, and precision. Our role is to provide a predictable and consistent framework for merger review that can give companies a roadmap to procompetitive dealmaking.
+
+A consistent and predictable merger enforcement framework reduces transaction costs by reducing the uncertainty of government intervention. And the transparency of our approach ensures that parties are aware of what problems will compel us to convince a federal judge that the merger should be stopped.
+
+Today I will specifically address: 1) Engagement with our Division; 2) Our Division’s current settlement approach; and 3) Our Division’s willingness to litigate if necessary.
+
+Engagement with the Division
+
+Our statutory duties are to protect the American public by stopping transactions that will harm competition. Not to act as a bureaucratic roadblock to mergers that do not raise competitive concerns in industries we may not like.
+
+Our goal as a law enforcement agency is to protect free markets, not to act as central planners. Hence, our preference for structural remedies. We do not pick winners and losers in industries; we analyze the specific facts and market dynamics at issue and determine if a merger violates the antitrust laws. We are not here to abuse our statutory powers, such as opening merger investigations to investigate broader competitive concerns in the marketplace. Our goal is to be precise and enforce the law against illegal mergers. And as Bill once noted, the best way to be precise is to use a scalpel not a sledgehammer.
+
+We believe that transparency helps curb waste. It is fundamental to good government that we not hide the ball. If we have concerns, we will tell you to your face, consistent with our law enforcement mission. Our ability to faithfully and fairly enforce the laws necessarily depends on hearing the perspectives of all sides, then reaching a principled decision on the merits, and communicating that decision as soon as possible.
+
+In return, we expect the merging parties to provide the same respect for the merger review process. So, to make clear our expectations:
+
+It is non-negotiable that parties comply with our HSR process and adhere to the HSR filing requirements. This includes fulsome filings, accuracy, and no gamesmanship. We routinely investigate HSR non-compliance issues under Section 7A of the Clayton Act and we will continue to do so. Antics like altering HSR documents to hamper or avoid our review or gun jumping, for example, will never be tolerated. There is no pro-competitive justification for that kind of conduct, which is why it will be fully investigated and prosecuted.
+
+In the preliminary investigation phase, it is in the merging parties’ interest to fully answer voluntary request letters. This information provides us with highly informative data points that allow us to assess whether a Second Request is needed. And it won’t surprise you that only 1% of our mergers go to Second Request. When parties are not open with us and don’t provide the information requested, then my staff and I will not have as strong of a basis to form an accurate assessment and credit any arguments the parties are putting forth. To paraphrase what Michael Corleone once told Carlo Rizzi,
+
+> it insults our intelligence and makes us very angry.
+
+The best way to avoid a Second Request is to be responsive and transparent during the initial HSR waiting period. That is your chance to persuade staff there is no issue based on facts and evidence. We are always willing to engage on the merits prior to a Second Request, but that doesn’t relieve you of your responsibility to provide us with the information we need to meaningfully and productively engage. Absent this key information, early advocacy can ring hollow, seem unserious and appear performative.
+
+After a Second Request has been issued, it is imperative that parties do not play games with documents and data. We are more than willing to work with parties on narrowing or modifying requests but dumping documents and data on us at the last minute appears intentional and is counter-productive. It wastes our time managing the clock rather than engaging on substance. We can only make effective decisions based on a review of the complete record. Submitting documents and data last minute raises questions about the legitimacy of your advocacy.
+
+One primary change with our administration obviates one of the incentives in document dumps: the Division has returned to negotiating reasonable timing agreements that benefit both sides. It is in companies’ interests to engage with us on legitimate timing agreements so that we can fully review the materials while also giving you some certainty to the timing of the transaction.
+
+Further, we welcome advocacy from the parties at any stage of an investigation. As I like to say, my staff and I will meet with anyone. To paraphrase Coach Prime, we ain’t hard to find. We encourage white papers, staff meetings, and antitrust leadership meetings. This dialogue is crucial to reaching the correct decision.
+
+But as a warning to companies and their attorneys, we know when you are trying to mislead us. The best advocacy has detailed citations and evidence. We know you will be tempted to tell us that AI is replacing your industries. We get it. We hear that a lot. For us to take it seriously, we expect it to be backed up with actual evidence.
+
+And for the instances where merging parties unilaterally modify their transaction while it is under review. Don’t assume that a unilateral fix will solve our concerns. We are prepared to challenge transactions where we think the parties’ unilateral fix is insufficient.
+
+Settlement Approach
+
+On settlements, our Division is open to consent decrees that fully resolve the competitive concerns raised by mergers. At times, consent decrees are the best form of justice because they solve the competitive concerns quickly, avoiding protracted and costly litigation and appeals. This gives the American public certainty on the terms of the merger and allows the merging parties to close their transactions in timely fashion.
+
+To be clear, no one wants to go to trial more than me. But our mission in the Department, on behalf of the United States, is not merely to try cases for the sake of trying them. It is to secure justice. And justice can be secured in many different forms. As I tell my wonderful staff, you secure justice every single day: through opening an investigation, issuing a CID, moving to a second request, or settling a case that resolves the competitive concerns that are the focus of our investigation and alleged in our complaint.
+
+For example, in the last five months, we’ve reached settlement in three mergers where the parties agreed to structural remedies that resolved our concerns:
+
+Constellation/Calpine: Last December, [2] we reached a settlement with electricity generation firms Constellation and Calpine that required the divestiture of six power plants. Constellation’s proposed acquisition of these six plants threatened to harm tens of millions of electricity consumers in the mid-Atlantic and Texas leading to Texas Attorney General Ken Paxton joining our settlement.
+
+CMCO/Kito Crosby: This past January, we reached a settlement with Columbus McKinnon Corp. (“CMCO”) to resolve concerns related to its merger with Kito Crosby. [3] The companies were two of the leading manufacturers of electric chain hoists and overhead lifting chains, which are relied on in industries across the economy, such as automotive, aerospace, energy, construction, and logistics. Under the consent decree, CMCO is required to divest its power chain hoist business to Pacific Avenue Capital Partners, LLC, an American company who will use the assets to continue to compete in the power chain hoist markets.
+
+Reddy Ice/Arctic Glacier: Also, in January, [4] we reached a settlement with Reddy Ice and Arctic Glacier that required the parties to divest overlapping assets in California, Massachusetts, New York, Oregon, and Washington to preserve competition in those markets.
+
+These three mergers were alike in that they contained problem aspects that formed the basis of our focus as well as other parts that did not raise competitive concerns. Our settlements allowed us to protect consumers from the precise anticompetitive segments, while the transaction was able to proceed without costly protracted litigation.
+
+These mergers also demonstrate our commitment to structural relief which was also a priority of the Division during Presidents Trump’s first administration. In many cases, structural relief is more certain, effective, and cost efficient than behavioral remedies. It allows for the resolution of competitive concerns without the need for the Division or Courts to engage in costly monitorship. It doesn’t mean structural relief is always preferable to behavioral relief. Structural relief simply allows us to use a scalpel, fix the problem, and get out of the way.
+
+Willingness to Litigate
+
+If we cannot reach a settlement agreement, our Division is willing and excited to litigate. We have a highly talented and hardworking staff of attorneys, economists, and paralegals with years of litigation experience. They are prepared and ready to take on the fast-paced nature of any merger challenge. As I routinely tell companies and their lawyers in our party meetings, going to trial is a bonus for us.
+
+We are willing and able to litigate anticompetitive mergers precisely because merger enforcement failures can lead to harm to consumers, monopolized markets, and costly litigation. This is evident from past merger enforcement merger failures like Live Nation/Ticketmaster in 2010 or Google’s acquisition of DoubleClick in 2008, which enabled Google’s and Live Nation’s exclusionary conduct in the years that followed.
+
+The lesson learned is that the Division is ready and willing to litigate merger cases if we do not get the necessary relief in a settlement. In a dynamic economy like ours, we are also prepared to litigate novel theories and novel issues that threaten future competition.
+
+Merger enforcement is not a broad stroke exercise. It is a precision exercise designed to provide certainty and clarity while also detecting and eliminating anticompetitive mergers. We accomplish this mission by staying true to the laws Congress passed and engaging with the parties and American public. We welcome advocacy from the parties, as well as complaints and views from consumers, competitors, and the public at-large.
+
+Conclusion
+
+I’d like to end with a final reflection. An enduring part of Bill’s time with the Division over two stints was his salient observation last year that mergers should not be negotiated over martinis. And as someone who hasn’t had a drink since Lent of 2020, I couldn’t agree more.
+
+Our work is important and our mission is critical. Antitrust negotiations over martinis belies the seriousness of our work and the substantive negotiations our Division requires for settlement discussions to be fruitful. Which is why I stick to Shirley Temples.
+
+I’d simply add that in sticking to these principles, we—as antitrust practitioners—must ensure that our profession remains open to all who treat it with the respect it deserves. We should welcome new practitioners, enforcers, scholars, and students alike to take up antitrust. It is a rewarding profession and that never ceases to satisfy even the most advanced minds. And for that reason, we must resist attempts to take an already exclusive club, down an insular and self-reverential path.
+
+Fresh perspective fueled by new entrants who may challenge long-held assumptions enlarges our community and strengthens the legitimacy and effectiveness of our enforcement decisions. Encouraging more people to take up antitrust should provide us all with the necessary hope and reassurance that the weighty problems that lie ahead will be met with a dynamic, optimistic, and intellectually diverse array of problem solvers.
+
+Meaning, openness in antitrust is not merely about how we approach companies and parties: it is about how we encourage people to make antitrust their calling so that we can more readily provide instant relief to the American people as fast as possible. Not two-three years from now. Not after we put in resources, time, energy, and emotions into an appeal that may go our way. We want relief and we want it now. Because as Shirley Temple said,
+
+> Time is money. Wasted time means wasted money means trouble.
+
+[1] https://www.justice.gov/opa/pr/justice-department-sues-new-york-presbyterian-hospital-anticompetitive-contracts-increase
+
+[2] https://www.justice.gov/opa/pr/justice-department-requires-divestitures-proceed-constellations-proposed-266-billion
+
+[3] https://www.justice.gov/opa/pr/justice-department-requires-columbus-mckinnon-divest-assets-proceed-acquisition-kito-crosby
+
+[4] https://www.justice.gov/opa/pr/justice-department-requires-reddy-ice-divest-assets-proceed-proposed-acquisition-arctic

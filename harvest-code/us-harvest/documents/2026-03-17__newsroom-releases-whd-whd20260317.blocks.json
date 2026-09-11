@@ -1,0 +1,41 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260317",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor to host educational seminar for agricultural industry employers, workers, other stakeholders",
+ "date": "2026-03-17",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "e5e05213e5880c83e8eeeb08f0e9cbf3c345f230d4abe9056795179e24fef46a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

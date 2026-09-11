@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/djibouti-national-day/",
+ "institution_id": "us-state",
+ "title": "Djibouti National Day",
+ "date": "2026-06-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "b30b3dfe49ce6b86c9d2df2b773e877d1478327f2030b1a1a14ac19dc71b5111",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

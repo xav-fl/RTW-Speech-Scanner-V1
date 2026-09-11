@@ -1,0 +1,77 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-labor-announce-additional-grant-competition-under-elementary-and-secondary-education-partnership",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education and U.S. Department of Labor Announce Additional Grant Competition Under Elementary and Secondary Education Partnership",
+ "date": "2026-05-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c444b51122f2b622e5615147342a10e07c031041c26063dbf66e729fe3f515c1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for the Office of Elementary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for the Office of Elementary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Employment",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

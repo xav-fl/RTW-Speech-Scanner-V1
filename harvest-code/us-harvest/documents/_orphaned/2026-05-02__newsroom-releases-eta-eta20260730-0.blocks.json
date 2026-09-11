@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260730-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor awards $5.6M to serve eligible individuals in Florida communities impacted by Spirit Airlines closure",
+ "date": "2026-05-02",
+ "date_source": "body",
+ "source_document_type": "ETA",
+ "text_sha256": "73d11882c79d4df0a44bf8d61a0d1221e9220a18e8a9d41bec023952c3bc76ae",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

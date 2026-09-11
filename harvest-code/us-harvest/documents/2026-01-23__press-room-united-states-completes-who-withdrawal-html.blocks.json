@@ -1,0 +1,53 @@
+{
+ "url": "https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html",
+ "institution_id": "us-hhs",
+ "title": "United States Completes WHO Withdrawal",
+ "date": "2026-01-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "82017606cd19b0b60cffc52436eb6e43144d8a8978b287f38b1a36a7fbc94294",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

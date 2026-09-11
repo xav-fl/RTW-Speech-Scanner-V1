@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/03/26/best-best-ice-officer-saves-one-year-old-childs-life-jfk-airport",
+ "institution_id": "us-dhs",
+ "title": "BEST OF THE BEST: ICE Officer Saves One-Year-Old Child’s Life at JFK Airport",
+ "date": "2026-03-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "0cd31f5c78b8238db261c69a555cb5669d6d1bb291ed85fd499ea66b79b80307",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Markwayne Mullin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Secretary Markwayne Mullin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

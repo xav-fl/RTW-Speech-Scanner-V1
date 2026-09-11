@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/terminating-legal-status-of-foreign-child-predator-to-protect-american-families/",
+ "institution_id": "us-state",
+ "title": "Terminating Legal Status of Foreign Child Predator to Protect American Families",
+ "date": "2026-07-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "9c2444e88ea304e10f29a8a3ec1699aee5bf04490bf618c22bb948d951ffbb2b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

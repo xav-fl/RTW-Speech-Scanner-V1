@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/seychelles-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Seychelles National Day",
+ "date": "2026-06-29",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "d0dbe278c37fff3754c6152b5b140c3f6d9a83b3e36ccb1e8a363bbdf9633bae",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

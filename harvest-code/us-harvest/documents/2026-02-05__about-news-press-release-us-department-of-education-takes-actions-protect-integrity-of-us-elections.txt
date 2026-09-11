@@ -1,0 +1,21 @@
+Today, the U.S. Department of Education’s (the Department’s) Student Privacy Policy Office (SPPO) launched an investigation into Tufts University (Tufts) and the National Student Clearinghouse (NSC) to determine if the National Study of Learning, Voting, and Engagement (NSLVE) has led to violations of the Family Educational Rights and Privacy Act (FERPA). These actions follow multiple reports alleging that the process of compiling NSLVE data involves illegally sharing college students’ data with third parties to influence elections.
+
+The NSVLE, which is housed at Tufts, states its mission in collecting student data is to increase civic engagement through analysis of student voting behavior. The NSC has agreements with participating colleges and universities that allow the organization to access and share student data. SPPO has reason to believe there could be significant FERPA compliance issues regarding what data is being collected, how the data is shared, who it is shared with, and whether proper consent was obtained from students. The reports submitted to SPPO allege that students’ personally identifying data is shared not only with the NSC and participating institutions, but also with political organizations which aim to influence elections.
+
+SPPO’s investigations seek to identify how the student data is being shared between colleges and universities, Tufts, the NSC, and any other third parties. SPPO’s investigations will also determine whether institutions are following all informed consent requirements under FERPA.
+
+The Department also issued guidance to all postsecondary education institutions clarifying their obligations under FERPA regarding student data privacy and the consequences of noncompliance. This guidance rescinds all Biden-era guidance and policies that encouraged institutions of higher education to participate in the NSLVE and use the data to target certain student populations. SPPO makes clear in this guidance that any institution that utilizes NSLVE data – set to be released this year – could be at risk of being found in violation of FERPA. This guidance clarifies schools’ responsibilities in safeguarding student data, including obtaining consent from students when sharing their information.
+
+> American colleges and universities should be focused on teaching, learning, and research – not influencing elections,
+
+said U.S. Secretary of Education Linda McMahon.
+
+> The Biden Administration, with little to no regard for student privacy laws, openly encouraged institutions to share and utilize student data in order to target certain populations. Our Student Privacy Policy Office will thoroughly investigate this matter to protect students’ private data and ensure that our campuses are fully aware of and comply with their responsibilities under FERPA.
+
+Background:
+
+FERPA is a Federal privacy law enforced by the Department’s SPPO and applies to any educational entity that receives Department of Education funds. FERPA requires institutions of higher education and any third parties acting on their behalf to use reasonable methods to ensure that access to student education records is limited to school officials who have a legitimate educational interest.
+
+FERPA restricts institutions from disclosing student directory information without consent unless they publicly identify precisely what constitutes directory information and enable each student to opt-out of the sharing of their directory information. It also restricts the sharing of non-directory personally identifying information without consent.
+
+Violations of FERPA can result in termination of an educational entity’s Federal funding from the Department.

@@ -1,0 +1,23 @@
+Note: View motion for intervention and dismissal here.
+
+Yesterday, the Justice Department’s Environment and Natural Resources Division (ENRD) filed a motion to intervene and to dismiss a private citizen lawsuit seeking to power down a large artificial intelligence (AI) facility in Southaven, Mississippi.
+
+The filings concern a case where private litigants sued xAI and its subsidiary MZX Tech LLC, alleging violations of Clean Air Act permitting requirements, even though the State of Mississippi — which is charged with administering the permitting program — decided no permit was required. Plaintiffs’ allegations concern the power source for an AI data facility which trains and develops new AI models that are critical to the economy and the Department of War. The private litigants seek an injunction and damages.
+
+> Ultimate responsibility for enforcing federal law belongs to the Executive Branch, not private interest groups,
+
+said Associate Attorney General Stanley Woodward.
+
+> The Department of Justice is committed to maintaining that constitutional order while protecting national security and promoting American energy and innovation.
+
+> The Department of Justice will not sit idly by while private organizations use environmental laws to undermine our national security,
+
+said Principal Deputy Assistant Attorney General Adam Gustafson of ENRD.
+
+> This case reflects the important work of the Environment and Natural Resources Division to unleash American energy for the sake of innovation and security.
+
+President Donald J. Trump’s recently issued executive order Promoting Advanced Artificial Intelligence Innovation and Security tasks federal agencies, committees, and officials to prioritize the promotion of AI innovation and security across the federal government. The Department of War is one of many agencies that protect Americans by utilizing AI. Overly burdensome regulation, including private lawsuits that seek to implement their own environmental enforcement, can threaten technological growth, American energy independence, and national security.
+
+The Clean Air Act gives the federal government authority to intervene in citizen suits, and the Constitution gives responsibility for enforcing the laws to the President. That includes the power to exercise enforcement discretion in the national interest. In its filing, ENRD asked the U.S. District Court for the Northern District of Mississippi to dismiss the lawsuit, which would turn off critical power during an energy emergency and hinder the War Department’s use of AI for national defense.
+
+xAI Motion to Intervene - ENRD.pdf

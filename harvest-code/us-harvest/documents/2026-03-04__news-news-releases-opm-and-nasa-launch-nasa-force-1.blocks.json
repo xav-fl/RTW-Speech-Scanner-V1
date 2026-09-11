@@ -1,0 +1,71 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-and-nasa-launch-nasa-force-1/",
+ "institution_id": "us-opm",
+ "title": "OPM and NASA Launch NASA Force to Recruit Top Talent for America's Space Program",
+ "date": "2026-03-04",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "f9f44cb85aefb28f236b333187dfabea961bff76a4757f7846fdda8081bf7fba",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "NASA Administrator Jared Isaacman",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "NASA Administrator Jared Isaacman",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

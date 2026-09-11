@@ -1,0 +1,89 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/12/icymi-coast-guard-rescues-68-year-old-surfer-who-had-been-stranded-more-24-hours",
+ "institution_id": "us-dhs",
+ "title": "ICYMI: Coast Guard Rescues 68-Year-Old Surfer Who Had Been Stranded for More than 24 Hours",
+ "date": "2026-01-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "5f08cf9e16dcba3c695bfbf7d94560b504a3e28102567bd37ae2b9096896e58b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary Kristi Noem",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Kristi Noem",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Capt. Robert Stiles",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Capt. Robert Stiles",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

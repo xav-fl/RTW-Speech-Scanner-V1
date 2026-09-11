@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dfb86645586.P001.S001\"], \"anchor\": null, \"reason\": \"Amending eligibility criteria for small business relief policy\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "Looking at the quotation, the specific mechanism named is: **defence spending as industrial policy to drive re-industrialisation and regional economic growth in Britain**.\n\nThis is explicitly about using defence as a vehicle for industrialisation/manufacturing revival and backing British industry — that maps directly to industrial policy.\n\nChecking the codes:\n- O25 — Industrial Policy: fits precisely — the statement is about using defence procurement/investment as an instrument of industrial policy to re-industrialise Britain and support manufacturing communities.\n- O14 — Industrialization • Manufacturing: also relevant, but O25 (Industrial Policy) is more precise given the policy framing.\n\nThe quotation is squarely about government industrial policy using defence as the instrument.\n\n```json\n{\"mechanism\": \"defence spending as industrial policy to drive re-industrialisation and regional growth\", \"sub\": \"O2\", \"detailed\": \"O25\"}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

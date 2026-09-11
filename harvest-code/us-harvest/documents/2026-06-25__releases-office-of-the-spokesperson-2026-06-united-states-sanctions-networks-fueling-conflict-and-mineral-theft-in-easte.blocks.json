@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/united-states-sanctions-networks-fueling-conflict-and-mineral-theft-in-eastern-drc/",
+ "institution_id": "us-state",
+ "title": "United States Sanctions Networks Fueling Conflict and Mineral Theft in Eastern DRC",
+ "date": "2026-06-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "6ed62826e9fa5772eac8196a87408b8fd0558d4ffee91df41754e5e6ce3ed50d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

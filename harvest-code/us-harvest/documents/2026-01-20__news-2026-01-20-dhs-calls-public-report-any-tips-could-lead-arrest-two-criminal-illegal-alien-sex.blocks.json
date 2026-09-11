@@ -1,0 +1,83 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/20/dhs-calls-public-report-any-tips-could-lead-arrest-two-criminal-illegal-alien-sex",
+ "institution_id": "us-dhs",
+ "title": "DHS Calls on the Public to Report Any Tips that Could Lead to the Arrest of Two Criminal Illegal Alien Sex Offenders who are at Large in St. Paul, Minnesota",
+ "date": "2026-01-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "46f258b9cb95a38fe4045e4dfb2c09777c8072ecb180ea5029981f53898de3d0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

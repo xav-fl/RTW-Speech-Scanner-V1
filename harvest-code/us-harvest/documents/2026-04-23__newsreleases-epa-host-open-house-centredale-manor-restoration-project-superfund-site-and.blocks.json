@@ -1,0 +1,47 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-host-open-house-centredale-manor-restoration-project-superfund-site-and",
+ "institution_id": "us-epa",
+ "title": "EPA to host open house for the Centredale Manor Restoration Project Superfund Site and the Woonasquatucket River",
+ "date": "2026-04-23",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "91672440e89a9b61f556504b3c3b061e2b0e6ae3f628e4ebf3e478c159997931",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

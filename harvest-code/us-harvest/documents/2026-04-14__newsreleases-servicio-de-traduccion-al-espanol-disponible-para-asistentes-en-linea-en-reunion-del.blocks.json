@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/servicio-de-traduccion-al-espanol-disponible-para-asistentes-en-linea-en-reunion-del",
+ "institution_id": "us-epa",
+ "title": "Servicio de traducción al español disponible para asistentes en línea en Reunión del Sitio Superfund Lower Neponset River Programada para el 21 de abril de 2026",
+ "date": "2026-04-14",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "921000bca65fd8d4d402fdded983c70d23edf511f77062c71a54b66b7b8e0706",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0506/",
+ "institution_id": "us-treasury",
+ "title": "U.S. Treasury Department Announces the G20 Illustrative Template Memorandum of Understanding (MOU) for Future Negotiations Under the Common Framework",
+ "date": "2026-05-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "073343506cd93da813babc886fef8eba5df115d9a42a20b68453d8088a2c47a5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

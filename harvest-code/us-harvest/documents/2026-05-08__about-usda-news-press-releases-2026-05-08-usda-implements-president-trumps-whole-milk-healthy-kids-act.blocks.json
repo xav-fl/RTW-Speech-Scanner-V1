@@ -1,0 +1,71 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/05/08/usda-implements-president-trumps-whole-milk-healthy-kids-act",
+ "institution_id": "us-agriculture",
+ "title": "USDA Implements President Trump’s Whole Milk for Healthy Kids Act",
+ "date": "2026-05-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "9ee126a3ba99560815d2f80db0d001e0cfe0f3487d36d73172f599f6c0268f62",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Secretary of Agriculture Brooke L. Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

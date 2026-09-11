@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/welcoming-artist-who-courageously-stood-against-cuban-regimes-oppression/",
+ "institution_id": "us-state",
+ "title": "Welcoming Artist Who Courageously Stood Against Cuban Regime’s Oppression",
+ "date": "2026-07-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "d48be666748104709cee7365d2477e96eab8464b3b5435ffeccff18d1b92f1c7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

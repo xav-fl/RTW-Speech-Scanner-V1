@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes scaling a housing programme to 10,000 homes per year — a government-led residential construction/housing supply initiative. The specific mechanism is a national programme target for home delivery.\n\nPrimary: R (Urban, Rural, Regional, Real Estate, and Transportation Economics — specifically R3, real estate/housing markets, and R2, household analysis in housing context)\n\nSecondary: H (public expenditure/programme) is tempting but the substance is housing supply, not fiscal mechanics. No strong secondary dimension warrants inclusion.\n\n{\"primary\": \"R\", \"secondary\": []}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

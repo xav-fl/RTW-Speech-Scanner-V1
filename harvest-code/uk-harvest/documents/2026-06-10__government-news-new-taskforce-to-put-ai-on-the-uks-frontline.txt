@@ -1,0 +1,61 @@
+TITLE: New taskforce to put AI on the UK's frontline
+URL: https://www.gov.uk/government/news/new-taskforce-to-put-ai-on-the-uks-frontline
+DATE: 2026-06-10
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Sir Keir Starmer KCB KC MP; The Rt Hon John Healey MP
+
+---
+
+New AI taskforce to accelerate deployment of AI into the hands of British Armed Forces to strengthen UK’s military capabilities.
+
+Taskforce RAID will help troops speed up decision-making, plan more effectively, and use uncrewed systems to reduce risk to human life.
+
+The unit will work with UK businesses to lower the barrier to entry into Defence, supporting jobs in the growing defence technology sector.
+
+British service personnel will be better protected, better informed and more effective on the battlefield as the Prime Minister launches a new Defence AI taskforce – leveraging the UK’s world-class technology industry to prepare the UK for the future of warfare.
+
+As London Tech Week is in full flow, the Prime Minister, today, announced the launch of the Rapid AI Delivery taskforce (RAID), a new unit set up to get robust AI-enabled tools into the hands of Britain’s Armed Forces faster than ever before.   
+
+Established jointly with the Defence Secretary, the taskforce will ensure soldiers, sailors and aircrew have access to smarter technology that helps them make better decisions, take on dangerous tasks with less risk, and outpace adversaries who are rapidly developing their own AI capabilities. 
+
+Prime Minister Keir Starmer said:
+
+Britain faces a clear choice: shape the AI revolution or let it shape us. 
+
+That choice has far reaching impacts across our economy, our public services, and our national security.  
+
+So we are taking control of our future and launching a new taskforce to get cutting-edge AI into the hands of our Armed Forces safely, quickly, and responsibly.
+
+This is Britain at the forefront of innovation: backing our servicemen and women, driving innovation and keeping our country safe.
+
+Defence Secretary John Healey MP said:  
+
+This taskforce will take a new approach to leverage the power of AI and deliver advantages for our Armed Forces quickly and responsibly.
+
+The demands on defence are rising.  Technology is rapidly changing the nature of warfare and we are keeping our forces at the cutting edge to maintain an advantage over our adversaries.  
+
+We’re delivering on our Strategic Defence Review - embracing AI and autonomy - to keep the UK safe.
+
+Reporting directly to the Chief of the Defence Staff, it will accelerate the delivery of the AI capabilities the Armed Forces need. It is led by military and technical experts who have the authority to move quickly, bringing together the best people from government, industry and the Armed Forces to solve real problems at speed. 
+
+Chief of the Defence Staff, Air Chief Marshal Sir Richard Knighton, said:
+
+With the Prime Minister’s direction, and with the Defence Secretary’s absolute support, we have set up the Rapid AI Delivery Taskforce to rapidly and responsibly deploy artificial intelligence-enabled capabilities to the UK’s Armed Forces.
+
+I am determined that TF RAID is not just another piece of window dressing, set up to give us comfort that something is happening. The focus of Taskforce RAID is on delivering necessary operational capability, quickly.
+
+The Taskforce will focus first on a small number of high-impact, pace-setting operational problems. These include establishing AI systems capable of processing intelligence data quickly to support operational decision-making and predictive analysis; and integrating AI into military planning processes to help deliver high-quality, adaptable plans at the speed required in modern operations. To enable rapid development, the taskforce has exemptions from standard financial and procedural controls, and powers to move at the pace of the technology, supported by wider activity to harness the power of AI across Defence and the Armed Forces. 
+
+The taskforce will work with the British tech sector to access a broader market and boost UK SMEs. The first wave of partners to the Taskforce includes Rowden, a UK-based engineering company which recently received a £25m investment from National Wealth Fund to create 500 jobs and scale sovereign technology for national security and resilience.
+
+Building on the foundations of the Department’s Ethics Advisory Panel, we will establish a new AI Expert Advisory Group made up of technical, frontier, ethical and operational delivery experts to ensure we continue to embed this approach as we build and scale our use of AI.  
+
+And in line with all Defence AI activity, the AI taskforce will operate within strict policies and assurance processes to ensure meaningful oversight remains at the heart of its activity.  
+
+The Chief of the Defence Staff set out more detail on the taskforce, and the operational imperative driving this work, in his speech at the AI Summit London today.
+
+The Taskforce is being launched at the same time as a new Defence-wide memo is issued by the Defence Secretary, directing personnel across the department to adopt a more urgent posture towards AI. The memo makes clear that AI is now a core part of how Defence must deter, fight and win, with every part of the organisation expected to identify where AI can improve operational effect, speed up decision-making and remove barriers to safe and responsible adoption.
+
+Together, the memo and creation of Taskforce RAID signal a step-change in Defence’s approach: moving from strategy and pilots to delivery, deployment and frontline advantage.
+
+The launch of the taskforce forms part of the Government’s wider ambition to make the UK one of the world’s leading AI-enabled states: rewiring public services, backing British innovation, strengthening sovereign capability, and ensuring the UK remains at the forefront of responsible technology in national security.

@@ -1,0 +1,83 @@
+{
+ "url": "https://www.hhs.gov/press-room/nih-opens-east-palestine-ohio-health-research-office-study-train-disaster.html",
+ "institution_id": "us-hhs",
+ "title": "NIH Opens East Palestine, Ohio Health Research Office to Study Train Disaster",
+ "date": "2026-02-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "05076ccbb06613da9ac2882e6a678f1bf53a42e6ed074c8effd51c25fa31ca13",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Health",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "NIH Director Jay Bhattacharya",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "NIH Director Jay Bhattacharya",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

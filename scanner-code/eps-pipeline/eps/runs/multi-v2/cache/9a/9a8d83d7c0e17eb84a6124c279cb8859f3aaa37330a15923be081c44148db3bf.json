@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about a multi-year funding settlement for councils — this is intergovernmental fiscal transfers/grants, enabling local government planning. The key mechanism is a multi-year funding formula/settlement between central and local government.\n\nPrimary: H7 (State and Local Government • Intergovernmental Relations) — directly about funding settlements to councils.\n\nSecondary: H6 could apply (budget planning horizon), but it's marginal. The planning confidence aspect relates to fiscal certainty for local governments, which is still within H7's scope. No strong secondary dimension warrants inclusion.\n\n{\"primary\": \"H7\", \"secondary\": []}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

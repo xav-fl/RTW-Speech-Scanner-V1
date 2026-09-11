@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260512",
+ "institution_id": "us-labor",
+ "title": "US departments of Labor, Justice announce enforcement actions against Cloudera Inc. for alleged Immigration and Nationality Act violations",
+ "date": "2026-05-12",
+ "date_source": "listing",
+ "source_document_type": "ETA",
+ "text_sha256": "e182b57804c24f097b439bf1949b3c2d1537453010bd6f0e4eab8b07482d67e8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

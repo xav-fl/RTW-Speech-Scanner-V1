@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/united-states-and-tanzania-advance-global-fight-against-infectious-diseases-through-bilateral-health-memorandum-of-understanding/",
+ "institution_id": "us-state",
+ "title": "United States and Tanzania Advance Global Fight Against Infectious Diseases Through Bilateral Health Memorandum of Understanding",
+ "date": "2026-07-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "9694b328fcd878c0d893dae4be988287ee4d32d543ea3e1cf4aa6a2c6264bd42",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

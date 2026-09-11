@@ -1,0 +1,59 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-grant-competition-empower-states-through-reimagined-comprehensive-centers-program",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Announces Grant Competition to Empower States Through a Reimagined Comprehensive Centers Program",
+ "date": "2026-05-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "4db5018f9bafcb607e1fa8083a997416fda386fff3aaee9228002b68b73e5b71",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for the Office of Elementary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for the Office of Elementary",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

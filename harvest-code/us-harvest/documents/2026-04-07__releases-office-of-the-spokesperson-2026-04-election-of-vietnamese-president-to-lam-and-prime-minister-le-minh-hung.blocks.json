@@ -1,0 +1,17 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/election-of-vietnamese-president-to-lam-and-prime-minister-le-minh-hung/",
+ "institution_id": "us-state",
+ "title": "Election of Vietnamese President To Lam and Prime Minister Le Minh Hung",
+ "date": "2026-04-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "c6b23c77255f383fc618012446ce5bfe05c39ad8ae57ab98c50b20d3d51c38c9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

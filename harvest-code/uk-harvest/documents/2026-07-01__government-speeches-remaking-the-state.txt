@@ -1,0 +1,329 @@
+TITLE: Remaking the state
+URL: https://www.gov.uk/government/speeches/remaking-the-state
+DATE: 2026-07-01
+GOVUK_TYPE: speech
+LINKED_SPEAKERS: The Rt Hon Darren Jones MP
+
+---
+
+Thank you.
+
+It’s great to be here today. 
+
+The last time I was in BT head office was in 2017 when I was a lawyer in the consumer division, and I was telling my boss and general counsel that I was going to stand for the second time [Political content redacted] in Theresa May’s snap election…
+
+…but that I had been informed with a great sense of confidence in the data that there was absolutely no chance of me winning. 
+
+Then a few weeks later, having to call up and say, “I’m really sorry, but I actually won and I can’t work my notice period.”, and they were very good about it. 
+
+The good news is they survived perfectly fine without me.
+
+And great to be back with them in this fantastic new building because in those days there was a BT centre, in St. Paul’s and this is like a lovely new head office for the team here. 
+
+As has been said, I’ve been asked to talk about how we remake the state.
+
+This is something I obviously have been thinking about a lot, in my roles as Chief Secretary to the Treasury, and Chief Secretary to the Prime Minister and I did have some policy announcements to make today but given I am potentially redundant in a couple of weeks I have been told I can’t announce any of them at all.
+
+So I want to take this opportunity to talk about some of the things that I feel I’ve learnt over the last two years, what I’ve done and some of the things that my successors may wish to consider taking forward.
+
+And I know that all of you spend a lot of time thinking about these important questions in your work every day too – from the role of technology in transforming the state to a more fundamental reimagining of the state… 
+
+All of which Re:state has published very important thinking on.
+
+And on which I’m happy to say, there’s a lot we agree.
+
+From the diagnosis to the solutions, some of which I’m proud to have delivered or laid the groundwork for my successor to take forward – and other areas where we maybe disagreed but I’m going to take the opportunity today to explain why I still think I’m right!
+
+I’ll briefly start on the diagnosis
+
+When I entered government as Chief Secretary to the Treasury, and then as Chief Secretary to the Prime Minister, I was struck by how slow everything was. 
+
+How much inertia there has been in the system. 
+
+Too many layers of sign off – with too many people given the right to have an opinion, but in my view not enough people given the right to decide. 
+
+Too many priorities, and not enough focus.
+
+And too little understanding of the real-world supply chain – how does this particular policy paper convert into real change in the world and how do we know if it does? 
+
+And too often an assumption that Whitehall is best placed to fix a problem when often that’s not the case.
+
+So what to do about it.
+
+I said I wanted to promote the doers, not the talkers with a clearer sense of government priorities.
+
+I started by streamlining priorities across Whitehall…
+
+…with a streamlined set of Prime Ministerial priorities so that each department had only two or three top-tier PM priorities.
+
+Importantly, with an agreed set of data and metrics that the department and the centre came to a conclusion was the right way to track performance…
+
+…and clear lines of accountability both through Ministerial teams and Civil Service teams. 
+
+All of that coming together into what we call our integrated delivery dashboard…
+
+…bringing the departments together around one set of data… 
+
+…with a set of criteria that then tracks the performance of those departments.
+
+Opening up some great debates on “why amber-green and not green?
+
+And what is it I need to do to get it from an amber-green to a green?”. 
+
+Now, that might seem quite simple.
+
+But it’s starting to really incentivise performance with clear accountability and that matters. 
+
+I brought in key performance indicators. 
+
+Now in the private sector this may seem crazy to you… 
+
+…but some departments when I arrived at the Cabinet Office did not have KPIs for the previous year…
+
+…and so how could we measure performance?
+
+So we said top civil servants must have key performance indicators… 
+
+…and also to my amazement, many of those KPIs in the past had not been set by Secretaries of State but by Permanent Secretaries…
+
+…so we needed to make sure that the political priorities of Secretaries of State… 
+
+…which in turn include delivering on the Prime Minister’s priorities, which were reflected in those KPIs. 
+
+Making it easier to mark performance against the right metrics. 
+
+I’m still slightly amazed I have to say this out loud, that this is new for the civil service, but it is. Thankfully it is now in place. 
+
+I also raised the bar that senior civil servants must hit to get a cash bonus, awarding higher, but fewer, bonuses to those exceptional civil servants who are genuinely going above and beyond. 
+
+[Political content redacted]
+
+Last month I announced that for the first time, the Government has introduced performance-based pay progression for the entire Senior Civil Service. 
+
+Again just pause on that for a moment.
+
+For the first time, pay rises across the Senior Civil Service in its entirety, will be based on merit and performance – representing one of the biggest changes to Senior Civil Service pay in decades.
+
+[Political content redacted]
+
+I also said I wanted to prioritise delivery over more and more policy.
+
+Because I think we also all agree that there is far too much bureaucracy in government that has disempowered both Ministers and Civil Servants to get on with the job.
+
+Among my teams, this has become affectionately termed “sludge”.
+
+Which means big infrastructure projects like HS2, or even smaller projects, can get bogged down in reviews, approvals and cross-Whitehall homework checking…
+
+Where everybody has a say but no one can act…
+
+…leading to costs spiralling, timelines bloating and ultimately, very little to show for it at the end of the day.
+
+That’s why, last year, as Chief Secretary to the Treasury, I created the National Infrastructure and Service Transformation Authority and housed it specifically in the Treasury… 
+
+…albeit with accountability to the centre in the Cabinet Office. 
+
+And why I launched something called “project RESET”. 
+
+A programme to slash the bureaucracy that civil servants have to wade through to get things done, including raising departmental delegated authority limits so that they could get on with the job without having to come back to me as Chief Secretary to the Treasury constantly asking for approval.
+
+This came into force at the start of this financial year, and has already been proven to speed up delivery of government programmes.
+
+I have to admit, I was interested to see if the Civil Service would seize this opportunity of more freedom and autonomy, in return for more accountability, to crack on and get stuff done more quickly…
+
+…or if the system was so institutionalised to risk aversion that the cross-Whitehall checks I had sought to remove would be replicated within Departments.
+
+I’m delighted to say that it was very much the former, albeit after some nudging for some departments that I will not name.
+
+Under the previous way of working, separate “check-points” were in place for different specialisms as well as for spending – digital, commercial, facilities management…
+
+The commercial “checkpoint” would check around 120 cases every quarter, with about half of which would require Cabinet Office Ministerial to approve it.  
+
+Following Project RESET, I am delighted to announce that this has gone down to zero.
+
+By massively reducing the time spent on the smaller, low-risk projects, it creates space for the specialist assurance teams and Ministers to dedicate their time and attention on higher value, higher risk projects,  which are right prioritised by the Government.
+
+Which brings me to changes and innovations still underway.
+
+TECHNOLOGY AND INNOVATION FELLOWS
+
+First of all, technology.
+
+One thing I am particularly proud of is the expansion of the No10 Innovation Fellowship which I announced in January this year, and how their work continues to go from strength to strength – proving that the potential for technology to completely reimagine the state as we know it…
+
+…is not hyperbole, but a realistic prospect if we bulldoze the hurdles of bureaucracy and prioritise innovation, not hesitation.
+
+The No10 Innovation Fellows recruits the best and brightest in data science, coding and AI through a highly competitive process based on problem-solving and coding – with a success rate of only 0.9% –  bringing people from the likes of CERN, NASA and Y-Combinator into the heart of government.
+
+They have then been embedded on the frontline across 19 departments to create digital solutions tailored to how people actually work, rather than attempting to dictate set ways of digitisation from up high.
+
+For example, one Fellow, Will, was previously at Harvard and founded his own start up in California… had quite a dramatic change of scene, when we sent him on his arrival to HMP Wandsworth on his first mission.
+
+He was given total freedom to embed with the prison staff and within months built bespoke AI tools to automate parts of prison officers’ jobs…
+
+…freeing up hours of their time to focus instead on what only they can do, helping to make our prisons and prison officers safe…
+
+On a recent visit to the prison I was told this is the quickest technology project the Governor had ever seen in his experience of working in the Civil Service, and some of these tools have been so successful they are now being rolled out to other prisons across the country.
+
+Similarly, another Fellow, Teneeka, built a new website for parents to check their entitlement to free childcare hours, estimate their childcare costs, and find local providers by how close they are, how many hours they offer, their OFSTED rating and more – all in one place. 
+
+An example of where we thought about the customer and the customer experience, which is too often not the case when Whitehall is building services.
+
+This is how we need to rebuild the state.
+
+Nimble technology-led experiences, with a clear understanding of the customer experience. A state where innovation can flourish not just in the private sector but in the public sector too.
+
+The No10 Innovation Fellowship is proof it can be done – but unfortunately it is largely the exception, rather than the rule because of for example the “deadweight of legacy IT” as Re:State’s recent report put it so well.
+
+I hope my successor is able to carry this forward, building on what we’ve started, and make sure the huge potential of technology in the public sector doesn’t remain largely untapped.
+
+Which takes me to my most recent announcement on the need for delivery units in each department, and a project manager or delivery expert in each ministerial office – this is the one we disagreed on.
+
+So I’m grateful for this opportunity to explain why this was a good idea.
+
+I got a lot of the stick online saying along the lines of “aren’t all departments delivery units”?
+
+Which is a fair enough question. 
+
+But as I said, while that seems a straightforward truth in principle it’s just not how things have worked in practice.
+
+And this matters specifically for the highest political priorities of the government.
+
+Not every department has a dedicated team for tracking progress against objectives, like a project manager or other teams would in the private sector. 
+
+But the evidence shows that departments that do have those dedicated teams or infrastructure – DfE or DHSC are two examples – do better against their objectives, at greater pace. 
+
+This can be a bespoke arrangement depending on different departments’ needs.It will be different in the Department for Health than the Foreign Office.It may involve Delivery Non-Executive Directors to Delivery Advisors. all the way through to Centralised Delivery Units which we see in DHSC.
+
+But as a Minister, too often I found that if I wanted to get something done, I had to get the right people in every week. To ask for an update and ensure there was hard accountability.
+
+And Ministers can only do that on so many issues. 
+
+So this initiative of requiring departments to have dedicated resource – out of their existing budgets and headcount – is about making sure there is a consistent project management and accountability model across government with a focus on those top political priorities.
+
+With then a route to identifying those barriers and escalating to Ministers and No10 to unblock things where needed.
+
+I’m proud that we have at least re-established the No10 Delivery Unit and integrated it properly into the Cabinet Office team – not two separate teams between No10 and the Cabinet Office, but one working together.
+
+I’m confident that this will leave future governments with a stronger structural and cultural focus on delivery compared to when we started.
+
+COMMUNICATIONS
+
+The final area I want to mention is what is some of the work I’ve been doing with David Dinsmore as our new Permanent Secretary for Government Communications… 
+
+…because I think it’s fair to say that we have been losing the modern information war when it comes to mis- and disinformation and we’re being outrun at every turn. 
+
+Our work estimates that around 2% of the public engage with government communications. 
+
+So to start with, one of the pieces of work that we’ve done is to look at the brand of government communications and how we communicate with the public.
+
+We have so many brands across Whitehall across different departments, arm’s-length bodies, campaigns and more…
+
+Any business focussed on their customers would find this utterly confusing – the sad irony being we’re spending so much time and so much money on doing an ineffective job.
+
+So we’ve started work to change that. 
+
+We have built a new Government Media Unit at the centre of government – to act as an in-house creative agency serving departments with better storytelling…
+
+Creative content which rebuilds trust in government…
+
+On channels which the public engage with, by meeting them where they are.
+
+There are plans in place to further scale this up, along with wider reforms to the Government Communication Service, and this is as essential as reforms to the policy and delivery functions within government.
+
+Because if the public doesn’t believe that we’re making a difference, because they don’t see it…
+
+…then we’ll continue to lose the argument.
+
+So where do we go next?
+
+First, as I’ve already alluded to, we need to double down on technology.
+
+Not just inserting technology fellows, as great as they are – but training up civil servants across Whitehall.
+
+That’s why in January I announced the Government would launch the National School of Government and Public Services.
+
+This is not just the largest insourcing exercise of this government…
+
+It will give us more control over how we train and skill up Civil Servants so they are empowered to get on with the job, but also prepared for the future.
+
+That’s why we have committed to rolling out AI training for all civil servants, so they understand how they can use advanced AI tools in their day-to-day work to improve productivity.
+
+More than that, it’s crazy that Ministers get no access to formal training or mentoring when they come into office. 
+
+Another thing that would seem crazy in any other job.
+
+So, the National School is also going to provide structured training and support for ministers – giving Ministers access to formal ongoing training and support for the first time ever.
+
+We will start advertising for the first head of the school shortly, and will listen to what specific training civil servants want, with the intention of officially opening the National School in the Autumn.
+
+Secondly on devolution.
+
+The defining challenge of our time is about living standards and people feeling they can’t get on however hard they work.
+
+We should be honest – people feel poorer because in real terms Britain has been becoming comparatively poorer since the banking crisis in 2008.
+
+Because our economy has slowed.
+
+And people’s experience of not being able to afford the essentials is a symptom of that discontent.
+
+It is the lack of economic growth – and productivity in particular – is the problem we need to fix.
+
+However we all know, there is no silver bullet. 
+
+But clearly key to both addressing long-term economic stagnation and the deep sense of unfairness people feel – is by powering up our regions right across the country to be our engines of growth.
+
+Liverpool. Leeds. Manchester.
+
+But also Bristol and Southampton.
+
+Glasgow and Belfast. 
+
+As well as London. 
+
+All of them need to be buzzing and thriving to get Britain back where it needs to be.
+
+This is primarily a question about labour, skills, investment and incentives for businesses to take risk.
+
+But there is a role the state can play to enable that important economic activity.
+
+[Political content redacted] this is also a question of how over-centralisation of power and bureaucracy in Westminster can stifle growth, decision making and opportunity in all of those brilliant cities and places across the country.
+
+One small example in my current role, I often deputise for the PM, and stood in for a Mayoral Council recently - and in our discussions, I was told the Combined Authorities were not allowed to have their own SRO…
+
+…an official who would report directly to Treasury in the centre of government…
+
+and instead had to go through the traditional departments in Whitehall, who then spoke on their behalf to the centre of government. 
+
+Why is that the case? Can’t they get on with the jobs themselves.
+
+And when I asked the question, as we’ve devolved things to combined authorities have we reduced the headcount in London by a commensurate amount?
+
+No, the headcount has increased.
+
+And I say to Whitehall, with the direction that the political winds are blowing, I think this is a clear warning: devolution must mean devolution, not duplication. 
+
+In the past we’ve gone down the path of replicating checks both in the regions and in Westminster.
+
+Creating more state, rather than more power in those regions.
+
+For this to truly work, Westminster must trust local leaders to make the right decisions.
+
+And instead of an almost parental relationship, we need to actually devolve power and accountability across the country.
+
+As devolution has developed, Whitehall must change too.
+
+In my speech in January, I set out that more structural changes to the centre of government would be necessary [Political content redacted]
+
+I have long been an advocate, for example, of creating a proper Department for the Prime Minister and the Cabinet. 
+
+And I do think that serious thought needs to be given to the structure of our economic departments in Whitehall and how they interact with communities across the country.
+
+It is understandable to be wary of making big machinery of Government changes…
+
+…which do have the potential to distract the system from delivering on the everyday issues the public faces. 
+
+But with a crisis facing politics and confidence in the democratic state, there are many opportunities from such an approach too. 
+
+[Political content redacted] 
+
+Personally, I am on the side of the modernisers and I wish my successors well.

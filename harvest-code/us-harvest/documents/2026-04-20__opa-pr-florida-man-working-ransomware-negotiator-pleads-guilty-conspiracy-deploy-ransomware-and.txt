@@ -1,0 +1,43 @@
+A Florida man, formerly employed as a ransomware negotiator, pleaded guilty to conspiring to commit ransomware attacks against U.S. companies in 2023.
+
+According to court documents, Angelo Martino, 41, of Land O’Lakes, Florida, collaborated with the operators of the Blackcat/ALPHV (“BlackCat”) ransomware variant used by cybercriminals to attack and extort institutions and companies. Beginning in April 2023, Martino abused his role at a U.S.-based cyber incident response company to assist BlackCat actors. Working as a negotiator on behalf of five different ransomware victims, Martino provided BlackCat attackers with confidential information about the negotiating position and strategy of his company’s clients without the clients’ or his employer’s knowledge or permission. This confidential information assisted the ransomware actors and maximized the ransoms that the victims were required to pay. The confidential information included the victims’ insurance policy limits and internal negotiation positions. The BlackCat actors paid Martino for this confidential information.
+
+Additionally, Martino has admitted to conspiring with Ryan Goldberg of Georgia and Kevin Martin of Texas to successfully deploy BlackCat ransomware between April 2023 and November 2023 against multiple victims located throughout the United States. All three men worked in the cybersecurity industry and leveraged their knowledge and skills to commit these crimes. After successfully extorting one victim for approximately $1.2 million in Bitcoin, the men split their share of the ransom three ways and laundered the funds through various means.
+
+To date, law enforcement has seized $10 million of assets from Martino, including digital currency, vehicles, a food truck, and a luxury fishing boat that Martino obtained using proceeds of the offense or acquired as a result of the offense.
+
+> Angelo Martino’s clients trusted him to respond to ransomware threats and help thwart and remedy them on behalf of victims,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> Instead, he betrayed them and began launching ransomware attacks himself by assisting cyber criminals and harming victims, his own employer, and the cyber incident response industry itself.
+
+> Ransomware victims turned to this defendant for help, and he sold them out from the inside,
+
+said U.S. Attorney Jason A. Reding Quiñones for the Southern District of Florida.
+
+> As he admitted in court, he abused his position at a cyber incident response company to feed confidential information to BlackCat actors, helping them maximize ransom payments from American victims. He then went further, joining the conspiracy himself to deploy ransomware and profit from extortion. This guilty plea makes clear that if you weaponize insider access and cybersecurity expertise against victims in South Florida or anywhere in this country, you will be prosecuted. And as the seizure of more than $10 million in assets shows, you will not get to keep the proceeds of your crime.
+
+> The FBI works every day to dismantle the ransomware ecosystem,
+
+said Assistant Director Brett Leatherman of the FBI’s Cyber Division.
+
+> That includes apprehending key facilitators like Angelo Martino, who abused the trust placed in him as a private sector negotiator by collaborating with ransomware criminals. Martino provided BlackCat ransomware actors with confidential information to maximize ransom payments. He also conspired with other U.S. residents to launch attacks on victims across the country. His guilty plea demonstrates that, for all the international aspects of cybercrime, the threat is also here in the United States. The FBI is proud of the close collaboration with partners that led to this outcome.
+
+Martino pleaded guilty to one count of conspiracy to obstruct, delay or affect commerce or the movement of any article or commodity in commerce by extortion. He is scheduled to be sentenced on July 9 and faces a maximum penalty of 20 years in prison. Martin and Goldberg separately entered guilty pleas to the same charge in December 2025. Martin and Goldberg are scheduled to be sentenced on April 30 and each face a maximum penalty of 20 years in prison. A federal district court judge will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors.
+
+Today’s announcement follows the Justice Department’s prior actions in December 2023 to disrupt BlackCat ransomware, during which the FBI developed a decryption tool that allowed FBI field offices across the country and law enforcement partners around the world to offer hundreds of victims the capability of restoring their systems, saving victims approximately $99 million in ransom payments. At that time, the FBI also seized several websites operated by the BlackCat ransomware actors.
+
+The FBI’s Miami field office is leading the investigation, with assistance provided by the U.S. Secret Service.
+
+Trial Attorneys Christen Gallagher and Jorge Gonzalez of the Criminal Division’s Computer Crime and Intellectual Property Section (CCIPS) and Assistant U.S. Attorneys Thomas Haggerty and Quinshawna Landon for the Southern District of Florida are prosecuting the case. Assistant U.S. Attorney Mitchell Hyman for the Southern District of Florida is handling asset forfeiture.
+
+Significant assistance in this investigation was provided by Assistant U.S. Attorney Merrilyn Hoenemeyer for the Middle District of Florida and former Assistant U.S. Attorney Marx P. Calderón of the Southern District of Florida.
+
+CCIPS investigates and prosecutes cybercrime and intellectual property (IP) crime in coordination with domestic and international law enforcement agencies, often with assistance from the private sector. Since 2020, CCIPS has secured the conviction of over 180 cyber and IP criminals and court orders for the return of over $350 million in victim funds.
+
+Private sector organizations can report any suspicious activities and threats to the FBI’s National Threat Operations Center by calling 1-800-CALL-FBI (225-5324), visiting www.tips.fbi.gov or contacting their local FBI field office.
+
+If you are a victim of ransomware, contact your local FBI field office or file a report at ic3.gov.
+
+If you have information about ALPHV/BlackCat, their affiliates or activities, you may be eligible for a reward through Department of State’s Transnational Organized Crime Rewards program or Rewards for Justice program. Information can also be submitted through the following Tor-based tip line (Tor browser required): he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion.

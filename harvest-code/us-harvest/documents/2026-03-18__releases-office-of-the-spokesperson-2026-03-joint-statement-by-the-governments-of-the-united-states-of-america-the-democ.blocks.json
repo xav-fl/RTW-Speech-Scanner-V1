@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/joint-statement-by-the-governments-of-the-united-states-of-america-the-democratic-republic-of-the-congo-and-the-republic-of-rwanda-on-advancing-the-washington-accords/",
+ "institution_id": "us-state",
+ "title": "Joint Statement by the Governments of the United States of America, the Democratic Republic of the Congo, and the Republic of Rwanda on Advancing the Washington Accords",
+ "date": "2026-03-18",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "4b9b0ae15aa03579b2c960af8ff669fe23b30ec556043d5e5f00880ad3f38dcd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

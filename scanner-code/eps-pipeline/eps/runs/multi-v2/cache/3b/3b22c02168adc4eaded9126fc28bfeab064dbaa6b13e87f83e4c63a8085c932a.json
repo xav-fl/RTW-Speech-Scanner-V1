@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about how education funding is allocated — the mechanism is a funding formula reform (\"drive funding to where it's needed most\"), targeting schools, with consultation of parents and experts. The substance is education finance/funding allocation.\n\nPrimary: **I2** (Education and Research Institutions — funding allocation to schools)\nSecondary: **H5** (National Government Expenditures — public spending directed to education) is substantively relevant as the instrument is government expenditure reform.\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

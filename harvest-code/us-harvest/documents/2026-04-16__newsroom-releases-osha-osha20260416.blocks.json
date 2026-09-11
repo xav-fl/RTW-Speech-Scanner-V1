@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260416",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor investigation finds Alabama construction company exposed workers to trenching hazards following fatal incident",
+ "date": "2026-04-16",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "4b037fd379ef3b7f7ef6a8744366866cc66f4d3408c8a2953d7184132c8e7db7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

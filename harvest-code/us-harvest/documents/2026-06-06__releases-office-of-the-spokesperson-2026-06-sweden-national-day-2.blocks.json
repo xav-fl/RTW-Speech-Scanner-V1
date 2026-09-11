@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/sweden-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Sweden National Day",
+ "date": "2026-06-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "aa0a589b35cbea35f9e6af795826a912b38921bdc99302e1b7fe2e4deb8b190d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

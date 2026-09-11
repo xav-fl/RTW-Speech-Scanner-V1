@@ -1,0 +1,43 @@
+Angelo Martino, 41, of Land O’Lakes, Florida, formerly employed as a ransomware negotiator, was sentenced today to 70 months for his role in conspiring with Blackcat/ALPHV (BlackCat) actors to extort multiple victims, as well as conspiring with other former cybersecurity professionals to attack additional victims in 2023.
+
+> Angelo Martino’s victims shared heartbreaking accounts of how their businesses were nearly destroyed, while the people they hired to help them instead betrayed them to ransomware gangs,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> Today’s sentence accounts for the harm Martino caused and demonstrates that the Department of Justice can and will identify and prosecute cybercriminals to the fullest extent of the law.
+
+> He was hired to help victims in a moment of crisis,
+
+said U.S. Attorney Jason A. Reding Quiñones for the Southern District of Florida.
+
+> Instead, Martino betrayed them, fed their confidential negotiating positions to ransomware criminals, and helped squeeze them for more money. This case sends a clear message: we will pursue the hackers who deploy ransomware, the insiders who enable them, and the money they steal from American victims. Thanks to the outstanding work of our prosecutors and law enforcement partners, Martino is going to federal prison, and more than $10 million in criminal proceeds has been seized.
+
+> Angelo Martino sold out the very victims he was hired to represent, handing their confidential negotiating positions to BlackCat actors to drive up ransoms and enrich himself,
+
+said Assistant Director Brett Leatherman of the FBI Cyber Division.
+
+> Today's sentence demonstrates that the FBI will pursue not just the criminals who deploy ransomware, but the insiders who enable them. Working with our partners, the FBI will find those who betray that trust and hold them accountable.
+
+According to court documents, Martino abused his role at a U.S.-based cyber incident response company and conspired with the operators of the BlackCat ransomware variant beginning in April 2023 to extort five different ransomware victims. Specifically, Martino was paid by BlackCat attackers to provide confidential information about the negotiating position and strategy of his employer’s clients and enable the ransomware actors to maximize the ransoms paid by the victims.
+
+Additionally, Martino conspired with former cybersecurity professionals Kevin Martin, age 36, of Texas, who was hired as Martino’s coworker after the conspiracy began, and Ryan Goldberg, age 41, of Georgia, who was employed by a separate incident response company, to successfully deploy BlackCat ransomware against additional victims located throughout the United States between April 2023 and November 2023. After successfully extorting one victim for approximately $1.2 million in Bitcoin, the men split their share of the ransom three ways and laundered the funds through various means.
+
+Martino plead guilty on April 14 to a one-count information charging him with conspiring to interfere with interstate commerce through extortion. On May 1 Martin and Goldberg were sentenced to 48 months in prison by Judge K. Michael Moore in the Southern District of Florida.
+
+To date, law enforcement has seized $10 million of assets from Martino, including digital currency, vehicles, a food truck, and a luxury fishing boat that Martino obtained through the scheme. A hearing to determine the amount of restitution to be ordered against Martino is set for Sept. 17.
+
+Today’s announcement follows the Justice Department’s prior actions in December 2023 to disrupt BlackCat ransomware, during which the FBI developed a decryption tool that allowed FBI field offices across the country and law enforcement partners around the world to offer hundreds of victims the capability of restoring their systems, saving victims approximately $99 million in ransom payments. At that time, the FBI also seized several websites operated by the BlackCat ransomware actors.
+
+The FBI’s Miami field office is leading the investigation, with assistance provided by the U.S. Secret Service.
+
+Trial Attorneys Christen Gallagher and Jorge Gonzalez of the Criminal Division’s Computer Crime and Intellectual Property Section (CCIPS) and Assistant U.S. Attorneys Thomas Haggerty and Quinshawna Landon for the Southern District of Florida are prosecuting the case. Assistant U.S. Attorneys Mitchell Hyman and Assistant U.S. Attorney Danielle N. Croke for the Southern District of Florida are handling asset forfeiture and restitution.
+
+Significant assistance in this investigation was provided by Assistant U.S. Attorney Merrilyn Hoenemeyer for the Middle District of Florida and former Assistant U.S. Attorney Marx P. Calderón of the Southern District of Florida.
+
+CCIPS investigates and prosecutes cybercrime and intellectual property (IP) crime in coordination with domestic and international law enforcement agencies, often with assistance from the private sector. Since 2020, CCIPS has secured the conviction of over 180 cyber and IP criminals and court orders for the return of over $350 million in victim funds.
+
+This action is part of Operation Riptide, an ongoing FBI campaign targeting the criminal actors, infrastructure, and financial networks behind cybercrime, cyber-enabled crime, and fraud against the American people. Last year, Americans reported over $20 billion in losses to cybercrime, a 26 percent single-year increase. Operation Riptide is the FBI's sustained enforcement response to that threat.
+
+If you are a victim of ransomware, contact your local FBI field office or file a report at ic3.gov.
+
+If you have information about ALPHV/BlackCat, their affiliates or activities, you may be eligible for a reward through Department of State’s Transnational Organized Crime Rewards program or Rewards for Justice program. Information can also be submitted through the following Tor-based tip line (Tor browser required): he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion.

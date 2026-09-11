@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0362/",
+ "institution_id": "us-treasury",
+ "title": "Readout from Secretary Bessent’s meeting with Minister of Economy, Finance, and Industrial and Digital Sovereignty Roland Lescure of France",
+ "date": "2026-01-14",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "f3e6101aafe7cfeebec30f6adcbc3c58d852917e39d549453632042d6973a570",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

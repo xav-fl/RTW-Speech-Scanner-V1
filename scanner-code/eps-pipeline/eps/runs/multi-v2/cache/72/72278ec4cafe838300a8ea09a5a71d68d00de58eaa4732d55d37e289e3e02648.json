@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about planning/regulatory changes that will boost housebuilding to its highest level in 40 years, with a GDP impact estimated by the OBR. The core mechanism is housing supply policy (planning reforms → housebuilding activity). The GDP boost is a macroeconomic consequence cited as evidence of impact.\n\nPrimary: R — Urban, Rural, Regional, Real Estate, and Transportation Economics (specifically R3, real estate markets and spatial production — housing supply/construction policy)\n\nSecondary: E6 — Macroeconomic Policy and General Outlook (the GDP impact projection is substantively cited, not merely mentioned in passing)\n\n{\"primary\": \"R\", \"secondary\": [\"E\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

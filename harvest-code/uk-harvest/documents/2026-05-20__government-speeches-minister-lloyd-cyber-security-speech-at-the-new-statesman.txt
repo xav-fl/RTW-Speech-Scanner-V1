@@ -1,0 +1,231 @@
+TITLE: Minister Lloyd cyber security speech at the New Statesman
+URL: https://www.gov.uk/government/speeches/minister-lloyd-cyber-security-speech-at-the-new-statesman
+DATE: 2026-05-20
+GOVUK_TYPE: speech
+LINKED_SPEAKERS: Baroness Lloyd of Effra CBE
+
+---
+
+Thank you. It’s a pleasure to be here today. 
+
+We are meeting at a moment of genuine uncertainty. 
+
+Across the world, the security environment is unsettled. Geopolitical tensions are higher. Conflict is being felt far beyond borders.  
+
+And technology – while offering extraordinary opportunity – is increasingly being exploited as a tool of disruption. 
+
+In that context, good cyber security is no longer a “nice to have”. 
+
+It is foundational to our national security, our economic resilience, and our ability to grow with confidence. 
+
+Whether you run a global firm or a growing SME, cyber resilience now shapes whether businesses can operate, innovate, and survive in an increasingly hostile digital environment. 
+
+And the message I want to be very clear about today is this: 
+
+The cyber threat is getting worse. 
+
+And businesses that do not act now are leaving themselves exposed. 
+
+The rising cyber threat
+
+The reality is that cyber incidents are becoming more frequent, more disruptive, and more costly. 
+
+Attacks that once targeted only a handful of organisations can now cascade rapidly through entire supply chains – bringing operational disruption, financial loss and reputational damage. 
+
+Last week we published our latest Cyber Security Breaches Survey, which once again underlines the scale of the challenge. 
+
+It shows the scale of the cyber threat remains significant, and widespread: 
+
+43% of businesses experienced a cyber breach or attack in the last 12 months 
+
+For large firms, this figure rises to 69% and 
+
+29% of firms said they suffered attacks at least once per week. 
+
+Those numbers matter. 
+
+But behind them are disrupted services, frustrated customers, lost time and money, and broken trust – and in the worst cases, businesses that never fully recover. 
+
+Which is why this government is clear: cyber resilience is not optional. 
+
+AI is accelerating the cyber threat
+
+What makes this moment more urgent is the rapid advancement of artificial intelligence. 
+
+AI is transforming how we work, how we grow, and how we compete.  
+
+But it is also transforming the cyber threat landscape. 
+
+As the Security Minister set out recently at the CyberUK conference, frontier AI capabilities are already being used to: 
+
+identify vulnerabilities at scale, 
+
+automate reconnaissance, 
+
+and lower the barrier to entry for sophisticated attacks. 
+
+In plain terms, AI is making it easier and faster to exploit organisations that have not put basic protections in place. 
+
+And it will increasingly expose where fundamentals – like patching, access controls, backups and monitoring – have simply not been done. 
+
+That reality creates a stark dividing line: 
+
+Between those organisations that have invested in cyber resilience, and those that are relying on hope. 
+
+The answer is not to slow down innovation. 
+
+It is to secure it properly. 
+
+Secure by design must be the default  
+
+That is why we are clear that technology must be secure by design. 
+
+Software, systems and connected devices should not be shipped with known weaknesses. Security cannot be bolted on afterwards, or left to users to fix. 
+
+We are already setting expectations through: 
+
+the government’s Code of Practice for Software Vendors, and 
+
+our Code of Practice for AI Cyber Security, developed with industry and experts. 
+
+These codes are pragmatic, actionable, and focused on what works - embedding security at every stage of development. 
+
+And my message to tech leaders today is simple: 
+
+Building secure technology is not a barrier to growth. 
+
+It is what enables trust, adoption and long‑term success. 
+
+The Cyber Bill
+
+Of course, while most of our approach is about enabling and supporting organisations to do the right thing, there are areas where government does need to regulate – and that is why we are taking forward the Cyber Security and Resilience Bill.  
+
+The Bill strengthens our existing cyber framework to better protect the most essential services the public relies on every day – from energy and transport, to water, health and digital infrastructure.  
+
+It focuses regulation where the risks and impact are highest, requiring organisations that underpin our national resilience to have proportionate security measures in place and to report serious incidents, so we can respond more quickly when things go wrong.  
+
+But this is a targeted, risk‑based approach. We are not seeking to regulate the whole economy.  
+
+For the vast majority of businesses, our approach is deliberately voluntary – setting clear expectations, providing practical guidance and tools, and supporting organisations to raise their cyber resilience in ways that are right for them.  
+
+Ultimately, though, government cannot do this alone.  
+
+Businesses must take responsibility and act on the guidance available, because resilience is only real when it is put into practice 
+
+The Cyber Resilience Pledge & new money  
+
+But security is not only about technology providers and regulation. It is also about the choices organisations make every day. 
+
+That is why we have recently announced the Cyber Resilience Pledge. 
+
+This is a clear, practical call to action for UK businesses – large and small – to commit to 3 things we know make a real difference: 
+
+Firstly, treating cyber risk as a board‑level responsibility - because resilience starts with leadership and accountability. 
+
+Secondly, signing up to the Early Warning system. This service from our National Cyber Security Centre will notify you if malicious activity is threatening your organisation  
+
+And thirdly, using the Cyber Essentials scheme in your supply chain – as this is proven to significantly reduce the likelihood of successful attacks on you and your suppliers. 
+
+These are not abstract principles. They are practical actions, based on learnings from previous attacks, which are proven to work. 
+
+I want to encourage every organisation represented here to sign the pledge. And to signal clearly that cyber resilience is part of how you do business.  
+
+To make it clear to your employees, your customers and your investors, that your board and executive team take the matter seriously. 
+
+Government also has a responsibility to support businesses to act. 
+
+That is why we have announced a £90 million pound fund for cyber resilience, focused on practical, targeted support - particularly for small and medium‑sized businesses which are the backbone of our economy, and important groups, such as critical suppliers to the NHS. 
+
+This investment will help organisations access guidance, tools and capability to raise their cyber security baseline – because resilience in the UK economy is only as strong as its weakest links. 
+
+Response and recovery
+
+One point I want to stress is this: good cyber resilience is not just about preventing attacks – it is about how you respond and recover when something does go wrong.  
+
+The reality is that even well‑prepared organisations can be hit.  
+
+What matters is whether you can carry on operating, protect customers, and get back on your feet quickly.  
+
+That means planning in advance.  
+
+Knowing who makes decisions in a crisis.  
+
+Having backups that are secure, tested and can be restored. Practising how you would respond, just as you would for a fire drill or major outage.  
+
+And making sure your teams know what to do in the first critical hours.  
+
+The National Cyber Security Centre’s guidance is very clear: organisations that plan, practise and prepare recover faster, at lower cost, and with far less disruption.  
+
+Recovery is not an IT issue – it is a leadership responsibility, and it is something every board should be confident they are ready for. 
+
+Cyber insurance 
+
+Cyber insurance also has an important role to play. It can help organisations manage the financial impact of an incident, support recovery, and access specialist expertise when it matters most.  
+
+But insurance is not a substitute for good cyber security.  
+
+You cannot insure away poor practice. Organisations seeking coverage should be taking sensible steps to reduce risk in the first place.
+
+Cyber insurance works best as part of a wider resilience strategy – alongside strong governance, basic protections like Cyber Essentials, and effective incident response planning.  
+
+Used in the right way, it can be a valuable safety net. Used alone, it is not enough. 
+
+Cyber security skills
+
+None of this is possible without the right skills. 
+
+Cyber security and AI skills are essential not just for security teams, but for boards, leaders and workforces across the economy. 
+
+Through our £187 million TechFirst programme, we are investing in cyber, digital and AI skills - from young people entering the workforce, to adults looking to retrain or upskill. 
+
+We also offer free cyber security staff training for SMEs, and tailored training for company boards.  
+
+And we’re building cyber skills in government too, through the new Government Cyber Profession. 
+
+Because building resilience is not just about technology - it is about people. 
+
+Government cyber security
+
+Finally, I want to talk about how government itself must lead by example. Improving the cyber resilience of the public sector is a critical part of protecting citizens, services and the wider economy.  
+
+We recognise a step change is needed in the public sector, but we do not need to wait for legislation. We already have the ability to mandate action across government. 
+
+That is why we published the Government Cyber Action Plan in January – setting out how departments are strengthening their defences, improving incident response, and reducing the time it takes to detect and fix vulnerabilities.  
+
+We will use the Action Plan to ensure the same standards we expect of the wider economy. 
+
+And that is why we launched the Action Plan prior to the Cyber Security and Resilience Bill coming into force – government must hold itself to the same or higher standard it asks of others. 
+
+We are already seeing results, with faster remediation of known issues and better preparedness across government organisations.  
+
+But this is not a one‑off exercise.  
+
+The threat continues to evolve, and government must continue to raise its own standards, just as we ask industry to raise theirs. Cyber resilience is not something you “finish” – it is something you continually improve. 
+
+Conclusion
+
+I want to finish by saying that later this summer, we will publish the National Cyber Action Plan. 
+
+It will set out how government and industry will work together to strengthen our collective defences – raising standards, supporting businesses, and responding to an evolving threat. 
+
+But no plan, no regulation, and no funding can do this alone. 
+
+Cyber resilience is a shared responsibility. 
+
+Government can set expectations and provide support. 
+
+Industry must act – urgently and decisively. 
+
+If we get this right, we protect not just systems, but trust. 
+
+Not just businesses, but jobs. 
+
+And not just today’s economy, but tomorrow’s growth. 
+
+So my message today is clear: 
+
+The threats are rising. The tools to act are available. 
+
+And now is the moment to build security in – together. 
+
+Thank you.

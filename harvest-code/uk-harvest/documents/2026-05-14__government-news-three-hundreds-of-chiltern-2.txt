@@ -1,0 +1,9 @@
+TITLE: Three Hundreds of Chiltern
+URL: https://www.gov.uk/government/news/three-hundreds-of-chiltern--2
+DATE: 2026-05-14
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+The Chancellor of the Exchequer has this day appointed Stephen Patrick Gethins to be Steward and Bailiff of the Three Hundreds of Chiltern.

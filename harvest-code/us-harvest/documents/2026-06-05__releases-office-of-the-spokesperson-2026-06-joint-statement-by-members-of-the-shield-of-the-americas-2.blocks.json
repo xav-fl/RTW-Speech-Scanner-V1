@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/joint-statement-by-members-of-the-shield-of-the-americas-2/",
+ "institution_id": "us-state",
+ "title": "Joint Statement by Members of the Shield of the Americas",
+ "date": "2026-06-05",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "f38778211a203703c211d4622b8d78354945a8d5ff87111cfaa12f2ced539710",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

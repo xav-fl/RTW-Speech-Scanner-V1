@@ -1,0 +1,39 @@
+TITLE: Advisory AI Growth Lab to support responsible AI adoption in legal services
+URL: https://www.gov.uk/government/news/advisory-ai-growth-lab-to-support-responsible-ai-adoption-in-legal-services
+DATE: 2026-06-08
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+The government is launching the advisory AI Growth Labs, a new advisory sandbox designed to accelerate the development and deployment of AI products and services by helping innovators navigate existing regulatory frameworks with greater confidence.
+
+Legal services will be the first sector to participate, following strong industry demand and we know it is an area where clearer, more joined-up information within existing frameworks can accelerate development. This is also supported by the evidence gathered through the Department for Science, Innovation and Technology’s Call for Evidence.
+
+Building on existing collaboration between legal services regulators, the Lab will bring together the Council for Licensed Conveyancers, the Solicitors Regulation Authority, the Information Commissioner’s Office and the Legal Services Board. Together, they will work with innovators to surface and address cross-regulatory challenges, identify any unintended barriers in regulators’ rules, and build a clearer picture of what good regulatory oversight of AI looks like in practice.
+
+By providing greater clarity, the advisory AI Growth Lab will support responsible innovation, boost economic growth and help improve access to justice for the public by enabling faster and and more affordable services, while maintaining quality. Applications for AI innovators — including LawTech companies, legal service providers and conveyancing firms — will open later this summer.
+
+Rafie Faruq, CEO and Co-founder of Genie AI:
+
+The launch of the Legal Services Advisory AI Growth Lab is a really welcome step. Clear, joined up regulatory support is what unlocks responsible AI innovation in regulated industries like ours, and what gives UK companies the confidence to build at speed. As a leading generative AI company in legal, GenieAI is excited to test our latest innovations with the lab, which could unlock a new level of growth for the sector.
+
+Sue Bence, COO, Farringdon:
+
+The AI Growth Lab is a genuinely important step for the UK legal sector. As an AI-native law firm, we know first-hand that the most exciting opportunities to improve client outcomes often sit at the edges of existing regulatory frameworks — and that what innovators need most is a route to test those ideas safely, with their regulator alongside them.
+
+Tony Randle, Director of Client Tech and Service Improvement, Shoosmiths:
+
+We welcome the launch of the Legal Services Advisory AI Growth Lab, which marks a pivotal step in supporting responsible AI innovation within the legal sector. The introduction of clearer, more coordinated regulatory guidance will empower innovators and adopters to navigate complex frameworks more confidently and help unlock new opportunities. We look forward to exploring how Shoosmiths can participate in the Lab and contribute to shaping a future where technology enhances legal services beyond what was previously possible
+
+Further Information
+
+The advisory AI Growth Lab is a cross-economy sandbox, enabling the trialling of innovative AI products and services, accelerating UK growth and building trust in AI. Legal services has been chosen as the first sector for the advisory Growth Lab.
+
+The advisory AI Growth Lab will provide additional support to innovators and adopters, helping them to responsibly test AI products within existing regulatory frameworks.
+
+The Legal Services Board, the Solicitors Regulation Authority, the Council for Licensed Conveyancers, and the Information Commissioner’s Office will all provide regulatory support.
+
+Participation in the Lab will not constitute regulatory approval, endorsement or authorisation. Legal and regulatory requirements will remain the same.
+
+Illustrative use cases for the Legal Services AI Growth Lab (PDF, 102 KB, 3 pages)

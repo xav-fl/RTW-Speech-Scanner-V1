@@ -1,0 +1,41 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-responds-michigans-request-emergency-fuel-waivers-amid-widespread-flooding",
+ "institution_id": "us-epa",
+ "title": "EPA Responds to Michigan’s Request for Emergency Fuel Waivers Amid Widespread Flooding in Cheboygan County",
+ "date": "2026-05-01",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "bb694cf56c2f961873b18c2577dcfd70c95c4388e073d8e97823ae4bcf90f912",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

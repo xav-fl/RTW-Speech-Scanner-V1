@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/former-us-army-member-convicted-physically-and-sexually-assaulting-two-minors-while-serving",
+ "institution_id": "us-justice",
+ "title": "Former U.S. Army Member Convicted of Physically and Sexually Assaulting Two Minors While Serving Abroad",
+ "date": "2026-04-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "4502616f679d1653e5c43554cb4e53d7aa8621dee4f62601f6b2db03150f373d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

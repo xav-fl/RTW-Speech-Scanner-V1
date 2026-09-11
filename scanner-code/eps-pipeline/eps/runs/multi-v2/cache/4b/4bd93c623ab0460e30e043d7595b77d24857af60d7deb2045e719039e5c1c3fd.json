@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about fiscal devolution — transferring fiscal tools/powers to subnational places. The core mechanism is intergovernmental fiscal relations and the allocation of fiscal authority between levels of government.\n\n- **H7** (State and Local Government • Intergovernmental Relations) is the precise fit: fiscal devolution is fundamentally about intergovernmental fiscal arrangements and the powers granted to subnational governments.\n- **R5** (Regional Government Analysis) is a secondary fit, as the statement is about trusting \"places\" to lead — regional governance capacity.\n\n{\"primary\": \"H\", \"secondary\": [\"R\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

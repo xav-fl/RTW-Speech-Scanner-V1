@@ -1,0 +1,57 @@
+TITLE: New backing for open-source AI builders, data centre design challenge and robotics partnership
+URL: https://www.gov.uk/government/news/new-backing-for-open-source-ai-builders-data-centre-design-challenge-and-robotics-partnership
+DATE: 2026-06-10
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Kanishka Narayan MP
+
+---
+
+Computing power worth over £500,000 announced for innovators to turn prototypes into AI tools that improve public services from libraries to the NHS
+
+A new challenge to redesign data centres, making them more attractive, sustainable and better for local areas
+
+Clear guidance for businesses on using robots safely alongside people at work
+
+Britain must back the builders who will shape the AI revolution, with the tools, the support and the routes to scale, AI Minister Kanishka Narayan said today. 
+
+In a keynote speech at the AI Summit during London Tech Week (Wednesday 10 June), the Minister argued that the central question of AI is not just what the technology can do, but who gets to shape it. 
+
+Last weekend, DSIT partnered with NVIDIA to host the Hack for Impact hackathon, bringing together hundreds of open-source AI developers from across the UK to build tools tackling challenges across public services and city infrastructure, using open data from the City of London.  
+
+Open source is built by communities of developers working together, improving each other’s work and moving faster as a result. For the strongest projects from the hackathon, Minister Narayan announced:  
+
+A new Open-Source AI Builder Fund: over £500,000 worth of compute - 160,000 GPU-hours of processing power from the UK’s AI Research Resource, giving projects what they need to go from prototypes to public AI tools. 
+
+An Open-Source AI Builder Mentoring Scheme: pairing hackathon winners with experts from the Incubator for Artificial Intelligence (i.AI), the government’s in-house AI team, to help the best ideas become working public tools. 
+
+A new Open-Source AI Dev Board: giving ten UK based developers, under the age of 30 a direct line into government, so they can influence how AI is used and developed. Chaired by Minister Narayan, the board will convene a series of roundtables over 2026.  
+
+Winning teams announced today range from those making it easier for Londoners to find essential local services like libraries, toilets and polling stations, to helping NHS patients on waiting lists get back on track by identifying gaps in care and drafting follow-up communications. Others focused on supporting businesses, with tools to identify unclaimed grants and warn of disruptions like roadworks or transport delays, while improving emergency resilience by using satellite connectivity to keep 999 services running when mobile networks fail.
+
+AI Minister Kanishka Narayan said:  
+
+From the World Wide Web to AlphaFold, Britain has always chosen to open up new technologies, not close them down.  
+
+The best AI tools in the world won’t be built behind closed doors by a handful of companies. They’ll be built by people who ship code, share it, and let others make it better.  
+
+We want those people choosing to build here in Britain. And we want them to know that this is a country that backs them to succeed. 
+
+The UK is already home to a thriving community of open-source AI developers, and government is already working with them. i.AI has brought in top AI experts from UK universities through an Open-Source Fellowship Programme to build open-source AI tools that improve public services, from education to policing.  This package goes further, backing Britain to become the world’s go-to destination for open-source AI builders. 
+
+As the UK scales its AI infrastructure, Minister Narayan also announced a new RIBA x DSIT Data Centre Design Challenge, the first government-backed design competition of its kind, working with the Royal Institute of British Architects to ensure that as data centres grow, they deliver for the communities around them too.  
+
+The Challenge will ask architects, designers, engineers and communities to collaborate to raise the bar on high-quality design, meaningful public engagement and sustainable environmental outcomes, reimagining data centres not just as critical national infrastructure, but as places of genuine civic value. 
+
+Minister Narayan also announced a new partnership on robotics. The Regulatory Innovation Office and the Health & Safety Executive will work with industry to deliver regulatory clarity for collaborative robots – starting with the first joint guidance on how robots can work safely alongside people in the workplace. 
+
+Notes to editors:  
+
+Hackathon winners include: 
+
+Codeborough – finding your nearest library, toilet or polling station in London shouldn’t be hard, but civic data is scattered across dozens of sources. The tool pulls it together into a single easy-to-use tool with real-time information and accessibility details. 
+
+WaitWise – patients on NHS elective waiting lists can fall through coordination gaps. WaitWise identifies those patients, then drafts clinician memos and patient letters to get them back on track. 
+
+Stella – many London high-street businesses miss out on rates relief and grants they’re entitled to. Stella finds unclaimed support, drafts the claims, and can also warns businesses of potential footfall disruption using live transport, roadworks and weather data. 
+
+NeMo-Ray – when mobile masts fail, 999 emergency communications can go down with them. NeMo-Ray uses satellite connectivity to keep services running, protecting coverage for 300,000 frontline responders.

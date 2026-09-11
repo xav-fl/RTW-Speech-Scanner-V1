@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/announcing-steps-to-impose-visa-restrictions-on-family-members-or-close-personal-or-business-associates-of-sinaloa-cartel-affiliates/",
+ "institution_id": "us-state",
+ "title": "Announcing Steps to Impose Visa Restrictions on Family Members or Close Personal or Business Associates of Sinaloa Cartel Affiliates",
+ "date": "2026-04-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "2155b20f343d49fee022bfbe632c891bde9aea426565befc1c4f6d01e6c0b1e5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

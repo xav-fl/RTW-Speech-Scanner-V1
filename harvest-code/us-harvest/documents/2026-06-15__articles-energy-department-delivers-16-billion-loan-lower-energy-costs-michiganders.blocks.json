@@ -1,0 +1,53 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-delivers-16-billion-loan-lower-energy-costs-michiganders",
+ "institution_id": "us-energy",
+ "title": "Energy Department Delivers $1.6 Billion Loan to Lower Energy Costs for Michiganders",
+ "date": "2026-06-15",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "4448fe7e3186b85acaa8a22d0dbb6d1e259a5d952dc7b55f057463834e1c3fcc",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/united-states-sanctioning-irans-mahan-air-network-and-irgc-linked-front-company/",
+ "institution_id": "us-state",
+ "title": "United States Sanctioning Iran’s Mahan Air Network and IRGC-Linked Front Company",
+ "date": "2026-07-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "c419fc117e738c27f0871f371817053defe110a15e86e515b9d3c08b3755ab91",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

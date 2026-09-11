@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/continuing-to-promote-accountability-for-the-murillo-ortega-dictatorship/",
+ "institution_id": "us-state",
+ "title": "Continuing to Promote Accountability for the Murillo-Ortega Dictatorship",
+ "date": "2026-06-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "faec21dede0d104b88a7ef0d65fc740887e6a022eb7b7c15a1fccdde066e3310",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

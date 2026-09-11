@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-seeks-shut-down-florida-based-return-preparer",
+ "institution_id": "us-justice",
+ "title": "Justice Department Seeks to Shut Down Florida-Based Return Preparer",
+ "date": "2026-04-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "95b172ce9bcdb8467cda751f26cfe60e67144134231a1824095e3edc97b865f3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

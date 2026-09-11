@@ -1,0 +1,51 @@
+TITLE: Plan to toughen protections for subsea internet cables amid heightened Russian activity
+URL: https://www.gov.uk/government/news/plan-to-toughen-protections-for-subsea-internet-cables-amid-heightened-russian-activity
+DATE: 2026-05-29
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Baroness Lloyd of Effra CBE
+
+---
+
+Government to propose tougher fines and prison sentences for those who damage subsea infrastructure essential for UK internet access, with consultation planned later this year 
+
+New obligations on subsea cable operators to secure their infrastructure and new emergency powers for government to also be proposed, following rise in suspicious activity by Russian vessels 
+
+Plans set out in speech by UK telecoms minister Liz Lloyd at the Royal United Services Institute. 
+
+Ship owners and operators that recklessly damage subsea internet cables will face tougher penalties under new proposals to strengthen national security and deter Russia and other hostile states from sabotaging the UK’s critical national infrastructure.
+
+Subsea telecoms cables carry the data that underpins the economy, with £1.4 trillion in daily UK transactions reliant on the subsea cable industry. They enable everyday communications like calls, instant messaging and social media as well as critical services vital for supply chains, emergency services, the military and key British industries such as finance.  
+
+The UK already has a highly resilient system, underpinned by around 64 cables. When cables break, a repair vessel is at the scene within eight days, a world-leading response time. Faults are rare and the overwhelming majority are not malicious, with up to 97%* arising from fishing activity or vessels dragging anchors, and most aren’t noticed by the public. Suspicious activity near subsea cables is, however, being increasingly observed. 
+
+In April the British Armed Forces exposed a covert Russian submarine operation carrying out nefarious activity over critical undersea infrastructure in and around UK waters. With the geopolitical environment growing ever more challenging, the government has been rightly reviewing whether the UK’s security and resilience arrangements remain strong enough. 
+
+Speaking at the Royal United Services Institute (RUSI) on Friday (29 May), telecoms minister Liz Lloyd set out plans to consult on replacing 140-year-old legislation to make the law clearer, and much harder to evade – with tougher fines and prison sentences for vessel owners and operators that intentionally or recklessly damage cables.  
+
+She also highlighted that Government is considering new security obligations on cable owners and operators, ensuring they take the necessary steps to prevent, detect and respond to security compromises in a consistent and timely manner. 
+
+New emergency powers to direct businesses to protect this infrastructure will also be included in the proposals, which would strengthen government’s ability to respond to major subsea cable incidents and minimise disruption to UK connectivity. The proposals will be set out in detail through a white paper later this year.   
+
+Telecoms minister Liz Lloyd said: 
+
+The UK already has strong protections in place for our subsea cables, but in a more uncertain world we cannot stand still. 
+
+As hostile activity by Russia and others grows, protecting these cables matters more than ever for our economy, security and daily lives. That is why we plan to go further with tougher penalties for reckless damage, stronger security obligations and new powers to respond quickly when incidents happen. 
+
+True resilience depends on having a healthy thriving telecoms sector, and government must play an active role in creating the conditions for commercial success. By building a strong domestic industry we don’t just protect infrastructure, we strengthen the UK’s position as a global centre for digital trade.” 
+
+For acts of sabotage clearly linked to a hostile state, UK laws already carry life imprisonment for the most serious cases. However, malicious activity below the ocean surface doesn’t always present itself clearly – operating in a ”grey zone” – ambiguous in intent, hard to prove and difficult to prosecute. 
+
+In her speech, Minister Lloyd explained how the legal system needed to keep pace with the threat, and that planned legislative proposals for consultation would modernise and strengthen the criminal framework around subsea cables. She said the changes would “send a clear message that if you act recklessly, or if you deliberately target our cables, there will be serious consequences.” 
+
+Minister Lloyd also pointed to existing plans to support next-generation of investment in cable upgrades through “common-sense regulation” that “supports growth rather than holds it back” - pointing to exemptions on environmental red tape for the laying, maintenance and removal of subsea cables in deep waters, where impact on marine life is extremely limited. 
+
+Notes to editors 
+
+Source: Global Submarine Telecoms Cable Repair Data Analysis, International Cable Protection Committee (ICPC)
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

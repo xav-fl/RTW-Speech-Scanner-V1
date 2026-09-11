@@ -1,0 +1,55 @@
+WASHINGTON — The Justice Department today announced the sentencings in separate cases of two U.S. nationals, Matthew Issac Knoot, of Nashville, Tennessee, and Erick Ntekereze Prince, of New York, for their roles in facilitating Democratic People’s Republic of Korea (DPRK) remote information technology (IT) workers. Knoot was sentenced to 18 months in prison and Prince was sentenced to 18 months in prison. Both men received and hosted laptop computers at their residences that victim U.S. companies shipped to IT workers they had hired and who the victim companies believed were located at the defendants’ residences.
+
+Knoot and Prince also installed remote desktop applications on laptops that enabled their co-conspirators to work from locations overseas while appearing to the victim companies to be working from the defendants’ residences. In total, the defendants’ separate fraudulent schemes generated more than $1.2 million in revenue for the DPRK and impacted nearly 70 victim companies in the United States.
+
+> These sentences hold accountable U.S nationals who enabled North Korea’s illicit efforts to infiltrate U.S. networks and profit on the back of U.S. companies,
+
+said Assistant Attorney General for National Security John A. Eisenberg.
+
+> These defendants helped North Korean ‘IT workers’ masquerade as legitimate employees, compromising U.S. corporate networks and helping generate revenue for a heavily sanctioned and rogue regime. The National Security Division will continue to pursue those who, through deception and cyber-enabled fraud, threaten our national security.
+
+> These kind of foreign-based attacks on American businesses will not be tolerated and those involved will be held accountable for their actions,
+
+said U.S. Attorney Braden H. Boucek for the Middle District of Tennessee.
+
+> This case demonstrates our coordinated effort with federal law enforcement to protect businesses in Tennessee and across the country.
+
+> This scheme shows how national security threats now enter through ordinary business systems,
+
+said U.S. Attorney Jason A. Reding Quiñones for the Southern District of Florida.
+
+> These defendants helped North Korean IT workers pose as legitimate employees, gain access to American companies, and generate money for a sanctioned regime. These were not paperwork violations. They were deliberate acts that exposed U.S. businesses, compromised trust, and supported one of the world’s most dangerous adversaries. These sentences send a clear message: if you help foreign actors infiltrate American companies for profit, you will face federal prison and lose the money you made.
+
+> The FBI and our partners will continue to disrupt North Korea’s ability to circumvent sanctions and fund its totalitarian regime,
+
+said Assistant Director Brett Leatherman of the FBI’s Cyber Division.
+
+> These cases should leave no doubt that Americans who choose to facilitate these schemes will be identified and held accountable. Hosting laptops for DPRK IT workers is a federal crime which directly impacts our national security, and these sentences should serve as a warning to anyone considering it.
+
+Southern District of Florida: U.S. v. Erick Ntekereze Prince
+
+Today, U.S. District Court Judge Darrin P. Gayles for the Southern District of Florida sentenced Prince to 18 months in prison followed by three years of supervised release. Prince was also ordered to forfeit $89,000, which is the amount the DPRK IT workers paid him for his assistance with the scheme.
+
+According to court documents, Prince enabled at least three DPRK IT workers to obtain remote employment at U.S. companies from approximately June 2020 through August 2024. In furtherance of the scheme, Prince used his company Taggcar Inc. to fraudulently supply “certified” IT workers to victim U.S. companies, knowing that the IT workers were located outside the United States and using false and stolen identities to gain employment. In addition, Prince hosted victim U.S. company-provided laptops at New York residences and installed remote access software on those laptops without authorization so that the DPRK IT workers could create the false appearance that they were remote working from Prince’s residence.
+
+On Jan. 21, 2025, Prince, U.S. national Emanuel Ashtor, Mexican national Pedro Ernesto Alonso de los Reyes, and North Korean nationals Jin Sung-il and Pak Jin-Song were charged by indictment alleging their participation in a criminal scheme that obtained work for North Korean IT workers from more than 64 U.S. companies. The victim companies paid the DPRK IT workers associated in this case more than $943,069 in salary payments, the vast majority of which were sent to the IT workers overseas. Prince’s and his conspirators’ actions also caused the victim companies more than $1 million in costs associated with auditing and remediating their devices, systems, and networks. Ashtor is awaiting trial, de los Reyes is in custody in The Netherlands awaiting extradition, and the Sung-il and Jin-Song are fugitives.
+
+The FBI Miami Field Office investigated the case. Assistant U.S. Attorney Sean Cronin for the Southern District of Florida and Trial Attorney Gregory J. Nicosia Jr. of NSD’s National Security Cyber Section prosecuted the case.
+
+Today’s announcement represents the Department’s latest actions to combat North Korean IT worker schemes as part of a joint NSD and FBI Cyber and Counterintelligence Divisions effort, the DPRK RevGen: Domestic Enabler Initiative. This effort prioritizes targeting and disrupting the DPRK’s illicit revenue generation schemes and its U.S.-based enablers. The Department previously announced other actions pursuant to the initiative, including in January 2025, June 2025, November 2025, and April 2026.
+
+As described in Public Service Announcements published in May 2024, January 2025, and July 2025, North Korean remote IT workers posing as legitimate remote IT workers have committed data extortion and exfiltrated the proprietary and sensitive data from U.S. companies. DPRK IT worker schemes typically involve the use of stolen identities, alias emails, social media, online cross-border payment platforms, and online job site accounts, as well as false websites, proxy computers, and witting and unwitting third parties located in the U.S. and elsewhere. North Korean IT workers leverage these third parties, which include U.S.-based individuals, to gain fraudulent employment and access to U.S. company networks to generate this revenue.
+
+Other public advisories about the threats, red flag indicators, and potential mitigation measures for these schemes include a May 2022 advisory released by the FBI, Department of the Treasury, and Department of State; a July 2023 advisory from the Office of the Director of National Intelligence; and guidance issued in October 2023 by the United States and the Republic of Korea (South Korea). As described the May 2022 advisory, North Korean IT workers have been known individually to earn up to $300,000 annually, generating hundreds of millions of dollars collectively each year, on behalf of designated entities, such as the North Korean Ministry of Defense and others directly involved in the DPRK’s weapons programs.
+
+The U.S. Department of State has offered potential rewards for up to $5 million in support of international efforts to disrupt the DPRK’s illicit financial activities, including for cybercrimes, money laundering, and sanctions evasion.
+
+Middle District of Tennessee: U.S. v. Matthew Isaac Knoot
+
+On May 1, the U.S. District Court Judge Eli Richardson for the Middle District of Tennessee sentenced Knoot to 18 months in prison followed by one year of supervised release. Knoot was also ordered to pay $15,100 in restitution to the victim companies, and to forfeit an additional $15,100, which is the amount the DPRK IT workers paid him for his assistance with the scheme.
+
+According to court documents, Knoot ran a laptop farm from his Nashville residences between approximately July 2022 and August 2023. The victim companies shipped laptops addressed to “Andrew M.” to Knoot’s residences. Following receipt of the laptops, and without authorization, Knoot logged on to the laptops, downloaded and installed unauthorized remote desktop applications, and accessed the victim companies’ networks. The remote desktop applications enabled a North Korean IT worker to work from locations in China, while appearing to the victim companies that “Andrew M.” was working from Knoot’s residences in Nashville.
+
+On Aug. 7, 2024, Knoot was charged by indictment alleging his participation in a criminal scheme that obtained work for North Korean IT workers from at least four U.S. companies. The victim companies paid the DPRK IT workers associated with Knoot’s laptop farm more than $250,000 for their work between approximately July 2022 and August 2023. Most, if not all, of this sum was falsely reported to the IRS and Social Security Administration in the name of the actual U.S. person, Andrew M., whose identity the conspirators had stolen. Knoot’s and his conspirators’ actions also caused the victim companies more than $500,000 in costs associated with auditing and remediating their devices, systems, and networks. Knoot and the DPRK IT workers conspired to receive payments from the victim companies and transfer those funds to Knoot and to accounts outside of the United States, including accounts associated with North Korean and Chinese individuals. Knoot’s role in this scheme ended when the FBI executed a court-authorized search of his home on Aug. 8, 2023, after which Knoot made multiple false and misleading statements and destroyed evidence to obstruct the investigation.
+
+The FBI Nashville Field Office investigated the case. Former Assistant U.S. Attorney Josh Kurtzman for the Middle District of Tennessee and Trial Attorney Gregory J. Nicosia Jr. of the National Security Division (NSD)’s National Security Cyber Section prosecuted the case, with significant assistance from Paralegal Specialist Shelby Duty.

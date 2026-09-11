@@ -1,0 +1,13 @@
+TITLE: Council tax information letter 4/2026: Technical consultation improving council tax enforcement
+URL: https://www.gov.uk/government/publications/council-tax-information-letter-42026-technical-consultation-improving-council-tax-enforcement
+DATE: 2026-07-01
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+This information letter provides an update on the government’s technical consultation on council tax enforcement.
+
+This provides a link to the consultation and sets out what the government is seeking views on.
+
+This also provides an update on the government’s ongoing New Burdens assessment into changes to council tax administration.

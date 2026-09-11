@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/united-states-leads-g7-effort-with-up-to-100-million-commitment-to-restore-chornobyl-nuclear-safety-systems/",
+ "institution_id": "us-state",
+ "title": "United States Leads G7 Effort with Up to $100 Million Commitment to Restore Chornobyl Nuclear Safety Systems",
+ "date": "2026-04-29",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "c4da89e139f051f5362f8ca75fcbd5e24a503247fc892ffde0890629c5366fd6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "url": "https://www.transportation.gov/briefing-room/trumps-transportation-department-taps-new-deputy-superintendent-us-merchant-marine",
+ "institution_id": "us-transportation",
+ "title": "Trump’s Transportation Department Taps New Deputy Superintendent for U.S. Merchant Marine Academy",
+ "date": "2026-06-25",
+ "date_source": "listing",
+ "source_document_type": "Press Release",
+ "text_sha256": "714f840d64a9dc6ddf56684dc8eb8e16d2e3fe88545bb7143c4b6f86f460ea77",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Transportation Secretary Sean P. Duffy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "U.S. Transportation Secretary Sean P. Duffy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Rear Admiral Tony Ceraolo",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Rear Admiral Tony Ceraolo",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/new-round-of-economic-fury-sanctions-targets-irgc-oil-operations/",
+ "institution_id": "us-state",
+ "title": "New Round of Economic Fury Sanctions Targets IRGC Oil Operations",
+ "date": "2026-05-11",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "3d701da2beaef6b49ef1bdd324a880007c7aea2dbd14f0f2003c31c0a6b63ff2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "I need to identify the specific mechanism described in this quotation.\n\nThe quotation describes a tiered/layered system of support for children with different levels of need:\n1. Universal support for all children\n2. Targeted support (Individual Support Plans) for those with greater needs\n3. Specialist provision for children who need it most\n\nThis is clearly about special educational needs / children's support services - a government policy for tiered educational/developmental support for children, particularly those with additional needs.\n\nThe mechanism is: tiered government support system for children with special educational needs.\n\nThis fits within I2 (Education and Research Institutions), and specifically I28 (Government Policy) since it's describing a policy framework for educational support provision.\n\n{\"mechanism\": \"tiered support system for children with special educational needs\", \"sub\": \"I2\", \"detailed\": \"I28\"}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

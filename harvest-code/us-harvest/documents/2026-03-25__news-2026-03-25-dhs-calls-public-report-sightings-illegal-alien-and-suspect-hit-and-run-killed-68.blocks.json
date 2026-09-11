@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/03/25/dhs-calls-public-report-sightings-illegal-alien-and-suspect-hit-and-run-killed-68",
+ "institution_id": "us-dhs",
+ "title": "DHS Calls on the Public to Report Sightings of Illegal Alien and Suspect of Hit-and-Run that Killed a 68-Year-Old in Morristown, New Jersey",
+ "date": "2026-03-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "64c378ba154186e379ef47d34c8cf7d708497e3336e98cb9a0b776b50aca6241",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

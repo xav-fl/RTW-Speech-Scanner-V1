@@ -1,0 +1,109 @@
+Artist’s concept of NASA’s MAVEN spacecraft at Mars. The spacecraft entered orbit around the planet in 2014 and has completed over eleven years of observing the Martian upper atmosphere, ionosphere, and interactions with the Sun and solar wind to explore the loss of the Red Planet’s atmosphere to space.
+
+Credit: NASA/Goddard/University of Colorado/Laboratory for Atmospheric and Space Physics
+
+The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. The spacecraft was heard last on Dec. 6, when it experienced an unexpected loss of signal after it passed behind the Red Planet.
+
+NASA will host a media teleconference at 2 p.m. EDT today, Wednesday, June 3, to discuss MAVEN’s achievements.
+
+The agency convened an anomaly review board in February to evaluate recovery efforts and assess the spacecraft’s probable current state. The review board has determined that the MAVEN spacecraft is not recoverable, and it is no longer capable of performing its science and data relay mission, which is consistent with the mission team’s findings.
+
+Telemetry from MAVEN prior to the spacecraft’s passage behind Mars in December showed all subsystems working normally. After the spacecraft emerged, NASA’s Deep Space Network (DSN) did not observe a signal. A brief fragment of telemetry data from analysis of radio signals recorded by the DSN’s open-loop receivers indicated the spacecraft was in safe mode and rotating at an unusually high rate when it emerged from behind Mars, indicating a disruption in MAVEN’s orbit trajectory. The review board concluded that due to this rotation, the batteries on the spacecraft had drained, causing the communications system to lose power and rendering MAVEN in an unrecoverable state.
+
+These preliminary findings do not address a potential root cause for the anomaly, which still is being investigated. The review board is expected to provide its final report later this year. NASA has begun the official process of decommissioning the MAVEN mission, following standard procedures to archive the full mission dataset for the science and exploration communities.
+
+> The science MAVEN has given us is key to informing what kind of radiation protection and safety measures we must take before sending humans to Mars,
+
+said Louise Prockter, director of the Planetary Science Division at NASA Headquarters in Washington.
+
+> The data collected from MAVEN will continue to provide valuable insight into Mars for decades to come.
+
+Launched in November 2013, the MAVEN mission explored the Red Planet’s upper atmosphere, ionosphere, and interactions with the Sun to explore the loss of the Martian atmosphere to space. Understanding atmospheric loss gives scientists insight into the history of the planet’s atmosphere and climate, liquid water, and planetary habitability.
+
+> The MAVEN mission has truly advanced our understanding of the Martian atmosphere and evolution. This dataset has had a tremendous impact on the field,
+
+said Shannon Curry, MAVEN’s principal investigator and a researcher at the Laboratory for Atmospheric and Space Physics at the University of Colorado Boulder.
+
+> Our science team is exceptionally proud of all of these amazing discoveries.
+
+Sun’s impact on Mars
+
+One of MAVEN’s first major results was that the erosion of Mars’ atmosphere increases significantly during solar storms. The team studied how the solar wind, which is a stream of charged particles continually streaming from the Sun, and solar storms continually strip away Mars’ atmosphere, as well as how this process played a key role in altering the Martian climate from a potentially habitable world to today’s cold, arid planet. The MAVEN mission made unprecedented strides in advancing our understanding of how the Sun and space weather affect Mars, as it was the only spacecraft that could simultaneously take measurements of both the Sun and the Martian atmospheric response.
+
+Martian light shows
+
+The MAVEN mission discovered several types of auroras that light up when energetic particles plunge into the atmosphere, bombarding gases and making them glow. The MAVEN team showed that protons create new kinds of auroras at Mars. On Earth, proton auroras only occur in very small regions near the poles, whereas at Mars they can occur everywhere.
+
+Mars’ atmosphere sputters into space
+
+To better understand how Mars lost most of its atmosphere, MAVEN measured atmospheric sputtering for the first time at any planet. The team did this by observing argon, which is a noble gas, meaning it rarely reacts with other constituents in the Martian atmosphere. The only significant way it can be removed is by atmospheric sputtering, a process where ions crash into the Martian atmosphere at high enough speeds that they splash gas molecules out of the atmosphere, much like doing a cannonball into a pool. The team used 11 years of data to reveal the presence of sputtered argon at high altitudes in the exact locations that the energetic particles crashed into the atmosphere, showing sputtering in real time.
+
+Understanding Mars’ dusty secrets
+
+In 2018, a series of dust storms created a dust cloud so large that it enveloped the Red Planet. The MAVEN team studied how this “global” dust storm affected Mars’ upper atmosphere to understand how these events affected the escape of water to space. It confirmed that heating from dust storms can loft water molecules far higher into the atmosphere than usual, leading to a sudden surge in water lost to space.
+
+Chasing comets
+
+In addition to Martian science, MAVEN contributed to NASA’s effort to observe comet 3I/ATLAS at Mars. Over the course of 10 days last year, the MAVEN team designed a new observing campaign to capture 3I/ATLAS by taking multiple images of the comet in several wavelengths, much like using various filters on a camera. Then it snapped high-resolution UV images to identify the hydrogen coming from the comet. By studying a combination of these images, scientists can identify a variety of molecules and better understand the comet’s composition and history.
+
+During the mission’s lifetime, MAVEN’s science team produced more than 800 publications, and additional publications are planned.
+
+In addition to science, the MAVEN spacecraft was an instrumental player in NASA’s Mars Relay Network, communicating data from Mars rovers to Earth. It also holds the solar system record for most data relayed from another planet in a single day.
+
+Audio of today’s media teleconference will stream on the agency’s website at:
+
+https://www.nasa.gov/live
+
+Participants in the teleconference include:
+
+Tiffany Morgan, director, Mars Exploration Program, Planetary Science Division, NASA Headquarters
+
+Mike Moreau, project manager, MAVEN, NASA’s Goddard Space Flight Center, Greenbelt, Maryland
+
+Greg Heckler, deputy program manager for Capability Development, SCaN (Space Communications and Navigation), NASA Headquarters
+
+Shannon Curry, MAVEN principal investigator, Laboratory for Atmospheric and Space Physics at the University of Colorado Boulder
+
+To ask questions by phone, media must RSVP no later than 12 p.m. to: sarah.frazier@nasa.gov. NASA’s media accreditation policy is available online.
+
+The MAVEN mission is part of NASA’s Mars Exploration Program portfolio. The mission’s principal investigator is based at the Laboratory for Atmospheric and Space Physics at the University of Colorado Boulder, which also is responsible for managing science operations and public outreach and communications. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the MAVEN mission. Lockheed Martin Space built the spacecraft and is responsible for mission operations. NASA’s Jet Propulsion Laboratory in Southern California provides navigation and Deep Space Network support.
+
+For more information about NASA’s Mars Exploration Program, visit:
+
+https://science.nasa.gov/planetary-science/programs/mars-exploration
+
+-end-
+
+Karen Fox / Alana Johnson Headquarters, Washington 240-285-5155 / 202-672-4780 karen.c.fox@nasa.gov / alana.r.johnson@nasa.gov
+
+Sarah Frazier Goddard Space Flight Center, Greenbelt, Md. 202-853-7191 sarah.frazier@nasa.gov
+
+Share
+
+Details
+
+Last Updated
+
+Jun 03, 2026
+
+Editor
+
+Jessica Taveau
+
+Location
+
+NASA Headquarters
+
+Related Terms
+
+MAVEN (Mars Atmosphere and Volatile EvolutioN)
+
+Deep Space Network
+
+Goddard Space Flight Center
+
+Jet Propulsion Laboratory
+
+Mars
+
+Science Mission Directorate

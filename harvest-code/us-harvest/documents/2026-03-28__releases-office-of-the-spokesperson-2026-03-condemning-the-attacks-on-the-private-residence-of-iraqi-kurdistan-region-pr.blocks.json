@@ -1,0 +1,17 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/condemning-the-attacks-on-the-private-residence-of-iraqi-kurdistan-region-president-barzani/",
+ "institution_id": "us-state",
+ "title": "Condemning the Attacks on the Private Residence of Iraqi Kurdistan Region President Barzani",
+ "date": "2026-03-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "a4d824d17d23e8404d56229bc24c14128d42f773130055807a7fd21cbe9c4202",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

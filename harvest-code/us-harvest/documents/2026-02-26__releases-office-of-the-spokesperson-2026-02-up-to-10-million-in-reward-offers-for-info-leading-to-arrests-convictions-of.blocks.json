@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/up-to-10-million-in-reward-offers-for-info-leading-to-arrests-convictions-of-mexican-sinaloa-cartel-bosses/",
+ "institution_id": "us-state",
+ "title": "Up to $10 Million in Reward Offers for Information Leading to Arrests and/or Convictions of Alleged Mexican Sinaloa Cartel Plaza Bosses",
+ "date": "2026-02-26",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "ba8df965131ea4860269334de8ff5fda16f28418cd2a57ff3591a1933a4d742c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

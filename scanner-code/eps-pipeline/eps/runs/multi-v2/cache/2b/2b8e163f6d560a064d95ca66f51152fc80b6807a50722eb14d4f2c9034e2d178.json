@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about fiscal/political devolution — transferring powers and responsibilities from central to subnational governments — in the context of budget planning. The specific mechanism is intergovernmental fiscal relations and the structure/scope of subnational government authority.\n\n- **H7** (State and Local Government • Intergovernmental Relations) is the precise fit: devolution is fundamentally about redistributing fiscal and governance authority between levels of government.\n- **H1** (Structure and Scope of Government) is also relevant as devolution concerns the organizational structure of government itself.\n- The Autumn Budget reference connects to **H6** (National Budget), but only tangentially — the budget is the vehicle, not the substance.\n\n{\"primary\": \"H7\", \"secondary\": [\"H1\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

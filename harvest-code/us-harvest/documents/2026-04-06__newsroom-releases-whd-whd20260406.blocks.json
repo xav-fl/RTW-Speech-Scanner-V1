@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260406",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers $85K in back wages for 36 workers after investigation finds tip pool violations at coffee bar, lounge near Austin",
+ "date": "2026-04-06",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "376620aeef3abd51b0aed3d16a3b9310410cc838617eccd53d960cd3fa37d00a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

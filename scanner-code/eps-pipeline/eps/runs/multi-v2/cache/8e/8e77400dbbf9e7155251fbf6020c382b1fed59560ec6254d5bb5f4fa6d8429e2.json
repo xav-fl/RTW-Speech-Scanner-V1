@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1c6dd1b802.P004.S001\"], \"anchor\": null, \"reason\": \"£97 million investment for largest upgrade of National Resilience assets in twenty years\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

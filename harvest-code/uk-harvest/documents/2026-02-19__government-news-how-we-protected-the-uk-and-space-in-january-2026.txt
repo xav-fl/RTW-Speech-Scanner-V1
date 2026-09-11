@@ -1,0 +1,45 @@
+TITLE: How we protected the UK and space in January 2026
+URL: https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-january-2026
+DATE: 2026-02-19
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+January saw sustained levels of space activity, with similar levels of uncontrolled re-entries and generally similar levels of collision alerts to those issued in December. The exception was space weather, which saw increased activity.
+
+All NSpOC warning and protection services were functioning throughout the period.
+
+Re-entry analysis
+
+January saw a slight reduction in the number of objects re-entering Earth’s atmosphere, monitored by NSpOC, when compared with the previous month.
+
+Of the 50 objects that re-entered, 39 were satellites and 11 were rocket bodies.
+
+February: 129, March: 85, April: 92, May: 64, June: 55, July: 52, August: 34, September: 39, October: 54, November: 43, December: 52, January: 50
+
+Collision avoidance analysis
+
+Collision risks to UK-licensed satellites were broadly the same in January as in December.
+
+February: 2,567, March: 2,588, April: 2,620, May: 1,546, June: 1,259, July: 1,038, August: 971, September: 1,537, October: 2,402, November: 2,472, December: 2,643, January: 2,608
+
+Registered Space Objects (RSOs) analysis
+
+The in-orbit population increased in January, with a net addition of 177 objects to the US Satellite Catalogue.
+
+February: 30,087, March: 30,181, April: 30,309, May: 30,558, June: 30,883, July: 31,091, August: 31,345, September, 31,635, October: 31,928, November: 32,305, December: 32,690, January: 32,867
+
+The number of Resident Space Objects (RSOs) reported may be subject to small adjustments over time as the way objects are tracked is refined. Figures in this report reflect the most current available data and may differ slightly from those published in previous months.
+
+Fragmentation analysis
+
+One fragmentation incident took place in January involving a satellite in the Graveyard Orbit (above Geostationary orbit). Assessments are ongoing to understand how many pieces of debris were released.
+
+Space weather analysis
+
+An increase in space weather activity was observed during the month of January, with geomagnetic storms, solar radiation storms and solar flares registered throughout the month.
+
+Comments
+
+The National Space Operations Centre combines and coordinates UK civil and military space domain awareness capabilities to enable operations, promote prosperity and protect UK interests in space and on Earth from space-related threats, risks and hazards.

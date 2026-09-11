@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260504",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor issues advisory opinion on Idaho Farm Bureau Federation’s proposed group health insurance plan",
+ "date": "2026-05-04",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "aec333a610be70710653b5fc4d7256901d08b9784ea5ee099cd5440a4be11c8e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Employee Benefits Security Daniel Aronowitz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Employee Benefits Security Daniel Aronowitz",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

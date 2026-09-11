@@ -1,0 +1,9 @@
+TITLE: Open letters between HM Treasury and Bank of England, April 2026
+URL: https://www.gov.uk/government/publications/open-letters-between-hm-treasury-and-bank-of-england-april-2026
+DATE: 2026-04-30
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+The remit for the Monetary Policy Committee (MPC) requires an exchange of open letters between the Governor of the Bank of England and the Chancellor of the Exchequer if inflation moves away from the target by more than 1 percentage point in either direction.

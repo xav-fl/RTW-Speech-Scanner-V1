@@ -94,6 +94,11 @@ class JELAssignment:
     sub_title: str = ""
     detailed_code: str = ""
     detailed_title: str = ""
+    # How well the code fits this quote: 3 direct, 2 strong, 1 weak. A semantic
+    # match score, not a probability and not model confidence -- and a different
+    # quantity from the EPS relevance score. An observation the classifier
+    # declines to code scores 0 and is rejected rather than published.
+    match_strength: int = 0
 
     def is_empty(self) -> bool:
         return not (self.major_code or self.sub_code or self.detailed_code)

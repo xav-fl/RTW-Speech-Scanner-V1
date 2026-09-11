@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a government support package targeted at small and medium-sized builders — a specific firm-size category within the construction industry. The core mechanism is government support (subsidies/assistance) directed at SME construction firms.\n\n- Primary: **L7** — Industry Studies: Primary Products and Construction (construction industry, specific firm type)\n- Secondary: **H2** — Taxation, Subsidies, and Revenue (government support package implies subsidies/financial assistance)\n\n{\"primary\": \"L7\", \"secondary\": [\"H2\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

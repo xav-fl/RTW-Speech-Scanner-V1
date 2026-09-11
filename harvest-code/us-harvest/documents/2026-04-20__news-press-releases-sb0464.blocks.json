@@ -1,0 +1,23 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0464/",
+ "institution_id": "us-treasury",
+ "title": "Chair’s Statement of the United States G20 Presidency",
+ "date": "2026-04-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "103f91c6b3119b92794dc52e6660ad78497b423fc6af4452bdee3e6ed031e389",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

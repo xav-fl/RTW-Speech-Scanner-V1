@@ -1,0 +1,47 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0433/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Department Designates BNY as Financial Agent to Support New Trump Accounts Program",
+ "date": "2026-04-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "91e996569168f35608667ddc899d476b16a33a8e3513ebf47e9f1ef9bf63dfe4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

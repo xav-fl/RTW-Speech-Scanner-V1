@@ -1,0 +1,23 @@
+Note, the release has been updated to include a quote from U.S. Attorney Craig H. Missakian for the Northern District of California.
+
+The Justice Department announced today that it has filed a proposed stipulated order that, if entered by the court, will resolve a case against software company Adobe Inc. and two of its employees, Maninder Sawhney and David Wadhwani. The proposed order requires Adobe to pay $75 million in civil penalties and offer customers $75 million in free services to resolve allegations that the company’s subscription practices violated the Restore Online Shoppers’ Confidence Act (ROSCA).
+
+ROSCA generally requires companies offering online subscriptions to clearly disclose important subscription information and to provide subscribers with simple ways to cancel. In a complaint filed in the U.S. District Court for the Northern District of California, the government alleged that Adobe violated ROSCA by using fine print and inconspicuous hyperlinks to hide important information about Adobe’s subscription plans, including information about a hefty Early Termination Fee that customers may be charged when they cancel their subscriptions. The government also alleged that Adobe thwarted subscribers’ attempts to cancel, subjecting them to convoluted and inefficient cancellation processes filled with unnecessary steps, delays, unsolicited offers, and warnings.
+
+> American consumers deserve the right to make informed choices when deciding where to spend their hard-earned money,
+
+said Assistant Attorney General Brett A. Shumate, head of the Justice Department’s Civil Division.
+
+> The Justice Department will strongly oppose any attempt to harm Americans with deceptive and unfair business practices.
+
+> Consumers should not have to navigate a digital maze to cancel a subscription,
+
+said U.S. Attorney Craig H. Missakian for the Northern District of California.
+
+> We will continue to hold responsible any company that uses deceptive business practices to harm the consumer.
+
+In addition to civil penalties and free services, the stipulated order provides strong protections for American consumers going forward. Adobe will be required to clearly disclose any Early Termination Fee and how the fee is calculated before enrolling customers in subscriptions. For any free trial lasting longer than seven days, Adobe must also remind customers before converting them into a paid subscription with an Early Termination Fee. Furthermore, Adobe will be required to provide its subscribers with easy ways to cancel their subscriptions.
+
+The United States is represented in this action by Trial Attorneys Francisco L. Unger and Zachary L. Cowan and Assistant Director Zachary A. Dietert, from the Enforcement Section of the Civil Division’s Enforcement and Affirmative Litigation Branch, with assistance from Assistant U.S. Attorney Savith S. Iyengar for the Northern District of California, in coordination with staff at the FTC’s Bureau of Consumer Protection.
+
+For more information about the Enforcement & Affirmative Litigation Branch and its enforcement efforts visit www.justice.gov/civil/enforcement-affirmative-litigation-branch.

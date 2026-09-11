@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/22/coast-guard-rescues-four-vessel-trapped-ice-over-24-hours-alaska",
+ "institution_id": "us-dhs",
+ "title": "Coast Guard Rescues Four From Vessel Trapped in Ice for Over 24 Hours in Alaska",
+ "date": "2026-04-22",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "28fe7323a75ed4000a1ebc3b1fda6549cca89117a1667ab5b95f381303c42188",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

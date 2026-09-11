@@ -1,0 +1,71 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/icymi-opm-director-scott-kupor-discusses-merit-based-federal-hiring-and-restoring-accountability-on-the-ingraham-angle/",
+ "institution_id": "us-opm",
+ "title": "ICYMI: OPM Director Scott Kupor Discusses Merit-Based Federal Hiring and Restoring Accountability on The Ingraham Angle",
+ "date": "2026-07-22",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "d8bf1427bfd339a4e872ac9ea71e62bf114f5fbc261bee1689812ae04d90cca1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0547/",
+ "institution_id": "us-treasury",
+ "title": "READOUT: Financial Action Task Force’s June 2026 Working Group and Plenary",
+ "date": "2026-06-30",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "84e58f9d544ee9592d47cb5c0627f8d85403a492359350cf0102b3a0845eec00",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

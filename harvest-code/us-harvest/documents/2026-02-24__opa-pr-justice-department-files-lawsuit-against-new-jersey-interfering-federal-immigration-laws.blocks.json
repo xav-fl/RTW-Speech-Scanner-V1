@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-files-lawsuit-against-new-jersey-interfering-federal-immigration-laws",
+ "institution_id": "us-justice",
+ "title": "Justice Department Files Lawsuit Against New Jersey for Interfering with Federal Immigration Laws",
+ "date": "2026-02-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "d133450434bae856eae859c06b5a97cb3a8bac1a5836319e12a8c99b4b9d839c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Attorney General Pamela Bondi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Attorney General Pamela Bondi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

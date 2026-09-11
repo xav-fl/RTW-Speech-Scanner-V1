@@ -1,0 +1,77 @@
+{
+ "url": "https://www.justice.gov/opa/pr/action-across-country-today-prosecute-schemes-defraud-over-260-million-taxpayer-funded-covid",
+ "institution_id": "us-justice",
+ "title": "Action Across the Country Today Prosecute Schemes to Defraud Over $260 Million in Taxpayer Funded COVID Relief and Social Security Disability Programs",
+ "date": "2026-04-08",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "ff5bd1e8536f5e816fd0b60abe2c1a6b196b55895e8ee7023e4d1ec76ba26d6d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Colin McDonald",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

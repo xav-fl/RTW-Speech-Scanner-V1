@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260622",
+ "institution_id": "us-labor",
+ "title": "Federal court enters consent order requiring 3 Maine sports bars to pay $51K in back wages to 47 employees",
+ "date": "2026-06-22",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "a57f9cb5426f8f78bf81cbb817b22324baba43b38245e3c4c088b6556558a30d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

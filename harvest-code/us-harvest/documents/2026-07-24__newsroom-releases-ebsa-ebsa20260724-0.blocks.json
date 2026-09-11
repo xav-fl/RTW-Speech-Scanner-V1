@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260724-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor files amicus brief supporting fiduciary discretion in use of forfeited funds under ERISA",
+ "date": "2026-07-24",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "e05f037e3a6e8741535503c3c84bc4ede0d6566c1e9dae5081c8275f6447835e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

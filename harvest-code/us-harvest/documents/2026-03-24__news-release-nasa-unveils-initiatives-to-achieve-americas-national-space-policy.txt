@@ -1,0 +1,107 @@
+Artist’s concept of Phase 3 of NASA’s Moon Base.
+
+Credit: NASA
+
+As part of its “Ignition” event on Tuesday, NASA announced a series of transformative agencywide initiatives designed to achieve President Donald J. Trump’s National Space Policy and advance American leadership in space. These actions reflect the urgency of the moment, but also the tremendous opportunity ahead for world-changing science and discovery.
+
+> NASA is committed to achieving the near‑impossible once again, to return to the Moon before the end of President Trump’s term, build a Moon base, establish an enduring presence, and do the other things needed to ensure American leadership in space. This is why it is essential we leave an event like Ignition with complete alignment on the national imperative that is our collective mission. The clock is running in this great‑power competition, and success or failure will be measured in months, not years,
+
+said NASA Administrator Jared Isaacman.
+
+> If we concentrate NASA’s extraordinary resources on the objectives of the National Space Policy, clear away needless obstacles that impede progress, and unleash the workforce and industrial might of our nation and partners, then returning to the Moon and building a base will seem pale in comparison to what we will be capable of accomplishing in the years ahead.
+
+NASA Associate Administrator Amit Kshatriya said,
+
+> Today we are aligning NASA around the mission. On the Moon, we are shifting to a focused, phased architecture that builds capability landing by landing, incrementally, and in alignment with our industrial and international partners. In low Earth orbit (LEO), we are recognizing where the market is and where it isn’t, recognizing the incredible value of the International Space Station, and building a transition that builds a competitive commercial ecosystem rather than forcing a single outcome the market cannot support. In our science missions, we are opening the lunar surface to researchers and students nationwide, and with Space Reactor‑1 Freedom, we are finally putting nuclear propulsion on a trajectory out of the laboratory and into deep space. And this is all possible by investing in our people, bringing critical skills back into the agency, putting our teams where the machines are being built, and creating real pathways for the next generation of NASA leaders. Our workforce is the jewel of NASA, and from their leaders, they need clear mission goals, the tools to execute, and to get out of their way. This is what Ignition is about.
+
+Going back to the Moon
+
+The announcements build on recent updates to the Artemis program, including standardizing the SLS (Space Launch System) rocket configuration, adding an additional mission in 2027, and undertaking at least one surface landing every year thereafter. Under this previously updated architecture, Artemis III – scheduled for 2027 – will focus on testing integrated systems and operational capabilities in Earth orbit in advance of the Artemis IV lunar landing.
+
+Looking beyond Artemis V, NASA announced March 24 it will begin to incorporate more commercially procured and reusable hardware to undertake frequent and affordable crewed missions to the lunar surface, initially targeting landings every six months, with the potential to increase cadence as capabilities mature.
+
+To achieve an enduring human presence on the Moon, NASA also announced a phased approach to building a lunar base. As part of this strategy, the agency intends to pause Gateway in its current form and shift focus to infrastructure that enables sustained surface operations. Despite challenges with some existing hardware, the agency will repurpose applicable equipment and leverage international partner commitments to support these objectives.
+
+In the coming days, NASA will release Requests for Information (RFIs) and draft Requests for Proposals (RFPs) to ensure continued progress in meeting national objectives.
+
+Building the Moon Base
+
+NASA’s plan for establishing a sustained lunar presence will roll out in three deliberate phases.
+
+Phase One: Build, Test, Learn NASA shifts from bespoke, infrequent missions to a repeatable, modular approach. Through CLPS (Commercial Lunar Payload Services) deliveries and the LTV (Lunar Terrain Vehicle) program, the agency will increase the tempo of lunar activity, sending rovers, instruments, and technology demonstrations that advance mobility, power generation (including radioisotope heater units and radioisotope thermoelectric generators), communications, navigation, surface operations, and a wide range of scientific investigations.
+
+Phase Two: Establish Early Infrastructure With lessons from early missions in hand, NASA moves toward semi‑habitable infrastructure and regular logistics. This phase supports recurring astronaut operations on the surface and incorporates major international contributions, including JAXA’s (Japan Aerospace Exploration Agency) pressurized rover, and potentially other partner scientific payloads, rovers, and infrastructure/transportation capabilities.
+
+Phase Three: Enable Long ‑ Duration Human Presence As cargo‑capable human landing systems (HLS) come online, NASA will deliver heavier infrastructure needed for a continuous human foothold on the Moon, marking the transition from periodic expeditions to a permanent lunar base. This will include ASI’s (Italian Space Agency) Multi-purpose Habitats (MPH), CSA’s (Canadian Space Agency) Lunar Utility Vehicle, and opportunities for additional contributions in habitation, surface mobility and logistics.
+
+Ensuring American presence in low Earth orbit
+
+While building a sustainable lunar architecture, NASA is also reaffirming its commitment to low Earth orbit. For more than two decades, the International Space Station has served as a world‑class orbital laboratory, enabling more than 4,000 research investigations, supporting more than 5,000 researchers, and hosting visitors from 26 countries. The space station required 37 shuttle flights, 160 spacewalks, two decades, and more than $100 billion to design, develop, and build. The orbital laboratory cannot operate indefinitely. The transition to commercial stations must be thoughtful, deliberate, and structured to support long‑term industry success.
+
+NASA is introducing and seeking industry feedback on an additional LEO strategy that preserves all current pathways while adding a phased, International Space Station‑anchored approach to avoid any gap in U.S. human presence and mature a robust commercial ecosystem. Under this alternative approach, NASA would procure a government‑owned Core Module that attaches to the space station, followed by commercial modules that are validated using International Space Station capabilities and later detach into free flight. After maturing technical and operational capabilities and market demand is realized, the stations would detach and NASA would be one of many customers purchasing commercial services. To stimulate the orbital economy, NASA would expand industry opportunities, including private astronaut missions, commander seat sales, joint missions, multiple module competitions, and prize‑based awards.
+
+An industry RFI opens Wednesday, March 25, to inform partnership structures, financing, and risk mitigation.
+
+Advancing world-changing discovery with current, developing science missions
+
+In a Golden Age of exploration and discovery, NASA takes full advantage of every opportunity to get science into space. The James Webb Space Telescope continues to transform our understanding of the early universe, Parker Solar Probe has flown through the atmosphere of the Sun, NASA has shown it can defend the planet by deflecting asteroids, and Earth science data is used extensively by American companies, U.S. agriculture, and disaster relief. On the International Space Station, NASA is conducting groundbreaking experiments in quantum science.
+
+Future opportunities will advance U.S. leadership in space science. The Nancy Grace Roman Space Telescope, launching as early as this fall, will advance our understanding of dark energy, and has created a new standard for the management of large science missions. Dragonfly will launch a nuclear-powered octocopter in 2028, arriving at Saturn’s moon Titan in 2034 to explore its complex, organic-rich environment. In 2028, NASA will launch and deliver ESA’s (European Space Agency) Rosalind Franklin Rover to Mars, with NASA’s contributed mass spectrometer for the Mars Organic Molecule Analyzer (MOMA) instrument, which may result in the most advanced detection and analysis of organic matter ever conducted on Mars. A new Earth science mission launching next year will measure for the first time the evolution of the dynamics within convective storms to improve the prediction of extreme weather events up to six hours before the storm occurs.
+
+The agency detailed how advancements in lunar science also will be afforded by the build out of the Moon Base and underpin future Moon and Mars exploration. With an accelerated CLPS cadence, targeting up to 30 robotic landings starting in 2027, NASA is expediting delivery of science and technology to the lunar surface. There will be many opportunities for payload delivery including rovers, hoppers, and drones with contributions welcomed from industry, academia, and international partners. Near-term payloads include the VIPER rover and the LuSEE‑Night mission. An RFI will be released March 24 that calls for payloads capable of supporting NASA’s science and technology goals for additional 2027 and 2028 flights. It will enable students and researchers across the country to work on scientific instruments for use on the surface of the Moon in the years ahead. This RFI also will solicit payloads incorporated on future missions to Mars including the Mars Telecom Network (MTN) and a nuclear technology demonstration mission.
+
+The agency intends to partner with philanthropic and privately funded research organizations with shared objectives in space science.
+
+Other RFIs released March 24 will strengthen
+
+> Science as a Service
+
+partnerships and commercial capabilities, allowing NASA to streamline legacy operations and focus investment on the transformational missions only the agency can lead.
+
+Finally, NASA will unveil a previously unseen pair of images from the James Webb and Hubble Space Telescopes. These images show the planet Saturn in unprecedented detail in both infrared and visible wavelengths.
+
+America underway on nuclear power in space
+
+In addition to these scientific missions, after decades of study and in response to the National Space Policy, NASA announced a major step forward in bringing nuclear power and propulsion from the lab to space.
+
+NASA will launch the Space Reactor‑1 Freedom, the first nuclear powered interplanetary spacecraft, to Mars before the end of 2028, demonstrating advanced nuclear electric propulsion in deep space. Nuclear electric propulsion provides an extraordinary capability for efficient mass transport in deep space and enables high power missions beyond Jupiter where solar arrays are not effective.
+
+When SR-1 Freedom reaches Mars, it will deploy the Skyfall payload of Ingenuity‑class helicopters to continue exploring the Red Planet. SR-1 Freedom will establish flight heritage nuclear hardware, set regulatory and launch precedent, and activate the industrial base for future fission power systems across propulsion, surface, and long‑duration missions. NASA and its U.S. Department of Energy partner will unlock the capabilities required for sustained exploration beyond the Moon and eventual journeys to Mars and the outer solar system.
+
+None of these endeavors can succeed without the NASA workforce. As previously announced, the agency is rebuilding its core competencies, converting thousands of contractor positions to civil service, and restoring the engineering, technical, and operational strengths expected of the world’s premier space organization.
+
+NASA is expanding opportunities for interns and early‑career professionals and, in partnership with the U.S. Office of Personnel Management and NASA Force, is creating new pathways for experienced industry talent to serve through term‑based appointments. The agency also is seeking to open opportunities for NASA employees to gain valuable experience working within the most technologically advanced space industry in history.
+
+The changes announced on March 24 will be implemented during the coming months, with teams agencywide ensuring a smooth transition while advancing key programs and partnerships.
+
+NASA will embed subject‑matter experts across the supply chain – at every major vendor, subcontractor, and critical‑path component – to challenge assumptions, solve problems, accelerate production, and help ensure the right outcomes are achieved.
+
+Through these reforms, NASA is strengthening its ability to deliver on the President’s National Space Policy and ensure continued American superiority in space.
+
+Learn more about NASA’s Ignition news online:
+
+https://www.nasa.gov/ignition
+
+-end-
+
+Camille Gallo / George Alderman Headquarters, Washington 202-358-1600 camille.m.gallo@nasa.gov / george.a.alderman@nasa.gov
+
+Share
+
+Details
+
+Last Updated
+
+Apr 02, 2026
+
+Location
+
+NASA Headquarters
+
+Related Terms
+
+Artemis
+
+International Space Station (ISS)
+
+NASA Headquarters

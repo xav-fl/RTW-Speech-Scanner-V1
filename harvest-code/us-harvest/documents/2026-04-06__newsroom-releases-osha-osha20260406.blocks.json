@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260406",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor files suit alleging South Dakota construction company wrongfully fired whistleblower for reporting work-related injury",
+ "date": "2026-04-06",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "cd948ebfb4904de46fad246881fb86b28c226f1324ec5fa17d928242b7962bcb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

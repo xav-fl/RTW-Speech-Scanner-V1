@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260423",
+ "institution_id": "us-labor",
+ "title": "Department of Labor finds New Mexico company wrongfully fired inspector who raised concerns during gas pipeline installation at Oklahoma site",
+ "date": "2026-04-23",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "00d03a3a534e73e0d2aaa4e977b36405342165bfbb075161cc2810e8eed3c020",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dhs.gov/news/2026/05/07/fema-review-council-releases-final-report",
+ "institution_id": "us-dhs",
+ "title": "FEMA Review Council Releases Final Report",
+ "date": "2026-05-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "4c744396d6d4b706b0ba1b2a30693e51f8071386d08a942b31d7a1962e7deb67",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Department of Homeland Security",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Department of Homeland Security",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

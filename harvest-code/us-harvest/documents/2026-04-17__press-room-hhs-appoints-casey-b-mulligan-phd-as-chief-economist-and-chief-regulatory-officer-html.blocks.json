@@ -1,0 +1,65 @@
+{
+ "url": "https://www.hhs.gov/press-room/hhs-appoints-casey-b-mulligan-phd-as-chief-economist-and-chief-regulatory-officer.html",
+ "institution_id": "us-hhs",
+ "title": "Secretary Kennedy Appoints Casey B. Mulligan as HHS Chief Economist and Regulatory Officer",
+ "date": "2026-04-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "dc51106b69e2dd105b22e420bbb0fcb7b6c865a6ffec7ca5dcf1209406fd0022",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Mulligan",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Mulligan",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

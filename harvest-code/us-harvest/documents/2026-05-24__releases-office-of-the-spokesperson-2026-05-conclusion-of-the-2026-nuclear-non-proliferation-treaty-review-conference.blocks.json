@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/conclusion-of-the-2026-nuclear-non-proliferation-treaty-review-conference/",
+ "institution_id": "us-state",
+ "title": "Conclusion of the 2026 Nuclear Non-Proliferation Treaty Review Conference",
+ "date": "2026-05-24",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "13202fb9328bd924b58649841f37de6025af152c3f2fe17db6c6c989051b73d6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

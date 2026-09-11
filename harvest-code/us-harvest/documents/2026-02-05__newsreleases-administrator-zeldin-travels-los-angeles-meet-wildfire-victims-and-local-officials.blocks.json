@@ -1,0 +1,53 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-zeldin-travels-los-angeles-meet-wildfire-victims-and-local-officials",
+ "institution_id": "us-epa",
+ "title": "Administrator Zeldin Travels to Los Angeles to Meet with Wildfire Victims and Local Officials to Discuss Fast Tracking the Rebuild Process",
+ "date": "2026-02-05",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "91f7082b1ddc2897d5a979ee672ba8220bf21ca73be9aafec81e75acf43955b3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

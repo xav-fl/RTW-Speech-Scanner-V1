@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/u-s-participation-in-the-apec-2026-tourism-ministerial-meeting-in-macau-sar/",
+ "institution_id": "us-state",
+ "title": "U.S. Participation in the APEC 2026 Tourism Ministerial Meeting in Macau SAR",
+ "date": "2026-06-24",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "15b4cec8d6a4cd8c08d505a8ea991cb198383db0069011e78720de59553473dd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

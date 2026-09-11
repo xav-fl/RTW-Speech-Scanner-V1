@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/illegal-alien-sex-offender-guatemala-pleads-guilty-illegal-reentry-after-previous",
+ "institution_id": "us-justice",
+ "title": "Illegal Alien Sex Offender from Guatemala Pleads Guilty to Illegal Reentry after Previous Deportation",
+ "date": "2026-07-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "a5c5a3a8bbf1a603561b1d70c3a3b8f766c078db0ed071d099b11b2dd1143c12",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

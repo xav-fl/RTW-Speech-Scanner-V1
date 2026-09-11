@@ -1,0 +1,35 @@
+Yesterday, the U.S. Departments of Justice and Homeland Security seized the domains CFAKE.com and SOCFAKE.com, which are domains that were being used to publish thousands of digitally forged images and videos depicting famous women as nude and sometimes engaged in sexual activity, without their consent. According to the probable cause affidavit supporting the seizure warrants, the digital forgeries were made to appear to be sexual images of famous women, including politicians, first ladies of multiple countries, royalty, journalists, television presenters, athletes, entertainers, and others. The website allowed people to browse by tags that included topics like “rape,” “forced,” and “degradation.”
+
+> These domain seizures mark a significant victory in the fight against deepfake pornography,
+
+said Acting Attorney General Todd Blanche.
+
+> The TAKE IT DOWN Act, championed by First Lady Melania Trump, gives us the tools we need to combat the abuse and exploitation of women and children through these fabricated images. The Department of Justice will vigorously enforce this law and deliver justice for victims.
+
+> These groundbreaking seizures are a massive win against deepfake pornography,
+
+said U.S. Department of Homeland Security (DHS) Secretary Markwayne Mullin.
+
+> The TAKE IT DOWN Act was a priority for First Lady Melania Trump to stop the abuse and exploitation of women and children. This is the first of many wins to stop these deepfake pornographic websites.
+
+> Taking down CFAKE.com and SOCFAKE.com halted the publication of non‑consensual, sexually explicit digital forgeries that harmed the women they depicted,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> We were honored to be part of this coordinated international operation and to help halt this ongoing abuse. The Criminal Division stands ready to enforce the TAKE IT DOWN Act to uphold basic principles of consent and human dignity.
+
+> These seizures stopped a website that trafficked in humiliation, exploitation, and the violation of personal privacy on a massive scale,
+
+said U.S. Attorney Robert Frazer for the District of New Jersey.
+
+> For the victims whose images were distributed without their consent, the harm is not virtual — it is deeply personal and often enduring. Through sophisticated cyber investigative work and close coordination with our domestic and international law enforcement partners, including authorities in France, this Office played a key role in disrupting the infrastructure that enabled this conduct. Those who use the internet to exploit others should not mistake online anonymity for immunity.
+
+By issuing a federal warrant to seize the domains, a federal judge found probable cause to believe that the domains were being used to commit federal criminal violations of the TAKE IT DOWN Act, a statute enacted in May 2025. The TAKE IT DOWN Act makes it a federal crime to publish digital forgeries that appear to depict an identifiable adult in a sexually explicit manner without the depicted person’s consent, when what is depicted is not a matter of public concern, and the posting is meant to cause harm or actually harms the person.
+
+The website was brought to the attention of U.S. law enforcement by Italy’s Polizia di Stato -Postal and Cybersecurity Police. The United States investigated and developed evidence that it was able to share with French authorities through use of the Budapest Convention on Cybercrime. The Paris Public Prosecutor’s Office, Cybercrime Section (J3) and French gendarmerie (Section de recherches de Paris) then conducted their own parallel investigation, resulting in an arrest on June 10 in Nice, France on French criminal charges along with seizures of cryptocurrency.
+
+The U.S. Immigration and Customs Enforcement Homeland Security Investigations (HSI) New Jersey Field Office is leading the investigation, with assistance provided by HSI Rome, the DHS Cybercrime Lab, and the Department of Justice’s Computer Crime and Intellectual Property Section (CCIPS), the CCIPS Cybercrime Lab, and Office of International Affairs.
+
+Deputy Chief for Computer Crime Michael “Mick” Stawasz and Trial Attorney Vasantha Rao of the Criminal Division’s CCIPS and Assistant U.S. Attorneys Andrew M. Trombly, Deputy Chief of the Criminal Division for the District of New Jersey and Benjamin Levin, Chief of the Cybercrime Unit for the District of New Jersey are handling the litigation.
+
+Significant assistance in this investigation was provided by the Criminal Division’s Money Laundering, Narcotics and Forfeiture Section. The United States also thanks France and Italy for their coordination in this matter.

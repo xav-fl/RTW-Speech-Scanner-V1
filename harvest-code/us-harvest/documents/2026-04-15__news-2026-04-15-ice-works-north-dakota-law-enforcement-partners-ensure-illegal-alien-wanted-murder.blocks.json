@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/04/15/ice-works-north-dakota-law-enforcement-partners-ensure-illegal-alien-wanted-murder",
+ "institution_id": "us-dhs",
+ "title": "ICE Works with North Dakota Law Enforcement Partners to Ensure Illegal Alien Wanted for Murder in North Carolina No Longer Threatens Our Communities",
+ "date": "2026-04-15",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "e05bf8ffa37f9b84543d1504c06b4734f6fedf54057fdda7271d88cdabfb263b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

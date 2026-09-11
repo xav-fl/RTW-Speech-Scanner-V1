@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/united-states-hosts-u-s-guyana-investment-forum/",
+ "institution_id": "us-state",
+ "title": "United States Hosts U.S.-Guyana Investment Forum",
+ "date": "2026-07-17",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "b840e49572e0115d877ba362b8f71ed4e04c3c982ecc7d5ebd4983ca271e4c8a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

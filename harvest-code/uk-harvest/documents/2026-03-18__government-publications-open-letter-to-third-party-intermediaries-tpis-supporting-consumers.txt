@@ -1,0 +1,9 @@
+TITLE: Open letter to Third Party Intermediaries (TPIs): supporting consumers
+URL: https://www.gov.uk/government/publications/open-letter-to-third-party-intermediaries-tpis-supporting-consumers
+DATE: 2026-03-18
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+The Secretary of State for Energy Security and Net Zero, Ed Miliband MP, and Ofgem’s Director General, Markets, Tim Jarvis, have written to third-party intermediaries (TPIs) in the energy retail market – such as energy brokers and price comparison websites – setting out their expectations on how consumers should be supported during the current energy price volatility.

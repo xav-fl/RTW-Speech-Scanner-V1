@@ -1,0 +1,23 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/announcement-of-cooperation-between-the-government-of-the-republic-of-iraq-and-the-government-of-the-syrian-arab-republic-on-the-rehabilitation-and-reconstruction-of-the-iraq-syria-crude-oil-pipeline/",
+ "institution_id": "us-state",
+ "title": "Announcement of Cooperation Between the Government of the Republic of Iraq and the Government of the Syrian Arab Republic on the Rehabilitation and Reconstruction of the Iraq-Syria Crude Oil Pipeline",
+ "date": "2026-07-17",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "830c5dd47780cc05f1427c5078ca10c5b1a677034e07c7a723931d0c31b07408",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

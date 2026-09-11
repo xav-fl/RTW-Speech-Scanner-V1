@@ -1,0 +1,53 @@
+Two corporate entities and a shoreside superintendent face criminal charges in connection with the vessel crash that knocked down the Francis Scott Key Bridge in Maryland.
+
+A federal court unsealed an indictment today charging three defendants with conspiracy to defraud the United States and with causing the death of six construction workers on the bridge, among other charges.
+
+On March 26, 2024, the Motor Vessel Dali, a 900-foot foreign flag container vessel, registered in Singapore, crashed into the bridge. The indictment alleges that the economic loss in this case is at least $5 billion.
+
+Synergy Marine Pte Ltd, based in Singapore, and Synergy Maritime Pte Ltd, based in Chennai, India, along with Radhakrishnan Karthik Nair, 47, an Indian national who worked for both companies as the Technical Superintendent for the Dali, are charged with conspiracy, willfully failing to immediately inform the U.S. Coast Guard of a known hazardous condition, obstruction of an agency proceeding, and false statements. The two Synergy corporations are also charged with misdemeanor violations of the Clean Water Act, Oil Pollution Act, and Refuse Act for the discharge of pollutants into the Patapsco River, including shipping containers and their contents, oil, and the bridge itself.
+
+> The collapse of the Francis Scott Key Bridge was a preventable tragedy of enormous consequence,
+
+said Acting Attorney General Todd Blanche.
+
+> This indictment is a critical step toward holding accountable those whose reckless disregard for maritime safety regulations caused this disaster. Six construction workers lost their lives, critical infrastructure was destroyed, pollutants were released into the Patapsco River and Chesapeake Bay, and the economic damage now exceeds five billion dollars. This Department is committed to securing justice for the victims and ensuring those responsible are held to account.
+
+> This indictment is the first step in our efforts to hold those accountable who caused the tragic deaths of six people and catastrophic damage to our region,
+
+said U.S. Attorney Kelly O. Hayes for the District of Maryland.
+
+> The safety of our residents, ports, and infrastructure is of utmost importance to the prosperity of the District of Maryland. The U.S. Attorney’s Office for the District of Maryland will continue to pursue those who commit crimes that jeopardize those interests.
+
+> The indictment alleges criminal conduct that not only destroyed the Key Bridge but brought the regional economy to its knees and claimed the lives of six Maryland residents,
+
+said Principal Deputy Assistant Attorney General Adam Gustafson of the Justice Department’s Environment and Natural Resources Division (ENRD).
+
+> Adherence to laws governing safe operation of commercial vessels is essential to doing business in our nation’s ports. We enforce these laws to protect the public from future disasters like this fatal crash.
+
+> The indictment reveals a pattern of deception and egregious violations that led to the unsafe operation of the Dali which recklessly endangered the public and resulted in the ship striking the bridge,
+
+said Special Agent in Charge Jimmy Paul of the FBI Baltimore Field Office.
+
+> This indictment should send a message to all ship operators that circumventing safety requirements and breaking U.S. laws will not be tolerated. I am proud of FBI Baltimore’s investigative teams who worked diligently over the last two years to find the truth and to hold those responsible accountable.
+
+> The United States will not be a safe harbor for violators who pollute our nation’s waterways. Today’s indictment alleges that reckless cost-cutting by dishonest foreign corporations on a foreign-flagged vessel with a foreign crew carrying hazardous cargo resulted in death, disruption of our economy, and the discharge of oil and other chemicals into the Patapsco River and the Chesapeake Bay,
+
+said Assistant Administrator Jeffrey A. Hall of EPA’s Office for Enforcement and Compliance Assurance.
+
+> Such tragedy must not happen again. This EPA will ensure that foreign companies do not profit off of polluting American communities. The hard work of our criminal investigators, who were among the first aboard the wrecked ship, was critical for securing this indictment, and we look forward to working with the Department of Justice to prosecute this case.
+
+> At the core of the Coast Guard's mission is the protection of life and property and the facilitation of commerce,
+
+said Acting Director Zinnia James of the Coast Guard Investigative Service (CGIS).
+
+> The charges announced today reflect the Coast Guard Investigative Service’s unwavering commitment to ensuring the safety and integrity of our nation's maritime transportation system. This indictment alleges a reckless disregard for U.S. maritime laws and safety regulations, which had devastating consequences, leading to the tragic loss of six lives and catastrophic environmental and economic damage. Let this be a clear message: CGIS, alongside our federal law enforcement partners, will vigorously investigate and hold accountable any individual or corporation that compromises the safety of our ports and waterways.
+
+According to the indictment, the Dali lost power twice in a four-minute span, as it navigated out to sea from the Port of Baltimore, causing it to crash into the Key Bridge. The indictment alleges that a loose wire in a high-voltage switchboard likely caused the first power loss. Critical systems on the Dali were originally designed with reliable redundancies and automatic restart capabilities, so the Dali could quickly regain power after a blackout. But shortly after the vessel regained power, it lost power again. According to the indictment, the defendants allegedly altered the ship and relied on a flushing pump to supply fuel to two of the Dali’s four generators. However, the flushing pump was not designed to automatically restart following a blackout, and the Dali’s generators could not operate without a fuel supply, so the ship ultimately experienced a second blackout. The indictment alleges that if the Dali used the proper fuel supply pumps, the vessel would have regained power in time to safely navigate under the Key Bridge.
+
+Synergy and Nair are also charged with obstruction of an agency proceeding and providing false statements and documents to the National Transportation Safety Board (NTSB) as it conducted a casualty investigation. The obstruction charges relate to, among other things, Nair’s statements to the NTSB that he was unaware that that the Dali was using the flushing pump to provide fuel to the generators.
+
+The FBI, CGIS, and the EPA’s Criminal Investigation Division are investigating the case. The Justice Department’s Office of International Affairs provided substantial assistance.
+
+Assistant U.S. Attorneys Matthew Phelps, Bijon Mostoufi, and Kimberly Phillips for the District of Mayland and Trial Attorney Leigh Rendé with ENRD’s Environmental Crimes Section are prosecuting the case. Richard Udell, formerly of the Environmental Crimes Section, also assisted in this matter.
+
+An indictment is merely an accusation. All defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law.

@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/colombian-national-sentenced-eight-years-receipt-child-sexual-abuse-material",
+ "institution_id": "us-justice",
+ "title": "Colombian National Sentenced to Eight Years for Receipt of Child Sexual Abuse Material",
+ "date": "2026-04-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "8ff2e45cc537e5d8ef7fb32d224a1c60a7ff6ffa8b0c92741e2071a09d1cce4a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

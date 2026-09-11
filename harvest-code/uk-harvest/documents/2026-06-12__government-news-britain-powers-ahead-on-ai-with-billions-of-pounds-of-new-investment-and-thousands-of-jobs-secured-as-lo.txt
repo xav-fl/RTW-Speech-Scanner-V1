@@ -1,0 +1,65 @@
+TITLE: Britain powers ahead on AI with billions of pounds of new investment and thousands of jobs secured as London Tech Week wraps up
+URL: https://www.gov.uk/government/news/britain-powers-ahead-on-ai-with-billions-of-pounds-of-new-investment-and-thousands-of-jobs-secured-as-london-tech-week-wraps-up
+DATE: 2026-06-12
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon Liz Kendall MP
+
+---
+
+More than £6 billion of new investment and around 8,000 new jobs have been announced this week, as companies from around the world choose to build, hire and scale here – reinforcing Britain’s position as a global hub for AI.  
+
+From AMD’s £2 billion commitment for next generation AI compute, to Nebius investing £1.7 billion in new infrastructure, to homegrown companies like Oxford Quantum Circuits securing record funding - this is Britain’s AI leadership turning into real jobs, investment and opportunities across the country. 
+
+These deals span the full breadth of the AI economy - from chips and cloud infrastructure to autonomous vehicles and open-source development - showing the UK isn’t just keeping pace in the global AI race but helping to shape its direction.  
+
+The momentum has been matched by government action throughout the week to strengthen the UK’s tech sector – backing the skills, infrastructure and innovation needed to unlock growth. That includes new support for young people to seize the opportunities of AI, the first-ever AI Adoption Summit, a landmark £1.1 billion AI Hardware Plan, plus new backing for open-source AI builders, and a data centre design challenge – so Britain builds with taste.  
+
+Technology Secretary Liz Kendall said: 
+
+Britain is seizing the opportunities of tech and AI to create jobs, improve lives and grow businesses.
+
+Companies from across the globe are choosing to invest here and hire here, bringing billions of pounds and thousands of new jobs with them.
+
+And this Government is backing them with our £1.1billion hardware plan and our investment in skills and training.
+
+We are rebuilding Britain for the modern age and creating a future that works for all.
+
+A range of major investments have been announced, totalling over £6 billion of investment and around 8,000 new jobs – from global leaders and frontier companies choosing to grow here. This includes:
+
+AMD commits up to £2 billion of investment over five years to Accelerate AI Innovation and Research in the United Kingdom.  
+
+Nebius, the AI cloud company, announced it is investing approximately £1.7 billion to build out capacity in the UK with three new deployments of advanced NVIDIA compute, as the company continues to expand its commercial and AI R&D hub in London. 
+
+Amazon opened a new fulfilment centre in Northampton and announced plans for a second major site in Kettering, committing more than £1 billion and up to 4,000 jobs in a single county as part of its planned £40 billion UK investment. 
+
+British unicorn Ark has announced an investment of £807m in the expansion of its Longcross Park campus. The expansion supports the deployment of leading AI cloud provider Nebius, which is also increasing its footprint in the UK as well as an additional data centre facility with 36MW of future capacity. 
+
+Eros Innovation is investing £265m and establishing a sovereign British Cultural AI capability, supporting 3,000+ jobs across 15 productions over five-years (2 films shooting in the UK in 2026), licensing its $1.7bn cultural dataset to its UK operation and launching an AI Studio to develop Large Cultural Models trained on British creative heritage and governed by British law. 
+
+Quantum computing scale-up Oxford Quantum Circuits (OQC) securing a £260 million investment – the largest quantum funding round in the UK, backed by the British Business Bank.  
+
+Silicon Valley investors Playground Global are launching a new fund backed by up to £150 million from the British Business Bank - the largest fund investment the bank has ever made - to invest in UK-based hardware companies and help them scale.  
+
+Arlequin AI investing up to £45 million in the UK over the next 5 years with capital deployed across local hiring, UK R&D, and sovereign deployment capability for government and critical national infrastructure clients. 
+
+Midlands Mindforge has now entered its active investing stage, thanks to the support of the Mayors of the East and West Midlands, UK Research and Innovation (UKRI), the Rigby Group and the Department for Science, Innovation and Technology (DSIT) via the Invest in UK University R&D Midlands Campaign. This will help to unlock an initial £30m of capital into the region making its first round of investments into spinout companies. 
+
+Cosine announced the formation of a coalition of major UK institutions including, BAE Systems, BT, Lloyds Banking Group, NatWest, PwC and Leonardo UK, to co-design Lumen Sovereign, Britain’s first fully sovereign frontier AI model. Backed by the Government’s Sovereign AI Fund, Lumen Sovereign will be trained entirely on UK soil using Isambard-AI. 
+
+AI coding startup Cursor announced plans to open its European headquarters in London. 
+
+Fynd, the AI-native unified commerce platform serving brands and retailers across India, the Middle East, Africa and Southeast Asia, has opened its first UK office in London. This investment is projected to create 70 jobs across London, Manchester and the wider UK by 2028. 
+
+General Intuition — the frontier research lab dedicated to foundation models for spatial and temporal reasoning — has opened a UK office in London King’s Cross. The lab will invest some of its recent $133M seed round into expanding its London-based research team, drawing on the UK’s strong talent base. 
+
+Legora, the AI platform for legal professionals, is expanding its European footprint with a dedicated engineering hub in London in a major vote of confidence in the UK’s AI capabilities.  
+
+Multiverse announced the opening of a new technology hub in Edinburgh and plans to create 200 jobs in the next year across the new office and its London headquarters. 
+
+German AI unicorn n8n will expand its investment into the UK by delivering up to 200 high-skilled jobs over the next three years, a strong endorsement of the UK’s AI talent ecosystem. 
+
+PhysicsX secured a $300 million Series C investment, taking its valuation to approximately $2.4 billion. The funding will accelerate PhysicsX’s global expansion, platform development, and frontier physics AI research. 
+
+Reflection, the US-based open-source AI lab founded by former Google DeepMind researchers Misha Laskin and Ioannis Antonoglou, is expanding its UK footprint with plans to hire more than 100 highly skilled employees within the next 12 months, growing to over 1,000 roles within three years. 
+
+US tech company Replit will be opening up an office in London this year.

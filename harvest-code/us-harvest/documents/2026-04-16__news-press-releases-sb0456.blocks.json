@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0456/",
+ "institution_id": "us-treasury",
+ "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with Japanese Minister of Finance Satsuki Katayama",
+ "date": "2026-04-16",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "05a2f98053fd6d594bc7bda01a82f9c8bdfd00f24e49848f50a939e783590baa",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

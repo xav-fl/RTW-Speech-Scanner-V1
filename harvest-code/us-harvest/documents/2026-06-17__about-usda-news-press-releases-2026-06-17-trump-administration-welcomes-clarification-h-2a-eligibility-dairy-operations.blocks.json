@@ -1,0 +1,47 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/06/17/trump-administration-welcomes-clarification-h-2a-eligibility-dairy-operations",
+ "institution_id": "us-agriculture",
+ "title": "Trump Administration Welcomes Clarification on H-2A Eligibility for Dairy Operations",
+ "date": "2026-06-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "b2a34eb85f572d5f46c6e8df81c5ca3ecd1e062643092c9cd8b6b139a32a989a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

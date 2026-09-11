@@ -1,0 +1,77 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-visits-nevada-boys-state-conclude-history-rocks-tour",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka visits Nevada Boys State to Conclude History Rocks! Tour",
+ "date": "2026-06-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "d0fa2a857ed4cf346fd8d51bf0b90a40ef201efcb226545f68bc54433e71359e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

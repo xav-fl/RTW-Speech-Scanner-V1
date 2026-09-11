@@ -1,0 +1,71 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/04/07/usda-finalizes-historic-regulatory-reform-national-environmental-policy-act-final-rule",
+ "institution_id": "us-agriculture",
+ "title": "USDA Finalizes Historic Regulatory Reform in National Environmental Policy Act Final Rule",
+ "date": "2026-04-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "28a0f6022c6799379183837ff331588d8875301e0856c81013dad52214b83922",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Secretary Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Deputy Secretary Vaden",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Deputy Secretary Vaden",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

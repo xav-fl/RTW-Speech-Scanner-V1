@@ -1,0 +1,41 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260318-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites Wisconsin beauty products manufacturer for repeat, serious safety violations following explosion",
+ "date": "2026-03-18",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "518084a1269f3f6b7e3e83362f9fcf501810ab02657f7e0dfccfd09c063c5e31",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

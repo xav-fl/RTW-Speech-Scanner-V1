@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/the-united-states-to-host-critical-minerals-ministerial/",
+ "institution_id": "us-state",
+ "title": "The United States to Host Critical Minerals Ministerial",
+ "date": "2026-02-02",
+ "date_source": "metadata",
+ "source_document_type": "Notice to the Press",
+ "text_sha256": "8443f7d55f3d527610f93781d9902e147bddd9434e2246183e17c8467e956c82",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is about examining local plans with a \"pragmatic and proportionate approach\" regarding \"deliverability and viability\" — this is about land use planning regulation, specifically the standards applied when reviewing local development plans for feasibility and financial viability. This is squarely in urban/regional land use planning and real estate development regulation.\n\nThe specific mechanism: viability assessment standards in local plan examination (a planning/land use regulatory process).\n\n- **R5** (Regional Government Analysis) covers local government planning and regulation\n- **R3** (Real Estate Markets, Spatial Production Analysis, and Firm Location) covers development viability\n- **K2** (Regulation and Business Law) could apply given the regulatory/examination process\n\nThe primary fit is R — Urban, Rural, Regional, Real Estate, and Transportation Economics, specifically R5 (regional/local government planning) with R3 as a secondary (real estate development viability).\n\n{\"primary\": \"R5\", \"secondary\": [\"R3\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about:\n1. **Intergovernmental fiscal transfers** — the Fair Funding Review reformed how central government allocates grants to local councils, with a deprivation-based formula\n2. **Local government expenditure** — councils are expected to use that funding for neighbourhood improvement (public goods/amenities)\n\nThe core mechanism is a **funding formula for local councils** (intergovernmental fiscal relations) with an expectation about how local authorities spend on neighbourhood quality (local public goods).\n\nPrimary: **H7** — State and Local Government • Intergovernmental Relations (the Fair Funding Review is explicitly an intergovernmental grant formula reform)\n\nSecondary: **R5** — Regional Government Analysis (neighbourhood-level public investment and place-based outcomes) and **H4** — Publicly Provided Goods (neighbourhood amenities as publicly provided goods)\n\n{\"primary\": \"H7\", \"secondary\": [\"R5\", \"H4\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

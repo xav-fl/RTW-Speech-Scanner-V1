@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/05/06/minnesota-madness-minnesota-board-pardons-unanimously-pardons-criminal-illegal",
+ "institution_id": "us-dhs",
+ "title": "MINNESOTA MADNESS: Minnesota Board of Pardons Unanimously Pardons Criminal Illegal Alien Convicted of Two Counts of Assault",
+ "date": "2026-05-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "9c79a1acc3f09a590a467c4f5c324e25cfa5d36826ba34e0ad85c6345ba4115e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

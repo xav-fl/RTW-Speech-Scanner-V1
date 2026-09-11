@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/delivering-additional-humanitarian-support-directly-to-the-cuban-people/",
+ "institution_id": "us-state",
+ "title": "Delivering Additional Humanitarian Support Directly to the Cuban People",
+ "date": "2026-02-05",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "e4c7aa2fa50c10c187ae946efb97396830b68ea3addeb88cd7c178f4d6178f05",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

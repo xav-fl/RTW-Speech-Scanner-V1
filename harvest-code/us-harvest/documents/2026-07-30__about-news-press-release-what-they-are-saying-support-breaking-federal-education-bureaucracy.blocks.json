@@ -1,0 +1,77 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/what-they-are-saying-support-breaking-federal-education-bureaucracy",
+ "institution_id": "us-education",
+ "title": "What They Are Saying: Support for Breaking Up the Federal Education Bureaucracy",
+ "date": "2026-07-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "adafd9daa9e38ccb73d378b06ad11f28ae443dc963665f1f1c8abc95550136f9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260217",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites Alabama contractor for exposing workers to sewage gas that resulted in 2 fatalities",
+ "date": "2026-02-17",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "48662bf390e8a9abecfedbcb53a4b19bc6d3b7555035f772405eae15b42e3460",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

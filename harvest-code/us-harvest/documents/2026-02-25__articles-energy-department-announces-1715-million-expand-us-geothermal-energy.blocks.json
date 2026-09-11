@@ -1,0 +1,71 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-announces-1715-million-expand-us-geothermal-energy",
+ "institution_id": "us-energy",
+ "title": "Energy Department Announces $171.5 Million To Expand U.S. Geothermal Energy",
+ "date": "2026-02-25",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "295d8cdf8d2f74c5b09be053133691a1a4d37198e8d1ced503bd59040ea991f9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "DOE Assistant Secretary of the Hydrocarbons",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "DOE Assistant Secretary of the Hydrocarbons",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

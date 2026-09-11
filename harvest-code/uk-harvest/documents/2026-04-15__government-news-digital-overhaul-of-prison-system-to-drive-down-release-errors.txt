@@ -1,0 +1,83 @@
+TITLE: Digital overhaul of prison system to drive down release errors
+URL: https://www.gov.uk/government/news/digital-overhaul-of-prison-system-to-drive-down-release-errors
+DATE: 2026-04-15
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: The Rt Hon David Lammy MP
+
+---
+
+Outdated paper-based prison systems to be digitalised, with up to £82 million package to crack down on mistaken releases
+
+New ID system to be rolled out to track individuals across the system digitally and crack down on errors 
+
+Ministers accept independent review recommendations to tackle longstanding ‘systemic’ failures inherited by the Government 
+
+Recorded releases in error fall by a third as Government pledges to rebuild public trust in the broken justice system, and fix the foundations to keep people safe
+
+Updating Parliament today (15 April), Deputy Prime Minister David Lammy pledged to cut release mistakes to as close to zero as possible – backed by up to £82 million – tackling the rise in errors which began under the last government as prisons were pushed to the brink of collapse, and restoring public confidence. This is the latest part of the government’s work to rebuild our broken justice system, fix the foundations and restore public confidence.
+
+Central to the reforms will be the creation of a new Justice ID system - a single digital identity for every person who enters the prison system, tracking individuals seamlessly from arrest, through the courts, into custody and back into the community.  This will replace the shockingly outdated system where offenders can go by multiple aliases leading to confusion, unnecessary human error and offenders being let out when they should stay behind bars.  
+
+For the first time, biometric technology - such as fingerprints and facial scans - will be used on all prisoners to verify identities at key points in the system, including releases from custody. It will build on existing uses within policing, with the first phase of Justice ID rolled out this year.
+
+This will allow staff across the system to access reliable, up-to-date information on any individual, eliminating duplicated data entries and fragmented paper-based processes that have contributed to errors for years. 
+
+The new measures are in direct response to an independent review published today into releases in error by Dame Lynne Owens and commissioned by the Deputy Prime Minister. The report found that these mistakes are ‘simply one symptom of a broken system’ the Government inherited – driven to breaking point by staffing cuts, a failure to build places and chronic underinvestment in the digital infrastructure modern justice demands.
+
+Further action announced today includes:
+
+An immediate cash injection of up to £20 million this financial year to digitise the manual, paper-based processes that underpin sentence calculations, including “smart inboxes” in every reception prison to automatically sort and route misdirected offender information. 
+
+Extending the use of mandatory body worn cameras to all uniformed prison personnel working with prisoners and in the discharge process 
+
+Immediately simplifying processes to ensure they’re easy to follow for staff, backed by £8m to bolster manual checks across both Crown and Magistrates’ courts, funding the recruitment of 165 extra specialist court staff.  
+
+Strengthened mandatory training for staff working with foreign national offenders. 
+
+Improving support for victims mean they will receive clearer communication and faster updates if a mistake occurs. 
+
+Working closely with the ONS to improve data collection to ensure it reflects the totality of releases and be the most transparent a government has ever been on this issue.  
+
+Today’s announcement comes as new figures show recorded releases in error have fallen by 32% compared to the same period last year following decisive action announced last Autumn to bolster prison checks and roll out AI tools to minimise human error, strengthen oversight. A new fast-track courts helpline for prisons to quickly check warrants has also dealt with more than 1,000 urgent queries before release decisions are made since December.
+
+The measures set out today follow this government’s urgent action to immediately rescue the prison system from collapse, rebuild public trust and fix the foundations of the justice system. This will put protection for victims and safer streets back at the heart of our justice system. 
+
+Deputy Prime Minister David Lammy said: 
+
+This independent review makes clear the unacceptable rise in release in errors have resulted from a broken system caused by 14 years of underinvestment and overcrowding in our prisons and courts.
+
+A system broken by over a decade of neglect cannot be fixed overnight, but in addition to the measures we put in place last year, today we are taking action to bring the prison system into the 21st century.
+
+We are rolling out biometrics, a new Justice ID and up to £82 million to bear down on these errors and keep the public safe after years of chaos.
+
+£20 million of this will be used this year to digitise the archaic paper-based processes we inherited, as well as putting in more checks and more staff in place to stop these mistakes before they happen.
+
+The Government has accepted in principle the review’s 33 recommendations in full, wasting no time in acting decisively to keep victims safe through reform, investment and modernisation.
+
+The further measures announced today go above the action the Deputy Prime Minister took last year to reverse the rising trend in release in errors including new AI solutions to help frontline staff avoid errors and simplifying prisoner release policy to standardise how cases are treated.
+
+It builds on action already taken to stabilise the prison system, including reforming sentencing and pressing ahead with 14,000 extra prison places to ensure there is always space to lock up dangerous criminals. The Government has already delivered more than 3,000 new places since July 2024. The last Government added only 500 places to the prison estate in the previous 14 years.
+
+Notes to editors
+
+Dame Lynne Owens’ Independent Review into Releases in Error was submitted to the Justice Secretary on 27 February 2026 and is published in full today alongside an ad hoc data release on releases in error. 
+
+The government is accepting all 33 of Dame Lynne’s recommendations, spanning data and digital systems, governance, process improvements, training and culture. 
+
+A link to today’s ad-hoc statistical release of recorded releases in error from April 2025 to March 2026 can be found here. This has been published to meet the public’s expectation of transparency while we act to address the data-gathering recommendations from Dame Lynne Owen’s Independent Review.
+
+New Official Statistics on releases in error, covering the period to March 2026, will be published at the end of July. The government is working with the ONS to ensure that statistics best reflect the totality of releases in error.  
+
+The Deputy Prime Minister pledged to cut release mistakes to as close to zero as possible – backed by up to £82 million over the Spending Review period.
+
+The government is investing a record £550 million over three years in victim and witness support services. The Victims and Courts Bill, currently before Parliament, will strengthen victims’ rights and improve how victims receive information about offender releases. 
+
+A new second Permanent Secretary has been appointed, specifically tasked with providing leadership across the whole criminal justice system. 
+
+This work to digitise systems and bring them into the 21st century will be backed up to £82m over this spending review. This includes:
+
+An immediate cash injection of £20m over the next financial year to digitise the manual, paper-based processes that underpin sentence calculations, including “smart inboxes” in every reception prison to automatically sort and route misdirected offender information. 
+
+Up to £50m of investment to improve data-gathering technology and developing Justice ID
+
+£8m to bolster manual checks across both Crown and Magistrates’ courts, funding the recruitment of 165 extra specialist court staff and £4m to automate sentence calculations, minimising human error.

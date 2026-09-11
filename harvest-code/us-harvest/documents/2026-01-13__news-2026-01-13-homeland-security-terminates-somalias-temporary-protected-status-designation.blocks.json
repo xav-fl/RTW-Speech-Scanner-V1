@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/13/homeland-security-terminates-somalias-temporary-protected-status-designation",
+ "institution_id": "us-dhs",
+ "title": "Homeland Security Terminates Somalia’s Temporary Protected Status Designation",
+ "date": "2026-01-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "5af3d6051db864392906d1f1f8c10460086db7322be8f338db261b5b2ebcfe0c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary Noem",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary Noem",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

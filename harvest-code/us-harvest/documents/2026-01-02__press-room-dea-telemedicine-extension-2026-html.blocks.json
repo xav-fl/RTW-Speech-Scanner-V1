@@ -1,0 +1,71 @@
+{
+ "url": "https://www.hhs.gov/press-room/dea-telemedicine-extension-2026.html",
+ "institution_id": "us-hhs",
+ "title": "HHS & DEA Extend Telemedicine Flexibilities for Prescribing Controlled Medications Through 2026",
+ "date": "2026-01-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "566453d9259e87d88662313579dc70dcc85b978eaa5425c7d6791c565d0aa5f7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "HHS Deputy Secretary Jim O’Neill",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "HHS Deputy Secretary Jim O’Neill",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

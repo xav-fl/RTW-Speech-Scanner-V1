@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db212481534.P005.S001\"], \"anchor\": \"focus on establishing the Local Audit Office and tackling the local audit crisis\", \"reason\": \"Policy priority: establishing LAO and resolving local audit crisis\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

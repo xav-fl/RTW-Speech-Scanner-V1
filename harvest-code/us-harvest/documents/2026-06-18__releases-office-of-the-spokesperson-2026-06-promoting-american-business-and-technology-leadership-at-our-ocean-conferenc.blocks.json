@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/promoting-american-business-and-technology-leadership-at-our-ocean-conference/",
+ "institution_id": "us-state",
+ "title": "Promoting American Business and Technology Leadership at Our Ocean Conference",
+ "date": "2026-06-18",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "082e8969d25426cd89366da1cc0c1e1f1d4a44fb1b7e52ab41da81c19fab4fcd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

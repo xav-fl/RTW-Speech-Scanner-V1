@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/marking-losar-the-tibetan-new-year/",
+ "institution_id": "us-state",
+ "title": "Marking Losar, the Tibetan New Year",
+ "date": "2026-02-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "d72a57357c95f56b7bff40d084b86962330d719d6def87e94d12605323ff9de1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+TITLE: Members appointed to the Preventative Analytics for Youth Justice Advisory Panel
+URL: https://www.gov.uk/government/news/members-appointed-to-the-preventative-analytics-for-youth-justice-advisory-panel
+DATE: 2026-06-05
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+The Ministry of Justice (MOJ) made a public call in March 2026 for volunteers to become members of an expert Advisory Panel on the use of machine learning and advanced analytics for aiding early intervention and prevention in youth justice.
+
+The Preventative Analytics for Youth Justice Advisory Panel (PAYJAP) has been established to meet government commitments published in ‘A Modern Youth Justice Service: Foundations Fit for The Future’ and ‘Cutting Youth Crime. Changing Young Lives’.
+
+Applications to PAYJAP were open to individuals with relevant professional expertise, including from the public sector, private sector, academia, and charities. The following individuals have been selected to take up independent volunteer roles on PAYJAP:
+
+Hazel Williamson
+
+Head of Futures Matter, Staffordshire County Council
+
+Dr Gemma Morgan
+
+Associate Professor of Criminology, Sociology & Social Policy, Swansea University
+
+Professor Neal Hazel
+
+Professor of Criminology & Criminal Justice, University of Salford
+
+Professor Marion Oswald MBE
+
+Professor of Law, Northumbria University & Senior Visiting Fellow at the Centre for Emerging Technology & Security, Alan Turing Institute
+
+Harry Collins
+
+Assistant Vice President & Senior Cyber Security Analytics Engineer, Barclays Cyber Operations
+
+Professor Raymond Arthur
+
+Professor of Law, Northumbria University
+
+Professor Claire Paterson-Young
+
+Professor of Social Justice, University of Northampton, Institute for Social Innovation & Impact
+
+Richard Vaughan
+
+Head of East of England, Youth Justice Board
+
+In addition, Professor Mark Mon-Williams, Chair in Cognitive Psychology at the University of Leeds, is serving as independent advisor to the panel and has aided establishing the panel. Professor Mon-Williams will also sit on the panel in a voluntary capacity. 
+
+Related links
+
+Youth Intervention Court Pilot: Expression of Interest
+
+Expert adviser on the future of criminal courts for children

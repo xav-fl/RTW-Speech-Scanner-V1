@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/iran-designated-as-a-state-sponsor-of-wrongful-detention/",
+ "institution_id": "us-state",
+ "title": "Iran Designated as a State Sponsor of Wrongful Detention",
+ "date": "2026-02-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "7792141ab2959c7d2d8069f5d3b042faa1c1d2649994929ccfccca8fda5ec9b8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

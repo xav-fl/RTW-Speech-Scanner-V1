@@ -1,0 +1,57 @@
+Boeing’s Starliner spacecraft that launched NASA’s Crew Flight Test astronauts Butch Wilmore and Suni Williams to the International Space Station is pictured docked to the Harmony module’s forward port on July 3, 2024. This view is from a window on the SpaceX Dragon Endeavour spacecraft docked to the port adjacent to the Starliner.
+
+Credit: NASA
+
+At a news conference on Thursday, NASA released a report of findings from the Program Investigation Team examining the Boeing CST-100 Starliner Crewed Flight Test as part of the agency’s Commercial Crew Program.
+
+> The Boeing Starliner spacecraft has faced challenges throughout its uncrewed and most recent crewed missions. While Boeing built Starliner, NASA accepted it and launched two astronauts to space. The technical difficulties encountered during docking with the International Space Station were very apparent,
+
+said NASA Administrator Jared Isaacman.
+
+> To undertake missions that change the world, we must be transparent about both our successes and our shortcomings. We have to own our mistakes and ensure they never happen again. Beyond technical issues, it is clear that NASA permitted overarching programmatic objectives of having two providers capable of transporting astronauts to-and-from orbit, influence engineering and operational decisions, especially during and immediately after the mission. We are correcting those mistakes. Today, we are formally declaring a Type A mishap and ensuring leadership accountability so situations like this never reoccur. We look forward to working with Boeing as both organizations implement corrective actions and return Starliner to flight only when ready.
+
+Starliner launched June 5, 2024, on its first crewed test flight to the International Space Station. Originally planned as an eight-to-14-day mission, the flight was extended to 93 days after propulsion system anomalies were identified while the spacecraft was in orbit. After reviewing flight data and conducting ground test at White Sands Test Facility, NASA decided to return the spacecraft without NASA astronauts Butch Wilmore and Suni Williams. Starliner returned from the space station in September 2024, landing at White Sands Space Harbor in New Mexico. Wilmore and Williams later returned safely to Earth aboard the agency’s SpaceX’s Crew-9 mission in March 2025.
+
+In February 2025, NASA chartered an independent Program Investigation Team to investigate the technical, organizational, and cultural contributors to the test flight issues.
+
+This report was completed in November 2025. NASA and Boeing have been working together since Starliner returned 18 months ago to identify and address the challenges encountered during the mission, and the technical root cause work continues.
+
+Investigators identified an interplay of combined hardware failures, qualification gaps, leadership missteps, and cultural breakdowns that created risk conditions inconsistent with NASA’s human spaceflight safety standards. NASA will accept this as the final report.
+
+As a result, NASA is taking corrective actions to address the findings of the report, in an effort to ensure the lessons learned contribute to crew and mission safety of future Starliner flights and all NASA programs. Due to the loss of the spacecraft’s maneuverability as the crew approached the space station and the associated financial damages incurred, NASA has classified the test flight as a Type A mishap. While there were no injuries and the mission regained control prior to docking, this highest-level classification designation recognizes there was potential for a significant mishap.
+
+NASA will continue to work closely with Boeing to fully understand and solve the technical challenges with the Starliner vehicle alongside incorporating the investigative recommendations before flying the next mission.
+
+For the full report, which includes redactions in coordination with our commercial partner to protect proprietary and privacy-sensitive material is available online. A 508-compliant version of the report is forthcoming, and will be posted on this page. NASA will update with an editor’s note when complete.
+
+https://www.nasa.gov/wp-content/uploads/2026/02/nasa-report-with-redactions-021926.pdf?emrc=76e561
+
+-end-
+
+Bethany Stevens / Cheryl Warner Headquarters, Washington 202-358-1600 bethany.c.stevens@nasa.gov / cheryl.m.warner@nasa.gov
+
+Share
+
+Details
+
+Last Updated
+
+Feb 19, 2026
+
+Editor
+
+Cheryl Warner
+
+Location
+
+NASA Headquarters
+
+Related Terms
+
+Humans in Space
+
+Commercial Crew
+
+International Space Station (ISS)
+
+Leadership

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/announcement-of-visa-restriction-policy-targeting-individuals-undermining-peace-in-the-great-lakes-region/",
+ "institution_id": "us-state",
+ "title": "Announcement of Visa Restriction Policy Targeting Individuals Undermining Peace in the Great Lakes Region",
+ "date": "2026-03-06",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "937bb09a6d87351d25bc891df282541ccaf86ab12cf62d3b09bd129379256306",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

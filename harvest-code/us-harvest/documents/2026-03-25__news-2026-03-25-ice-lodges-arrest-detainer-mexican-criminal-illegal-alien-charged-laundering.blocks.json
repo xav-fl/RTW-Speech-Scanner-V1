@@ -1,0 +1,83 @@
+{
+ "url": "https://www.dhs.gov/news/2026/03/25/ice-lodges-arrest-detainer-mexican-criminal-illegal-alien-charged-laundering",
+ "institution_id": "us-dhs",
+ "title": "ICE Lodges Arrest Detainer for Mexican Criminal Illegal Alien Charged with Laundering Millions of Dollars in Narcotics Trafficking",
+ "date": "2026-03-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "c5cbc2d51d244c2308737dbabe8aaa65901b84fa8df6d7bbf01e15cd23f80df9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Arguello",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

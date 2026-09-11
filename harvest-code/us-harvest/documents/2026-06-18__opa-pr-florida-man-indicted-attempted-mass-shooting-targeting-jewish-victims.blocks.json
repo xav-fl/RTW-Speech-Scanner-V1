@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/florida-man-indicted-attempted-mass-shooting-targeting-jewish-victims",
+ "institution_id": "us-justice",
+ "title": "Florida Man Indicted for Attempted Mass Shooting Targeting Jewish Victims",
+ "date": "2026-06-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "9bd66eb396e14d1cac38d614b278c52ea6563d1d1f84d75a3df12430e66e0635",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

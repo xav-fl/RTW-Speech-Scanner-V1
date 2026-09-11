@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/sanctioning-over-50-targets-linked-to-cartel-de-jalisco-nueva-generacion/",
+ "institution_id": "us-state",
+ "title": "Sanctioning Over 50 Targets Linked to Cártel de Jalisco Nueva Generación",
+ "date": "2026-07-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "6053b49e7952115ead7f7eb50c5d72da3ef6004844efe36429bf1109ddb8abc7",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

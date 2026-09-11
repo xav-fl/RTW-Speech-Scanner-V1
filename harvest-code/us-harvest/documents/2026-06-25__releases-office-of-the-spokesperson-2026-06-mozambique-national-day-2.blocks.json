@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/mozambique-national-day-2/",
+ "institution_id": "us-state",
+ "title": "Mozambique National Day",
+ "date": "2026-06-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "3a02ce573f6b628089737a0e927e598947a99f2042ce2900f6cda66b00bb789a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

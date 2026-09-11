@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/on-the-occasion-of-st-patricks-day/",
+ "institution_id": "us-state",
+ "title": "On the Occasion of St. Patrick’s Day",
+ "date": "2026-03-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "d4fb08b22cf1d15953e6b10ecd3e217edb1dcc74a8351028d65f12443cbffc08",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

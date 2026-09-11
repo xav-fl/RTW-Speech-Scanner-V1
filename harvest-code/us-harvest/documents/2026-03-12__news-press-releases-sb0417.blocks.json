@@ -1,0 +1,41 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0417/",
+ "institution_id": "us-treasury",
+ "title": "Secretary of the Treasury Scott Bessent to Travel to France",
+ "date": "2026-03-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "d18fc42150f3ec11a3a6948d1b7e251b4f561857df0b0cd3e980933b1013d45c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Secretary Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

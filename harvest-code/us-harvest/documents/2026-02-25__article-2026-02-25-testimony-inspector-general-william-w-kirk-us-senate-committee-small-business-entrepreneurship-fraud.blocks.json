@@ -1,0 +1,23 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/02/25/testimony-inspector-general-william-w-kirk-us-senate-committee-small-business-entrepreneurship-fraud",
+ "institution_id": "us-sba",
+ "title": "Testimony of Inspector General William W. Kirk before the U.S. Senate, Committee on Small Business & Entrepreneurship, \"From Fraud to Recovery: Restoring Integrity in Small Business Programs\" - February 25, 2026",
+ "date": "2026-02-25",
+ "date_source": "metadata",
+ "source_document_type": "Congressional testimony",
+ "text_sha256": "b4deb5d558cdd208369e869a402862f5d83c74eb53f5f52f03253651d0c569bd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

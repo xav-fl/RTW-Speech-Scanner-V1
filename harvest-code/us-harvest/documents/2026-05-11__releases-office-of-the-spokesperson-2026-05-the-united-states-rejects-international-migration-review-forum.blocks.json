@@ -1,0 +1,47 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/the-united-states-rejects-international-migration-review-forum/",
+ "institution_id": "us-state",
+ "title": "The United States Rejects International Migration Review Forum",
+ "date": "2026-05-11",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "49b0600fe29c2ee278cbcc20dd3103438a7f8f3bcba0208cb49ac4ca4ba00d3a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

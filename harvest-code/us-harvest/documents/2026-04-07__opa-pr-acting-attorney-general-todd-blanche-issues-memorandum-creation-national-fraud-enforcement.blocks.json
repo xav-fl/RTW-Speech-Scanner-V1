@@ -1,0 +1,35 @@
+{
+ "url": "https://www.justice.gov/opa/pr/acting-attorney-general-todd-blanche-issues-memorandum-creation-national-fraud-enforcement",
+ "institution_id": "us-justice",
+ "title": "Acting Attorney General Todd Blanche Issues Memorandum on the Creation of the National Fraud Enforcement Division",
+ "date": "2026-04-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "8c3cfa168df7e197575e66e0e1dce8b50f6a7fa29cc73550b180c2c777cbb1be",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+Click Here to Sign Up for SBA OIG Email Updates on Recent Investigative Cases, Audit Oversight Reports, and General News
+
+Click Here to View the Original U.S. Department of Justice (DOJ) Press Release
+
+A federal jury convicted Sohaib Akhter, 34, of Alexandria, Virgina, today on charges of conspiracy to commit computer fraud, password trafficking, and possession of a firearm by a prohibited person.
+
+> Sohaib Akhter harmed Americans who trusted their government with personal information and sensitive requests,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> His conviction shows that getting fired from a job is not an invitation to retaliate.
+
+> The Federal Deposit Insurance Corporation Office of Inspector General’s (FDIC-OIG) Electronic Crimes Unit is proud to stand alongside our law enforcement partners in holding Sohaib Akhter accountable for conduct that compromised sensitive government information and targeted the integrity of federal systems,
+
+said Inspector General Jennifer L. Fain of FDIC-OIG.
+
+> As proven at trial, Akhter participated in the unauthorized access of protected computer systems, the theft of credentials, and the destruction of government data affecting numerous federal agencies. The deliberate deletion of databases containing sensitive government information and the subsequent attempts to conceal that criminal activity demonstrated a blatant disregard for the security and integrity of federal information systems. Today’s conviction reflects the FDIC OIG’s continued commitment to aggressively investigating cyber-enabled threats, protecting government networks and data, and pursuing those who seek to exploit positions of trust for personal gain.
+
+> This was a calculated abuse of trust and access. Attempting to profit from stolen sensitive information shows a complete disregard for the law, and this verdict shows that those who abuse access to government information will be held accountable,
+
+said Joseph V. Cuffari Ph.D. of the Department of Homeland Security Office of Inspector General (DHS- OIG).
+
+> We are grateful to our law enforcement partners and the agencies that worked alongside us throughout this investigation to ensure those responsible were brought to justice.
+
+According to court records and evidence presented at trial, Sohaib Akhter, and his twin brother and co-defendant, Muneeb Akhter, worked for a Washington, D.C., company that provided software products and services to more than 45 federal government agencies and hosted data for some federal government clients on servers in Ashburn. On Feb. 1, 2025, Muneeb Akhter asked Sohaib Akhter for the plaintext password of an individual who submitted a complaint to the Equal Employment Opportunity Commission’s Public Portal, which was maintained by the Akhters’ employer. Sohaib Akhter conducted a database query on the EEOC database and then provided the password to Muneeb Akhter. That password was subsequently used to access that individual’s email account without authorization.
+
+When the company discovered Sohaib Akhter’s felony conviction, it terminated both brothers’ employment during an online remote meeting on Feb. 18, 2025. Immediately after being fired during this meeting, the brothers sought to harm their employer and its U.S. government customers by accessing computers without authorization, write-protecting databases, deleting databases, and destroying evidence of their unlawful activities. The compromised information included case management and Freedom of Information Act response processing software. Over the course of several hours, the brothers deleted approximately 96 databases storing U.S. government information hosted by the company.
+
+A search of Sohaib’s cellphone revealed that he had obtained firearms as early as January 2025 and, following the execution of a search warrant on March 12, 2025, took steps to sell them. On March 18, 2025, Sohaib drove to a firearm company in Farnham, Virginia, with his domestic partner, who completed paperwork for a transaction to sell the company seven firearms. As a convicted felon, Sohaib could not legally possess firearms.
+
+On June 6, 2015, Muneeb and Sohaib pled guilty in the Eastern District of Virginia to conspiracy to commit wire fraud, conspiracy to access a protected computer without authorization, and conspiracy to access a government computer without authorization. Muneeb also pled guilty to accessing a protected computer without authorization, making a false statement, and obstructing justice. On Oct. 2, 2015, Muneeb was sentenced to three years and three months in prison; Sohaib was sentenced to two years in prison.
+
+Sohaib Akhter is scheduled to be sentenced on Sept. 9 and faces a maximum penalty of 21 years in prison. A federal district court judge will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors.
+
+The FDIC-OIG, DHS-OIG, and Homeland Security Investigations investigated the case. Valuable assistance was provided by: the Department of Agriculture OIG; Department of Education OIG; Environmental Protection Agency OIG; Equal Employment Opportunity Commission OIG; Federal Reserve Board OIG; Department of Health and Human Services OIG; DHS Office of the Chief Security Officer; Department of Housing and Urban Development OIG; Department of the Interior OIG; International Development Finance Corporation OIG; Department of Justice OIG; Department of Labor OIG; Nuclear Regulatory Commission OIG; Small Business Administration OIG; Treasury Inspector General for Tax Administration; Department of Veterans Affairs OIG; Bureau of Alcohol, Tobacco, Firearms and Explosives; United States Capitol Police; Fairfax County, Virginia Police Department; and the Alexandria, Virginia Sheriff’s Office.
+
+Trial Attorneys George Brown and Stefanie Schwartz of the Criminal Division’s Computer Crime and Intellectual Property Section (CCIPS) and Assistant U.S. Attorney Vanessa Strobbe for the Eastern District of Virginia are prosecuting the case.
+
+CCIPS investigates and prosecutes cybercrime and intellectual property (IP) crime in coordination with domestic and international law enforcement agencies, often with assistance from the private sector. Since 2020, CCIPS has secured the conviction of over 180 cyber and IP criminals, and court orders for the return of over $350 million in victim funds.
+
+Related programs: SBA Operations

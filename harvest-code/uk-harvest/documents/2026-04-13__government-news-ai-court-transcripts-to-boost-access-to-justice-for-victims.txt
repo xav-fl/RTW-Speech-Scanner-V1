@@ -1,0 +1,43 @@
+TITLE: AI court transcripts to boost access to justice for victims
+URL: https://www.gov.uk/government/news/ai-court-transcripts-to-boost-access-to-justice-for-victims
+DATE: 2026-04-13
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Sarah Sackman KC MP
+
+---
+
+New research to help deliver faster and cheaper AI court transcripts for victims
+
+Use of tech to tear down costly barriers to transparency
+
+Driving improvements to victims’ experience alongside the Victims and Courts Bill continuing its passage through Parliament
+
+A new study will pave the way for victims to benefit from greater transparency and improved access to justice by exploring how artificial intelligence (AI) can provide court transcripts faster and at lower cost, as part of efforts to modernise the justice system.
+
+New research, led by HM Courts & Tribunals Service (HMCTS), will explore how AI can be used to transcribe court hearings and open the door to faster, cheaper access to court records for victims and others who need them.
+
+Costly court transcript fees have meant that victims have had to fork out hundreds – and in some cases thousands of pounds – to access exactly what was said in court to help provide answers and closure.
+
+The findings have the potential to significantly reduce these fees and mark another step towards greater transparency - breaking down barriers and making criminal court transcripts far easier to obtain for those who need them most.
+
+The measures are part of this government’s work to improve the justice system we inherited through investment, reform and modernisation to deliver swifter and fairer justice for victims.
+
+Minister for Courts and Legal Services, Sarah Sackman KC, said:
+
+Victims show immense courage in coming to court, delivering their testimonies and looking their perpetrators in the eye. That’s why it is only right they process what happened in their case in their own time and on their own terms.
+
+By deploying AI in the courtroom, we can boost transparency and access to justice, building a modernised system that victims can rely on.
+
+For victims, facing a perpetrator in court can be deeply distressing. Access to transcripts can provide vital clarity and reassurance, letting them understand what happened during their case in their own time.
+
+Currently, transcripts of Crown Court proceedings are produced by contracted providers. The new study will explore how the Ministry of Justice’s in-house AI, Justice Transcribe, could meet required accuracy standards while reducing transcription time and costs.
+
+The findings will inform nationwide plans to upgrade, modernise and open up the court system and increase access to justice in the digital age.
+
+The government recently announced that victims whose cases are going through the Crown Court will have access to free transcripts of judges’ sentencing remarks, upon request, from Spring 2027, as part of a major boost to deliver swifter access to justice.
+
+This announcement comes as both the Victims and Courts Bill and Courts and Tribunals Bill progress through parliament and the government delivers on its plan to restore the justice system.
+
+Charlotte Schreurs, survivor and founder of the Open Justice For All campaign said:
+
+Having long called for transcripts to be made easily and freely accessible for victims through my Open Justice For All campaign - I welcome AI being deployed in court rooms to make this happen. Court transcripts are imperative for victims in the healing process - to understand what was said and to be able to move on, but it also brings accountability and transparency of the courts.

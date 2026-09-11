@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/united-states-and-ecuador-sign-memorandum-of-understanding-concerning-strategic-civil-nuclear-cooperation/",
+ "institution_id": "us-state",
+ "title": "United States and Ecuador Sign Memorandum of Understanding Concerning Strategic Civil Nuclear Cooperation",
+ "date": "2026-04-01",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "71399995e2b694682ae40e7f44e0bdc853ec87ca065e8f18d6f1be6a6b939d9b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

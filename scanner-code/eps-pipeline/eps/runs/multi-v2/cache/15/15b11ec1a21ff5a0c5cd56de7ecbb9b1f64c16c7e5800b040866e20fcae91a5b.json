@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about reorganising local government structures and introducing regional mayors — i.e., the fiscal/governmental architecture of subnational and intergovernmental relations, and the devolution of power from central to regional/local government. The core mechanism is restructuring of local government and creation of regional elected offices.\n\nThe most precise fit is **H7 — State and Local Government • Intergovernmental Relations**, which directly covers devolution, local government reorganisation, and the relationship between central and subnational governments.\n\nA secondary dimension is **R5 — Regional Government Analysis**, which covers regional governance structures and their economic implications.\n\n```json\n{\"primary\": \"H7\", \"secondary\": [\"R5\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

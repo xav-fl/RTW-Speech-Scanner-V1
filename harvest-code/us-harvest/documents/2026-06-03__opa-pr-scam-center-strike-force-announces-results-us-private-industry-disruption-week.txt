@@ -1,0 +1,79 @@
+The Department of Justice, through U.S. Attorney Jeanine Ferris Pirro for the District of Columbia and Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division, today announced the results of a first-of-its-kind event combining the focus of government entities and private industries to tackle cyber-enabled and cryptocurrency fraud targeting Americans.
+
+During “Disruption Week,” the private sector took voluntary action to interrupt millions of social media, email, and internet access accounts used by transnational organized crime actors in Southeast Asia that were being used to defraud Americans, and the government shared information which enabled private sector actors to voluntarily freeze over $3.8 million in cryptocurrency involved in laundering of funds stolen from Americans.
+
+> Cyber-enabled and crypto investment fraud is devastating Main Street Americans, wiping out life savings and preying on some of our most vulnerable citizens,
+
+said U.S. Attorney Jeanine Ferris Pirro for the District of Columbia.
+
+> We will not allow transnational scammers or the Chinese organized crime groups behind them to use America’s internet infrastructure against us or let U.S. companies stand idly by. I formed the Scam Center Strike Force with a goal of bringing private industry into the fight against this threat. When the public demands accountability, corporations respond. Disruption Week shows what is possible when governments and private industry focus their efforts in tandem: millions of scam accounts interrupted, and criminal networks pushed of the U.S. internet platforms on which they rely. This week’s results show our commitment to disrupting these schemes and protecting the American public.
+
+> America is facing an unprecedented threat from industrial-scale, foreign organizations looking to prey on our citizens,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> And unprecedented problems call for novel, bold solutions. As Disruption Week demonstrates, the Department’s Criminal Division will stand shoulder-to-shoulder with U.S. Attorney Pirro and her office, U.S. and foreign law enforcement, and any private sector firms that commit to joining the battle to save American resources from flowing to criminal groups abroad.
+
+> The FBI is going to leverage everything at its disposal to impose cost on criminals stealing from the American people through fraudulent investment schemes that have caused immense harm across the country,
+
+said FBI Director Kash Patel.
+
+> One of the best tools we have in combatting these illicit actors is our partnerships and they are only getting stronger. We’re preventing further victimization by working with other agencies, our foreign law enforcement counterparts, and the private sector who have all taken part in this Disruption Week.
+
+The Department’s Scam Center Strike Force convened in-person meetings in Washington from May 18 to May 21 with foreign government officials and private industry representatives. Federal investigators from the FBI, the U.S. Secret Service, and U.S. Immigration and Customs Enforcement Homeland Security Investigations (HSI) provided information to private sector representatives on specific targets in Southeast Asia, in order to help industry identify infrastructure used to defraud Americans through cryptocurrency investment fraud schemes. Based on the data shared, as well as their own information, and in collaboration with each other, private sector participants voluntarily identified and disrupted scam actors operating on their networks who were violating the provider’s terms of service. Private sector participants included officials from Apple, Coinbase, Google, Meta, Microsoft, Silent Push, SpaceX, TRM Labs, and Zenlayer. Foreign law enforcement counterparts from the Australian Federal Police, Canadian Anti-Fraud Centre, New Zealand Police, the Royal Thai Police, and U.K. National Crime Agency also joined Disruption Week. Meta played a key role in coordinating the event and encouraging broad private sector participation to maximize scam compound disruption.
+
+The Scam Center Strike Force’s convening of these participants shows the magnitude of disruptions that can occur when there is a common focus on a specific threat and through information shared, including:
+
+Disruptions of criminal activity across more than 1.4 million social media and email accounts;
+
+Interruptions of malicious IP address traffic and of network connections hosted by scammers;
+
+Decommissioning of servers, colocation environments, and hosting infrastructure linked to scam networks operating across Southeast Asia;
+
+Identification of multiple scammers and scam platforms, and referrals of the same to U.S. authorities for investigation and possible prosecution; and
+
+Arrests of seven scammers in Thailand and the opening of new cases by the Royal Thai Police Anti Cyber Scam Center.
+
+The governments and private industry also voluntarily exchanged information about how transnational organized crime operates within U.S. infrastrucure, and developed relationships to enable future disruptions of scams occurring on U.S. networks.
+
+> Cyber-enabled and crypto investment fraud is devastating Main Street Americans, wiping out life savings and preying on some of our most vulnerable citizens,
+
+said U.S. Attorney Pirro.
+
+> We will not allow transnational scammers or the Chinese organized crime groups behind them to use America’s internet infrastructure against us or let U.S. companies stand idly by. I formed the Scam Center Strike Force with a goal of bringing private industry into the fight against this threat. When the public demands accountability, corporations respond. Disruption Week shows what is possible when governments and private industry focus their efforts in tandem: millions of scam accounts interrupted, and criminal networks pushed of the U.S. internet platforms on which they rely. This week’s results show our commitment to disrupting these schemes and protecting the American public.
+
+> America is facing an unprecedented threat from industrial-scale, foreign organizations looking to prey on our citizens,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> And unprecedented problems call for novel, bold solutions. As Disruption Week demonstrates, the Department’s Criminal Division will stand shoulder-to-shoulder with U.S. Attorney Pirro and her office, U.S. and foreign law enforcement, and any private sector firms that commit to joining the battle to save American resources from flowing to criminal groups abroad.
+
+> The FBI is going to leverage everything at its disposal to impose cost on criminals stealing from the American people through fraudulent investment schemes that have caused immense harm across the country,
+
+said FBI Director Kash Patel.
+
+> One of the best tools we have in combatting these illicit actors is our partnerships and they are only getting stronger. We’re preventing further victimization by working with other agencies, our foreign law enforcement counterparts, and the private sector who have all taken part in this Disruption Week.
+
+Cyber-enabled and cryptocurrency investment fraud (referred to by the scammers as “pig butchering”) is among the fastest growing and most financially devastating forms of fraud targeting Americans. In these schemes, victims are cultivated over time and deceived into depositing funds into fraudulent investment platforms that appear to show substantial returns. In reality, all victim funds flow directly to the scammers. The scam continues until the victim runs out of money or discovers the fraud, at which point the scammers cease contact.
+
+According to the FBI’s Internet Crime Complaint Center (IC3), investment scams became the most commonly reported crime type in 2023, with cryptocurrency investment fraud comprising 83 percent of that category. Reported losses from these scams rose from $3.96 billion in 2023 to $5.8 billion in 2024. Reported losses rose 24 percent in 2025 to over $7.2 billion, according to IC3’s newly released 2025 annual report. Those figures, based largely on victim reports, are believed to significantly underrepresent actual losses, as many victims do not report to law enforcement. According to one government report, a conservative estimate of the annual value of funds stolen by scam syndicates worldwide approached $64 billion as of the end of 2023.
+
+Many of these schemes are run out of industrial-scale compounds in Cambodia, Laos, and in Burma along the border with Thailand. Criminal syndicates often lure workers to Thailand with promises of high-paying technical jobs, then seize their identification documents and traffic them to work in scam compounds. Within the compounds, trafficked workers are frequently forced to conduct fraud operations against victims in the United States and elsewhere under threat of violence. Public reporting on these compounds has documented beatings, electrocutions, and murder.
+
+The Strike Force has taken a number of actions against Southeast Asian Scam Centers, including, among other things, filing criminal complaints against individuals who participated in cryptocurrency investment fraud operations in Burma, seizing cryptocurrency and other infrastructure used to fund and facilitate scam operations, and working with other federal agencies taking action against Scam Center organizations.
+
+Although the Strike Force and other government personnel have exchanged information with private industry in the past in an effort to disrupt cryptocurrency investment fraud schemes, never before have so many private firms convened for an event dedicated to protecting Americans through voluntarily sharing of information and voluntary action by the private sector.
+
+**********************************************
+
+About the Scam Center Strike Force
+
+The Scam Center Strike Force was officially launched by U.S. Attorney Pirro in November 2025 to address the growing threat posed by Chinese organized crime syndicates operating scam centers primarily in Southeast Asia. The Strike Force targets cryptocurrency investment fraud, cyber-enabled fraud, human trafficking, and money laundering operations that have cost American victims billions of dollars.
+
+On March 6, President Trump signed an executive order directing the Administration to prioritize cybercrime, fraud, and predatory schemes draining American families of their life savings. Through the executive order, President Trump is unleashing every available tool to stop foreign-backed criminal networks that exploit vulnerable Americans through cyber-enabled fraud. The Scam Center Strike Force is a critical node in executing the mission outlined in the President’s order.
+
+The Strike Force’s founding partners are the U.S. Attorney’s Office for the District of Columbia, the Department of Justice’s Criminal Division, the FBI, and the U.S. Secret Service, which have now been joined by U.S. Postal Inspection Service, IRS Criminal Investigation, and HSI-DC, as well as the U.S. Attorney’s Offices for the Districts of Alaska, Rhode Island, and Western Washington. The Strike Force works in collaboration with other agencies, including the Treasury and State Departments. The Strike Force works in strategic partnership with private industry and calls on all U.S. businesses to take more proactive steps to protect users from scam operations.
+
+The Scam Center Strike Force will use every tool available to help secure Main Street Americans from these scams. With its interagency and public partners, it will educate Americans on how to identify these scams, prevent generational wealth from flowing from America into the pockets of Chinese organized crime, and work with unwavering focus to return stolen funds to victims.
+
+Assistant U.S. Attorney Karen P. Seifert for the District of Columbia directs the Strike Force, in consultation with Associate Counsel Richard Goldberg of the Department’s Criminal Division.

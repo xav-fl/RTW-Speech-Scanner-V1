@@ -1,0 +1,71 @@
+{
+ "url": "https://www.epa.gov/newsreleases/florida-signs-first-loan-agreement-water-system-resiliency-helene-and-milton",
+ "institution_id": "us-epa",
+ "title": "Florida Signs First Loan Agreement for Water System Resiliency with Helene and Milton Supplemental Disaster Appropriations",
+ "date": "2026-06-30",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "4febab51257c4accedda6ab1dfbe693a50b34e88a3af58471508d902634c1611",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Regional Administrator Kevin McOmber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Regional Administrator Kevin McOmber",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

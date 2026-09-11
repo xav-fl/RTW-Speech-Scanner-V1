@@ -1,0 +1,31 @@
+Today, Peter Williams, 39, an Australian national, was sentenced in the U.S. District Court for the District of Columbia to 87 months in prison for selling his employer’s trade secrets — sensitive and protected cyber-exploit components — to a Russian cyber-tools broker, announced the Department of Justice. In addition to the 87-month prison term, U.S. District Court Judge AliKhan for the District of Columbia ordered Williams to serve three years of supervised release with special conditions, to forfeit a money judgment of $1.3 million, cryptocurrency and property to include a house, and luxury items such as watches and jewelry. The Court also set a restitution hearing for May 12, 2026.
+
+> Williams exploited his senior role at a U.S. defense contractor to enrich himself at the expense of the United States and his employer,
+
+said Assistant Attorney General for National Security John A. Eisenberg.
+
+> The tools he compromised were intended to protect this Nation; instead, he auctioned them off to a Russian bidder. We are committed to ensuring that those who abuse their access to sensitive information and thereby harm our national security face severe consequences.
+
+> Peter Williams stole a U.S. defense contractor’s trade secrets about highly sensitive cyber capabilities and sold them to a broker whose clients include the Russian government, putting our national security and countless potential victims at risk,
+
+said Assistant Director Roman Rozhavsky of the FBI’s Counterintelligence and Espionage Division.
+
+> The FBI and our partners remain unwavering in our commitment to protecting America’s critical technologies, and we will ensure any who attempt to profit at our nation’s expense face the full weight of the criminal justice system. Let this be a clear warning to all who consider placing greed over country: If you betray your position of trust and sell sensitive American technology to our foreign adversaries, the FBI will not rest until you’re brought to justice.
+
+> Williams took trade secrets comprised of national security software and sold them for up to $4 million in crypto currency. These incredibly powerful tools would have allowed Russia to access millions of digital devices,
+
+said U.S. Attorney Jeanine Pirro for the District of Columbia.
+
+> By betraying a position of trust and selling sensitive American technology, Williams’ crime is not only one of theft, it is a crime of national security. Our nation’s defense capabilities are not commodities to be auctioned off. People like Williams who endanger our national security will be met with swift and decisive consequences.
+
+On Oct. 29, 2025, Williams pleaded guilty in the U.S. District Court for the District of Columbia to two counts of theft of trade secrets. As part of his plea agreement, Williams admitted that he stole eight cyber-exploit components over a three-year period from the U.S. defense contractor where he worked. This national-security focused software was meant to be sold exclusively to the U.S. government and select allies. Williams admitted that he sold the trade secrets to a Russian cyber-tools broker in exchange for cryptocurrency payments, which he used to buy valuable items, such as luxury vacations, jewelry, watches, clothing, and properties.
+
+To effectuate these sales, Williams entered into multiple written contracts with the Russian broker, which involved payment for the initial sale of the components, and additional periodic payments for follow-on support. Williams transferred the eight components and trade secrets to the Russian broker through encrypted means. This cyber-tools broker publicly advertises itself as a reseller of cyber exploits to various customers, including the Russian government. Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) and the Department of State took separate actions to disrupt a Russian cyber-tools broker and its operators.
+
+Williams admitted that his actions cost the government contractor a financial loss of $35 million dollars. Williams’ conduct also had significant impact on the government contractor’s customers, to include U.S. government and allied government customers. In issuing her sentence today District Court Judge AliKhan stated,
+
+> Theft of trade secrets from a company that sells national security-focused cyber and intelligence software to the U.S. government and allied governments necessarily implicates national security, and Mr. Williams indeed acknowledges that his actions caused harm to the intelligence communities, both in the U.S. and Australia.
+
+This case was investigated by the FBI Baltimore Field Office. The matter is being prosecuted by Assistant U.S. Attorneys Tejpal Chawla and Jason McCullough for the District of Columbia, Trial Attorney Prava Palacharla for the National Security Division’s (NSD) National Security Cyber Section, and Trial Attorney Nicholas Hunter for NSD’s Counterintelligence and Export Control Section.
+
+Substantial assistance was also provided by U.S. Attorney Scott Bradford for the District of Oregon prior to his current appointment, and by paralegal Mariela Andrade.

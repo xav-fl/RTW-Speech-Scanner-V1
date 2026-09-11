@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/06/united-states-and-starlink-announce-cooperation-on-critical-disaster-response/",
+ "institution_id": "us-state",
+ "title": "United States and Starlink Announce Cooperation on Critical Disaster Response",
+ "date": "2026-06-11",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "cf630920c9f45745a895847b0b9f9758000c58f9dd7bd90031dcf4761cef92c1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

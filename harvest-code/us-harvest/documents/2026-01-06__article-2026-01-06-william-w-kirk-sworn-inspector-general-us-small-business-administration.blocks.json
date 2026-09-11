@@ -1,0 +1,65 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/01/06/william-w-kirk-sworn-inspector-general-us-small-business-administration",
+ "institution_id": "us-sba",
+ "title": "William W. Kirk Sworn in as Inspector General of the U.S. Small Business Administration",
+ "date": "2026-01-06",
+ "date_source": "metadata",
+ "source_document_type": "OIG news release",
+ "text_sha256": "3f74761d01655f464b432f519773fd7ee2babbf60787d82f1f9ed7f0ce04361c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Inspector General Kirk",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Inspector General Kirk",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

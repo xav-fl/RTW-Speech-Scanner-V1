@@ -1,0 +1,85 @@
+Stanley Yi Zheng, Matthew Kelly, and Tommy Shad English have been charged with conspiring to commit smuggling and export control violations. The three defendants are alleged to have sought millions of dollars’ worth of export-controlled computer chips from a California-based computer hardware company for illegal shipment to China through Thailand.
+
+> The cutting-edge AI chips the defendants allegedly schemed to export to China represent the best of American ingenuity and years of strategic investment in maintaining our technological leadership,
+
+said Assistant Attorney General for National Security John A. Eisenberg.
+
+> NSD is committed to protecting U.S. innovation and ensuring that those who violate U.S. export controls face serious consequences.
+
+> Zheng, Kelly, and English allegedly conspired to sell millions of dollars’ worth of American-made AI computer chips to buyers in China, in clear violation of U.S. export controls,
+
+said Assistant Director Roman Rozhavsky of the FBI’s Counterintelligence and Espionage Division.
+
+> As our foreign adversaries escalate their efforts to dominate the field of artificial intelligence, we are seeing them employ increasingly brazen schemes to illegally acquire valuable U.S. technology. Enforcing export controls is critical to our work safeguarding America’s economic and national security, and the FBI will continue working with our partners to protect our nation’s innovation and hold accountable those seeking to profit by supplying hostile nation states.
+
+> Keeping sensitive tech from falling into the wrong hands is a matter of utmost importance to our national security and U.S. competitiveness,
+
+said U.S. Attorney Theodore S. Hertzberg of the Northern District of Georgia.
+
+> My office is proud to ensure that any bad actor who seeks to profit from endangering our security will face justice in an American courtroom.
+
+> Protecting sensitive defense technology from diversion to foreign adversaries is a top priority,
+
+said Special Agent-in-Charge Jason J. Sargenski of the Department of Defense Office of Inspector General’s Defense Criminal Investigative Service (DCIS), Southeast Field Office.
+
+> Advanced computing technologies, like Graphics Processing Units (GPUs), play a critical role in military artificial intelligence and national defense capabilities. When individuals attempt to illegally acquire or export this technology for profit, they are putting national security and our warfighters at risk. DCIS will continue working with our U.S. and international partners to identify these networks, disrupt their operations, and hold those responsible accountable.
+
+> Safeguarding America’s advanced technology is critical to our national security and public safety,
+
+said Steven N. Schrank, Special Agent in Charge of Homeland Security Investigations in Georgia and Alabama.
+
+> This case highlights the importance of strong partnerships between federal law enforcement, industry, and our international counterparts. By working together, we were able to disrupt a sophisticated scheme to illegally export sensitive U.S. artificial intelligence technology. HSI remains committed to protecting the integrity of our supply chains and ensuring that critical innovations do not fall into the hands of those who would threaten our security.
+
+According to the criminal complaints and other information presented in court: In or about May 2023, Zheng, Kelly, and English began conspiring together to obtain computer servers with export-controlled computer chips from a California-based computer hardware company (Company-1) and ship them to Thailand with an ultimate destination of China, in violation of U.S. law. In doing so, the three defendants used the names of Thailand-based companies as the purported purchasers of the computer servers when in fact the co-conspirators intended for the U.S.-origin AI chips to be diverted to China.
+
+In Oct. 2023, English, purporting to act on behalf of a Thailand-based company, ordered 750 computer servers for approximately $170 million from Company-1. Of the 750 computer servers, 600 contained a computer chip that was controlled on the U.S. Commerce Control List and required a license for export to China. In placing that order, English signed an “Advanced Computing Certification,” certifying that the computer servers were not destined for China or any other country subject to heightened export requirements.
+
+In Jan. 2024, English transferred over $20 million to Company-1 as partial payment for the Oct. 2023 order. In Jan. 2024, when discussing via email an upcoming compliance review for the Oct. 2023 order, English asked Company-1 to add Zheng and Kelly to the email thread, which prompted a response from Company-1 noting, among other things, that Zheng’s company was based in China and that it was “odd” that no one from the Thailand-based company was in the list of carbon copy recipients. Company-1 also commented that
+
+> China is an embargoed country restricted by the US government. US companies are restricted from selling to businesses or end users headquartered in China.
+
+In early Feb. 2024, additional review of the Oct. 2023 order was conducted by the California-based manufacturer of the computer chips that would be inside 600 of the servers English had ordered (Company-2). Company-2’s efforts to verify the end user of the computer chips in Thailand were unsuccessful. Ultimately, the Oct. 2023 purchase was not completed.
+
+While the Oct. 2023 deal lost momentum, in April 2024, English, purporting to act on behalf of a second Thailand-based company, sought to order from Company-1 another 500 computer servers that contained an export-controlled computer chip. In doing so, English signed an End User Certification stating that the Thailand-based company was the end user for the purchase. This deal, like the Oct. 2023 deal, ultimately was unsuccessful.
+
+Text messages obtained through the investigation illustrated aspects of the conspiracy and revealed that Zheng, English, and Kelly discussed, among other things, “fake” corporate niceties to help complete the computer chip purchases, the value of the computer chips in China, and recruitment of others to participate in the scheme.
+
+For example, in June 2023, in a group chat with Zheng and English titled “GPU Partnership,” Kelly stated:
+
+> They just need more details about your company, customers, revenue, etc.
+
+and
+
+> I know you mention you [English] are better than CDW but they have a nice website, company decks, quarterly earning reports, etc that are all public information.
+
+English replied:
+
+> I’m not breaking my back. I fake these weeks ago.
+
+Later, in July 2023, in the same group chat, Zheng sent a message discussing the market value of Company-2’s computer chips in China, showing that Zheng, English, and Kelly were all aware that the ultimate destination for the computer chips would be China.
+
+Subsequently, in March 2024, Kelly messaged Zheng a draft solicitation message for Kelly to send to others. The message stated, among other things:
+
+> [I am] [c]urrently working on distributing GPU systems with [Company-2] chips for supercomputing[.]... We... have a few customers in China but it’s a banned country for distribution. It’s a lucrative business right now – millions of dollars in profits per order – so we are looking for partners. One you can find customers that need GPUs for their supercomputer solutions or two they act as a pass through partner for customers in China. Let me know if you are interested in discussing?
+
+Approximately 28 minutes after sending the draft solicitation message to Zheng, Kelly received feedback from Zheng. Zheng stated, among other things:
+
+> DO NOT MENTION ANYTHING ABOUT CHINA.
+
+Zheng explained that the portions of Kelly’s message that referenced China needed to be removed because:
+
+> We will draw attention[] from US government for embargo[] violation.
+
+In response, Kelly noted that similar information had been told to other individuals. Zheng replied:
+
+> We just talk about it, no one can hold it as evidence[] against us.
+
+Stanley Yi Zheng, 56, of Hong Kong, China, was arrested on March 22, 2026, and appeared before U.S. Magistrate Judge Lisa J. Cisneros, of the Northern District of California, on March 23, 2026, for his initial appearance. The Government has moved for Zheng to be remanded to federal custody and held without bail pending trial.
+
+Matthew Kelly, 49, of Hopewell Junction, New York, and Tommy Shad English, 53, of Atlanta, Georgia, surrendered to federal authorities on March 25, 2026. Their initial appearances will be held in the District of New Jersey and Northern District of Georgia today.
+
+The criminal complaints were issued in the Northern District of Georgia on March 20, 2026. The charges contained in the complaints are merely accusations, and the defendants are presumed innocent unless and until proven guilty.
+
+This case is being investigated by the Department of Commerce’s Bureau of Industry & Security, the Defense Criminal Investigative Service, Homeland Security Investigations, and the Federal Bureau of Investigation.
+
+Assistant U.S. Attorney Samir Kaushal of the United States Attorney’s Office for the Northern District of Georgia and Trial Attorney Brett Ruff of the National Security Division’s Counterintelligence and Export Control Section are prosecuting the case.

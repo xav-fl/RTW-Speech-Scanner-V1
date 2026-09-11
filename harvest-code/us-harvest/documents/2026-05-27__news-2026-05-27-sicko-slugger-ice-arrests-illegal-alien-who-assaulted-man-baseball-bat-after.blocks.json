@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/05/27/sicko-slugger-ice-arrests-illegal-alien-who-assaulted-man-baseball-bat-after",
+ "institution_id": "us-dhs",
+ "title": "SICKO SLUGGER: ICE Arrests Illegal Alien Who Assaulted Man with Baseball Bat After Sanctuary Politicians in Massachusetts Released Him",
+ "date": "2026-05-27",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "2a004b1a2dce5bf336b942b5decff7496219c4683627f20564bd05fd67a48a1b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

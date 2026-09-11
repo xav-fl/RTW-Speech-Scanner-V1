@@ -1,0 +1,77 @@
+{
+ "url": "https://www.usda.gov/about-usda/news/press-releases/2026/01/19/usda-launches-lender-lens-dashboard-promote-data-transparency",
+ "institution_id": "us-agriculture",
+ "title": "USDA Launches Lender Lens Dashboard to Promote Data Transparency",
+ "date": "2026-01-19",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "a588e54db21c0d0a2c367ebce64ddf11aeffda1d1b842095e67985cd40af333d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Vaden",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Vaden",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

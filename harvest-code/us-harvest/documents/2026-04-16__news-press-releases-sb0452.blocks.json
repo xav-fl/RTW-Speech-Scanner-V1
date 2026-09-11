@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0452/",
+ "institution_id": "us-treasury",
+ "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with Italian Minister of Economy and Finance Giancarlo Giorgetti",
+ "date": "2026-04-16",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "641ae4e4da9ad12b5d486693da87abe4ed169eb5bc96da43d09778342a69fea0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

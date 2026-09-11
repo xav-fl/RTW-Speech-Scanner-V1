@@ -1,0 +1,23 @@
+WASHINGTON —Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued updated guidance to clarify how financial institutions can share information with each other about suspected fraud under section 314(b) of the USA PATRIOT Act.
+
+> Americans lose hundreds of billions of dollars to fraud each year. At Treasury, we follow the money, and we know financial institutions are often the first to see suspicious activity in real time. They need the tools to act quickly and share information that can help stop fraud before it spreads,
+
+said Secretary of the Treasury Scott Bessent.
+
+> Under President Trump and Vice President Vance’s leadership, we will continue targeting fraud wherever it occurs and protecting American taxpayers and consumers.
+
+FinCEN’s updated guidance clarifies that a financial institution may share information about activity involving suspected fraud, money laundering, terrorist financing, or other specified unlawful activities, and that it may share that information with any other financial institution eligible to participate in the section 314(b) program to identify illicit financial activity. The fact sheet includes examples of the type of information related to fraud and other criminal activity that financial institutions can share with each other under section 314(b), including video surveillance footage, cyber-related data, such as IP addresses; and fraud indicators like newly added payees followed by large transfers, multiple accounts with the same or similar identifying information, and login activity from geographically distant places.
+
+This guidance supports the Administration’s whole-of-government effort to unleash every available tool to stop fraudsters from exploiting everyday Americans and businesses. As a member of the White House Task Force to Eliminate Fraud, led by Vice President JD Vance, Treasury is using all available resources to identify, stop, and prevent fraud.
+
+Information sharing between and among financial institutions is vital to combating fraud and other financial crimes. FinCEN strongly encourages financial institutions to share information related to money laundering, terrorist financing, fraud, and other criminal activities. Information sharing under section 314(b) advances U.S. national and economic security and is an essential component of Treasury’s efforts, in partnership with the Federal banking agencies, to modernize the U.S. anti-money laundering/countering the financing of terrorism regime to make it more risk-based and outcomes-focused and to empower financial institutions to allocate more resources toward higher-risk customers and activities, rather than toward lower-risk customers and activities.
+
+Contact FinCEN with questions at FinCEN.gov/contact.
+
+Resources
+
+Read the section 314(b) fact sheet here.
+
+Financial institutions can register here to share information about fraud under section 314(b).
+
+###

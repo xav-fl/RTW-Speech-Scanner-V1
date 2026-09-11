@@ -270,10 +270,21 @@ class OfficeholderTable:
 
 
 def validate_jel(obs: Observation, tax: JELTaxonomy) -> str:
-    """Return an empty string when valid, else a reason."""
+    """Return an empty string when valid, else a reason.
+
+    `tax` is anything exposing `check(assignment)` — the dated active list in
+    production, the hierarchical taxonomy where that is still what is being
+    exercised.
+
+    An observation the classifier declined to code arrives here with empty
+    assignments and is rejected, so it lands in rejected.csv with the reason
+    rather than being published with blank codes. The extractor thought the
+    passage was economics and the classifier did not; the disagreement is
+    recorded, and the row stays out of the release.
+    """
     assignments = [obs.primary] + list(obs.secondary)
     if obs.primary.is_empty():
-        return "no primary JEL classification"
+        return "no defensible economic object: classifier assigned no JEL code"
     if len(obs.secondary) > 2:
         return "more than two secondary classifications"
     for a in assignments:

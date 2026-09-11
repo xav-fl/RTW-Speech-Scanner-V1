@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/department-of-state-launches-pax-silica-fund/",
+ "institution_id": "us-state",
+ "title": "Department of State Launches Pax Silica Fund",
+ "date": "2026-03-26",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "918121164aa44a4f707654c18559c01861ec93d7ed48f780976e449cc34aa6c1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

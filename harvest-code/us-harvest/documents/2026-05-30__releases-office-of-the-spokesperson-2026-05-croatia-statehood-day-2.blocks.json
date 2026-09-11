@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/croatia-statehood-day-2/",
+ "institution_id": "us-state",
+ "title": "Croatia Statehood Day",
+ "date": "2026-05-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "0c80741664e8e06b5abb7af734e182302f023a43d307a4d5ec8b56dc5c57c605",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

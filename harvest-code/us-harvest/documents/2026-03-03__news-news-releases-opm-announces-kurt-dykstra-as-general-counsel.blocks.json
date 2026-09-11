@@ -1,0 +1,53 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-announces-kurt-dykstra-as-general-counsel/",
+ "institution_id": "us-opm",
+ "title": "OPM Announces Kurt Dykstra as General Counsel",
+ "date": "2026-03-03",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "1f6e831bcb17b35f81c84221ec2480d3fbb2d4d279ac776f5884e8bd309e35ae",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

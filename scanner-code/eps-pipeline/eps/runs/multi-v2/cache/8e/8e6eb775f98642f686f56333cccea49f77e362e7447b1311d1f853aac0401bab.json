@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about transferring powers to Mayors to build public transport networks (trams, buses). The core economic content is:\n\n1. **Decentralization of transport authority** to regional/local mayors — this is regional government analysis and intergovernmental relations\n2. **Public transport infrastructure** (trams, bus networks) — transportation economics\n\nThe specific mechanism is devolution of transport planning powers to subnational elected officials, which sits squarely in **R5 (Regional Government Analysis)** with a strong secondary dimension in **R4 (Transportation Economics)**.\n\nH7 (Intergovernmental Relations) is also relevant but R5 captures the subnational governance angle more precisely, and R4 captures the substantive policy area (public transit networks).\n\n```json\n{\"primary\": \"R5\", \"secondary\": [\"R4\"]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

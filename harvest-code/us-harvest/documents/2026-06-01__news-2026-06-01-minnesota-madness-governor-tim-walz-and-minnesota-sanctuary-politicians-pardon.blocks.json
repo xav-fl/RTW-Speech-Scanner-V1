@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/06/01/minnesota-madness-governor-tim-walz-and-minnesota-sanctuary-politicians-pardon",
+ "institution_id": "us-dhs",
+ "title": "MINNESOTA MADNESS: Governor Tim Walz and Minnesota Sanctuary Politicians Pardon Illegal Alien Convicted for Armed Robbery",
+ "date": "2026-06-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "40b99e40df656303a6e902ec01220668c92184f07d73b070f7abc9adf1dddbac",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

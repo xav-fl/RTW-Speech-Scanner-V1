@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0461/",
+ "institution_id": "us-treasury",
+ "title": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Minister of Finance and National Revenue François-Philippe Champagne of Canada",
+ "date": "2026-04-19",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "1d7626c241c345ee850a861160f0c69ec8cf43c71d520a41c157ec2e8e032857",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

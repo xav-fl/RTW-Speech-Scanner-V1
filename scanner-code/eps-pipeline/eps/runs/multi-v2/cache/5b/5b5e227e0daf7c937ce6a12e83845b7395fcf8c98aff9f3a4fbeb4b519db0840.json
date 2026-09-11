@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about changes to planning laws and regulations to accelerate housing construction. The core mechanism is land-use/planning regulation reform aimed at increasing housing supply.\n\n- **R** (Urban, Rural, Regional, Real Estate, and Transportation Economics) — specifically R3 (Real Estate Markets, Spatial Production Analysis) and R5 (Regional Government Analysis) cover land use regulation and housing supply. This is the primary fit.\n- **K** (Law and Economics) — K2 (Regulation and Business Law) is relevant since the instrument is explicitly changes to planning laws and regulations.\n\n{\"primary\": \"R\", \"secondary\": [\"K\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

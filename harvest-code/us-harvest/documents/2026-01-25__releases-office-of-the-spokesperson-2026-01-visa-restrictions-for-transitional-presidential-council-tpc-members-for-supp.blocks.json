@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/visa-restrictions-for-transitional-presidential-council-tpc-members-for-supporting-gangs/",
+ "institution_id": "us-state",
+ "title": "Visa Restrictions for Transitional Presidential Council (TPC) Members for Supporting Gangs",
+ "date": "2026-01-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "b07357e1fae94f5064ce9ef63931073b7ffc0cbac4db39b59452f6c96fea2f0f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

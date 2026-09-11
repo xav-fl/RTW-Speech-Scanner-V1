@@ -1,0 +1,171 @@
+Remarks as Prepared for Delivery,
+
+> Old Crime, New Code
+
+Good afternoon. Thank you to Informa Connect for convening its Antitrust West Coast conference and bringing together such a broad cross-section of the enforcement community, in-house counsel, and private bar.
+
+Today, I want to cover three topics. First, where algorithmic conduct sits today and what current civil enforcement tells us about where the line to criminal liability runs. Second, why the Antitrust Division’s investigative architecture is already built for what is coming, using the Procurement Collusion Strike Force and the Whistleblower Rewards Program as the two leading examples. Third, a preview of the questions this room should expect the Antitrust Division to keep pressing on, including what it means when the hub of a pricing arrangement is a large language model. I will close with some thoughts on compliance.
+
+My work in this space spans nearly two decades, beginning in private practice at a large law firm, where I worked on criminal antitrust matters, from compliance counseling to internal investigations to leniency applications. From there, the arc ran through the public-integrity space in Chicago and then through the federal courthouse as a prosecutor. Now, I lead all criminal antitrust enforcement in the United States. What I have taken from all of that—from both sides of the table—is a conviction that the mechanics of collusion are more conventional than they look on first inspection. The names of the tools change. The cover stories change. The conduct at the core of a criminal conspiracy does not. That is the frame I bring to the questions this room faces today.
+
+Let me start with the point that anchors everything that follows: Competitors must compete. Software does not change the rule. And it does not soften the consequences when the rule is broken. The rule does not bend to the medium. Software cannot launder collusion. When competitors exchange competitive intentions in a hotel suite or through a trade association, it is well settled that that raises antitrust concerns. [1] So too with a text thread or a common algorithm.
+
+Just last month, Acting Assistant Attorney General Omeed Assefi told an audience in Washington that balancing a strong American AI industry with vigilant antitrust enforcement is something we
+
+> talk about every single day.
+
+[2] That is an accurate description of where the Antitrust Division is. This speech is my contribution to that conversation.
+
+Hub-and-Spoke Through SaaS: The Doctrine in Practice
+
+The most developed area of algorithmic antitrust enforcement—and the area this room has followed most closely—involves software platforms that aggregate competitor data and return pricing recommendations to those same competitors. The paradigm case is RealPage.
+
+In November 2025, the Antitrust Division entered a consent judgment with RealPage requiring, among other things, that RealPage use only historical rental data aged at least twelve months, that it not report rental pricing information more narrowly than at the state-wide level, that it submit to a court-appointed monitor, and that it operate under a written antitrust compliance policy approved by the Antitrust Division. [3] RealPage also must cooperate in the United States’ continuing civil case against the landlord defendants.
+
+This consent decree is a civil remedy, directed with precision at the specific mechanics that turn a pricing tool into an information exchange. No real-time inputs. No granular outputs. A monitor with visibility into the product. I want to make three observations about this resolution, because each of them frames how this room should think about the broader landscape.
+
+The first observation is that remedy maps to harm. The concern with algorithmic coordination has never been the math. It has been the substitution of shared non-public competitive information for the independent decision-making that the antitrust laws require of competitors. The RealPage consent judgment addresses that directly. It does not ban the software. It does not ban algorithmic pricing generally. It targets the ingestion of non-public competitor data and the granular reporting of outputs back to competitors.
+
+The second observation is that although the RealPage settlement reflects civil relief, that does not reflect a view that algorithmic conduct is beyond the reach of criminal antitrust enforcement. The criminal laws apply to agreements among competitors to fix prices, to allocate markets, and to rig bids. When the evidence of such an agreement is present and provable beyond a reasonable doubt, criminal charges are on the table. When it is not, the civil tools do the work they are designed to do. Those are distinct judgments applied to distinct records. But where the evidence shows that competitors used a system—any system—to replace independent decision-making with shared competitive intelligence, we will treat that as what it is.
+
+The third observation is that the courts are already sorting through the doctrine on parallel tracks. You should be paying attention to how that sort is going. We are.
+
+In December 2024, a district court in Seattle denied the motion to dismiss in Duffy v. Yardi Systems, holding that algorithmic price-fixing allegations could state a per se claim under Section 1. [4] In two hotel revenue management cases, Gibson v. Cendyn Group [5] and Cornish-Adebiyi v. Caesars Entertainment [6], the courts went the other way, granting motions to dismiss principally because the plaintiffs had not pleaded a rim agreement among the competitor-defendants.
+
+That’s the hinge. That’s where these cases turn. Not whether there is a hub. Not whether the hub is a spreadsheet, a revenue management platform, or a large language model. The rim, the agreement among competitors, is the element that determines whether this is a vertical arrangement subject to the rule of reason, or a horizontal conspiracy subject to the per se rule. And where the rim is present—where competitors have understood that their sensitive non-public data will be used to set prices for competitors and have participated on that understanding—the door to the per se rule, and therefore to criminal enforcement, is open. [7]
+
+The Tools Are Already Built
+
+That brings me to the second topic. The Antitrust Division’s investigative architecture has been built in pieces over many years, and each piece was designed for the threats of its era. What I want this room to see is that the architecture travels. The building blocks of cartel detection—insider visibility, structured records, and deliberate incentives that pull on the conspiracy from the inside—are durable. They work against cartel conduct generally and across mediums. While software may be eating the world, trust-busting endures.
+
+Take the Procurement Collusion Strike Force as the leading example.
+
+The design logic behind the PCSF is straightforward. Procurement processes create a unique opportunity for collusion. The same structural features that create the opportunity—standardized bidding, documented communications, repeat interactions among the same contractors, and an institutional buyer with record-keeping obligations—also make the collusion unusually detectable when the right people are trained to see it. We have built an impressive pipeline of cases from training more than 47,000 federal agents and compliance professionals, yielding more than 85 convictions. And that pipeline becomes more—not less—effective as conduct moves into software. We train the agents and officials to recognize the red flags. The red flags drive investigations. The investigations produce charges. And the charges produce custodial sentences, with a regularity that defense counsel who work in this space have learned to take seriously.
+
+Now consider where that pipeline goes as conduct moves further into automation.
+
+Public purchasers are increasingly relying on e-procurement platforms, dynamic pricing modules, machine-assisted bid evaluation, and automated reverse auctions. Contractors are increasingly using bid-preparation software, pricing tools, and market-intelligence products that ingest third-party data. The same logic applies in commercial markets, where pricing software, revenue management platforms, and AI-driven decision tools are now part of the everyday infrastructure of competition. Some of those tools are benign. Some of them will be the vehicle for exactly the kind of horizontal coordination the antitrust laws are designed to prevent.
+
+Our detection capability does not diminish when conduct migrates to software. It grows. Because the paper trail does not disappear. It multiplies.
+
+Every automated bid is a structured record. Every tool that ingests competitor-data inputs is an artifact. Every query to a language-model-based pricing or bidding assistant leaves a log. Every change in parameters is a timestamp. When competitors coordinate through a SaaS tool — whether by design, by acquiescence, or by a vendor’s architectural choice — the digital residue is more extensive than what a yellow-pad conspiracy leaves behind, not less.
+
+The PCSF has invested in the infrastructure to use that residue. The Data Analytics Project, our interagency collaboration on red-flag detection in procurement data. Pre-award data retention. Integration with Inspectors General across the federal procurement landscape and federal agencies that provide services to the public.
+
+That last partnership brings me to another piece of the investigative architecture — and a new one at that.. The Whistleblower Rewards Program, our partnership with the law enforcement agencies of the U.S. Postal Service, is among the most recent additions to our toolkit, and it has already changed the math. This January, the Antitrust Division announced the first-ever whistleblower reward: one million dollars, paid to an individual whose information led to bid-rigging charges in online used-vehicle auctions. [8] That case is instructive for what it signals. The conduct crossed jurisdictional borders online. The detection required an insider. And the insider came forward because the incentive was real.
+
+The interplay between the Whistleblower Rewards Program and the Antitrust Division’s longstanding Leniency Program has changed the incentive structure in a way this room should understand. Leniency has been, since 1993, largely a corporate race. [9] The first corporation through the door to self-report and cooperate receives substantial protections, and the Leniency Program has detected more international cartels than any other single tool in our criminal toolbox. [10] First-in-the-door leniency remains reserved for the corporation that meets the program’s requirements, and the benefits — protection from criminal conviction for the company and its cooperating employees, reduced collateral consequences, and greater certainty in resolution — remain significant.
+
+What the Whistleblower Rewards Program adds is a second race, running in parallel with the first: insider against company. An employee, a former employee, a consultant, or a market participant with original information now has a direct financial incentive to come to us first, not last. They could be the next whistleblower to receive $1 million — or more.
+
+That second race matters especially in algorithmic contexts. A traditional cartel might be known to a handful of commercial executives who had strong reasons to keep quiet. An algorithmic arrangement tends to be visible to a much wider group: the engineers who built the tool, the data scientists who selected the training inputs, the product managers who approved the architecture, the account managers who sold the software to competitors, and — if they were consulted at all — the compliance professionals who reviewed it. Any of them can be our first call. The Whistleblower Rewards Program was not designed with AI in mind. But it was designed for exactly this kind of detection problem, and it is well-positioned for the risks that AI and algorithmic tools will create.
+
+For counsel in this room, the practical implication is this: internal deliberation is more expensive than it used to be. A multi-week committee process to decide whether to self-report was a workable plan when there was one race. There are now two. A company’s path to Leniency can close while its general counsel is scheduling the next meeting. That is not theoretical. It is how these cases will develop.
+
+At the same time, while the decision to self-report is now more urgent than before, another recent development at the Department has made the path to Leniency easier to navigate. In March, the Department of Justice announced its first-ever Corporate Enforcement Policy for all criminal non-antitrust cases. [11] This new policy is designed to provide an incentive for corporate self-reporting and promote uniformity, predictability, and fairness in how the Department pursues corporate crime. The new policy explicitly carves out antitrust offenses — it does not apply to criminal violations of the Sherman Act. [12] This new policy was notable to us at the Antitrust Division for two reasons. One, it leaves in place our remarkably successful Leniency Policy. I believe this reflects the collective judgment of Department leaders, after a considered effort my colleagues and I were honored to participate in, on the importance of clear, predictable enforcement and real incentives for companies to self-report antitrust violations. Two, the new Corporate Enforcement Policy provides an unequivocal answer — and even a flowchart — for how all parts of the DOJ will treat voluntary self-disclosures. Now, for the first time, the Antitrust Division has a tool that allows companies to come in and resolve all their criminal exposure, whether that is a violation of the Sherman Act (via leniency) or it is a fraud charge (via the new policy). That is a win-win for enforcement.
+
+Rewarding whistleblowers is not novel. It bolsters enforcement at other government agencies. It drives private attorneys to enforce the False Claims Act. It underpins the compliance culture that this room already knows: rewarding employees who can and do raise concerns early, moving internal investigations quickly, and self-reporting when the record supports it. Companies that do those things still benefit from Leniency. Companies that do not may learn about their own conduct from us.
+
+The Frontier: LLM-Generated Pricing
+
+That brings me to the third topic, which is a preview of the questions this room should expect the Antitrust Division to keep pressing on: what it means when the hub of a pricing arrangement is a large language model or any other artificial intelligence.
+
+I want to be careful about what I am doing here and what I am not doing. I am not an engineer, and I am not going to pretend that I understand the internals of a large language model better than the people who build them. I am not previewing a charging theory. I am not making doctrinal law from this podium. What I am doing is telling you, candidly, how my colleagues and I are thinking about three hard questions—so that this room is thinking about them as well.
+
+Question one: What is the agreement? Take a simple example. Two competitors adopt the same pricing model. Each feeds into that model non-public data about pricing, capacity, or supply constraints. The model produces recommended prices. Both firms follow those recommendations. The key antitrust question, then, is what exactly the models did with the two competitors’ non-public data. If, for instance, each firm understood that its data would shape the model outputs the other would receive and rely on, that is where the antitrust analysis begins. And in the right record, where it will end. Put more simply: if your pricing system depends on your competitors’ confidential inputs to function, you should expect us to ask why that is not anticompetitive coordination.
+
+The structural answer to this question tracks the hub-and-spoke analysis I have been sketching. [13] To be sure, Section 1 requires a meeting of the minds. [14] But, per publicized terms of service, most AI providers train their models on user inputs by default. So, if those training inputs contain confidential economic data — and competing users of the model know that—a model could become the collusive hub for anticompetitive spokes. Indeed, it isn’t hard to imagine a creative robber baron wrapping an AI model for just this purpose. The form of the hub does not change its essence.
+
+Question two: Where does intent lie? The Antitrust Division has charged Section 1 cases for decades against executives who wanted to raise prices and agreed to do so. The mental state has always been established through what conspirators said, wrote, and did. What changes when the conspirators are not designing the pricing rule themselves but are instead prompting a model that designs it for them? What changes when a conspirator deploys an autonomous AI agent to coordinate with co-conspirators — or perhaps even their co-conspirators’ agents? Our view — and this is not a new view — is that intent travels with the human decision to contribute to and rely on the system. The intent question turns on what you knew and what you did with what you knew. It does not turn on who typed the code. Likewise, if you led an enterprise, the intent question does not turn on whether you used some one or some thing to carry out your scheme. It turns on whether you knowingly used a system to do what you could not lawfully do directly.
+
+Question three: Does the per se rule apply? It applies to agreements that are so plainly anticompetitive that no elaborate market analysis is required to condemn them. The doctrinal split between Yardi on the one hand and Cendyn and Cornish-Adebiyi on the other shows that the courts are already doing the work of sorting hub-and-spoke algorithmic arrangements from ordinary vertical software contracts. LLM-generated pricing will present the next iteration of that sort. Our posture on the criminal side is simple: the classification does not change because the software is newer. The classification tracks the conduct. Where competitors have agreed — through architecture, through information sharing, or through follow-the-algorithm understandings — to eliminate competition among themselves, the per se rule applies.
+
+These are hard questions. They are worth getting right. And they are questions we think about every single day. [15]
+
+Compliance in the Algorithmic Era
+
+One more thing before I close. I want to address the practical takeaways for this room.
+
+In November 2024, the Antitrust Division updated its Evaluation of Corporate Compliance Programs in Criminal Antitrust Investigations to include risk-assessment questions specifically directed at artificial intelligence and algorithmic tools. [16] Those questions are worth reading in full. In short, they ask whether a company’s risk assessment addresses its use of new technologies, particularly AI and algorithmic revenue management software; whether a company assesses antitrust risk as new technology tools are deployed; whether compliance personnel are involved in that deployment; and what steps the company is taking to mitigate risk.
+
+For the in-house counsel in this room, those are the questions to answer on your own before a grand jury subpoena compels you. In practical terms, that means knowing which pricing and procurement tools your company uses, what data goes into them, and where the outputs go. It means understanding which tools pool non-public competitor data, and documenting why that pooling is—or is not—consistent with the antitrust laws. And it means training your sales, pricing, and procurement teams on the conduct guardrails, not only around the tools themselves, but also around the conversations that happen among the users of those tools.
+
+Compliance cannot be an exhibit prepared for prosecutors after the fact. It must function before the misconduct occurs. That is especially true in high-risk areas.
+
+If your company operates in a concentrated industry, repeated interactions with competitors matter. If your company participates in trade associations, employees need to know what can and cannot be discussed. If your company uses shared pricing software, compliance needs to understand the data flows. If your company exchanges competitively sensitive information through third parties, someone needs to ask whether that exchange is legitimate.
+
+And if your company is deploying AI or algorithmic tools in competitively sensitive areas, then antitrust review cannot be ceremonial. It must be real.
+
+This is where I think some companies will get into trouble. They will have an AI governance process focused on privacy, cybersecurity, intellectual property, bias, and operational risk. Those are important. But they may not be asking the antitrust questions with sufficient rigor. A company cannot say it has a mature AI governance program if no one is asking whether the tool facilitates coordination with competitors. A company cannot say it has a serious antitrust compliance program if no one understands how its pricing technology actually works. And a company cannot say it has meaningful controls if the business answer is:
+
+> We just follow the model.
+
+> The model did it
+
+is not compliance. It is the beginning of the next question.
+
+So too with, “Legal signed off.” The Sherman Act is a general intent crime. [17] That means the government must prove only that the underlying conduct was intentional, not that the defendant knew it was a crime. Thus, advice of counsel is not a cognizable defense to a Sherman Act violation. [18]
+
+A final word to the people in this room — and on the people whom you advise. The Sherman Act applies to corporations and human beings alike. And the move from human conversations to machine-assisted ones does not change who is accountable. The Antitrust Division charges individuals. The sentences in our cases are served by people. The list I read earlier — engineers, data scientists, product managers, account managers, compliance professionals — described the witnesses we may hear from in an algorithmic case. It also describes the population with potential personal exposure if their conduct crosses the line. A corporate fine is paid by the shareholders. A sentence of imprisonment is not. That distinction has driven the Antitrust Division’s deterrence strategy for decades, and nothing about the move from yellow pads to language models changes the math. We are not looking for edge cases. We are looking for conduct that replaces competition with collusion.
+
+Conclusion
+
+When competitors agree not to compete, the harm is not abstract. They take dollars from the customers who paid an inflated price. They take work from the rivals who would have won it. And they take something less measurable but just as real: the public’s confidence that the markets they participate in are actually competitive. That was true in the smoke-filled rooms where the Antitrust Division began its work. [19] It is true in today’s conference rooms. It is true in Slack channels and Signal chats. And it is true when the agreement is mediated through a model, a vendor, or a platform.
+
+The tools change. The rule against collusion does not. And when the evidence shows that competitors used those tools to stop competing, we will act.
+
+Thank you.
+
+[1] See Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations, Book I, ch. X, pt. II (1776) (
+
+> People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.
+
+).
+
+[2] Semafor, DOJ Antitrust Chief Wants US to Be AI Giant, but Not with Unlawful Collaboration, available at https://www.semafor.com/article/04/16/2026/doj-antitrust-chief-we-have-to-monitor-ai-companies-too (Apr. 16, 2026).
+
+[3] See United States v. RealPage, Inc., 1:24-cv-00710-WLO-JLW, Proposed Final Judgment, ECF 159-1 (M.D.N.C. Nov. 24, 2025), available at https://www.justice.gov/atr/media/1419451/dl?inline.
+
+[4] Duffy v. Yardi Systems, Inc., 758 F. Supp. 3d 1283, 1296 (W.D. Wash. 2024).
+
+[5] Gibson v. Cendyn Group, LLC, 2024 WL 2060260 (D. Nev. 2024), aff’d Gibson v. Cendyn Group, LLC, 148 F.4th 1069 (9th Cir. 2025).
+
+[6] Cornish-Adebiyi v. Caesars Entertainment, Inc., 2024 WL 4356188 (D.N.J. 2024).
+
+[7] See United States v. Socony-Vacuum Oil Co., 310 U.S. 150, 218, 223 (1940).
+
+[8] U.S. Department of Justice, Press Release, Antitrust Division and U.S. Postal Service Make First-Ever Whistleblower Payment: $1M Awarded for Reporting Antitrust Crime (Jan. 29, 2026), available at https://www.justice.gov/opa/pr/antitrust-division-and-us-postal-service-award-first-ever-1m-payment-whistleblower-reporting.
+
+[9] The original Corporate Leniency Policy dates to August 10, 1993. Individual Leniency, which launched a year later, is available only when
+
+> [a]t the time the individual reports the illegal activity, the Antitrust Division has not received information about the illegal activity from any other source,
+
+among other things. Justice Manual § 7-3.330. The current Leniency Policy and Procedures, incorporated into the DOJ Justice Manual in § 7-3.300, and the Antitrust Division’s Frequently Asked Questions about the Leniency Program are both available at https://www.justice.gov/atr/leniency-policy.
+
+[10] The framing of the Leniency Program as the Antitrust Division’s most productive instrument for detecting cartel activity reflects a body of work developed over many years by my predecessors. See, e.g., Gary R. Spratling, Deputy Assistant Attorney General, Antitrust Division, Making Companies An Offer They Shouldn’t Refuse: The Antitrust Division’s Corporate Leniency Policy — An Update, Address Before the Bar Association of the District of Columbia’s 35th Annual Symposium on Associations and Antitrust (Feb. 16, 1999), available at https://www.justice.gov/archives/atr/speech/making-companies-offer-they-shouldnt-refuse-antitrust-divisions-corporate-leniency-policy; Scott D. Hammond, Director of Criminal Enforcement, Antitrust Division, Cornerstones of an Effective Leniency Program, Address Before the ICN Workshop on Leniency Programs (Nov. 22–23, 2004), available at https://www.justice.gov/archives/atr/speech/cornerstones-effective-leniency-program.
+
+[11] U.S. Department of Justice, Press Release, Department of Justice Releases First-Ever Corporate Enforcement Policy for All Criminal Cases (Mar. 10, 2026), available at https://www.justice.gov/opa/pr/department-justice-releases-first-ever-corporate-enforcement-policy-all-criminal-cases.
+
+[12] See U.S. Department of Justice, Office of the Deputy Attorney General, Corporate Enforcement and Voluntary Self-Disclosure Policy, available at https://www.justice.gov/dag/media/1430731/dl?inline.
+
+[13] See American Needle, Inc. v. NFL, 560 U.S. 183, 195 (2010) (
+
+> The key is whether the alleged contract, combination, or conspiracy is concerted action—that is, whether it joins together separate decisionmakers.
+
+(cleaned up)).
+
+[14] See Monsanto Co. v. Spray-Rite Serv. Corp., 465 U.S. 752, 764 (1984) (
+
+> Circumstances must reveal a unity of purpose or a common design and understanding, or a meeting of minds in an unlawful arrangement
+
+(cleaned up)).
+
+[15] Others are also thinking hard about these questions. See, e.g., Aslihan Asil & Thomas G. Wollmann, Can Machines Commit Crimes Under U.S. Antitrust Laws?, 3 U. Chi. Bus. L. Rev. 1 (2023), available at https://businesslawreview.uchicago.edu/print-archive/can-machines-commit-crimes-under-us-antitrust-laws (concluding that criminal liability is probable in a scenario where an AI tool communicates with the pricing manager of a competitor).
+
+[16] See U.S. Department of Justice, Antitrust Division, Evaluation of Corporate Compliance Programs in Criminal Antitrust Investigations (Nov. 2024), available at https://www.justice.gov/atr/media/1376686/dl.
+
+[17] See United States v. U.S. Gypsum Co., 438 U.S. 422, 444-46 (1978).
+
+[18] Although it is true that good-faith engagement with counsel, before the fact, is relevant to how the Antitrust Division exercises its prosecutorial discretion, there is no advice-of-counsel element in the jury instruction for a criminal Section 1 violation. The Antitrust Division recently addressed this point in the resolution to a criminal investigation, where language was included that the legal advice the company had received before entering into the challenged agreement was clearly erroneous and did not provide legal defense to a violation of Section 1 of the Sherman Act. See Non-Prosecution Agreement, United States Department of Justice, Antitrust Division, ¶ 3 (Mar. 18, 2026), available at https://www.justice.gov/atr/media/1433876/dl?inline.
+
+[19] The phrase is generally traced to Associated Press correspondent Kirke L. Simpson’s reporting from the 1920 Republican National Convention, describing the suite at the Blackstone Hotel in Chicago in which party leaders allegedly settled on Warren G. Harding’s nomination. See William Safire, Safire's Political Dictionary (rev. ed. 2008).

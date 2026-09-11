@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/20/dhs-proposes-rule-prioritize-americans-safety-strengthening-screening-asylum",
+ "institution_id": "us-dhs",
+ "title": "DHS Proposes Rule to Prioritize Americans' Safety by Strengthening Screening of Asylum Seekers",
+ "date": "2026-02-20",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "c3115d0c387645df98afdcad8a9ab5ffd5f328d408ca109ff40487bb502cd975",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

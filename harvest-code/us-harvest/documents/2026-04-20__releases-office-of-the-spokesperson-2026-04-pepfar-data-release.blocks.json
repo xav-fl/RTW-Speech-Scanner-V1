@@ -1,0 +1,59 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/pepfar-data-release/",
+ "institution_id": "us-state",
+ "title": "PEPFAR Data Release",
+ "date": "2026-04-20",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "c3b376dbb8967de79c2e6cd4bc0de6cc732bcd7ccb50e8c7107c01ca57d5ed08",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

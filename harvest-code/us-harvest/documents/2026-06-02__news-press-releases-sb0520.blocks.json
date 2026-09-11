@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0520/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Department Announces New Appointment",
+ "date": "2026-06-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "18fb3de08df3e6abffe259044d50edabcb07f051b142555e580d7e5a075eeea6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

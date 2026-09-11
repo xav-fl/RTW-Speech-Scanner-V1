@@ -1,0 +1,53 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-on-the-publication-of-the-u-s-armenia-implementation-framework-for-the-trump-route-for-international-peace-and-prosperity-tripp/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on the Publication of the U.S.-Armenia Implementation Framework for the Trump Route for International Peace and Prosperity (TRIPP)",
+ "date": "2026-01-13",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "679168580fdf1921048fcc628b7261e114d07474c9ab397b539ef84f13dbd04f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

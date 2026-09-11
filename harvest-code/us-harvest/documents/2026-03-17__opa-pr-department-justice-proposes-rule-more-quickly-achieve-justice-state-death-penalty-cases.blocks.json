@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/department-justice-proposes-rule-more-quickly-achieve-justice-state-death-penalty-cases",
+ "institution_id": "us-justice",
+ "title": "Department of Justice Proposes Rule to More Quickly Achieve Justice in State Death Penalty Cases",
+ "date": "2026-03-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c3b3b7310fe8ef3483f684578dbceae2dc3e10fa4002bd8d31d5c031a0a2f4d0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Attorney General Pamela Bondi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Attorney General Pamela Bondi",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

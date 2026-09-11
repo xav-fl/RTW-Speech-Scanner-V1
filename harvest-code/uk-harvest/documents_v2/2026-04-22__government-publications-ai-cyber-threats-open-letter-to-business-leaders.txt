@@ -1,0 +1,9 @@
+Liz Kendall, Secretary of State for Science, Innovation and Technology and Dan Jarvis, Security Minister has written an open letter to business leaders regarding AI cyber threats.
+
+The government is recommending businesses and organisations take the following steps to protect themselves from AI -driven cyber threats:
+
+Take cyber security seriously, at the very top of your organisation. Larger businesses should use the government’s Cyber Governance Code of Practice to ensure their organisation is sufficiently protected. Smaller businesses should also use the National Cyber Security Centre’s (NCSC) Cyber Action Toolkit.
+
+Get the basics right with Cyber Essentials. The government’s highly effective scheme protects against the most common attacks. Organisations that hold it are significantly less likely to suffer a damaging cyber incident. Firms should also look to embed Cyber Essential requirements across supply chains,
+
+Follow NCSC advice and sign up to their Early Warning Service. The NCSC provides free, practical advice, training and guidance at ncsc.gov.uk for organisations of every size. Early Warning is a free service from NCSC, which can inform organisations of potential cyber attacks and give them invaluable time to act before an incident escalates.

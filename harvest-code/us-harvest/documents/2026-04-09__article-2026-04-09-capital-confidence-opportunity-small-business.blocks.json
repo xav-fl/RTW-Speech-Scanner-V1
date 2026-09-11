@@ -1,0 +1,59 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/04/09/capital-confidence-opportunity-small-business",
+ "institution_id": "us-sba",
+ "title": "Capital, Confidence, and Opportunity for Small Business",
+ "date": "2026-04-09",
+ "date_source": "metadata",
+ "source_document_type": "Op-ed",
+ "text_sha256": "2200fe520873aa350176097942a738791955a00540a191548db7ba9293916000",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

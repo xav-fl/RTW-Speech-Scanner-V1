@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/india-republic-day/",
+ "institution_id": "us-state",
+ "title": "India Republic Day",
+ "date": "2026-01-25",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "d9e3a31158491661c145e3d7c98365477691202d321f7eb47991638859fcab53",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

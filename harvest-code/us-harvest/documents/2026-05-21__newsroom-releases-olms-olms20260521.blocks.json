@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/olms/olms20260521",
+ "institution_id": "us-labor",
+ "title": "Former union official sentenced to probation for embezzling member funds through 51 unauthorized transactions over 2 years",
+ "date": "2026-05-21",
+ "date_source": "listing",
+ "source_document_type": "OLMS",
+ "text_sha256": "be1819353a9cb47299d2397de828a475839bdee83dec8ac62c1e7fe6900a24f3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Office of Labor-Management Standards Regional Director Megan Ireland",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Office of Labor-Management Standards Regional Director Megan Ireland",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

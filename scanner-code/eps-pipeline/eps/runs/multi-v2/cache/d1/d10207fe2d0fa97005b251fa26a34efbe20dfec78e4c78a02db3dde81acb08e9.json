@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about reviewing the Firefighters' Compensation Scheme — a pension/compensation arrangement for a specific occupational group (firefighters). The core economic content is about worker compensation and benefits in a particular labor market segment.\n\nThe specific mechanism: a pension/compensation scheme for firefighters (a particular labor market), subject to policy review and public consultation.\n\n- J3 (Wages, Compensation, and Labor Costs) or J4 (Particular Labor Markets) fit well — firefighters' compensation scheme is directly about compensation for a specific occupational group.\n- H5 (National Government Expenditures) could apply since this is a public sector pension scheme, but the substance is the compensation structure itself.\n\nPrimary: J (Labor and Demographic Economics) — compensation scheme for a specific worker group\nSecondary: H (Public Economics) — public sector pension scheme involving government expenditure\n\n{\"primary\": \"J\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

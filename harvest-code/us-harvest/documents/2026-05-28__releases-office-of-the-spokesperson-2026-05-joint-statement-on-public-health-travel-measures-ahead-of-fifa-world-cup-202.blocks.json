@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/joint-statement-on-public-health-travel-measures-ahead-of-fifa-world-cup-2026/",
+ "institution_id": "us-state",
+ "title": "Joint Statement on Public Health Travel Measures Ahead of FIFA World Cup 2026",
+ "date": "2026-05-28",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "b2d835f2b91d7b0279412330223cd8a3fe50f00463fe79bacd96b1187294aa87",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

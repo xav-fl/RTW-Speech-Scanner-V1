@@ -1,0 +1,101 @@
+TITLE: More leading researchers brought to the UK, while Horizon Europe performance strengthens in 2024
+URL: https://www.gov.uk/government/news/more-leading-researchers-brought-to-the-uk-while-horizon-europe-performance-strengthens-in-2024
+DATE: 2026-06-05
+GOVUK_TYPE: press_release
+LINKED_SPEAKERS: Lord Vallance
+
+---
+
+UK research organisations attract new wave of 10 leading international researchers to drive breakthroughs in clean energy, life sciences and advanced technologies through UKRI’s Global Talent Fund. 
+
+Expansion of the Global Talent visa to around 100 businesses by July set to fast-track research and boost growth.  
+
+New performance stats highlight UK’s progress as part of Horizon Europe, with share of funding climbing to 9.3%. 
+
+The UK is cementing its status as a global magnet for cutting-edge scientific research, with a cohort of ten leading researchers set to take up new roles supported by the Global Talent Fund. 
+
+Launched last summer with 8 researchers previously announced, the Fund’s dedicated pot of £54 million looks to attract top international talent to the UK to drive forward their work in critical areas like Life Sciences, Clean Energy, and AI – all vital strands of the UK’s Modern Industrial Strategy. 
+
+Among the latest cohort are: 
+
+Professor Bryony DuPont (joining Strathclyde from Oregon State University, US), who will use AI to improve energy systems and make them more resilient to our changing environment. 
+
+Dr Ivana Bukvin (joining the Medical Research Council Laboratory of Molecular Biology, Cambridge, from Stanford University, US) will pursue research into proteins which improves our understanding of ageing and neurodegeneration to help tackle diseases like Huntington’s. 
+
+Today is a key milestone for the Global Talent Fund, with all 12 Global Talent Fund research organisations having successfully recruited international candidates, demonstrating strong delivery against initial programme objectives. 
+
+In a further boost to the UK’s support for international researchers, UKRI is expanding its Global Talent visa fast-track route. 
+
+At the start of June, the Global Talent visa will expand to cover the remaining Association for Innovation, Research and Technology Organisation members (including IBM), supporting the innovations which improve lives and create jobs across the country. By the end of July, this will expand to around 100 R&D-intensive businesses across the key high growth sectors from the Industrial Strategy including Advanced Manufacturing, and Digital and Technologies. 
+
+The news comes as the latest figures from Horizon Europe – the world’s largest research and innovation programme – show UK research and international collaboration going from strength to strength. 
+
+The report, covering Horizon 2020 (2014–2020) and the first three years of Horizon Europe (2021–2024), finds that the UK’s share of funding rose from 5.8% in 2023 to 9.3% in 2024.  
+
+Participation has also increased, with the share of proposals rising from 18.9% to 24%. Higher Education institutions accounted for a large share of the gains, contributing significantly to the UK’s success in securing funding. 
+
+However, there is still ample opportunity to drive this collaboration further forwards with partners under Horizon Europe. 
+
+Successful projects to have secured Horizon Europe grants to date include:  
+
+Coordinated by the University of Glasgow VectorGrid-Africa is a €6.1 million Horizon Europe project. It establishes the first ever network to monitor mosquito borne diseases across East and Southern Africa. The project will use data to enable rapid detection of invasive species, emerging diseases and genetic changes such as insecticide resistance. This could enable earlier detection of emerging risks, improved disease forecasting, and stronger local scientific capacity. 
+
+BLUECOAT (€3.5m Horizon Europe, launched Oct 2025), led by the University of Birmingham, is developing highly durable surface coatings to reduce emissions and pollution in the maritime and construction industries. This will deliver significant reductions in greenhouse gas emissions and harmful pollutants. 
+
+UK organisations can apply for Horizon Europe funding to make their ideas reality. To find out more, visit the Horizon Hub. 
+
+With HMG expecting to spend over £5 billion on talent over the upcoming Spending Review period, the UK’s offer to international researchers is going from strength to strength, with world class research opportunities found across all career stages, including through ARIA and the National Academy fellowships. 
+
+At Davos earlier this year, we announced how we’re emboldening our offer further, including backing UK scale ups by removing visa fees for international hires, supporting international companies to enter the UK more quickly; and removing the financial burden for trailblazers working in deep tech. 
+
+Science Minister Lord Vallance said: 
+
+It’s no coincidence that the world’s top researchers – driving groundbreaking innovations in AI, life sciences, advanced manufacturing and clean energy – are choosing to come to the UK to advance their work. 
+
+Britain is home to an outstanding science and research community, and boosted by our participation in Horizon Europe, we’re able to drive forward the kinds of research with international partners that will change lives and create opportunities here in the UK and all over the world.
+
+Notes to editors 
+
+Today’s newly announced Global Talent Fund awardees, are: 
+
+Professor Moshe Parnas (joining University of Birmingham from Tel Aviv University, Israel) who studies fruit flies to understand how the brain encodes information and how neural circuits support behaviour, learning and memory (Life Sciences)  
+
+Dr Gamze Gürzoy (joining University of Cambridge from University of Columbia, US) who studies computational biology across numerous biological systems and problems (intersecting Digital & Technology and Life Science) 
+
+Dr Markus Tatzgern (joining Warwick University from Salzburg University of Applied Sciences, Austria) who studies Extended-Reality (XR), Human-Computer Interactions (HCI) and AI with the UK providing a strong environment for producing high-impact work in these areas showing how the UK is attracting global talent at the cutting edge of technology, design and responsible innovation (intersecting Advanced Manufacturing and Creative Industries)  
+
+Professor Trey Ideker (joining University of Oxford from University of California, San Diego, US) as incoming Director of the Big Data Institute and faculty in the Nuffield Departments of Population Health and Medicine, bringing together researchers from diverse disciplines to harness large, complex, and heterogeneous biomedical data sets, with unprecedented opportunities to improve human health worldwide (Digital & Technology) 
+
+Professor Laura Huckins (joining University of Bath from Yale University, US) who is returning to the UK after over a decade in the US with her research which primarily focuses on psychiatric disorders, with an emphasis on eating disorders and PTSD, and hopes to bring answers and treatments for vulnerable populations living with disease (Life Sciences) 
+
+Professor Julia Gottschall (joining Strathclyde from University of Bremen, Germany) is studying the interaction between offshore wind farms and the surrounding atmosphere, and understanding this all us to plan considerably better at both a project and policy level (Clean Energy) 
+
+Professor Bryony DuPont (joining Strathclyde from Oregon State University, US) will bring her research closer to the UK and European offshore energy sectors, accelerating the industry partnerships and university collaborations that are central to her research (Clean Energy) 
+
+Dr Ivana Bukvin (joining Medical Research Council Laboratory of Molecular Biology, Cambridge, from Stanford University, US) will bring her protein-folding research to the UK’s long tradition of curiosity-driven science to help shape our understanding of human biology and disease at a molecular level (Life Sciences)  
+
+Professor Dimitris Angelakis (joining Southampton from National University of Singapore) whose research focuses on scalable quantum computing and quantum-enhanced AI, noting that the UK has built one of the strongest and most internationally connected quantum ecosystems in the world, combining excellent universities, national laboratories, startups, and industrial partners (intersecting Digital and Technology and Advanced Manufacturing)  
+
+Dr Giorgio Adamo (joining Southampton from Nanyang Technological University, Singapore) works in advanced nanophotonics, focusing on how light behaves at the nanoscale to enable new technologies such as superresolution imaging, ultra-thin optical devices, and novel quantum materials – and hopes to impact sectors as varied as manufacturing, semiconductors, healthcare, and environmental monitoring (intersecting Digital and Technology and Advanced Manufacturing)  
+
+The investment is supporting new roles in a range of areas, from early career starters to senior leadership, and has enabled the creation of new research teams in priority growth areas such as Life Sciences, Digital and Technologies, Advanced Manufacturing, Creative Industries, and Clean Energy. 
+
+The Global Talent Fund is also strengthening UK research capability through early investment in infrastructure and lab equipment, with some organisations already deploying funding into specialist facilities and start‑up resources to support incoming talent. 
+
+Link to full Horizon Europe stats publication.
+
+UK’s improved share of grant funding in 2024 is consistent with increased success in competitive grant funding, coinciding with the UK’s full association to Horizon Europe. 
+
+Performance strengthened across most parts of the programme, with increases in funding share in Pillar 1 and Pillar 2 between 2023 and 2024, while Pillar 3 remained broadly stable. 
+
+Other schemes open to talent in UK include: 
+
+The Royal Society’s Wolfson Fellowships programme is open for nominations and enables UK Universities and Research Institutions to attract outstanding emerging or established international research leaders with up to 5-years of support, enriching and strengthening the UK’s scientific base. Nomination deadline for universities: 24 June, application deadline: 1 July. 
+
+The Royal Academy of Engineering’s Research Fellowships are currently inviting expressions of interest from early-career engineering researchers looking to gain the time, resources and support to pursue an ambitious programme of independent research and establish themselves as future engineering research leaders, with the award value increased to cover projects up to £1 million, with a maximum Academy contribution of £800,000. Expressions of interest close: 25 June.  
+
+The Royal Academy of Engineering’s Green Future Fellowships Accelerated International Route is open year-round to exceptional non-UK-based applicants to enable rapid relocation and impactful climate innovation in the UK. 
+
+ARIA’s expressions of interest are open for UK’s Encode AI for Science Fellowship as programme draws record global talent; the inaugural Cohort’s Fellows have produced 37+ papers and pre-prints, 16 open-source releases and 50+ new collaborations, with two ventures already incorporated and more in the pipeline.  
+
+Europe is a great place for talent, and the UK has a keen mutual interest in ensuring the top global talent is attracted to, and developed within, Europe, including through the Choose Europe scheme.

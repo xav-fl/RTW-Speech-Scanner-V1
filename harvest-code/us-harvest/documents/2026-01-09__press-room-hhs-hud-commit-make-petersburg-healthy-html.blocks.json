@@ -1,0 +1,215 @@
+{
+ "url": "https://www.hhs.gov/press-room/hhs-hud-commit-make-petersburg-healthy.html",
+ "institution_id": "us-hhs",
+ "title": "HHS and HUD Commit to “Make Petersburg Healthy Again” by Expanding Access to Medical Care, Nutritious Foods, and Healthy Homes in the Historically Underserved City",
+ "date": "2026-01-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "60b78bbbb2a3c9a654529ff04f5ba1db94001a17a88a1007b16fbfb9f995af40",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "quote",
+   "speaker": "HUD Secretary Turner",
+   "method": "speech_verb"
+  },
+  {
+   "index": 13,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 14,
+   "kind": "quote",
+   "speaker": "HUD Secretary Turner",
+   "method": "speech_verb"
+  },
+  {
+   "index": 15,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 16,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 17,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 18,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 19,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 20,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 21,
+   "kind": "quote",
+   "speaker": "Governor Youngkin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 22,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 23,
+   "kind": "quote",
+   "speaker": "Governor Youngkin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 24,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 25,
+   "kind": "quote",
+   "speaker": "Admiral Christine",
+   "method": "speech_verb"
+  },
+  {
+   "index": 26,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 27,
+   "kind": "quote",
+   "speaker": "Admiral Christine",
+   "method": "speech_verb"
+  },
+  {
+   "index": 28,
+   "kind": "quote",
+   "speaker": "Mayor Parham",
+   "method": "speech_verb"
+  },
+  {
+   "index": 29,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 30,
+   "kind": "quote",
+   "speaker": "Mayor Parham",
+   "method": "speech_verb"
+  },
+  {
+   "index": 31,
+   "kind": "quote",
+   "speaker": "Secretary Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 32,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 33,
+   "kind": "quote",
+   "speaker": "Secretary Kennedy",
+   "method": "speech_verb"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+First-Ever Action Under the Protecting American Intellectual Property Act
+
+WASHINGTON — Today, the Department of the Treasury’s Office of Foreign Assets Control (OFAC) designated Sergey Sergeyevich Zelenyuk (Zelenyuk) and his company, Matrix LLC (doing business as Operation Zero), as well as five associated individuals and entities, for their acquisition and distribution of cyber tools harmful to U.S. national security. Zelenyuk and Operation Zero trade in “exploits”—pieces of code or techniques that take advantage of vulnerabilities in a computer program to allow users to gain unauthorized access, steal information, or take control of an electronic device—and have offered rewards to anyone who will provide them with exploits for U.S.-built software. Among the exploits that Operation Zero acquired were at least eight proprietary cyber tools, which were created for the exclusive use of the U.S. government and select allies and which were stolen from a U.S. company. Operation Zero then sold those stolen tools to at least one unauthorized user.
+
+> If you steal U.S. trade secrets, we will hold you accountable,
+
+said Secretary of the Treasury Scott Bessent.
+
+> Treasury will continue to work alongside the rest of the Trump Administration to protect sensitive American intellectual property and safeguard our national security.
+
+This action coincides with an investigation by the Department of Justice and the Federal Bureau of Investigation of Peter Williams, an Australian national and a former employee of the aforementioned U.S. company who pleaded guilty on October 29, 2025, to two counts of theft of trade secrets.
+
+Williams stole several proprietary cyber tools from the company between 2022 and 2025 and sold them to Operation Zero in exchange for millions of dollars paid in cryptocurrencies.
+
+OFAC is designating Zelenyuk, Operation Zero, and the five associated individuals and entities pursuant to Executive Order (E.O.) 13694, as further amended by E.O. 14306 (
+
+> E.O. 13694, as further amended
+
+). In parallel with this action, the Department of State is sanctioning Zelenyuk, Operation Zero, and an affiliated UAE company, Special Technology Services LLC FZ (STS) pursuant to the Protecting American Intellectual Property Act (PAIPA). These are the first persons sanctioned under this law, which provides for sanctions against persons who have knowingly engaged in, or benefitted from, significant theft of trade secrets of United States persons, if the theft of such trade secrets is reasonably likely to result in, or has materially contributed to, a significant threat to the national security, foreign policy, or economic health or financial stability of the United States. Please refer to the Department of State’s press release for more information about this action under PAIPA.
+
+ZELENYUK’S ACQUISITION AND SALE OF CYBER TOOLS
+
+Russian national Zelenyuk,through his St. Petersburg, Russia-headquartered company Operation Zero, has been active as an exploit broker since 2021. Operation Zero has offered millions of dollars in bounties to cybersecurity researchers and others for the development or acquisition of exploits targeting commonly used software, including U.S.-built operating systems and encrypted messaging applications. Operation Zero does not disclose the discovered exploits to the companies developing the affected software, and Operation Zero customers could use the tools to launch ransomware attacks or engage in other malign activities. In advertisements and other public-facing materials, Zelenyuk and Operation Zero have stated that they will only sell the exploits they acquire to customers from non-NATO countries. Zelenyuk, through Operation Zero, has sought to sell exploits to foreign intelligence agencies. Zelenyuk and Operation Zero have also sought to develop other cyber intelligence systems, including spyware and methods to extract personal identifying information and other sensitive data uploaded by users of artificial intelligence applications like large language models. Operation Zero has sought to recruit hackers to support its activities and develop business relationships with foreign intelligence agencies through use of social media.
+
+OFAC is designating Zelenyuk and Operation Zero pursuant to E.O. 13694, as further amended, for being responsible for or complicit in, or having engaged in, directly or indirectly, cyber-enabled activities originating from, or directed by persons located, in whole or substantial part, outside the United States that are reasonably likely to result in, or have materially contributed to, a threat to the national security, foreign policy, or economic health or financial stability of the United States, and that have the purpose of or involve causing a misappropriation of funds or economic resources, intellectual property, proprietary or business confidential information, personal identifiers, or financial information for commercial or competitive advantage or private financial gain.
+
+OPERATION ZERO’S AFFILIATES
+
+Beyond Zelenyuk and Operation Zero, OFAC is imposing sanctions on individuals and companies associated with them. Marina Evgenyevna Vasanovich (Vasanovich) is Zelenyuk’s assistant. STS is a UAE-based technology company controlled by Zelenyuk. OFAC is designating Vasanovich and STS pursuant to E.O. 13694, as further amended, for being owned or controlled by, or having acted or purported to act for or on behalf of, directly or indirectly, Zelenyuk.
+
+OFAC is also designating Azizjon Makhmudovich Mamashoyev (Mamashoyev) and Oleg Vyacheslavovich Kucherov (Kucherov). Kucherov is a Russian national and a suspected member of the Trickbot cybercrime gang. OFAC previously designated members of the Trickbot group in February 2023 and September 2023. Trickbot, first identified in 2016, is a highly modular malware suite that allows the Trickbot cybercrime gang to conduct a variety of malicious cyber activities, including ransomware attacks against the U.S. government, as well as hospitals and healthcare centers across the United States. Kucherov and Mamashoyev have previously had work relationships with Operation Zero. OFAC is designating Mamashoyev and Kucherov pursuant to E.O. 13694, as further amended, for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods and services to or in support of, Zelenyuk,
+
+Additionally, OFAC is sanctioning Advance Security Solutions, another exploit brokerage firm that, like Operation Zero, offers bounties for exploits for U.S.-built software. Advance Security Solutions is an offensive cybersecurity company created by Mamashoyev with operations in the UAE and Uzbekistan. OFAC is designating Advance Security Solutions pursuant to E.O. 13694, as further amended, for being owned or controlled by, or having acted or purported to act for or on behalf of, directly, Mamashoyev.
+
+SANCTIONS IMPLICATIONS
+
+As a result of today’s action, all property and interests in property of the designated or blocked persons described above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC. In addition, any entities that are owned, directly or indirectly, individually or in the aggregate, 50 percent or more by one or more blocked persons are also blocked. Unless authorized by OFAC, or exempt, OFAC’s regulations generally prohibit all transactions by U.S. persons or within (or transiting) the United States that involve any property or interests in property of blocked persons.
+
+Violations of U.S. sanctions may result in the imposition of civil or criminal penalties on U.S. and foreign persons. OFAC may impose civil penalties for sanctions violations on a strict liability basis. OFAC’s Economic Sanctions Enforcement Guidelines provide more information regarding OFAC’s enforcement of U.S. economic sanctions. In addition, financial institutions and other persons may risk exposure to sanctions for engaging in certain transactions or activities involving designated or otherwise blocked persons. The prohibitions include the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any designated or blocked person, or the receipt of any contribution or provision of funds, goods, or services from any such person.
+
+The power and integrity of OFAC sanctions derive not only from OFAC’s ability to designate and add persons to the SDN List, but also from its willingness to remove persons from the SDN List consistent with the law. The ultimate goal of sanctions is not to punish, but to bring about a positive change in behavior. For information concerning the process for seeking removal from an OFAC list, including the SDN List, or to submit a request, please refer to OFAC’s guidance on Filing a Petition for Removal from an OFAC List.
+
+Click here for more information on the individuals and entities designated or otherwise blocked today.
+
+###

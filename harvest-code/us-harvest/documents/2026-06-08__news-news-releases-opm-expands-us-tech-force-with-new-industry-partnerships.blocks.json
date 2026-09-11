@@ -1,0 +1,53 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-expands-us-tech-force-with-new-industry-partnerships/",
+ "institution_id": "us-opm",
+ "title": "OPM Expands US Tech Force With New Industry Partnerships",
+ "date": "2026-06-08",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "354e37fddfea72adaf85062beb8e7fd505f901a19d1ecc69eca4db68d6eb19f3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "OPM Director Scott Kupor",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

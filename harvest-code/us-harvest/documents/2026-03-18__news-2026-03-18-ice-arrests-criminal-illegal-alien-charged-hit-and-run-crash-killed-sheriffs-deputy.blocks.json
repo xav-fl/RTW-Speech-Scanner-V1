@@ -1,0 +1,77 @@
+{
+ "url": "https://www.dhs.gov/news/2026/03/18/ice-arrests-criminal-illegal-alien-charged-hit-and-run-crash-killed-sheriffs-deputy",
+ "institution_id": "us-dhs",
+ "title": "ICE Arrests Criminal Illegal Alien Charged for Hit-and-Run Crash that Killed Sheriff's Deputy in Texas",
+ "date": "2026-03-18",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "ccd87d35fe932b6259c149fc41667b25391a3186a0b82e55a2c24bf5037de24e",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

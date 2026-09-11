@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/former-president-and-ceo-failed-oklahoma-bank-pleads-guilty-bank-fraud",
+ "institution_id": "us-justice",
+ "title": "Former President and CEO of Failed Oklahoma Bank Pleads Guilty to Bank Fraud",
+ "date": "2026-05-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "995c0b4b462437700fbe4b7994cefd5466e21826dc554c5df329b6e9fcfc7102",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

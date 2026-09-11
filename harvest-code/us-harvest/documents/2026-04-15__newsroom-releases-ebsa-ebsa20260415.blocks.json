@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260415",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor issues guidance declaring proxy advisors may be investment advice fiduciaries",
+ "date": "2026-04-15",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "261a625ffc7ffd0af156b161bcc25d4da5ff65b5aed9f3240607dd8867f1affd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

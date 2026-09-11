@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/01/nations-support-panamanian-rule-of-law/",
+ "institution_id": "us-state",
+ "title": "Nations Support Panamanian Rule of Law",
+ "date": "2026-01-31",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "5ef141349f60f77a019b1f7ae15c4e4fce33be929a1fa4a475059d77ff73034c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

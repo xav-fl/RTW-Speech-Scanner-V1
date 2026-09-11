@@ -1,0 +1,45 @@
+TITLE: How we protected the UK and space in May 2026
+URL: https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-may-2026
+DATE: 2026-06-17
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: 
+
+---
+
+May saw reduced risk to UK interests month-on-month, with lower levels of uncontrolled re-entries and space weather activity but slightly elevated collision alerts when compared with April. 
+
+All NSpOC warning and protection services were functioning throughout the period.
+
+Re-entry analysis
+
+There was a 29% decrease in the number of objects re-entering Earth’s atmosphere monitored by NSpOC in May, when compared with the previous month.
+
+Of the 48 objects that re-entered, 43 were satellites, 4 were rocket bodies and one was likely a piece of debris.
+
+June: 55, July: 52, August: 34, September: 39, October: 54, November: 43, December: 52, January: 50, February: 66, March: 72, April: 68, May: 48
+
+Collision avoidance analysis
+
+Collision risks to UK-licensed satellites were 8% higher in May than in April and sat above the 12-month rolling average.
+
+June: 1,259, July: 1,038, August: 971, September: 1,537, October: 2,402, November: 2,472, December: 2,643, January: 2,608, February: 2,117, March: 1,847, April: 1,194, May: 1,285
+
+Registered Space Objects (RSOs) analysis
+
+The in-orbit population increased in May, with a net addition of 268 objects to the US Satellite Catalogue.
+
+June: 30,859, July: 31,067, August: 31,321, September, 31,609, October: 31,902, November: 32,287, December: 32,675, January: 32,901, February: 33,139, March: 33,527, April: 33,809, May: 34,077
+
+The number of Resident Space Objects (RSOs) reported may be subject to small adjustments over time as the way objects are tracked is refined. Figures in this report reflect the most current available data and may differ slightly from those published in previous months.
+
+Fragmentation analysis
+
+There were no new fragmentation (break-up) incidents in May.
+
+Space weather analysis
+
+Space weather activity was significantly lower in May when compared with the previous month, predominantly consisting of minor geomagnetic storms.
+
+Comments
+
+The National Space Operations Centre combines and coordinates UK civil and military space domain awareness capabilities to enable operations, promote prosperity and protect UK interests in space and on Earth from space-related threats, risks and hazards.

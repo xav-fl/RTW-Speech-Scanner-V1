@@ -1,0 +1,71 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-finds-connetquot-central-school-district-violated-title-vi-complying-native-american-mascot-ban",
+ "institution_id": "us-education",
+ "title": "U.S. Department of Education Finds Connetquot Central School District Violated Title VI by Complying with Native American Mascot Ban",
+ "date": "2026-01-22",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "0a913dd08dc8c591f277150a2c1e1fe6ac1c99128b21d7baf8a1480dc5cb2f06",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Assistant Secretary for Civil Rights Kimberly Richey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

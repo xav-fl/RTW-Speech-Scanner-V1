@@ -1,0 +1,141 @@
+WASHINGTON – The U.S. Department of the Treasury today released Treasury International Capital (TIC) data for February 2026. The next release, which will report on data for March 2026, is scheduled for May 18, 2026.
+
+The sum total in February of all net foreign acquisitions of long-term securities, short-term U.S. securities, and banking flows was a net TIC inflow of $184.5 billion. Of this, net foreign private inflows were $166.5 billion, and net foreign official inflows were $18.0 billion.
+
+Foreign residents increased their holdings of long-term U.S. securities in February; their net purchases were $101.1 billion. Net purchases by private foreign investors were $147.3 billion, and net sales by foreign official institutions were $46.1 billion.
+
+U.S. residents increased their holdings of long-term foreign securities, with net purchases of $42.6 billion.
+
+After including adjustments, such as estimated foreign portfolio acquisitions of U.S. stocks through stock swaps, overall net foreign purchases of long-term securities are estimated to have been $58.6 billion in February.
+
+Foreign residents increased their holdings of U.S. Treasury bills by $91.6 billion. Foreign resident holdings of all dollar-denominated short-term U.S. securities and other custody liabilities increased by $87.4 billion.
+
+Banks’ own net dollar-denominated liabilities to foreign residents increased by $38.6 billion.
+
+Complete data are available on the Treasury website here.
+
+###
+
+About TIC Data
+
+The monthly data on holdings of long-term securities, as well as the monthly table on Major Foreign Holders of Treasury Securities, reflect foreign holdings of U.S. securities collected primarily on the basis of custodial data. These data help provide a window into foreign ownership of U.S. securities, but they cannot attribute holdings of U.S. securities with complete accuracy. For example, if a U.S. Treasury security purchased by a foreign resident is held in a custodial account in a third country, the true ownership of the security will not be reflected in the data. The custodial data will also not properly attribute U.S. Treasury securities managed by foreign private portfolio managers who invest on behalf of residents of other countries. In addition, foreign countries may hold dollars and other U.S. assets that are not captured in the TIC data. For these reasons, it is difficult to draw precise conclusions from TIC data about changes in the foreign holdings of U.S. financial assets by individual countries.
+
+TIC Release for April
+
+TIC Monthly Reports on Cross-Border Financial Flows
+
+(Billions of dollars, not seasonally adjusted)
+
+12 Months Through
+
+2024 2025 Feb-25 Feb-26 Nov Dec Jan Feb
+
+Foreigners' Acquisitions of Long-Term Securities
+
+1 Gross U.S. Sales of Domestic U.S. Securities 70193.6 89220.0 72786.7 93971.1 7796.5 9015.9 8440.8 9077.8
+
+2 Gross U.S. Purchases of Domestic U.S. Securities 69008.8 87612.9 71538.1 92355.7 7588.1 8890.7 8390.4 8976.6
+
+3 Domestic Securities, net U.S. sales (line 1 less line 2) /1 1184.9 1607.2 1248.5 1615.4 208.5 125.2 50.4 101.1
+
+4 Private, net /2 1190.3 1596.7 1355.4 1545.6 144.2 118.0 28.5 147.3
+
+5 Treasury Bonds & Notes, net 516.6 455.1 532.6 322.3 36.3 -0.1 -13.8 28.0
+
+6 Gov't Agency Bonds, net 127.2 113.3 118.5 136.1 -11.1 13.2 15.1 20.8
+
+7 Corporate Bonds, net 264.3 348.1 249.0 370.5 47.7 17.3 10.6 48.5
+
+8 Equities, net 282.2 680.2 455.3 716.7 71.2 87.7 16.6 50.0
+
+9 Official, net /3 -5.5 10.4 -106.9 69.8 64.2 7.2 21.8 -46.1
+
+10 Treasury Bonds & Notes, net -26.8 -34.0 -86.5 36.6 33.2 -21.1 50.6 -26.0
+
+11 Gov't Agency Bonds, net -44.2 -57.1 -52.7 -48.4 -2.6 -3.6 -5.2 0.3
+
+12 Corporate Bonds, net 40.2 39.2 33.4 43.6 10.3 0.5 1.3 5.9
+
+13 Equities, net 25.3 62.3 -1.0 38.0 23.3 31.4 -24.9 -26.3
+
+14 Gross U.S. Sales of Foreign Securities 18304.9 23184.4 19123.8 24762.4 2069.4 2244.7 2512.8 2435.1
+
+15 Gross U.S. Purchases of Foreign Securities 18713.7 23506.0 19524.5 25094.6 2081.5 2269.7 2560.7 2477.7
+
+16 Foreign Securities, net U.S. sales (line 14 less line 15) /4 -408.8 -321.6 -400.7 -332.1 -12.1 -25.0 -47.9 -42.6
+
+17 Foreign Bonds, net -260.3 -213.6 -254.1 -221.8 -21.4 -19.7 -44.7 -23.6
+
+18 Foreign Equities, net -148.5 -108.0 -146.6 -110.4 9.3 -5.3 -3.3 -18.9
+
+19 Net Long-Term Securities Transactions (lines 3 and 16): 776.1 1285.6 847.8 1283.2 196.4 100.2 2.4 58.6
+
+20 Other Acquisitions of Long-Term Securities, net /5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+21 Net Foreign Acquisition of Long-Term Securities
+
+(lines 19 and 20): 776.1 1285.6 847.8 1283.2 196.4 100.2 2.4 58.6
+
+22 Increase in Foreign Holdings of Dollar-Denominated Short-Term
+
+U.S. Securities and Other Custody Liabilities: /6 196.5 199.9 319.6 180.0 -3.5 12.0 17.5 87.4
+
+23 U.S. Treasury Bills 222.3 142.3 310.6 128.9 -2.9 9.5 -10.2 91.6
+
+24 Private, net 165.3 60.7 141.9 88.4 -2.3 6.6 -29.4 23.8
+
+25 Official, net 57.0 81.6 168.7 40.5 -0.6 2.9 19.2 67.8
+
+26 Other Negotiable Instruments
+
+and Selected Other Liabilities: /7 -25.8 57.6 9.0 51.1 -0.6 2.5 27.7 -4.2
+
+27 Private, net -27.8 63.7 9.0 56.1 0.2 3.7 27.3 -5.2
+
+28 Official, net 1.9 -6.2 0.0 -5.0 -0.8 -1.2 0.4 0.9
+
+29 Change in Banks' Own Net Dollar-Denominated Liabilities 244.1 -70.9 317.3 -112.0 -1.7 4.9 -58.3 38.6
+
+30 Monthly Net Dollar-Denominated Portfolio Inflows (lines 21, 22, and 29) /8 /9 1216.6 1414.5 1484.8 1351.2 191.1 117.1 -38.4 184.5
+
+of which
+
+31 Private, net 1085.4 1382.1 1290.7 1331.3 144.6 106.3 -89.8 166.5
+
+32 Official, net 131.2 32.4 194.1 19.9 46.5 10.8 51.5 18.0
+
+/1 Net U.S. sales = Net foreign purchases of U.S. securities (+).
+
+/2 Includes international and regional organizations.
+
+/3 The reported division of net U.S. sales of long-term securities between net sales to foreign official institutions and net sales
+
+to other foreign investors is subject to a "transaction bias" described in Frequently Asked Questions 7 and 10.a.4 on the TIC website.
+
+/4 Net transactions in foreign securities by U.S. residents. Foreign purchases of foreign securities = U.S. sales of foreign securities to foreigners.
+
+Thus negative entries indicate net U.S. purchases of foreign securities, or an outflow of capital from the United States; positive entries
+
+indicate net U.S. sales of foreign securities.
+
+/5 Minus estimated unrecorded principal repayments to foreigners on domestic corporate and agency asset-backed securities (zero after Jan. 2023) +
+
+estimated foreign acquisitions of U.S. equity through stock swaps - estimated U.S. acquisitions of foreign equity through stock swaps +
+
+increase in nonmarketable Treasury Bonds and Notes Issued to Official Institutions and Other Residents of Foreign Countries.
+
+/6 These are primarily data on monthly changes in banks' and broker/dealers' custody liabilities. Data on custody claims are collected
+
+quarterly and published in the TIC website.
+
+/7 "Selected Other Liabilities" are primarily the foreign liabilities of U.S. customers that are managed by U.S. banks or broker/dealers.
+
+/8 TIC data cover most components of international financial flows, but do not include data on direct investment flows, which are collected
+
+and published by the Department of Commerce's Bureau of Economic Analysis. In addition to the monthly data summarized here, the
+
+TIC collects quarterly data on some banking and nonbanking assets and liabilities. Frequently Asked Question 1 on the TIC website
+
+describes the scope of TIC data collection.
+
+9/ Series break at February 2023 for lines 1-21 and the dependent lines 30-32; see TIC press releases of March 15 and April 15, 2023.

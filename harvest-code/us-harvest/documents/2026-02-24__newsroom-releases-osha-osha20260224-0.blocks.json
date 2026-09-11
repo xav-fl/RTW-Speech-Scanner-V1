@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260224-0",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor cites 3 companies after hazardous gas exposure fatally injures workers at Colorado dairy farm",
+ "date": "2026-02-24",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "648094ad7265ef9fc25ecd339cbc9d603e6f695a2aa42b2d9f13ace368200008",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

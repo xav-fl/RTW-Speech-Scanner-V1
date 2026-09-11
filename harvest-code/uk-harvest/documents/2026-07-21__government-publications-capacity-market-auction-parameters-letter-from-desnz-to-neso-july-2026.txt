@@ -1,0 +1,13 @@
+TITLE: Capacity Market auction parameters: letter from DESNZ to NESO, July 2026
+URL: https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2026
+DATE: 2026-07-21
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+The letter from the Minister for Energy, RT Hon Michael Shanks MP, to the National Energy System Operator (NESO) sets out the parameters for the next Capacity Market auctions. This includes the volume of capacity to be secured for the T-1 auction for the 2027 to 2028 Delivery Year and the T-4 auction for the 2030 to 2031 Delivery Year and interconnector de-rating factors for the T-4 auction. 
+
+The annex provides full details of auction parameters and the interconnector de-rating factors.  
+
+In line with the annual Capacity Market process, the parameters for the two auctions may be updated following auction prequalification and will be confirmed before the auctions are held in early 2027.

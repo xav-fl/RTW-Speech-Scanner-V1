@@ -1,0 +1,51 @@
+TITLE: Tough new rules force suppliers to fix faulty smart meters
+URL: https://www.gov.uk/government/news/tough-new-rules-force-suppliers-to-fix-faulty-smart-meters
+DATE: 2026-03-10
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: Martin McCluskey MP
+
+---
+
+Energy suppliers forced to fix faulty smart meters as soon as possible or face fines and penalties 
+
+Cutting wait time to no more than 90 days so households can save money on bills 
+
+Builds on £40 compensation if consumers face issues while getting a smart meter installed  
+
+Families will save money on bills through new obligations that energy suppliers will fix their smart meter more quickly, cutting waiting times for billpayers.
+
+Under tough new standards, suppliers will have no more than 90 days to repair faulty smart meters – or else face action from the regulator, which could include fines or legal action.  
+
+While 92% of smart meters work as they should, many households have struggled with their smart meters not operating in smart mode, meaning they do not send automatic meter readings to suppliers – and have had to wait far too long to get them fixed.  
+
+The government’s changes will help put an end to that – driving up standards and cracking down on bad practice – in the latest step to reform the energy market and put billpayers first. 
+
+Consumers are also now eligible for £40 in compensation if they face issues throughout the process of installing a smart meter, such as delayed or failed installations, following reforms brought forward by Ofgem last month.  
+
+And last summer, the government published a guide to smart metering to support families to gain a better understanding of their rights by clearly setting out in one place everything households can expect from suppliers when they get a smart meter. 
+
+Minister for Energy Consumers Martin McCluskey said:  
+
+Smart meters are already helping millions of people manage their energy use and save on bills. 
+
+But we know far too many people can be waiting several months for their smart meter to be fixed – and losing money in the process. 
+
+These new rules will put an end to this, making sure meters are fixed in good time – driving up standards, protecting billpayers, and helping more consumers feel the benefits of having a smart meter.
+
+Energy suppliers will also be required to replace all smart meters that are still connected to 2G and 3G before the services are switched off by 2033, under rules introduced today – ensuring consumers continue to benefit from their smart meters as local networks move over to 4G services.  
+
+Almost 40 million households and small businesses across Britain already use smart meters to help them better understand their energy use and bring down their bills. In 2025, households with smart meters saved an estimated £700 million on their bills.  
+
+Notes to editors:
+
+Suppliers are already required to take all reasonable steps to fix smart meters that are not working as they should. The obligations being introduced today will now provide a time frame within which suppliers must provide repairs – mandating that suppliers must take all reasonable steps to ensure that meters are fixed as soon as possible, and no longer than 90 days after they are notified of the issue. 
+
+Failure to comply with these rules could result in the energy regulator putting companies on notice or enforcing fines.  
+
+The consultation on the post-2025 smart metering policy framework can be found here: Smart metering policy framework post 2025 - GOV.UK 
+
+Ofgem’s announcement on guaranteed standards of performance for smart meters can be found here: Ofgem to roll out tougher smart meter rules from February Ofgem
+
+40 million households and small businesses have a smart meter, according to DESNZ analysis: Smart meter statistics - GOV.UK
+
+DESNZ analysis also estimates that households with smart meters saved an estimated £700 million on their bills in 2025.

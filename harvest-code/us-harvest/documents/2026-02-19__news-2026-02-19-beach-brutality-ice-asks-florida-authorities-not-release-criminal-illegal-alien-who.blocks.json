@@ -1,0 +1,83 @@
+{
+ "url": "https://www.dhs.gov/news/2026/02/19/beach-brutality-ice-asks-florida-authorities-not-release-criminal-illegal-alien-who",
+ "institution_id": "us-dhs",
+ "title": "BEACH BRUTALITY: ICE Asks Florida Authorities to Not Release a Criminal Illegal Alien Who Attempted to Drown and Kill a Woman",
+ "date": "2026-02-19",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "9f9e9250cba4eb8539838c7f144a6c72fbd8b1b8f441a2e0abeebdc2428397fb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

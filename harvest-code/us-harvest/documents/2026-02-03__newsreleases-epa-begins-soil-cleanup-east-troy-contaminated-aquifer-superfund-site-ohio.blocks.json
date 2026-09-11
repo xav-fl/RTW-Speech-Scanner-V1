@@ -1,0 +1,23 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-begins-soil-cleanup-east-troy-contaminated-aquifer-superfund-site-ohio",
+ "institution_id": "us-epa",
+ "title": "EPA Begins Soil Cleanup at East Troy Contaminated Aquifer Superfund Site in Ohio",
+ "date": "2026-02-03",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "be9be22a77cc28166cdbb00999e6a39b8135e8b6ada124258bc8128aecb0a482",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

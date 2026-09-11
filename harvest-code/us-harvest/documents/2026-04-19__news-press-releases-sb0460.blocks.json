@@ -1,0 +1,29 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0460/",
+ "institution_id": "us-treasury",
+ "title": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Minister of Finance and National Economy Shaikh Salman bin Khalifa Al-Khalifa of Bahrain",
+ "date": "2026-04-19",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "6571f94db0a66364153630e3fe28e6b146ffcd6a47728e1b496c190603677204",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

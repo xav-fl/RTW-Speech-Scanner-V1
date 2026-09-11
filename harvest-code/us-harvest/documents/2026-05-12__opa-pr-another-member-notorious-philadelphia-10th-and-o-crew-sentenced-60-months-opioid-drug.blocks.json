@@ -1,0 +1,71 @@
+{
+ "url": "https://www.justice.gov/opa/pr/another-member-notorious-philadelphia-10th-and-o-crew-sentenced-60-months-opioid-drug",
+ "institution_id": "us-justice",
+ "title": "Another Member of Notorious Philadelphia ‘10th and O Crew’ Sentenced to 60 Months for Opioid Drug Conspiracy",
+ "date": "2026-05-12",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "4031bf039c1432309f84b45111feeb9000fdf43f5c6024e8685e0d8d027a85a0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

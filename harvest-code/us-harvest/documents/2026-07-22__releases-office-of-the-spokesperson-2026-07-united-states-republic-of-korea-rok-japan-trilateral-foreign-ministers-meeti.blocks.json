@@ -1,0 +1,41 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/united-states-republic-of-korea-rok-japan-trilateral-foreign-ministers-meeting/",
+ "institution_id": "us-state",
+ "title": "United States-Republic of Korea (ROK)-Japan Trilateral Foreign Ministers’ Meeting",
+ "date": "2026-07-22",
+ "date_source": "metadata",
+ "source_document_type": "Readout",
+ "text_sha256": "d5d24c9dc2313798485e2da6cb2e51d9c9c6032bef2f850a838f8572053067a3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

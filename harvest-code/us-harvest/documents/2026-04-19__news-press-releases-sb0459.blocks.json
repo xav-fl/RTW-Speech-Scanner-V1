@@ -1,0 +1,35 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0459/",
+ "institution_id": "us-treasury",
+ "title": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Deputy Prime Minister and Minister of Finance and Economy Koo Yoon-cheol of the Republic of Korea",
+ "date": "2026-04-19",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "24e8df2c6a54de48424f81dec78859f137f05ee01f84502c3053b5e5e013c483",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

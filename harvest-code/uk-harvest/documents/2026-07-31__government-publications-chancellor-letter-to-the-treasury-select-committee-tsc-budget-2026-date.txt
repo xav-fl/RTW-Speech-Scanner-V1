@@ -1,0 +1,9 @@
+TITLE: Chancellor letter to the Treasury Select Committee (TSC) - Budget 2026 date
+URL: https://www.gov.uk/government/publications/chancellor-letter-to-the-treasury-select-committee-tsc-budget-2026-date
+DATE: 2026-07-31
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+The Budget will be held on 28 October 2026.

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"rent cap formula CPI+1% plus convergence uplift for social landlords\", \"sub\": \"R3\", \"detailed\": \"R38\"}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

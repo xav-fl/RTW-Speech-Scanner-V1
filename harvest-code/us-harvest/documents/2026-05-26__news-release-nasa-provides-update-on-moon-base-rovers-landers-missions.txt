@@ -1,0 +1,85 @@
+From left to right, models of the Blue Origin Mark 1 Lunar Lander, Astrolab Crewed Lunar Rover, Lunar Outpost Pegasus rover, and the Firely Elytra Dark orbiter are seen at the conclusion of a news conference to discuss Moon Base, a long-term lunar exploration and infrastructure initiative designed to enable sustained human presence and expanded scientific and commercial activity at the lunar South Pole, Tuesday, May 26, 2026, at the Mary W. Jackson NASA Headquarters building in Washington.
+
+Credit: NASA/Aubrey Gemignani
+
+Editor’s note: Release was updated May 27, 2026, to provide additional details on the crewed lunar terrain vehicles.
+
+During a Moon Base event Tuesday at NASA’s Headquarters in Washington, the agency announced new contracts for lunar rovers for crew to drive and uncrewed cargo landers bound for the Moon. NASA leaders also shared target launch timeframes and upcoming milestones for the first Moon Base infrastructure and exploration missions to the lunar South Pole region ahead of Artemis astronaut landings.
+
+> The Moon Base will be America’s and humanity’s first outpost on another celestial world,
+
+said NASA Administrator Jared Isaacman.
+
+> Every mission, crewed and uncrewed, will be a learning opportunity as we return to the lunar surface, build the infrastructure to stay, and master the skills required to live and operate in one of the most demanding and dangerous environments imaginable. We will go for the science, for all we stand to gain from an economic and technological perspective, for the innovations that will make life better here on Earth, and to prepare for where we will inevitably go next. We are grateful for President Trump’s leadership, the bipartisan commitment from Congress, our industry and international partners, and the dedicated NASA workforce whose expertise enables us to achieve the near-impossible.
+
+NASA announced the first three Moon Base missions to begin building sustained operations:
+
+Moon Base I: Targeted for launch no earlier than fall 2026, this mission will use Blue Origin’s Blue Moon Mark 1 Endurance lander to deliver NASA payloads. Equipment will include the Stereo Cameras for Lunar Plume-Surface Studies instrument to study how thrusters interact with the Moon’s surface, and the Laser Retroreflective Array, which helps orbiting spacecraft determine a more precise location using reflected laser light. The mission will land on the Shackleton Connecting Ridge to demonstrate capabilities that reduce risk for future crewed Artemis landing missions in 2028.
+
+Moon Base II: Planned for launch later this year, this mission will deliver more than 1,100 pounds of cargo on Astrobotic’s Griffin lander, including Astrolab’s FLIP rover, to mature mobility systems that inform future lunar terrain vehicle, or LTV, operations.
+
+Moon Base III: Also targeted for this year, this mission will fly the first payload selected through NASA’s Payloads and Research Investigations on the Surface of the Moon initiative. Its anchor investigation, Lunar Vertex, will fly on Intuitive Machines’ Nova-C Trinity lunar lander and study lunar swirls, or light spots on the surface of the Moon, to improve understanding of surface evolution and material behavior under extreme conditions. The mission will include payloads from ESA (European Space Agency) and the Korea Astronomy and Space Science Institute, reflecting commercial and international participation in Moon Base activities.
+
+These missions are the first of more than a dozen missions that will be announced this year, each designed to generate operational data and reduce risk ahead of crewed Artemis surface activities.
+
+NASA has awarded Astrolab $219 million and Lunar Outpost $220 million to build and deliver the first phase of LTVs. Awarded under the Phase 1 High Achievability Mission task orders of the Lunar Terrain Vehicle Services contract, these firm-fixed-price, performance-based milestones will enable NASA to deploy crewed and uncrewed mobility systems to the lunar surface by 2028 through the agency’s CLPS (Commercial Lunar Payload Services) initiative. Early surface mobility is a foundational component of the national space policy priority to create an enduring lunar presence.
+
+Astrolab’s Crewed Lunar Vehicle, or CLV‑1, adapted from the company’s FLEX architecture, is a crewed rover designed to transport astronauts, carry supplies, and support remote operations, with a compact stowed configuration, a mass of about 2,000 pounds, and the ability to reach more than 6 mph on level terrain.
+
+Complementing this capability, Lunar Outpost’s Pegasus is a lighter, mission‑ready evolution of its Eagle rover designed explicitly to meet NASA’s updated crewed LTV requirements. Operational for up to a year and capable of manual, autonomous, or teleoperated driving at speeds more than 9 mph, Pegasus incorporates Apollo‑heritage technologies and builds on prototype and flight experience to deliver human‑centered mobility essential for establishing a sustained Moon Base.
+
+Deploying multiple LTVs early in Moon Base development will accelerate technology demonstrations, inform site planning, and reduce operational risk ahead of crewed Artemis missions, enabling NASA to characterize terrain hazards, move materials, pre-stage resources, and mature systems needed for long-duration lunar exploration.
+
+Over the next 18 months, the selected providers will finalize rover designs, conduct crewed evaluations, and qualify flight units for operational readiness, with the resulting LTVs supporting autonomous traverses, terrain preparation, scientific investigations, technology demonstrations, and astronaut transport.
+
+As Moon Base efforts advance, NASA will expand opportunities for additional vendors through on‑ramp competitions, fostering a robust, sustainable approach to lunar mobility and strengthening national priorities in space capability.
+
+To deliver these rovers to the Moon’s South Pole region, NASA awarded Blue Origin $188 million with an option period worth $280.4 million for two task orders, which includes an option period based on initial phase performance. NASA can choose to extend the task order for payload delivery.
+
+This competitive procurement, executed under the CLPS 1.0 indefinite-delivery/indefinite-quantity framework, the CX-2 task order represents a strategic investment in lunar exploration and will play a critical role in enabling mobility and infrastructure development for sustained lunar operations, marking a significant step toward establishing a permanent human presence on the Moon.
+
+Building on the successes and lessons learned from CLPS 1.0, the agency also outlined how the next generation of cargo landers under CLPS 2.0 will continue to deliver payloads to the lunar surface and lunar orbit, supporting NASA’s ambitious goals for sustained lunar operations. This next phase introduces enhanced flexibility, allowing NASA to order turn-key delivery services or start accepting delivery of CLPS hardware for integration into its own missions. The final CLPS 2.0 request for proposal was released on May 15, with responses due on Tuesday, June 30.
+
+Moonfall update
+
+The agency also shared new updates on MoonFall, a mission that will send four drones to fly short hops on the lunar surface as they survey potential landing sites for Artemis astronauts. NASA‘s Jet Propulsion Laboratory in Southern California has been developing the design and testing prototype hardware and has selected Firefly Aerospace to build the spacecraft that will transport the drones from Earth orbit to the Moon. Launch is targeted for 2028.
+
+The drones will independently land on the lunar surface and then gather high-resolution imagery of hard-to-reach terrain over the course of a single lunar day. After each drone’s final flight, its survive-the-night payload will continue to operate for several months, marking a sustained U.S. presence at the lunar South Pole.
+
+More robotic missions to come
+
+Finally, NASA stated in the coming weeks that a selection of additional CLPS 1.0 task awards, issued during the agency’s Ignition event, for Moon Base payloads and technology demonstrations, is forthcoming. In the coming months, there also will be additional opportunities to compete for CLPS 1.0 and 2.0 task orders as Phase 1 technology demonstrations are defined and planned for Moon Base missions.
+
+During the update, NASA leadership reiterated that establishing a sustained lunar presence is aligned with the agency’s broader exploration strategy, supported by increased launch cadence, expanded industry partnerships, and agencywide coordination.
+
+As part of the Golden Age of innovation and exploration, NASA will send astronauts on increasingly difficult missions to explore more of the Moon for scientific discovery, economic benefits, and to build on our foundation for the first crewed missions to Mars.
+
+For more on Moon Base, visit:
+
+https://www.nasa.gov/moonbase
+
+-end-
+
+George Alderman / James Gannon Headquarters, Washington 202-358-1600 george.a.alderman@nasa.gov / james.h.gannon@nasa.gov
+
+Share
+
+Details
+
+Last Updated
+
+May 27, 2026
+
+Location
+
+NASA Headquarters
+
+Related Terms
+
+Humans in Space
+
+Artemis
+
+Missions
+
+Moon Base

@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/mongolian-tsagaan-sar/",
+ "institution_id": "us-state",
+ "title": "Mongolian Tsagaan Sar",
+ "date": "2026-02-17",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "7551a379b04f0b0fe2c8d03bf636028a47d15c313d792ae8323b69ff30e08d45",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

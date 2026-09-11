@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/chevron-agrees-pay-1m-civil-penalty-violations-clean-air-acts-renewable-fuel-standard",
+ "institution_id": "us-justice",
+ "title": "Chevron Agrees to Pay a $1M Civil Penalty for Violations of the Clean Air Act’s Renewable Fuel Standard",
+ "date": "2026-03-11",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "60317307ff29ca27aad994e31cab4e264533bcc2d0ec72d7486396e43b8e0e1f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Principal Deputy Assistant Attorney General Adam Gustafson of ENRD",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Principal Deputy Assistant Attorney General Adam Gustafson of ENRD",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

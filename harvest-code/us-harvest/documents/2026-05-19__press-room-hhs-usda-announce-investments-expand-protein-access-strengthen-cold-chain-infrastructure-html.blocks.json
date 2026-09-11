@@ -1,0 +1,83 @@
+{
+ "url": "https://www.hhs.gov/press-room/hhs-usda-announce-investments-expand-protein-access-strengthen-cold-chain-infrastructure.html",
+ "institution_id": "us-hhs",
+ "title": "HHS, USDA Announce Investments to Expand Protein Access, Strengthen Cold Chain Infrastructure",
+ "date": "2026-05-19",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "bf0045ac303ed33cd44a03963b64f76d571efc2fa7a1bedbbe542c7c8076fbc8",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "USDA Secretary Brooke Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "USDA Secretary Brooke Rollins",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "Jeff Simmons",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "Jeff Simmons",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

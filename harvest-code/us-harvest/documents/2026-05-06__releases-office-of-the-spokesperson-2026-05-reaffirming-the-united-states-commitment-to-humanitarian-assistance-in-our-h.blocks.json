@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/reaffirming-the-united-states-commitment-to-humanitarian-assistance-in-our-hemisphere/",
+ "institution_id": "us-state",
+ "title": "Reaffirming the United States’ Commitment to Humanitarian Assistance in Our Hemisphere",
+ "date": "2026-05-06",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "054be6b7e154907adfbce0318c0c7694a63712dfb19ef7a9a35f7ff8910a510b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

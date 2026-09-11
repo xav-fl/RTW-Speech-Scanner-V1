@@ -1,0 +1,41 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/eta/eta20260120",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor extends deadline for states to meet Employment Service Job Center staffing restrictions",
+ "date": "2026-01-20",
+ "date_source": "listing",
+ "source_document_type": "ETA",
+ "text_sha256": "82df4d594d748025b75fc9be682f8500ed8fda2718ac4c32ea94e868bf1328a6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

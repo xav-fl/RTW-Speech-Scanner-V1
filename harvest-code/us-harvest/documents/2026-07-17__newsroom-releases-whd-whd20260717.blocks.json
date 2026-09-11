@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260717",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers more than $500K in back wages from San Diego deli for 6 workers",
+ "date": "2026-07-17",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "5434f86a9877dc95ed09d75e8cad092c4c6763c3d82b177639234a77e13509f3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Wage",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

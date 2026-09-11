@@ -1,0 +1,65 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0484/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Hosts Liberty University Summit on AI, Energy, and Emerging Technologies",
+ "date": "2026-05-01",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "d1ebe6e4ee5205a0d13f8504cd9b6d10313f05215d18d2a6bfdcaf7bc56cbab6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Secretary of the Treasury Scott Bessent",
+   "method": "structural"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

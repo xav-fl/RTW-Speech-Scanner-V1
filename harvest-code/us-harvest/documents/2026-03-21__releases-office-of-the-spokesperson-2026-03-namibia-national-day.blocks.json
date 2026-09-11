@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/namibia-national-day/",
+ "institution_id": "us-state",
+ "title": "Namibia National Day",
+ "date": "2026-03-21",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "af00250742ec97e604a08d771959b33755b920bdfa1d448a7b077ed2792d1eef",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.justice.gov/opa/pr/wisconsin-man-pleads-guilty-after-requesting-person-philippines-sexually-abuse-child-and",
+ "institution_id": "us-justice",
+ "title": "Wisconsin Man Pleads Guilty After Requesting Person in Philippines Sexually Abuse a Child and Record the Abuse",
+ "date": "2026-01-30",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c8527e2dc29675b700f16e6f91d92ab2be3ce82a8236ebea4a32d71670a32954",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

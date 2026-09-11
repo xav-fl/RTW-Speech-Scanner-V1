@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260415",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor amplifies maritime protections for Puerto Rico, US Virgin Islands following increased workplace safety concerns",
+ "date": "2026-04-15",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "c0a5354eceaefcdcf64b4b4b659a2c86343c989c077bcc5be66a8dc27d03d287",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

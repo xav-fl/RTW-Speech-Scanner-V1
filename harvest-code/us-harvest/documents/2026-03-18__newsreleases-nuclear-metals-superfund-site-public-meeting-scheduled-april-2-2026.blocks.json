@@ -1,0 +1,47 @@
+{
+ "url": "https://www.epa.gov/newsreleases/nuclear-metals-superfund-site-public-meeting-scheduled-april-2-2026",
+ "institution_id": "us-epa",
+ "title": "Nuclear Metals Superfund Site Public Meeting Scheduled for April 2, 2026",
+ "date": "2026-03-18",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "2ac4b5454d087eb9a8c6c1888bd6265680ecf7dc615cec143b7d93fb40c5cb16",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

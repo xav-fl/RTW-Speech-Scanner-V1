@@ -1,0 +1,41 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-lee-zeldin-wraps-two-day-trip-utah-advancing-trump-administration",
+ "institution_id": "us-epa",
+ "title": "Administrator Lee Zeldin Wraps Up Two-Day Trip to Utah Advancing Trump Administration Priorities",
+ "date": "2026-05-27",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "2521164599603eb6957b09fb8e0fcc6c93f53eb52327dfa1a4de791de2fdccdb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

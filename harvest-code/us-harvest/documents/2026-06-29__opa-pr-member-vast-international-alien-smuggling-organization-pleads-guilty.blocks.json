@@ -1,0 +1,59 @@
+{
+ "url": "https://www.justice.gov/opa/pr/member-vast-international-alien-smuggling-organization-pleads-guilty",
+ "institution_id": "us-justice",
+ "title": "Member of Vast International Alien Smuggling Organization Pleads Guilty",
+ "date": "2026-06-29",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "40c640aac0764f9b3ae46053c8bdaafae102d5a7509b920acd35c767420bf3bb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

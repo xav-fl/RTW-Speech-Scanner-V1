@@ -1,0 +1,5 @@
+{
+  "text": "Looking at this quotation, the specific mechanism is: a formal government oversight notification (\"best value notice\") issued by a central department to a local authority, requiring the authority to demonstrate improvement and engage with the department for assurance purposes.\n\nThis is about intergovernmental relations — specifically central government oversight and accountability of a local authority regarding \"best value\" (a statutory duty in UK local government law requiring efficient and effective service delivery). The substance is the regulatory/oversight relationship between tiers of government.\n\nThe primary classification is H7 (State and Local Government • Intergovernmental Relations), as this is squarely about a central department exercising oversight over a local authority.\n\nThere's also a K2 (Regulation and Business Law) dimension, as this is a formal legal/regulatory instrument (a statutory notice under best value legislation), but the intergovernmental dimension is more substantive here.\n\n{\"primary\": \"H\", \"secondary\": [\"K\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

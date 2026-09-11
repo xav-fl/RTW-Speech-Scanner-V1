@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/a-statement-on-u-s-venezuela-relations/",
+ "institution_id": "us-state",
+ "title": "A Statement on U.S.-Venezuela Relations",
+ "date": "2026-03-05",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "28cd89b4e09672360d66d4e00330edf0d932fba9de6707cb886aa3552aae9d8c",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

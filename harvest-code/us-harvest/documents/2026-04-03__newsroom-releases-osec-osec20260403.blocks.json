@@ -1,0 +1,35 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osec/osec20260403",
+ "institution_id": "us-labor",
+ "title": "Secretary Chavez-DeRemer statement on March jobs report",
+ "date": "2026-04-03",
+ "date_source": "listing",
+ "source_document_type": "Office of the Secretary",
+ "text_sha256": "c0d93c2dbf6b760df0b81a9fb81c8f908196542b2172763ab6cb2a737b2cd0ab",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "url": "https://www.opm.gov/news/news-releases/opm-hosts-tech-force-roundtable/",
+ "institution_id": "us-opm",
+ "title": "OPM Hosts Tech Force Roundtable at the White House",
+ "date": "2026-02-10",
+ "date_source": "listing",
+ "source_document_type": "News Release",
+ "text_sha256": "b465e24fa4b7c465aa43b22673bebf43dec74c5b32cedf98c68b0aba715b5804",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

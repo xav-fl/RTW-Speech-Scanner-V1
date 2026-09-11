@@ -1,0 +1,5 @@
+{
+  "text": "The quotation draws a direct line from affordable childcare → women's labor force participation and career choice → economic empowerment. The core mechanism is: childcare availability as a constraint on maternal labor supply and women's economic autonomy.\n\nPrimary mechanism: women's labor supply decisions, career participation, childcare as a labor market constraint → **J** (Labor and Demographic Economics, specifically J2 demand/supply of labor, J7 labor discrimination/gender gaps).\n\nSecondary: The \"economic empowerment of women\" framing also touches on gender-based economic outcomes and household economics → **D1** (Household Behavior and Family Economics) is a plausible secondary, but the dominant framing is labor market participation.\n\nAlso, childcare as a policy instrument enabling women's workforce participation could touch **I3** (Welfare, Well-Being) but J is stronger.\n\n{\"primary\": \"J\", \"secondary\": [\"D\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

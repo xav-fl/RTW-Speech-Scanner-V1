@@ -1,0 +1,5 @@
+{
+  "text": "The quotation names four specific policy instruments/areas:\n1. Free school meals — in-kind food benefit for children (education/welfare)\n2. Free breakfast clubs — in-kind food benefit in schools (education/welfare)\n3. Ending the two-child limit — a benefit eligibility rule change (welfare/poverty)\n4. Fighting child poverty — explicit poverty reduction goal\n\nThe core substance is child poverty reduction through welfare transfers and in-kind benefits. The primary dimension is welfare, well-being, and poverty (I3). The school meals/breakfast clubs also have an education dimension (I2), making I a natural home for both. Since both fall under I, a secondary I code isn't needed — I covers the full subtree.\n\nThe benefit eligibility rule (two-child limit) is a social transfer/public expenditure matter, which could touch H5 (national government expenditures), but the substance is poverty and child welfare, not the fiscal mechanics.\n\n{\"primary\": \"I\", \"secondary\": []}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

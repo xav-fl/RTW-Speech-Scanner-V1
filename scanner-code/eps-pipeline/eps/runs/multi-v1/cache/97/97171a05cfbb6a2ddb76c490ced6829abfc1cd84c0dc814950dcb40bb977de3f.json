@@ -1,0 +1,5 @@
+{
+  "text": "The quotation refers to a government grant funding breakfast clubs in schools for the 2026–2027 academic year. The specific mechanism is a public expenditure grant directed at school-based nutrition/breakfast programs for children.\n\nPrimary dimension: This is education policy (school breakfast clubs funded by government grant) → I2 (Education and Research Institutions).\n\nSecondary dimension: The instrument is a government grant/expenditure → H5 (National Government Expenditures and Related Policies) is substantively relevant as the funding mechanism itself.\n\n{\"primary\": \"I\", \"secondary\": [\"H\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

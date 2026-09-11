@@ -1,10 +1,11 @@
 from __future__ import annotations
 
+import csv
 from datetime import date
 
 import pytest
 
-from eps.assemble import observation_row
+from eps.assemble import RELEASE_COLUMNS, _topics_at, observation_row, write_dataset
 from eps.jel import JELTaxonomy
 from eps.models import Document, JELAssignment, Observation
 from eps.normalise import (
@@ -246,10 +247,54 @@ def test_full_validation_and_row_assembly(tax):
 
     row = observation_row(doc, validated[0], speaker)
     for col in ("agency", "speaker", "document_title", "document_type",
-                "date", "url", "direct_quote", "economics_topics"):
+                "date", "url", "direct_quote", "economics_topics",
+                "jel_major_categories", "jel_subcategories"):
         assert row[col] != "", f"{col} is empty"
     assert row["direct_quote"] in doc.text
     assert row["date"] == "2026-03-01"
+
+
+def test_release_header_is_the_agreed_contract(tmp_path, tax):
+    """The release header is what the supervisor reads. Pin it on disk.
+
+    `observation_row` producing a key is not the same as `write_dataset` writing
+    the column: the writer has its own field list, and drops anything missing
+    from it without complaint (`extrasaction="ignore"`).
+    """
+    sub = next(c for c in tax.codes if c.level == 2 and c.parent == "J")
+    obs = Observation(doc_id="d", unit_ids=["u1"],
+                      primary=tax.fill_titles(
+                          JELAssignment(major_code="J", sub_code=sub.code)))
+    doc = build_doc(SPEECH_HTML, "speech")
+    release, _ = write_dataset([observation_row(doc, obs, "A Minister")], tmp_path)
+
+    with open(release, newline="", encoding="utf-8") as fh:
+        reader = csv.DictReader(fh)
+        header, row = reader.fieldnames, next(reader)
+
+    assert header == [
+        "agency", "speaker", "document_title", "document_type", "date", "url",
+        "direct_quote", "economics_topics",
+        "jel_major_categories", "jel_subcategories",
+    ]
+    assert header == RELEASE_COLUMNS
+    assert row["jel_major_categories"] == f"J — {tax.title('J')}"
+    assert row["jel_subcategories"] == f"{sub.code} — {sub.title}"
+
+
+def test_rolled_up_jel_columns_name_the_parents_once(tax):
+    """The rolled-up columns carry code and title, and say a shared parent once."""
+    subs = [c for c in tax.codes if c.level == 2 and c.parent == "J"][:2]
+    primary = tax.fill_titles(JELAssignment(major_code="J", sub_code=subs[0].code))
+    second = tax.fill_titles(JELAssignment(major_code="J", sub_code=subs[1].code))
+    obs = Observation(doc_id="d", unit_ids=["u1"], primary=primary,
+                      secondary=[second])
+
+    majors = _topics_at(obs, "major")
+    assert majors == f"J — {tax.title('J')}"
+
+    sub_labels = _topics_at(obs, "sub").split("; ")
+    assert sub_labels == [f"{c.code} — {c.title}" for c in subs]
 
 
 def test_ineligible_speaker_blocks_everything(tax):

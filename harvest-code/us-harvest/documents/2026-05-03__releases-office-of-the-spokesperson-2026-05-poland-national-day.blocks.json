@@ -1,0 +1,29 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/poland-national-day/",
+ "institution_id": "us-state",
+ "title": "Poland National Day",
+ "date": "2026-05-03",
+ "date_source": "metadata",
+ "source_document_type": "Press Statement",
+ "text_sha256": "9d0df1e3ce39215948fa0a31a5270e93a84f119fe6c944ab66070f019ca137ed",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

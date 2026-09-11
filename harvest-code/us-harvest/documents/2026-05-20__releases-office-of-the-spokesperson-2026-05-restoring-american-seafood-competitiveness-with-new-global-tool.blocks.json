@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/restoring-american-seafood-competitiveness-with-new-global-tool/",
+ "institution_id": "us-state",
+ "title": "Restoring American Seafood Competitiveness with New Global Tool",
+ "date": "2026-05-20",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "a848ffdd39c61951ef0ae2e64474943dc5a766f4b73d0e3f5161ab0562048e14",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

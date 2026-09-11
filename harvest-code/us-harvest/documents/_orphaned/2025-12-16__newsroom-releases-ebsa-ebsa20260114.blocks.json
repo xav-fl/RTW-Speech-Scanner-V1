@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260114",
+ "institution_id": "us-labor",
+ "title": "Court orders engineering firm, owner to restore $45K in retirement assets to company’s 401(k) plan, distribute funds to former employees",
+ "date": "2025-12-16",
+ "date_source": "body",
+ "source_document_type": "EBSA",
+ "text_sha256": "4b00bbf4bdbb619d3656898733fec3867f6242c9de9c62578bd25a65d205a5f3",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Employee Benefits Security Administration Regional Director Joe Rivers",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Employee Benefits Security Administration Regional Director Joe Rivers",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

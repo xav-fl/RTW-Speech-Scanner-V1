@@ -1,0 +1,5 @@
+{
+  "text": "I need to identify the specific mechanism in this quotation:\n- \"integrate services at the local level\" — service coordination/decentralization\n- \"pool budgets\" — fiscal pooling at local level\n- \"reprioritised based on local priorities\" — local fiscal autonomy\n- \"give communities resources and support to play a bigger role in decisions\" — community participation in governance\n\nThe core substance is about **fiscal decentralization** (pooling budgets, local reprioritization) and **intergovernmental relations** (local vs. central priorities, devolving decision-making to communities). This maps to **H7 — State and Local Government • Intergovernmental Relations**.\n\nThe secondary dimension is about collective decision-making at the community level — communities taking decisions that affect them — which maps to **D7 — Analysis of Collective Decision-Making**.\n\nThere's also a regional governance angle (R5 — Regional Government Analysis), but H7 captures the intergovernmental fiscal and governance structure more precisely.\n\n{\"primary\": \"H\", \"secondary\": [\"D\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

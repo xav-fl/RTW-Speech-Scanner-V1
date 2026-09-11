@@ -1,0 +1,5 @@
+{
+  "text": "The specific mechanism here is a **financial bonus to recruit and retain early years teachers in underserved areas** — a staffing incentive targeting a particular segment of the education workforce.\n\nTwo dimensions compete:\n1. **I2 (Education and Research Institutions)** — the policy area is early years education, and the instrument is designed to improve teacher supply in that sector.\n2. **J3 (Wages, Compensation, and Labor Costs)** — the instrument itself is a wage supplement (bonus) targeting recruitment and retention of a specific occupational group.\n\nPer the rules, when a passage names both a policy area and a policy instrument, classify by the area unless the instrument itself is the substance of the claim. Here, the bonus *is* the substance — the statement is specifically about a compensation mechanism to address teacher supply shortages. However, the ultimate goal is improving early years education provision, making I2 the primary classification with J3 as a strong secondary.\n\n{\"primary\": \"I\", \"secondary\": [\"J\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

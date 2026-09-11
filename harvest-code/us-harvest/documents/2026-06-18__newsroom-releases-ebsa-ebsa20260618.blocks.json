@@ -1,0 +1,53 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260618",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor issues guidance clarifying Trump Accounts are not generally employee pension benefits plans",
+ "date": "2026-06-18",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "2c046b4c43348ca167a27821f07c457cc287ca50df38e219ee13255536cae24a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith E. Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Acting Secretary of Labor Keith E. Sonderling",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

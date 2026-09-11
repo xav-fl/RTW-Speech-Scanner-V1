@@ -1,0 +1,39 @@
+DISH Wireless LLC (DISH), located in Englewood, Colorado, has agreed to pay $17,280,240 to resolve allegations that it violated the False Claims Act (FCA), common law, and the Communications Act of 1934 relating to claims to the Federal Communications Commission’s (FCC’s) Emergency Broadband Benefits Program (EBBP) and its successor program, the Affordable Connectivity Program (ACP).
+
+> The Justice Department will take action where companies and individuals knowingly violate the rules of federal programs and receive federal funds to which they are not entitled,
+
+said Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division.
+
+> This settlement demonstrates our continuing commitment to ensure integrity in the FCC’s programs.
+
+> DISH and its employees fraudulently signed up ineligible applicants to receive federal monies,
+
+said U.S. Attorney Jeanine F. Pirro for the District of Columbia.
+
+> By doing so DISH received payments which they were not entitled. This is a shameful act on the part of a large corporation that is rightfully required to pay $17 million.
+
+> DISH continued seeking FCC program funds for months after its executives learned about its agents’ enrollment fraud and after an FCC OIG advisory warning. FCC OIG is committed to holding accountable bad actors who misuse taxpayers funds,
+
+said FCC Inspector General Fara Damelin.
+
+> We appreciate the dedication and outstanding work of our investigative team, our FCC colleagues, and our law enforcement partners, who together strengthen the integrity of FCC programs and ensure participating providers serve intended recipients.
+
+The EBBP, created by Congress during the COVID-19 Pandemic pursuant to the Consolidated Appropriations Act, provided $3.2 billion in 2021 to assist low-income consumers with discounted broadband services and devices. The follow-on ACP provided an additional $14 billion for the same services between 2022 and 2024. For both programs, consumers could be eligible for discounted broadband services if they met certain income thresholds or participated in one of a number of specified federal, state, or Tribal assistance programs, including but not limited to Medicaid, SNAP (i.e., Food Stamp Program), Supplemental Security Income (SSI), and the National School Lunch Program.
+
+DISH, a wholly owned subsidiary of EchoStar Corporation, provides wireless telecommunication services to consumers in the United States through Boost Mobile, a division of DISH. Between May 2021 and February 2022, DISH enrolled more than 130,000 subscribers into EBBP and ACP based on their participation in the free school breakfast and lunch program in which all students who attend a high-poverty school become eligible for these services, known as Community Eligibility Provision (CEP) schools. For each of these subscribers, DISH received up to $50 per month during EBBP and $30 per month under ACP.
+
+The settlement resolves allegations that DISH received monthly federal payments from EBBP and ACP that it was not entitled to receive because certain CEP subscribers enrolled by DISH agents were ineligible.
+
+The United States alleges DISH engaged in the following FCA covered conduct: (1) DISH submitted claims to the EBBP and ACP from May 12, 2021 through Feb. 28, 2022 for discounted broadband services and devices for subscribers who did not qualify for the programs; (2) DISH failed to implement effective policies and procedures to ensure the eligibility of those subscribers; (3) DISH failed to adequately screen, train, or supervise third-party sales agents by failing to ensure each third-party agent was properly registered in the Universal Service Administrative Company’s Representative Accountability Database; (4) DISH internal sales employees in Texas, Florida, New York, and West Virginia trained and directed third-party sales agents to submit inaccurate customer applications with incorrect school information; and (5) these third-party sales agents submitted false or incomplete information to the FCC’s National Verifier which was used to determine participant eligibility for the EBBP and ACP. As a result, DISH enrolled more than 16,000 households on the basis of purported school attendance at a CEP school more than 25 miles from the household address without any verified school attendance, enrolled 130 households on the basis of a purported dependent over the age of 21 attending a CEP school, and for some CEP schools, DISH enrolled more households into EBBP than the actual student enrollment at the CEP school. Moreover, after learning of problems with the company’s CEP enrollments, DISH corporate executives failed to take corrective action from September 2021 through April 2022.
+
+The United States further alleges that DISH engaged in the following common law covered conduct: (1) submitting claims for more than 66,000 subscribers who did not identify a school-aged student as part of their applications; and (2) enrolling more than 2,400 subscribers using duplicate beneficiaries as the basis for their eligibility.
+
+The Civil Settlement also resolves an administrative order by the Wireline Competition Bureau of the FCC against DISH for similar allegations. See In the Matter of Request for Review of the Decision of the Universal Service Administrator by DISH Wireless LLC, et al., WC Docket Nos. 21-450, 20-445, Order, DA 25-72 (released Jan. 17, 2025).
+
+This year the Administration launched the Task Force to Eliminate Fraud and the National Fraud Enforcement Division to enhance the Administration’s war on fraud, waste, and abuse in federal programs. When unscrupulous actors exploit these programs for their own financial gain, they defraud the government, harm the people these programs are designed to aid and protect, and undermine American businesses that play by the rules. The Civil Division’s FCA enforcement plays a critical role in combatting such fraudulent schemes, recovering billions of dollars for the American taxpayers, and holding wrongdoers accountable. FCA matters will continue to be on the forefront of the battle against fraud, and the Civil Division’s FCA work will support and advance the mission of the Task Force to Eliminate Fraud and the National Fraud Enforcement Division.
+
+The civil False Claims Act resolution obtained in this matter was the result of a coordinated effort between the Justice Department’s Civil Division, Commercial Litigation Branch, Fraud Section, and the U.S. Attorney’s Office for the District of Columbia, with assistance from the FCC’s Office of the Inspector General and the FCC’s Office of General Counsel.
+
+The civil False Claims Act investigation was handled by Trial Attorney Jennifer Chorpening, Assistant U.S. Attorney Stephanie Johnson for the District of Columbia, and former Assistant U.S. Attorney Christopher Hair for the District of Columbia.
+
+The claims resolved by the settlement are allegations only and there has been no determination of civil liability.

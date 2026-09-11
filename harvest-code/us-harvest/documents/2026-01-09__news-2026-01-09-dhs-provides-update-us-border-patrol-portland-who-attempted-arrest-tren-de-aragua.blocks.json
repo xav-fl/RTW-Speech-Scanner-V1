@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dhs.gov/news/2026/01/09/dhs-provides-update-us-border-patrol-portland-who-attempted-arrest-tren-de-aragua",
+ "institution_id": "us-dhs",
+ "title": "DHS Provides Update on U.S. Border Patrol in Portland Who Attempted to Arrest Tren de Aragua Gang Associate and Suspected Member",
+ "date": "2026-01-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "6c2eefbd98ba96d3c3f902af7ed9a6753aca4a70eee43d939e3f218bb97f6fcf",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Secretary Tricia McLaughlin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

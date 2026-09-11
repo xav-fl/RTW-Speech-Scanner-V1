@@ -1,0 +1,35 @@
+{
+ "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/u-s-republic-of-korea-public-diplomacy-dialogue-held-in-seoul/",
+ "institution_id": "us-state",
+ "title": "U.S.-Republic of Korea Public Diplomacy Dialogue Held in Seoul",
+ "date": "2026-04-01",
+ "date_source": "metadata",
+ "source_document_type": "Media Note",
+ "text_sha256": "87a45ae4bd265579e95165dfbbd87ede47b6450ada620917af14a544dfea1188",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

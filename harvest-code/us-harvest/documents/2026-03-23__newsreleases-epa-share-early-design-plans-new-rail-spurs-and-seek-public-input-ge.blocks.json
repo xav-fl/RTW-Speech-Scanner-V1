@@ -1,0 +1,59 @@
+{
+ "url": "https://www.epa.gov/newsreleases/epa-share-early-design-plans-new-rail-spurs-and-seek-public-input-ge",
+ "institution_id": "us-epa",
+ "title": "EPA to Share Early Design Plans for New Rail Spurs and Seek Public Input for GE-Pittsfield/Housatonic River Site",
+ "date": "2026-03-23",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "6c52962be76f6e3b928efa42f38d036371576e328d12393960bccde846fb16f6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

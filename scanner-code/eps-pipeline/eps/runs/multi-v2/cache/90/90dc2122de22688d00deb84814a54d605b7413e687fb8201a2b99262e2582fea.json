@@ -1,0 +1,5 @@
+{
+  "text": "The quotation describes a tiered support system for children — universal baseline, targeted Individual Support Plans, and specialist provision — which is a structure for delivering educational (and related welfare) services differentiated by need level.\n\nThe specific mechanism is a **layered eligibility and service-delivery framework for children's educational support**, which maps to:\n\n- **I2 — Education and Research Institutions** (primary: tiered support system for children in educational settings)\n- **I3 — Welfare, Well-Being, and Poverty** (secondary: targeted support for children with greater needs, individual plans, specialist provision — welfare/well-being dimension)\n\n{\"primary\": \"I2\", \"secondary\": [\"I3\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "The quotation is specifically about fiscal/political centralization — the concentration of power and decision-making at the national level rather than subnational levels, and the economic damage attributed to that structure. The core mechanism is intergovernmental relations and the structure/scope of government.\n\n- **H7** (State and Local Government • Intergovernmental Relations) fits best — it directly addresses the vertical distribution of governmental authority and fiscal power.\n- **H1** (Structure and Scope of Government) is also relevant as a secondary dimension, since the claim is about the overall architecture of government power.\n\n{\"primary\": \"H\", \"secondary\": [\"R\"]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

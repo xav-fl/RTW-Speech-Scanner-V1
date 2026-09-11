@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/civil-rights-division-obtains-settlement-company-discouraged-us-workers-applying-jobs",
+ "institution_id": "us-justice",
+ "title": "Civil Rights Division Obtains Settlement with Company that Discouraged U.S. Workers from Applying for Jobs",
+ "date": "2026-04-07",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "033453e7abc894ee8801860c0d8d74bf37fdabe388250801c855e9fb313f58ab",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

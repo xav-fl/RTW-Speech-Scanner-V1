@@ -1,0 +1,53 @@
+{
+ "url": "https://www.ed.gov/about/news/press-release/victories-american-taxpayers-exposing-covid-era-fraud-waste-and-abuse-federal-education-programs",
+ "institution_id": "us-education",
+ "title": "Victories for American Taxpayers: Exposing COVID-Era Fraud, Waste, and Abuse in Federal Education Programs",
+ "date": "2026-04-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "292475f2c9e3e2975c88968c732a80dff90dfe82f638fbc51c697c66f991e0e9",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "url": "https://www.justice.gov/opa/pr/south-carolina-man-pleads-guilty-federal-civil-rights-crime-racially-motivated-shooting",
+ "institution_id": "us-justice",
+ "title": "South Carolina Man Pleads Guilty to Federal Civil Rights Crime for Racially Motivated Shooting",
+ "date": "2026-03-19",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "91fdc10f42a6d5d76ada64df8db3daf5626f4118b36e929613578512aa57af7a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Harmeet K. Dhillon",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

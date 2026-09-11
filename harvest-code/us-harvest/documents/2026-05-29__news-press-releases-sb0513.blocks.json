@@ -1,0 +1,59 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0513/",
+ "institution_id": "us-treasury",
+ "title": "Joint Statement by the U.S. Department of the Treasury and the State Bank of Viet Nam",
+ "date": "2026-05-29",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "8f0f724e625080583ea88fdeb78dc3113b27870f97204d143f30568c7f366973",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

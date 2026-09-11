@@ -1,0 +1,9 @@
+TITLE: DAO 03/26 Spending in a Crisis
+URL: https://www.gov.uk/government/publications/dao-0326-spending-in-a-crisis
+DATE: 2026-05-20
+GOVUK_TYPE: correspondence
+LINKED_SPEAKERS: 
+
+---
+
+Accounting officers are advised to note the publication of Spending in a Crisis, a new piece of government guidance providing an essential overview of spending considerations for all those involved in central government crisis response, as well as more detailed information aimed at those in departmental strategic finance teams and the Treasury itself. This guidance should be factored into Departmental finance systems and crisis management processes.

@@ -1,0 +1,29 @@
+{
+ "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-issues-statement-on-anthropic-preliminary-injunction-04032026",
+ "institution_id": "us-gsa",
+ "title": "GSA Issues Statement on Anthropic Preliminary Injunction",
+ "date": "2026-04-03",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "467ab3d96bb6568a5b3ccefc915ab1f5c40a9af87aa171a916ae752d37c6e4ee",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

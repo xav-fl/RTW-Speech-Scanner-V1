@@ -1,0 +1,44 @@
+TITLE: AI Champions appointed to help City safely seize AI opportunities
+URL: https://www.gov.uk/government/news/ai-champions-appointed-to-help-city-safely-seize-ai-opportunities
+DATE: 2026-01-20
+GOVUK_TYPE: news_story
+LINKED_SPEAKERS: The Rt Hon Lucy Rigby KC MP
+
+---
+
+New industry champions to turn rapid AI adoption into safe, scalable growth.  
+
+Around three-quarters of UK financial firms already use AI, with the technology expected to boost the economy, cut costs for firms and transform services for customers. 
+
+Champions will focus on helping firms seize opportunities at pace while protecting consumers and financial stability, reporting directly to the Economic Secretary. 
+
+AI is already widely used across financial services, with around three-quarters of UK firms now deploying AI, up sharply from just over half in recent years. Independent analysis suggests AI could add tens of billions of pounds to the financial and professional services sector by 2030, as well as transforming services for consumers, underlining both the pace of adoption and the scale of the opportunity ahead.   
+
+The new Champions, Harriet Rees from Starling Bank and Dr Rohit Dhawan from Lloyds Banking Group, will help turn this momentum into practical delivery through their extensive experience of working in this field. They will report directly to the Economic Secretary Lucy Rigby - helping firms seize the huge potential of AI in financial services, and exploring ways to accelerate safe adoption at scale, identify where innovation can move faster, and tackle barriers holding firms back.  
+
+Their focus will be on ensuring firms can seize the opportunities AI presents with confidence — improving customer outcomes, boosting productivity and competitiveness, and maintaining trust, resilience and strong consumer protection — while reinforcing the UK’s position as a global hub for financial services, technology and investment.  
+
+Economic Secretary to the Treasury Lucy Rigby KC MP said: 
+
+Harriet and Rohit bring deep, real-world experience of deploying AI safely at scale, and they will help turn rapid adoption into practical delivery – unlocking growth while keeping our financial system secure and resilient. 
+
+Harriet Rees, Group Chief Information Officer – Starling Bank, said: 
+
+Being appointed AI Champion for Financial Services is an exciting opportunity as the sector faces a pivotal moment to become a world leader in AI. I look forward to working with HM Treasury and the industry to create a world-class ecosystem in which innovation exceeds customers’ expectations and the transformative power of AI unlocks growth. In turn, this will reinforce the UK’s status as the world’s most technologically advanced financial centre.
+
+Dr Rohit Dhawan, Head of AI and Advanced Analytics – Lloyds Banking Group, said:
+
+It is a privilege to have been asked by HM Treasury to take on the role of AI Champion for financial services. AI has the potential to reshape the industry and at Lloyds Banking Group we are already seeing how thoughtful and responsible adoption of AI can transform customer experience and the way a large organisation operates. I look forward to working with HM Treasury, regulators and industry partners to accelerate the trusted and effective use of AI across financial services and support the UK’s ambition to remain a global leader in financial innovation. 
+
+Harriet Rees is Group Chief Information Officer at Starling, where she leads data, engineering, information security and product development. Having joined Starling in 2018 to found its Data Science practice, she now defines and delivers the Group’s technology strategy, including oversight of information and technology assets and ensuring operational resilience at scale. Harriet also plays a leading role in shaping the future of AI in financial services as Co-Chair of the Bank of England’s AI Taskforce and a member of the AI Consortium.  
+
+Dr Rohit Dhawan is Group Director and Head of AI & Advanced Analytics at Lloyds Banking Group, a role he has held since 2024. He is responsible for shaping the Group’s strategy and roadmap for AI, machine learning and advanced analytics. He leads multidisciplinary teams across data science, behavioural science, machine learning engineering and AI ethics, focused on transforming customer experience and operational processes. He is also a member of the AI Consortium. 
+
+The appointments take effect from 20 January 2026. The roles are unpaid, direct ministerial appointments reporting to the Economic Secretary to the Treasury.  
+
+Further information
+
+Established processes for the declaration and management of interests have been followed in respect of this appointment.  
+
+The Terms of Reference for this appointment can be found here: 
+ AI Champions – Financial Services Terms of Reference (PDF, 75.7 KB, 2 pages)

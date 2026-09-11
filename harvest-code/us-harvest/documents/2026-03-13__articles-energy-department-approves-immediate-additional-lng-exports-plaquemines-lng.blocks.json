@@ -1,0 +1,71 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-approves-immediate-additional-lng-exports-plaquemines-lng",
+ "institution_id": "us-energy",
+ "title": "Energy Department Approves Immediate Additional LNG Exports from Plaquemines LNG",
+ "date": "2026-03-13",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "a8ee7a2b40051e8cb62484feb2c68c5b62b6c6065c891a3e36568bfbdc582418",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "Secretary Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Kyle Haustveit",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "Kyle Haustveit",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}
