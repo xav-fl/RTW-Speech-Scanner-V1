@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9c30c9a3d2.P010.S001\", \"D9c30c9a3d2.P010.S002\"], \"anchor\": null, \"reason\": \"Does investing in water infrastructure modernization stabilise agricultural output and reduce food prices for consumers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

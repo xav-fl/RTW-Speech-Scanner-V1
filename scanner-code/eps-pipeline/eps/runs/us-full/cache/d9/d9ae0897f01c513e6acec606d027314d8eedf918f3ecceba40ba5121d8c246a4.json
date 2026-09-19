@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D11f366c0f5.P003.S001\", \"D11f366c0f5.P003.S002\"], \"anchor\": null, \"reason\": \"Does expanding coordinated WBC networks in underserved states increase women's business formation, growth, and job creation?\"},{\"unit_ids\": [\"D11f366c0f5.P005.S001\", \"D11f366c0f5.P005.S002\"], \"anchor\": null, \"reason\": \"Does restructuring WBC grants around return-on-investment criteria improve outcomes for women entrepreneurs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

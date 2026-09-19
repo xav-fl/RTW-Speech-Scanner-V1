@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"free trade policy causing deindustrialization and job loss\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"F16\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

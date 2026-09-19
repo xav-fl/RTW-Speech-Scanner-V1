@@ -1,0 +1,41 @@
+{
+  "documents_screened": 42,
+  "documents_with_observations": 28,
+  "observations_kept": 130,
+  "observations_rejected": 4,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 33,
+    "officeholder_table": 9
+  },
+  "reject_reasons": {
+    "JEL classification failed validation: no defensible economic object: classifier assigned no JEL code": 2,
+    "passage is not attributable to the speaker": 1,
+    "anchor phrase does not appear exactly in the units": 1
+  },
+  "by_institution": {
+    "Home Office": 24,
+    "HM Treasury": 19,
+    "Ministry of Housing, Communities and Local Government": 13,
+    "Department for Education": 12,
+    "Department for Science, Innovation and Technology": 12,
+    "Ministry of Justice": 10,
+    "Department for Transport": 9,
+    "Ministry of Defence": 6,
+    "Department for Work and Pensions": 6,
+    "Department for Business and Trade": 5,
+    "Foreign, Commonwealth and Development Office": 5,
+    "Department of Health and Social Care": 3,
+    "Department for Energy Security and Net Zero": 2,
+    "Attorney General's Office": 1,
+    "Department for Environment, Food and Rural Affairs": 1,
+    "Cabinet Office": 1,
+    "Scotland Office": 1
+  },
+  "files": {
+    "dataset": "runs\\check9-uk\\out\\dataset.csv",
+    "internal": "runs\\check9-uk\\out\\observations_internal.csv",
+    "screening_log": "runs\\check9-uk\\out\\screening_log.csv",
+    "rejected": "runs\\check9-uk\\out\\rejected.csv"
+  }
+}

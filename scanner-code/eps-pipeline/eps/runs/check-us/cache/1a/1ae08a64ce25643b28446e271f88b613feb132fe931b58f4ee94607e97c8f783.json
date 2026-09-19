@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1da71c6e81.P002.S001\"], \"anchor\": null, \"reason\": \"Does reallocating US foreign assistance toward Asia and the Western Hemisphere improve strategic outcomes or aid effectiveness?\"},{\"unit_ids\": [\"D1da71c6e81.P004.S001\"], \"anchor\": \"the goal of moving these programs, with the exception of the Food for Peace program, which has been moved over to the Agriculture Department because we think their – given their links to America's agricultural sector, they're in a better position to deliver on that.\", \"reason\": \"Does transferring Food for Peace to the Agriculture Department improve food aid delivery efficiency and outcomes?\"},{\"unit_ids\": [\"D1da71c6e81.P005.S001\", \"D1da71c6e81.P005.S002\"], \"anchor\": null, \"reason\": \"Do foreign assistance programmes designed to end upon recipient self-sufficiency produce better long-run development outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"national competitive position in space sector\", \"codes\": [{\"code\": \"F52\", \"strength\": 2}, {\"code\": \"L52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

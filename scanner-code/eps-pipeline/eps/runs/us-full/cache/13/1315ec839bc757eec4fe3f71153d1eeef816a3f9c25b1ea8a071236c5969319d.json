@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"fraud detection in federal student aid disbursement\", \"codes\": [{\"code\": \"I22\", \"strength\": 3}, {\"code\": \"I28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

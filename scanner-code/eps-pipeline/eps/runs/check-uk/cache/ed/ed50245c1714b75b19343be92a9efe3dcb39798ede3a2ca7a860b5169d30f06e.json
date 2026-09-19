@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da46cea8519.P030.S001\", \"Da46cea8519.P030.S002\"], \"anchor\": null, \"reason\": \"What is the impact of UK bilateral aid and sexual-violence support funding on humanitarian outcomes in Sudan and Chad?\"}, {\"unit_ids\": [\"Da46cea8519.P037.S001\", \"Da46cea8519.P037.S002\"], \"anchor\": null, \"reason\": \"Do targeted sanctions against military commanders reduce atrocities or alter conflict behaviour?\"}, {\"unit_ids\": [\"Da46cea8519.P038.S001\", \"Da46cea8519.P038.S002\"], \"anchor\": null, \"reason\": \"Does ICC investigation support and multilateral designation of perpetrators deter future atrocity crimes?\"}, {\"unit_ids\": [\"Da46cea8519.P036.S001\"], \"anchor\": null, \"reason\": \"Does enforcing and extending arms embargoes reduce conflict intensity and civilian harm in civil wars?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

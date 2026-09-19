@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9302c643c8.P002.S001\"], \"anchor\": null, \"reason\": \"Does the Assistance for Specialty Crop Farmers program effectively offset market disruptions and income losses for specialty crop producers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

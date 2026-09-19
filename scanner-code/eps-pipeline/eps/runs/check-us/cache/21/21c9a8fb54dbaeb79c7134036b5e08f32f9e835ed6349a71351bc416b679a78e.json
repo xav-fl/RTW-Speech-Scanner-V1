@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"systemic cyber risk oversight and third-party vendor risk management for regulated financial firms\", \"codes\": [{\"code\": \"G28\", \"strength\": 3}, {\"code\": \"G18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

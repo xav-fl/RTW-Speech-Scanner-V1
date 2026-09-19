@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"enforcement of bilateral air transport agreements to stop anti-competitive practices\", \"codes\": [{\"code\": \"L93\", \"strength\": 3}, {\"code\": \"F13\", \"strength\": 2}, {\"code\": \"L41\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

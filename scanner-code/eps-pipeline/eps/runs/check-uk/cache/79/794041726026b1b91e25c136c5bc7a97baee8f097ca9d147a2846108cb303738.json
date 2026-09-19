@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2df8c9ca67.P086.S001\", \"D2df8c9ca67.P087.S001\"], \"anchor\": null, \"reason\": \"Does integrating schools policy with child poverty, early years, social care, and post-16 strategies improve children's outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"foreign funding disclosure portal for higher education institutions\", \"codes\": [{\"code\": \"I23\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

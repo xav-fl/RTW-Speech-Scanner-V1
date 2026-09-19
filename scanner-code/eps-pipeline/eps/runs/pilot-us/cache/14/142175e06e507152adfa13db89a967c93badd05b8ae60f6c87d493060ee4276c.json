@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"transport infrastructure plan balancing economic growth and air quality regulation\", \"codes\": [{\"code\": \"R42\", \"strength\": 3}, {\"code\": \"Q53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

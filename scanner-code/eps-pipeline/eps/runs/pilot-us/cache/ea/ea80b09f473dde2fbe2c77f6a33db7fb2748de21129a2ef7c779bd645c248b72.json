@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"economic sanctions and political pressure to induce regime reform\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

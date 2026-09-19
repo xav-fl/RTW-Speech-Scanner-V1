@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dfeac1d7d1e.P010.S001\"], \"anchor\": null, \"reason\": \"Does federal funding for state apprenticeship strategies in shipbuilding, AI, and manufacturing increase employer participation and apprentice numbers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

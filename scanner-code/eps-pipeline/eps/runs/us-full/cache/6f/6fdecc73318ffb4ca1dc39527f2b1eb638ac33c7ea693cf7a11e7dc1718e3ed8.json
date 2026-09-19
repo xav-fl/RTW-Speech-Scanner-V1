@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd8bcf64f9f.P004.S001\"], \"anchor\": null, \"reason\": \"Does restricting HUD-funded housing to citizens and eligible residents affect housing access and costs for low-income households?\"},{\"unit_ids\": [\"Dd8bcf64f9f.P006.S001\"], \"anchor\": null, \"reason\": \"What are the effects of requiring eligibility verification for all residents in HUD-funded housing on housing stability and programme costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

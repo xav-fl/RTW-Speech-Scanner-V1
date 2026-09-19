@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"cost-sharing for maritime security provision among beneficiary nations\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"H87\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

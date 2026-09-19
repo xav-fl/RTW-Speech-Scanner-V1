@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbba703beeb.P008.S001\", \"Dbba703beeb.P010.S001\", \"Dbba703beeb.P010.S002\"], \"anchor\": null, \"reason\": \"Does intensified maritime counter-drug interdiction (Operation Pacific Viper) reduce cocaine supply and drug-related harms in the US?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

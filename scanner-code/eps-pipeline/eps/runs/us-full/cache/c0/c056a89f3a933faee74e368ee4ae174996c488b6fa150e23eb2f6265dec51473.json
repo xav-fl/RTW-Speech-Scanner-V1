@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"private-funded power plant construction to reduce energy costs and support AI infrastructure\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"L94\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

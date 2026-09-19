@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc23267c455.P004.S002\"], \"anchor\": null, \"reason\": \"Does emergency grid reliability orders allowing fossil fuel plants to exceed operating limits reduce energy costs or improve reliability for consumers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

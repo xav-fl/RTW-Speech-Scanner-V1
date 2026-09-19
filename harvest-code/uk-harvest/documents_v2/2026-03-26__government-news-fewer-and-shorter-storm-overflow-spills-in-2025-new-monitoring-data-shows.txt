@@ -1,0 +1,59 @@
+There were sharp falls in the number and duration of storm overflow spills in 2025 compared to 2024, new Environment Agency data shows. Spill numbers fell by 35% on the previous year, with total spill duration also decreasing significantly – with many water companies seeing reductions of between 40% and 70%.
+
+Access to more data than ever before, and increased monitoring and inspections, allow for a clearer understanding of water company performance. Every single storm overflow in England now has an event duration monitor fitted, providing the most complete national picture to date.
+
+That transparency matters with water companies being held to account. EDM analysis has already supported £10.2 billion of investment in storm overflow upgrades, contributing to the wider £104 billion being spent on water infrastructure over the next five years.
+
+In 2025, total monitored spill duration fell by 48% compared with the previous year, alongside a substantial fall in average spills per overflow.  There were 291,492 spill events in 2025, a 35% reduction on 2024. This means there was an average of 20.5 spills per overflow, compared to 31.8 in the previous year.
+
+Much of this improvement reflects unusually dry conditions in 2025 following a particularly wet 2024. Even so, the data is helping the Environment Agency target action where it is most needed and ensure water companies continue to improve. It is clear that we need to see sustained maintenance and investment in water industry drainage networks to bring lasting improvements.
+
+The Environment Agency has strengthened its workforce, data capabilities and powers, enabling more effective regulation and better protection of rivers, lakes and coastal waters. It will continue to take action where companies breach the law.
+
+Alan Lovell, Chair of the Environment Agency, said:
+
+> Publishing this data each year ensures the public can see clearly what is happening across England’s storm overflows.
+
+> While these numbers are heavily influenced by rainfall levels in 2025, substantial reductions in spill duration and events are a clear win for people and the environment.
+
+> It is vital that improvements to the sewage system are sustained over the long term, and the Environment Agency will continue to hold water companies to account where performance falls short.
+
+Water Minister Emma Hardy said:
+
+> It is good to see that storm overflow spills are down since the previous year, but there is still an unacceptable amount of sewage entering our waterways and a long way to go in cleaning up our rivers, lakes and seas.
+
+> That’s why this government is taking action. We’ve banned unfair bonuses, ringfenced a record level of investment and introduced landmark legislation to hold water companies to account – including jail time for water company executives who obstruct investigations.
+
+> Our long term reforms will mean there is a new, single regulator focused on preventing problems before they occur. We are ending the era of water company self-monitoring, introducing new MOT-style checks on water company assets and bringing in ‘no notice’ inspections to rebuild customer trust and protect the environment.
+
+Alongside the dataset, the Environment Agency has updated its EDM Data Portal, an online map allowing the public to explore storm overflow monitoring data across England. The portal provides open access to monitoring information and supports greater transparency about water company performance.
+
+The Environment Agency puts permits in place for storm overflows to ensure they are only used legally during times of rainfall and snowmelt. Where the EA finds evidence of illegal storm overflow discharges, it can take a range of enforcement actions against water companies.
+
+This includes criminal prosecutions for the most serious offences, supported by strengthened enforcement powers which will be introduced through the Environment Act 2021 and the Water (Special Measures) Act.
+
+This comes as the Environment Agency has assembled its largest ever team of investigators, enforcement officers and lawyers tackling water pollution and are on track to surpass its record number of inspections, backed by the largest budget for water enforcement and compliance ever.
+
+Water enforcement last year resulted in over £6.9 million in enforcement undertakings being paid by water companies after breaking environmental law and redirected into cleaning up our waterways.
+
+Notes to editors
+
+The Event Duration Monitoring (EDM) Storm Overflow Annual Return contains monitoring data from all water and sewerage companies operating in England.
+
+The dataset is published on Defra’s data services platform (environment.data.gov.uk).
+
+Publishing EDM data annually is a statutory requirement under the Environment Act 2021, requiring publication by 1 April each year.
+
+Event Duration Monitors (EDMs) record when storm overflows discharge and how long each discharge lasts.
+
+Storm overflow activity is strongly linked to rainfall levels, and 2025 was significantly drier than 2024 across large parts of England.
+
+The EDM Data Portal provides a map-based view of storm overflow monitoring data across England.
+
+The 2025 dataset shows:
+
+48% reduction in total spill duration compared with 2024
+
+35% reduction in total monitored spill events
+
+20% reduction in average duration per spill event

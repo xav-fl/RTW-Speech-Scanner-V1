@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"renationalisation of railway industry\", \"codes\": [{\"code\": \"L92\", \"strength\": 3}, {\"code\": \"L33\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

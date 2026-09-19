@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"visa restrictions targeting officials who compromised telecommunications infrastructure and regional security\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"L96\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

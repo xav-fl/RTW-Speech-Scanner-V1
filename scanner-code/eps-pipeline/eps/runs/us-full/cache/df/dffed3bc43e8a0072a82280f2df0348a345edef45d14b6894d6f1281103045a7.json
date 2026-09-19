@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De3fa556333.P005.S001\"], \"anchor\": null, \"reason\": \"Does reducing removal protections for senior career officials improve federal workforce performance and accountability?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

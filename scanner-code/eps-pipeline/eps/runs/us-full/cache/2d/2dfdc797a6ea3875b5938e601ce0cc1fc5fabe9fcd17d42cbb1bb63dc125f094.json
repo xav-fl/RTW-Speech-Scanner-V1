@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"targeted sanctions for human rights violations against political prisoners\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

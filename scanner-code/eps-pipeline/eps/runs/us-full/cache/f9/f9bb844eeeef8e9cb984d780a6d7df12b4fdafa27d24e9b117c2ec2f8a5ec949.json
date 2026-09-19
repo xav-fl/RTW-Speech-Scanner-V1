@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd7fd70676b.P006.S001\", \"Dd7fd70676b.P006.S002\", \"Dd7fd70676b.P006.S003\"], \"anchor\": null, \"reason\": \"Do appliance energy conservation standards raise consumer costs and restrict product choice?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

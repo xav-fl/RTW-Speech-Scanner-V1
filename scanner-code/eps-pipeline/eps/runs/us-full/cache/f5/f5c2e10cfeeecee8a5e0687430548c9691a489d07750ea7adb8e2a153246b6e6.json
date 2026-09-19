@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"anti-discrimination enforcement in housing markets\", \"codes\": [{\"code\": \"R38\", \"strength\": 3}, {\"code\": \"K35\", \"strength\": 1}]}\n\nWait, let me reconsider. The quotation is about religious and national origin discrimination in housing — this is fair housing enforcement.\n\n{\"mechanism\": \"religious and national origin discrimination enforcement in housing\", \"codes\": [{\"code\": \"R38\", \"strength\": 3}, {\"code\": \"J15\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

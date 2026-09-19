@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public investment in FDA laboratory and regulatory infrastructure for food safety\", \"codes\": [{\"code\": \"H54\", \"strength\": 3}, {\"code\": \"I18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

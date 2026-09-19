@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6942aadbe0.P004.S001\"], \"anchor\": null, \"reason\": \"Does mobilising private SBIC investment into space-sector small businesses strengthen the commercial space supply chain?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

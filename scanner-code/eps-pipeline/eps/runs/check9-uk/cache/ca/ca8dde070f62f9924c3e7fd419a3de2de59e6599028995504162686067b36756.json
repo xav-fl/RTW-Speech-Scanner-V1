@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2139c0ced0.P011.S002\"], \"anchor\": \"By rolling out flu vaccinations to homeless people, we are delivering on our promise to tackle health inequalities and make sure support reaches those who need it most.\", \"reason\": \"Does extending free flu vaccination to homeless people reduce hospitalisations and improve health outcomes for this group?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

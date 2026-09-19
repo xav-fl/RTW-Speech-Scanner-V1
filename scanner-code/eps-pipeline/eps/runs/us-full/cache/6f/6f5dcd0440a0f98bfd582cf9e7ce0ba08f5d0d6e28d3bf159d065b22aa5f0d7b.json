@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Def06a1ad54.P002.S001\", \"Def06a1ad54.P002.S002\"], \"anchor\": null, \"reason\": \"Does devolving minor-source permitting decisions to state/local agencies speed up permitting and reduce compliance costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

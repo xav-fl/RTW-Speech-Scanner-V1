@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal grants funding tribal workforce development and career pathway programs\", \"codes\": [{\"code\": \"J15\", \"strength\": 3}, {\"code\": \"J24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

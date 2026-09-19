@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6e1ea40192.P005.S003\"], \"anchor\": \"permitting reform that makes it easier to go into this industry on the critical minerals we have here domestically\", \"reason\": \"Does streamlining mining permits increase domestic critical minerals production and reduce supply-chain concentration?\"},{\"unit_ids\": [\"D6e1ea40192.P005.S004\"], \"anchor\": null, \"reason\": \"Does a strategic stockpile of critical minerals stabilise prices and reduce supply-chain vulnerability?\"},{\"unit_ids\": [\"D6e1ea40192.P008.S001\", \"D6e1ea40192.P008.S002\"], \"anchor\": null, \"reason\": \"Does a price-floor mechanism for critical minerals make investment economically viable and diversify global supply chains?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

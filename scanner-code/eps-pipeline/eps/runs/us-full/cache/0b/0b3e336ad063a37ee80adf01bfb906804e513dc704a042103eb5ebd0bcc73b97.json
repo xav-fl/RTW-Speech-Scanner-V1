@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D89941ab7a0.P004.S001\", \"D89941ab7a0.P004.S002\"], \"anchor\": null, \"reason\": \"Does terminating long-standing TPS designations affect labour market outcomes and welfare of affected migrants?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

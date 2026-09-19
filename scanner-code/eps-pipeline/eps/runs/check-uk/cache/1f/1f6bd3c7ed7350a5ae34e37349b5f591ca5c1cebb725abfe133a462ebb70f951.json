@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory restriction on AI chatbot functionality\", \"codes\": [{\"code\": \"L86\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

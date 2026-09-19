@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"offshore wind subsidies withdrawal and energy investment reallocation\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"Q42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

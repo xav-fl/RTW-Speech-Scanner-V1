@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5fabd4165a.P018.S003\", \"D5fabd4165a.P018.S004\"], \"anchor\": null, \"reason\": \"Do resolved impediments to fighter jet purchases affect allied military procurement and defence capability?\"}, {\"unit_ids\": [\"D5fabd4165a.P018.S005\"], \"anchor\": null, \"reason\": \"Does a US-Slovakia nuclear energy cooperation agreement affect energy security and investment outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

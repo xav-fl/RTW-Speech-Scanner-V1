@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D259efc619d.P003.S004\"], \"anchor\": null, \"reason\": \"Does supplying US LNG to Greece reduce energy costs and improve energy security in the region?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

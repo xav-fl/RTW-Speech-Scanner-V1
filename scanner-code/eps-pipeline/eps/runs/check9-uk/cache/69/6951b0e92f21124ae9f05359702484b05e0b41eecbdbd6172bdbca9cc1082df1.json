@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public spending commitments for transport modernisation and local transport governance\", \"codes\": [{\"code\": \"R48\", \"strength\": 3}, {\"code\": \"H54\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

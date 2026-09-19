@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D56a7a39b54.P005.S001\", \"D56a7a39b54.P005.S002\"], \"anchor\": null, \"reason\": \"Does prioritising domestic procurement and enforcing Buy American rules benefit American small manufacturers and workers?\"},{\"unit_ids\": [\"D56a7a39b54.P007.S001\", \"D56a7a39b54.P007.S002\"], \"anchor\": null, \"reason\": \"Does removing fraudulent 'Made in America' vendors from federal procurement platforms improve market outcomes for domestic manufacturers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

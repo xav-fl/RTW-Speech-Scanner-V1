@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D10929150b6.P003.S002\"], \"anchor\": null, \"reason\": \"Does cutting waste, fraud, and abuse in Medicaid improve programme efficiency and health outcomes?\"},{\"unit_ids\": [\"D10929150b6.P003.S002\"], \"anchor\": \"securing Most Favored Nation agreements that lower prescription drug costs for Americans\", \"reason\": \"Do Most Favored Nation drug pricing agreements reduce prescription drug costs for Americans?\"},{\"unit_ids\": [\"D10929150b6.P006.S001\"], \"anchor\": null, \"reason\": \"Does resetting federal dietary guidelines change population nutrition behaviour and health outcomes?\"},{\"unit_ids\": [\"D10929150b6.P017.S001\"], \"anchor\": null, \"reason\": \"What are the effects of a $50 billion federal rural health investment on rural health outcomes and access?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

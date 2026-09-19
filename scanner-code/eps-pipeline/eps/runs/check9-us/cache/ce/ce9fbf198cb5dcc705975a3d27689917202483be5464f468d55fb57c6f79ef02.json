@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"work requirements and time limits for housing rental assistance eligibility\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"R38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

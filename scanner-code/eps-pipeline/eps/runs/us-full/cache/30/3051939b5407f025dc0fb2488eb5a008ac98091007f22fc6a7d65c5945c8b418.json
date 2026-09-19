@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df901420b26.P005.S001\"], \"anchor\": \"By expanding access and sharpening competition in low Earth orbit, these missions are building the capabilities NASA will rely on as we move outward to the Moon, Mars, and beyond.\", \"reason\": \"Does using private astronaut missions to expand competition in low Earth orbit reduce NASA's costs and build needed capabilities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dad21d0d209.P005.S001\"], \"anchor\": null, \"reason\": \"Does switching IHS dental care to mercury-free materials improve health outcomes and access for tribal communities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

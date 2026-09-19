@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"international water debt repayment obligation\", \"codes\": [{\"code\": \"F51\", \"strength\": 2}, {\"code\": \"Q25\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

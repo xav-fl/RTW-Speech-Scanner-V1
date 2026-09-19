@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"tribal access to national crime databases for law enforcement\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"J15\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

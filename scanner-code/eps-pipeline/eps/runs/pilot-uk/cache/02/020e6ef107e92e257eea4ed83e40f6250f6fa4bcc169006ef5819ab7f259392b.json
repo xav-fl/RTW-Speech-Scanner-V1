@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"legal restrictions on knife purchase, possession, and mandatory youth referral\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"J13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

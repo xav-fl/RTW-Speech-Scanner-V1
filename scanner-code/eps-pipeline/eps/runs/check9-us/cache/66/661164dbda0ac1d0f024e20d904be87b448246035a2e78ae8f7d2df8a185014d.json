@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De6179c0578.P002.S002\"], \"anchor\": \"improving air connectivity through our recently concluded Open Skies agreement\", \"reason\": \"Does an Open Skies agreement between the US and Samoa increase trade, tourism, and economic growth?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

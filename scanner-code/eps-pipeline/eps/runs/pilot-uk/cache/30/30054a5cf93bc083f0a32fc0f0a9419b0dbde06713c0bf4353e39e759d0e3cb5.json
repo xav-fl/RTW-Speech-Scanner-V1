@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public expenditure on youth welfare programs\", \"codes\": [{\"code\": \"H53\", \"strength\": 3}, {\"code\": \"J13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

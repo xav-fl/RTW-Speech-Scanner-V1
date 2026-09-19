@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D53b7868092.P002.S001\"], \"anchor\": null, \"reason\": \"Does state-by-state suspension of suspected fraudulent PPP/EIDL borrowers deter future pandemic relief fraud and recover taxpayer funds?\"},{\"unit_ids\": [\"D53b7868092.P004.S001\"], \"anchor\": null, \"reason\": \"How effective are borrower suspensions and Treasury referrals at recovering funds from suspected pandemic loan fraud?\"},{\"unit_ids\": [\"D53b7868092.P004.S002\"], \"anchor\": null, \"reason\": \"What tools most cost-effectively protect taxpayer dollars in government small business lending programmes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

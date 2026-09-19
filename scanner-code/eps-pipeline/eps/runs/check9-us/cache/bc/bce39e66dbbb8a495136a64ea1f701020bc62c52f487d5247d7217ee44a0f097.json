@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government seed contribution to individual savings accounts for newborns\", \"codes\": [{\"code\": \"D14\", \"strength\": 3}, {\"code\": \"H24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

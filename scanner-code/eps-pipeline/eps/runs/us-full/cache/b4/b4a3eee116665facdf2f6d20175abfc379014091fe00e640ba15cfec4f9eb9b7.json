@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1e6738f421.P011.S001\"], \"anchor\": null, \"reason\": \"Does listing microplastics and pharmaceuticals on the Contaminant Candidate List lead to effective future regulation and health protection?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

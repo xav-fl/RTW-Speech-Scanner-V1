@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd4c6d1c591.P003.S001\"], \"anchor\": null, \"reason\": \"Does sustained enforcement targeting transnational criminal organisations and undocumented immigrants reduce violent crime rates?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

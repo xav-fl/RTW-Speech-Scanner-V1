@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"school choice expansion and decentralization of K-12 education governance\", \"codes\": [{\"code\": \"I28\", \"strength\": 3}, {\"code\": \"I22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

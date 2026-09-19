@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5d3272e6ed.P006.S001\"], \"anchor\": null, \"reason\": \"Does raising the offshore revenue-sharing cap to states increase energy production or coastal community investment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

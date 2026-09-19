@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"fiscal decentralization: block grants, capital funds, and local tax powers for regional mayors\", \"codes\": [{\"code\": \"H77\", \"strength\": 3}, {\"code\": \"H71\", \"strength\": 2}, {\"code\": \"H72\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

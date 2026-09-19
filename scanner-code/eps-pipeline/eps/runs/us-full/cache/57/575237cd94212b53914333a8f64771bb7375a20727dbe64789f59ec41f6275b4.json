@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De02c401d9d.P005.S001\", \"De02c401d9d.P005.S002\"], \"anchor\": null, \"reason\": \"Does consolidating federal education funds under state authority improve student academic outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

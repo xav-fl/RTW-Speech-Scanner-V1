@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc507851bca.P027.S001\"], \"anchor\": \"we will begin a targeted vaccination programme for students living in halls of residence at the University of Kent in Canterbury\", \"reason\": \"Commitment to targeted public vaccination programme for specific cohort\"}, {\"unit_ids\": [\"Dc507851bca.P028.S003\"], \"anchor\": \"I will be asking them to re-examine eligibility for meningitis vaccines\", \"reason\": \"Policy commitment to review vaccine eligibility criteria\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

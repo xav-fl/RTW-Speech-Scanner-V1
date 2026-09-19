@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbe445dfa00.P002.S001\"], \"anchor\": null, \"reason\": \"Does repealing the 179B guidance that penalises areas for foreign-sourced pollution affect local economic activity and air quality outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

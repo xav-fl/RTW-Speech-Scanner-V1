@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"pandemic relief loan eligibility and repayment enforcement\", \"codes\": [{\"code\": \"H81\", \"strength\": 3}, {\"code\": \"I18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

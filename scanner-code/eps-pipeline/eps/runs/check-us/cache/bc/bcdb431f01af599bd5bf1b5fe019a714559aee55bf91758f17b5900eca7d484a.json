@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dceb01ab93b.P006.S002\"], \"anchor\": null, \"reason\": \"Does investing in expanded FDA laboratory infrastructure improve food safety outcomes and reduce costs of foodborne illness outbreaks?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

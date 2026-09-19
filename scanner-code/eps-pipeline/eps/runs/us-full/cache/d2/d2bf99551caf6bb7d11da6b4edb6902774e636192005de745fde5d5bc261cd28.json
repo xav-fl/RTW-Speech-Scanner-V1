@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government-funded research program measuring microplastic exposure and health effects\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"Q53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

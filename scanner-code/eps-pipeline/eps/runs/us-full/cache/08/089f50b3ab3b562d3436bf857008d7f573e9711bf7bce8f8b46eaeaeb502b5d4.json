@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [\n  {\n    \"unit_ids\": [\"D75fbc05c09.P010.S001\", \"D75fbc05c09.P010.S002\"],\n    \"anchor\": null,\n    \"reason\": \"Does tech-company-funded power generation reduce electricity prices for residential customers in the PJM region?\"\n  }\n]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"cost-of-living measures: energy bill subsidies, prescription charge freeze, rail fare freeze, fiscal buffers\", \"codes\": [{\"code\": \"E31\", \"strength\": 3}, {\"code\": \"H53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

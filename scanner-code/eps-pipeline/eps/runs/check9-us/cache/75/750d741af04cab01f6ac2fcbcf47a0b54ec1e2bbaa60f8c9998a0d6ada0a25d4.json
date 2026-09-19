@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"emergency order to ensure electricity reliability and prevent blackouts\", \"codes\": [{\"code\": \"L94\", \"strength\": 3}, {\"code\": \"Q48\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

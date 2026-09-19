@@ -37,6 +37,7 @@ Usage (from the harvest folder, alongside extraction_queue.csv):
 
 import argparse
 import csv
+import hashlib
 import json
 import re
 import sys
@@ -279,11 +280,22 @@ def main():
     outdir.mkdir(parents=True, exist_ok=True)
     manifest_out = outdir / "rewrite_log.csv"
     written = failed = 0
+    # Filenames are truncated slugs, so two different documents can land on
+    # the same name. Two did: FCDO's UK-France and UK-Spain joint statements on
+    # wildfires. The original harvest wrote both to one file, keeping whichever
+    # came last and pointing both rows at it. The second claimant of a name now
+    # gets a suffix derived from its URL, and `new_file` in the log is the only
+    # correct record of where each document's text is.
+    claimed: dict[str, str] = {}
     with open(manifest_out, "w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
         w.writerow(["url", "new_file", "quote_blocks", "speakers", "status"])
         for i, r in enumerate(rows, 1):
             name = Path((r.get("text_file") or f"doc{i}.txt")).name
+            owner = claimed.setdefault(name, r["url"])
+            if owner != r["url"]:
+                digest = hashlib.sha1(r["url"].encode("utf-8")).hexdigest()[:8]
+                name = f"{Path(name).stem}__{digest}.txt"
             dest = outdir / name
             try:
                 doc = fetch_content(r["url"])

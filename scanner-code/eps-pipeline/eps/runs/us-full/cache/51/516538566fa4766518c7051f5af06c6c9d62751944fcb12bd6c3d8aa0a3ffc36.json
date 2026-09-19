@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbabd541f60.P005.S002\"], \"anchor\": null, \"reason\": \"Does aggressive denaturalization enforcement deter naturalization fraud and affect immigrant behaviour or integration outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

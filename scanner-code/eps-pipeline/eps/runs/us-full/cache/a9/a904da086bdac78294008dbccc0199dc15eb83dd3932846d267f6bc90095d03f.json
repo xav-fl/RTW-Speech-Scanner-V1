@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbb03b10e55.P003.S001\"], \"anchor\": null, \"reason\": \"Does divesting underutilised federal properties reduce government costs and improve local economic outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

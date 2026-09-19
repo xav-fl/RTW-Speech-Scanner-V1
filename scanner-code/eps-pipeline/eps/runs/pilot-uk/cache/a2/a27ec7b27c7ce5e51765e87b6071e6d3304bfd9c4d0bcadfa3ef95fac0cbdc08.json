@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"ban on exploitative zero-hours employment contracts\", \"codes\": [{\"code\": \"J41\", \"strength\": 3}, {\"code\": \"J83\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

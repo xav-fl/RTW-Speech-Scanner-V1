@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9611838fb7.P003.S001\", \"D9611838fb7.P003.S002\", \"D9611838fb7.P003.S003\"], \"anchor\": null, \"reason\": \"Does recommitting to eliminating mammalian animal testing by 2035 accelerate development of cost-effective chemical safety alternatives?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

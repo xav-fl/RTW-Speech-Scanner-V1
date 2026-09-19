@@ -139,6 +139,20 @@ def test_anchor_must_match_exactly():
     assert reason == RejectReason.ANCHOR_NOT_FOUND
 
 
+def test_retyped_anchor_typography_is_forgiven_but_quote_stays_verbatim():
+    doc = build_doc(
+        "<p>You – they’re not going to rebuild that industry without "
+        "private investment from American companies.</p>", "speech")
+    ids = [doc.units[0].unit_id]
+    quote, reason = reconstruct_quote(
+        doc, ids,
+        anchor="They're not going to rebuild that industry without private investment")
+    assert reason == ""
+    assert quote == ("they’re not going to rebuild that industry without "
+                     "private investment")
+    assert quote in doc.text
+
+
 def test_short_quotes_rejected():
     doc = build_doc("<p>We act. And then a much longer following sentence here.</p>", "speech")
     _, reason = reconstruct_quote(doc, [doc.units[0].unit_id])

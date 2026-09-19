@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df38c44a37c.P005.S001\"], \"anchor\": \"The Product of USA label gives consumers confidence that the meat, poultry, and egg products they purchase come from animals born, raised, harvested, and processed right here in the United States.\", \"reason\": \"Does a voluntary country-of-origin label for meat and poultry change consumer purchasing behaviour or producer market outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

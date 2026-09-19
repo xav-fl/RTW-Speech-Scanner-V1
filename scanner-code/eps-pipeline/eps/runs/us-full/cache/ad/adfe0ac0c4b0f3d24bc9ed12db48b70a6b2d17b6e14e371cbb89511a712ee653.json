@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"small business access to capital, deregulation, and workforce readiness\", \"codes\": [{\"code\": \"L53\", \"strength\": 3}, {\"code\": \"G18\", \"strength\": 2}, {\"code\": \"J24\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

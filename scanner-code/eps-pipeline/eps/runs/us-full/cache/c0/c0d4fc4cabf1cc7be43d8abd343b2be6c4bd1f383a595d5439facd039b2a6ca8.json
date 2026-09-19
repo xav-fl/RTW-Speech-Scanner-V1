@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal nutrition rules for school meal programs\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"I21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

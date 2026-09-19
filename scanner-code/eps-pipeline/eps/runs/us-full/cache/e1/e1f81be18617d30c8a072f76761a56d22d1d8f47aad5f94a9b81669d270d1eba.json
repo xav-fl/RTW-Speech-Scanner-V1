@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"competitive contracting for space science laboratory management\", \"codes\": [{\"code\": \"H57\", \"strength\": 3}, {\"code\": \"O38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

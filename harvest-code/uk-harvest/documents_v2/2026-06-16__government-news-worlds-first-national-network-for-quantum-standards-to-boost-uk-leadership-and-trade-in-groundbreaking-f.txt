@@ -1,0 +1,41 @@
+£10m network launched to shape the rules of the road for quantum – backing the UK’s global leadership.
+
+New National Quantum Standards Network will help turn British research into secure, reliable products people can trust and businesses can sell worldwide.
+
+Coordinated standards to accelerate breakthroughs in healthcare, transport and finance – unlocking jobs, investment and growth.
+
+A new national network to coordinate standards for the quantum technologies that will revolutionise everything from medicine to banking and transport will strengthen the ability of British companies to grow at home and sell around the world.
+
+Announced by Science Minister Lord Vallance today, the National Physical Laboratory (NPL) will establish the National Quantum Standards Network (QSN) to bring together common standards for game-changing Quantum technology.
+
+Supported by £10 million from DSIT, it will bring together government, industry, and academia to engage with UK companies – ensuring their products are developed to internationally recognised standards.
+
+The QSN will oversee everything from the linewidths of the ultra-narrow lasers needed to control qubits inside a quantum computer, to the size, weight and energy-efficiency requirements that will ensure one quantum sensor’s reading can be trusted against another’s.
+
+It will bring together government, industry, academia and standards bodies, including the British Standards Institution and UKRI’s National Quantum Computing Centre.
+
+Standards already underpin services we rely on, like using our mobile phones abroad and sending data securely. Doing the same with Quantum will help speed up adoption of the technology, and could help with everyday tasks like supporting sensitive transactions for banks all over the world.
+
+Science Minister Lord Vallance said:
+
+> Quantum could bring benefits to our society as significant as what we are seeing with AI, with the potential to deliver new medicines, better public services, and protect our finances.
+
+> The UK’s quantum sector is already a global leader. With the National Quantum Standards Network we will accelerate its growth, meaning more British jobs and investment into our economy  from all over the world.
+
+As key decisions are taken in international quantum standards-setting bodies over the coming years, the UK will now lead the way globally with its own dedicated network. The QSN will give British companies a voice in standards over the long term in a sector which has the potential to add £212 billion to the UK economy and add 100,000 jobs.
+
+The government’s £2 billion investment into quantum announced earlier this year – building on existing strengths of leading companies and world-class talent – is already keeping the UK at the forefront of quantum innovation. This includes £1.2 billion towards the procurement of large-scale quantum computers, so companies can have confidence bringing technologies from the lab to market.
+
+Dr Peter Thompson, CBE, CEO at NPL said:
+
+> We are delighted to be leading the establishment of the Quantum Standards Network which marks a major step in ensuring the UK can lead the global conversation on quantum. Standards are the backbone of responsible, scalable innovation.
+
+> By coordinating expertise across the UK quantum ecosystem, the network will accelerate technology adoption, boost UK competitiveness and support the safe and ethical development of quantum technologies.”
+
+The UK is a big quantum player. In a recent vote of confidence, Vescent – a leading manufacturer of quantum tech – recently chose NPL as the location for its first office outside the US.
+
+By positioning itself at the heart of common standards for quantum, the UK will secure competitive advantage, attract investment, and ensure British innovation underpins the technologies of the future.
+
+Notes to editors
+
+Hosted by NPL, the Quantum Standards Network unites key strategic partners including DSIT, BSI, UKRI National Quantum Computing Centre, National Cyber Security Centre, and UKQuantum. Together, they will coordinate the UK’s engagement in emerging international standards activity and foster collaboration with leading technical agencies internationally.

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db61d017212.P003.S001\", \"Db61d017212.P003.S002\"], \"anchor\": null, \"reason\": \"Does relaxing regional haze emission limits to feasible levels preserve industrial output while reducing pollution?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

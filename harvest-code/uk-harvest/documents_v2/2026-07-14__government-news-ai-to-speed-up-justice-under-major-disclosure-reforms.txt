@@ -1,0 +1,51 @@
+AI will be used by police officers to review and summarise evidence in a ground-breaking move that will free them up from being bogged down in paperwork and allow them to spend more time tackling crime on the streets.
+
+The current guidance for managing evidence was introduced in 1996, before iPhones, Google, Facebook or WhatsApp existed and case files were often contained to a single box. Now, some investigations have over 500,000 e-books worth of data and an average fraud case contains over 4 million documents.
+
+The Home Office has today accepted key recommendations from Jonathan Fisher KC’s Independent Review of Disclosure and Fraud Offences, including legislating to allow the use of AI to turbocharge how evidence is reviewed.
+
+The reforms will help officers manage the vast volumes of digital material generated during modern investigations, reducing bureaucracy and helping deliver swifter justice for victims.
+
+Under the current system, police officers manually process and provide a written summary for every file that could be relevant to an investigation. Under the proposals, officers will be able to use technology to identify, sort and compile millions of files that are currently reviewed manually.
+
+Using Home Office funding, PoliceAI will also pilot AI tools capable of automatically generating summaries of digital material, saving investigators countless hours spent carrying out administrative tasks, with a view to scaling across all police forces in 2027.
+
+Minister for Policing and Crime Prevention, Sarah Jones said:
+
+> Police officers are wasting thousands of hours trawling through phones, emails, messages, videos and cloud storage because of outdated regulations.
+
+> That’s time that should be spent supporting victims, investigating crime and bringing offenders to justice.
+
+> By embracing AI and new technology responsibly, we will boost productivity, bring policing into the 21st Century and free officers to focus on the frontline.
+
+Al Murray, Interim Director, PoliceAI said:
+
+> The disclosure process is an essential safeguard in our justice system, but the scale of digital evidence involved in modern investigations means we need modern solutions.
+
+> Used responsibly, AI can help officers and investigators manage vast amounts of material more efficiently, allowing them to spend more time supporting victims, pursuing offenders and exercising the professional judgement that technology can never replace.
+
+> PoliceAI’s role is to help policing adopt these capabilities in a way that is evidence-based, ethical and trusted, ensuring forces have access to tools that have been rigorously tested and supported by robust national standards and oversight.
+
+> This is not about replacing people with technology. It is about giving officers better tools to meet the demands of modern policing and deliver a more effective service to the public.
+
+Today’s announcement follows the launch of PoliceAI, the National Centre for Police AI.  Backed by £75million of government funding, PoliceAI is expected to free up an estimated 6 million hours of police time per year by 2028 - equivalent to 3,000 extra officers - and is part of the government’s most ambitious programme of police reform in nearly 200 years.
+
+The Policing Productivity Review estimated that officers spent approximately 532,000 hours in 2022/23 undertaking disclosure work and building case files which were later assessed by the CPS as requiring no further action.
+
+Graham McNulty QPM, Director of the Serious Fraud Office, said:
+
+> Modern fraud, bribery and corruption cases involve vast amounts of digital data, and our disclosure regime must keep pace with that reality. I welcome the government’s response to disclosure reform, which marks a positive step forward.
+
+> I’m particularly pleased that government will be exploring opportunities to pilot a new Intensive Disclosure Regime and look forward to continuing to work with others to bring disclosure practice fully into the digital era.
+
+The Home Office is also accepting Dr Fisher’s recommendation to move towards centralised procurement of police technology. This work is already underway through the government’s police reform programme and the creation of a National Police Service.
+
+The Home Office has also accepted the recommendation to establish a national governance forum for disclosure technology. Bringing together experts from policing, the judiciary, prosecutors and government, the forum will provide oversight of emerging technologies and ensure robust safeguards are in place.
+
+Chief Constable Tim De Meyer, disclosure lead for the National Police Chiefs’ Council (NPCC), said:
+
+> Good disclosure practice is essential for the fair and impartial investigation that is needed to ensure a fair trial.
+
+> We are grateful to Jonathan Fisher KC and his team for the opportunity to contribute to this review and for producing such a comprehensive and insightful piece of work. It shows how complicated disclosure has become, and how the safe and responsible use of technology could make the system more efficient and effective.
+
+> The NPCC is committed to working with partners across the criminal justice system to deliver the recommendations.

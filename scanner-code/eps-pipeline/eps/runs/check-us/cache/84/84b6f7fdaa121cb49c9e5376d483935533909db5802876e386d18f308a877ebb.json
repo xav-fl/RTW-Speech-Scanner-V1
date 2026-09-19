@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc44493dd67.P019.S005\", \"Dc44493dd67.P019.S006\"], \"anchor\": \"You've got to have a functioning economy. You need to have laws and rules and regulations in place so that investors from America and around the world can go in and safely invest and create prosperity.\", \"reason\": \"Does establishing investor-friendly legal frameworks in post-authoritarian states attract foreign investment and promote economic recovery?\"},{\"unit_ids\": [\"Dc44493dd67.P031.S001\"], \"anchor\": \"what you see President Trump doing now is rebalancing those things on the economy using tariffs\", \"reason\": \"What are the effects of tariff-based rebalancing on domestic employment, industrial output, and trade flows?\"},{\"unit_ids\": [\"Dc44493dd67.P043.S001\", \"Dc44493dd67.P043.S002\"], \"anchor\": null, \"reason\": \"How does diversification of energy export routes away from the Straits of Hormuz affect global energy prices and regional economic stability?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

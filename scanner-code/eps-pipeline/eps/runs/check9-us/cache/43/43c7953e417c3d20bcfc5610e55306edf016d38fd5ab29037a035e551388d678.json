@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"systemic risk identification and private-sector mitigation before regulatory intervention\", \"codes\": [{\"code\": \"G18\", \"strength\": 3}, {\"code\": \"G01\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"fair housing information provision by real estate professionals\", \"codes\": [{\"code\": \"R38\", \"strength\": 3}, {\"code\": \"K25\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

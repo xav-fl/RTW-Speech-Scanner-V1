@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"pension fund and insurer investment into private/UK assets via regulatory changes\", \"codes\": [{\"code\": \"G23\", \"strength\": 3}, {\"code\": \"G18\", \"strength\": 2}, {\"code\": \"E22\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

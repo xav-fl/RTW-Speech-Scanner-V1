@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"household energy bill reduction and wage increases\", \"codes\": [{\"code\": \"Q48\", \"strength\": 2}, {\"code\": \"J38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

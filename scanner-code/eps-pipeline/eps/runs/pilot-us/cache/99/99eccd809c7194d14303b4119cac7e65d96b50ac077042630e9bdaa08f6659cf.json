@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dceb01ab93b.P004.S001\"], \"anchor\": null, \"reason\": \"GSA commits to high-impact federal infrastructure investment under Trump\"}, {\"unit_ids\": [\"Dceb01ab93b.P006.S002\"], \"anchor\": null, \"reason\": \"Replacing infrastructure to enhance FDA food safety capacity for taxpayers\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"anti-discrimination enforcement against employers by race/national origin\", \"codes\": [{\"code\": \"J71\", \"strength\": 3}, {\"code\": \"K31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

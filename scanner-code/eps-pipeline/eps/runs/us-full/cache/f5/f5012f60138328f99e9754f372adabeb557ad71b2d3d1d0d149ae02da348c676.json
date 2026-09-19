@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D96a47a6526.P045.S003\", \"D96a47a6526.P045.S006\", \"D96a47a6526.P046.S001\", \"D96a47a6526.P046.S002\", \"D96a47a6526.P046.S003\"], \"anchor\": null, \"reason\": \"Does a government energy-price mitigation programme reduce consumer energy costs during an oil price spike caused by military conflict?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

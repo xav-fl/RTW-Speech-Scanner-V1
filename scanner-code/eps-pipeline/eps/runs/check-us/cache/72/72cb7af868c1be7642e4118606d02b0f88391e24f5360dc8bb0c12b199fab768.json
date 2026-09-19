@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bilateral air transport liberalization agreement\", \"codes\": [{\"code\": \"L93\", \"strength\": 3}, {\"code\": \"F15\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

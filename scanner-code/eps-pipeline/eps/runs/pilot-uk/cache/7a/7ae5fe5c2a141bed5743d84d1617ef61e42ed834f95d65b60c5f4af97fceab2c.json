@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"legal duty on rail body to promote freight growth toward long-run target\", \"codes\": [{\"code\": \"L92\", \"strength\": 3}, {\"code\": \"R48\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

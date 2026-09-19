@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"international partnership for energy resource development and wealth generation\", \"codes\": [{\"code\": \"Q38\", \"strength\": 2}, {\"code\": \"F35\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

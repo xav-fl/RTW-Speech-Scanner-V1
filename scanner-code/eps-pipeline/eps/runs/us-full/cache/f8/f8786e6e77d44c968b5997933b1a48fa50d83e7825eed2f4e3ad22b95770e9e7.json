@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc4541f0441.P002.S001\"], \"anchor\": null, \"reason\": \"Does active forest management reform reduce wildfire risk and improve fire management outcomes?\"},{\"unit_ids\": [\"Dc4541f0441.P002.S002\"], \"anchor\": null, \"reason\": \"Does a full suppression strategy for wildfire starts reduce damage to forests and rural communities?\"},{\"unit_ids\": [\"Dc4541f0441.P004.S002\"], \"anchor\": null, \"reason\": \"Does active forest management reduce wildfire risk and lower lumber costs for housing?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

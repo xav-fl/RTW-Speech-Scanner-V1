@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De25da95f9b.P004.S001\"], \"anchor\": \"we are ending federal support for dangerous gain-of-function research and replacing weak oversight with clear, enforceable safeguards.\", \"reason\": \"Does restricting federal funding for dangerous gain-of-function research reduce biological risk while affecting biomedical innovation outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

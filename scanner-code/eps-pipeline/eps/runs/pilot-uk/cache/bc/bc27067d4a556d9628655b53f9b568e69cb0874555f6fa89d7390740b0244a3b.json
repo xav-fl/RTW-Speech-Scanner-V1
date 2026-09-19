@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2fbf3c8a2f.P006.S001\"], \"anchor\": \"Thanks to our tax cuts, families will be able to enjoy more of the little treats and days out\", \"reason\": \"VAT cut policy to reduce cost for families\"}, {\"unit_ids\": [\"D2fbf3c8a2f.P007.S002\"], \"anchor\": \"cut household energy bills and boost working people's wages by hundreds of pounds\", \"reason\": \"Policy commitments on energy bills and wages\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

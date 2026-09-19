@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D65acb0384b.P004.S001\"], \"anchor\": null, \"reason\": \"Does expanding school choice options improve student academic outcomes or family welfare?\"},{\"unit_ids\": [\"D65acb0384b.P004.S003\"], \"anchor\": null, \"reason\": \"Does expanding Pell grant eligibility to workforce-aligned programmes and simplifying loan repayment improve student outcomes and costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

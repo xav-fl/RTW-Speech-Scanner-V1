@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"security force deployment to restore territorial control and enable elections in Haiti\", \"codes\": [{\"code\": \"D74\", \"strength\": 3}, {\"code\": \"O54\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

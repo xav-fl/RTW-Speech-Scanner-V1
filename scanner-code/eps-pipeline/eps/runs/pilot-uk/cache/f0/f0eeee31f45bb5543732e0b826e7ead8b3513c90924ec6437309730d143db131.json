@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D60738dbea1.P019.S001\", \"D60738dbea1.P019.S002\"], \"anchor\": null, \"reason\": \"Energy sovereignty via clean power over fossil fuel dependence\"}, {\"unit_ids\": [\"D60738dbea1.P020.S001\"], \"anchor\": null, \"reason\": \"Clean power target by 2030; offshore wind 40% cheaper than gas\"}, {\"unit_ids\": [\"D60738dbea1.P021.S001\"], \"anchor\": null, \"reason\": \"Clean homegrown power to lower bills and create jobs\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

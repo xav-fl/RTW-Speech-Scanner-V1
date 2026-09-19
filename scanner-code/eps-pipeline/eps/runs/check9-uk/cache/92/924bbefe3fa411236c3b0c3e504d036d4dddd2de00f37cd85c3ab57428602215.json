@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public investment in school infrastructure and staff training for special educational needs\", \"codes\": [{\"code\": \"I22\", \"strength\": 3}, {\"code\": \"I21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

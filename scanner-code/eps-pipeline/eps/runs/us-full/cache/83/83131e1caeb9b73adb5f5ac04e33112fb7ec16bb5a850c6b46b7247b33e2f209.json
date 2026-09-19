@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"law enforcement targeting gang members and criminal deportation\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

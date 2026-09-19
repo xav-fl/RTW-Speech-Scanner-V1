@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"replicating vocational training models for high-demand careers\", \"codes\": [{\"code\": \"J24\", \"strength\": 3}, {\"code\": \"I21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

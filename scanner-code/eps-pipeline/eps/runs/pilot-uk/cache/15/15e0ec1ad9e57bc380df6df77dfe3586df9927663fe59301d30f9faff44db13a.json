@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"tiered residency duration requirements for permanent settlement eligibility, differentiated by occupation and fiscal contribution\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"J15\", \"strength\": 2}, {\"code\": \"K37\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

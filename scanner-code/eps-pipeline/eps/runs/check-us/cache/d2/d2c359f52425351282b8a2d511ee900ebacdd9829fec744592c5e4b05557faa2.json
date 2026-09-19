@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D91a57c817f.P003.S001\"], \"anchor\": \"the USDA 1890 National Scholars Program supports this effort by providing students with real-world work experience and support for their education\", \"reason\": \"Does providing scholarships and internships at 1890 land-grant HBCUs increase agricultural workforce entry among participants?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

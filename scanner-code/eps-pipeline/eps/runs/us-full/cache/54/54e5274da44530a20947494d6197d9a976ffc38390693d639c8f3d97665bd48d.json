@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1a33fa87eb.P002.S001\", \"D1a33fa87eb.P002.S002\"], \"anchor\": null, \"reason\": \"Does EPA right-to-repair guidance reducing farm equipment repair restrictions lower farmers' operating costs by 10 percent?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

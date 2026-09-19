@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D91a57c817f.P006.S002\"], \"anchor\": null, \"reason\": \"Does providing internships and financial support to HBCU agriculture students increase entry into agricultural careers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

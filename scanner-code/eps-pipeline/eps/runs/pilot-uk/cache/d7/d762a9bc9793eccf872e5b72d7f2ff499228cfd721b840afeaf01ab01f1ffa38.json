@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"reform of international financial institutions and multilateral governance structures for development finance\", \"codes\": [{\"code\": \"F55\", \"strength\": 3}, {\"code\": \"F35\", \"strength\": 2}, {\"code\": \"O19\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

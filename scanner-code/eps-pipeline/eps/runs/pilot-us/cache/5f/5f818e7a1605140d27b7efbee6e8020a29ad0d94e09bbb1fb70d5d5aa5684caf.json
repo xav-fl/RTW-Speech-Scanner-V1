@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"digital transformation of public social insurance administration for service delivery\", \"codes\": [{\"code\": \"H55\", \"strength\": 3}, {\"code\": \"H83\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

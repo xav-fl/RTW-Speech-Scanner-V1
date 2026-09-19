@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da9d1407926.P003.S001\", \"Da9d1407926.P005.S001\"], \"anchor\": null, \"reason\": \"Does a DOE loan for natural gas infrastructure modernisation lower energy costs and create jobs for Michigan residents?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

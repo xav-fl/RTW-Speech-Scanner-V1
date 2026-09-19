@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da292815464.P005.S001\"], \"anchor\": \"we are ending it after 36 years\", \"reason\": \"Does replacing ACWA with validated assessment tools improve the quality of federal hires?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"combating illicit finance and corruption\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"D73\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

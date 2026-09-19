@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1102eae8d5.P002.S001\"], \"anchor\": null, \"reason\": \"Does ICE enforcement targeting criminal non-citizens reduce violent crime rates in affected cities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

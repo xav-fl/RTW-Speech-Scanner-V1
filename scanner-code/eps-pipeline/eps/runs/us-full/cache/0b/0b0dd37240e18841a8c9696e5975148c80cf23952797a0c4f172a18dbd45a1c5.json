@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"expedited permitting for post-disaster rebuilding\", \"codes\": [{\"code\": \"H84\", \"strength\": 3}, {\"code\": \"R52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

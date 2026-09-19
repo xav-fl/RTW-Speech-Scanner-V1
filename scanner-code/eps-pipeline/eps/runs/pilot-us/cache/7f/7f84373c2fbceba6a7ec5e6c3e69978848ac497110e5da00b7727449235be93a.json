@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"reassignment of food aid program to Agriculture Department based on sectoral linkage\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"Q18\", \"strength\": 2}, {\"code\": \"H83\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

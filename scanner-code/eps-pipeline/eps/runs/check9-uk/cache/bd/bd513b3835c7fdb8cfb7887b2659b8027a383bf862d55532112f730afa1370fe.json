@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"targeted compensation scheme for women affected by state pension age changes\", \"codes\": [{\"code\": \"H55\", \"strength\": 3}, {\"code\": \"J26\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

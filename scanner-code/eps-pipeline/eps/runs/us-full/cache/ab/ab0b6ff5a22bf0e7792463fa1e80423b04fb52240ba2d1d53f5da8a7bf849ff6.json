@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4dd37c0b19.P011.S003\"], \"anchor\": null, \"reason\": \"Does removing barriers to public land access and expanding outdoor recreation increase visitation, local economic activity, or land degradation?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

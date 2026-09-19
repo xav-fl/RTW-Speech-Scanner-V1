@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"wage certainty and income stability for low-paid workers on irregular hours\", \"codes\": [{\"code\": \"J33\", \"strength\": 3}, {\"code\": \"J31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

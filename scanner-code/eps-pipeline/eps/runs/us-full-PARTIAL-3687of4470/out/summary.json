@@ -1,0 +1,41 @@
+{
+  "documents_screened": 4470,
+  "documents_with_observations": 348,
+  "observations_kept": 447,
+  "observations_rejected": 82,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 4470
+  },
+  "reject_reasons": {
+    "unit_ids span a paragraph boundary": 30,
+    "passage is not attributable to the speaker": 26,
+    "JEL classification failed validation: no defensible economic object: classifier assigned no JEL code": 21,
+    "unit_ids are not contiguous": 5
+  },
+  "by_institution": {
+    "Department of State": 83,
+    "Department of Agriculture": 48,
+    "Small Business Administration": 45,
+    "Department of Housing and Urban Development": 36,
+    "Department of Homeland Security": 33,
+    "Department of Education": 30,
+    "Department of Energy": 29,
+    "Department of Health and Human Services": 27,
+    "Department of Labor": 27,
+    "Environmental Protection Agency": 25,
+    "Department of the Interior": 24,
+    "General Services Administration": 17,
+    "Department of Justice": 7,
+    "National Aeronautics and Space Administration": 5,
+    "Office of Personnel Management": 5,
+    "Social Security Administration": 4,
+    "National Science Foundation": 2
+  },
+  "files": {
+    "dataset": "runs\\us-full-PARTIAL-3687of4470\\out\\dataset.csv",
+    "internal": "runs\\us-full-PARTIAL-3687of4470\\out\\observations_internal.csv",
+    "screening_log": "runs\\us-full-PARTIAL-3687of4470\\out\\screening_log.csv",
+    "rejected": "runs\\us-full-PARTIAL-3687of4470\\out\\rejected.csv"
+  }
+}

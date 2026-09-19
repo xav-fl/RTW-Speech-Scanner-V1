@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da1aee27c6b.P004.S001\", \"Da1aee27c6b.P004.S002\"], \"anchor\": null, \"reason\": \"Does ending catch-and-release and rapidly deporting illegal border crossers reduce illegal immigration and improve public safety?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

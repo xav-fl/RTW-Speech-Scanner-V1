@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0daeb9ce0e.P002.S002\", \"D0daeb9ce0e.P002.S003\"], \"anchor\": \"The over-concentration of these resources and the fact that they're dominated by one or two places is an unacceptable risk. We need diversity in our supply chains, diversity in the places we get critical minerals.\", \"reason\": \"Policy commitment to diversify critical mineral supply chains\"}, {\"unit_ids\": [\"D0daeb9ce0e.P003.S002\", \"D0daeb9ce0e.P003.S003\"], \"anchor\": \"We are, combined, the largest customers and users of the world and have to ensure that these supplies and these minerals are available for our countries and in ways that are not monopolized in one place or concentrated together in one place. We have to have reliable, affordable sources for this.\", \"reason\": \"Policy goal of securing reliable, affordable, non-monopolized mineral supplies\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

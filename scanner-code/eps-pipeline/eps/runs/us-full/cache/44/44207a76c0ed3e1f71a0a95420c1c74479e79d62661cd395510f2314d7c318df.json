@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"financial assistance payments to specialty crop producers via streamlined application system\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"H81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

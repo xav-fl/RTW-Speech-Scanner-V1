@@ -1,0 +1,15 @@
+Key finding: The £40 billion spent on energy bill support in 2022–23 could have increased the cost of a new representative mortgage by £360–£850 a year. £605 a year is the midpoint of the range of estimates (£600 to the nearest hundred).
+
+Method and assumptions
+
+Energy bill support costs are taken from the OBR Forecast Evaluation Report, October 2023.(1) The cost combines support through the energy price guarantee (EPG), energy bill support scheme (EBSS), and energy bill relief scheme (EBRS).
+
+The increase in Bank Rate is calculated as a three-year average, applying the modelling approach set out in GOV.UK.(2)
+
+The estimate assumes full pass-through from the average increase in Bank Rate over three years to mortgage rates.
+
+Household mortgage cost estimates are based on a representative mortgagor taking out a new mortgage with an advance of £215,000 and a term of 29 years, using 3% (the Bank Rate in Q4 2022) as the baseline interest rate.
+
+(1): Forecast evaluation report – October 2023 - Office for Budget Responsibility
+
+(2): Annex: The impact of borrowing on interest rates - GOV.UK

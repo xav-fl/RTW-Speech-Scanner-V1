@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"price floor mechanism for commodities to protect investment viability\", \"codes\": [{\"code\": \"Q02\", \"strength\": 3}, {\"code\": \"F13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

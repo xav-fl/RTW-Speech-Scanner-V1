@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government asset sale to eliminate maintenance liability and reduce operating costs\", \"codes\": [{\"code\": \"H82\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

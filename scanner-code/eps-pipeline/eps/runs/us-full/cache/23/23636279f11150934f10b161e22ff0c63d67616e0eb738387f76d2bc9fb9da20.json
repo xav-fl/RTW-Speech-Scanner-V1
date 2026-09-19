@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df14eb92f74.P004.S001\"], \"anchor\": null, \"reason\": \"Do anti-fraud compliance requirements for federal health insurers reduce improper payments and protect beneficiary outcomes?\"},{\"unit_ids\": [\"Df14eb92f74.P006.S001\", \"Df14eb92f74.P006.S002\"], \"anchor\": null, \"reason\": \"Does proactive claims-data analytics reduce fraud and over-billing costs in federal employee health programmes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

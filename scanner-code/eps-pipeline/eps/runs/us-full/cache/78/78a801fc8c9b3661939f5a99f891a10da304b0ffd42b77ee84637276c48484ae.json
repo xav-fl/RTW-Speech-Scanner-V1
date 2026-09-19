@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D508cb1be25.P002.S001\"], \"anchor\": null, \"reason\": \"Does expanding access to the 988 Lifeline reduce suicide attempts or improve mental health crisis outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

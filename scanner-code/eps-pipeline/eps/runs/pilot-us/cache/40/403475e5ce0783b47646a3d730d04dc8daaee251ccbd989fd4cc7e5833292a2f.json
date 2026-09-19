@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6a5792ae52.P008.S001\"], \"anchor\": null, \"reason\": \"Executive Order directs Treasury to strengthen financial safeguards against illicit activity\"}, {\"unit_ids\": [\"D6a5792ae52.P010.S001\", \"D6a5792ae52.P010.S002\"], \"anchor\": null, \"reason\": \"Treasury issued guidance on illicit financial schemes with red flags for institutions\"}, {\"unit_ids\": [\"D6a5792ae52.P018.S002\"], \"anchor\": null, \"reason\": \"FinCEN rolling out guidance enabling real-time inter-institution fraud information sharing\"}, {\"unit_ids\": [\"D6a5792ae52.P022.S002\"], \"anchor\": null, \"reason\": \"Treasury aims to focus regulatory burden where risks are greatest for community banks\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

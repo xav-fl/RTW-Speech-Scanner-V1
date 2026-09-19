@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db353cc3582.P003.S001\"], \"anchor\": null, \"reason\": \"Do employer-driven reskilling grants help displaced airline workers find high-wage re-employment quickly?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

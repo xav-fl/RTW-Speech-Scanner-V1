@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"modernizing bank and credit union supervisory and regulatory frameworks, reducing compliance burdens for community banks\", \"codes\": [{\"code\": \"G28\", \"strength\": 3}, {\"code\": \"G21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

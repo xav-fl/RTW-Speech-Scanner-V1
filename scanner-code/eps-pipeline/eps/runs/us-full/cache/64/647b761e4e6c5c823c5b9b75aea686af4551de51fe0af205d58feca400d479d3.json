@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"military/coast guard equipment and personnel investment\", \"codes\": [{\"code\": \"H56\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

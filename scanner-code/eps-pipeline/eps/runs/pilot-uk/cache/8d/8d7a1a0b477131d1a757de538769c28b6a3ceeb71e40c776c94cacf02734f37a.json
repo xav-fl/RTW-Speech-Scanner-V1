@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6d4cf4e8dc.P011.S001\", \"D6d4cf4e8dc.P011.S002\"], \"anchor\": null, \"reason\": \"Commitment to digital ID improving public service access\"}, {\"unit_ids\": [\"D6d4cf4e8dc.P012.S001\", \"D6d4cf4e8dc.P012.S002\"], \"anchor\": null, \"reason\": \"Causal belief: private sector digitisation delivers value; government must follow\"}, {\"unit_ids\": [\"D6d4cf4e8dc.P013.S001\", \"D6d4cf4e8dc.P013.S002\"], \"anchor\": null, \"reason\": \"Policy commitment to public consultation on digital ID system design\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

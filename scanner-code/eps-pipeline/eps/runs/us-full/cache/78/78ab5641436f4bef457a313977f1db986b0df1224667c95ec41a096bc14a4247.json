@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D24b4fd2517.P003.S001\", \"D24b4fd2517.P003.S002\"], \"anchor\": null, \"reason\": \"Does aggressively pursuing repayment of suspected fraudulent pandemic loans deter future fraud and recover taxpayer funds cost-effectively?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

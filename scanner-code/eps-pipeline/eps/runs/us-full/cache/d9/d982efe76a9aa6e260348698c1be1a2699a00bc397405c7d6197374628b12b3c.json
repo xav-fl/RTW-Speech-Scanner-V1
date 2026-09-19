@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"SBA disaster loan deadline extension for construction permits\", \"codes\": [{\"code\": \"H81\", \"strength\": 3}, {\"code\": \"H84\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

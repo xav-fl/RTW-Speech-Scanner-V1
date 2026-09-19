@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D55a1f547b0.P001.S003\"], \"anchor\": \"The Trump Administration has fought to restore Title IX's protections for women and girls since Day One.\", \"reason\": \"Does restoring sex-based Title IX protections affect female participation and outcomes in education and sports?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

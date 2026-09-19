@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"geographic travel restriction via passport policy\", \"codes\": [{\"code\": \"F51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

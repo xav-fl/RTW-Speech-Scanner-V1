@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"mandatory training for counter-terrorism case officers\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"M53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"D6038363ad1.P003.S005\", \"D6038363ad1.P003.S006\", \"D6038363ad1.P003.S007\", \"D6038363ad1.P003.S008\"], \"anchor\": null, \"reason\": \"What are the revenue and welfare effects of seizing and selling sanctioned Venezuelan oil at market rates, with proceeds controlled by the US?\"},{\"unit_ids\": [\"D6038363ad1.P004.S001\"], \"anchor\": null, \"reason\": \"Does opening Venezuelan markets to Western companies on fair terms accelerate economic recovery and political reconciliation?\"},{\"unit_ids\": [\"D6038363ad1.P009.S005\", \"D6038363ad1.P009.S006\"], \"anchor\": null, \"reason\": \"How effective are oil sanctions and enforcement in generating leverage over a sanctioned government's revenue?\"},{\"unit_ids\": [\"D6038363ad1.P031.S001\", \"D6038363ad1.P031.S002\", \"D6038363ad1.P031.S003\", \"D6038363ad1.P031.S004\"], \"anchor\": null, \"reason\": \"Does controlling oil export access give external actors effective leverage over transitional authorities' behaviour and outcomes?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

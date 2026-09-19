@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df14eb92f74.P004.S001\"], \"anchor\": null, \"reason\": \"Do stricter carrier accountability requirements reduce fraud and improper payments in federal employee health programmes?\"},{\"unit_ids\": [\"Df14eb92f74.P006.S001\", \"Df14eb92f74.P006.S002\"], \"anchor\": null, \"reason\": \"Does proactive real-time claims data analysis reduce fraud and over-billing costs in federal health benefit programmes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

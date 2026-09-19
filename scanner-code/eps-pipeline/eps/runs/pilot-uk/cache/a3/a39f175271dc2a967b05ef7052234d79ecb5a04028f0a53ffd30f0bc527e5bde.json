@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"rebuilding EU trade ties post-Brexit and domestic industrial strategy\", \"codes\": [{\"code\": \"F15\", \"strength\": 3}, {\"code\": \"O25\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

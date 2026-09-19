@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government loan guarantees to support SME export finance\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"H81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

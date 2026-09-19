@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D274d8ac381.P002.S001\", \"D274d8ac381.P002.S002\"], \"anchor\": null, \"reason\": \"Do terrorist designations and asset freezes reduce material support flows to designated organisations?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

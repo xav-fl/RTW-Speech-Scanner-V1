@@ -27,7 +27,15 @@ from anthropic import Anthropic
 
 from .providers import AnthropicProvider, ModelProvider
 
-PROMPT_VERSION = "P6-units-blind"
+#: P8 (2026-09-15): a passage qualifies when it is a policy choice that economics
+#: research could produce evidence about, in any applied field, and the model
+#: writes that research question as its reason (H-99). Replaces P7's narrower
+#: "economic substance at the centre" rule (H-98), which was never run. The JEL
+#: code list is in the cached system prompt (H-97).
+#: P9 (2026-09-15): design details, instruments, scope and causal claims about a
+#: specific policy qualify in their own right, and the research question must be
+#: about the selected words rather than a policy described elsewhere (H-100).
+PROMPT_VERSION = "P9-units-blind"
 DEFAULT_MODEL = "claude-sonnet-4-6"
 
 # What the model is told about who is speaking.
@@ -75,29 +83,98 @@ You will be given a document split into numbered sentence units. Your job is to 
 return the unit IDs of passages that qualify. You never quote text: the quote is \
 reconstructed from the unit IDs by the calling program.
 
-A passage QUALIFIES when the eligible speaker expresses a policy position, \
-priority, proposal, commitment, target, implementation choice, or causal belief \
-with a substantive connection to economic behaviour, institutions, markets, \
-incentives, resource allocation, distribution, government activity, or \
-measurable economic outcomes.
+WHAT THE DATASET IS FOR
+It records what policymakers are choosing to do, so that it can be compared \
+with the research questions governments publish in their Areas of Research \
+Interest and learning agendas, and with the research economists produce. \
+"Economics" means the whole discipline and its applied fields: public finance, \
+labour, health, education, crime and law enforcement, migration, development \
+and aid, conflict and defence, industrial organisation and digital markets, \
+regulation, environment and energy, urban and transport, family and children, \
+political economy. A policy does NOT need to be about money, prices or markets \
+for economics research to inform it. Most government policy has implicit \
+economics: it changes incentives, behaviour, costs, access or outcomes for \
+someone.
 
-It does NOT qualify when it is:
-- ceremonial: condolences, congratulations, thanks, event logistics;
-- a general value or aspiration with no policy or mechanism ("opportunity matters");
-- a passing mention of growth, jobs, investment, cost, efficiency or opportunity \
-with no policy position, mechanism, intended outcome, target, trade-off or causal claim;
-- partisan criticism that does not state the speaker's own position;
-- a description of a policy the speaker opposes, unless they also state their \
-own alternative;
-- purely legal, diplomatic or security content with no clear economic dimension;
-- spoken by an interviewer, host, or quoted third party rather than the speaker.
+A passage QUALIFIES when all three hold:
+1. A POLICY CHOICE. The eligible speaker states their own government's position, \
+decision, proposal, commitment, target, design choice, or causal belief about \
+what a policy does. There is a lever: a rule, ban, programme, eligibility \
+condition, service, spending or funding decision, regulation, institution, \
+sanction, or intervention.
+2. RESEARCHABLE BY ECONOMISTS. You can turn it into a one-line question that an \
+applied economist could answer with evidence — about its effects on behaviour \
+or outcomes, its costs and benefits, its incentives, who gains and who loses, or \
+how best to design or target it. For example:
+   "we will ban social media for under 16s" -> Does restricting adolescents' \
+social media use improve wellbeing or attainment?
+   "new controls on the online sale and delivery of knives" -> Do restrictions \
+on online knife sales reduce violent crime?
+   "a reduction in initial leave to remain for refugees from five years to two \
+and a half" -> How does shorter temporary protection affect refugees' \
+employment and integration?
+   "I will be asking them to re-examine eligibility for meningitis vaccines" -> \
+Which vaccine eligibility rules deliver the most health gain for the cost?
+   "every pupil will learn about social media in the classroom" -> Does \
+classroom digital-literacy teaching change pupils' online behaviour?
+3. SUBSTANTIVE. The selection says what the policy is, and reads as a complete \
+statement on its own: who is acting and what they will do ("we will ban social \
+media for under 16s"), never a bare fragment ("maintain American leadership in \
+low Earth orbit").
+
+THE DETAIL IS THE POLICY. A headline commitment and the design choices that \
+implement it are separate observations, and each of these qualifies in its own \
+right even when it elaborates a policy you have already selected:
+- eligibility and conditions — who qualifies and on what terms ("A clean \
+criminal record… No debt to the taxpayer… A history of being in work and paying \
+taxes");
+- named instruments and mechanisms ("an advanced market commitment to quantum", \
+"the first G7 country to issue a Digital Sovereign Bond");
+- scope and coverage — who or what is included or exempted;
+- causal claims about what a specific policy has done or will do ("our largest \
+pension funds invested an additional £10bn… because of the changes that I have \
+made"), and stated choices between alternatives ("it's better to spend \
+taxpayer's cash building new homes than subsidising buy-to-let landlords").
+
+Do not exclude a passage because its subject is not conventionally "economic". \
+Crime, health, schooling, online safety, migration, defence, aid and conflict \
+are all fields economists study. Exclude only for the reasons below.
+
+It does NOT qualify when:
+- NOTHING IS CHOSEN: ceremony, condolences, congratulations, thanks; readouts \
+of meetings and calls ("they discussed regional security"); a statement of \
+fact or a statistic with no position taken on it ("the UN appeal is 13 per \
+cent funded"); announcements of process or timing with no substance ("the white \
+paper is coming soon", "legislation will be brought forward as soon as \
+parliamentary time allows", "I have written to the regulator"); appointments.
+- THERE IS NO LEVER: slogans, values, aspirations and praise ("an education \
+system that captures everything it means to learn"); condemnation, or demands \
+made of other governments or parties with no action by the speaker's own \
+government; partisan criticism without the speaker's own alternative; a \
+description of a policy the speaker opposes, unless they state their own.
+- ECONOMICS WOULD NOT BE AMONG THE DISCIPLINES INFORMING IT: military operations \
+and tactics, the outcome of an individual court case, threat levels, \
+commemorations, constitutional or parliamentary procedure.
+- IT IS NOT THE SPEAKER: an interviewer, host, reporter or quoted third party.
+
+If you cannot write the one-line research question, leave the passage out. \
+Put that question in "reason".
+
+The question must be about what the SELECTED WORDS state, not about a policy \
+described elsewhere in the document. If the words you are about to select only \
+praise a policy, name a goal, or say something matters ("making defence an \
+engine for jobs and growth", "our land-grant universities are critical in \
+educating the next generation"), select the words that describe the policy \
+itself instead — or nothing.
 
 SELECTION RULES
 - Units must be contiguous and within a single paragraph.
 - Select the minimum span that carries the policy claim, with enough context to \
 understand it. Prefer one or two units.
 - If a paragraph contains two genuinely distinct policy claims, return two \
-observations. If several sentences express one claim, return one.
+observations. If several sentences express one claim, return one. A list of \
+conditions or instruments that together define one policy is one observation: \
+select the whole list, not its first item.
 - Only select units marked selectable.
 - If nothing qualifies, return an empty list. Documents that produce nothing are \
 expected and useful; do not stretch to find something.
@@ -105,11 +182,13 @@ expected and useful; do not stretch to find something.
 OPTIONAL ANCHOR
 If the qualifying claim is a clause rather than a whole sentence, you may supply \
 "anchor": an exact substring copied character-for-character from the selected \
-units. It is checked by exact match and the observation is dropped if it does not \
+units. The anchor must itself read as a complete statement, with its subject. \
+It is checked by exact match and the observation is dropped if it does not \
 match. Omit it if unsure.
 
 Return ONLY JSON, no preamble, no markdown fences:
-{"observations": [{"unit_ids": ["D....P003.S002"], "anchor": null, "reason": "<10 words>"}]}
+{"observations": [{"unit_ids": ["D....P003.S002"], "anchor": null, \
+"reason": "<the one-line research question, at most 20 words>"}]}
 """
 
 JEL_SYSTEM = """\
@@ -148,13 +227,17 @@ match score, not a probability and not your confidence:
 broader or less specific;
   1 — weak: the code is plausible, but substantial interpretation is needed.
 
-If the quotation has no defensible economic research or policy object at all, \
-return an empty "codes" list. Economic content normally concerns behaviour, \
-choice, incentives, allocation, markets, production, welfare, distribution, \
-valuation, regulation, or the effects of public policy; a statement is not \
-economic merely because an economist could study it. Returning nothing is a \
-valid answer and the observation is set aside — do not reach for a weak code to \
-avoid giving it.
+Applied fields are economics. A policy on crime, health, schooling, migration, \
+online platforms, defence, aid or conflict has an economic research object \
+when economists study the effects, costs, incentives or distribution of such \
+policies, and it belongs in that applied field — for example K42, I18, I21, \
+F22, L86, H56, F35 or D74 — rather than in a catch-all code such as D78 or H83 \
+that would fit any government statement.
+
+If the quotation has no defensible economic research or policy object at all — \
+it is ceremonial, rhetorical, procedural, or a statement of fact — return an \
+empty "codes" list. Returning nothing is a valid answer and the observation is \
+set aside; do not reach for a weak code to avoid giving it.
 
 Return ONLY JSON, no preamble, no markdown fences:
 {"mechanism": "<a few words>", "codes": [{"code": "I22", "strength": 3}]}
@@ -251,11 +334,14 @@ class Extractor:
             from .pipeline import load_active_codes
             active = load_active_codes()
         self.active = active
+        # Built once so it is byte-identical on every classification call, which
+        # is what lets the server-side cache be read rather than rewritten.
+        self._jel_system = (
+            f"{JEL_SYSTEM}\n"
+            f"ACTIVE JEL CODES — choose only from these:\n"
+            f"{active.prompt_lines()}\n"
+        )
         self.cache = cache
-        # Store the client directly for prompt caching support. When client is
-        # passed directly (not wrapped in a provider), we can use it with
-        # cache_control for cost savings on the large code list.
-        self._direct_client = client
         self.prompt_version = prompt_version
         self.identity_mode = identity_mode
 
@@ -268,7 +354,8 @@ class Extractor:
             self.provider = AnthropicProvider(model=model, client=client)
         self.model = getattr(self.provider, "model", model)
 
-    def _call(self, system: str, user: str, max_tokens: int = 2000) -> str:
+    def _call(self, system: str, user: str, max_tokens: int = 2000,
+              cache_system: bool = False) -> str:
         key = None
         if self.cache is not None:
             key = ResponseCache.key(
@@ -281,7 +368,7 @@ class Extractor:
             if hit is not None:
                 return hit["text"]
 
-        text = self.provider.call(system, user, max_tokens)
+        text = self.provider.call(system, user, max_tokens, cache_system=cache_system)
 
         if self.cache is not None and key is not None:
             self.cache.put(
@@ -354,53 +441,22 @@ class Extractor:
         classifier found no defensible economic object; the caller leaves the
         assignments empty and validation sets the observation aside.
 
-        Prompt caching: if a client was provided directly (not via provider),
-        uses the Anthropic SDK's cache_control to cache the code list across
-        calls. The provider.call() fallback does not support caching.
+        Prompt caching: the code list is the same 30KB on every call, so it is
+        part of the SYSTEM prompt, which is cached, and only the quotation
+        travels in the user message. It used to sit in the user message AFTER
+        the quotation. A cache is a prefix match, so a list placed behind a
+        changing quotation can never be read back: every one of an estimated
+        4,000 calls in the full run would have paid for the list in full, about
+        four fifths of the whole extract's cost (H-97).
         """
         user = (
             f"QUOTATION:\n{quote}\n\n"
             f"{('CONTEXT: ' + context) if context else ''}\n\n"
-            f"ACTIVE JEL CODES — choose only from these:\n"
-            f"{self.active.prompt_lines()}\n\n"
             'Return {"mechanism": "<a few words>", '
             '"codes": [{"code": "<three characters>", "strength": 3}]}'
         )
-
-        # Try the cached path first (direct client with cache_control). Falls
-        # back to provider.call() if no client was given.
-        picked_text = None
-        if self._direct_client is not None:
-            try:
-                response = self._direct_client.messages.create(
-                    model=self.model,
-                    max_tokens=600,
-                    system=[
-                        {
-                            "type": "text",
-                            "text": JEL_SYSTEM,
-                            # Cache the system prompt and the list together. The
-                            # list is byte-identical on every call, so this is the
-                            # big cost win: 30KB paid once, reused across thousands.
-                            "cache_control": {"type": "ephemeral"},
-                        }
-                    ],
-                    messages=[
-                        {
-                            "role": "user",
-                            "content": user,
-                        }
-                    ],
-                )
-                if response.content and response.content[0].type == "text":
-                    picked_text = response.content[0].text
-            except Exception:
-                # If direct client fails for any reason, fall back to provider.
-                pass
-
-        # Fallback: use the provider if no client was given or it failed.
-        if picked_text is None:
-            picked_text = self._call(JEL_SYSTEM, user, max_tokens=600)
+        picked_text = self._call(self._jel_system, user, max_tokens=600,
+                                 cache_system=True)
 
         picked = _parse_json(picked_text)
         mechanism = str(picked.get("mechanism") or "").strip()[:200]

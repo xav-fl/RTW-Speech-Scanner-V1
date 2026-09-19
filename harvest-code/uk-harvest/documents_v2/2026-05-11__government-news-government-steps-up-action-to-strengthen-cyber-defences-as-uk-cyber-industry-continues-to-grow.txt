@@ -1,0 +1,47 @@
+Businesses encouraged to sign Cyber Resilience Pledge to strengthen defences against fast-evolving AI-enabled threats
+
+New figures show UK cyber security sector revenue has risen 11% to £14.7 billion, with firms up 20% to 2,603
+
+Cyber Security and Resilience Bill to continue through Parliament following the King’s Speech, demonstrating the government’s long-term commitment to strengthen Britain’s foundations and build a more resilient country
+
+Businesses across the UK are being urged to strengthen their cyber defences, as the government takes action to protect the economy and essential services people rely on every day from fast-evolving cyber threats.
+
+As part of a wider push to shore up the UK’s cyber defences, ministers are urging organisations across the economy to boost their resilience by signing up to a Cyber Resilience Pledge.
+
+The pledge, launching later this year, sets out 3 concrete actions organisations can take to improve their cyber security:
+
+making cyber security a board-level responsibility
+
+signing up to the National Cyber Security Centre’s free Early Warning Service
+
+require Cyber Essentials certification across their supply chains – the UK government-backed cyber security standard that blocks the most common cyber threats.
+
+Together, these steps help businesses reduce risk, protect customers and build confidence across the wider economy.
+
+Ministers have written directly to some of the UK’s leading companies inviting them to sign up to the Cyber Resilience Pledge, and organisations are now encouraged to review the requirements and commit. The government is backing this shift with £90 million towards improving cyber resilience across the economy.
+
+The push comes as the Cyber Security and Resilience Bill will continue its passage through Parliament following the King’s Speech, demonstrating the government’s long-term commitment to protect critical national infrastructure, support economic growth and reduce the risk of disruption to essential services such as energy, water, healthcare and data centres.
+
+New figures published today also show the strength of the UK’s cyber security sector, which grew 11% last year to £14.7 billion, with the number of firms rising by 20% to 2,603 – underlining the UK’s position as a global cyber security leader and a fast‑growing engine of the economy.
+
+The sector created 2,300 jobs in the past year alone, reflecting rising demand for British cyber expertise as businesses and public services invest in stronger protection against increasingly sophisticated threats, including those enabled by AI.
+
+Ministers have warned that the threats businesses face in cyber space are changing, and the way they respond must change with it. A new generation of AI models is lowering the barrier for cyber criminals, enabling them to find vulnerabilities and carry out attacks at a speed and scale that would have been impossible even a year ago. Recent figures show 43% of UK businesses experienced a cyber breach or attack in the past year, underlining the urgency of action.
+
+The importance of taking action has been highlighted by recent research by the AI Security Institute, looking at frontier models like Mythos and GPT 5.5. Ministers are warning that traditional cyber protections alone are no longer enough. As AI accelerates the pace and scale of cyber attacks, organisations must now invest in smarter, more resilient systems that can limit the impact of breaches and keep ahead of attackers – rather than constantly reacting after the damage is done.
+
+The UK is not standing still in response to this threat. We have built the AI Security Institute, the most advanced capability of any government in the world for understanding frontier AI systems. This ensures that your government can have an independently verified, robust assessment of current capabilities.
+
+More broadly, the National Cyber Security Centre, part of GCHQ, is world-leading in defending the UK online, and continues to publish practical guidance every business can use.
+
+Cyber Security Minister Baroness Lloyd said:
+
+> Cyber security is now fundamental to economic growth, job creation and the resilience of the services people rely on every day.
+
+> The UK has a world‑class cyber sector that is creating skilled jobs and protecting our economy – and government is doing more by investing in its own defences, legislating to require more of essential services and setting clear national standards.
+
+> As threats evolve, businesses of all sizes need to step up and take practical action now. The Cyber Resilience Pledge is a clear call for companies to strengthen their defences, protect their customers and play their part in keeping the UK secure and competitive.
+
+CEOs are urged to harness the expertise and innovation of UK cyber startups, building partnerships that drive the development and adoption of advanced solutions, such as memory-safe systems that are significantly less vulnerable, to keep our economy ahead of adversaries.
+
+Cyber security for AI is itself also an emerging growth area, with the number of UK firms offering cyber security products or services for AI up 68% in 2025 compared to the previous year – reinforcing the UK’s position as both a leader in innovation and a responder to new threats.

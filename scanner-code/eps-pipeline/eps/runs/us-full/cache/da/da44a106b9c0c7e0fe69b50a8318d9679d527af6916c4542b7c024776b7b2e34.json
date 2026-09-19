@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"enforcement of sex discrimination law in education via inter-agency investigative team\", \"codes\": [{\"code\": \"K38\", \"strength\": 3}, {\"code\": \"I28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

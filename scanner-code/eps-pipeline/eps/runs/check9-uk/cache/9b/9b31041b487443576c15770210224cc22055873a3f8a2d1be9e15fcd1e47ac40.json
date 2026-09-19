@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"fiscal cost of extending settled status eligibility to existing migrants\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"H53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

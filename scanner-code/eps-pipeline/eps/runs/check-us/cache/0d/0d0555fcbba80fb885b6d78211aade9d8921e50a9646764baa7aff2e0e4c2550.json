@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"interagency coordination to strengthen Treasury market liquidity and resilience\", \"codes\": [{\"code\": \"G18\", \"strength\": 3}, {\"code\": \"G12\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

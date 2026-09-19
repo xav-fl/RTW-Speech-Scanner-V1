@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db86f26a8be.P004.S003\", \"Db86f26a8be.P004.S004\"], \"anchor\": null, \"reason\": \"Does withholding federal Medicaid funds pending documentation reduce fraudulent or unsupported state claims?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

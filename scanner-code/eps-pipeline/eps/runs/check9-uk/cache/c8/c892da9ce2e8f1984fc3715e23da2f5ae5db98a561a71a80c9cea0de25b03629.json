@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"naval defense procurement and military capability investment\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"H57\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

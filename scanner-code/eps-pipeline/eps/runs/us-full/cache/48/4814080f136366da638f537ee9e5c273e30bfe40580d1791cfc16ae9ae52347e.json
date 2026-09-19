@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D04b731ebdb.P004.S001\"], \"anchor\": null, \"reason\": \"Does federal investment in charter schools, education tax credits, and state devolution improve student outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

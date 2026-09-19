@@ -1,0 +1,87 @@
+5 new projects will test how public sector data – including on energy use, social care and weather planning – can be better joined up to improve lives
+
+Projects could deliver better targeted energy bill help and enable improved AI legal support for small and medium-sized businesses
+
+Comes as investment unlocked to increase the public supercomputer capacity in Cambridge sixfold by Spring, backing cutting-edge UK research and start ups
+
+Identifying those entitled to support with their energy bills and planning for social care provision could be made easier through plans to improve how public sector data is used, including with AI.
+
+5 new ‘kickstarter’ projects have launched, with the Government Digital Service (GDS) and public sector bodies to test how connecting data across energy, social care, legal records and weather insights can deliver better services to tackle everyday challenges.
+
+Projects include:
+
+Partnering with the Department for Health and Social Care (DHSC) to deliver the new Get Adult Social Care Data service - a data platform that will gather, analyse and share essential data in clear, accessible formats, while protecting privacy. The service will support researchers and organisations like the NHS in planning care for those that need it most.
+
+Bringing together data from the Department for Energy Security and Net Zero (DESNZ), Department for Work and Pensions (DWP) and HM Revenue and Customs (HMRC) so those who need energy bill support most, get it. By bringing together the department that delivers energy bill support with others best placed to identify households in need, people could receive the help they are entitled to without lengthy admin.
+
+Exploring whether closer integration of services can reduce extensive health-related admin for disabled people and those with long term health conditions, so people don’t have to repeat themselves while enabling them to stay in or return to work or take more active roles in their communities.
+
+In some projects, data held by public bodies is being explored to understand whether AI can boost their effectiveness, such as giving businesses easier access to legal guidance. This delivers a first step in the Industrial Strategy ambition to recognise the power of data as the foundation of reformed public services and the problems AI can solve.
+
+To support the acceleration of AI and innovation, government is also boosting the UK’s supercomputing power by investing a further £16 million in the AI Research Resource supercomputing capacity at the University of Cambridge. Combined with a new National Compute Resource funded by UKRI, this will boost the compute capacity at Cambridge sixfold by Spring of this year, offering UK innovators a major boost in bringing forward more of the game changing AI tools that will improve lives in the years to come.
+
+Further kickstarter projects include:
+
+Researchers testing how trusted Met Office data could be converted into formats suitable for AI tools and other technology. This will allow organisations to understand how local weather and climate conditions could impact their business like buying in more road grit for the colder months or ice cream when it’s warm.
+
+Exploring how streams of authoritative legal data from the National Archives could be made AI -ready to provide small and medium-sized businesses from cafes to shops with easy to access legal support. This could help with admin like employment contracts or procurement from abroad, helping businesses to invest and grow.
+
+Digital Government and Data Minister Ian Murray said:
+
+> Technology is at the heart of our mission to build better public services - from making sure vulnerable people get the support they are entitled to without needless admin, to backing businesses with tools they need to grow.
+
+> By taking a common-sense approach to public sector data and investing in our world class AI base, we are seizing the UK’s potential, unlocking opportunities for growth and delivering for working people.
+
+Supercomputing capacity at Cambridge will be increased sixfold by spring 2026, giving UK researchers, SMEs and start-ups access for the first time to advanced AMD hardware. These are extremely powerful computer chips which will enable them to train AI models and drive new scientific breakthroughs.
+
+Elsewhere the government has announced a pilot scheme to get a new Creative Content Exchange up and running. This will be a marketplace to sell, buy, licence and enable access to digitised cultural and creative assets so they can be licenced at scale.
+
+The new pilot phase, part of the government’s R&D Missions Accelerator Programme, will involve leading cultural institutions. This will include:
+
+Historic England
+
+Imperial War Museums
+
+National Library of Scotland
+
+Natural History Museum
+
+The National Archives
+
+National Portrait Gallery
+
+Oxford University, Gardens, Libraries and Museums
+
+Royal Armouries
+
+Royal Botanic Gardens, Kew
+
+Royal Museums Greenwich
+
+Science Museum Group
+
+Victoria and Albert Museum (V&A)
+
+It will explore how their digitised content can be used by consumers, technology companies and AI developers, while respecting the rights of creators and copyright owners. This includes testing a range of commercial models for licencing, with the aim of launching an operational pilot platform by Summer 2026, delivering on the Industrial Strategy commitment.
+
+Notes to editors
+
+In June 2025, the government announced the creation of a Creative Content Exchange.
+
+The Met Office has an extensive AI programme to advance weather and climate intelligence, playing a leading role in the Civil Service’s One Big Thing initiative and the AI Opportunities Action Plan. Building on this expertise, the Met Office have joined a kickstarter project accelerating tests on how trusted Met Office data could be converted into formats suitable for AI tools and other technology.
+
+Stakeholder comments
+
+Dr Doug Gurr, Director of the Natural History Museum said:
+
+> We’re looking forward to taking part in the Government’s Creative Content Exchange pilot, an innovative new way of opening up our collections and sharing stories with wider audiences. The programme enables meaningful collaboration across the cultural sector and helps us explore new ways of creating advocates for the planet.
+
+Richard Deverell, Director of Royal Botanic Gardens, Kew said:
+
+> We are really pleased to support this Creative Content Exchange pilot. Leveraging the vast breadth of Kew’s collections to help generate value via various commercial models will ultimately help to support research that accelerates efforts to address biodiversity loss and create a thriving planet for all.
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

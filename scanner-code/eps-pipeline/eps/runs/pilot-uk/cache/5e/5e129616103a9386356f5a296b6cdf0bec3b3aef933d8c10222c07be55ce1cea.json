@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"UK-EU bilateral agreements on agrifood trade, emissions trading linkage, electricity market integration, and youth mobility scheme\", \"codes\": [{\"code\": \"F15\", \"strength\": 3}, {\"code\": \"Q58\", \"strength\": 2}, {\"code\": \"F22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

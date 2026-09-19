@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"inclusive education system design for all children\", \"codes\": [{\"code\": \"I21\", \"strength\": 3}, {\"code\": \"I24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

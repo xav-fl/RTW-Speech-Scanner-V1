@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbaec5233f3.P004.S001\", \"Dbaec5233f3.P004.S002\"], \"anchor\": null, \"reason\": \"Does devolving coal combustion residuals permitting to states improve environmental outcomes and economic growth relative to federal oversight?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

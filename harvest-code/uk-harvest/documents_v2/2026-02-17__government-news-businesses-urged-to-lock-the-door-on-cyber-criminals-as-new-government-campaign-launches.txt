@@ -1,0 +1,65 @@
+New campaign supports business owners to protect themselves against cyber threats to safeguard jobs and growth
+
+Cyber threats cost UK businesses £14.7 billion a year, with half of small firms experiencing one in the last 12 months
+
+More large firms are taking action, but government wants to help businesses of every size to move further and faster by putting protections in place
+
+Business owners are being urged to “lock the door” on criminals as the UK government launches a new campaign to provide practical ways for organisations to protect themselves from common online threats.
+
+Appearing across social media, podcasts, radio and business networks, the campaign aims to reach busy small and medium sized businesses where they are. It will encourage them to engage with the government’s Cyber Essentials scheme which sets out clear practical steps they can take to protect themselves from the most common cyber attacks. This includes keeping software up to date and controlling who has access to accounts and data to immediately boost their cyber resilience. Many cyber incidents exploit these basic weaknesses, which Cyber Essentials is designed to protect against.
+
+It comes as new figures show the scale of threat facing businesses. Significant cyber incidents cost an average of £195,000 and half of all small businesses have suffered a cyber breach or attack in the last 12 months.
+
+Last year, 92% fewer insurance claims were made by organisations with Cyber Essentials in place – proving it works. Certification can also help businesses win government contracts, and eligible firms can access free cyber insurance, including a 24/7 emergency helpline, provided by the Cyber Essentials delivery partner.
+
+With cyber threats estimated to cost UK businesses £14.71 billion every year the campaign will help to protect the growth that’s fundamental to job creation, improving living standards and the funding of public services.
+
+Cyber Security Minister Baroness Lloyd said:
+
+> No business is out of reach from cyber criminals. SMEs play a vital role in our economy, and business owners work incredibly hard to build something valuable, but too many still assume cyber criminals only go after big brands. The reality is criminals look for easy opportunities, and without basic protections in place, any business of any size can become a target.
+
+> I know smaller firms don’t have large IT teams, and that is exactly why Cyber Essentials matters. It provides a straightforward checklist to lock the door on cyber criminals, without needing specialist expertise. Cyber risk is business risk, just like fire or theft, and the protections are just as essential. I urge businesses to take action and adopt Cyber Essentials now.
+
+Developed by experts at the National Cyber Security Centre (NCSC) and the Department for Science, Innovation and Technology (DSIT), Cyber Essentials focuses on 5 key protections:
+
+firewalls
+
+secure configuration
+
+software updates
+
+user access control
+
+malware protection
+
+It gives businesses clear, practical steps to follow helping them show customers and suppliers they take cyber security seriously.
+
+For many firms, a single significant attack could be the difference between staying in business and closing their doors. To help businesses get started, the campaign highlights several free tools and resources:
+
+Cyber Essentials Readiness Tool – an online self‑assessment to identify gaps
+
+Free 30‑minute consultations with an NCSC‑assured cyber advisor for SMEs that are preparing for Cyber Essentials certification.
+
+The chance to preview the Cyber Essentials ‘Question Set’ for free. The ‘Requirements for IT Infrastructure’ can be used alongside to help businesses identify if they’re ready for certification.
+
+New research published today also reveals the scale of the cyber threat facing UK businesses more broadly. The Cyber Security Longitudinal Survey shows 82% of medium and large businesses suffered a cyber incident in the past year – meaning no business, regardless of size, is out of reach from cyber criminals.
+
+More organisations are recognising the benefits of taking action. Adoption of Cyber Essentials among larger companies has risen from 23% to 30%, reflecting a growing understanding of the need for basic cyber protections.
+
+With uptake improving among larger firms, there is clear momentum but more still needs to be done. This campaign is targeted at smaller businesses, encouraging them to adopt baseline protections like Cyber Essentials, strengthening supply‑chain security while supporting SME resilience, continuity, and long‑term growth.
+
+NCSC CEO Dr Richard Horne said:
+
+> Many small business owners assume their business is too small to be on cyber criminals’ radar, but in reality, we know most attackers don’t care about size, reputation or logos – they are looking for opportunity and weaknesses.
+
+> Small businesses do not need to go to the ends of the earth to put baseline cyber security measures in place as the Cyber Essentials scheme can help them take practical steps today.
+
+> I urge all businesses to implement the five key security controls to help protect themselves against the most common, damaging online threats.
+
+Alongside this campaign, the government is strengthening cyber resilience across the economy through the Cyber Security and Resilience Bill. The Bill will update and strengthen the UK’s cyber resilience framework for essential and digital services and key suppliers, helping protect the services people rely on every day, from energy and water to healthcare and data centres. Stronger defences throughout supply chains will reduce the risk of disruption from cyber attacks and help keep vital services running.
+
+Notes to editors
+
+More information is available at the Cyber Essentials website.
+
+See the latest Cyber Security Longitudinal Survey results.

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9bf666d539.P005.S001\"], \"anchor\": \"we should shift away from high-cost, low-value programs to low-cost, high-value programs\", \"reason\": \"Does shifting federal aid toward short-term, low-cost programs improve student labour market outcomes and reduce debt?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

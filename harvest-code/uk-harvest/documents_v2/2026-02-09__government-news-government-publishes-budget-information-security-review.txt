@@ -1,0 +1,25 @@
+Government has carried out a Review of Budget information security in light of the events that occurred in the run up to the 2025 Budget Statement
+
+This includes the outcomes and recommendations of the National Cyber Security Centre’s investigation into the publication of the Office for Budget Responsibility’s Economic and fiscal outlook (EFO) and the Cabinet Office’s leak inquiry relating to the 13 November article on income tax in the Financial Times.
+
+All recommendations will be implemented in full.
+
+The government has today Monday 9 February published the Budget Information Security Review. The Review has been carried out in light of events that occurred in the run up to the 2025 Budget Statement and includes steps being taken to tighten information security.
+
+The Review includes outcomes and outcomes and recommendations from the National Cyber Security Centre’s investigation into the publication of the Office for Budget Responsibility’s Economic and fiscal outlook (EFO) and the Cabinet Office’s Financial Times leak inquiry.
+
+The principal changes, which will be introduced ahead of Budget 2026, are:
+
+A set of mandatory embedded protection actions within the IT systems to restrict the extent to which Budget material can be shared, including across departmental boundaries. Measures will include preventing the sending of attachments; limiting access to named lists and restricting the functionality for those accessing information to print or download; and with the ability to monitor and record access.
+
+Linking these protections to the introduction of a new ‘BUDGET - MARKET SENSITIVE’ sensitivity label for the most sensitive categories of Budget and forecast information where HMT and OBR use named lists.
+
+Cutting back the numbers of officials who can routinely access the most sensitive information, including on named lists.
+
+The March 2026 EFO will be published on the OBR’s behalf by HMT using GOV.UK, which is the platform HMT uses for all its publications,  pending a permanent move by the OBR to using the GOV.UK platform for market sensitive publications.
+
+HMT and the OBR will work in partnership with The Bank of England to establish a protocol for any future breach in security.
+
+The ‘Macpherson Principles’, which determine which information can and cannot be pre-briefed in public and/or with the media, will continue to apply. The Principles acknowledge that while most Budget information is not market sensitive, the economic and fiscal projections, the fiscal judgement and individual tax rates, reliefs and allowances must not be pre-briefed.
+
+The full Review has been published on gov.uk.

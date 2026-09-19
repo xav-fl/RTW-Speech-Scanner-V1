@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8f62937113.P001.S002\", \"D8f62937113.P001.S003\"], \"anchor\": null, \"reason\": \"Do visa restrictions on cartel-linked associates deter illicit drug trafficking activity?\"}, {\"unit_ids\": [\"D8f62937113.P002.S003\"], \"anchor\": null, \"reason\": \"Do visa restrictions on drug traffickers and associates reduce cartel recruitment and illicit activity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"anti-fraud and anti-money-laundering safeguards on financial institutions\", \"codes\": [{\"code\": \"G28\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

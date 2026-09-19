@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"restriction on foreign carrier market access\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D525a7f4dc2.P003.S003\"], \"anchor\": \"this Department of Justice maintains a zero-tolerance policy for the abuse of this process\", \"reason\": \"Does a zero-tolerance denaturalization policy deter fraudulent naturalization applications?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

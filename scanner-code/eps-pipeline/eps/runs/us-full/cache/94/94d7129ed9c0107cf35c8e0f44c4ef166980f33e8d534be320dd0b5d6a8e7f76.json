@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Def60aa10f3.P004.S001\", \"Def60aa10f3.P006.S001\"], \"anchor\": null, \"reason\": \"Does consolidating federal HR systems into a single cloud platform reduce costs and improve workforce management efficiency?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

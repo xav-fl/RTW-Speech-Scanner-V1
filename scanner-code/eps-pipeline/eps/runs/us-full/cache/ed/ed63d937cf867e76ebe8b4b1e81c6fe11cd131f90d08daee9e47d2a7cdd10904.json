@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D598ddfa504.P004.S001\"], \"anchor\": null, \"reason\": \"Does ending federal civil rights enforcement actions against state agencies affect disaster mitigation fund distribution outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

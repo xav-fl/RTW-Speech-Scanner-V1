@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"food bank funding for nutrition access and food waste reduction\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"I18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

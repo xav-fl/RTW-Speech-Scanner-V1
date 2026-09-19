@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D040de74841.P005.S001\"], \"anchor\": null, \"reason\": \"Does selling underutilised federal properties generate the claimed taxpayer savings in operating costs and cost avoidance?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

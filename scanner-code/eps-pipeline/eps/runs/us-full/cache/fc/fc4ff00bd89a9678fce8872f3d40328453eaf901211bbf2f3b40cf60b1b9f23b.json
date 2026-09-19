@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D74fb7e61c5.P005.S001\"], \"anchor\": null, \"reason\": \"Does redirecting surplus protein to food banks improve nutrition outcomes and reduce chronic disease rates?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

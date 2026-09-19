@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government industrial policy to build domestic AI and quantum technology sector for job creation\", \"codes\": [{\"code\": \"L52\", \"strength\": 3}, {\"code\": \"O38\", \"strength\": 2}, {\"code\": \"J24\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

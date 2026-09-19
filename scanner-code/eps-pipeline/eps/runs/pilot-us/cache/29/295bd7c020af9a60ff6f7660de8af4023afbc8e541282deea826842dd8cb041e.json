@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"excessive financial regulation causing economic stagnation and threatening financial stability\", \"codes\": [{\"code\": \"G28\", \"strength\": 3}, {\"code\": \"L51\", \"strength\": 2}, {\"code\": \"G01\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"control of oil revenue distribution away from adversaries toward domestic population\", \"codes\": [{\"code\": \"Q35\", \"strength\": 3}, {\"code\": \"F51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

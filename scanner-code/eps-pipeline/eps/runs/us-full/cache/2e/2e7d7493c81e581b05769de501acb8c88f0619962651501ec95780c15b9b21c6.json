@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"English language skill requirement for foreign commercial vehicle operators\", \"codes\": [{\"code\": \"J61\", \"strength\": 3}, {\"code\": \"J28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df9aa39788f.P004.S001\"], \"anchor\": null, \"reason\": \"Does expanding 401(k) alternative asset options improve retirement savings outcomes for American workers?\"},{\"unit_ids\": [\"Df9aa39788f.P006.S001\", \"Df9aa39788f.P006.S002\"], \"anchor\": null, \"reason\": \"Does allowing 401(k) plans to consider alternative assets increase investment diversity and improve worker retirement outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

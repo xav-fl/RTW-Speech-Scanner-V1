@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4a8b81d5f3.P004.S001\"], \"anchor\": \"the SBA is offering a final extension with a simple expectation that local leaders and insurers will finally do their jobs.\", \"reason\": \"Does extending disaster loan disbursement deadlines improve rebuilding rates and recovery outcomes for wildfire survivors?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

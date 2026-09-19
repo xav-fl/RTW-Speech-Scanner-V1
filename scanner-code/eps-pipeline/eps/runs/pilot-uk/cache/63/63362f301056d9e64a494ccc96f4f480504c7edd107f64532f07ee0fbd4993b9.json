@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"selective high-skilled immigration policy and migration volume controls\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"J61\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

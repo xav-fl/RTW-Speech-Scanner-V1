@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1696fac7ff.P003.S001\", \"D1696fac7ff.P005.S001\"], \"anchor\": null, \"reason\": \"Does selling surplus federal properties save taxpayer costs and generate regional economic activity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

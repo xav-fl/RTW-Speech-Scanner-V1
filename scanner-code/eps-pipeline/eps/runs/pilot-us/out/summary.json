@@ -1,0 +1,31 @@
+{
+  "documents_screened": 27,
+  "documents_with_observations": 17,
+  "observations_kept": 45,
+  "observations_rejected": 5,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 27
+  },
+  "reject_reasons": {
+    "anchor phrase does not appear exactly in the units": 4,
+    "JEL classification failed validation: no defensible economic object: classifier assigned no JEL code": 1
+  },
+  "by_institution": {
+    "Department of State": 23,
+    "Department of the Treasury": 12,
+    "General Services Administration": 2,
+    "Environmental Protection Agency": 2,
+    "Department of Transportation": 2,
+    "Department of Agriculture": 1,
+    "National Aeronautics and Space Administration": 1,
+    "Social Security Administration": 1,
+    "Department of Labor": 1
+  },
+  "files": {
+    "dataset": "runs\\pilot-us\\out\\dataset.csv",
+    "internal": "runs\\pilot-us\\out\\observations_internal.csv",
+    "screening_log": "runs\\pilot-us\\out\\screening_log.csv",
+    "rejected": "runs\\pilot-us\\out\\rejected.csv"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"US foreign policy objectives toward Venezuela: drug trafficking, migration, oil, geopolitical influence\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"Q35\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D078ad22441.P009.S001\"], \"anchor\": null, \"reason\": \"Does HUD investigation and enforcement of Fair Housing Act reduce religious discrimination in housing markets?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

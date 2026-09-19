@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"D6ef1bc9aef.P012.S001\", \"D6ef1bc9aef.P012.S002\"], \"anchor\": null, \"reason\": \"Do guaranteed-hours reforms reduce income volatility and financial hardship for zero-hours workers?\"}, {\"unit_ids\": [\"D6ef1bc9aef.P013.S001\"], \"anchor\": null, \"reason\": \"Does banning exploitative zero-hours contracts improve worker wellbeing and dignity at work?\"}, {\"unit_ids\": [\"D6ef1bc9aef.P014.S001\"], \"anchor\": null, \"reason\": \"What design parameters for guaranteed-hours rules minimise unintended labour market consequences?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

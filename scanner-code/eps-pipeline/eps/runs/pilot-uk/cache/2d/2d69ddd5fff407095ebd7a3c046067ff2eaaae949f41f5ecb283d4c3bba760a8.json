@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"UK-EU economic and security partnership integration\", \"codes\": [{\"code\": \"F15\", \"strength\": 3}, {\"code\": \"F51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7a8aa0e9ca.P009.S001\"], \"anchor\": \"maintain American leadership in low Earth orbit\", \"reason\": \"Policy priority: LEO economy and space leadership commitment\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"Triple Lock uprating rule for State Pension benefits\", \"codes\": [{\"code\": \"H55\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

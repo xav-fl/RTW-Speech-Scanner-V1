@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"rail fare price freeze for passengers\", \"codes\": [{\"code\": \"R48\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

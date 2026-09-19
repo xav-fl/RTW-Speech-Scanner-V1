@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"age-based ban on livestreaming across digital platforms\", \"codes\": [{\"code\": \"L88\", \"strength\": 3}, {\"code\": \"J13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

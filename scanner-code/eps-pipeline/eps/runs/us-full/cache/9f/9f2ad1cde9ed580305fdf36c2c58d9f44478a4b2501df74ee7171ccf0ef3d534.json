@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"oil sanctions enforcement blocking PDVSA revenue\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"Q38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

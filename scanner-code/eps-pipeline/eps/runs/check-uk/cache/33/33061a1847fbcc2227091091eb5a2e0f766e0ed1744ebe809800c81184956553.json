@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"reallocation of police resources from online speech monitoring to street patrol and crime enforcement\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

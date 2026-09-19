@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D29db5a6019.P006.S001\", \"D29db5a6019.P006.S002\", \"D29db5a6019.P006.S003\"], \"anchor\": null, \"reason\": \"What are the long-term wealth-building effects of a $1,000 government seed deposit in a child savings account?\"},{\"unit_ids\": [\"D29db5a6019.P009.S001\"], \"anchor\": \"every eligible child in America will be able to participate, including those for whom the state serves as a legal guardian.\", \"reason\": \"Does including foster children in universal child savings accounts improve their long-term financial outcomes?\"},{\"unit_ids\": [\"D29db5a6019.P009.S002\"], \"anchor\": \"States can also help foster youth to accelerate their gains by directing survivor and SSI benefits into their Trump Accounts.\", \"reason\": \"Does redirecting survivor and SSI benefits into child savings accounts increase asset accumulation for foster youth?\"},{\"unit_ids\": [\"D29db5a6019.P009.S003\"], \"anchor\": null, \"reason\": \"Does dedicated Treasury guidance to child welfare agencies improve foster youth enrolment in savings programmes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

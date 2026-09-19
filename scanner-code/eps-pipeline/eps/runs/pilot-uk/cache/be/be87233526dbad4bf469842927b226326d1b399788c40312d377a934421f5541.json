@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df70294a36d.P019.S002\"], \"anchor\": \"We're proud to be backing British industry, investing in local talent and partnering with powerhouses like Universal to create jobs, growth and opportunities across the UK.\", \"reason\": \"Government commitment to backing creative industries and job creation\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"targeted vaccination programme for university students in halls of residence\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

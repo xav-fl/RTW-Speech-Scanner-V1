@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"emergency loan access for agricultural producers after weather disaster\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"H84\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

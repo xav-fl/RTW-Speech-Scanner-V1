@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc5c9f9cc6d.P005.S001\", \"Dc5c9f9cc6d.P005.S002\"], \"anchor\": null, \"reason\": \"Does accelerated denaturalization of individuals who concealed criminal histories deter immigration fraud?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

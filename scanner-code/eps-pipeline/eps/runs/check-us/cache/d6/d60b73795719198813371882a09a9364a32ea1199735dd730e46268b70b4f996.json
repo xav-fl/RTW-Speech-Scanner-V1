@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3e1fd6d4be.P008.S001\"], \"anchor\": null, \"reason\": \"Does a US-Sweden technology cooperation MOU increase bilateral innovation output and economic competitiveness?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

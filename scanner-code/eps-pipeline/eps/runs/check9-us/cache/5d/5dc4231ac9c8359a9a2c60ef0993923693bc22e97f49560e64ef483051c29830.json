@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6a5792ae52.P008.S001\"], \"anchor\": null, \"reason\": \"Does strengthening anti-fraud safeguards and illicit-finance detection reduce criminal exploitation of financial institutions?\"},{\"unit_ids\": [\"D6a5792ae52.P010.S001\", \"D6a5792ae52.P010.S002\"], \"anchor\": null, \"reason\": \"Does issuing red-flag guidance on payroll fraud and shell companies improve suspicious activity reporting by banks?\"},{\"unit_ids\": [\"D6a5792ae52.P018.S002\"], \"anchor\": null, \"reason\": \"Does enabling real-time inter-institution fraud information sharing improve detection and prevention of illicit financial activity?\"},{\"unit_ids\": [\"D6a5792ae52.P022.S002\"], \"anchor\": null, \"reason\": \"Does a risk-focused regulatory framework reduce compliance burden on community banks while maintaining financial integrity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

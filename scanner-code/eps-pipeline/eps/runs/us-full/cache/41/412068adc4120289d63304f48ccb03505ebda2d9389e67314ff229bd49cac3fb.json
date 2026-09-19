@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9512e732a4.P020.S001\"], \"anchor\": \"recalibrating our acquisition strategy — including a build versus buy versus service procurement approach — restoring core competencies through initiatives like converting contractors to civil servant roles and increasing our launch cadence\", \"reason\": \"What are the cost and efficiency effects of converting NASA contractors to civil servant roles versus outsourcing?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

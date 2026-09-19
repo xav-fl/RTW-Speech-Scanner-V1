@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"defence spending as driver of employment and economic growth\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"E24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

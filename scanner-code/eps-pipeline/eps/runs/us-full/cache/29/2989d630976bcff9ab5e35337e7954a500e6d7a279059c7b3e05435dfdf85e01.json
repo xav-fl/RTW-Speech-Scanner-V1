@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"eligibility restriction on foreign nationals for government-guaranteed small business loans\", \"codes\": [{\"code\": \"G28\", \"strength\": 3}, {\"code\": \"F22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bank capital requirements and ringfencing rules to expand lending capacity\", \"codes\": [{\"code\": \"G28\", \"strength\": 3}, {\"code\": \"G21\", \"strength\": 2}, {\"code\": \"E51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

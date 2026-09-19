@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D145a99edd2.P006.S001\", \"D145a99edd2.P006.S002\"], \"anchor\": null, \"reason\": \"Does allowing disaster survivors to bypass local permitting requirements accelerate disaster loan drawdown and recovery outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

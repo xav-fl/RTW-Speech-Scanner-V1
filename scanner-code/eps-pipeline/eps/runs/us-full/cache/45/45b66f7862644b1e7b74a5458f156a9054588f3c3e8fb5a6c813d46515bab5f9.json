@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D820694df1b.P004.S001\"], \"anchor\": null, \"reason\": \"Does requiring federal employees to sign NDAs reduce unauthorized disclosures of sensitive government information?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

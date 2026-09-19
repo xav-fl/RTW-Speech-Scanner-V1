@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"age-based access restriction to social media platforms\", \"codes\": [{\"code\": \"L86\", \"strength\": 3}, {\"code\": \"J13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

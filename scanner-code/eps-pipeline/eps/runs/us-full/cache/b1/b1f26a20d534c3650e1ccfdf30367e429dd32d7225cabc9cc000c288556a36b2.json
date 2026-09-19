@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory modernization to improve capital access for emerging growth companies\", \"codes\": [{\"code\": \"G18\", \"strength\": 3}, {\"code\": \"G24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

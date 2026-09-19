@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7fa090d683.P004.S001\"], \"anchor\": null, \"reason\": \"Does a centralised complaint portal for regulatory lawfare reduce regulatory burden on small agricultural producers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

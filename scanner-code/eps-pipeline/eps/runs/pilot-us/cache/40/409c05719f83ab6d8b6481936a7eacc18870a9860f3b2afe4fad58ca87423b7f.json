@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"Western alliance industrial policy, supply chain security, and market competition in emerging economies\", \"codes\": [{\"code\": \"F52\", \"strength\": 3}, {\"code\": \"L52\", \"strength\": 2}, {\"code\": \"F13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

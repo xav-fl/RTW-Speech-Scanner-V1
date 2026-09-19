@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4f1ea64e7a.P015.S001\", \"D4f1ea64e7a.P015.S002\", \"D4f1ea64e7a.P015.S003\", \"D4f1ea64e7a.P015.S004\", \"D4f1ea64e7a.P015.S005\", \"D4f1ea64e7a.P015.S006\"], \"anchor\": null, \"reason\": \"Do oil sanction relief arrangements that condition revenue use on public benefit spending stabilise post-regime economies?\"},{\"unit_ids\": [\"D4f1ea64e7a.P017.S001\", \"D4f1ea64e7a.P017.S002\", \"D4f1ea64e7a.P017.S003\"], \"anchor\": null, \"reason\": \"Does a supervised monthly budget mechanism for sanctioned-oil revenues improve public service delivery in transitional states?\"},{\"unit_ids\": [\"D4f1ea64e7a.P018.S001\"], \"anchor\": null, \"reason\": \"Do oil-revenue licensing arrangements tied to public benefit conditions improve welfare outcomes in post-authoritarian transitions?\"},{\"unit_ids\": [\"D4f1ea64e7a.P020.S001\", \"D4f1ea64e7a.P020.S002\", \"D4f1ea64e7a.P020.S003\"], \"anchor\": null, \"reason\": \"Does liberalising hydrocarbon laws to allow private investment attract sufficient capital to revive oil-dependent economies?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

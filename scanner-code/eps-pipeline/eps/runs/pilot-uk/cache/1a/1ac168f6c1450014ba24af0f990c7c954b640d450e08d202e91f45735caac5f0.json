@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"reforming right-to-buy to preserve social housing stock\", \"codes\": [{\"code\": \"R38\", \"strength\": 3}, {\"code\": \"R31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

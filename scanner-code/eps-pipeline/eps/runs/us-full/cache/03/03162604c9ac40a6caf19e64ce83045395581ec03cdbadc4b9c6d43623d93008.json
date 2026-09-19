@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"devolution of federal education authority to states\", \"codes\": [{\"code\": \"I28\", \"strength\": 3}, {\"code\": \"H77\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

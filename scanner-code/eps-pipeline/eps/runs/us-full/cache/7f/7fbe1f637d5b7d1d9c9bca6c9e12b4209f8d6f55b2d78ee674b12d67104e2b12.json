@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De257d462b2.P004.S002\"], \"anchor\": null, \"reason\": \"Does halting coal plant closures and expanding coal infrastructure affect energy prices and grid reliability?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

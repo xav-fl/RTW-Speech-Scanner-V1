@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"shelter eligibility rules by sex identity in federally-supported housing\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"J16\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

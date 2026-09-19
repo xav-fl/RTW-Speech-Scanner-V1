@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bilateral energy sector cooperation for regional energy security and investment\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"F21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

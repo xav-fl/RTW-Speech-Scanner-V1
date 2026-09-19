@@ -1,0 +1,115 @@
+New GOV.UK service for people in England and Wales to check quickly if they can access or are included in plans for government-backed broadband upgrades
+
+Comes as UK government’s rollout ramps up across the UK with Project Gigabit now rolling out to over 750 premises per day – the fastest rate since the programme launched in 2021
+
+Openreach engineers are now bringing full fibre upgrades to properties in more than 100 rural towns and villages, and remote communities on the Scottish island of Islay are enjoying 4G mobile coverage for the first time
+
+People in need of faster broadband can now find out in a few taps if they are due for a government-funded upgrade, thanks to an online address checker launched today (Friday 13 March).
+
+The new GOV.UK service allows people in England and Wales to enter their postcode to instantly see if their home or business is covered by existing rollout plans, whether through the government’s Project Gigabit rollout targeting hard-to-reach areas or the telecoms industry’s own commercial plans. This will empower rural communities to more easily see how the government’s multi-billion-pound investment in gigabit rollout could benefit them.
+
+It comes as Project Gigabit drives a surge of spades in the ground to deliver lightning-fast full fibre to neighbourhoods across the British countryside. The UK government is now delivering broadband upgrades at its fastest rate since Project Gigabit started in 2021, with over 750 homes and businesses gaining access to a gigabit-capable connection every day as a direct result of its investment.* Over a million more premises are due to receive upgrades through live Project Gigabit contracts, and even more are expected to fall into scope in the months ahead.
+
+Through a landmark deal struck with Openreach worth up to £1.2 billion, engineers are now bringing full fibre broadband upgrades to properties in more than 100 rural towns and villages across England and Wales. Meanwhile, hundreds more are now receiving government-backed upgrades from the many other broadband providers working on Project Gigabit.
+
+As the government continues its mission to achieve 99% gigabit coverage by 2032, the online address checker makes it much simpler and quicker for people struggling with slow connections to find out if upgrades are available in their area or what plans are in place to deliver these in the future.
+
+Gigabit-capable broadband delivers faster, more reliable internet that can handle multiple users downloading, streaming or online gaming at the same time. The rollout will ensure households and businesses can stay connected now and in the future, with fewer outages and less competition for bandwidth.
+
+UK Telecoms Minister, Liz Lloyd, said:
+
+> Many rural communities have long struggled to do even the basics online due to slow internet speeds. Now, hundreds of households and companies are receiving government-funded upgrades every day - helping those who would otherwise miss out.
+
+> Our new address checker puts power in people’s hands to instantly find out when faster broadband is coming to their doorstep, helping them seize the opportunities of the digital age no matter where they live or work.
+
+Katie Milligan, Openreach’s Deputy CEO, said:
+
+> We’re proud to be working with the UK government to extend the reach of faster, more reliable full fibre broadband to some of Britain’s hardest-to-reach communities. Our engineers live and work in these areas too, so they know how much difference good connectivity can make to everyday life.
+
+> Our new network is already available to more than 22 million homes and businesses and, as our Project Gigabit partnership accelerates, even more communities will start to see the benefits - whether that’s better access to online services, new opportunities for local businesses, or simply being able to stay connected with friends and family.
+
+Mobile coverage in rural areas is also continuing to improve thanks to government investment, most recently on the Scottish island of Islay where a new 4G mast has just been activated – providing fast, reliable mobile internet for communities that previously couldn’t get a signal at all.
+
+Through the Shared Rural Network (SRN) programme, 123 mobile masts have been upgraded or built to provide 4G coverage from all mobile network operators, including 50 in Wales, 43 in Scotland and 30 in England. The upgrades mean 4G is now available across over 4000 sq km that previously had limited coverage – equivalent to the size of Greater London, Birmingham, Manchester, Glasgow and Edinburgh combined. The vast majority of these upgrades involved improving equipment on existing masts, minimising any impact on local scenery through new infrastructure.
+
+The new 4G mast located on the west of Islay was built by EE and will deliver commercial coverage from all major operators, including Vodafone, Three and Virgin Media O2. 4G is now available at popular tourist destinations including the Ballinaby Standing Stones, Loch Gorm, Machir Bay Beach, and Saligo Bay Beach – providing a much-needed boost for residents and local businesses.
+
+Islay has a population of just over 3,000 people but welcomes hundreds of thousands of visitors each year. The island is home to some of the world’s most famous whisky brands, including the Kilchoman distillery, the first farm distillery built on the island in more than a century.
+
+The distillery’s General Manager, Islay Heads, said:
+
+> I think people on the mainland take reliable 4G connectivity for granted, but we certainly don’t. From a business perspective, our visitors are now able to post reviews and photos before they leave the site, something guests often forgot to do before, as they had to wait until they had a mobile signal. We can also now run live presentations and tastings from areas outside the distillery which allows more people to see how our traditional farm distilling process works.
+
+> It makes our ability to communicate with suppliers and team members much quicker as well. In modern business, these sorts of efficiencies are important to our overall success as a local enterprise and international brand.
+
+Ben Roome, CEO of Mova said:
+
+> People want a connection they can rely on, wherever they are. In less populated, rural, areas, modern 4G does that brilliantly. This site brings mobile broadband to parts of Islay that haven’t had it, making day‑to‑day life a bit easier for the people who live, work and visit.
+
+Notes to editors
+
+Check your gigabit broadband availability here.
+
+For any premises that are not covered by current plans, the checker will redirect them to Ofcom to see which broadband suppliers are active in their area. They can then contact them to register their interest in an upgrade, which will demonstrate demand in their area and may help them decide to expand their rollout. Even if a property isn’t currently under plans, there are further Project Gigabit contracts due to be announced in the coming months which will see many more premises benefit from upgrades.
+
+Below is a list of towns and villages where Openreach is currently rolling out upgrades, either within these locations or their surrounding areas, as part of Project Gigabit. This list does not include areas where other suppliers are currently delivering government-funded rollout.
+
+Build information included in this news release reflects Openreach’s plans at the time of publication.
+
+Hertfordshire: Hatfield, Ware Park, Wadesmill
+
+Lancashire: Clayton le Dale, Briercliffe, Southfield, Pleasington, Tockholes, Oswaldtwistle, Great Harwood, Pendleton, Clitheroe, West Bradford, Waddington, Bashall Eaves, Whalley, Whalley Banks, Blacko, Turton, Belmont, Holcombe, Ormskirk, Scarisbrick, Leyland, Nateby, Scorton, Inskip, Longton, Hutton, Tarleton, Mere Brow, Hundred End, Hesketh Bank, Whittle‑le‑Woods, Southport
+
+Surrey: Bisley, West End (Woking), East Clandon, Lower Eashing, Milford, Pirbright, Enton, Betchworth
+
+Wiltshire: Sutton Benger, Brinkworth, Oaksey, Baydon, Clatford
+
+Staffordshire: Wolseley Bridge, Tixall
+
+Devon: Chulmleigh, Winkleigh, Harracott, Kentisbury, Combe Martin, Berrynarbor, Umberleigh, High Bickington, Chapelton, Atherington, Burrington, Dunkeswell, Burlescombe, Rockbeare, Bradninch, Newton St Cyres, Cowley
+
+Somerset: Clapton in Gordano, Clevedon, Hewish, Rolstone, Potters Hill, Brockley, Backwell, Barrow Gurney, Winscombe, Winscombe Hill
+
+Gwynedd: Tal‑y‑llyn, Tywyn, Bryncrug, Mynydd Nefyn, Rhydyclafdy
+
+Swansea: Reynoldston, Knelston
+
+Neath Port Talbot: Rhiwfawr
+
+Montgomeryshire: Llanfair Caereinion, Llangyniew, Dolanog, Cyfronydd
+
+Ceredigion: Rhos‑y‑garth
+
+Wrexham: Brymbo, Ffrith, Penley, Wrexham, Hanmer, Halghton, Horsemans Green
+
+Conwy: Cerrigydrudion, Llanddulas, Abergele
+
+Shropshire: Much Wenlock, Six Ashes, Coton, Bridgnorth, Quatt, Quatford, Cantern Bank, Eardington, Oldbury
+
+* This figure covers 1 to 31 December 2025, which is the most recent monthly period where assured delivery data is available. It is based on the total premises passed in December, averaged across the 31 days of the month, using BDUK management information as of 2 February 2026. It remains subject to the methodological considerations set out in the Quality and Methodology Information (QMI) document.
+
+About Project Gigabit
+
+Project Gigabit is a government-funded programme to enable hard-to-reach communities to access fast, reliable gigabit-capable broadband. It targets homes and businesses that are not included in broadband suppliers’ commercial plans, reaching parts of the UK that might otherwise miss out on upgrades to next-generation speeds. The connections delivered by Project Gigabit will benefit rural communities, as well as tackling pockets of poor connectivity in urban areas. Project Gigabit is crucial to the government’s mission to break down barriers to opportunity and kickstart economic growth across the country.
+
+About Openreach
+
+We’re the people that make the net work.
+
+Our wholesale broadband network – the UK’s largest – supports more than 680 service providers like BT, SKY, TalkTalk, Vodafone and Zen to provide broadband, TV, phone, data and mobile services to their customers.
+
+Any company can access our network through equal pricing, terms and conditions, and our team of around 28,000 people help deliver services to every community in the UK.
+
+Right now, we’re investing £15 billion to build a new Full Fibre broadband network to 25 million homes and businesses by the end of 2026. Work is on track, with the company intending to go even further - to as many as 30 million premises by the end of the decade - assuming conditions for investment remain supportive.
+
+We’ve already reached 21 million premises and we’re passing thousands more every week. And we’re retraining thousands of our existing engineers to help build, connect and maintain the new network.
+
+Our new network will help Openreach and its customers to dramatically cut emissions, with research suggesting nationwide Full Fibre broadband could save 400 million commuter trips every year. We’re also switching our commercial fleet - the UK’s second largest - to zero emissions by 2031.
+
+We’re a wholly owned and independent subsidiary of the BT Group and for the year up to the end of March 2025, we reported revenues of £6.157 billion. Find out more about Openreach.
+
+DSIT media enquiries
+
+Email press@dsit.gov.uk
+
+Monday to Friday, 8:30am to 6pm 020 7215 3000

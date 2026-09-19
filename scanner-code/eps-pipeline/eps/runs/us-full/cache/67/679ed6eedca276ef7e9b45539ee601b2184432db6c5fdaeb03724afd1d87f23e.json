@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government recruitment of cybersecurity professionals\", \"codes\": [{\"code\": \"H56\", \"strength\": 2}, {\"code\": \"J45\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

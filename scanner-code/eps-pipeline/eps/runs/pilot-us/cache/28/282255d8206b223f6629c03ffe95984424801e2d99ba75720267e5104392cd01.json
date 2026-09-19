@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"payroll tax evasion, shell companies, and labor broker fraud detection by financial institutions\", \"codes\": [{\"code\": \"H26\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}, {\"code\": \"J46\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

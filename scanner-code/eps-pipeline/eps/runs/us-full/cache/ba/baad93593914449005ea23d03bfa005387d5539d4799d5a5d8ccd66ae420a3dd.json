@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [\n  {\n    \"unit_ids\": [\"Dce917105c2.P002.S002\"],\n    \"anchor\": null,\n    \"reason\": \"Does streamlining permitting processes accelerate post-disaster rebuilding and improve outcomes for wildfire victims?\"\n  }\n]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"financial institution guidance on detecting payroll tax evasion and labor exploitation schemes\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"H26\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

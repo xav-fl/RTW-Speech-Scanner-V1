@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D79662b9ba8.P001.S001\"], \"anchor\": \"I am designating Afghanistan as a State Sponsor of Wrongful Detention.\", \"reason\": \"What are the behavioural and economic effects of designating a country as a State Sponsor of Wrongful Detention?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

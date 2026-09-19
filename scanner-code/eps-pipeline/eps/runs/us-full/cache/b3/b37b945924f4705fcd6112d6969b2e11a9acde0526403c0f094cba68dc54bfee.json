@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D89cbedf182.P004.S001\"], \"anchor\": \"By connecting small domestic suppliers with major buyers, SBA is helping to strengthen supply chains, expand production capacity, and drive investment back into American communities.\", \"reason\": \"Does a government-run supplier matchmaking programme increase small business participation in domestic supply chains?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

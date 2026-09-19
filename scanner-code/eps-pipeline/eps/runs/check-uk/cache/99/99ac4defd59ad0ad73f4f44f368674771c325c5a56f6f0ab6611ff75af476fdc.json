@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D60738dbea1.P020.S001\"], \"anchor\": null, \"reason\": \"Does expanding offshore wind via Contracts for Difference lower energy costs compared to new gas plant investment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

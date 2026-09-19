@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"pro-growth fiscal and economic freedom policies promoting saving, investment, and entrepreneurship\", \"codes\": [{\"code\": \"E62\", \"strength\": 2}, {\"code\": \"O43\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

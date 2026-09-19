@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db93adcbbd3.P005.S001\"], \"anchor\": null, \"reason\": \"Do no-tax rules on tips, social security, and overtime pay affect labour supply and earnings reporting?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

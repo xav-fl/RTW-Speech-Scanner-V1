@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8677fbc70b.P005.S001\"], \"anchor\": null, \"reason\": \"Do federal dietary guidelines recommending whole foods and reducing processed foods improve population health outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

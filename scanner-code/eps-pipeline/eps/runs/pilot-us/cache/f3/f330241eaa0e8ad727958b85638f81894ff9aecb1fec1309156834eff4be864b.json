@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3e1fd6d4be.P007.S007\"], \"anchor\": \"we're going to build what is already a shared legacy and history of cooperation in the fields of technology and innovation to become even more competitive in the years to come\", \"reason\": \"Commitment to deepen tech/innovation cooperation for competitiveness\"}, {\"unit_ids\": [\"D3e1fd6d4be.P008.S001\"], \"anchor\": null, \"reason\": \"Agreement to boost competitiveness in biotech, AI, telecom sectors\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"temporary funding channel for Venezuelan humanitarian needs with use restrictions\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"H84\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

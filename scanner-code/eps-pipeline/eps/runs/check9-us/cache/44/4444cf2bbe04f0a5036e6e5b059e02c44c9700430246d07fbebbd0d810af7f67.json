@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1338623d83.P006.S002\"], \"anchor\": \"our restriction on Mexican carriers will remain in place.\", \"reason\": \"Do restrictions on foreign carriers' routes improve compliance with bilateral air transport agreements?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

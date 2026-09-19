@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory relief and support for small meat processing businesses\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"L51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

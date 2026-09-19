@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"confidentiality agreements for federal employees handling sensitive information\", \"codes\": [{\"code\": \"J45\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

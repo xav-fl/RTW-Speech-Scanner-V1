@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1da71c6e81.P002.S001\"], \"anchor\": null, \"reason\": \"Realigning foreign assistance toward Asia/Western Hemisphere and strengthening country health systems\"}, {\"unit_ids\": [\"D1da71c6e81.P004.S001\"], \"anchor\": null, \"reason\": \"Moving Food for Peace to Agriculture Department due to agricultural sector links\"}, {\"unit_ids\": [\"D1da71c6e81.P004.S002\"], \"anchor\": null, \"reason\": \"Foreign assistance should serve national interest strategy, not operate independently\"}, {\"unit_ids\": [\"D1da71c6e81.P005.S001\", \"D1da71c6e81.P005.S002\"], \"anchor\": null, \"reason\": \"Best foreign assistance programs end when recipient countries become self-sufficient\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

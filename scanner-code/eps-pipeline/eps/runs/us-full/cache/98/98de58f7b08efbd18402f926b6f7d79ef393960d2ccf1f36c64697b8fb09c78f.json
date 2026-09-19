@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D104a80f79a.P008.S001\"], \"anchor\": null, \"reason\": \"Does a $24 billion investment in Coast Guard revitalisation improve readiness and capacity to meet security threats?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

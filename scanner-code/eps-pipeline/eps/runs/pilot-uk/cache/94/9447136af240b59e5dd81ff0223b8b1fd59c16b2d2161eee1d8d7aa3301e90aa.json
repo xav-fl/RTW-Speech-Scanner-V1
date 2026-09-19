@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"geographically balanced economic growth across regions\", \"codes\": [{\"code\": \"R11\", \"strength\": 3}, {\"code\": \"O18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

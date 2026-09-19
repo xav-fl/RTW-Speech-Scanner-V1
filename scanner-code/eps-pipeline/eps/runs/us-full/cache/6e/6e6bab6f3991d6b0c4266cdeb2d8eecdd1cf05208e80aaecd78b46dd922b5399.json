@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De00056b17e.P004.S001\", \"De00056b17e.P004.S002\"], \"anchor\": null, \"reason\": \"Does raising the SBA cumulative loan limit to $10 million increase small business capital access, hiring, and growth?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

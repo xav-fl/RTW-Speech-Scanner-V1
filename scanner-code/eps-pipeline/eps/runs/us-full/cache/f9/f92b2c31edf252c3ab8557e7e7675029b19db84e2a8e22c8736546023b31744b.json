@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"hospital food quality standards to reduce chronic disease\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"I12\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

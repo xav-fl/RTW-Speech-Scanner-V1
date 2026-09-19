@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D429ce38696.P005.S001\", \"D429ce38696.P005.S002\", \"D429ce38696.P005.S003\", \"D429ce38696.P005.S004\", \"D429ce38696.P005.S005\"], \"anchor\": null, \"reason\": \"Do oil sanctions/seizures on Venezuelan shipments reduce regime revenue and pressure political change?\"},{\"unit_ids\": [\"D429ce38696.P005.S007\"], \"anchor\": null, \"reason\": \"Does conditioning sanctions relief on stopping drug trafficking and expelling foreign actors change Venezuelan government behaviour?\"},{\"unit_ids\": [\"D429ce38696.P087.S006\", \"D429ce38696.P087.S007\"], \"anchor\": \"They need investment from private companies who are only going to invest under certain guarantees and conditions. That has to go to the benefit of the Venezuelan people.\", \"reason\": \"What governance conditions and guarantees are needed to attract private investment in Venezuela's oil sector?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

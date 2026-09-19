@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"investment-led growth model with active state, fiscal stability, and infrastructure investment\", \"codes\": [{\"code\": \"E62\", \"strength\": 3}, {\"code\": \"H54\", \"strength\": 2}, {\"code\": \"O43\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

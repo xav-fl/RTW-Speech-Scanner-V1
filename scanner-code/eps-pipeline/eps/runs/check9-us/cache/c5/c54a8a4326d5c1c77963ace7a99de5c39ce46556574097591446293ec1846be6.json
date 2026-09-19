@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"directing government transfer benefits into savings accounts for foster youth\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"D14\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"cyber risk regulation of financial firms and third-party service providers\", \"codes\": [{\"code\": \"G28\", \"strength\": 3}, {\"code\": \"G32\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

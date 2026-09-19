@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dfca36a52a3.P001.S001\"], \"anchor\": null, \"reason\": \"Does $150 million in one-time payments to sugar farmers stabilise production and offset market disruption costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

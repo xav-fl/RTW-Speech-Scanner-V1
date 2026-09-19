@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6821555683.P005.S002\"], \"anchor\": null, \"reason\": \"Does purchasing US-grown food for nutrition programmes improve food security outcomes and farm incomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

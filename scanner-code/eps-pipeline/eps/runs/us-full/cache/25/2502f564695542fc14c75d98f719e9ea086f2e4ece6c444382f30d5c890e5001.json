@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal student loan portfolio management and default rates\", \"codes\": [{\"code\": \"I22\", \"strength\": 3}, {\"code\": \"H52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

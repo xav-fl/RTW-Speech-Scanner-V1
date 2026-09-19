@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"cost of living reduction via energy bills, prescription charges, rail fares, and fiscal buffers\", \"codes\": [{\"code\": \"E31\", \"strength\": 3}, {\"code\": \"H62\", \"strength\": 2}, {\"code\": \"I31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

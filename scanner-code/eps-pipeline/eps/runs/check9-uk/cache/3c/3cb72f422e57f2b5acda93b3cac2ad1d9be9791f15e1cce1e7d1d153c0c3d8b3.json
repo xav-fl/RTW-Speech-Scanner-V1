@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"educational attainment gap by socioeconomic background\", \"codes\": [{\"code\": \"I24\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"centralized disability review process to reduce improper payments in Social Security disability program\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"H55\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

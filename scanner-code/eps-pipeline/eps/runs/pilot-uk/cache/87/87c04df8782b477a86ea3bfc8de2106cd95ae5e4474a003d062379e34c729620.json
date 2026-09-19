@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6ef1bc9aef.P012.S001\", \"D6ef1bc9aef.P012.S002\"], \"anchor\": null, \"reason\": \"Policy commitment to end zero-hours uncertainty, saving low-paid workers hundreds\"}, {\"unit_ids\": [\"D6ef1bc9aef.P013.S001\"], \"anchor\": null, \"reason\": \"Government policy to ban exploitative zero hours contracts\"}, {\"unit_ids\": [\"D6ef1bc9aef.P014.S001\"], \"anchor\": null, \"reason\": \"Consulting to guard against unintended labour market consequences\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

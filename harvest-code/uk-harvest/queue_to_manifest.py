@@ -14,10 +14,15 @@ Typical pilot (one department, ten documents, mixed types):
         --institution "Department for Education" ^
         --limit 8 --sample spread --plus-shortest 2
 
-Everything, for the full run later:
+The full UK corpus. Read the text from the re-rendered folder (H-91) and leave
+out `letter`, which is a GOV.UK page describing an attachment, never the letter
+itself, and is excluded by decision (H-92):
 
-    python queue_to_manifest.py --queue extraction_queue.csv ^
-        --docs-root . --out manifest_all.csv
+    python queue_to_manifest.py --queue screening_log.csv ^
+        --rewrite-log documents_v2/rewrite_log.csv ^
+        --out manifest_uk_full.csv ^
+        --doc-type press_release --doc-type speech ^
+        --doc-type statement --doc-type op_ed
 
 If `eps ingest --write-template` produces different column names from the ones
 assumed here, generate a template first and pass it with --template; the header
@@ -27,13 +32,23 @@ will be copied from it verbatim.
 import argparse
 import csv
 import os
+import re
 import sys
 from collections import defaultdict
 
+_SENTENCE = re.compile(r"[.!?][\"'’”)]?(?:\s|$)")
+
 DEFAULT_COLUMNS = [
     "path", "institution", "country", "url", "title",
-    "doc_type", "date", "delivery_status", "speaker_hint",
+    "doc_type", "date", "delivery_status", "speaker_hint", "notes",
 ]
+
+#: Types that can be wholly one person's words. A press release linked to a
+#: minister is ABOUT their announcement; it is not their words, so a link never
+#: makes a press release whole-document -- its quotes are found by the
+#: colon-frame rule instead.
+WHOLE_DOCUMENT_TYPES = {"speech", "statement", "op_ed", "letter"}
+SPEAKER_IS_DOCUMENT = "speaker_is_document"
 
 
 def read_csv(path):
@@ -54,6 +69,15 @@ def row_to_manifest(r, docs_root, country):
         "date": r.get("date", "").strip(),
         "delivery_status": "unknown",
         "speaker_hint": r.get("expected_officeholder", "").strip(),
+        # The harvester's verdict on GOV.UK's speaker link. `linked` means the
+        # page names the expected officeholder as its speaker; `linked_mismatch`
+        # means it names someone else. Only the first, on a whole-document type,
+        # lets ingest attribute every unit to the officeholder (H-93).
+        "notes": (SPEAKER_IS_DOCUMENT
+                  if (r.get("speaker_match") or "").strip() == "linked"
+                  and (r.get("normalised_document_type") or "").strip()
+                  in WHOLE_DOCUMENT_TYPES
+                  else (r.get("speaker_match") or "").strip()),
     }
 
 
@@ -98,6 +122,9 @@ def main():
     ap.add_argument("--plus-shortest", type=int, default=0,
                     help="also include the N shortest documents, as negative "
                          "controls that should yield nothing")
+    ap.add_argument("--rewrite-log", default=None,
+                    help="documents_v2/rewrite_log.csv: take each document's "
+                         "path from the re-rendered text, not from text_file")
     ap.add_argument("--template", default=None,
                     help="an eps-generated manifest template; its header is "
                          "used instead of the built-in column list")
@@ -155,10 +182,49 @@ def main():
             columns = next(csv.reader(fh))
         print(f"  using column order from {args.template}: {columns}")
 
+    # The queue's `text_file` names the ORIGINAL extraction, which flattened
+    # GOV.UK's <blockquote> into plain paragraphs. On that text the attribution
+    # rule marks nothing in any press release: 0 units across 719 measured,
+    # against 2,250 on the re-rendered text (H-91). A manifest built from
+    # text_file therefore looks complete and extracts nothing from two thirds of
+    # the corpus. With --rewrite-log, the path comes from the rewriter's own
+    # record of where it wrote each URL, and a URL it did not write is dropped
+    # and named rather than silently falling back to the old file.
+    rewritten = None
+    if args.rewrite_log:
+        log_dir = os.path.dirname(os.path.abspath(args.rewrite_log))
+        rewritten = {}
+        for x in read_csv(args.rewrite_log):
+            if x.get("status") == "ok" and x.get("new_file"):
+                name = x["new_file"].replace("\\", "/").rsplit("/", 1)[-1]
+                rewritten[x["url"].strip()] = os.path.join(log_dir, name)
+        not_rewritten = [r for _, r in chosen if r.get("url", "").strip() not in rewritten]
+        if not_rewritten:
+            print(f"  dropped, not re-rendered: {len(not_rewritten)}")
+            for r in not_rewritten[:5]:
+                print(f"       {r.get('url', '')[:88]}")
+        chosen = [(i, r) for i, r in chosen if r.get("url", "").strip() in rewritten]
+
+    # A document with no sentence-ending punctuation anywhere is not prose --
+    # a headline, a download stub, a list of names -- and the model would be
+    # paid to find nothing in it. Same rule as the US manifest (H-89).
+    if rewritten is not None:
+        prose = []
+        for i, r in chosen:
+            body = open(rewritten[r["url"].strip()], encoding="utf-8",
+                        errors="replace").read()
+            if _SENTENCE.search(body):
+                prose.append((i, r))
+            else:
+                print(f"  dropped, no prose: {r.get('url', '')[:88]}")
+        chosen = prose
+
     out_rows = []
     missing_fields = []
     for i, r in chosen:
         m = row_to_manifest(r, args.docs_root, args.country)
+        if rewritten is not None:
+            m["path"] = rewritten[r["url"].strip()]
         for col in columns:
             m.setdefault(col, "")
         for col in ("path", "institution", "url", "title", "doc_type",

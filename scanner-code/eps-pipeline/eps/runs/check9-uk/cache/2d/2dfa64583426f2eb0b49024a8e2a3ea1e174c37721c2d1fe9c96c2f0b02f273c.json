@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D60738dbea1.P020.S001\"], \"anchor\": null, \"reason\": \"Does the Contracts for Difference auction price for offshore wind compare favourably to new gas plant costs, and what are the bill savings?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

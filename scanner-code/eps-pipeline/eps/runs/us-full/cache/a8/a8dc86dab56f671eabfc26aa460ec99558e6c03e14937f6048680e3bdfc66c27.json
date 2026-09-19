@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De660e99507.P008.S001\", \"De660e99507.P008.S002\"], \"anchor\": null, \"reason\": \"Does a $25 billion investment in the Coast Guard improve maritime security or border enforcement outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

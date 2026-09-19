@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De772a9e9e1.P003.S001\", \"De772a9e9e1.P005.S001\"], \"anchor\": null, \"reason\": \"Does federally funded shipbuilding apprenticeship training increase skilled maritime workforce supply and wages?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

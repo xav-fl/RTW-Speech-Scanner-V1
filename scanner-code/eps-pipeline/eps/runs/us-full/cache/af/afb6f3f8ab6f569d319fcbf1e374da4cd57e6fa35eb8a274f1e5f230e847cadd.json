@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"apprenticeship expansion target\", \"codes\": [{\"code\": \"J24\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0daeb9ce0e.P002.S002\", \"D0daeb9ce0e.P002.S003\", \"D0daeb9ce0e.P002.S004\"], \"anchor\": null, \"reason\": \"Does diversifying critical mineral supply chains reduce economic and security risks from supply concentration?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

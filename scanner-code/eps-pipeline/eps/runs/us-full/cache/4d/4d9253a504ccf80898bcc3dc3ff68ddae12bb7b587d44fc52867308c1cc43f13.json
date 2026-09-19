@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"SBA capital delivery to small businesses amid workforce reduction\", \"codes\": [{\"code\": \"L26\", \"strength\": 3}, {\"code\": \"G21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

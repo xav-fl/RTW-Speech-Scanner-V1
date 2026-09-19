@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government commodity purchases to support farm income and distribute food\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"H51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

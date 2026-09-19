@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"digitisation of public services delivery channel\", \"codes\": [{\"code\": \"H83\", \"strength\": 3}, {\"code\": \"O33\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

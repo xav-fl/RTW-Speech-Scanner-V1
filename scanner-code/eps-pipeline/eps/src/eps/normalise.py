@@ -320,9 +320,102 @@ def _mark_from_blocks(
 #: words. H-45 had already decided the narrower US set for the collector; this
 #: is ingest being brought into line with that decision rather than silently
 #: overriding it. See H-86.
+#:
+#: The UK entry is EMPTY, and that is the same decision reached from the other
+#: side. The UK set above grants whole-document attribution by type alone, and
+#: measured against GOV.UK's own speaker tag it names the wrong person three
+#: times in four: of 507 speeches, statements and op-eds, 386 were delivered by
+#: someone other than the Secretary of State they would be credited to -- junior
+#: ministers, UN ambassadors, the Chief Medical Officer, or nobody named at all.
+#: For the UK, whole-document attribution now comes only from the per-document
+#: verdict `speaker_is_document`, set when GOV.UK links the expected
+#: officeholder as the document's speaker (H-93). Callers that pass no country
+#: -- including every existing test -- still get `SPEAKER_ONLY_TYPES`.
+#:
+#: The US entry became empty for the same reason, measured the same way. Of 110
+#: US speeches and testimonies, 18 were delivered by someone other than the
+#: officeholder they were credited to -- an Associate Attorney General, a Deputy
+#: Secretary of State -- and 49 were transcripts in which reporters, foreign
+#: ministers and senators speak alongside him. The verdict now comes from the
+#: manifest per document, and transcripts are attributed line by line (H-94).
 COUNTRY_SPEAKER_ONLY_TYPES = {
-    "US": {"speech", "testimony"},
+    "US": set(),
+    "UK": set(),
 }
+
+#: Types that can be a transcript: several voices, each introduced by a label.
+TRANSCRIPT_TYPES = {"speech", "testimony", "interview_transcript"}
+
+#: A speaker label opening a paragraph: "SECRETARY RUBIO:", "QUESTION:",
+#: "PRIME MINISTER FICO:". Upper case only, which is how every transcript in the
+#: corpus prints them, and what keeps "Note:" or "Washington:" in ordinary
+#: prose from reading as a change of speaker.
+_SPEAKER_LABEL = re.compile(r"^\s*([A-Z][A-Z.'’\- ]{1,60}?)\s*:\s*")
+
+#: A transcript has at least this many DISTINCT labels. One label is a speech
+#: whose speaker is announced once; two is a conversation.
+TRANSCRIPT_MIN_LABELS = 2
+
+
+def speaker_label(text: str) -> str | None:
+    """The speaker label opening `text`, or None."""
+    m = _SPEAKER_LABEL.match(text or "")
+    if not m:
+        return None
+    label = m.group(1).strip()
+    if len(label.split()) > 6 or len(label) < 2:
+        return None
+    return label
+
+
+def _paragraph_openings(units: list[Unit]) -> list[str]:
+    """The first sentence of each paragraph, where a speaker label would be."""
+    seen: set[int] = set()
+    out: list[str] = []
+    for u in units:
+        if u.para_idx not in seen:
+            seen.add(u.para_idx)
+            out.append(u.text)
+    return out
+
+
+def transcript_labels(paragraphs) -> set:
+    """Distinct speaker labels opening the given paragraph texts."""
+    return {lab for lab in (speaker_label(t) for t in paragraphs) if lab}
+
+
+def _mark_transcript(units: list[Unit], speaker: str) -> list[Unit]:
+    """Attribute a transcript by its speaker labels.
+
+    A paragraph belongs to whoever was last labelled, so a Secretary's answer
+    running over four paragraphs stays his, and a reporter's question stays
+    the reporter's. Only paragraphs under a label naming the eligible speaker
+    are attributable. The label itself is not the speaker's words, so it is
+    trimmed from the unit exactly as the blockquote marker is.
+    """
+    paras: dict[int, list[int]] = {}
+    for i, u in enumerate(units):
+        paras.setdefault(u.para_idx, []).append(i)
+
+    out: list[Unit] = []
+    current = False
+    for p in sorted(paras):
+        first = units[paras[p][0]]
+        label = speaker_label(first.text)
+        if label:
+            current = speaker_names_match(label, speaker)
+        for n, i in enumerate(paras[p]):
+            u = units[i]
+            text, start = u.text, u.char_start
+            if label and n == 0:
+                shift = _SPEAKER_LABEL.match(text).end()
+                text, start = text[shift:], start + shift
+            out.append(Unit(
+                unit_id=u.unit_id, para_idx=u.para_idx, sent_idx=u.sent_idx,
+                text=text, char_start=start, char_end=u.char_end,
+                attributable=current and bool(text.strip()),
+            ))
+    return out
 
 
 def speaker_only_types(country: str | None = None) -> set:
@@ -366,6 +459,16 @@ def mark_attribution(
     exactly as it always has -- `blocks` defaults to None, so every existing
     caller takes the original path and its output cannot move.
     """
+    # A transcript is attributed by its labels before anything else, because
+    # neither the block sidecar nor the colon-frame rule can see who is talking
+    # in one: the US collector records no speaker on transcript blocks, and a
+    # whole-document verdict would hand every reporter's question and every
+    # foreign minister's answer to the officeholder (H-94).
+    if (speaker and not speaker_is_document and doc_type in TRANSCRIPT_TYPES
+            and len(transcript_labels(_paragraph_openings(units)))
+            >= TRANSCRIPT_MIN_LABELS):
+        return _mark_transcript(units, speaker)
+
     if blocks is not None:
         return _mark_from_blocks(units, doc_type, speaker, blocks, country,
                                  speaker_is_document)

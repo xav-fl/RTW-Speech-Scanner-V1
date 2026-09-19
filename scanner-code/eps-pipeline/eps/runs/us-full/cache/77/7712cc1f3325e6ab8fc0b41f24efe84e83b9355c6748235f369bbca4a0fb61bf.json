@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"reducing treatment access barriers for homeless individuals with drug addiction\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"I38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

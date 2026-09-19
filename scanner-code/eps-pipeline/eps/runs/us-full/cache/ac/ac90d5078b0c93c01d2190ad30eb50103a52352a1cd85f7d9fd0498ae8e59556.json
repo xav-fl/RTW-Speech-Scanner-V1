@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"monopolization of repair markets via Clean Air Act regulatory interpretation, harming farmers\", \"codes\": [{\"code\": \"L41\", \"strength\": 3}, {\"code\": \"Q18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

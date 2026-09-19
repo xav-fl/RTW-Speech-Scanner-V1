@@ -33,7 +33,9 @@ def _row(path, **over):
         "path": str(path), "institution": "Department for Education",
         "country": "UK", "url": "https://www.gov.uk/x", "title": "A speech",
         "doc_type": "speech", "date": "2026-03-04", "delivery_status": "unknown",
-        "speaker_hint": "A Minister", "notes": "",
+        # A UK speech is wholly the minister's only when GOV.UK links them as
+        # its speaker; the manifest carries that verdict (H-93).
+        "speaker_hint": "A Minister", "notes": "speaker_is_document",
     }
     row.update(over)
     return row
@@ -140,6 +142,54 @@ def test_legacy_client_kwarg_still_works(doc, tmp_path):
     ex = Extractor(tax, client=LegacyFakeClient(), cache=ResponseCache(tmp_path / "legacy"))
     obs = ex.extract(doc, "A Minister", run_id="t")
     assert obs and obs[0].provider == "anthropic"
+
+
+def test_jel_code_list_is_a_cached_identical_system_prefix(doc, tmp_path):
+    """The classification code list must travel in a cached system block that
+    is byte-identical on every call, with only the quotation in the user
+    message. A cache is a prefix match: a list placed after a changing
+    quotation is never read back, and nothing errors -- the run just costs
+    several times more (H-97)."""
+    sent = []
+
+    class RecordingClient:
+        class messages:
+            @staticmethod
+            def create(**kw):
+                sent.append(kw)
+                user = kw["messages"][0]["content"]
+                class B: type = "text"
+                b = B()
+                b.text = (_canned_responder("", user) if "DOCUMENT UNITS:" in user
+                          else json.dumps({"mechanism": "m", "codes": []}))
+                class U:
+                    input_tokens, output_tokens = 10, 5
+                    cache_creation_input_tokens = 0 if len(sent) > 2 else 100
+                    cache_read_input_tokens = 100 if len(sent) > 2 else 0
+                class R: content = [b]; usage = U()
+                return R()
+        messages = messages()
+
+    ex = Extractor(load_taxonomy(), client=RecordingClient())
+    ex.classify("We will raise the levy transfer cap to 50 per cent.")
+    ex.classify("We will cut the tax on small business profits.")
+    ex.select_units(doc, "A Minister")
+
+    jel_calls = [kw for kw in sent if isinstance(kw["system"], list)]
+    assert len(jel_calls) == 2
+    first, second = (kw["system"][0] for kw in jel_calls)
+    assert first == second                                   # identical prefix
+    assert first["cache_control"] == {"type": "ephemeral"}
+    assert "ACTIVE JEL CODES" in first["text"]
+    for kw in jel_calls:                                      # list not repeated
+        assert "ACTIVE JEL CODES" not in kw["messages"][0]["content"]
+
+    selection = [kw for kw in sent if isinstance(kw["system"], str)]
+    assert len(selection) == 1                               # selection uncached
+
+    usage = ex.provider.usage
+    assert usage["calls"] == 3
+    assert usage["cache_read_input_tokens"] == 100
 
 
 # --- cache does not collide across providers --------------------------------

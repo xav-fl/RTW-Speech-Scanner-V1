@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory certainty to encourage energy investment and job creation\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"L78\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

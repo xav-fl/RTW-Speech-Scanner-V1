@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7350dbc70c.P004.S001\", \"D7350dbc70c.P004.S002\", \"D7350dbc70c.P004.S003\"], \"anchor\": null, \"reason\": \"Does suspending suspected pandemic-loan fraudsters and pursuing criminal referrals deter fraud and recover public funds?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

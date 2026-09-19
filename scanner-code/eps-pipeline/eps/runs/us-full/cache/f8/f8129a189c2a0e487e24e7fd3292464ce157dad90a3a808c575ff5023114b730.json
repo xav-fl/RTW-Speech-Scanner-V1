@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"workforce support and reshoring subsidies for manufacturing supply chains\", \"codes\": [{\"code\": \"L52\", \"strength\": 3}, {\"code\": \"J24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

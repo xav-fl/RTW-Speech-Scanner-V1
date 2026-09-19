@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory streamlining to promote domestic energy development\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"L78\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

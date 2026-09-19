@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8f6c22d3a5.P007.S002\"], \"anchor\": \"HUD is making clear that real estate professionals can openly and lawfully provide this information in an equal and consistent manner to American families.\", \"reason\": \"Does allowing agents to share neighbourhood crime and school data affect homebuyer decisions, housing prices, or residential sorting?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

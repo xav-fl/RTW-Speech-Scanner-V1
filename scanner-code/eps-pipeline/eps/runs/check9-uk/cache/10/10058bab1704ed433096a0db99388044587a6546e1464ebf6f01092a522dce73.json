@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bilateral trade and cooperation agreements across multiple sectors\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"Q18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

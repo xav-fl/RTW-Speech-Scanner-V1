@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"expanding licensed private-sector trade with Cuba\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"P12\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

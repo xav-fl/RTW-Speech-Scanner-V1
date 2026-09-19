@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"U.S. energy export promotion and energy security diplomacy in Indo-Pacific\", \"codes\": [{\"code\": \"F52\", \"strength\": 3}, {\"code\": \"Q48\", \"strength\": 2}, {\"code\": \"F13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"administrative oversight of counter-extremism case management\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal homelessness program spending effectiveness and housing-first policy critique\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"H51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

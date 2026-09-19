@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dfcc871174e.P008.S001\"], \"anchor\": null, \"reason\": \"Does reducing federal compliance requirements and increasing state discretion over education funds improve student achievement?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

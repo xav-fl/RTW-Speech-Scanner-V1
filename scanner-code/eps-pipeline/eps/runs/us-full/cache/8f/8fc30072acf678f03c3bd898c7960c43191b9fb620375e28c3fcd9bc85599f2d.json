@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5eef336547.P008.S001\"], \"anchor\": \"By adopting this Buy American policy, the Department of the Interior is putting that commitment into action.\", \"reason\": \"Does federal Buy American procurement for uniforms increase domestic textile employment and output?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

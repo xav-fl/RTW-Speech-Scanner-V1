@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6f5fb797ed.P002.S001\", \"D6f5fb797ed.P002.S002\", \"D6f5fb797ed.P002.S003\"], \"anchor\": null, \"reason\": \"What are the costs and benefits of the US-Mexico sewage agreement, including reduced timelines and no added US taxpayer cost?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

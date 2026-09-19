@@ -1,0 +1,32 @@
+{
+  "documents_screened": 41,
+  "documents_with_observations": 20,
+  "observations_kept": 52,
+  "observations_rejected": 3,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 41
+  },
+  "reject_reasons": {
+    "passage is not attributable to the speaker": 2,
+    "JEL classification failed validation: no defensible economic object: classifier assigned no JEL code": 1
+  },
+  "by_institution": {
+    "Department of State": 21,
+    "Department of the Treasury": 13,
+    "Department of Housing and Urban Development": 9,
+    "Department of Education": 3,
+    "General Services Administration": 1,
+    "Department of Transportation": 1,
+    "Department of Energy": 1,
+    "Office of Personnel Management": 1,
+    "Small Business Administration": 1,
+    "Environmental Protection Agency": 1
+  },
+  "files": {
+    "dataset": "runs\\check9-us\\out\\dataset.csv",
+    "internal": "runs\\check9-us\\out\\observations_internal.csv",
+    "screening_log": "runs\\check9-us\\out\\screening_log.csv",
+    "rejected": "runs\\check9-us\\out\\rejected.csv"
+  }
+}

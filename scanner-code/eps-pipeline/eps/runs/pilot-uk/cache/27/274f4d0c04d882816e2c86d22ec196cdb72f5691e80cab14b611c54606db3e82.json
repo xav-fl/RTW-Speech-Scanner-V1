@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"domestic revenue mobilisation, public expenditure quality, sovereign borrowing, and shock resilience for development\", \"codes\": [{\"code\": \"O23\", \"strength\": 3}, {\"code\": \"H63\", \"strength\": 2}, {\"code\": \"F35\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

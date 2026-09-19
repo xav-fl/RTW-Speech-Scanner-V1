@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6d4cf4e8dc.P011.S002\"], \"anchor\": \"The new digital ID will make that possible, allowing you to log on and prove who you are to access public services more quickly, easily and securely.\", \"reason\": \"Does introducing a unified digital ID system reduce friction and costs in accessing public services?\"},{\"unit_ids\": [\"D6d4cf4e8dc.P014.S001\"], \"anchor\": null, \"reason\": \"Does mandating digital right-to-work checks reduce hiring costs or affect labour market outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

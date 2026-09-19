@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"oil export revenues controlled by US Treasury for Venezuelan people\", \"codes\": [{\"code\": \"Q35\", \"strength\": 3}, {\"code\": \"F51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

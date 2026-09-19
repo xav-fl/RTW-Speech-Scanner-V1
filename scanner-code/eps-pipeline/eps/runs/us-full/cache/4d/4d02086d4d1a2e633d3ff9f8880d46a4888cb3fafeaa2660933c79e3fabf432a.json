@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"workforce training and career education for Native youth\", \"codes\": [{\"code\": \"J24\", \"strength\": 3}, {\"code\": \"J15\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

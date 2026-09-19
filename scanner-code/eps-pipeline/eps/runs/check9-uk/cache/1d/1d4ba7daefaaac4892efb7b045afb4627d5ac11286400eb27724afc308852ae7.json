@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"trade market access for Scotch whisky exports\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"Q17\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

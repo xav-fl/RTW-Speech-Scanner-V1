@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"conditional foreign aid tied to political and economic reform\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"F13\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

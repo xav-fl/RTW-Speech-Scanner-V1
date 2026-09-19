@@ -1,0 +1,67 @@
+New reforms to tackle speculative grid connection applications which have seen the queue for demand connections to the transmission network grow by 460% in just 6 months
+
+Government will prioritise strategically important projects including AI data centres and industrial sites that can deliver growth and jobs
+
+Measures will support clean energy superpower mission and Industrial Strategy, backed by once-in-a-generation reforms to connect more clean power and upgrade the grid
+
+Projects that drive growth and jobs will be powered up faster as government consults on new powers to clamp down on speculative electricity grid connection applications.
+
+The queue for demand connections to the transmission network has been swamped with applications, growing by 460% in the 6 months to June 2025. Speculative applications are inflating the pipeline, delaying connections for strategically important projects. This has contributed to waits of up to 15 years for projects to connect to the grid.
+
+To address this, the government is consulting on measures to tackle speculative applications, address the oversubscribed queue, and accelerate viable projects that will benefit Britain. This includes data centres and AI Growth Zones, EV charging hubs and electrified industrial sites to revitalise Britain’s industrial heartlands.
+
+These measures will support the government’s clean energy superpower mission and maintain energy security by tackling backlogs in the queue, while unblocking projects that are vital to innovation, economic growth and decarbonisation.
+
+This builds on major progress over the past year to clean up the connections queue for clean energy projects - cutting it by more than half - and on new powers secured through the Planning and Infrastructure Act to prioritise investment-critical projects, delivering on an Industrial Strategy commitment.
+
+Energy Minister Michael Shanks said:
+
+> Industries that can bring real economic benefits are ready and waiting to be powered up, but the queue for grid connections has grown exponentially due to speculative applications.
+
+> We will prioritise the projects, including AI datacentres and industrial sites, that are ready and needed to deliver growth and jobs for communities across Britain.
+
+AI Minister Kanishka Narayan said:
+
+> The AI revolution is already making breakthroughs from health to clean energy, a reality. The UK is home to Europe’s leading AI ecosystem, with firms like Nscale and Wayve pulling in billions of pounds worth of investment.
+
+> Delivering data centres - which we’re turbo-charging through our AI Growth Zones - is fundamental to this work, and all of this relies on access to the grid. These timely reforms will help us move at pace, to seize AI ’s potential to help build a wealthier and fairer Britain.
+
+As well as prioritising connections for key projects, the reforms aim to create a fairer, more efficient system by:
+
+strengthening the conditions for joining and remaining in the queue, to tackle speculative applications. Ofgem will shortly be consulting on its preferred conditions, which could include increasing the financial requirements for developers in the queue, such as deposits or fees which would be payable if key milestones are not met
+
+enabling government to publish a list of strategically important projects including AI Growth Zones, which will be at the front of the queue as capacity is freed up or created
+
+moving to a strategically aligned process for data centre connections, so the government can deliver on its AI ambitions while balancing the needs of the energy system. For example, prioritising connections for facilities that are close to parts of the grid with high capacity, reducing the need for unnecessary new infrastructure
+
+The government is also delivering the Connections Accelerator Service, an Industrial Strategy commitment which is supporting key projects, from data centres and manufacturers to prisons and hospitals, to secure a faster connection – with further updates expected later this year.
+
+Planned AI Growth Zone reforms will provide priority access to the available capacity on the grid, with data centres in some AI Growth Zone locations benefitting from significant discounts on their electricity bills. Developers could also be supported to connect their own high voltage lines and substations to power their data centres – rather than waiting for network operators to do it – driving down costs and accelerating progress.
+
+It follows the government’s once-in-a-generation reforms to clean up the queue for clean energy projects looking to connect to the grid, which grew 10-fold in just 5 years.
+
+The National Energy System Operator has now cut the queue by over half by prioritising the projects that are ready and needed to help deliver clean power by 2030, with new grid connection offers currently going out to developers. This will help unlock £40 billion a year of mainly private investment while saving billpayers £5 billion by removing the need for unnecessary grid reinforcement.
+
+Alongside this, the government is delivering the biggest upgrade in Great Britain’s electricity network in decades to help deliver clean power, end reliance on volatile fossil fuel markets, and bring down bills for good.
+
+Kayte O’Neill, NESO Chief Operating Officer said:
+
+> The surge in demand applications shows the strength of investment interest across Great Britain, but the demand connections pipeline must reflect projects that are credible, ready and committed to progressing.
+
+> We are committed to working with government, industry and Ofgem to prioritise strategically important projects, while removing speculative applications. This will ensure data centres, industrial sites and vital public services can access clean, reliable power, while also supporting growth, innovation and jobs across Britain.
+
+Eleanor Warburton, Ofgem Director for Energy System Design and Development said:
+
+> There must be bold action to deal with the growing bottleneck in demand projects connecting to the grid. Ofgem is consulting on tough reforms to block or remove unviable, stalled or speculative projects from the queue - and these are important further steps from government in prioritising and fast-tracking those projects which will drive growth, jobs and innovation.
+
+Matt Evans, COO and Director of Markets, techUK said:
+
+> These connection reforms are a positive step forward and must reflect the value of different types of data centre and compute capacity both within and outside of AI Growth Zones, which are all critical for the UK’s wider economy. Ensuring that viable projects can move forward, while weeding out speculative or non-viable applications, will be key to delivering the infrastructure needed to support growth.
+
+James Tyler, UK Managing Director, Equinix said:
+
+> Data centres underpin the UK’s economy, so it’s essential that we have the physical capacity, in the right locations, that support UK data regulations, protections and sovereignty rules. Equinix strongly supports the effort to prioritise and accelerate viable projects, and we’re working closely with the government and TechUK to ensure reforms serve the public in the right way as well as mirror the demand we’re seeing from customers.
+
+Notes to editors
+
+The government’s consultation on the reforms closes to responses on 15 April 2026.

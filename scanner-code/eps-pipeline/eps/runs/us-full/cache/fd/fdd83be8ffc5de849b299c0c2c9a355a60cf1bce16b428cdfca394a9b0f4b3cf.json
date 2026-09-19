@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1e83407430.P006.S001\"], \"anchor\": \"the Trump administration launched the Make Hospital Food Healthier Pledge\", \"reason\": \"Does a voluntary hospital nutrition pledge improve patient dietary outcomes or reduce chronic disease readmission rates?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

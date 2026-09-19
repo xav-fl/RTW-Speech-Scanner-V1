@@ -1,0 +1,24 @@
+{
+  "documents_screened": 27,
+  "documents_with_observations": 13,
+  "observations_kept": 34,
+  "observations_rejected": 0,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 27
+  },
+  "reject_reasons": {},
+  "by_institution": {
+    "Department of State": 22,
+    "Department of the Treasury": 9,
+    "Department of Agriculture": 1,
+    "General Services Administration": 1,
+    "Department of Transportation": 1
+  },
+  "files": {
+    "dataset": "runs\\check-us\\out\\dataset.csv",
+    "internal": "runs\\check-us\\out\\observations_internal.csv",
+    "screening_log": "runs\\check-us\\out\\screening_log.csv",
+    "rejected": "runs\\check-us\\out\\rejected.csv"
+  }
+}

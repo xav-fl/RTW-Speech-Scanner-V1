@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D810f9723fd.P011.S001\"], \"anchor\": \"making defence an engine for jobs and growth\", \"reason\": \"Defence strategy framed as driver of jobs and growth\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

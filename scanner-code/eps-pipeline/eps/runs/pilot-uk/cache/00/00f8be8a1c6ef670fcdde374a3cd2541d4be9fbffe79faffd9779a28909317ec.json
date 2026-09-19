@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2139c0ced0.P009.S001\", \"D2139c0ced0.P010.S001\", \"D2139c0ced0.P011.S001\", \"D2139c0ced0.P011.S002\"], \"anchor\": null, \"reason\": \"Minister commits to flu vaccination rollout to tackle health inequalities for homeless people\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

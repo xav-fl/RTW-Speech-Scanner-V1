@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"restricting commercial driver's license eligibility for undocumented immigrants\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"K37\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

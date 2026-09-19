@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D752e5e091b.P005.S001\"], \"anchor\": null, \"reason\": \"Does holding employers accountable with penalties and hazard training reduce workplace trench fatalities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

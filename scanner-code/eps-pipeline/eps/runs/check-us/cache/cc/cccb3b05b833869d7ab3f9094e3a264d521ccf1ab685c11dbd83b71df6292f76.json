@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"reorganization of foreign food aid program administration between agencies\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"Q18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

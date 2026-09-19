@@ -35,10 +35,18 @@ import sys
 RENDER_MAX_CHARS = 120_000
 
 #: Phrases that mean navigation, chrome or a stub reached the corpus.
+#:
+#: A bare "cookie" and "privacy policy" were in this list and had to come out.
+#: They matched eight Education releases that are entirely genuine prose, for
+#: the plain reason that Education's Student Privacy Policy Office is the
+#: SUBJECT of them. The wording that actually signals a consent banner is
+#: narrower, and is what is matched now. A check that cries wolf on real
+#: documents is worse than no check at all: nobody reads its output twice.
 CHROME = re.compile(
     r"skip to main content|^\s*menu\b|official website of the united states|"
     r"here.s how you know|download\.pdf|javascript is (?:disabled|required)|"
-    r"enable javascript|cookie|privacy policy|^\s*breadcrumb", re.I)
+    r"enable javascript|accept (?:all )?cookies|this (?:site|website) uses "
+    r"cookies|cookie (?:policy|preferences|settings)|^\s*breadcrumb", re.I)
 
 #: A handover day can legitimately carry both names -- the outgoing holder
 #: in the morning and the incoming one in the afternoon. Ranges are allowed

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7dcf12ac81.P005.S001\"], \"anchor\": null, \"reason\": \"Does expanding grant funding for treatment, overdose prevention, and recovery services reduce substance use disorder mortality and improve health outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

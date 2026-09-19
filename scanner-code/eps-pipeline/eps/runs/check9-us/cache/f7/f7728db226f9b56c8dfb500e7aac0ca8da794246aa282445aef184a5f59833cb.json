@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"AI risk monitoring for financial system stability\", \"codes\": [{\"code\": \"G18\", \"strength\": 3}, {\"code\": \"G01\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

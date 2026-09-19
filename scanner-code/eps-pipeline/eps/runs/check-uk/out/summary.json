@@ -1,0 +1,37 @@
+{
+  "documents_screened": 27,
+  "documents_with_observations": 19,
+  "observations_kept": 85,
+  "observations_rejected": 1,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 22,
+    "officeholder_table": 5
+  },
+  "reject_reasons": {
+    "passage is not attributable to the speaker": 1
+  },
+  "by_institution": {
+    "Home Office": 19,
+    "HM Treasury": 14,
+    "Department for Science, Innovation and Technology": 11,
+    "Ministry of Housing, Communities and Local Government": 10,
+    "Ministry of Justice": 8,
+    "Department for Transport": 7,
+    "Foreign, Commonwealth and Development Office": 4,
+    "Department of Health and Social Care": 3,
+    "Department for Business and Trade": 3,
+    "Attorney General's Office": 1,
+    "Department for Environment, Food and Rural Affairs": 1,
+    "Ministry of Defence": 1,
+    "Cabinet Office": 1,
+    "Department for Energy Security and Net Zero": 1,
+    "Department for Education": 1
+  },
+  "files": {
+    "dataset": "runs\\check-uk\\out\\dataset.csv",
+    "internal": "runs\\check-uk\\out\\observations_internal.csv",
+    "screening_log": "runs\\check-uk\\out\\screening_log.csv",
+    "rejected": "runs\\check-uk\\out\\rejected.csv"
+  }
+}

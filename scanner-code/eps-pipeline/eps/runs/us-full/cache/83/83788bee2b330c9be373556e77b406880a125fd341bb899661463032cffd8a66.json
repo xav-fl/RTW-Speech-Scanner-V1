@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory burden reduction for domestic energy production with royalty/revenue considerations\", \"codes\": [{\"code\": \"Q38\", \"strength\": 3}, {\"code\": \"L51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

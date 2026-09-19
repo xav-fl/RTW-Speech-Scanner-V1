@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"systemic risk identification and regulatory reform to promote financial stability and growth\", \"codes\": [{\"code\": \"G18\", \"strength\": 3}, {\"code\": \"G28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

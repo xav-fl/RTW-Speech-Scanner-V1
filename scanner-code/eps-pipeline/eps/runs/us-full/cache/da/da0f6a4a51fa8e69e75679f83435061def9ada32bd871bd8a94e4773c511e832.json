@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6bfc98e561.P005.S001\"], \"anchor\": null, \"reason\": \"Does federal commitment to ending veteran homelessness through housing vouchers reduce veteran homelessness rates?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

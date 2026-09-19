@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"tax cuts, deregulation, and SBA support (training, capital, contracting) for small businesses\", \"codes\": [{\"code\": \"L53\", \"strength\": 3}, {\"code\": \"H25\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

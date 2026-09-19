@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal facility construction for food safety regulatory capacity\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"H54\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

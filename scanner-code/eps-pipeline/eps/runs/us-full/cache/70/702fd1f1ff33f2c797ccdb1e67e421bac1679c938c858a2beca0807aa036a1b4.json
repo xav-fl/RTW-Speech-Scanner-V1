@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5c2760a186.P003.S001\", \"D5c2760a186.P003.S002\"], \"anchor\": null, \"reason\": \"Does public disclosure of foreign university funding sources deter foreign influence or improve research integrity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

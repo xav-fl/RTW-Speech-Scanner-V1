@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government control and reform of oil industry for public benefit\", \"codes\": [{\"code\": \"L71\", \"strength\": 3}, {\"code\": \"Q38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

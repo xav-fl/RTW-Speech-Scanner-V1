@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"unified governance and cost control of national rail network\", \"codes\": [{\"code\": \"L92\", \"strength\": 3}, {\"code\": \"L32\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

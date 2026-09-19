@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"digital identity verification for public service access\", \"codes\": [{\"code\": \"H83\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

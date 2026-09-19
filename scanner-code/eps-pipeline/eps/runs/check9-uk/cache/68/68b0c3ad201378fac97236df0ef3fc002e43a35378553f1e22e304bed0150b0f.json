@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"online retail regulation to restrict knife sales\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"L81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

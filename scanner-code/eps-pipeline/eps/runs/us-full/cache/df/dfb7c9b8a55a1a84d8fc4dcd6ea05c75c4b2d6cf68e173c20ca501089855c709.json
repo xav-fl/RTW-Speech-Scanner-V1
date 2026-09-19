@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D847f8a9449.P008.S002\", \"D847f8a9449.P008.S003\"], \"anchor\": null, \"reason\": \"Does consolidating duplicative USDA farmer record systems reduce administrative burden and increase farm productivity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

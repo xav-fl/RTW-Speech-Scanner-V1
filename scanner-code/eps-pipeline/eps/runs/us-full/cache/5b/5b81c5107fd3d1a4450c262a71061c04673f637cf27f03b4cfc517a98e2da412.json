@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"prevailing wage standard for foreign workers protecting domestic labor market\", \"codes\": [{\"code\": \"J31\", \"strength\": 3}, {\"code\": \"J61\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

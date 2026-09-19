@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"foreign aid and access to international credit for disaster reconstruction\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"H84\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

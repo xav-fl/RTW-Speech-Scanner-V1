@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dec409025d7.P006.S001\"], \"anchor\": null, \"reason\": \"Does aligning prevailing wages for foreign workers with market rates protect wages and employment of American workers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

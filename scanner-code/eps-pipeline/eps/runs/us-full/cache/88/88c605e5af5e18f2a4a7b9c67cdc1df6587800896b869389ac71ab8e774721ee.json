@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"Df63334bd8f.P009.S002\"], \"anchor\": null, \"reason\": \"Do deregulation of offshore oil and gas financial assurance requirements increase exploration, production, and employment?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

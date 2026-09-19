@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"age-based digital platform usage restrictions (curfews, scroll limits) for minors\", \"codes\": [{\"code\": \"L86\", \"strength\": 3}, {\"code\": \"D18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

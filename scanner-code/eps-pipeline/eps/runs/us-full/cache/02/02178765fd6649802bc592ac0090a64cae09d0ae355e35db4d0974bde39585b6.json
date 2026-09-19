@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"international donor funding for multinational security force deployment\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"H56\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

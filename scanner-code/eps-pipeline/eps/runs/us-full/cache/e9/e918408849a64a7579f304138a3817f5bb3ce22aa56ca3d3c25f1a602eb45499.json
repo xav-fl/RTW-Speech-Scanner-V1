@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc9ab3162c1.P001.S003\", \"Dc9ab3162c1.P001.S004\", \"Dc9ab3162c1.P001.S005\", \"Dc9ab3162c1.P001.S006\"], \"anchor\": null, \"reason\": \"What is the cost-effectiveness of charter, military, and expanded commercial flights for evacuating citizens from conflict zones?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

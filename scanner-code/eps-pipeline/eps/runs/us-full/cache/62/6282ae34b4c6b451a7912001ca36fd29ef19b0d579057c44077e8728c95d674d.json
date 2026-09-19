@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D00ca64be75.P009.S001\"], \"anchor\": null, \"reason\": \"Does providing regulatory certainty for oil and gas investment in Alaska increase jobs and economic output?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

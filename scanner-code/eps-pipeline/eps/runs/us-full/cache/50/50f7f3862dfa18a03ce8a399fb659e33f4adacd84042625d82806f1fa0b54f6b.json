@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D03ea66585b.P007.S002\"], \"anchor\": null, \"reason\": \"Does federally ordering restoration of California oil pipeline operations improve domestic oil supply and military energy security?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

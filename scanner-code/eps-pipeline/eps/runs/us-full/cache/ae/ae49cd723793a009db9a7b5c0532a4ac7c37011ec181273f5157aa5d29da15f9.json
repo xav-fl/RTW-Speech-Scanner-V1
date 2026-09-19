@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"linking small domestic suppliers to large buyers to strengthen supply chains\", \"codes\": [{\"code\": \"L14\", \"strength\": 3}, {\"code\": \"L26\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

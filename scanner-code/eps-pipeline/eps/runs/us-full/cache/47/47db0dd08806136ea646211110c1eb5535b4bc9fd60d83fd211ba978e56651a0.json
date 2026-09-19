@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D51d3df341c.P004.S002\"], \"anchor\": null, \"reason\": \"Do SBA grants targeting domestic suppliers in critical supply chains increase small business production and reshoring?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

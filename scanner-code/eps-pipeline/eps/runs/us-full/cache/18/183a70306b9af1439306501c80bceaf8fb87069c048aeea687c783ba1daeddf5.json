@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De6f3368e15.P006.S001\", \"De6f3368e15.P006.S002\", \"De6f3368e15.P006.S003\"], \"anchor\": null, \"reason\": \"Do regulatory best-practice recommendations to states reduce housing construction costs and increase affordability?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

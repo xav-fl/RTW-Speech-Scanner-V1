@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"terrorist designation and sanctions targeting material support to armed group\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

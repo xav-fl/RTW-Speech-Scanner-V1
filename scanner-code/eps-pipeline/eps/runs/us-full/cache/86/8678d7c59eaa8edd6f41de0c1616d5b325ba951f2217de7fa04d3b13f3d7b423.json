@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da83bd73c66.P006.S002\"], \"anchor\": \"DHS is committed to ensuring we denaturalize and remove these fraudsters with every tool at our disposal.\", \"reason\": \"Does aggressive denaturalization enforcement deter immigration fraud and affect naturalized citizens' economic integration?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

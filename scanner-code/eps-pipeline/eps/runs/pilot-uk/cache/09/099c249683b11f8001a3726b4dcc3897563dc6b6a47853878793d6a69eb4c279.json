@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2df8c9ca67.P086.S001\", \"D2df8c9ca67.P087.S001\", \"D2df8c9ca67.P088.S001\"], \"anchor\": null, \"reason\": \"Coordinated policy strategies targeting child poverty, early years, social care, post-16\"}, {\"unit_ids\": [\"D2df8c9ca67.P089.S001\", \"D2df8c9ca67.P090.S001\"], \"anchor\": null, \"reason\": \"Forthcoming schools white paper to reform school system\"}, {\"unit_ids\": [\"D2df8c9ca67.P095.S001\", \"D2df8c9ca67.P096.S001\"], \"anchor\": null, \"reason\": \"Policy commitment to broaden and inclusivise education system for all children\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

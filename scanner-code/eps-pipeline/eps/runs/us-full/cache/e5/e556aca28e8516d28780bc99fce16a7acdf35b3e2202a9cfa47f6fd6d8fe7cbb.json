@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"pipeline restoration for military energy supply and readiness\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"Q35\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

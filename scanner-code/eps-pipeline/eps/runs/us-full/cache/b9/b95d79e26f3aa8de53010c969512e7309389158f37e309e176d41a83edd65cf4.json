@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df0e64fdbf5.P008.S001\"], \"anchor\": null, \"reason\": \"Does reducing probate backlogs improve asset transfer outcomes and economic wellbeing for Alaska Native families?\"},{\"unit_ids\": [\"Df0e64fdbf5.P010.S001\"], \"anchor\": null, \"reason\": \"Does streamlining probate case processing reduce delays and speed asset returns to Native beneficiaries?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

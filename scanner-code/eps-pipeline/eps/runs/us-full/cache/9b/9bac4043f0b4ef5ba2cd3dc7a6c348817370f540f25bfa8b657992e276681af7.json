@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D991f9a6e4b.P004.S001\"], \"anchor\": null, \"reason\": \"Does expanded capital access for food supply chain businesses increase production and reduce grocery prices?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

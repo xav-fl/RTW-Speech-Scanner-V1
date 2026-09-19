@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"elimination of federal community development block grant funding\", \"codes\": [{\"code\": \"H53\", \"strength\": 3}, {\"code\": \"R58\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

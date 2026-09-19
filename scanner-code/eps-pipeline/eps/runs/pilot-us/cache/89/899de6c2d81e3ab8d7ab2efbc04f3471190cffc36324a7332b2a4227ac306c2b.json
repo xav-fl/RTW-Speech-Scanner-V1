@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc44493dd67.P019.S003\", \"Dc44493dd67.P019.S004\", \"Dc44493dd67.P019.S005\", \"Dc44493dd67.P019.S006\"], \"anchor\": null, \"reason\": \"Policy phases for Venezuela: functioning economy, investor-friendly rules to create prosperity\"}, {\"unit_ids\": [\"Dc44493dd67.P030.S004\", \"Dc44493dd67.P030.S005\", \"Dc44493dd67.P030.S006\"], \"anchor\": null, \"reason\": \"Causal claim: offshoring policy deindustrialized US and cost millions of jobs\"}, {\"unit_ids\": [\"Dc44493dd67.P031.S001\"], \"anchor\": null, \"reason\": \"Tariffs as tool to rebalance economy; geopolitical rebalancing via hemispheric presence\"}, {\"unit_ids\": [\"Dc44493dd67.P043.S001\", \"Dc44493dd67.P043.S002\"], \"anchor\": null, \"reason\": \"Predicted energy diversification away from Straits of Hormuz as policy outcome\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"retirement system access and adequacy\", \"codes\": [{\"code\": \"H55\", \"strength\": 2}, {\"code\": \"J26\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

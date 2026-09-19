@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df13aec97c4.P005.S003\"], \"anchor\": \"Thanks to the Secure America Act, ICE is turbocharged to arrest even more gang members and criminals from American neighborhoods.\", \"reason\": \"Does the Secure America Act increase ICE gang-member arrests and reduce crime in affected neighbourhoods?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D733e6eca32.P005.S001\", \"D733e6eca32.P005.S002\"], \"anchor\": null, \"reason\": \"Does real-time FAFSA fraud detection reduce fraudulent aid disbursements and improve targeting of legitimate students?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

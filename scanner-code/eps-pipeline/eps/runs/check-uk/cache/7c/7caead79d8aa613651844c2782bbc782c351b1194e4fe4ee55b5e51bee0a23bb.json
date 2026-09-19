@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"age-based content restriction on AI chatbots\", \"codes\": [{\"code\": \"K24\", \"strength\": 3}, {\"code\": \"L86\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

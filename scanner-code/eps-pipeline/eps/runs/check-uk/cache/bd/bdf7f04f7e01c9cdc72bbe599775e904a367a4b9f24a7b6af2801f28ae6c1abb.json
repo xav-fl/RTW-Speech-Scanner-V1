@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"conditional eligibility for asylum seeker welfare support\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"F22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"NASA procurement of private commercial space station providers to develop low Earth orbit marketplace\", \"codes\": [{\"code\": \"L32\", \"strength\": 3}, {\"code\": \"H57\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

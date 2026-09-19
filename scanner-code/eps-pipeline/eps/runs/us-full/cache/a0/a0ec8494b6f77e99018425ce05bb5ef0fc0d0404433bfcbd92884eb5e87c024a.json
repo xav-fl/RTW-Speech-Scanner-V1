@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"domestic supply chain development for semiconductor and defense industrial base\", \"codes\": [{\"code\": \"L52\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

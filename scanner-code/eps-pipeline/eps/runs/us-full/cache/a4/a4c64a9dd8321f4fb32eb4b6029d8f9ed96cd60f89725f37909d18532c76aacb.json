@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"natural gas pipeline infrastructure expanding regional supply and lowering energy costs\", \"codes\": [{\"code\": \"Q35\", \"strength\": 3}, {\"code\": \"L95\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

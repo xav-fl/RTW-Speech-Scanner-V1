@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"economic growth strengthening balance sheets and domestic production capacity to reduce financial stress and external vulnerability\", \"codes\": [{\"code\": \"E44\", \"strength\": 3}, {\"code\": \"O11\", \"strength\": 2}, {\"code\": \"F43\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

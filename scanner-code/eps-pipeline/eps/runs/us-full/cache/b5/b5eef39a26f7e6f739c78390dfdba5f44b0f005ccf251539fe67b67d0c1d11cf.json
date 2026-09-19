@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4237289f48.P006.S001\"], \"anchor\": null, \"reason\": \"Does detaining rather than releasing migrants at the border deter illegal crossings?\"},{\"unit_ids\": [\"D4237289f48.P008.S001\"], \"anchor\": null, \"reason\": \"Does ending catch-and-release policy reduce unauthorised border crossings?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D927ed5b6a0.P004.S001\"], \"anchor\": null, \"reason\": \"Does devolving CCR permitting to states improve environmental outcomes and reduce compliance costs for energy producers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

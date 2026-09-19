@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De5eb8786c2.P007.S001\", \"De5eb8786c2.P007.S002\"], \"anchor\": null, \"reason\": \"Does federal enforcement of parental notification rights under FERPA affect school district behaviour and student outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

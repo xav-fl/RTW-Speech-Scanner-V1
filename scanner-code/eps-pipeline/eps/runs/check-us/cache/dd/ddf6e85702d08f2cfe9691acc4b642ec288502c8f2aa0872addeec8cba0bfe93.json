@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0daeb9ce0e.P002.S002\", \"D0daeb9ce0e.P002.S003\"], \"anchor\": null, \"reason\": \"Do policies diversifying critical mineral supply chains reduce economic and security risks from supply concentration?\"}, {\"unit_ids\": [\"D0daeb9ce0e.P003.S002\", \"D0daeb9ce0e.P003.S003\"], \"anchor\": null, \"reason\": \"Does coordinated US-EU purchasing power secure reliable, affordable critical mineral supplies and reduce monopoly risk?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

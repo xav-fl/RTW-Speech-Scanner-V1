@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bilateral water delivery treaty obligation supporting agricultural water supply\", \"codes\": [{\"code\": \"Q25\", \"strength\": 3}, {\"code\": \"F51\", \"strength\": 2}, {\"code\": \"Q18\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

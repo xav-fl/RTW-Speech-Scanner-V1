@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D985c8d018a.P003.S001\", \"D985c8d018a.P005.S001\"], \"anchor\": null, \"reason\": \"Does selling surplus federal real estate reduce government costs and generate net savings for taxpayers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

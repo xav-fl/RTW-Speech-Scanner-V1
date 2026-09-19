@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"Western industrial alliance for defense reindustrialization, critical mineral supply chains, AI, and competing in Global South markets\", \"codes\": [{\"code\": \"F52\", \"strength\": 3}, {\"code\": \"L52\", \"strength\": 2}, {\"code\": \"F13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

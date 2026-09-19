@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D20f6b14e21.P004.S001\"], \"anchor\": \"President Trump asked for three advanced reactors to be authorized and achieve criticality by the 250th anniversary of our great country.\", \"reason\": \"Does setting government targets for advanced reactor demonstrations accelerate nuclear energy development and private investment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

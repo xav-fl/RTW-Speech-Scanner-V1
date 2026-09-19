@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Ddbcf74b477.P002.S001\"], \"anchor\": null, \"reason\": \"Does the SBA Surety Bond Guarantee Program expand small business access to contracts and capital, and what are its effects on employment and growth?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

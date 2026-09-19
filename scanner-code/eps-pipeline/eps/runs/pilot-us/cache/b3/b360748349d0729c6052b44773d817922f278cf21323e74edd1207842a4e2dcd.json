@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1338623d83.P004.S001\", \"D1338623d83.P004.S002\"], \"anchor\": null, \"reason\": \"Enforcing air transport agreements; holding Mexico accountable for anti-competitive behavior\"}, {\"unit_ids\": [\"D1338623d83.P006.S001\", \"D1338623d83.P006.S002\"], \"anchor\": null, \"reason\": \"Restrictions on Mexican carriers remain until compliance is demonstrated\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

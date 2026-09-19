@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da0b7aca49f.P009.S001\", \"Da0b7aca49f.P009.S002\"], \"anchor\": null, \"reason\": \"Does streamlining federal grazing management on public lands improve rancher productivity and reduce consumer beef prices?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,38 @@
+{
+  "documents_screened": 27,
+  "documents_with_observations": 16,
+  "observations_kept": 104,
+  "observations_rejected": 6,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 22,
+    "officeholder_table": 5
+  },
+  "reject_reasons": {
+    "anchor phrase does not appear exactly in the units": 3,
+    "JEL classification failed validation: no defensible economic object: classifier assigned no JEL code": 2,
+    "unit_ids span a paragraph boundary": 1
+  },
+  "by_institution": {
+    "Home Office": 20,
+    "HM Treasury": 19,
+    "Department for Science, Innovation and Technology": 13,
+    "Ministry of Justice": 11,
+    "Ministry of Housing, Communities and Local Government": 10,
+    "Department for Transport": 8,
+    "Foreign, Commonwealth and Development Office": 7,
+    "Cabinet Office": 3,
+    "Department for Business and Trade": 3,
+    "Department for Energy Security and Net Zero": 3,
+    "Department for Education": 3,
+    "Department of Health and Social Care": 2,
+    "Department for Environment, Food and Rural Affairs": 1,
+    "Ministry of Defence": 1
+  },
+  "files": {
+    "dataset": "runs\\pilot-uk\\out\\dataset.csv",
+    "internal": "runs\\pilot-uk\\out\\observations_internal.csv",
+    "screening_log": "runs\\pilot-uk\\out\\screening_log.csv",
+    "rejected": "runs\\pilot-uk\\out\\rejected.csv"
+  }
+}

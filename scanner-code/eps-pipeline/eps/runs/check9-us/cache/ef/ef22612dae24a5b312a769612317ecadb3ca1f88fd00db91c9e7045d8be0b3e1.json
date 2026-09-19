@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"economic sanctions targeting oil industry, drug trafficking, and armed groups\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"enforcement action against pandemic loan fraud, borrower suspension and fund recovery\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"H81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"restriction on foreign air carriers as trade policy leverage\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"L93\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

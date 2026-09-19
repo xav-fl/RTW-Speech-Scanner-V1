@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"place-based regional investment funds and transport spending to reduce spatial inequality\", \"codes\": [{\"code\": \"R58\", \"strength\": 3}, {\"code\": \"H54\", \"strength\": 2}, {\"code\": \"R42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"foreign ownership reporting compliance for agricultural land\", \"codes\": [{\"code\": \"Q15\", \"strength\": 3}, {\"code\": \"F21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

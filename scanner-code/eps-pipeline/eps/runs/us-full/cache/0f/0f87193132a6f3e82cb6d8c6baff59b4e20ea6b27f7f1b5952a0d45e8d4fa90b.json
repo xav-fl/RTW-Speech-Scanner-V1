@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3c768badf9.P003.S002\"], \"anchor\": null, \"reason\": \"Does extending disaster relief deadlines and increasing payment factors improve financial recovery for disaster-affected farmers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

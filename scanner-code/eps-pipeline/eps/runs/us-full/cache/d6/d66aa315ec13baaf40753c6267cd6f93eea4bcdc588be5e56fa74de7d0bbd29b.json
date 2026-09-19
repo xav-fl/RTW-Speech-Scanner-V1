@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal approval of Alaska energy and infrastructure projects\", \"codes\": [{\"code\": \"Q35\", \"strength\": 3}, {\"code\": \"Q48\", \"strength\": 2}, {\"code\": \"F52\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

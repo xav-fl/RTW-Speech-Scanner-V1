@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"grazing as land management tool on public lands\", \"codes\": [{\"code\": \"Q15\", \"strength\": 3}, {\"code\": \"Q18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

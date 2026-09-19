@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1df492cc28.P010.S002\", \"D1df492cc28.P010.S003\"], \"anchor\": null, \"reason\": \"Does federal Fair Housing Act enforcement against race-based state homeownership programmes affect housing access and equity outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

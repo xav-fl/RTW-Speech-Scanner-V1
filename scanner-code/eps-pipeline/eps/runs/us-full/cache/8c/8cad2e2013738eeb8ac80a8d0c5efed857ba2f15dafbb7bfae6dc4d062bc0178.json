@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da1430e64be.P002.S001\", \"Da1430e64be.P002.S002\"], \"anchor\": null, \"reason\": \"Does reducing regulatory burdens on small meat processors improve their growth, competition, and food safety outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

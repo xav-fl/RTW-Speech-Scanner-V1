@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"fiscal cost of extending welfare eligibility to pre-settled status migrants\", \"codes\": [{\"code\": \"H53\", \"strength\": 3}, {\"code\": \"F22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

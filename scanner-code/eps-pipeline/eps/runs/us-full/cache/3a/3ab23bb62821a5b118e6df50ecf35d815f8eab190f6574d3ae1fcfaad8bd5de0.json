@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"housing assistance program eligibility and benefit access\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

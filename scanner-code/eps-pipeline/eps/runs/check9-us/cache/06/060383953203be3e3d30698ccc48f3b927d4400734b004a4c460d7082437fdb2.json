@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"reducing financial regulation to promote lending and capital formation\", \"codes\": [{\"code\": \"G18\", \"strength\": 3}, {\"code\": \"G28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

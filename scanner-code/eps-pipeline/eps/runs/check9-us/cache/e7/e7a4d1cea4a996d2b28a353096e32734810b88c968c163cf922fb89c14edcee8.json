@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db5946943ec.P002.S004\"], \"anchor\": null, \"reason\": \"Does offering aid and a new bilateral relationship conditional on political and economic reforms change regime behaviour?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

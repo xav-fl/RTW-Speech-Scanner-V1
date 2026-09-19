@@ -1485,8 +1485,9 @@ are recorded as they are made.
   Faithful is not the same as correct here. A dataset that counts statements
   would count each of these twice, and the extract stage would pay to read each
   twice.
-- **Status:** Settled and implemented. 4,486 manifest rows became 4,472; the
-  original is kept at `manifest_us_full.csv.bak`.
+- **Status:** Settled and implemented. 4,484 manifest rows became 4,470; the
+  original is kept at `manifest_us_full.csv.bak`. (The count changed from 4,486
+  when H-89 began dropping two bodyless rows upstream of this step.)
 - **Context:** Which copy survives is decided in order: a typed document beats
   one typed `other`; then the URL slug that matches the title; then the earlier
   date; then the shorter URL; then the URL itself, so reruns agree. Rule two is
@@ -1520,3 +1521,394 @@ are recorded as they are made.
 - **Context:** A check that cries wolf is worse than no check: this one had
   been read past twice as "the known DHS/Justice thing" before it was fixed,
   which is precisely how a real join fault would have got through.
+
+### H-89 — A document with no sentence in it is not a document
+
+- **Location:** `[scripts/manifest_from_log.py]`
+- **Decision:** A collected row whose text contains no sentence-ending
+  punctuation anywhere is dropped from the ingest manifest and reported on its
+  own line, beside the undated drop of H-84.
+- **Rationale:** Two rows passed every check above them and carried no document:
+  an Energy release whose entire body was its own subheadline, and an SBA
+  testimony published only as a PDF, whose page body was a list of programme
+  tags and the word "Download.PDF". Both would have been sent to the model,
+  which would have found nothing and charged for looking.
+- **Status:** Settled and implemented. It matches exactly those two across the
+  4,496 collected documents, and nothing else.
+- **Context:** Length cannot do this job, and trying it would have been costly.
+  State's call readouts are 33 words and are real published statements; the two
+  stubs are 10 and 12 words. Any word threshold high enough to catch the stubs
+  throws away eleven genuine documents. The sentence test separates them
+  exactly, because the distinction is prose versus not-prose, not long versus
+  short. The full chain is now 4,496 collected -> 10 undated (H-84) -> 2
+  bodyless -> 4,484 -> 14 duplicates (H-87) -> **4,470 ingested**.
+
+### H-90 — "Privacy policy" is a department, not a cookie banner
+
+- **Location:** `[scripts/preflight_corpus.py]` (`CHROME`)
+- **Decision:** The `CHROME IN BODY` pattern no longer matches a bare "cookie"
+  or "privacy policy". It matches consent-banner wording specifically: "accept
+  cookies", "this site uses cookies", "cookie policy/preferences/settings".
+- **Rationale:** The old pattern flagged eight Education releases that are
+  entirely genuine prose, for the plain reason that Education's Student Privacy
+  Policy Office is the SUBJECT of them — it investigates school districts under
+  FERPA, and says so in its first sentence. The words that indicate navigation
+  reached the corpus are narrower than the words that indicate privacy is being
+  discussed.
+- **Status:** Settled and implemented. `CHROME IN BODY` is now silent on the
+  corpus; the one genuine hit it had found, an SBA PDF stub, is dropped by H-89
+  instead.
+- **Context:** Same lesson as H-88, in a different check, found the same way:
+  by reading the documents a check had flagged instead of trusting the flag.
+  Preflight now reports 2 classes rather than 5, and both that remain — 163
+  State documents State itself bylined to the Secretary (H-86), and 11 genuine
+  short call readouts — are reviewed and expected.
+
+### H-91 — The UK corpus lost its quote structure, and nothing downstream noticed
+
+- **Location:** `[harvest-code/uk-harvest/audit_text_fidelity.py]`,
+  `[src/eps/normalise.py:mark_attribution()]`
+- **Decision:** No UK extraction runs against `uk-harvest/documents/`. The text
+  the pipeline reads must be the re-rendered `documents_v2/` output, which
+  preserves `<blockquote>` as a `> ` prefix.
+- **Rationale:** GOV.UK marks a ministerial quotation with `<blockquote>` and no
+  quotation marks, and `mark_attribution()`'s colon-frame rule (I-09) needs
+  exactly that structure: a frame paragraph ending in `:` immediately above a
+  `> ` block. The original extraction flattened blockquotes into ordinary
+  paragraphs. Of 2,455 collected UK documents, **one** carries a quote marker.
+
+  The effect is total and silent. Measured over the same 719 press releases in
+  both renderings:
+
+      documents/      719 press releases,     0 attributable units,   0 documents
+      documents_v2/   719 press releases, 2,250 attributable units, 556 documents
+
+  A UK extract on the old text would have returned nothing from two thirds of
+  the corpus, with clean logs, passing tests, a fidelity audit that compares
+  words and finds them, and a corpus of exactly the expected size.
+- **Status:** Settled and implemented. All 2,455 collected documents were
+  re-rendered from the Content API into `documents_v2/`, 0 failed; 1,284 carry
+  quote blocks. `queue_to_manifest.py --rewrite-log` now takes every path from
+  the rewriter's own record and drops, by name, any URL it did not write, so the
+  old folder cannot be reached by accident. The re-render also exposed a filename
+  collision: FCDO's UK-France and UK-Spain joint statements on wildfires truncate
+  to one filename, so the original harvest kept one and pointed both rows at it.
+  The second claimant now gets a URL-derived suffix. One document, the military
+  division of the King's Birthday Honours list, is a list of names with no
+  sentence in it and is dropped under H-89's rule.
+- **Context:** This is H-83's lesson somewhere H-83 cannot reach. Word-count
+  variance is healthy in both renderings and the words themselves are nearly all
+  present, so every check that counts or compares text passes. What was lost was
+  structure. The only thing that surfaced it was asking how many units the
+  attribution rule actually marks — which is worth doing to any corpus before
+  paying to read it, and is now the reason the US corpus was checked the same
+  way (21,307 selectable units across 4,470 documents).
+
+### H-92 — A GOV.UK "letter" is a page about a letter, and none of the 317 contain one
+
+- **Location:** `[harvest-code/uk-harvest/manifest_uk_full.csv]` (built with
+  `--doc-type press_release --doc-type speech --doc-type statement --doc-type op_ed`)
+- **Decision:** The 317 UK documents typed `letter` are excluded from the UK
+  corpus, and their attachments are not collected.
+- **Rationale:** GOV.UK publishes a ministerial letter as a publication page
+  whose HTML body is a summary written by the department — "Please see the
+  attached update", "The Minister of State for Housing and Planning has written
+  to the Planning Inspectorate..." — with the letter itself as an attachment.
+  Tested for a salutation or sign-off, **0 of 317** contain the letter. The
+  median body is 48 words and 202 are under 60.
+
+  Because `letter` was a whole-document type, every word of those summaries was
+  marked as the minister's own: 1,865 units that are the department describing
+  a document, credited to the person who signed it. The same stubs produced the
+  corpus's only UK "duplicates" — five monthly Timms Review updates and six
+  Home Office circulars share identical boilerplate — which is why deduplication
+  was not applied to them: the documents differ, only the pages describing them
+  do not.
+- **Status:** Settled by the PI: letters stay out. Ministerial letters are
+  mostly procedural — remit letters, appointment notices, circulars, replies to
+  committees — and rarely carry the policy content the corpus is for, so
+  recovering them is not worth the effort. For the record, recovery was
+  feasible: a sample of 40 through the Content API found an attachment on every
+  one (24 PDF, 16 HTML), and 22 of the 40 had two or more — letter and annex, or
+  both halves of an exchange, which could not be whole-document attributed.
+- **Context:** The old text did not contain the letters either; the original
+  harvest's files were longer only by their five-line header.
+
+### H-93 — A UK document is wholly the minister's only when GOV.UK says it is
+
+- **Location:** `[src/eps/normalise.py]` (`COUNTRY_SPEAKER_ONLY_TYPES["UK"]`),
+  `[harvest-code/uk-harvest/queue_to_manifest.py]` (`notes`)
+- **Decision:** H-86's rule, applied to the UK. The UK type set is empty. The
+  manifest's `notes` is `speaker_is_document` only when the harvester's
+  `speaker_match` is `linked` — GOV.UK's own page names the expected
+  officeholder as its speaker — AND the type is one that can be wholly one
+  person's words. A press release linked to a minister is about their
+  announcement, not their words, and is never whole-document.
+- **Rationale:** H-86 stated "the UK is untouched", and it was — which is the
+  problem this corrects. Measured against GOV.UK's speaker link, whole-document
+  attribution by type credited the wrong person three times in four:
+
+      speech      433   delivered by the officeholder  73   credited anyway  360
+      statement    73                                   48                    25
+      op_ed         1                                    0                     1
+
+  The 360 speeches are junior ministers, ambassadors at the UN Security Council
+  and the Human Rights Council, officials, and FCDO statements with no named
+  speaker; the op-ed is the Chief Medical Officer's. Every word of each would
+  have been attributed to a Secretary of State.
+- **Status:** Settled and implemented. UK selectable units fell from 27,295 to
+  15,115; what remains is 75 speeches and 48 statements GOV.UK tags to the
+  officeholder, plus 2,493 framed quotations in 627 press releases.
+- **Context:** The harvester already computed this verdict and wrote it to the
+  screening log; it was simply not carried into the manifest. The provider
+  tests built a UK speech with no verdict and started failing, correctly; their
+  fixture now carries `speaker_is_document`, which is what it stands for.
+
+### H-94 — US speeches are decided per document, and transcripts line by line
+
+- **Location:** `[src/eps/normalise.py]` (`COUNTRY_SPEAKER_ONLY_TYPES["US"]`,
+  `_mark_transcript()`), `[scripts/manifest_from_log.py:document_verdict()]`
+- **Decision:** The US type set is empty too. For speeches, testimony and
+  interview transcripts the manifest re-decides the collector's verdict:
+
+      2+ distinct speaker labels            -> transcript     (line by line)
+      "As Delivered By: <someone else>"     -> other_speaker
+      officeholder named 2+ times in prose  -> name_in_body   (a release about them)
+      title / byline names the officeholder -> speaker_is_document
+      otherwise                             -> other_speaker
+
+  A transcript is attributed by its labels: a paragraph belongs to whoever was
+  last labelled, and is attributable only under a label naming the eligible
+  officeholder. The label is trimmed from the unit, as the blockquote marker is.
+- **Rationale:** The collector granted `speaker_is_document` to every speech and
+  testimony by type. Of 110, 18 were delivered by someone else — Associate,
+  Assistant and Deputy Assistant Attorneys General credited to the Attorney
+  General, a Deputy Secretary of State credited to Rubio — and 49 were
+  transcripts in which reporters, Secretary Hegseth, Prime Minister Fico and
+  Senate chairs speak, all credited to the Secretary. Among them was a press
+  release typed as testimony, and a speech written by Secretary Bessent but
+  delivered by an Under Secretary.
+- **Status:** Settled and implemented. Speeches: 29 whole, 49 transcripts, 15
+  other speaker, 2 releases about the officeholder. Two transcripts correctly
+  yield nothing — they are the Deputy Secretary's and the Counselor's. Spot-read
+  on interviews: every question is excluded and every answer kept. US selectable
+  units fell from 21,307 to 15,347.
+- **Context:** Each rule was set by reading the documents it caught, not tuned
+  to a count. The prose-mention rule was checked against every candidate: the
+  one release it catches names its subject 13 times, and no genuine speech in
+  the corpus names its own speaker more than once. The three pre-existing test
+  failures are untouched by this and remain: they expect inline-quote
+  attribution in a paragraph, which the colon-frame rule deliberately does not do.
+
+### H-95 — A document with nothing selectable is not sent to the model
+
+- **Location:** `[src/eps/cli.py:cmd_extract()]`
+- **Decision:** `extract` skips any document with no attributable unit, and its
+  closing line reports skipped and failed documents by count.
+- **Rationale:** Every line of such a document is marked "not selectable", and
+  validation rejects any observation built from a non-attributable unit, so no
+  response could reach the dataset. That was 4,526 of 6,607 documents — about
+  two thirds of the running time and half the selection cost, for identical
+  results. The failed count exists because a per-document exception is recorded
+  as "no candidates" so that one bad page cannot stop a long run; without the
+  count, a bad key or a rate limit produces a run that looks finished.
+- **Status:** Settled and implemented. Verified with a stand-in model on both
+  pilots (4 and 3 skipped, 0 failed) and then in the real pilot run.
+
+### H-96 — A retyped anchor is matched without regard to typography or case
+
+- **Location:** `[src/eps/validate.py:reconstruct_quote()]`
+- **Decision:** When the model's anchor phrase is not found exactly, the search
+  is repeated on a length-preserving folded copy — curly quotes and dashes
+  straightened, non-breaking spaces made plain, case ignored — and the quote is
+  still sliced from the original text.
+- **Rationale:** The model retypes anchors rather than copying them. In the
+  pilot, 7 of 160 selections were rejected as "anchor phrase does not appear
+  exactly": six were a curly apostrophe typed straight, one a capital letter
+  added at the start. Each was the right passage. All seven are recovered and
+  all seven quotes remain exact substrings of their documents.
+- **Status:** Settled and implemented, with a regression test. A changed word
+  still fails (`test_anchor_must_match_exactly`), so the rule forgives typing,
+  not paraphrase.
+
+### H-97 — The JEL code list is a cached system prefix, not a trailer on every quote
+
+- **Location:** `[src/eps/extract.py:Extractor.classify()]`,
+  `[src/eps/providers.py:AnthropicProvider]`, `[src/eps/cli.py:cmd_extract()]`
+- **Decision:** The active JEL code list is part of the classification system
+  prompt, built once per run, sent as a content block with
+  `cache_control: ephemeral`. The user message carries only the quotation. The
+  provider records the API's own token counts, and `extract` ends by printing
+  cache writes, cache reads and the run's cost.
+- **Rationale:** The pilot showed about 4,000 quotations to classify across the
+  two corpora, and each call carried the 30KB list — about 8,300 tokens — at full
+  price: roughly $100 of an estimated $125 extract. The list sat in the user
+  message AFTER the quotation, and a cache is a prefix match, so it could never
+  have been read back. An older direct-client path that claimed to cache it
+  cached only the short instructions, was not reachable from the command line,
+  and swallowed every exception from the API; it is removed.
+- **Status:** Settled and implemented, with a regression test asserting an
+  identical cached system block across calls and no list in the user message.
+  Projected full-run cost falls to about $40. Verified on the real API by the
+  check run: the closing `cache read` figure must dwarf `cache write`.
+- **Context:** Caching fails silently — a broken prefix raises nothing and
+  simply bills more — which is why the usage line exists and why the test pins
+  the layout rather than the outcome.
+
+### H-98 — Selection requires economic substance at the centre of the claim
+
+- **Location:** `[src/eps/extract.py:EXTRACT_SYSTEM]` (`PROMPT_VERSION = "P7-units-blind"`)
+- **Decision:** On the PI's instruction, a passage qualifies only if the
+  speaker states their own policy position AND its economic substance is central:
+  public money, prices, wages, employment, trade, sanctions on goods and finance,
+  investment, regulation of firms and markets, housing or energy supply, the
+  funding or provision of public services, migration rules governing work,
+  settlement or public support, or measurable economic outcomes. Explicitly
+  excluded, unless the claim is about money, markets or provision: criminal law,
+  policing and counter-terrorism; security, conflict and diplomacy; online-safety
+  and child-protection rules; clinical public-health measures; curriculum content;
+  statements of fact; slogans. Selections must read as complete statements, not
+  bare fragments. "When in doubt, leave it out."
+- **Rationale:** Under P6, roughly 10–15% of pilot quotations were policy but not
+  economics — Prevent training, bans on ninja swords, a new criminal offence, the
+  Sudan arms embargo, a rule against strangers messaging children in games — and
+  were forced into codes like K4 or D7. Each added classification cost and noise.
+  A few selections were fragments without a subject ("maintain American
+  leadership in low Earth orbit").
+- **Status:** Superseded by H-99 before it was ever run. It defined economics
+  by subject matter, and that is the wrong test for this project.
+- **Context:** The exclusions carry their own exceptions on purpose, so that
+  the pilot's clearly economic content survives: sanctions on Russian oil,
+  foreign-aid budgets, settlement and asylum-support rules, NHS funding, school
+  funding and structure.
+
+### H-99 — A passage qualifies if economics research could produce evidence about it
+
+- **Location:** `[src/eps/extract.py:EXTRACT_SYSTEM, JEL_SYSTEM]`
+  (`PROMPT_VERSION = "P8-units-blind"`)
+- **Decision:** Selection applies three tests. (1) A policy choice: the speaker
+  states their own government's position, decision, proposal, commitment,
+  target, design choice or causal belief, and there is a lever. (2) Researchable
+  by economists: the passage can be turned into a one-line question an applied
+  economist could answer with evidence — effects, costs and benefits, incentives,
+  distribution, or design. (3) Substantive and self-contained. The model writes
+  that research question as its `reason`, so every selected passage carries its
+  justification into `observations_internal.csv`. Exclusions are defined by what
+  is missing, not by subject: nothing chosen (ceremony, readouts, facts, process
+  and timing announcements, appointments); no lever (slogans, condemnation,
+  demands of others, criticism without an alternative); a matter economics would
+  not inform (military operations, individual court outcomes, threat levels,
+  commemorations, procedure); not the speaker; a fragment. The classifier is told
+  the same thing: applied fields are economics, and a crime, health, schooling,
+  migration, platform, defence, aid or conflict policy belongs in its applied
+  code (K42, I18, I21, F22, L86, H56, F35, D74) rather than a catch-all.
+- **Rationale:** The study this corpus serves compares what policymakers value
+  with what economists produce, benchmarked against government Areas of Research
+  Interest and learning agendas. There, economics is a discipline relevant to a
+  question, not a subject heading: 96% of surveyed policymakers — spanning health
+  and wellbeing to tax — report economics research as relevant to their work, and
+  28% of UK ARI questions relate to economics under the OECD Fields of Science
+  taxonomy. P7 (H-98) would have excluded a ban on social media for under-16s, a
+  restriction on online knife sales, vaccine eligibility rules and a
+  digital-literacy curriculum, all of which have active economics literatures and
+  are exactly the kind of priority an ARI poses. The test that separates wheat
+  from chaff is not "is this about money" but "is a policy being chosen that
+  evidence could inform". Framing it as a research question also mirrors the ARI
+  data the statements will be compared with. The classifier prompt previously said
+  "a statement is not economic merely because an economist could study it",
+  which contradicted this and has been removed.
+- **Status:** Settled pending the P8 check run on the 54 pilot documents, to be
+  compared against the P6 pilot.
+- **Context:** The filter should match whatever rule decided which ARI and
+  learning-agenda questions were economics-relevant for the website. If the two
+  rules differ, any comparison between what governments ask for and what
+  ministers say will partly measure the difference between the filters.
+
+### H-100 — The detail is the policy, and the question must fit the quoted words
+
+- **Location:** `[src/eps/extract.py:EXTRACT_SYSTEM]` (`PROMPT_VERSION = "P9-units-blind"`)
+- **Decision:** Two additions to H-99. (1) Eligibility conditions, named
+  instruments and mechanisms, scope and coverage, causal claims about what a
+  specific policy has done or will do, and stated choices between alternatives
+  each qualify in their own right, even when they elaborate a headline already
+  selected; a list of conditions defining one policy is one observation, taken
+  whole. (2) The one-line research question must be about what the selected
+  words state; where they only praise a policy or name a goal, the model selects
+  the words describing the policy, or nothing.
+- **Rationale:** Comparing the P8 check with the P6 pilot passage by passage, P8
+  removed the chaff it was meant to — rhetoric, self-praise, statistics, process
+  announcements, fragments — and kept non-financial economics, but lost 8–10
+  concrete policy details inside itemised passages: the Home Secretary's
+  settlement conditions, asylum-accommodation eligibility, "an advanced market
+  commitment to quantum", the Digital Sovereign Bond, and causal claims about a
+  policy's effects. Those are what an Area of Research Interest asks about. It
+  also kept a few praise quotes ("making defence an engine for jobs and growth")
+  whose research question described a programme mentioned elsewhere in the press
+  release rather than anything the quote said. JEL primary sub-category agreement
+  between P6 and P8 on matched quotes was 79%, with most changes following H-99's
+  applied-field instruction.
+- **Status:** Settled; P9 is the prompt for the full run. The check recovered
+  every P8 loss (settlement conditions, asylum-accommodation eligibility, the
+  quantum commitment, the Digital Sovereign Bond, the pension-fund causal claim,
+  the buy-to-let choice, the scope of the social media ban) and dropped the praise
+  quotes. Because those passages are quoted in the prompt, that is not evidence of
+  generalisation by itself. The evidence is elsewhere: on pilot documents P9 also
+  added unquoted details of the same kind (the Decent Homes Standard, tightening
+  domestic law on removals, a strengthened passenger watchdog), and on the 29
+  holdout documents it kept 49 quotes, of which about 45 are clear policy choices
+  (the HUD work requirements and time limits, the end of CDBG, the Pension Credit
+  take-up campaign and the rejected flat-rate WASPI scheme, Workforce Pell, the
+  SEND reforms). Chaff that survived: two praise quotes whose research question
+  describes the press release's policy (hydrogen investment, the Scotch whisky
+  tariff), one military deployment, and one piece of GCSE rationale — about 8%.
+  Seven of the eight holdout documents with selectable text and no quotes were
+  correct: their officeholder quotes are praise or a condolence. One is a likely
+  loss (Interior's position that offshore wind is "subsidy-dependent"). JEL primary
+  sub-category agreement with P8 on matched quotes was 92%. Validation rejected 7
+  of 189 selections: three picks of non-attributable units, one anchor mismatch,
+  and three the classifier found no economic object in (faster asylum appeals,
+  chatbot functionality, Treasury guidance to child-welfare agencies), which the
+  selection stage had judged researchable.
+- **Context:** P8 and P9 both use examples drawn from the pilot documents, so a
+  rerun on the pilot alone would partly measure the model finding passages the
+  prompt quoted to it. The P9 check therefore adds a holdout of 29 documents never
+  used in writing the prompt (14 US from 12 agencies, 15 UK from 12 departments),
+  listed in `runs/check9-*/holdout_ids.pkl`; generalisation is judged on those,
+  and on pilot passages the prompt does not quote.
+
+### H-101 — Running out of credit stops the run, and the same command resumes it
+
+- **Location:** `[src/eps/providers.py:stop_reason(), ProviderStopped]`,
+  `[src/eps/cli.py:cmd_extract(), cmd_build()]`, `[tests/test_resume.py]`
+- **Decision:** An API error that no further request on the key can succeed past
+  — out of credit, a spend limit reached, a billing error, a rejected key or one
+  lacking permission — raises `ProviderStopped`, and `extract` stops at once. The
+  document being processed is left unrecorded so the next run does it again;
+  everything else is saved. `extract` writes `extract_status.json` as incomplete
+  before its first call and rewrites it at the end with whether the run is
+  complete, why it stopped, and which documents remain or failed. `build` refuses
+  to run on an incomplete extract unless given `--allow-incomplete`. The SDK's
+  retries for transient errors (rate limits, 5xx, overloaded) are raised from 2
+  to 8 for long runs. Exit codes: 0 complete, 2 finished with document failures,
+  3 stopped.
+- **Rationale:** The credit balance may not cover the full run. Before this, an
+  exhausted balance would have made every remaining document fail in turn — each
+  caught, recorded as "no quotes", and counted — so the run would have finished
+  with thousands of failures and an `extractions.pkl` indistinguishable in shape
+  from a complete one, and `build` would have written a dataset from it.
+  Resumption needed no new mechanism: every response is already cached under a
+  hash of its inputs, so a re-run replays paid work for free and calls the API
+  only for what is missing. What was missing was stopping cleanly and refusing to
+  treat the partial result as final.
+- **Status:** Settled and implemented. Tested with a simulated credit failure
+  partway through a document: the run stops after the failing call, `build`
+  refuses, and the resumed run makes exactly the calls that were never answered
+  (3 of 6), then builds. A run killed outright is never reported complete. Out of
+  credit is recognised by error type and status and also by message, because it
+  has been reported as a plain 400 `invalid_request_error` ("Your credit balance
+  is too low"), as has a workspace spend limit; a rate limit, a server error or
+  an ordinary bad request does not stop the run.
+- **Context:** Ctrl+C is handled the same way as running out of credit. Closing
+  the window kills the process before it can write anything, but responses
+  already received are in the cache and the status file still says incomplete,
+  so the same command resumes.

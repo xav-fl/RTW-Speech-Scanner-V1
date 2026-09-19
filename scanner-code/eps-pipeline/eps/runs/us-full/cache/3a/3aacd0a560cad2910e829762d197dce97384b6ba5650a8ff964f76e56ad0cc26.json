@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd092c1fce2.P003.S001\", \"Dd092c1fce2.P003.S002\"], \"anchor\": null, \"reason\": \"Does a government mandate to expand domestic critical mineral production reduce dependence on foreign sources and strengthen supply chains?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

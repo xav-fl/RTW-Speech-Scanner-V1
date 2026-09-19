@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D72e0fc4f35.P002.S001\"], \"anchor\": null, \"reason\": \"Do changes to CCR regulations that shift permitting to states reduce compliance costs while maintaining environmental protection?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

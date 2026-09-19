@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal program to expand independent meat processing capacity and beef supply chain competition\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"L13\", \"strength\": 2}, {\"code\": \"R11\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

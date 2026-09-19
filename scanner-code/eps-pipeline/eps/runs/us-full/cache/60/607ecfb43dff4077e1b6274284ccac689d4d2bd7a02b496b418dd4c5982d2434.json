@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D76f7a57119.P004.S001\", \"D76f7a57119.P004.S002\"], \"anchor\": null, \"reason\": \"Does closing southern cattle ports of entry reduce New World screwworm spread and protect the U.S. livestock industry?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

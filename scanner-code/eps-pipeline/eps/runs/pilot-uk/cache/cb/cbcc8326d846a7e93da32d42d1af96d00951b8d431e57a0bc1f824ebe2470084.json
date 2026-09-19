@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"rail fare simplification and unified ticketing platform\", \"codes\": [{\"code\": \"L92\", \"strength\": 3}, {\"code\": \"R48\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

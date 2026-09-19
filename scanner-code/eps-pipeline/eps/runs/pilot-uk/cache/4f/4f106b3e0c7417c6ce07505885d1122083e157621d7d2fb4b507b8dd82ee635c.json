@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"vaccine eligibility criteria for public health program\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

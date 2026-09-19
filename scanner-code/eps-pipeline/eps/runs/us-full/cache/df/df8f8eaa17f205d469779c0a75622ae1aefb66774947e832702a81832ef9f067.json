@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"housing-first policy effectiveness for reducing homelessness\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"R31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

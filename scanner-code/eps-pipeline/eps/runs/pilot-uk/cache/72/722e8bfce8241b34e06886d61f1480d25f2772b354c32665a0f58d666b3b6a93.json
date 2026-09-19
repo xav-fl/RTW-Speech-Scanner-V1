@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"mobilising climate and nature finance to reach vulnerable communities\", \"codes\": [{\"code\": \"Q54\", \"strength\": 3}, {\"code\": \"F35\", \"strength\": 2}, {\"code\": \"O16\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

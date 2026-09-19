@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4564f8296a.P002.S001\"], \"anchor\": null, \"reason\": \"Does allowing state-inspected processors interstate shipping access increase market competition and processor revenues?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

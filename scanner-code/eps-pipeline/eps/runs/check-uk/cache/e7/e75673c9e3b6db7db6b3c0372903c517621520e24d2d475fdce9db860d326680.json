@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"cross-cutting child welfare and education policy agenda\", \"codes\": [{\"code\": \"I28\", \"strength\": 2}, {\"code\": \"I38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

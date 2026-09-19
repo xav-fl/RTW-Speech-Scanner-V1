@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2d769d1a65.P018.S001\"], \"anchor\": \"By sunsetting this failed bureaucracy, we are empowering states to lead again — to test new approaches, compare outcomes, and scale what works.\", \"reason\": \"Does abolishing the federal Department of Education and devolving authority to states improve student outcomes?\"},{\"unit_ids\": [\"D2d769d1a65.P023.S001\"], \"anchor\": null, \"reason\": \"Do education freedom scholarships and after-school funding programmes improve student achievement and parental choice?\"},{\"unit_ids\": [\"D2d769d1a65.P024.S001\", \"D2d769d1a65.P025.S001\"], \"anchor\": null, \"reason\": \"Does expanding Pell grants to short-term workforce training improve employment outcomes and reduce student debt?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

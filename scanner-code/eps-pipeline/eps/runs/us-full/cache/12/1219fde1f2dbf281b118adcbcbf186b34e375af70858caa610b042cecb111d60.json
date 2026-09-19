@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd1e825d8ed.P004.S001\"], \"anchor\": null, \"reason\": \"Does adding Chinese companies to the UFLPA Entity List reduce forced-labour goods imports and protect U.S. workers' wages?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

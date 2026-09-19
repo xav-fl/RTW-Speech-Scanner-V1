@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"Fair Housing Act enforcement against discriminatory housing assistance\", \"codes\": [{\"code\": \"R38\", \"strength\": 3}, {\"code\": \"K31\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

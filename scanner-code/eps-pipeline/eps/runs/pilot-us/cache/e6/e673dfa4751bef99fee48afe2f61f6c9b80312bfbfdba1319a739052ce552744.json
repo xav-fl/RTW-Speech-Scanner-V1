@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"global implications of US-China trade relations\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"F51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

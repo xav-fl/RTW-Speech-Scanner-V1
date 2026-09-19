@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"aligning foreign assistance with national interest and foreign policy strategy\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

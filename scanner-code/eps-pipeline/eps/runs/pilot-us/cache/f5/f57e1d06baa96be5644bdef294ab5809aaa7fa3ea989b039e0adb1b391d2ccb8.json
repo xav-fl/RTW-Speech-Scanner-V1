@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"geographic reallocation of foreign aid and bilateral health system compacts\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"I18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

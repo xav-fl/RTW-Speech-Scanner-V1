@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5236346f80.P002.S001\", \"D5236346f80.P002.S002\"], \"anchor\": null, \"reason\": \"Does shifting CCR permitting authority from federal to state government improve environmental and health outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

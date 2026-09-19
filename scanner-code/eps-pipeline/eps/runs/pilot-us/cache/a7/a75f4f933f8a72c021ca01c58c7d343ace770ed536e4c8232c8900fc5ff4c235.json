@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"institutional environment for foreign direct investment in post-disaster recovery\", \"codes\": [{\"code\": \"F21\", \"strength\": 3}, {\"code\": \"O43\", \"strength\": 2}, {\"code\": \"Q54\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

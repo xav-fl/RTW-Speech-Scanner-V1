@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bilateral agreement to promote innovation and competitiveness in advanced technology sectors\", \"codes\": [{\"code\": \"O31\", \"strength\": 3}, {\"code\": \"F15\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

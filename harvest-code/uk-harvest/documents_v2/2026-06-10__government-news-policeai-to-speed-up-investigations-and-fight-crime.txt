@@ -1,0 +1,71 @@
+Officers across England and Wales will spend less time behind desks and more time protecting their communities, as the government today launches PoliceAI – a new national centre dedicated to the responsible development, piloting and scaling of artificial intelligence in policing.
+
+The centre, backed by a record £75 million over 3 years, will work across all forces to identify, test and scale AI tools that deliver real results.
+
+Early trials show the scale of what is possible: 800 hours of footage in a kidnapping case reviewed in 3 hours, producing an early guilty plea; and half a million e-books of data translated instantly, leading to the arrest of a serious organised crime gang.
+
+PoliceAI is part of a record £140 million investment in AI technology over 3 years, including funding for 40 more live facial recognition units, tripling current capacity of a technology that is already proving its value in catching wanted rapists, domestic abusers and child sex offenders.
+
+The government is also investing a record £16.5 million to modernise how police and the public interact. This includes AI that transcribes 999 and 101 calls, links crime reports to identify patterns in demand, and triages non-emergency calls to the right responder.
+
+Policing Minister Sarah Jones said:
+
+> AI is already helping police catch dangerous offenders, speed up investigations and keep our communities safe – and we are only just getting started.
+
+> PoliceAI will transform how every force in England and Wales works, improving police access to data and intelligence, generating new evidential leads and ultimately freeing up the equivalent of 3,000 extra officers and putting more police back where they belong: in our communities
+
+> But we will only realise that potential if we do this responsibly, with public consent at every step. That is exactly what PoliceAI is designed to deliver.
+
+> Tackling tool theft and retail crime is a priority. We are investing £1 million to better join up police data with property marking schemes, use AI to identify stolen goods and track resale online, and understand exactly what is being stolen and by whom. Alongside PoliceAI’s work to speed up investigations, this will help return more property to victims and get officers back onto the frontline.
+
+In its first year, PoliceAI will prioritise areas where AI can make the biggest immediate difference.
+
+It will run large-scale pilots in up to 10 forces to help officers triage, disclose and summarise digital evidence – one of the most time-consuming parts of any investigation. These trials will run over 2026-27 before being scaled to all police forces in 2027, freeing up millions of hours per year. It builds on work to help police adopt AI to redact audio-visual files, set to free up 1 million hours per year if all 43 forces use the tech we are rolling out.
+
+It will lead the national policing response to AI-enabled crime, including deepfake intimate images, through a new Policing AI Threat Hub. Police AI will get high quality deepfake detection tools and training into the hands of police forces so they can tackle new AI-enabled crimes.
+
+It will also help the police tackle the scourge of retail crime and tool theft by helping police establish who recovered tools belong to so they can be returned to victims quickly.
+
+PoliceAI interim director Alex Murray OBE said:
+
+> Crime and technology are evolving rapidly. Policing must keep pace by adopting AI responsibly to catch criminals and keep people safe.
+
+> We have created a national AI centre to help policing work smarter – our job is to get responsible AI into the hands of officers and staff so that they can spend less time on bureaucracy and more time fighting crime and helping the victims, witnesses and communities they work so hard to protect.
+
+Ian Murray, Minister for Digital Government and Data said:
+
+> People should see the benefits of technology in the services they rely on every day – that means quicker results, better tools, and a system that works more effectively from start to finish.
+
+> PoliceAI is about putting that into practice - using cutting-edge AI to help forces process evidence faster, reduce paperwork and focus their time where it matters most.
+
+> By testing what works and scaling it across the country, we’re making sure these improvements are felt in every community - while building trust in how this technology is used.
+
+PoliceAI is set to become part of the planned National Policing Service and will publish a public registry of AI tools in use across policing, developed in partnership with CENTRIC at Sheffield Hallam University. A first version will be available by the autumn.
+
+AI models will be independently tested for accuracy and bias, building on the government-funded rigorous approach already established for live facial recognition algorithms. This is vital in areas like evidence translation where documents must be translated accurately to stand up in court.
+
+Sir Andy Marsh, CEO of the College of Policing said:
+
+> The College of Policing is proud to host PoliceAI, an emerging technology that we are committed to explaining clearly, how it works, how it is evaluated, and the safeguards in place to build public confidence in its use.
+
+> While history shows that some of the greatest advances in policing have come through technology, from body worn video to modern forensics, technology alone is never enough; it must be guided by strong leadership and grounded in our Code of Ethics.
+
+> By combining these innovations with the College’s commitment to high standards, evidence-based practice and continuous improvement, we are facing an historic shift for British policing that will help keep the public safe and strengthen trust in the service.
+
+The launch forms a central part of the Police Reform White Paper, published in January 2026, which set out the most ambitious redesign of policing in nearly 200 years. It directly supports the government’s Plan for Change and its Safer Streets mission – putting more visible, effective policing at the heart of every community. We have already put 3,000 more neighbourhood officers on our street, where the public rightly expect them to be - out in local areas, fighting local crime. 13,000 new neighbourhood officers will be in place by the end of this Parliament.
+
+Blair Gibbs, Director of the Police Foundation said:
+
+> PoliceAI has the potential to transform policing.  By harnessing these innovative technologies and designing how to deploy them responsibly, the UK will be leading the world in how to leverage Artificial Intelligence within a democratic policing model.
+
+> Extra investment is welcome, and the key to making an impact will be to bring in outside experts and make fast decisions, so PoliceAI can support local forces to scale their use of AI quickly and transparently.
+
+The Tony Blair Institute’s Senior Director of Policy & Politics, Ryan Wain, said:
+
+> This is a welcome step to help police make better use of technology in the fight against crime. For too long, some of the loudest voices have focused on the risks of innovation without giving equal attention to the opportunities it offers to protect the public.
+
+> No one joins the force to fill out forms or spend hours reviewing evidence; they join to stop criminals. AI can help get officers out from behind their desks and back on the beat. At the same time, criminals are exploiting AI to target victims and destroy lives. With fraud now the single most common crime people experience police need access to cutting-edge tools if they’re to stay one step ahead and protect the public.
+
+Neil Basu QPM, former head of Counter Terrorism Policing, said:
+
+> There is a lot of concern about AI but the truth is it is here, and it’s here to stay. AI can, if used correctly, be a force for good that will help policing become not just more efficient but far more effective. That means greater safety and security for us all. The creation of PoliceAI, backed by this government, as a single accountable body for the service is exactly the way to do this responsibly.

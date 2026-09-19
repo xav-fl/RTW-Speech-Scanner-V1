@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"temporary protected status revocation for foreign nationals\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"K37\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

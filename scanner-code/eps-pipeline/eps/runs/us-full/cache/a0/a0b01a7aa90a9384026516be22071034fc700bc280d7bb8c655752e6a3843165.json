@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public health warning targeting children's screen use and mental health outcomes\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"I12\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

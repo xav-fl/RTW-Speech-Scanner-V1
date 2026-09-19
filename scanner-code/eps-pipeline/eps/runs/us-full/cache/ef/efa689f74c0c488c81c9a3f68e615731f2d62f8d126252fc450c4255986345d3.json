@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd398cd0552.P004.S001\", \"Dd398cd0552.P004.S002\"], \"anchor\": null, \"reason\": \"Does USDA commodity purchasing for food banks stabilize farm income and support rural employment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D10b2fd04c6.P008.S001\", \"D10b2fd04c6.P008.S002\"], \"anchor\": null, \"reason\": \"Does sustained Gulf of America oil and gas production reduce energy costs and improve economic resilience for American families?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

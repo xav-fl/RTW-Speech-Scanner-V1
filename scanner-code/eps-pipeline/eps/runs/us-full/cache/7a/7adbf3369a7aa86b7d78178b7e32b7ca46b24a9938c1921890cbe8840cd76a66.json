@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D36cafbf570.P004.S001\"], \"anchor\": null, \"reason\": \"Do emergency loan programs help agricultural producers recover financially from natural disaster events?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd061c07f3d.P003.S001\"], \"anchor\": \"56 members of the United States Coast Guard who were kicked out of the service over the COVID-19 vaccine have finally been reinstated with back pay\", \"reason\": \"What are the labour-market and retention effects of reinstating discharged servicemembers with back pay?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

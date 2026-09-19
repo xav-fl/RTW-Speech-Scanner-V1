@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd20934e0cf.P005.S001\", \"Dd20934e0cf.P005.S002\"], \"anchor\": null, \"reason\": \"Does transferring federal student loan administration to Treasury improve repayment rates and reduce default costs to taxpayers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

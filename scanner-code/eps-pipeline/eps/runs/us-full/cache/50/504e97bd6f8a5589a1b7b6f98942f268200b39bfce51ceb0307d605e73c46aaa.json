@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D520e803097.P005.S002\"], \"anchor\": \"This first of its kind facility on U.S. soil will ensure we are not reliant on other countries for sterile flies.\", \"reason\": \"Does domestic sterile fly production reduce costs or supply-chain risk compared to relying on foreign facilities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

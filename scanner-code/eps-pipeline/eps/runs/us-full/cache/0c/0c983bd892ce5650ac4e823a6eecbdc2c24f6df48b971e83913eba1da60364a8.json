@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3489be7d1a.P003.S001\"], \"anchor\": null, \"reason\": \"Does Indian Housing Block Grant funding improve affordable housing availability and quality in Tribal communities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8341681dbe.P003.S001\"], \"anchor\": null, \"reason\": \"Does reviewing and restructuring a government loan portfolio improve the fiscal responsibility of energy lending?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

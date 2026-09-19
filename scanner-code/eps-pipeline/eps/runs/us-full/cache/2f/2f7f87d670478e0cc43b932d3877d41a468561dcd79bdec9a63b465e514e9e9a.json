@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3c9b668c33.P009.S001\"], \"anchor\": null, \"reason\": \"Does expanding long-distance biking corridors on federal land increase local tourism revenue and employment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

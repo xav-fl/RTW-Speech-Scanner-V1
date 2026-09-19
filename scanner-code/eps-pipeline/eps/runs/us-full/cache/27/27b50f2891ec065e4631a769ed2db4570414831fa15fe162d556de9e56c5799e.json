@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"civil service employment protections and performance accountability for senior career officials\", \"codes\": [{\"code\": \"J45\", \"strength\": 3}, {\"code\": \"J83\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

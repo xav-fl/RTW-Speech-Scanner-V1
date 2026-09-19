@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8c355567ec.P005.S001\", \"D8c355567ec.P005.S002\"], \"anchor\": null, \"reason\": \"Do policies reversing prior energy regulations reduce grid vulnerability and electricity prices for consumers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

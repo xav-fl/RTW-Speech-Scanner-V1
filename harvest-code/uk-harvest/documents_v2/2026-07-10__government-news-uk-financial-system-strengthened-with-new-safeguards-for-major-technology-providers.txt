@@ -1,0 +1,77 @@
+Four global Cloud Service Providers to come under direct regulatory oversight to help protect the UK’s financial system
+
+Designations will enable oversight and cooperation, strengthening resilience across the banking and financial services sector
+
+Move will help reduce the risk of disruption to the online services used by millions of people and businesses
+
+Four global Cloud Service Providers are to be brought under a new regime from next week to help strengthen the resilience of the UK’s financial system and protect the services millions of people and businesses rely on every day.
+
+As banks, insurers and financial market infrastructures become increasingly reliant on cloud services, disruption at a major supplier could affect multiple firms at the same time, potentially impacting services customers depend on.
+
+To help guard against this risk, the Government has designated four major global cloud services and technology providers as Critical Third Parties (CTPs).
+
+The designation means the Bank of England, Prudential Regulation Authority and Financial Conduct Authority will work together to jointly oversee the critical services they provide to the financial sector, helping reduce the risk of widespread disruption and strengthening collaboration across the financial services ecosystem.
+
+Designated third parties will be subject to oversight by the UK financial regulators, helping to ensure they have robust arrangements in place to identify, manage and recover from operational disruption affecting critical services used across the financial sector.
+
+Through the new regime, the regulators will be able to gather information, assess resilience, and work with third parties to address risks to the continuity of critical services, including through making and enforcing CTP-specific rules where necessary.
+
+Economic Secretary to the Treasury and City Minister, Rachel Blake MP, said:
+
+> We are a world-leading financial centre, and maintaining trust in our financial system is essential to its success.
+
+> These designations will help ensure the critical services financial firms rely on remain resilient, protecting consumers and businesses while supporting growth across the economy.
+
+The designations mark a major step in strengthening the resilience of the UK’s financial system.
+
+The Government sees a stable and secure financial system is essential for economic growth. By strengthening oversight of critical services and enhancing collaboration with third party providers, the Government is helping safeguard financial stability, support confidence and create the conditions for investment, innovation and growth.
+
+The Government is taking a targeted and proportionate approach. As part of a rolling regime, further providers may be designated over time where this is necessary to protect UK resilience.
+
+The following firms will be designated as Critical Third Parties from 13 July 2026:
+
+Microsoft Ireland Operations Limited
+
+Google Cloud EMEA Limited
+
+Amazon Web Services EMEA SARL
+
+Oracle Corporation UK Limited
+
+These designations follow a period of evidence gathering and collaborative engagement with third parties.
+
+Freddy Dezeure, Deputy Chief Information Security Officer for Europe at Microsoft said:
+
+> For more than 40 years, Microsoft has worked closely with UK government agencies to help support citizens, improve services, and secure and enhance the resilience of the digital ecosystem.
+
+> The designation of Microsoft Ireland Operations Limited as a critical third party marks a new chapter in this relationship, and Microsoft remains fully committed to complying with the relevant oversight requirements and the UK’s cybersecurity and resilience laws.
+
+A spokesperson for Google Cloud said:
+
+> Google Cloud EMEA Limited is committed to supporting the operational resilience of the UK financial sector by delivering secure, scalable, and resilient services.
+
+> We are confident that, with effective implementation and meaningful industry engagement, this new Critical Third Party framework can enhance the long-term resilience of the UK’s financial ecosystem and increase understanding, transparency, and trust between all parties.”
+
+Michael Jefferson, Head of Financial Services Public Policy EMEA at AWS, said:
+
+> AWS supports the objectives of the UK Authorities to ensure a robust UK financial system. AWS will comply with all applicable regulations, and we remain committed to helping customers to meet their business and operational resilience objectives.
+
+Kevin Kimber, Senior Vice President General Manager UK&I at Oracle, said:
+
+> Oracle supports the UK Government’s important objective of enhancing the operational resilience of the UK financial sector. We are committed to working closely with the regulators and our financial services customers toward that objective, while also supporting the Government in accelerating innovation and promoting long-term economic growth.
+
+Notes to editors:
+
+The Critical Third Parties regime was established through the Financial Services and Markets Act 2023 to strengthen the operational resilience of the UK financial system.
+
+HM Treasury makes designation decisions following consultation with third parties, the Bank of England, Prudential Regulation Authority and Financial Conduct Authority.
+
+Regulatory oversight applies only to the systemic services provided to the financial sector, not firms’ wider operations.
+
+There is no statutory limit on the number of Critical Third Parties that may be designated.
+
+HM Treasury takes a risk-based and proportionate approach to designation, ensuring that only the most critical third-party providers are brought into the regime.
+
+Further designations may be made where providers are assessed as meeting the statutory criteria, including where disruption could pose a risk to UK financial stability or confidence in the financial system.
+
+Financial firms remain responsible for managing risks arising from their third-party suppliers.

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2d28f2f963.P003.S001\"], \"anchor\": \"The 287(g) program can be a tremendous asset to you and to the country\", \"reason\": \"Does local law enforcement participation in 287(g) immigration cooperation programs reduce crime rates?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

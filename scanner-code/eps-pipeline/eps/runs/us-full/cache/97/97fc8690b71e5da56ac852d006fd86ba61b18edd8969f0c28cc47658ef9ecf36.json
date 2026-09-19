@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dce75d8c71e.P002.S001\", \"Dce75d8c71e.P004.S001\"], \"anchor\": null, \"reason\": \"Does removing non-compliant hotels from federal lodging programs affect government travel costs or law enforcement operational effectiveness?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

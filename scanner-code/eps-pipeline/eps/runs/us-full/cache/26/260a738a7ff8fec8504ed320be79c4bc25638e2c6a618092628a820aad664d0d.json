@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D56502990b4.P004.S001\"], \"anchor\": \"the SBA will continue to work proactively across the country to ensure they play a leading role in rebuilding American industry, particularly by supporting access to capital, deregulation, and workforce readiness\", \"reason\": \"Does SBA support for small manufacturers via capital access, deregulation, and workforce readiness increase domestic supply chain participation?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

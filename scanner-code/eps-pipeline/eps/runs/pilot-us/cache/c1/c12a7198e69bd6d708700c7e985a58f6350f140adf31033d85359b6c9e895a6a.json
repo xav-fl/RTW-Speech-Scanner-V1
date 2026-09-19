@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bank supervisory priorities and safety-and-soundness examination focus\", \"codes\": [{\"code\": \"G28\", \"strength\": 3}, {\"code\": \"G21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

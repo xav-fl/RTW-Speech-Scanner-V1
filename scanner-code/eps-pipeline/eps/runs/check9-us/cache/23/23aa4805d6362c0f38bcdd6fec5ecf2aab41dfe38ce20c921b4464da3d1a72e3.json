@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"industrial and technology policy for strategic competitiveness and supply chain security\", \"codes\": [{\"code\": \"L52\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}, {\"code\": \"O14\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

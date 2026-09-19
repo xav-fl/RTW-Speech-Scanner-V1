@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"universal child program eligibility including foster/state-ward children\", \"codes\": [{\"code\": \"I38\", \"strength\": 2}, {\"code\": \"J13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

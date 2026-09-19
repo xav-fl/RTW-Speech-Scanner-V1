@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7be14e6aee.P002.S001\"], \"anchor\": null, \"reason\": \"Policy commitment to open data portal with AI compatibility and federal integration\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1d442e366a.P004.S001\", \"D1d442e366a.P004.S002\"], \"anchor\": null, \"reason\": \"Does removing ineligible firms from the 8(a) programme improve targeting of set-aside contracts to genuinely disadvantaged small businesses?\"}, {\"unit_ids\": [\"D1d442e366a.P004.S003\"], \"anchor\": null, \"reason\": \"Does enforcing economic-disadvantage eligibility in federal contracting programmes reduce market distortions and benefit eligible small businesses?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

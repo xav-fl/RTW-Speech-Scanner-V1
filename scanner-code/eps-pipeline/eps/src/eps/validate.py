@@ -17,6 +17,24 @@ from .normalise import SPEAKER_ONLY_TYPES
 from .jel import JELTaxonomy
 
 
+#: One character in, one character out, so an index found in the folded text is
+#: an index into the original.
+_TYPOGRAPHY = str.maketrans({
+    "‘": "'", "’": "'", "‛": "'", "′": "'",
+    "“": '"', "”": '"', "„": '"', "″": '"',
+    "–": "-", "—": "-", " ": " ",
+})
+
+
+def _fold_for_search(text: str) -> str:
+    """Typography- and case-insensitive copy of `text`, the same length."""
+    folded = text.translate(_TYPOGRAPHY)
+    lowered = folded.lower()
+    # A handful of characters change length when lower-cased; skip case-folding
+    # for those rather than let positions drift.
+    return lowered if len(lowered) == len(folded) else folded
+
+
 class RejectReason:
     UNKNOWN_UNIT = "unit_id not found in document"
     NON_CONTIGUOUS = "unit_ids are not contiguous"
@@ -146,6 +164,17 @@ def reconstruct_quote(
     if anchor:
         anchor_norm = anchor.strip()
         idx = quote.find(anchor_norm)
+        if idx == -1:
+            # The model retypes the anchor rather than copying it, and
+            # typography does not survive retyping. In the pilot, six of seven
+            # anchor rejections were a curly apostrophe typed straight
+            # ("they’re" -> "they're") and the seventh a capital letter at the
+            # start of the phrase: the right passage, thrown away. The search is
+            # repeated on a folded copy -- same length, so positions carry over
+            # -- and the quote is still sliced from the ORIGINAL text, so the
+            # dataset keeps the document's own characters. A changed word
+            # ("50 per cent" -> "50%") still fails.
+            idx = _fold_for_search(quote).find(_fold_for_search(anchor_norm))
         if idx == -1:
             return "", RejectReason.ANCHOR_NOT_FOUND
         quote = quote[idx:idx + len(anchor_norm)]

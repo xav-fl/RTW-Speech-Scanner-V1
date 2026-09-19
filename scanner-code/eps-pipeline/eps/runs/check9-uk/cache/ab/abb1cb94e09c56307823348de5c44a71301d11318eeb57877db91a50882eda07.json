@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"price controls on energy, pharmaceuticals, and transport to reduce inflation\", \"codes\": [{\"code\": \"E31\", \"strength\": 3}, {\"code\": \"E64\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

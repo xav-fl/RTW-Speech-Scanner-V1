@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"visa restrictions targeting cartel-linked individuals and associates\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"F51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

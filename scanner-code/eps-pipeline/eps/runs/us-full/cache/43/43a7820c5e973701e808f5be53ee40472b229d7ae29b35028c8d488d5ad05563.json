@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"agricultural pest surveillance and border containment program\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

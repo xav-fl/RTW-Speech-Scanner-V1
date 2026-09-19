@@ -21,13 +21,14 @@ be re-run as often as you like, offline and for free.
 from __future__ import annotations
 
 import argparse
+import json
 import pickle
 import sys
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 from .extract import DEFAULT_MODEL, IDENTITY_MODES, Extractor, ResponseCache
-from .providers import PROVIDERS, get_provider
+from .providers import PROVIDERS, ProviderStopped, get_provider
 from .validate import resolve_speaker
 from .harvest.govuk import GovUKHarvester
 from .harvest.local import (
@@ -211,30 +212,135 @@ def cmd_extract(args) -> int:
     )
     print(f"provider={args.provider}  model={model}  identity_mode={args.identity_mode}")
 
-    results: dict[str, list] = {}
-    for i, doc in enumerate(docs, 1):
-        speaker, source, warning = resolve_speaker(doc, officeholders)
-        if warning:
-            print(f"  ! {warning}", file=sys.stderr)
-        if speaker is None:
-            results[doc.doc_id] = []
-            continue
-        try:
-            results[doc.doc_id] = extractor.extract(doc, speaker, run_id=args.run_id)
-        except Exception as exc:
-            print(f"  ! {doc.url}: {exc}", file=sys.stderr)
-            results[doc.doc_id] = []
-        if i % 10 == 0:
-            print(f"  {i}/{len(docs)}", flush=True)
+    # RESUMING. Every model response is saved in run_dir/cache the moment it
+    # arrives, keyed by its exact inputs. Re-running this command therefore
+    # replays everything already paid for at no cost and only calls the API for
+    # what is missing -- after running out of credit, a crash, Ctrl+C, or a
+    # closed window. The status file is written as "incomplete" before the first
+    # call, so a run killed outright is never mistaken for a finished one.
+    status_path = run_dir / EXTRACT_STATUS
+    _write_status(status_path, complete=False, state="running", model=model,
+                  prompt_version=extractor.prompt_version, run_id=args.run_id,
+                  documents=len(docs))
 
+    results: dict[str, list] = {}
+    skipped = 0
+    failed_ids: list[str] = []
+    stopped: tuple[str, str] | None = None
+    try:
+        for i, doc in enumerate(docs, 1):
+            # A document with no attributable unit is not sent to the model.
+            # Every line of it is marked "not selectable", and validation
+            # rejects any observation built from a non-attributable unit, so
+            # nothing the model could return would reach the dataset. In the US
+            # and UK corpora that is 4,526 of 6,607 documents -- roughly half
+            # the cost and two thirds of the running time, for identical results.
+            if not any(u.attributable for u in doc.units):
+                results[doc.doc_id] = []
+                skipped += 1
+                continue
+            speaker, source, warning = resolve_speaker(doc, officeholders)
+            if warning:
+                print(f"  ! {warning}", file=sys.stderr)
+            if speaker is None:
+                results[doc.doc_id] = []
+                continue
+            try:
+                results[doc.doc_id] = extractor.extract(doc, speaker, run_id=args.run_id)
+            except ProviderStopped as exc:
+                # Out of credit, spend limit, or a bad key: every remaining
+                # document would fail the same way. Stop, and leave this
+                # document unrecorded so the next run does it.
+                stopped = (exc.reason, exc.detail)
+                break
+            except Exception as exc:
+                # A failure specific to this document. Recorded as no candidates
+                # so one bad page cannot stop a long run, and listed in the
+                # status file so the run is not reported complete.
+                print(f"  ! {doc.url}: {exc}", file=sys.stderr)
+                results[doc.doc_id] = []
+                failed_ids.append(doc.doc_id)
+            if i % 10 == 0:
+                print(f"  {i}/{len(docs)}", flush=True)
+    except KeyboardInterrupt:
+        stopped = ("interrupted", "stopped with Ctrl+C")
+
+    remaining = [d.doc_id for d in docs if d.doc_id not in results]
+    complete = stopped is None and not failed_ids
     with open(run_dir / "extractions.pkl", "wb") as fh:
         pickle.dump(results, fh)
-    print(f"{sum(len(v) for v in results.values())} candidates from {len(docs)} docs")
-    return 0
+    _write_status(status_path, complete=complete,
+                  state="complete" if complete else ("stopped" if stopped else "finished with failures"),
+                  stopped_reason=stopped[0] if stopped else None,
+                  stopped_detail=(stopped[1][:500] if stopped else None),
+                  model=model, prompt_version=extractor.prompt_version,
+                  run_id=args.run_id, documents=len(docs),
+                  documents_done=len(results) - len(failed_ids),
+                  remaining_doc_ids=remaining, failed_doc_ids=failed_ids)
+
+    print(f"{sum(len(v) for v in results.values())} candidates from {len(results)} of "
+          f"{len(docs)} docs ({skipped} skipped, nothing selectable; "
+          f"{len(failed_ids)} FAILED)")
+    if stopped:
+        print(f"\nRUN STOPPED: {stopped[0]}", file=sys.stderr)
+        print(f"  {stopped[1][:300]}", file=sys.stderr)
+        print(f"  {len(docs) - len(remaining):,} of {len(docs):,} documents done; "
+              f"{len(remaining):,} remaining. Progress is saved.", file=sys.stderr)
+        print("  To continue: fix the cause (e.g. top up credit), set the key "
+              "again, and re-run this same command. Documents already done are "
+              "replayed from saved responses at no cost.", file=sys.stderr)
+    elif failed_ids:
+        print(f"  !! {len(failed_ids)} document(s) failed. Re-run the same command "
+              f"to retry only these.", file=sys.stderr)
+
+    # The API's own token counts for this run (responses replayed from the local
+    # cache cost nothing and do not appear). `cache read` should dwarf `cache
+    # write`: if it is zero while classification calls were made, prompt caching
+    # is broken and the run is costing several times what it should.
+    usage = getattr(provider, "usage", None)
+    if usage and usage.get("calls"):
+        print(f"api calls {usage['calls']}: input {usage['input_tokens']:,}  "
+              f"cache write {usage['cache_creation_input_tokens']:,}  "
+              f"cache read {usage['cache_read_input_tokens']:,}  "
+              f"output {usage['output_tokens']:,} tokens")
+        cost = provider.cost_usd() if hasattr(provider, "cost_usd") else None
+        if cost is not None:
+            print(f"cost of this run: ${cost:,.2f}")
+    if stopped:
+        return 3
+    return 2 if failed_ids else 0
+
+
+#: Written by `extract` in the run directory; read by `build`.
+EXTRACT_STATUS = "extract_status.json"
+
+
+def _write_status(path: Path, **fields) -> None:
+    fields["updated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    path.write_text(json.dumps(fields, indent=2), encoding="utf-8")
 
 
 def cmd_build(args) -> int:
     run_dir = Path(args.run_dir)
+
+    # A dataset built from an unfinished extract looks exactly like a finished
+    # one with fewer quotes, so it is refused unless asked for explicitly.
+    status_path = run_dir / EXTRACT_STATUS
+    if status_path.exists():
+        status = json.loads(status_path.read_text(encoding="utf-8"))
+        if not status.get("complete"):
+            left = len(status.get("remaining_doc_ids") or [])
+            bad = len(status.get("failed_doc_ids") or [])
+            why = status.get("stopped_reason") or status.get("state")
+            print(f"The extract for {run_dir} is not complete ({why}; "
+                  f"{left:,} documents not done, {bad:,} failed).", file=sys.stderr)
+            if not args.allow_incomplete:
+                print("Re-run the same extract command to finish it, or pass "
+                      "--allow-incomplete to build a partial dataset anyway.",
+                      file=sys.stderr)
+                return 2
+            print("Building a PARTIAL dataset, as requested.", file=sys.stderr)
+
     docs = load_documents(run_dir / "documents.pkl")
     ext_path = run_dir / "extractions.pkl"
     extractions = {}
@@ -308,6 +414,8 @@ def main(argv=None) -> int:
     q.add_argument("--run-id", default="")
     q.add_argument("--min-quote-chars", type=int, default=None)
     q.add_argument("--max-quote-chars", type=int, default=None)
+    q.add_argument("--allow-incomplete", action="store_true",
+                   help="build even though the extract stopped or had failures")
     q.set_defaults(func=cmd_build)
 
     args = p.parse_args(argv)

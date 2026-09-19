@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D416cef56e8.P006.S001\"], \"anchor\": null, \"reason\": \"Does a federal AI workforce readiness partnership improve workers' skills and employment outcomes in an AI-driven economy?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

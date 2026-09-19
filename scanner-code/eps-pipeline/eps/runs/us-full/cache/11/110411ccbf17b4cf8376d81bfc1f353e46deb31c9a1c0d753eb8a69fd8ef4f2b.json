@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2e1a1a3b35.P039.S001\", \"D2e1a1a3b35.P039.S002\", \"D2e1a1a3b35.P039.S003\"], \"anchor\": null, \"reason\": \"Does allowing Venezuela to sell oil at full market price and redirecting revenues to public services improve welfare outcomes?\"},{\"unit_ids\": [\"D2e1a1a3b35.P040.S001\", \"D2e1a1a3b35.P040.S002\", \"D2e1a1a3b35.P040.S003\", \"D2e1a1a3b35.P040.S004\"], \"anchor\": null, \"reason\": \"Does post-authoritarian stabilisation policy (attracting business, restoring civil freedoms) accelerate economic recovery?\"},{\"unit_ids\": [\"D2e1a1a3b35.P041.S001\"], \"anchor\": null, \"reason\": \"Does democratic governance and rule of law increase foreign investment and economic growth in transitioning economies?\"},{\"unit_ids\": [\"D2e1a1a3b35.P047.S001\", \"D2e1a1a3b35.P047.S002\", \"D2e1a1a3b35.P047.S003\", \"D2e1a1a3b35.P047.S004\", \"D2e1a1a3b35.P047.S005\"], \"anchor\": null, \"reason\": \"What is the economic impact on Cuba of losing Venezuelan oil subsidies, and do reform incentives change regime behaviour?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

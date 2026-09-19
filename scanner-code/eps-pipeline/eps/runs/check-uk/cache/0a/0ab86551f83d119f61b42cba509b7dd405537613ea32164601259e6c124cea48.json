@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"D2fbf3c8a2f.P006.S001\"], \"anchor\": \"Thanks to our tax cuts, families will be able to enjoy more of the little treats and days out that make the British summer holidays so special.\", \"reason\": \"Does a temporary VAT cut on leisure activities increase family spending on those activities?\"},{\"unit_ids\": [\"D2fbf3c8a2f.P007.S002\"], \"anchor\": null, \"reason\": \"Do policies cutting household energy bills and raising the minimum wage boost real incomes for working families?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

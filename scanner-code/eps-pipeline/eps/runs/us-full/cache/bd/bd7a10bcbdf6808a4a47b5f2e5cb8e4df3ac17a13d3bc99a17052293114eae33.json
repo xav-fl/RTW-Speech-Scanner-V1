@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"immigration detention and release policy\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"K37\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

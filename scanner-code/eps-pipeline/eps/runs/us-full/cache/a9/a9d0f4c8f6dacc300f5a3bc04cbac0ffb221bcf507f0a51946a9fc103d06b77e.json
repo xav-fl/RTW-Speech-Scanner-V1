@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De8b5e29595.P002.S001\", \"De8b5e29595.P002.S002\"], \"anchor\": null, \"reason\": \"Does USDA's Local Agriculture Market Program increase demand for locally grown food and strengthen regional food markets?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

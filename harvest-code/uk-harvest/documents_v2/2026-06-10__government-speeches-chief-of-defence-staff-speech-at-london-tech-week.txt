@@ -1,0 +1,231 @@
+I’m not sure I was quite expecting some walk-on music. Until I saw the Minister earlier, I’ve literally not seen another person wearing a tie here at the conference.
+
+The only thing I’ve been surprised at is there are fewer tech-bro gilets on show. And as you can see, I wear a different kind of uniform.
+
+And you might therefore be wondering why I, as the head of the armed forces, am here in a room talking to a bunch of software engineers, investors, founders about the importance of AI.
+
+You all know about the importance of AI. You know how AI will transform business and the productivity of the economy.
+
+My point in being here is to make the case that one of the areas where AI will have a truly transformative effect and impact will be defence.
+
+I started my career in the 90s.
+
+The internet was just starting and there were sceptics at the time who doubted its transformational potential.
+
+I suspect that the Ministry of Defence then was even more doubtful in society about how much of an impact it would have and worried about the risks that the internet might pose.
+
+I remember in 2003 at Staff College, two Army officers on the stage explaining to a room 350 people that they preferred their paper notebook, thought it was more valuable than a digital notebook because with a bulletin in it, it was still a paper notebook.
+
+I often wonder of where those two officers are today.
+
+And I remember a similar debate in government about cloud computing in 2020. And yet here we are in 2026, and the internet is the lifeblood of not only the world, but warfare too.
+
+From targeting to communications, no aspect of the modern battlefield is untouched by it. And cloud computing is fundamental to our daily lives and in defence will be critical to our resilience and ability to share information and use the most up-to-date tools on our data.
+
+AI has at least the same transformative potential and I don’t think that we need to fast forward five years or even 35 years from today to see how the battlefield of the future will be shaped by AI.
+
+Let’s just look back at the last seven years. In 2018, GPT-1 had no mathematical ability and was combined to basic word prediction. When GPT-3 was launched in 2020, the world went mad. And while it was advanced, it was still limited to simple maths equations and basic trivia.
+
+In 2026, there are a range of AI systems, not just GPT, which are starting to outperform PhD level experts and compete with top level coders. Now I, although an engineer by background, can’t pretend to be an expert on the science behind these rapid advancements.
+
+Although I do enjoy my monthly sit down with the MOD’s chief scientific advisor for a little bit of a tutorial. And I do follow the hot debate about our inability to predict the speed of progress.
+
+And I am, if I am honest with myself, perhaps swayed by the AI doomsters and slightly, secretly hope that those who argue for the limits of the exponential growth might be right.
+
+If we put the debate about predictions to one side, there is no question that the progress over the past few years has been breathtaking. I’m sure this audience is familiar with this chart.
+
+It shows the length of time it takes AI to complete tasks autonomously is dramatically reducing. For example, on current cyber stability trends, the time horizon is doubling every four or five months.
+
+So while mythos looks groundbreaking now, we can imagine what it might be and what it might do in a year or two. And we can imagine what this might mean for defence.
+
+There are various technical assessments of AI development, but I’ve picked this one out as it helps to demonstrate not only the speed of change, but also where AI might provide advantage to the UK’s armed forces.
+
+Many of you will be familiar with Humanity’s last exam released in January last year, designed by global academics as a benchmark for AI progress.
+
+On release, models were scoring about 9%. The model released just yesterday, Anthropic’s Claude Fable 5, is now topping the leaderboard with almost 60% accuracy, an increase of 10% on the leader the day before.
+
+And you all know, it is perhaps not so well understood in defence, the frontier is moving incredibly fast and we must be ready to update our assumptions about what AI can do as rapidly as it is advancing and that means every six months.
+
+Now operational plans and military tactics are all products of intelligence. If we can keep pace with the frontier, exploit new models and changes as they are dated every six months or quicker, then we will have a clear advantage in future. If we don’t, we’ll lose.
+
+And thinking about a future like this can be frightening and the truth is none of us know for sure what’s going to happen next. Maybe the general AI pessimists and AI sceptics are right, and we are hitting the scaling wall.
+
+But it’s what is clear to me that even if we did, the tools and models available today already have the capacity and capability to transform warfare.
+
+And we must do more in defence to harness their power.
+
+Warfare is at its core competitive. It is quite literally a fight to the death.
+
+The side that is able to diffuse and adopt technology faster than an opponent will win.
+
+So, there is both massive risk and huge opportunity even before we think about the ethical questions of the use of AI in warfare.
+
+Now I could do a whole speech just on the implications and opportunities of AI for defence, from targeting and intelligence analysis through to enabling autonomous systems to decide and act in complex environments.
+
+But today I’m going to focus on just two.
+
+Firstly, decision making advantage, and secondly, the ongoing technical advantage through research and development. The people in our armed forces are exceptional. It’s their judgment and expertise that provide our warfighting edge. Napoleon talked about the coup d’oeil, the commander’s ability to assess a chaotic battlefield or strategic situation at a glance and instantly determine the best course of action.
+
+More recently in the 20th century, Colonel John Boyd developed the idea of the OODA loop. John Boyd was a fighter pilot described by his biographer as loud, abrasive and profane.
+
+In fact, he said that like many fighter pilots, he took a certain pride in his profanity, coarseness and crude sense of humour.
+
+But Boyd was fascinated, in particular by examples of numerically superior forces losing to weaker ones. The common thread he found in these battles was that none of the victorious commanders threw their forces head-to-head against the enemy.
+
+Instead, they chose deception, speed, fluidity of action and strength against weakness. They used tactics that disorientated and confused.
+
+Tactics that, to use Boyd’s words, caused the enemy to unravel before the fight. Central to his thinking is the idea of a two-way relationship between observer and observed and the chaos that can ensue if the rate of change in the outside world is faster than the observer’s ability to adapt.
+
+So, this idea of making faster, better decisions has been at the heart of military success for generations. Many of today’s AI models already have the potential to accelerate the military decision-making cycle to machine speed and remove many of the cognitive biases that haunts human decision making.
+
+They can process satellite imagery, open-source information, logistics, electronic signatures and battlefield reports at a scale that no human headquarters could replicate.
+
+They could identify patterns, anomalies and even suggest possible courses of action. In short, they can help commanders understand not only what is happening now but what might happen next.
+
+This is about giving our people the best possible tools to make decisions that enable us to deter, fight and win. This represents a profound change. AI tools such as Anthropic Claude are already being used to provide this battlefield advantage today.
+
+It’s been central to the US campaign planning in Iran allowing faster target identification and prosecution than a traditional human-centred approach may have taken.
+
+To bring this importance to life, the challenge in modern warfare is no longer simply a lack of information, increasingly as information overload.
+
+One of the reasons that Russia was not able to establish air superiority over Ukraine in the start of that war was that Ukraine moved and hid its air defences in the days before war broke out.
+
+If in 2022, Russia had access to a tool like the one used by the US and Iran today, due to the speed with which it would allow you to identify new targets, then Russia may have had the chance to take out those Ukrainian air defence factories and alter the course of the conflict.
+
+The second opportunity for defence is AI’s potential to transform how we develop and test military capabilities. As the war in Ukraine has demonstrated, and we know from history, being able to iterate rapidly and adapt the capability you’re fielding to meet the very real threats you’re facing is key to victory.
+
+We are not there yet in the UK, and we have the humility, I think, to know it. AI presents a step change in our ability to adapt, not just to complete routine software updates or patches so that our tech stays relevant, but also to speed up the pace of the development of new capabilities.
+
+For those who’ve worked in defence for years, know it is dogged by incredibly long capital cycles, reserved development, engineering, testing and manufacturing taking many years.
+
+In a world where AI can complete complex tasks in days not weeks, which would have previously taken months or years, our ability to do cutting edge R&D can be de-risked and sped up dramatically. Engine technology is one of those long capital cycles. But at the Whittle Laboratory in Cambridge, Professor Rob Miller is building a new self-driving laboratory.
+
+At the lab, artificial intelligence and robotics will be used to conduct experiments to design, manufacture and test new engine technology. And this is a long way short of recursive self-improvement, but it offers the opportunity to vastly increase the rates of progress and development of new engine technology.
+
+I’m very conscious that defence professionals often talk about the future and what we need to do.
+
+At the London Defence Conference in April, an astute delegate pointed out in one of his questions that it was the fourth year running he’d heard those on the stage talk about the imperative to act quickly.
+
+But it’s clear to me that we need to do more and do it faster in terms of AI adoption and exploitation in defence. But I would not want you to walk away from here thinking that defence is some kind of AI desert. There are already pockets of really impressive innovation and use of AI in defence.
+
+And we have some exceptional experts in DSTL and the Defence AI Centre who are laying the foundations for the adoption of AI. But there are also great examples of applied use of AI in our military frontline commands from those closest to the operational problems.
+
+And they are doing impressive things that can make a material difference.
+
+So, in the Air Force, for example, Project Recap is ingesting data from frontline combat air platforms into a single data repository and applying AI models from many different sectors, including, for example, Fintech, which allows them to detect anomalies and make our platforms more survivable, more lethal and able to defeat the most sophisticated threats.
+
+In the Army, Project Asgard right now is helping soldiers make faster decisions, saving crucial time in combat operations through the use of AI agents and targeted LLMs.
+
+And it’s being proved and developed by our soldiers in Estonia today. In the Navy, we’re conducting trials at sea in our experimental vessel via the XV Patrick Blackett. Using AI to enable fully autonomous navigation and decision-making in uncrewed vessels by fusing sensor data and offering the ability to act without any human input. This is the foundational capability for growing a hybrid navy.
+
+And in cyber and specialist operations, we’re using AI to enhance the effectiveness of our military intelligence services, where our analysts are currently bottlenecked by legacy processes and tools.
+
+This is cutting identification and response times down from weeks to hours. These are genuinely impressive uses of AI driven by super motivated, smart operators working alongside smart and motivated people from the private sector.
+
+But these uses remain small scale and to some extent experimental. They are still not part of the mainstream and they need to be. Sometimes when we talk about AI in defence, it makes people nervous, it raises ethical questions.
+
+But as we take this work forward, we remain absolutely clear in defence about the responsible use of AI. We will not compromise on this. The UK’s policy remains that humans, not machines, are accountable for decisions, especially when they relate to the application of lethal force.
+
+Defence will continue to ensure that there is a context appropriate human involvement in the development of all AI enabled systems.
+
+Our policy means that we will always ensure there is a clear human accountability for any decision about the application of lethal force.
+
+Such decisions must be assured and taken with the correct legal and policy framework.
+
+But of course, it’s not just the UK and our allies that will have access to these tools. Our adversaries will too. And they, like us, are using generative AI today.
+
+I don’t know about you, but every time I post on X, I get hundreds of replies from accounts criticising me or the UK.
+
+It’s clear that these are not real people, but most likely Russian bot accounts set up to spread misinformation, or at least that’s what I tell myself when I read today.
+
+Our adversaries are using AI to enhance their existing activity and tactics and around spreading disinformation and like us, they are using it to generate operational advantage.
+
+But unlike us, they’re not concerned by the same ethical or moral boundaries as we are.
+
+We should not expect them to hesitate to use AI in ways which are illegal, irresponsible and unethical.
+
+That’s why we must control access to the most capable models developed in the West and stay ahead of our adversaries in AI development.
+
+Now, helpfully, NATO and our allies there has an advantage. I believe that free societies with world class universities, deep capital markets and allied mission driven militaries can innovate and combine better than any top-down authoritarian system of our adversaries.
+
+As a case in point, there are billions in private sector investment flowing into building data centres and infrastructure for AI to be built out, as well as the best companies working on developing new models for Google’s DeepMind, only a short journey away from King’s Cross.
+
+And we also have the skills base from which we can call. Nine of the top 10 universities in the world are from NATO countries, and four of which are here in the UK. But we cannot be complacent in defence. Time is of the essence.
+
+And so that’s why today in the Prime Minister’s direction and with the Defence Secretary’s full support, we have set up the Rapid AI Delivery Task Force.
+
+Taskforce RAID
+
+I am determined that RAID is not just another piece of window dressing that gives the illusion of progress. The focus of taskforce RAID is on delivering necessary operational capability, quickly.
+
+The taskforce reports directly to me but is integrated into the new Defence Reform operating model and brings together the best minds from government, industry, and the Armed Forces to deliver operational advantage.
+
+I have been crystal clear to the team: do it faster and deliver real operational impact.
+
+We have empowered the taskforce to do differently from the outset – to cut through usual bureaucracy and layers to deliver at the speed of relevance.
+
+This includes freedoms from standard recruitment processes to draw in the right expertise; the ability to contract and spend without multiple layers of approvals; and routes to directly escalate issues to senior decision makers to drive progress. As I say to the team: escalate, don’t percolate.
+
+The taskforce is working now with the existing defence AI ecosystem, such as the Defence AI Centre, to adopt new AI models and scale them across defence.
+
+And this new way of working is already making a difference.
+
+The taskforce has already accelerated the delivery of new AI models to sense and detect differently in what we call the underwater battlespace you call the sea.
+
+By applying a combination of the task force’s policy freedoms, clear policy assurance and a ruthless approach to meeting operational demands, have been able to overcome barriers and deliver much more quickly than we expected.
+
+The Task Force is already making tangible progress. And while this is not without risk, this is about reframing the risk balance, i.e. the balance between risk and opportunity.
+
+The greater the opportunity, the greater the risks we should be prepared to run. To support the Task Force and Defence as a whole, and with the support of the PM’s AI Advisor, Jade Leung, we will establish a new AI expert advisory group made-up of technical frontier ethical and operational delivery experts to ensure we continue to embed this approach as we build and scale AI use across defence.
+
+I’ve worked hard to get the task force to narrow its focus. There’s so much we could do, but we need to be a sharp focus on a small portfolio of operationally relevant problems to ensure that we make progress. As a result, the task force is focused on four key operational challenges.
+
+The first is machine augmented intelligence fusion.
+
+Current methods to process intelligence are resource intensive and cannot explore the scale, range and speed of the information. The task force is rapidly deploying AI systems to process that vast array of data with a high degree of accuracy.
+
+Frankly, we should be doing this already, but doing it in legacy systems is hard and the task force is making good progress.
+
+Second, we’re building a system to deliver a recognised electromagnetic environment picture.
+
+Modern warfare relies on an ability to operate in heavily contested, degraded or denied electromagnetic environments. We need to understand what our adversaries are doing so we can better counter their approach.
+
+Number three is automating operational planning.
+
+Currently the planning process in military headquarters is slow and hugely resource intensive. Military headquarters have ballooned in size over the past 20 to 30 years. So this is about a paradigm shift in the way we plan current operations.
+
+Today they are people enabled by technology. We want them to be technology enabled by people. And we’re going to start with multi agentic solutions in our Permanent Joint Headquarters.
+
+And then finally, it’s about enabling AI drone swarms. Current force structures simply cannot generate sufficient scale or advantage against AI enabled adversaries.
+
+So, we need a non-linear approach to building mass as we go forward. We want to drive a step change in how we use autonomous systems to generate the scale and agility required in contested environments.
+
+You must adapt, adopt and move forward.
+
+Now I’m sure many of you in this audience will look at some of these and think they don’t sound like particularly difficult problems to solve except perhaps the last one.
+
+And in theory they aren’t. We are not doing them today despite knowing that the technology exists. Now there are myriad reasons why this is hard in defence, but the task force is proving that we can cut through the crack and deliver real operational benefit by bringing together the technology, the operator and the expert engineer.
+
+And this narrow focus of the task force is about just trying to make progress and make material difference to the operational outcomes.
+
+This will not deliver AI or an AI ready organisation at hyperscale, but the freedoms, the focus and the operational imperative can generate momentum not just for the taskforce, but more broadly across defence.
+
+I’m not naive to the challenges in adopting AI at scale across defence, or even in delivering all four of these projects successfully in the next few months. We need to be thoughtful and humble about our approach, learn from other organisations, and be respectful of the context in which we operate.
+
+But if we don’t make progress and recognise the profound effect AI will have on our business at war, we will lose and we won’t deter.
+
+So, taskforce RAID then is a good start and offers the opportunity to generate momentum, interest and real results. But it won’t be enough on its own. Enterprise-wide adoption and change is needed, and we know that is hard. But it starts with clarity of purpose and making the tools available for people to use.
+
+That’s why the Defence’s senior leadership team will also be publishing a memo today to the department, which clearly sets out our ambitions and expectations for AI adoption across the whole enterprise.
+
+Now it doesn’t come with the Pete Hegseth Secretary of War, Kitchener-like poster, but it does set out the importance of the change and how important it is for the defence of the nation and a range of specific actions we must take.
+
+This will be reinforced by the department’s refreshed strategic approach to AI, which will be published later in the year.
+
+In the meantime, I hope that today I’ve conspired to you that we in defence understand how profound this technology is and how important it is for the country that we adopt it and exploit it.
+
+We’re going to need help along the way. We’re going to need your help along the way.
+
+I look forward to working with you to ensure that the UK and NATO can keep their technological edge and together we can deter our adversaries and keep our country safe.
+
+Thank you very much.

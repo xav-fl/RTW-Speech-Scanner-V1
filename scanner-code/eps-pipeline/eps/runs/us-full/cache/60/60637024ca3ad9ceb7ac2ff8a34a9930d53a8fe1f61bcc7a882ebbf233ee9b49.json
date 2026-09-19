@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D56e304416a.P006.S002\"], \"anchor\": null, \"reason\": \"Does replicating hands-on regional workforce training models improve student employment outcomes in high-demand sectors?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

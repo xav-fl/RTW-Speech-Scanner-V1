@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"refugee leave-to-remain duration and review rule\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"K37\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

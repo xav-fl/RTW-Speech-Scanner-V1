@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"fraud prevention and monitoring in federal housing grants and public housing authorities\", \"codes\": [{\"code\": \"H57\", \"strength\": 3}, {\"code\": \"R38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

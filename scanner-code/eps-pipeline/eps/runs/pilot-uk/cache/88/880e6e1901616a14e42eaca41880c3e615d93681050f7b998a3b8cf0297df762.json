@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory burden reduction, consumer costs, energy security, and supply chain resilience\", \"codes\": [{\"code\": \"L51\", \"strength\": 2}, {\"code\": \"F52\", \"strength\": 2}, {\"code\": \"Q48\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

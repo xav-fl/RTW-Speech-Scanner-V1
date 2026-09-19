@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5757706234.P005.S001\"], \"anchor\": null, \"reason\": \"Does streamlining Forest Service and BLM grazing management increase beef supply and lower consumer prices?\"}, {\"unit_ids\": [\"D5757706234.P005.S002\"], \"anchor\": null, \"reason\": \"Does eliminating bureaucratic requirements in federal grazing management reduce consumer food prices?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

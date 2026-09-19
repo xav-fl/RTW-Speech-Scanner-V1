@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal housing agency fraud detection and improper payment identification\", \"codes\": [{\"code\": \"H83\", \"strength\": 3}, {\"code\": \"H57\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

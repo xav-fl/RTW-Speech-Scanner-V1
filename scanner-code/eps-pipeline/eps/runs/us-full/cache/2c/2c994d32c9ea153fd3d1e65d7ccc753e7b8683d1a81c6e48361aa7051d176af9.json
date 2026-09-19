@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5b9e83d794.P004.S001\"], \"anchor\": null, \"reason\": \"Does restoring commercial fishing access in Pacific monuments lower grocery costs and support small fishing business employment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

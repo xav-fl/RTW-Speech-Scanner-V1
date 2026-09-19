@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De19b4759f0.P004.S001\"], \"anchor\": null, \"reason\": \"Commitment to enabling Arizona economic growth while protecting air quality\"}, {\"unit_ids\": [\"De19b4759f0.P006.S001\"], \"anchor\": null, \"reason\": \"Policy commitment to address barriers to economic development\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

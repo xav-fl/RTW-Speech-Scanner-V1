@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8f86212e1d.P004.S002\"], \"anchor\": null, \"reason\": \"Does targeted training and technical assistance for small manufacturers improve growth, hiring, and supply chain reshoring outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

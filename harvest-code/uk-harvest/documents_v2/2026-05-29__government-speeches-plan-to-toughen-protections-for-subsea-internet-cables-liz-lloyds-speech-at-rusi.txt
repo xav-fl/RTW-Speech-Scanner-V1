@@ -1,0 +1,257 @@
+Hello everyone.
+
+It is a pleasure to be with you here this afternoon.
+
+It is tempting to think of our subject matter today – the security and resilience of subsea cables – as something utterly modern.
+
+After all, it seems like every day we are reminded of just how fundamentally reliant we’ve become on this extraordinary technology.
+
+But history tells a longer story. Exactly 126 years ago to the day a naval officer named
+
+Carlyon Bellairs stood in this very institute and asked this question: how can Britain make its subsea cables more secure and resilient?
+
+Even at the dawn of the twentieth century, those early telegraph cables were laying the foundations for global connectivity – carrying financial transactions, business communications, and military signals across continents in near real time.
+
+Bellairs recognised that this was transforming both global commerce and global power.
+
+But he also warned that it was creating profound new vulnerabilities beneath the sea.
+
+More than a century later, the technology has advanced radically, but the core strategic challenge remains the same.
+
+Just as Bellairs made clear in 1900:
+
+Our task is not to eliminate risk – that would be impossible given the vast ocean floor.
+
+Instead, we must build resilient systems able to withstand disruption.
+
+So today, I want to lay out the three core pillars which this Government will use as the foundations for this work:
+
+Resilience through growth
+
+Deterrence; and
+
+Security.
+
+Resilience through growth
+
+Let me begin with our first pillar: Resilience through growth.
+
+True resilience does not come from hiding from the world or trying to encase our infrastructure in concrete.
+
+It comes from economic vitality.
+
+And it depends, more than anything else, on ensuring we have a healthy, thriving, and expanding cable sector – an engine of the UK’s broader economic success story to date.
+
+Today, subsea fibre-optic cables are the silent workhorses of our economy.
+
+Without them the UK would be functionally cut off from the outside world.
+
+Much of our modern digital lives would simply cease to function.
+
+Every international payment, every cross-border trade executed in milliseconds, every flow of data between businesses here in the UK and markets overseas – all travel along the seabed.
+
+And demand is skyrocketing.
+
+Artificial intelligence is driving a massive wave of infrastructure investment.
+
+Just last month, my Secretary of State in DSIT spoke here at RUSI about the Government’s ambition for Sovereign AI.
+
+Thanks to this Government’s efforts, the private sector will invest tens of billions of pounds in the UK’s AI infrastructure over the coming years:
+
+Powering our AI Growth Zones, boosting productivity, and securing the high-quality jobs of the future.
+
+But that compute power relies on data, and that data is carried by subsea cables.
+
+That is why we must support the next generation of investment.
+
+Many of the cables landing on our shores were laid twenty years ago during the initial data centre boom.
+
+To replace and expand them, government must play an active role in creating the conditions for commercial success.
+
+First, that means common-sense regulation.
+
+We are reviewing our legislative framework to ensure regulation supports growth rather than holds it back.
+
+To give you just one example, we are taking a pragmatic approach to environmental red tape – exempting, wherever possible, the laying, maintenance, and removal of subsea cables from unnecessary requirements.
+
+This is particularly true in deep waters, where we know the impact on marine life is extremely limited.
+
+Second, we are ensuring we have the domestic capability to keep this network running.
+
+Right now, if a cable breaks in UK waters, a repair vessel is usually on site – ready to fix it – in eight days.
+
+That is a world-leading response time.
+
+But we cannot take it for granted.
+
+So this Government is now completing a detailed piece of market engagement to ensure we can retain a UK-based UK flagged sovereign repair capability long into the future.
+
+We will make a final decision towards achieving this important aim by the end of the year. Investments like this drive resilience.
+
+And when we look at the core mission of our newly expanded National Wealth Fund – to crowd in private finance, upgrade critical infrastructure, and anchor the supply chains of the future – this is precisely where government can step up to make the difference.
+
+We are already putting this approach into practice.
+
+Just two months ago, we announced a massive £600m deal to unlock the Eastern Green Link 4 project.
+
+A 530km subsea energy superhighway running beneath the North Sea.
+
+An investment that will not only upgrade our national grid – but also strengthen our domestic supply chain, and anchor high-skilled jobs right here in the UK.
+
+By building strong domestic industries we don’t just protect infrastructure; we strengthen Britain’s position in its most strategically vital sectors.
+
+We ensure that our resilience is powered – by our growth.
+
+Deterrence
+
+But economic growth must also be defended, which brings me to our second pillar: Deterrence.
+
+There is a persistent myth that our subsea cables are completely defenceless, and that adversaries can operate over them in total secrecy.
+
+Let me be absolutely clear: that is completely false.
+
+We are – at all times – watching, tracking, and actively deterring threats to this critical infrastructure.
+
+Just last month, the Defence Secretary revealed that our Armed Forces – in partnership with our allies – tracked Russian submarines operating in UK waters.
+
+Their mission was to survey our cables in peacetime;
+
+So they could more easily sabotage them in conflict.
+
+They wanted this operation to be secret.
+
+But they failed.
+
+Our Royal Navy followed their submarines throughout and made its presence clearly felt.
+
+Our message to President Putin was simple: we can see what you’re doing and any interference will have serious consequences.
+
+That military shield can easily be taken for granted –
+
+Defending our island is a relentless task that is rarely made public.
+
+But it is exactly what gives the market the stability and the confidence to build, and to lead the global AI revolution from British shores.
+
+Though, alone it is not enough.
+
+Deterrence in the twenty-first century requires also a collaborative effort between government and industry – to shine a light on what is happening on the seabed.
+
+By embracing advances in sensing technology, we can transform subsea cables from passive transmitters into intelligent systems.
+
+These next-generation systems won’t just carry data; they will actively monitor environmental changes, improve our understanding of seabed activity, and detect hazards or interference before disruption even happens.
+
+When we can see a threat coming, we can deter it.
+
+But true deterrence requires a robust, credible legal framework too.
+
+For acts of sabotage clearly linked to a hostile state, our laws already carry life imprisonment for the most serious cases.
+
+But malicious activity below the ocean surface doesn’t always present itself so clearly.
+
+As you all know, it frequently operates in the “grey zone” – ambiguous in intent; hard to prove; and difficult to prosecute.
+
+Right now, the legal system is simply not keeping pace with the threat.
+
+Some of the core legislation we rely on dates back to when even Lieutenant Bellairs was a child!
+
+Needless to say, it was written for a different world.
+
+So we are changing that.
+
+Today I’m announcing that this Government will bring forward new legislative proposals for consultation that will modernise and strengthen our criminal framework in this domain.
+
+We will make the law clearer, tougher, and much harder to evade.
+
+Sending a clear message that if you act recklessly, or if you deliberately target our cables, there will be serious consequences.
+
+Because deterrence only works if it is credible.
+
+And we cannot let anyone operate in the shadows of our seas with impunity.
+
+Security
+
+Our final pillar is Security – reducing the physical and systemic vulnerabilities in our network so that we can withstand and rapidly recover from disruption.
+
+Now – just as in the past – the vast majority of cable breaks are not from deliberate sabotage.
+
+They are accidental, caused by natural seabed movements or anchors being dragged across the seabed.
+
+Security, therefore, requires practical, everyday risk reduction.
+
+And so to prevent accidental damage, I am proud today to formally endorse the European Subsea Cables Association’s new Fishing Liaison Guidelines.
+
+Developed in close partnership between government, industry, and the fishing sector, these guidelines offer a practical blueprint for how two of our vital maritime industries can operate safely alongside one another – sharing information and protecting the ocean floor.
+
+Of course, we must also secure the vital nodes where these cables come ashore.
+
+Cable landing stations are critical bottlenecks; they house the data management and power systems that keep the entire network alive.
+
+And so to protect them, we are working hand-in-hand with the National Protective Security Authority and the National Cyber Security Centre to deliver detailed, up-to-date physical and cyber-security guidance for cable operators.
+
+Building on the Telecommunications Security Act, we also intend to consult on new legislative measures to ensure a robust baseline level of security across our entire cable network.
+
+This means clearer duties to manage risk, maintain rigorous response plans, and report incidents rapidly.
+
+Finally, security means looking ahead at how we use our waters.
+
+Our analysis with The Crown Estate shows that by 2035 the UK will rely on a significantly higher capacity of cables to match skyrocketing digital demand.
+
+To manage this crowded environment, this Government is looking carefully at how we prioritise the seabed.
+
+We have worked across departments to map out and actively protect the space needed for future cable routes.
+
+Because by managing seabed congestion we can reduce single choke points where multiple cables converge and protect them from accidents while still achieving our green energy ambitions for much more offshore wind.
+
+And because data does not stop at national boundaries, our security strategy cannot stop there either.
+
+Which is why we are deepening our international cooperation, particularly with our near neighbours.
+
+To give just one example – we are working closely with the Irish Government to align our incident response plans.
+
+In fact, later this year, the UK and Ireland will conduct a joint exercise to rehearse how we would respond to major subsea cable disruption.
+
+And this will not be a one-off.
+
+It sits within a broader programme of sustained cooperation and regular exercises – designed to build, strengthen and reinforce our shared resilience over the years ahead.
+
+But our ambition extends beyond our immediate waters too.
+
+Through our leadership in the International Advisory Body for Submarine Cable
+
+Resilience, we are actively exporting these high security standards globally – ensuring British companies can compete, innovate, and operate effectively anywhere in the world.
+
+Because when British industry succeeds on the global stage, our entire nation becomes more secure.
+
+Conclusion: building a secure and prosperous future
+
+And so let me finish right where I began.
+
+With the timeless strategic reality that Bellairs identified in this building all those years ago.
+
+He reminded his audience that for a great maritime nation, economic prosperity and national security are not two separate competing interests.
+
+They are two sides of the same coin.
+
+True resilience is won not only when a country is well-defended.
+
+But also when it has the confidence to build, to grow, and to lead.
+
+And so while the challenges we face are substantial.
+
+The UK is approaching this era from a position of strength.
+
+We have always been a nation whose prosperity and security depend on our courage to reach out across the seas and to connect with the wider world.
+
+Achieving that future is a responsibility that neither government nor industry can carry alone.
+
+It requires us to walk in lockstep.
+
+So let’s leave today:
+
+Clear-eyed about the risks we face.
+
+Proud of this country’s world-leading industry; and
+
+Confident in the UK’s ability to meet the challenge of the future.
+
+Thank you very much.

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D37337e70d0.P005.S001\"], \"anchor\": null, \"reason\": \"Does completing the land exchange and expanding domestic copper mining improve national supply chain security and energy infrastructure outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

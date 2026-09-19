@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D92d0d3ce6a.P005.S002\"], \"anchor\": null, \"reason\": \"Does establishing a multilateral energy research centre at a US university increase member nations' energy investment and economic gains?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

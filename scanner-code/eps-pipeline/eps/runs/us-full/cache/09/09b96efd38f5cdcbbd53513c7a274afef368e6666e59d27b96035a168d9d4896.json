@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dfcb8858584.P006.S001\"], \"anchor\": \"our efforts to reach our goal of 1 million apprentices\", \"reason\": \"Does setting a national apprenticeship enrollment target increase registered apprenticeship participation and worker earnings?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

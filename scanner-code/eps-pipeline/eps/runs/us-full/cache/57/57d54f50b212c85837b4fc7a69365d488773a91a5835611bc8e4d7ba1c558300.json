@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D94bb43d8f7.P006.S002\"], \"anchor\": \"the Coast Guard is on track to add 15,000 new members by 2028\", \"reason\": \"What are the costs and labour-market effects of rapidly expanding Coast Guard personnel by 15,000?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

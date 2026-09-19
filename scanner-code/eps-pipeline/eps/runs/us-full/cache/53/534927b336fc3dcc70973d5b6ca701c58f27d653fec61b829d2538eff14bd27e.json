@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"worker classification rule distinguishing employees from independent contractors under FLSA\", \"codes\": [{\"code\": \"J48\", \"strength\": 3}, {\"code\": \"K31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

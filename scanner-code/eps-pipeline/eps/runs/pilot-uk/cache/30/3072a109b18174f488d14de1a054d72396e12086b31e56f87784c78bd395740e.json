@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government intervention to preserve domestic steel industry capacity and reduce import dependence\", \"codes\": [{\"code\": \"L52\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 3}, {\"code\": \"L61\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

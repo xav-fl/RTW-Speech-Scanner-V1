@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D49b107d7c2.P004.S001\"], \"anchor\": null, \"reason\": \"Does government support for coal fleets and domestic supply chains improve energy security outcomes and at what cost?\"},{\"unit_ids\": [\"D49b107d7c2.P006.S002\"], \"anchor\": null, \"reason\": \"Does investing in coal generation and export infrastructure strengthen energy security and expand U.S. coal export market share?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

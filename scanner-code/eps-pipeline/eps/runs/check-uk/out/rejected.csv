@@ -1,0 +1,2 @@
+doc_id,url,unit_ids,anchor,reject_reason,model_reason,provider,model_id,prompt_version,prompt_sha,identity_mode,run_id
+D6d4cf4e8dc,https://www.gov.uk/government/news/government-launches-consultation-on-making-public-services-quicker-easier-and-more-secure-to-access-with-digital-id,D6d4cf4e8dc.P014.S001,,passage is not attributable to the speaker,"Does mandating digital right-to-work checks affect hiring costs, fraud, or labour market outcomes?",anthropic,claude-sonnet-4-6,P8-units-blind,0d62c502c0a0,blind,check-uk
