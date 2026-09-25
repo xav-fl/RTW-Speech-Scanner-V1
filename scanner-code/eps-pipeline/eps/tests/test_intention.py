@@ -444,6 +444,94 @@ def test_build_tags_and_logs(tmp_path):
     assert logged.status == "tagged" and logged.cue == "We will"
 
 
+# --- context preserved on build ------------------------------------------------
+
+
+def _build_quote_id():
+    doc, obs, _ = _valid_build_inputs()
+    return quote_id({"doc_id": doc.doc_id, "unit_ids": " ".join(obs.unit_ids),
+                     "anchor": ""})
+
+
+def _write_context_log(out_dir, entries: dict[str, str]):
+    out_dir.mkdir(parents=True, exist_ok=True)
+    with open(out_dir / "context_log.csv", "w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=["quote_id", "quote_in_context"])
+        w.writeheader()
+        for qid, text in entries.items():
+            w.writerow({"quote_id": qid, "quote_in_context": text})
+
+
+GLOSSED = QUOTE.replace("the disadvantage gap", "the disadvantage gap [in attainment]")
+
+
+def test_build_joins_context_log(tmp_path, capsys):
+    _write_context_log(tmp_path, {_build_quote_id(): GLOSSED})
+    summary, rows = _run_build(tmp_path, None)
+    assert rows[0]["quote_in_context"] == GLOSSED
+    assert rows[0]["direct_quote"] == QUOTE
+    assert summary["context"] == {"source": "context_log.csv", "unmatched": 0}
+    assert "not joined" not in capsys.readouterr().err
+
+
+def test_build_without_context_log_warns_and_keeps_plain_quote(tmp_path, capsys):
+    summary, rows = _run_build(tmp_path, None)
+    assert rows[0]["quote_in_context"] == QUOTE
+    assert summary["context"] == {"source": "none", "unmatched": 0}
+    assert ("quote_in_context not joined: context_log.csv not found for this run"
+            in capsys.readouterr().err)
+
+
+def test_build_with_partial_context_log_reports_unmatched(tmp_path, capsys):
+    _write_context_log(tmp_path, {"someotherquote00": "unrelated"})
+    summary, rows = _run_build(tmp_path, None)
+    assert rows[0]["quote_in_context"] == QUOTE
+    assert summary["context"]["unmatched"] == 1
+    saved = json.loads((tmp_path / "summary.json").read_text(encoding="utf-8"))
+    assert saved["context"]["unmatched"] == 1
+    assert "1 kept quote(s) have no row in the context log" in capsys.readouterr().err
+
+
+def test_explicit_context_overrides_the_log(tmp_path):
+    _write_context_log(tmp_path, {_build_quote_id(): "from the log"})
+    from eps.pipeline import build, load_taxonomy
+
+    doc, obs, officeholders = _valid_build_inputs()
+    summary = build([doc], {doc.doc_id: [obs]}, load_taxonomy(), officeholders,
+                    tmp_path, context={_build_quote_id(): GLOSSED})
+    assert summary["context"]["source"] == "given"
+    with open(tmp_path / "dataset.csv", newline="", encoding="utf-8") as fh:
+        assert next(csv.DictReader(fh))["quote_in_context"] == GLOSSED
+
+
+# --- missing key -----------------------------------------------------------------
+
+
+class _NamedFake(FakeProvider):
+    name = "anthropic"
+
+
+def test_missing_key_warns_but_builds(tmp_path, capsys, monkeypatch):
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    tagger = IntentionTagger(provider=_NamedFake(
+        lambda s, u: (_ for _ in ()).throw(TypeError("no auth"))))
+    summary, rows = _run_build(tmp_path, tagger)
+    out = capsys.readouterr()
+    assert "ANTHROPIC_API_KEY is not set" in out.err and "--skip-intention" in out.err
+    assert rows[0]["intention"] == NOT_TAGGED
+    assert summary["intention"]["failure_reasons"] == {"provider_error": 1}
+    assert "Not tagged: 1 of 1" in out.out and "provider_error" in out.out
+
+
+def test_no_key_warning_when_key_set_or_skipped(tmp_path, capsys, monkeypatch):
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "test-not-a-real-key")
+    _run_build(tmp_path, IntentionTagger(provider=_NamedFake(
+        lambda s, u: json.dumps(answer()))))
+    monkeypatch.delenv("ANTHROPIC_API_KEY")
+    _run_build(tmp_path, None)
+    assert "is not set" not in capsys.readouterr().err
+
+
 def test_cli_build_has_skip_option(monkeypatch):
     from eps import cli
 

@@ -41,8 +41,8 @@ from .harvest.store import RawStore
 from .harvest.us import USHarvester, USSource
 from .jel import fetch_from_aea, write_csv
 from .pipeline import (
-    REFERENCE_DIR, build, load_documents, load_institutions, load_officeholders,
-    load_taxonomy, save_documents,
+    CONTEXT_LOG, REFERENCE_DIR, build, load_context_log, load_documents,
+    load_institutions, load_officeholders, load_taxonomy, save_documents,
 )
 
 
@@ -355,31 +355,24 @@ def _load_extractions(run_dir: Path) -> dict:
 def _intention_tagger(run_dir: Path, provider_name: str = "anthropic",
                       model: str | None = None):
     """The tagger, on extraction's default provider and model unless told
-    otherwise, caching into the run's own cache like every other model step."""
-    import os
-
+    otherwise, caching into the run's own cache like every other model step.
+    A missing key is warned about by `build` itself."""
     from .intention import IntentionTagger
 
     model = model or ({"mistral": "mistral-large-latest"}.get(provider_name)
                       or DEFAULT_MODEL)
-    if provider_name == "anthropic" and not os.environ.get("ANTHROPIC_API_KEY"):
-        print("  ! ANTHROPIC_API_KEY is not set: only intention tags already in "
-              "the cache can be replayed; any other quote will be 'Not tagged' "
-              "(provider_error). Set the key, or pass --skip-intention.",
-              file=sys.stderr)
     return IntentionTagger(provider=get_provider(provider_name, model),
                            cache=ResponseCache(run_dir / "cache"))
 
 
 def _print_intention(summary: dict) -> None:
+    """One summary line; `build` has already printed Not tagged by reason."""
     if summary.get("status") == "skipped":
-        print("intention  skipped (--skip-intention): columns left blank")
+        print("intention  skipped (--skip-intention): column left blank")
         return
     print(f"intention  {summary['tagged']} tagged, {summary['not_tagged']} not tagged, "
           f"{summary['unclear']} unclear  "
           f"(prompt {summary['prompt_version']}, model {summary['model']})")
-    for reason, n in summary["failure_reasons"].items():
-        print(f"    {n:>4}  {reason}")
 
 
 def cmd_build(args) -> int:
@@ -412,16 +405,6 @@ def cmd_build(args) -> int:
     return 0
 
 
-def _load_context_log(path: Path) -> dict[str, str]:
-    """quote_id -> quote_in_context from a context stage's log, if there is one."""
-    if not path.exists():
-        return {}
-    import csv
-
-    with open(path, newline="", encoding="utf-8") as fh:
-        return {r["quote_id"]: r["quote_in_context"] for r in csv.DictReader(fh)}
-
-
 def _released_quotes(path: Path) -> list[tuple[str, str]]:
     import csv
 
@@ -434,7 +417,7 @@ def cmd_tag_intention(args) -> int:
 
     Rebuilds from the run's stored documents and extractions, with the context
     stage's `quote_in_context` joined back in from `out/context_log.csv`, so the
-    release it writes is the existing one plus the three intention columns.
+    release it writes is the existing one plus the intention column.
     """
     from .intention import write_trial_files
 
@@ -446,7 +429,9 @@ def cmd_tag_intention(args) -> int:
     before = _released_quotes(previous) if previous.exists() else None
 
     docs = load_documents(run_dir / "documents.pkl")
-    context = _load_context_log(run_dir / "out" / "context_log.csv")
+    # Read from the run's own out/ even when writing elsewhere, so --out-dir
+    # does not lose the context the run already has.
+    context = load_context_log(run_dir / "out" / CONTEXT_LOG)
     tagger = _intention_tagger(run_dir, args.provider, args.model)
     print(f"tagging with provider={args.provider}  model={tagger.model}  "
           f"prompt={tagger.prompt_version} ({tagger.fingerprint})")
@@ -456,11 +441,11 @@ def cmd_tag_intention(args) -> int:
         out_dir, run_id=args.run_id,
         min_quote_chars=args.min_quote_chars,
         max_quote_chars=args.max_quote_chars,
-        context=context or None,
+        context=context,
         intention_tagger=tagger,
     )
     print(f"kept       {summary['observations_kept']}"
-          f"{'  (context joined from context_log.csv)' if context else ''}")
+          f"{'  (context joined from context_log.csv)' if context is not None else ''}")
     _print_intention(summary["intention"])
 
     # Tagging must never add or remove a quote. The rebuild is deterministic,

@@ -23,7 +23,9 @@ from __future__ import annotations
 
 import csv
 import json
+import os
 import pickle
+import sys
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
@@ -196,18 +198,28 @@ def build(
     still logged, so a genuine zero is distinguishable from a document that was
     never processed.
 
-    `context` maps quote_id -> quote_in_context, from `run_context`. Omitting
-    it leaves every `quote_in_context` equal to its `direct_quote`, which is
-    what the column means when no context was added.
+    `context` maps quote_id -> quote_in_context, from `run_context`. When it
+    is omitted, the context stage's log in `out_dir` (`context_log.csv`) is
+    read instead, so a re-build keeps the context already added. With neither,
+    every `quote_in_context` equals its `direct_quote`, which is what the
+    column means when no context was added, and a warning says so.
 
     `intention_tagger` is an `intention.IntentionTagger`. It is the one model
     step inside `build`: it runs on the final kept rows, after context is
     joined, and its responses go through the run's cache, so a re-build replays
-    them instead of calling again. None skips tagging — the three intention
-    columns are then blank and summary.json says so. The CLI passes a tagger
-    unless told `--skip-intention`.
+    them instead of calling again. None skips tagging — the intention column
+    is then blank and summary.json says so. The CLI passes a tagger unless
+    told `--skip-intention`.
     """
-    from .context import quote_id as _quote_id
+    if intention_tagger is not None:
+        _warn_if_no_key(intention_tagger)
+    context_source = "given"
+    if context is None:
+        context = load_context_log(Path(out_dir) / CONTEXT_LOG)
+        context_source = CONTEXT_LOG
+        if context is None:
+            print(f"  ! quote_in_context not joined: {CONTEXT_LOG} not found "
+                  "for this run", file=sys.stderr)
     # `taxonomy` is still accepted for callers that pass it; JEL validation runs
     # against the dated active list.
     active = load_active_codes()
@@ -233,12 +245,7 @@ def build(
         kept = 0
         for obs in validated:
             if obs.valid:
-                row = observation_row(doc, obs, speaker or "", speaker_source)
-                if context:
-                    row["quote_in_context"] = context.get(
-                        _quote_id(row), row["direct_quote"]
-                    )
-                rows.append(row)
+                rows.append(observation_row(doc, obs, speaker or "", speaker_source))
                 kept += 1
             else:
                 rejects.append(
@@ -288,7 +295,15 @@ def build(
             )
         )
 
+    context_summary = {"source": context_source if context is not None else "none",
+                       "unmatched": join_context(rows, context)}
+    if context is not None and context_summary["unmatched"]:
+        print(f"  ! quote_in_context: {context_summary['unmatched']} kept quote(s) "
+              f"have no row in the context log; their plain quote is kept",
+              file=sys.stderr)
+
     intention = tag_intentions(rows, documents, intention_tagger, out_dir)
+    _print_not_tagged(intention)
 
     release, internal = write_dataset(rows, out_dir)
     log = write_screening_log(screening, out_dir)
@@ -304,6 +319,7 @@ def build(
             s.speaker_source for s in screening if s.speaker_source),
         "reject_reasons": _counts(r["reject_reason"] for r in rejects),
         "by_institution": _counts(r["agency"] for r in rows),
+        "context": context_summary,
         "intention": intention,
         "files": {
             "dataset": str(release),
@@ -317,6 +333,63 @@ def build(
         json.dumps(summary, indent=2, ensure_ascii=False), encoding="utf-8"
     )
     return summary
+
+
+#: Written by the context stage beside the release; read back by `build`.
+CONTEXT_LOG = "context_log.csv"
+
+
+def load_context_log(path: str | Path) -> dict[str, str] | None:
+    """quote_id -> quote_in_context from a context stage's log, or None when
+    the run has no log. Shared by `build` and `eps tag-intention`."""
+    path = Path(path)
+    if not path.exists():
+        return None
+    with open(path, newline="", encoding="utf-8") as fh:
+        return {r["quote_id"]: r["quote_in_context"] for r in csv.DictReader(fh)}
+
+
+def join_context(rows: list[dict], context: dict[str, str] | None) -> int:
+    """Set each row's quote_in_context from `context`, keyed on quote ID.
+
+    A row with no entry keeps its plain quote. Returns how many rows that was,
+    so a log that has drifted from the extraction shows up as a number rather
+    than as quietly unannotated quotes. With no context at all, returns 0.
+    """
+    from .context import quote_id
+
+    if context is None:
+        return 0
+    unmatched = 0
+    for row in rows:
+        value = context.get(quote_id(row))
+        if value is None:
+            unmatched += 1
+        row["quote_in_context"] = value or row["direct_quote"]
+    return unmatched
+
+
+#: The environment variable each provider reads its key from.
+PROVIDER_KEYS = {"anthropic": "ANTHROPIC_API_KEY", "mistral": "MISTRAL_API_KEY"}
+
+
+def _warn_if_no_key(tagger) -> None:
+    """Tagging without a key still works for answers already in the cache, so
+    this warns rather than stopping the build."""
+    var = PROVIDER_KEYS.get(getattr(tagger.provider, "name", ""))
+    if var and not os.environ.get(var):
+        print(f"  ! {var} is not set: intention answers already in the cache will "
+              "replay, but any other quote will be recorded as 'Not tagged' "
+              "(provider_error). Set the key, or pass --skip-intention to skip "
+              "tagging.", file=sys.stderr)
+
+
+def _print_not_tagged(summary: dict) -> None:
+    if summary.get("status") != "tagged":
+        return
+    print(f"intention  Not tagged: {summary['not_tagged']} of {summary['quotes']}")
+    for reason, n in summary["failure_reasons"].items():
+        print(f"    {n:>4}  {reason}")
 
 
 def tag_intentions(rows: list[dict], documents: list[Document], tagger,
