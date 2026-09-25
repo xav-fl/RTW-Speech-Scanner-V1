@@ -29,6 +29,12 @@ RELEASE_COLUMNS = [
     # Equal to direct_quote wherever the context stage added nothing, so the
     # column is always readable on its own. See context.py.
     "quote_in_context",
+    # What the speaker is doing with the quote, from INTENTION_CODEBOOK.md,
+    # and two Yes/No flags. "Not tagged" where tagging failed (the reason is in
+    # intention_log.jsonl); all three blank where tagging was skipped.
+    "intention",
+    "has_quantified_target",
+    "claims_causal_effect",
     "economics_topics",
     "jel_major_categories",
     "jel_subcategories",
@@ -139,6 +145,66 @@ def observation_row(doc: Document, obs: Observation, speaker: str,
         # The phrase the model named before picking a code, on the same terms.
         "model_mechanism": obs.mechanism,
     }
+
+
+#: The one place the release text for an intention is written. Keyed on the
+#: stored (broad, sub) codes; `rules_out_option` and `unclear` take no sub.
+INTENTION_DISPLAY = {
+    ("commits_to_action", "announces_decision"): "Commits to action: announces decision",
+    ("commits_to_action", "pledges_future_action"): "Commits to action: pledges future action",
+    ("commits_to_action", "makes_conditional_commitment"):
+        "Commits to action: makes conditional commitment",
+    ("reports_existing_action", "completed_action"): "Reports existing action: completed action",
+    ("reports_existing_action", "outcome"): "Reports existing action: outcome",
+    ("reports_existing_action", "ongoing_implementation"):
+        "Reports existing action: ongoing implementation",
+    ("considers_open_option", "preferred_option"): "Considers open option: preferred option",
+    ("considers_open_option", "no_stated_preference"):
+        "Considers open option: no stated preference",
+    ("rules_out_option", None): "Rules out option",
+    ("calls_on_others", "evidence"): "Calls on others: evidence",
+    ("calls_on_others", "other_states"): "Calls on others: other states",
+    ("calls_on_others", "private_actors"): "Calls on others: private actors",
+    ("states_view_without_action", "describes_problem"):
+        "States view without action: describes problem",
+    ("states_view_without_action", "value_judgement"):
+        "States view without action: value judgement",
+    ("unclear", None): "Unclear",
+}
+NOT_TAGGED = "Not tagged"
+INTENTION_COLUMNS = ("intention", "has_quantified_target", "claims_causal_effect")
+
+
+def intention_label(broad: str | None, sub: str | None) -> str:
+    """Release text for a (broad, sub) pair; blank for no pair at all."""
+    return INTENTION_DISPLAY.get((broad, sub), "") if broad else ""
+
+
+def intention_values(result) -> dict:
+    """The three release values for one IntentionResult, or blanks for None.
+
+    None means tagging was skipped. A failed result is "Not tagged" with both
+    flags blank: a flag nobody assessed is not a "No".
+    """
+    if result is None:
+        return dict.fromkeys(INTENTION_COLUMNS, "")
+    if result.status != "tagged":
+        return {"intention": NOT_TAGGED,
+                "has_quantified_target": "", "claims_causal_effect": ""}
+    return {
+        "intention": INTENTION_DISPLAY[(result.broad, result.sub)],
+        "has_quantified_target": "Yes" if result.has_quantified_target else "No",
+        "claims_causal_effect": "Yes" if result.claims_causal_effect else "No",
+    }
+
+
+def apply_intentions(rows: list[dict], results) -> None:
+    """Write the three columns onto each row; `results` is None when skipped,
+    otherwise one IntentionResult per row in the same order."""
+    if results is not None and len(results) != len(rows):  # pragma: no cover
+        raise RuntimeError(f"{len(results)} intention results for {len(rows)} rows")
+    for i, row in enumerate(rows):
+        row.update(intention_values(results[i] if results is not None else None))
 
 
 SORT_KEY = ("country", "agency", "date", "url", "unit_ids")
