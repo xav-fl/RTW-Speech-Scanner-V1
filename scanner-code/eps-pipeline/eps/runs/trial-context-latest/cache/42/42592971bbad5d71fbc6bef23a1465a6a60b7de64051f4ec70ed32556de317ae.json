@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we are creating thousands of good-paying American jobs, expanding global markets for U.S. nuclear companies, and driving economic growth at home\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"By deploying America's leading nuclear technology, we are creating thousands of good-paying American jobs, expanding global markets for U.S. nuclear companies, and driving economic growth at home\",\n  \"rationale\": \"The speaker presents the deployment of nuclear technology as already producing outcomes (jobs, market expansion, economic growth), linking the action causally to those results.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

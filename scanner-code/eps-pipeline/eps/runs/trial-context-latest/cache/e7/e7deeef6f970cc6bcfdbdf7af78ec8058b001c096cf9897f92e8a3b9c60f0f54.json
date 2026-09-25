@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"providing $200 million dollars this year, plus $54 million dollars for Sudanese refugees\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports the UK's current ongoing donor contribution to Sudan and Sudanese refugees, stating amounts being provided this year, which is an existing action in progress rather than a new announcement or pledge.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

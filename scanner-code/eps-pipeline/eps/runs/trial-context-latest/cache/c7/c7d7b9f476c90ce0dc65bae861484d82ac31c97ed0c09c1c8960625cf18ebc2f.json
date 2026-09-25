@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"cutting inflation by reducing energy bills, freezing prescription charges and freezing rail fares\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"cutting inflation by reducing energy bills, freezing prescription charges and freezing rail fares\",\n  \"rationale\": \"The speaker describes actions taken at her second Budget (a past event) to bear down on the cost of living, linking specific measures to the outcome of cutting inflation, which is a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

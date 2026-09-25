@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"makes_conditional_commitment\",\n  \"cue\": \"That remains in place, and that's a tremendous amount of leverage that will continue to be in place until we see changes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"that lead to a better future for the people of Venezuela\",\n  \"rationale\": \"The speaker describes the quarantine/sanctions regime as currently ongoing and continuing until Venezuela changes, making it primarily ongoing implementation with a conditional commitment embedded in the 'until we see changes' clause.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

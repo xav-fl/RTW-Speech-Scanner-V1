@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this year, we are deploying our carrier group where it is most needed – the High North – and why we're leading NATO's new mission, Arctic Sentry\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a current-year decision to deploy the carrier group to the High North and lead Arctic Sentry, framed as a concrete action being taken in this period, making it an announces_decision.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

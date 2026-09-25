@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"net migration fall by nearly 70%\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"introducing new controls to migration routes… Which has now seen net migration fall by nearly 70%\",\n  \"rationale\": \"The quote reports an achieved outcome — a nearly 70% fall in net migration — attributing it causally to the introduction of new controls on migration routes, making it reports_existing_action / outcome with a causal claim; the ongoing attraction of high-skilled workers is a secondary ongoing implementation.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the President's policies will strengthen small businesses, allow workers to keep more of their hard-earned money and spur economic growth\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"the President's policies will strengthen small businesses, allow workers to keep more of their hard-earned money and spur economic growth\",\n  \"rationale\": \"The speaker asserts that the President's policies will produce specific economic outcomes (stronger small businesses, higher take-home pay, economic growth), which is a causal belief; the quote itself announces no new action by the speaker's agency.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

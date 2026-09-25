@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"describes_problem\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Country conditions in Somalia have improved to the point that it no longer meets the law's requirement for Temporary Protected Status\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote describes a state of affairs (Somalia's conditions no longer meeting TPS requirements) without itself announcing or pledging any action; the termination decision is stated in the surrounding context, not in the quote itself.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

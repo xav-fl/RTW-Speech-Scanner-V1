@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"expert_referral\",\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I will be asking them to re-examine eligibility for meningitis vaccines\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker commits to referring the question of vaccine eligibility to the JCVI (an expert advisory body) for re-examination, which is an open expert referral still to be made.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

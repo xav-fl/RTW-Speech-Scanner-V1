@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"makes_conditional_commitment\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"calls_on_others\",\n  \"secondary_sub\": \"private_actors\",\n  \"cue\": \"if they refuse to comply with UK law. If Ofcom decide to use those powers they will have our full support\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker commits to supporting Ofcom's use of blocking powers conditional on xAI refusing to comply and Ofcom deciding to act, while also reminding xAI (a private actor) of the legal consequences of non-compliance.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Expanding integrated settlements so that more Mayors receive a single multi-year funding pot with flexibility about deciding how that money should be spent\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The context establishes this as part of ongoing progress ('we have made progress'), and 'Expanding' describes an action already under way, making this ongoing implementation of an existing devolution policy.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -173,3 +173,37 @@ Branch **`intention-tag`**, created from `multi-dept-descriptives`:
 | *(last)* | intention: trial run on v7 quotes and report results |
 
 **Nothing has been pushed or merged.**
+
+---
+
+## 11. Addendum: prompt I2 (2026-09-25)
+
+The project lead proposed five rule changes after reading the I1 trial (see "I2 amendments" in `INTENTION_CODEBOOK.md`). They were built as prompt **I2** (fingerprint changes automatically), with a new failure reason `label_cue_not_in_quote` and a new sub code `causal_belief` (17 release values). Tests: 284 passed, same 3 pre-existing failures.
+
+To save API credit, I2 was run on **78 of the 221 v7 quotes**, not all of them:
+
+- all 52 outside the four big labels (the categories whose rules changed);
+- the 12 whose I1 label cue was only in the context;
+- the 3 rows the project lead cited;
+- a seeded random control of 15 from the big four.
+
+The script, log and row-by-row comparison are in `runs/trial-context-latest/out/intention_trial_v7_I2/` (`run_subset.py`, `intention_log.jsonl`, `i1_vs_i2_comparison.csv`).
+
+**Results.** 77 were tagged, 1 was Not tagged (the same Reeves fragment as before) and 1 was Unclear. The label changed on 13 rows and the causal flag on 7.
+
+| Rule | Worked? | Evidence |
+|---|---|---|
+| 1. Evidence only on the quote's words, open requests | Yes | "we launched a consultation…" moved from evidence to completed action. The new quote-cue check caused **no** failures; all 12 context-cue rows re-tagged with cues from the quote. |
+| 2. View without action only if no action is mentioned | **No** | 5 rows that name an action stayed in "States view without action": "Banning exploitative zero hours contracts is totemic…", "These vital changes will mean…", "Cutting through two-tier bureaucracy means…", "these missions are building…", "Starting with the historic Working Families Tax Cuts…". |
+| 3. Calls on others by who is asked | No visible effect | No row changed on this ground. |
+| 4. Causal belief | Partly | 4 rows took it. 3 of them name an action (MHCLG, NASA, US Treasury), so they belong further down the order; the new category is absorbing the rule-2 misses. |
+| 5. Purpose clauses count only with a specific outcome | Yes | "Yes" went from 33 to 28 of the 78. 6 went Yes→No, e.g. "to better support compliance" and "arms restrictions need to be enforced and extended". DHSC's "to tackle health inequalities" is still Yes. |
+
+**Stability.** In the 15-row control, 0 labels changed and 1 causal flag changed. The rules did not move rows they should not touch.
+
+**Other moves worth reading.**
+- Two tenseless Treasury fragments moved from Unclear to a label, using the context.
+- The DfE free-school-meals list moved to Unclear, matching the codebook's own example.
+- The cited DSIT "we are investing £500m" row moved to "pledges future action", not "ongoing implementation" as the project lead expected.
+
+**Not yet done.** I2 has not been run on the other 143 quotes, and the release files in `intention_trial_v7/` are still I1.

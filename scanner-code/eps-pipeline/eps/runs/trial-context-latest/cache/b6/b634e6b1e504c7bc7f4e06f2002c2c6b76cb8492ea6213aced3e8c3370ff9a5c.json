@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This will see a reduction in initial leave to remain for refugees, from five years to two and a half years.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote announces a rule change coming into effect this month, describing its concrete operational mechanics (reduction from five to two and a half years, review, renewal or return), making it an announces_decision; the figures describe the policy change itself rather than a measurable outcome target, and no causal effect linking the policy to a specific outcome is claimed.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

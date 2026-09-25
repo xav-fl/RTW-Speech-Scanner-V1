@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"makes_conditional_commitment\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"until the things we need to see addressed are addressed\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges continued and potentially escalating pressure measures contingent on Venezuela addressing specified problems, making this a conditional commitment.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

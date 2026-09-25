@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"considers_open_option\",\n  \"sub\": \"no_stated_preference\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"we're considering ways to address this such as an agreement value cap\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses 'considering' to signal an undecided option (an agreement value cap) with no stated preference, while the rhetorical question 'How can that be fair?' expresses a value judgement recorded as secondary.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

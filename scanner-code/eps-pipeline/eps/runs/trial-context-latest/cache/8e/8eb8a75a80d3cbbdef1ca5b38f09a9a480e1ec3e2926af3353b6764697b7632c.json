@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"considers_open_option\",\n  \"sub\": \"preferred_option\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"strongly minded to bring in default overnight curfews and breaks in infinite scrolling for 16- and 17-year-olds\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker expresses a strong preference but not a final decision, using 'strongly minded to', with further details pending pilot scheme results.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

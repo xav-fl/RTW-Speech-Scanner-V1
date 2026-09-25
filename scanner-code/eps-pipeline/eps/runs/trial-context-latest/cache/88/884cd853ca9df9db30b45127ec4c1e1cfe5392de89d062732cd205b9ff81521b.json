@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This program invests directly in Native youth, builds a skilled workforce for the future\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"invests directly in Native youth, builds a skilled workforce for the future and supports the Trump administration's priority to strengthen public safety and create practical career opportunities through education and training\",\n  \"rationale\": \"The speaker describes an existing program (the Native Youth Firefighter Training Program) currently in operation, linking it causally to workforce development, public safety, and career opportunities.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

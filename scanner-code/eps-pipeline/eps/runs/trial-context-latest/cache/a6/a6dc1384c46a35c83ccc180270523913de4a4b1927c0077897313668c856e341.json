@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"couples can pass on up to £5 million pounds without paying inheritance tax on their assets\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker explains the practical effect of an announced policy decision (increasing the inheritance tax threshold to £2.5 million), describing what couples can now do as a result of that decision, which is presented as already made ('we are making changes').\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

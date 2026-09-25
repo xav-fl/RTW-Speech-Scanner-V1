@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we must work alongside partners as they set their own agendas\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote calls on international partners and the broader development community ('we' meaning the international community) to coordinate behind country-led platforms and align support with national priorities, directing action at others rather than announcing a specific government decision.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

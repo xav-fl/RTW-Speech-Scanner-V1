@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this government is consulting on whether to remove children's access to social media entirely\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote describes an open public consultation on whether to remove children's access to social media, which is a request for views or evidence still in progress, triggering Q1.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

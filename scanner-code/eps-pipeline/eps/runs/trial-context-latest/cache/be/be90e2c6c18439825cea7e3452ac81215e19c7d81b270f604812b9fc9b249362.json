@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"sanctions against the shadow fleet – by the UK and our partners – have forced 200 ships off the seas, almost half of its overall capacity\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"sanctions against the shadow fleet – by the UK and our partners – have forced 200 ships off the seas, almost half of its overall capacity\",\n  \"rationale\": \"The quote reports existing completed actions (sanctions imposed, ships removed) and their claimed outcomes, including a causal link between sanctions and ships being forced off the seas and reduced Russian oil revenues.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

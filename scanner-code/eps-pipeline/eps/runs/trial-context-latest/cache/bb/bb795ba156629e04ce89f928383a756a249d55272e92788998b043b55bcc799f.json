@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"coordinating behind country platforms, where countries choose them, to align support with national priorities\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote calls on the international community (countries and partners) to coordinate behind country-led platforms and align support with national priorities, directing action at others rather than committing the speaker's own government to a specific decision.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

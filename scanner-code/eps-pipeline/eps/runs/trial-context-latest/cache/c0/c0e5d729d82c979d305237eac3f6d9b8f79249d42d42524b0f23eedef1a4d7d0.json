@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"guaranteed a record $10.6 billion through our Surety Bond Guarantee Program\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports a completed outcome — a record $10.6 billion in surety bond guarantees achieved in FY2025 — with no forward-looking commitment or causal claim attached.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

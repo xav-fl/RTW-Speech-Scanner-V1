@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"We'll talk to parents, schools and experts\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker commits to consulting parents, schools and experts (an open evidence-gathering request), with the secondary intention of pledging to direct funding where most needed.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

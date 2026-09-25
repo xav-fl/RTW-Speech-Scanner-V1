@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"has already saved more than 15 GW of reliable coal power from shutting down\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"saved more than 15 GW of reliable coal power from shutting down\",\n  \"rationale\": \"The quote reports a completed outcome (15 GW of coal power saved from shutdown) and ongoing implementation (working alongside workers and the coal industry to ensure coal continues), with a causal link between the Administration's actions and the preservation of coal capacity.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

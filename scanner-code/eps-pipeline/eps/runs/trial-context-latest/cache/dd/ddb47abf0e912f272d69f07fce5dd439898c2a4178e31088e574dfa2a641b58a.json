@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"This interim contract helps execute President Trump's vision of a more efficient federal government, and ensure there are no disruption in services\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This interim contract helps execute President Trump's vision of a more efficient federal government, and ensure there are no disruption in services from contractors already proven to deliver necessary services\",\n  \"rationale\": \"The quote references a contract awarded 'Today' (per the context), making it an announced decision, and explicitly links the interim contract to two specific outcomes—executing the efficiency vision and preventing service disruption—satisfying the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

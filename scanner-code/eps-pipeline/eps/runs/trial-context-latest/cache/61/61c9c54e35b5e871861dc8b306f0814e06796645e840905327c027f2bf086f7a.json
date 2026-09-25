@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"completed_action\",\n  \"cue\": \"from April this year, there will be fewer repeated permissions required, giving those closer to real decision-making more freedom and autonomy in return for more accountability\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"fewer repeated permissions required, giving those closer to real decision-making more freedom and autonomy in return for more accountability\",\n  \"rationale\": \"The speaker announces a decided policy change taking effect from a specific date (April this year), with the secondary intention of reporting the prior launch of 'project reset' as a completed action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

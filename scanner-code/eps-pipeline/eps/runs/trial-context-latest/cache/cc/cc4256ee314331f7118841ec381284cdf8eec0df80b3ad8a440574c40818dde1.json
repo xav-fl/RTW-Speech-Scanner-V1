@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"We have also extended the Public Works Loan Board preferential borrowing rate for council housebuilding until March 2027\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"giving councils greater certainty to increase their supply plans\",\n  \"rationale\": \"The speaker reports a completed action (extending the PWLB preferential rate) and links it to a specific outcome for councils (greater certainty to increase supply plans), triggering the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

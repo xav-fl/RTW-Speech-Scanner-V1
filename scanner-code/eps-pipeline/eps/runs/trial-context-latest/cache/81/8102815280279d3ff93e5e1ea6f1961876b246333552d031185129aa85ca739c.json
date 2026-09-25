@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"rules_out_option\",\n  \"sub\": null,\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"It would not be practical to set up a compensation scheme to assess conclusively the answers to these questions.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker explicitly rules out establishing a targeted compensation scheme on the grounds that it would not be practical to verify individual circumstances conclusively.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

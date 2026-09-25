@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"we are opening a consultation to listen to ideas on how best to make that happen\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces an open consultation to gather ideas on extending tenant control to housing association tenants, which is a direct request for public input still to be received, making Q1 the first applicable question.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

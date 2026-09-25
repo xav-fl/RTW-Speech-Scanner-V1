@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We need to mobilise more finance from all sources whilst delivering a step change in access to ensure funding reaches the poorest and most vulnerable\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses 'we' in the context of the international development and climate finance ecosystem, calling on the broader international community to mobilise finance and reform funding access, making this a call on others (other states/international actors) rather than a commitment by the speaker's own government.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

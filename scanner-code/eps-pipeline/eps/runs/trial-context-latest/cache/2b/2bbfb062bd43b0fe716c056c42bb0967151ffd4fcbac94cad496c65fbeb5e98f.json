@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I can confirm today, that we will open two SFI application windows this year\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses 'I can confirm today' to announce a decision made in this document to open two SFI application windows, with specific timelines (June and September) that are process deadlines rather than quantified outcome targets.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

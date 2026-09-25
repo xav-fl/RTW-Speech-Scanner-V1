@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"tens of thousands of more awards to the Pension Credit in the year up to November, compared to the previous year\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"ensuring that more pensioners get that extra income with the biggest ever campaign to increase take up. This saw tens of thousands of more awards\",\n  \"rationale\": \"The quote reports a measurable outcome (tens of thousands of additional Pension Credit awards) attributed to the biggest ever take-up campaign, linking the action to a specific result.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Today, under President Trump's leadership, the National Energy Dominance Council has come up with a solution\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"new power plants funded by the technology companies, not taxpayers, securing the steel of Pennsylvania, the manufacturing of Ohio and the ships of Virginia\",\n  \"rationale\": \"The word 'Today' and the announcement of a specific solution by the Council mark this as a decision announced in this document, with a causal claim linking technology-company-funded power plants to economic benefits in named states.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

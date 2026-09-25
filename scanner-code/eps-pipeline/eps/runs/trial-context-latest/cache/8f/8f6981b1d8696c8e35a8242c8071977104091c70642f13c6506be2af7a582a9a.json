@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"certain conditions that must be met in order to qualify\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The context makes clear these conditions are principles put into a consultation that is still open ('we put into that consultation'), so the quote is articulating the content of an ongoing public consultation, triggering Q1.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

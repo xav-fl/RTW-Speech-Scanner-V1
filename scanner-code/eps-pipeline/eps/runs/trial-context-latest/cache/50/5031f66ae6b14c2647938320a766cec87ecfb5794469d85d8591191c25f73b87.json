@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"taking decisive steps to strengthen coordination and preparedness\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces that the Department of the Interior is currently taking decisive steps (present tense, in this press release), indicating a decision being made public in this document, though the purpose clause names only a general aim rather than a specific measurable outcome.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

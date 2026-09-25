@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"the GCSE will also get young people out and about exploring local parks, rivers and more\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"the GCSE will also get young people out and about exploring local parks, rivers and more\",\n  \"rationale\": \"The speaker announces that the new GCSE (decided in this press release) will cause young people to engage in outdoor fieldwork, linking the policy action to a specific outcome, while also expressing a value judgement about screens and childhood.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

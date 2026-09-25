@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"launching a new UK Export Finance guarantee scheme\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"more than doubling SME lending that it will support to £3.5bn per year…and increasing the number of businesses supported from 8,000 to 20,000\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to help small businesses to start exporting\",\n  \"rationale\": \"The context establishes these actions were announced yesterday, making them completed decisions being reported; quantified targets (£3.5bn, 8,000 to 20,000 businesses) and a causal purpose (help small businesses to start exporting) are present.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

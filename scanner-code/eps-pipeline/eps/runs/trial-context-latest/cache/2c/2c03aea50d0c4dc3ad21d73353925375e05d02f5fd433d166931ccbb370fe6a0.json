@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"makes_conditional_commitment\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"calls_on_others\",\n  \"secondary_sub\": \"private_actors\",\n  \"cue\": \"if they do not, I am prepared to go further\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker states an expectation that platforms comply with Ofcom's VAWG guidance and makes a conditional commitment to act further if they do not, which is the defining feature of makes_conditional_commitment; the call on platforms to abide by the guidance is recorded as a secondary intention.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

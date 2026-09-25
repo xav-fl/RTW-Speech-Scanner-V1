@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we can finalise ambitious agreements on agrifoods, emissions trading, electricity and a Youth Experience Scheme\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker calls on the EU (an international body) to reschedule the summit so that agreements can be finalised, making this a call on others (other_states/international bodies) to act.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

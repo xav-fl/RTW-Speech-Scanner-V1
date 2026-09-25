@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"rules_out_option\",\n  \"sub\": null,\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"a scheme focused on any single income group, still does not specify who may or may not have suffered injustice\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker dismisses a compensation scheme targeted at lower-income pensioners on the grounds that it cannot identify who actually suffered injustice, ruling out that option.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

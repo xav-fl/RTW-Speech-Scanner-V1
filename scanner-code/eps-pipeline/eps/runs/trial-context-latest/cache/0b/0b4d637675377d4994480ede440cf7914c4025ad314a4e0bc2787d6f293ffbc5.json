@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this government is opening doors for Scottish exporters and putting money in the pockets of working people across Scotland\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"opening doors for Scottish exporters and putting money in the pockets of working people across Scotland\",\n  \"rationale\": \"The speaker reports the completed result of the UK Government's international engagement (a tariff cut secured), framing it as an outcome that benefits Scottish exporters and working people, with a causal link between government action and those benefits.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

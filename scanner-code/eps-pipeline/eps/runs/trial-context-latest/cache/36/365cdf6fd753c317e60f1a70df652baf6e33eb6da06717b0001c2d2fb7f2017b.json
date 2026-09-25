@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"unclear\",\n  \"sub\": null,\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Expanding free school meals, rolling out new free breakfast clubs, ending the two-child limit, fighting the disgrace of child poverty.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The fragment lists actions without tense markers; although the context references past achievements ('look at what we've achieved so far') and ongoing rollout ('We're rolling out'), it does not clearly settle whether each item in the list is a completed action, an ongoing implementation, or a future pledge.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

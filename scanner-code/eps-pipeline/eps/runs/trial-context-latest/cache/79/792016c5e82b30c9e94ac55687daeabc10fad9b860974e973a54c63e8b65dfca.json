@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"arms restrictions need to be enforced and extended\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker calls on other states (at least a dozen named as funding and supplying arms) to enforce and extend arms restrictions, directing action at external actors rather than announcing UK government action.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

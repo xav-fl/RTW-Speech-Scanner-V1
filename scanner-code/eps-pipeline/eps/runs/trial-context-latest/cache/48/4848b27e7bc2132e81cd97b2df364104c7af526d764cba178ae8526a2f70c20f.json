@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"passengers keeping more of their hard-earned cash, thanks to the first rail fares freeze in 30 years\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"passengers keeping more of their hard-earned cash, thanks to the first rail fares freeze in 30 years\",\n  \"rationale\": \"The quote reports an achieved outcome (passengers retaining more money) and explicitly attributes it to the rail fares freeze, making it a completed action with a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

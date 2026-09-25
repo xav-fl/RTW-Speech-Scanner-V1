@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we are investing £500m in our National Youth Strategy\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so children from all walks of life, wherever they live, can access youth services, sport and the arts\",\n  \"rationale\": \"The speaker commits to investing £500m in the National Youth Strategy, with a purpose clause specifying the concrete outcome of children accessing youth services, sport and the arts.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}
