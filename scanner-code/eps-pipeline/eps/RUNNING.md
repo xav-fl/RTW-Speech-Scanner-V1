@@ -66,17 +66,24 @@ Activate first (see above), then:
 | What you want | Command |
 |---|---|
 | Check install | `pytest -q` |
-| Run the worked example | `eps ingest --run-dir runs/example --manifest examples/manifest.csv` then `eps build --run-dir runs/example` |
+| Run the worked example | `eps ingest --run-dir runs/example --manifest examples/manifest.csv` then `eps build --run-dir runs/example --skip-context` |
 | Scaffold a manifest for your files | `eps ingest --dir mydocs --write-template manifest.csv --country UK` |
 | Load your documents | `eps ingest --run-dir runs/test1 --manifest manifest.csv` |
 | Run the AI (costs money) | `eps extract --run-dir runs/test1` |
 | Run the AI via Mistral instead | `eps extract --run-dir runs/test1 --provider mistral` |
+| Add context to the quotes (costs money) | `eps context --run-dir runs/test1` |
 | Build the spreadsheet | `eps build --run-dir runs/test1` |
 | Rebuild after changing settings | `eps build --run-dir runs/test1` (free, instant) |
 | Rebuild the JEL taxonomy | `eps fetch-jel` |
 | See all options for a command | `eps ingest --help` |
 
-Only `extract` costs money. `ingest` and `build` are free and work offline.
+`extract` and `context` cost money. `ingest` and `build` are free and work
+offline.
+
+`build` refuses to write a release until `context` has run, because a
+`quote_in_context` that merely repeats its `direct_quote` looks identical
+whether the stage ran and added nothing or never ran at all. Pass
+`--skip-context` if you genuinely want plain quotes.
 
 ---
 
@@ -84,8 +91,10 @@ Only `extract` costs money. `ingest` and `build` are free and work offline.
 
 ```powershell
 # 1. free: load documents and check them
+#    --skip-context because nothing has been extracted yet, so there is
+#    nothing to add context to; this pass is only for the screening log
 eps ingest --run-dir runs/test1 --manifest manifest.csv
-eps build  --run-dir runs/test1
+eps build  --run-dir runs/test1 --skip-context
 
 #    open runs\test1\out\screening_log.csv in Excel
 #    every row should say eligible = True before you go further
@@ -93,6 +102,12 @@ eps build  --run-dir runs/test1
 # 2. paid: let the AI select passages
 $env:ANTHROPIC_API_KEY = "sk-ant-..."
 eps extract --run-dir runs/test1
+
+# 3. paid: name the referents a quote leaves implicit
+#    ("Today's action [standardizing grant requirements] ...")
+eps context --run-dir runs/test1
+
+# 4. free: write the tables
 eps build   --run-dir runs/test1
 
 #    open runs\test1\out\dataset.csv

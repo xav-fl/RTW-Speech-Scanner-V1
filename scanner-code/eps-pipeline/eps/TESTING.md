@@ -31,7 +31,7 @@ Now run the worked example, which uses two invented documents:
 ```bash
 cp examples/officeholders_example.csv src/eps/reference/officeholders.csv
 eps ingest --run-dir runs/example --manifest examples/manifest.csv
-eps build  --run-dir runs/example
+eps build  --run-dir runs/example --skip-context
 ```
 
 **Expect:** `2 documents, 10 units (7 selectable)`, then `screened 2, kept 0`.
@@ -107,7 +107,7 @@ need it yet, use `speaker_hint` and move on.
 
 ```bash
 eps ingest --run-dir runs/test1 --manifest manifest.csv
-eps build  --run-dir runs/test1
+eps build  --run-dir runs/test1 --skip-context
 ```
 
 ### 1e. Check three things
@@ -171,6 +171,7 @@ Ideally this should be an institutional account rather than your personal card.
 ```bash
 export ANTHROPIC_API_KEY=sk-ant-...
 eps extract --run-dir runs/test1
+eps context --run-dir runs/test1
 eps build   --run-dir runs/test1
 ```
 
@@ -208,6 +209,7 @@ Two experiments worth running while the corpus is small:
 
 ```bash
 eps extract --run-dir runs/test1 --identity-mode full
+eps context --run-dir runs/test1
 eps build   --run-dir runs/test1
 ```
 

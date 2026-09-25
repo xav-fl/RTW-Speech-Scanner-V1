@@ -113,8 +113,11 @@ def test_out_of_credit_stops_saves_and_resumes_without_repaying(run_dir, monkeyp
     assert status["stopped_reason"] == "out of credit"
     assert len(status["remaining_doc_ids"]) == 2 # the interrupted doc is redone
 
-    # The partial extract must not quietly become a dataset.
-    assert cli.main(["build", "--run-dir", str(run_dir), "--run-id", "r"]) == 2
+    # The partial extract must not quietly become a dataset. --skip-context so
+    # the refusal being tested is the incomplete extract's, not the missing
+    # context log's -- this run has neither.
+    assert cli.main(["build", "--run-dir", str(run_dir), "--run-id", "r",
+                     "--skip-context"]) == 2
     assert not (run_dir / "out" / "dataset.csv").exists()
 
     # Credit topped up: the same command finishes the job, paying only for the
@@ -127,7 +130,8 @@ def test_out_of_credit_stops_saves_and_resumes_without_repaying(run_dir, monkeyp
     assert paid.calls == 3
     status = _status(run_dir)
     assert status["complete"] is True and status["remaining_doc_ids"] == []
-    assert cli.main(["build", "--run-dir", str(run_dir), "--run-id", "r"]) == 0
+    assert cli.main(["build", "--run-dir", str(run_dir), "--run-id", "r",
+                     "--skip-context"]) == 0
 
 
 def test_a_killed_run_is_never_reported_complete(run_dir, monkeypatch):
@@ -144,7 +148,7 @@ def test_partial_build_is_possible_when_asked_for(run_dir, monkeypatch):
     _use(monkeypatch, ScriptedClient(fail_at=4, error=_credit_error()))
     cli.main(["extract", "--run-dir", str(run_dir), "--run-id", "r"])
     rc = cli.main(["build", "--run-dir", str(run_dir), "--run-id", "r",
-                   "--allow-incomplete"])
+                   "--allow-incomplete", "--skip-context"])
     assert rc == 0
 
 

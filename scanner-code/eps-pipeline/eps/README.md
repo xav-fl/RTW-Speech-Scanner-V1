@@ -80,9 +80,14 @@ eps harvest --run-dir runs/dfe --country UK \
 ### Then, either way
 
 ```bash
-export ANTHROPIC_API_KEY=sk-ant-...       # only `extract` needs this
+export ANTHROPIC_API_KEY=sk-ant-...       # `extract` and `context` need this
 eps extract --run-dir runs/dfe            # --identity-mode blind (default) | full
+eps context --run-dir runs/dfe            # bracketed referents; writes context_log.csv
 eps build   --run-dir runs/dfe            # --min-quote-chars N
+
+# `build` refuses to release until `context` has run, since an unannotated
+# quote_in_context is indistinguishable from one the stage found nothing to add
+# to. `--skip-context` releases plain quotes deliberately.
 ```
 
 ## Switching providers

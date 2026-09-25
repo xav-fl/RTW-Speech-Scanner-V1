@@ -30,6 +30,7 @@ import sys
 from datetime import date, datetime, timezone
 from pathlib import Path
 
+from .context import DEFAULT_TRIAGE_BATCH
 from .extract import DEFAULT_MODEL, IDENTITY_MODES, Extractor, ResponseCache
 from .providers import PROVIDERS, ProviderStopped, get_provider
 from .validate import resolve_speaker
@@ -42,7 +43,8 @@ from .harvest.us import USHarvester, USSource
 from .jel import fetch_from_aea, write_csv
 from .pipeline import (
     CONTEXT_LOG, REFERENCE_DIR, build, load_context_log, load_documents,
-    load_institutions, load_officeholders, load_taxonomy, save_documents,
+    load_institutions, load_officeholders, load_taxonomy, run_context,
+    save_documents,
 )
 
 
@@ -375,9 +377,97 @@ def _print_intention(summary: dict) -> None:
           f"(prompt {summary['prompt_version']}, model {summary['model']})")
 
 
+def cmd_context(args) -> int:
+    """Add editorial context to the quotes the build will keep.
+
+    Runs between `extract` and `build`. Like extract, every response is cached
+    the moment it arrives, so a run that stops on a spend limit resumes from
+    what it already paid for. Writes `out/context_log.csv`, which `build` joins
+    in by quote ID.
+    """
+    from .context import Contextualiser
+
+    run_dir = Path(args.run_dir)
+    if not _extract_is_usable(run_dir, args.allow_incomplete):
+        return 2
+
+    model = args.model or ({"mistral": "mistral-large-latest"}.get(args.provider)
+                           or DEFAULT_MODEL)
+    provider = get_provider(args.provider, model)
+    ctx = Contextualiser(
+        provider=provider, cache=ResponseCache(run_dir / "cache"),
+        triage_batch_size=args.triage_batch,
+    )
+    print(f"provider={args.provider}  model={model}  "
+          f"triage={ctx.triage_prompt_version}  resolve={ctx.resolve_prompt_version}")
+
+    docs = load_documents(run_dir / "documents.pkl")
+    try:
+        _mapping, summary = run_context(
+            docs, _load_extractions(run_dir), ctx, load_officeholders(),
+            run_dir / "out",
+            min_quote_chars=args.min_quote_chars,
+            max_quote_chars=args.max_quote_chars,
+        )
+    except ProviderStopped as exc:
+        # Responses already received are on disk, so re-running this same
+        # command replays them and only calls the API for what is missing.
+        print(f"\nRUN STOPPED: {exc.reason}\n  {exc.detail[:300]}", file=sys.stderr)
+        print("  Fix the cause (e.g. top up credit) and re-run this same "
+              "command; responses already paid for are replayed.", file=sys.stderr)
+        return 3
+
+    print(f"rows in    {summary['rows_in']}")
+    print(f"rows out   {summary['rows_out']}")
+    for status, n in summary["by_status"].items():
+        print(f"    {n:>4}  {status}")
+    _report_usage(provider)
+    print(f"\n-> {run_dir / 'out' / CONTEXT_LOG}")
+    return 0
+
+
+def _report_usage(provider) -> None:
+    """The API's own token counts, as extract reports them."""
+    usage = getattr(provider, "usage", None)
+    if not (usage and usage.get("calls")):
+        print("no API calls (everything replayed from the cache)")
+        return
+    print(f"api calls {usage['calls']}: input {usage['input_tokens']:,}  "
+          f"cache write {usage['cache_creation_input_tokens']:,}  "
+          f"cache read {usage['cache_read_input_tokens']:,}  "
+          f"output {usage['output_tokens']:,} tokens")
+    cost = provider.cost_usd() if hasattr(provider, "cost_usd") else None
+    if cost is not None:
+        print(f"cost of this run: ${cost:,.2f}")
+
+
+def _context_is_present(run_dir: Path, skip: bool) -> bool:
+    """A release built with no context log is not obviously missing anything.
+
+    Every `quote_in_context` would simply repeat its `direct_quote`, which is
+    exactly what the column looks like when the stage ran and added nothing. So
+    a missing log is refused rather than filled in, on the same terms as an
+    incomplete extract.
+    """
+    if (run_dir / "out" / CONTEXT_LOG).exists():
+        return True
+    print(f"No context log at {run_dir / 'out' / CONTEXT_LOG}. Every "
+          "quote_in_context would repeat its direct_quote, which is "
+          "indistinguishable from the stage having run and added nothing.",
+          file=sys.stderr)
+    if not skip:
+        print(f"Run `eps context --run-dir {run_dir}` first, or pass "
+              "--skip-context to release plain quotes anyway.", file=sys.stderr)
+        return False
+    print("Building WITHOUT editorial context, as requested.", file=sys.stderr)
+    return True
+
+
 def cmd_build(args) -> int:
     run_dir = Path(args.run_dir)
     if not _extract_is_usable(run_dir, args.allow_incomplete):
+        return 2
+    if not _context_is_present(run_dir, args.skip_context):
         return 2
 
     docs = load_documents(run_dir / "documents.pkl")
@@ -505,6 +595,21 @@ def main(argv=None) -> int:
     q.add_argument("--run-id", default="")
     q.set_defaults(func=cmd_extract)
 
+    q = sub.add_parser("context",
+                       help="add editorial context to the quotes build will keep")
+    q.add_argument("--run-dir", required=True)
+    q.add_argument("--provider", choices=list(PROVIDERS), default="anthropic",
+                   help="which API to call")
+    q.add_argument("--model", default=None,
+                   help="override the default model for the chosen provider")
+    q.add_argument("--triage-batch", type=int, default=DEFAULT_TRIAGE_BATCH,
+                   help="quotes per triage call")
+    q.add_argument("--min-quote-chars", type=int, default=None)
+    q.add_argument("--max-quote-chars", type=int, default=None)
+    q.add_argument("--allow-incomplete", action="store_true",
+                   help="run even though the extract stopped or had failures")
+    q.set_defaults(func=cmd_context)
+
     q = sub.add_parser("build", help="validate and write output tables")
     q.add_argument("--run-dir", required=True)
     q.add_argument("--run-id", default="")
@@ -514,6 +619,9 @@ def main(argv=None) -> int:
                    help="build even though the extract stopped or had failures")
     q.add_argument("--skip-intention", action="store_true",
                    help="do not tag intentions; the three columns are left blank")
+    q.add_argument("--skip-context", action="store_true",
+                   help="build without the context stage; every quote_in_context "
+                        "then repeats its direct_quote")
     q.set_defaults(func=cmd_build)
 
     q = sub.add_parser("tag-intention",

@@ -647,3 +647,56 @@ def test_triage_is_not_shown_the_document_title():
     run_stage([row], [doc], triage, [])
     assert "GSA Awards Interim" not in seen[0]
     assert "Brooke Rollins" in seen[0]  # speaker and agency still supplied
+
+
+# --- the stage is part of the pipeline, not an optional extra ---------------
+
+
+def test_context_is_a_cli_stage_between_extract_and_build(monkeypatch):
+    from eps import cli
+
+    seen = {}
+    monkeypatch.setattr(cli, "cmd_context", lambda args: seen.update(vars(args)) or 0)
+    assert cli.main(["context", "--run-dir", "x", "--triage-batch", "10"]) == 0
+    assert seen["run_dir"] == "x"
+    assert seen["triage_batch"] == 10
+
+
+def test_build_refuses_to_release_without_a_context_log(tmp_path, capsys):
+    """A missing log would fill quote_in_context with plain quotes, which looks
+    exactly like the stage having run and found nothing to add."""
+    from eps.cli import _context_is_present
+
+    assert _context_is_present(tmp_path, skip=False) is False
+    err = capsys.readouterr().err
+    assert "No context log" in err
+    assert "eps context" in err  # tells the operator what to run
+
+
+def test_build_releases_without_context_only_when_asked(tmp_path, capsys):
+    from eps.cli import _context_is_present
+
+    assert _context_is_present(tmp_path, skip=True) is True
+    assert "WITHOUT editorial context" in capsys.readouterr().err
+
+
+def test_build_proceeds_once_the_log_exists(tmp_path):
+    from eps.cli import _context_is_present
+    from eps.pipeline import CONTEXT_LOG
+
+    (tmp_path / "out").mkdir()
+    (tmp_path / "out" / CONTEXT_LOG).write_text("quote_id,quote_in_context\n",
+                                                encoding="utf-8")
+    assert _context_is_present(tmp_path, skip=False) is True
+
+
+def test_cli_build_exposes_skip_context(monkeypatch):
+    from eps import cli
+
+    seen = {}
+    monkeypatch.setattr(cli, "cmd_build", lambda args: seen.update(vars(args)) or 0)
+    cli.main(["build", "--run-dir", "x"])
+    assert seen["skip_context"] is False
+    seen.clear()
+    cli.main(["build", "--run-dir", "x", "--skip-context"])
+    assert seen["skip_context"] is True
