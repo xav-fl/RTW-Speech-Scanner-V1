@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"These vital changes will mean more certainty for millions of people and will save the lowest paid workers hundreds of pounds\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These vital changes will mean more certainty for millions of people and will save the lowest paid workers hundreds of pounds\",\n  \"rationale\": \"The press release announces policy changes ('These vital changes'), and the quote links those changes to specific outcomes for identifiable groups (more certainty for millions, saving lowest paid workers hundreds of pounds), triggering announces_decision with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

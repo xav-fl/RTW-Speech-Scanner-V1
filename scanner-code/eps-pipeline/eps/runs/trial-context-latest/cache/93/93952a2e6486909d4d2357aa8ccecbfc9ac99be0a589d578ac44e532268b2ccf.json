@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we're investing a record £10.5 billion pounds in flood defences and transforming our animal disease prevention capability through a new National Biosecurity Centre\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The present continuous 'we're investing' describes an action already under way (ongoing_implementation); the spending figure alone does not constitute a quantified outcome target, and no specific causal link to an outcome is stated.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

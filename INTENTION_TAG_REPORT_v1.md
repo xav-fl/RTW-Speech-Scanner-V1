@@ -207,3 +207,48 @@ The script, log and row-by-row comparison are in `runs/trial-context-latest/out/
 - The cited DSIT "we are investing £500m" row moved to "pledges future action", not "ongoing implementation" as the project lead expected.
 
 **Not yet done.** I2 has not been run on the other 143 quotes, and the release files in `intention_trial_v7/` are still I1.
+
+## 12. Addendum: prompt I3 (2026-09-25)
+
+I2's rule for question 3 was not followed, so **I3** made two changes:
+
+- question 3 now opens with an explicit test: does the quote name or refer to any action, even as a gerund or by a pointer such as "these changes"? It has pattern counter-examples and a carve-out for actions mentioned only as abstract options;
+- question 6 now says the present continuous ("we are investing") means an action already under way, unless the document announces it.
+
+I3 was re-run on **25 affected rows**:
+
+- the 12 labelled "States view without action" under I1 or I2;
+- the 3 rows the project lead cited;
+- 12 rows from the I2 subset using "we are"/"we're".
+
+Some rows fall into more than one group. No row failed. Outputs are in `runs/trial-context-latest/out/intention_trial_v7_I3/` (`run_affected.py`, `intention_log.jsonl`, `i1_i2_i3_comparison.csv`).
+
+**Question 3 (the I2 miss).** 4 of the 5 action-naming quotes now leave "States view without action":
+
+| Quote | I3 label |
+|---|---|
+| DBT "These vital changes will mean…" | announces decision |
+| DBT "Banning exploitative zero hours contracts is totemic…" | announces decision |
+| US Treasury "Starting with the historic Working Families Tax Cuts…" | ongoing implementation |
+| NASA "these missions are building…" | ongoing implementation |
+
+MHCLG "Cutting through two-tier bureaucracy means…" stays as causal belief. Caveat: the counter-examples in the prompt are patterns taken from these five rows, so this improvement is partly in-sample.
+
+The cleaner test also held. All 5 genuine value judgements stayed put: MHCLG "better to spend taxpayer's cash…", MoJ ×2, DHS Somalia "contrary to our national interests", NSF fellowship. One DHS row moved from describes problem to causal belief ("Country conditions in Somalia have improved to the point that it no longer meets the law's requirement…"); that is defensible either way. Causal belief now has 3 rows, of which only MHCLG names an action.
+
+**Question 6 (present continuous).** 6 rows moved to ongoing implementation:
+
+| Row | From |
+|---|---|
+| DSIT "we are investing £500m" (as the project lead expected) | I2's pledges future action |
+| DEFRA "we're investing a record £10.5 billion" | pledges future action |
+| MoD "this year, we are deploying our carrier group" | announces decision |
+| SSA "We are transforming Social Security" | pledges future action |
+| DoE "we are creating thousands of … jobs" | outcome |
+| NASA | (also listed under question 3) |
+
+Some rows did not move, correctly:
+- the "Today, …" exception held: Interior's "Today, … has come up with a solution" stays announces decision;
+- the ongoing consultations ("We're consulting…", "we are opening a consultation…") stay evidence.
+
+**Open point.** The question 6 line applies to all quotes, including the large "Commits to action" group, and only 12 present-continuous rows were tested. Before merging, a full I3 run over all 221 v7 quotes (about 20 minutes, roughly $1–2) would show its full effect on the label counts. The release files in `intention_trial_v7/` are still I1.

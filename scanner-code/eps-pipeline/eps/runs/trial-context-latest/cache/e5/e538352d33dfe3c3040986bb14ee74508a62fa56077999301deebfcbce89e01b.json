@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Cutting through two-tier bureaucracy means faster decisions on housing, simpler access to services, and more money going to potholes, tackling crime and caring for older people instead of being lost to duplication\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Cutting through two-tier bureaucracy means faster decisions on housing, simpler access to services, and more money going to potholes, tackling crime and caring for older people instead of being lost to duplication\",\n  \"rationale\": \"The quote asserts that cutting two-tier bureaucracy causes specific outcomes (faster decisions, simpler services, more money for local priorities), making it a causal belief; while reorganisation is referenced in context, the quote itself makes no announcement or pledge but rather explains the causal mechanism.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

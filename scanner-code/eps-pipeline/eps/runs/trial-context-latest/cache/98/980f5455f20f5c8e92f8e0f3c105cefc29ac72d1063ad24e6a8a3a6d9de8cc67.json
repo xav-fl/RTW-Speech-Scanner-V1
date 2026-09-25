@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"one of the great progressive causes of our times\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker characterises tackling illicit finance and corruption as a great progressive cause, expressing a value judgement rather than announcing, pledging or calling on others to take any specific action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

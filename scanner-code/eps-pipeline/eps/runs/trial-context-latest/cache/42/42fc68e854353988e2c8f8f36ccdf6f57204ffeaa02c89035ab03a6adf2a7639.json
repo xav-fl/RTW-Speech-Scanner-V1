@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"reflecting the Trump Administration's strong focus on building talent and investing in individual researchers\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker characterises the GRFP as an expression of the Administration's values and priorities, making a value judgement about what the programme reflects rather than announcing a new action, reporting an outcome, or calling on others to act.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

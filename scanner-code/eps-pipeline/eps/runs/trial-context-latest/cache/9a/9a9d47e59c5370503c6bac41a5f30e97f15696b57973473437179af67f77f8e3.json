@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"it's better to spend taxpayer's cash building new homes than subsidising buy-to-let landlords\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote expresses a normative preference about how taxpayer money should be spent, without naming or committing to any specific action, policy or programme.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

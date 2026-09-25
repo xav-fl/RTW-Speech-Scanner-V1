@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"Starting with the historic Working Families Tax Cuts\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"the President's policies will strengthen small businesses, allow workers to keep more of their hard-earned money and spur economic growth\",\n  \"rationale\": \"The quote references the already-enacted Working Families Tax Cuts (signed into law July 4th, 2025 per context) as the basis for an ongoing public communication effort, while also asserting causal effects of those policies on businesses, workers and economic growth.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we are investing £500m in our National Youth Strategy\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so children from all walks of life, wherever they live, can access youth services, sport and the arts\",\n  \"rationale\": \"The present continuous 'we are investing' describes an ongoing implementation of the National Youth Strategy, with a purpose clause specifying a concrete outcome (children accessing youth services, sport and the arts), making claims_causal_effect true.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

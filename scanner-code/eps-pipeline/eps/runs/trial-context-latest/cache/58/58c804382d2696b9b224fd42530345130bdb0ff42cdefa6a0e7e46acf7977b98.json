@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"Banning exploitative zero hours contracts is totemic\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote names the ban as the action (Q3 fires), and the press-release context ('These vital changes') confirms it is being announced in this document (Q7 → announces_decision); the 'because this government believes' clause adds a value judgement recorded as secondary.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

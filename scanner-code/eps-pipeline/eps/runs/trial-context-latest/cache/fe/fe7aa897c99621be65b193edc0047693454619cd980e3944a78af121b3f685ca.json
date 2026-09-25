@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Country conditions in Somalia have improved to the point that it no longer meets the law's requirement for Temporary Protected Status\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote makes a factual/legal claim about Somalia's country conditions and their relationship to TPS eligibility criteria, without itself announcing or pledging any action — the termination decision appears in the context, not in the quote.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

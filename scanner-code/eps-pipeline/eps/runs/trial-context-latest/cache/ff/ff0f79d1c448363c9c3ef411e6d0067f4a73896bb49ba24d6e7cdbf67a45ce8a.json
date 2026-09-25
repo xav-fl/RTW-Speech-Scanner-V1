@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"these missions are building the capabilities NASA will rely on as we move outward to the Moon, Mars, and beyond\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"By expanding access and sharpening competition in low Earth orbit, these missions are building the capabilities NASA will rely on\",\n  \"rationale\": \"The present continuous 'are building' describes private astronaut missions already under way as ongoing implementation, with a causal link drawn between expanding access/competition and the capabilities NASA will depend on for future exploration.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"Today, under President Trump's leadership, the National Energy Dominance Council has come up with a solution to end these high costs, roll back the Biden administration's policies of energy scarcity and ensure we are powering the Mid-Atlantic and parts of the Midwest's future without charging its citizens a cent.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"new power plants funded by the technology companies, not taxpayers, securing the steel of Pennsylvania, the manufacturing of Ohio and the ships of Virginia\",\n  \"rationale\": \"The quote announces a decision made today by the National Energy Dominance Council and claims it will produce specific economic outcomes (securing steel, manufacturing, and shipbuilding industries) through technology-company-funded power plants.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

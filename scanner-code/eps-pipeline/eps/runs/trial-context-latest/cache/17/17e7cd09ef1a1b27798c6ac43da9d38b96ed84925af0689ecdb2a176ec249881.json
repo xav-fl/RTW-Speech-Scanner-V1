@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"We are transforming Social Security into a digital-first agency\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The present continuous 'We are transforming' describes an ongoing implementation already under way, while the second clause pledges that field offices 'will always be available,' recorded as a secondary pledge.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

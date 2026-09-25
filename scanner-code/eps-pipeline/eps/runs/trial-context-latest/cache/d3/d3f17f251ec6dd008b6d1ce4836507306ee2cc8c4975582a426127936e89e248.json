@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this year, we are deploying our carrier group where it is most needed – the High North – and why we're leading NATO's new mission, Arctic Sentry\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The present continuous 'we are deploying' and 'we're leading' describe actions already under way in the current year, making this ongoing implementation of existing policy rather than a new pledge.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}
