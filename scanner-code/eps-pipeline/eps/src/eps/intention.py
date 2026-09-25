@@ -31,7 +31,7 @@ from typing import Iterable, Mapping, Optional, Sequence
 
 from .extract import DEFAULT_MODEL, ResponseCache, _parse_json
 from .models import (
-    Document, IntentionFailure, IntentionInvalid, IntentionResult,
+    BROAD_CODES, Document, IntentionFailure, IntentionInvalid, IntentionResult,
 )
 from .providers import AnthropicProvider, ModelProvider, ProviderStopped
 
@@ -556,6 +556,122 @@ def write_intention_log(results: Iterable[IntentionResult], out_dir) -> Path:
         for r in results:
             fh.write(json.dumps(asdict(r), ensure_ascii=False) + "\n")
     return path
+
+
+def read_intention_log(path) -> list[IntentionResult]:
+    with open(path, encoding="utf-8") as fh:
+        return [IntentionResult(**json.loads(line)) for line in fh if line.strip()]
+
+
+# --- trial files -----------------------------------------------------------
+
+#: Fixed so the review sample can be drawn again identically. Recorded in the
+#: sample's file name.
+REVIEW_SEED = 20260925
+REVIEW_PER_BROAD = 4
+#: Shares are left blank for groups smaller than this.
+MIN_SHARE_DENOMINATOR = 10
+
+
+def write_trial_files(out_dir, seed: int = REVIEW_SEED) -> dict[str, Path]:
+    """The Section 8 read-through files, from a finished tagged build.
+
+    Reads the build's own `observations_internal.csv` and `intention_log.jsonl`
+    from `out_dir` and joins them on quote ID, so the files describe exactly
+    what was released.
+    """
+    import csv
+    import random
+
+    from .assemble import intention_label
+    from .context import quote_id
+
+    out_dir = Path(out_dir)
+    with open(out_dir / "observations_internal.csv", newline="", encoding="utf-8") as fh:
+        rows = list(csv.DictReader(fh))
+    by_id = {r.quote_id: r for r in read_intention_log(out_dir / "intention_log.jsonl")}
+    joined = [(row, by_id.get(quote_id(row))) for row in rows]
+    files: dict[str, Path] = {}
+
+    # The release itself, under the name the brief gives it.
+    release = out_dir / "release_with_intention.csv"
+    release.write_bytes((out_dir / "dataset.csv").read_bytes())
+    files["release"] = release
+
+    # Label counts: overall, by country, by document type.
+    counts_path = out_dir / "intention_label_counts.csv"
+    with open(counts_path, "w", newline="", encoding="utf-8") as fh:
+        w = csv.writer(fh)
+        w.writerow(["breakdown", "group", "intention", "n", "group_total", "share"])
+        for breakdown, key in (("overall", None), ("country", "country"),
+                               ("document_type", "document_type")):
+            groups: dict[str, list[str]] = {}
+            for row, _ in joined:
+                groups.setdefault(row[key] if key else "all", []).append(row["intention"])
+            for group in sorted(groups):
+                labels = groups[group]
+                total = len(labels)
+                for label in sorted(set(labels), key=lambda l: (-labels.count(l), l)):
+                    n = labels.count(label)
+                    share = (f"{n / total:.1%}" if total >= MIN_SHARE_DENOMINATOR
+                             else "")
+                    w.writerow([breakdown, group, label or "(blank)", n, total, share])
+    files["counts"] = counts_path
+
+    failures_path = out_dir / "intention_failures.csv"
+    with open(failures_path, "w", newline="", encoding="utf-8") as fh:
+        w = csv.writer(fh)
+        w.writerow(["quote_id", "agency", "speaker", "date", "url", "direct_quote",
+                    "failure_reason", "context_source"])
+        for row, res in joined:
+            if res is None or res.status == "failed":
+                w.writerow([quote_id(row), row["agency"], row["speaker"], row["date"],
+                            row["url"], row["direct_quote"],
+                            res.failure_reason if res else "missing_from_log",
+                            res.context_source if res else ""])
+    files["failures"] = failures_path
+
+    # Review sample: every Unclear and Not tagged quote, and up to four drawn
+    # at random from each other broad category.
+    rng = random.Random(seed)
+    sample: list[tuple[dict, Optional[IntentionResult], str]] = []
+    for row, res in joined:
+        if res is None or res.status == "failed":
+            sample.append((row, res, "not_tagged"))
+        elif res.broad == "unclear":
+            sample.append((row, res, "unclear"))
+    for broad in BROAD_CODES:
+        if broad == "unclear":
+            continue
+        pool = [(row, res) for row, res in joined
+                if res is not None and res.status == "tagged" and res.broad == broad]
+        for row, res in rng.sample(pool, min(REVIEW_PER_BROAD, len(pool))):
+            sample.append((row, res, f"random {broad}"))
+
+    sample_path = out_dir / f"intention_review_sample_seed{seed}.csv"
+    with open(sample_path, "w", newline="", encoding="utf-8") as fh:
+        w = csv.writer(fh)
+        w.writerow(["agency", "speaker", "date", "direct_quote", "intention",
+                    "secondary_label", "evidence_type", "has_quantified_target",
+                    "claims_causal_effect", "cue", "target_cue", "causal_cue",
+                    "rationale", "context_source", "failure_reason",
+                    "sample_reason", "quote_id"])
+        for row, res, why in sample:
+            w.writerow([
+                row["agency"], row["speaker"], row["date"], row["direct_quote"],
+                row["intention"],
+                intention_label(res.secondary_broad, res.secondary_sub) if res else "",
+                (res.evidence_type or "") if res else "",
+                row["has_quantified_target"], row["claims_causal_effect"],
+                (res.cue or "") if res else "", (res.target_cue or "") if res else "",
+                (res.causal_cue or "") if res else "",
+                (res.rationale or "") if res else "",
+                res.context_source if res else "",
+                (res.failure_reason or "") if res else "missing_from_log",
+                why, quote_id(row),
+            ])
+    files["sample"] = sample_path
+    return files
 
 
 def summarise(results: Sequence[IntentionResult]) -> dict:

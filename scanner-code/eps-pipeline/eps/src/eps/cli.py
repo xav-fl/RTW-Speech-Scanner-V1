@@ -11,7 +11,10 @@
                 --institution "Department for Education" \
                 --start 2026-01-01 --end 2026-07-31
     eps extract --run-dir runs/dfe
-    eps build   --run-dir runs/dfe
+    eps build   --run-dir runs/dfe            # --skip-intention: no model call
+
+    # re-tag intentions on an existing run, without re-extracting
+    eps tag-intention --run-dir runs/dfe
 
 Harvest, extract and build are separate commands on purpose: the corpus is
 frozen after harvest, model calls are cached after extract, and build can then
@@ -320,11 +323,9 @@ def _write_status(path: Path, **fields) -> None:
     path.write_text(json.dumps(fields, indent=2), encoding="utf-8")
 
 
-def cmd_build(args) -> int:
-    run_dir = Path(args.run_dir)
-
-    # A dataset built from an unfinished extract looks exactly like a finished
-    # one with fewer quotes, so it is refused unless asked for explicitly.
+def _extract_is_usable(run_dir: Path, allow_incomplete: bool) -> bool:
+    """A dataset built from an unfinished extract looks exactly like a finished
+    one with fewer quotes, so it is refused unless asked for explicitly."""
     status_path = run_dir / EXTRACT_STATUS
     if status_path.exists():
         status = json.loads(status_path.read_text(encoding="utf-8"))
@@ -334,25 +335,68 @@ def cmd_build(args) -> int:
             why = status.get("stopped_reason") or status.get("state")
             print(f"The extract for {run_dir} is not complete ({why}; "
                   f"{left:,} documents not done, {bad:,} failed).", file=sys.stderr)
-            if not args.allow_incomplete:
+            if not allow_incomplete:
                 print("Re-run the same extract command to finish it, or pass "
                       "--allow-incomplete to build a partial dataset anyway.",
                       file=sys.stderr)
-                return 2
+                return False
             print("Building a PARTIAL dataset, as requested.", file=sys.stderr)
+    return True
+
+
+def _load_extractions(run_dir: Path) -> dict:
+    ext_path = run_dir / "extractions.pkl"
+    if not ext_path.exists():
+        return {}
+    with open(ext_path, "rb") as fh:
+        return pickle.load(fh)
+
+
+def _intention_tagger(run_dir: Path, provider_name: str = "anthropic",
+                      model: str | None = None):
+    """The tagger, on extraction's default provider and model unless told
+    otherwise, caching into the run's own cache like every other model step."""
+    import os
+
+    from .intention import IntentionTagger
+
+    model = model or ({"mistral": "mistral-large-latest"}.get(provider_name)
+                      or DEFAULT_MODEL)
+    if provider_name == "anthropic" and not os.environ.get("ANTHROPIC_API_KEY"):
+        print("  ! ANTHROPIC_API_KEY is not set: only intention tags already in "
+              "the cache can be replayed; any other quote will be 'Not tagged' "
+              "(provider_error). Set the key, or pass --skip-intention.",
+              file=sys.stderr)
+    return IntentionTagger(provider=get_provider(provider_name, model),
+                           cache=ResponseCache(run_dir / "cache"))
+
+
+def _print_intention(summary: dict) -> None:
+    if summary.get("status") == "skipped":
+        print("intention  skipped (--skip-intention): columns left blank")
+        return
+    print(f"intention  {summary['tagged']} tagged, {summary['not_tagged']} not tagged, "
+          f"{summary['unclear']} unclear  "
+          f"(prompt {summary['prompt_version']}, model {summary['model']})")
+    for reason, n in summary["failure_reasons"].items():
+        print(f"    {n:>4}  {reason}")
+
+
+def cmd_build(args) -> int:
+    run_dir = Path(args.run_dir)
+    if not _extract_is_usable(run_dir, args.allow_incomplete):
+        return 2
 
     docs = load_documents(run_dir / "documents.pkl")
-    ext_path = run_dir / "extractions.pkl"
-    extractions = {}
-    if ext_path.exists():
-        with open(ext_path, "rb") as fh:
-            extractions = pickle.load(fh)
+    extractions = _load_extractions(run_dir)
+    tagger = None if args.skip_intention else _intention_tagger(run_dir)
 
     summary = build(
         docs, extractions, load_taxonomy(), load_officeholders(),
         run_dir / "out", run_id=args.run_id,
         min_quote_chars=args.min_quote_chars,
         max_quote_chars=args.max_quote_chars,
+        intention_tagger=tagger,
     )
     for src, n in summary.get("speaker_sources", {}).items():
         print(f"speaker from {src}: {n} document(s)")
@@ -363,7 +407,74 @@ def cmd_build(args) -> int:
     print(f"rejected   {summary['observations_rejected']}")
     for reason, n in summary["reject_reasons"].items():
         print(f"    {n:>4}  {reason}")
+    _print_intention(summary["intention"])
     print(f"\n-> {summary['files']['dataset']}")
+    return 0
+
+
+def _load_context_log(path: Path) -> dict[str, str]:
+    """quote_id -> quote_in_context from a context stage's log, if there is one."""
+    if not path.exists():
+        return {}
+    import csv
+
+    with open(path, newline="", encoding="utf-8") as fh:
+        return {r["quote_id"]: r["quote_in_context"] for r in csv.DictReader(fh)}
+
+
+def _released_quotes(path: Path) -> list[tuple[str, str]]:
+    import csv
+
+    with open(path, newline="", encoding="utf-8") as fh:
+        return sorted((r["url"], r["direct_quote"]) for r in csv.DictReader(fh))
+
+
+def cmd_tag_intention(args) -> int:
+    """Re-tag an existing run's kept quotes without re-extracting.
+
+    Rebuilds from the run's stored documents and extractions, with the context
+    stage's `quote_in_context` joined back in from `out/context_log.csv`, so the
+    release it writes is the existing one plus the three intention columns.
+    """
+    from .intention import write_trial_files
+
+    run_dir = Path(args.run_dir)
+    if not _extract_is_usable(run_dir, args.allow_incomplete):
+        return 2
+    out_dir = Path(args.out_dir) if args.out_dir else run_dir / "out"
+    previous = run_dir / "out" / "dataset.csv"
+    before = _released_quotes(previous) if previous.exists() else None
+
+    docs = load_documents(run_dir / "documents.pkl")
+    context = _load_context_log(run_dir / "out" / "context_log.csv")
+    tagger = _intention_tagger(run_dir, args.provider, args.model)
+    print(f"tagging with provider={args.provider}  model={tagger.model}  "
+          f"prompt={tagger.prompt_version} ({tagger.fingerprint})")
+
+    summary = build(
+        docs, _load_extractions(run_dir), load_taxonomy(), load_officeholders(),
+        out_dir, run_id=args.run_id,
+        min_quote_chars=args.min_quote_chars,
+        max_quote_chars=args.max_quote_chars,
+        context=context or None,
+        intention_tagger=tagger,
+    )
+    print(f"kept       {summary['observations_kept']}"
+          f"{'  (context joined from context_log.csv)' if context else ''}")
+    _print_intention(summary["intention"])
+
+    # Tagging must never add or remove a quote. The rebuild is deterministic,
+    # so any difference from the existing release means the inputs changed.
+    if before is not None and _released_quotes(Path(summary["files"]["dataset"])) != before:
+        print(f"  ! the rebuilt quotes differ from {previous}: check that the "
+              "run's inputs and the --min/--max-quote-chars settings match the "
+              "original build.", file=sys.stderr)
+
+    if args.trial_files:
+        for path in write_trial_files(out_dir).values():
+            print(f"-> {path}")
+    print(f"\n-> {summary['files']['dataset']}")
+    print(f"-> {summary['files']['intention_log']}")
     return 0
 
 
@@ -416,7 +527,27 @@ def main(argv=None) -> int:
     q.add_argument("--max-quote-chars", type=int, default=None)
     q.add_argument("--allow-incomplete", action="store_true",
                    help="build even though the extract stopped or had failures")
+    q.add_argument("--skip-intention", action="store_true",
+                   help="do not tag intentions; the three columns are left blank")
     q.set_defaults(func=cmd_build)
+
+    q = sub.add_parser("tag-intention",
+                       help="re-tag an existing run's quotes (no re-extraction)")
+    q.add_argument("--run-dir", required=True)
+    q.add_argument("--out-dir", default=None,
+                   help="where to write the rebuilt release (default: RUN_DIR/out)")
+    q.add_argument("--provider", choices=list(PROVIDERS), default="anthropic",
+                   help="which API to call")
+    q.add_argument("--model", default=None,
+                   help="override the default model for the chosen provider")
+    q.add_argument("--run-id", default="")
+    q.add_argument("--min-quote-chars", type=int, default=None)
+    q.add_argument("--max-quote-chars", type=int, default=None)
+    q.add_argument("--allow-incomplete", action="store_true",
+                   help="tag even though the extract stopped or had failures")
+    q.add_argument("--trial-files", action="store_true",
+                   help="also write the label counts, failures and review sample")
+    q.set_defaults(func=cmd_tag_intention)
 
     args = p.parse_args(argv)
     return args.func(args)
