@@ -7,6 +7,22 @@ The same rules are in the tagger prompt, `INTENTION_PROMPT`. Do not edit one
 without the other; a change to either is a new prompt version.
 
 
+## Release format
+
+- The release (`dataset.csv`) carries one intention column, `intention`,
+  immediately after `quote_in_context`. It reads "Broad: subcategory" (e.g.
+  `Commits to action: pledges future action`), or the broad label alone for
+  `Rules out option` and `Unclear`. It reads `Not tagged` where tagging failed,
+  and is blank where tagging was skipped.
+- The quantified-target and causal-effect flags, their cues, the secondary
+  intention and the evidence type are internal only. They are kept in
+  `intention_log.jsonl`; the two flags also appear in
+  `observations_internal.csv`. Sections 4 and 5 below still describe them,
+  because the tagger still records them.
+- The production prompt version is **I3**.
+
+---
+
 ## I2 amendments (2026-09-25)
 
 Made by the project lead after reading the I1 trial on the v7 quotes. The
