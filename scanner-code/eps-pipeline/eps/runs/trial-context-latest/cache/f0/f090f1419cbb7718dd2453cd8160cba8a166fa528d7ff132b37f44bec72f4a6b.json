@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"We are enforcing American laws with regards to oil sanctions. We have sanctioned entities; we go to court, we get a warrant, we seize those boats with oil. And that will continue.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes ongoing enforcement actions (sanctioning entities, obtaining warrants, seizing boats) that are already in progress, with 'that will continue' signalling continuation of existing policy rather than a new decision.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

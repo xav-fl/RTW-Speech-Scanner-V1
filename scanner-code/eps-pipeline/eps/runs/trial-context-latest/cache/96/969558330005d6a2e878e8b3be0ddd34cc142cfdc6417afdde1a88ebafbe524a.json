@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"the GCSE will also get young people out and about exploring local parks, rivers and more\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"the GCSE will also get young people out and about exploring local parks, rivers and more – a critical part of childhood as more and more of our worlds are taken up by screens\",\n  \"rationale\": \"The quote announces an effect of the newly decided Natural History GCSE (getting young people outdoors), linking the policy to a specific outcome, while also expressing a value judgement about screens and childhood.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

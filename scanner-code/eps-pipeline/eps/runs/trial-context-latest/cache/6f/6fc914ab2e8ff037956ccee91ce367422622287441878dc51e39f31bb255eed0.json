@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"launching a new UK Export Finance guarantee scheme\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"more than doubling SME lending that it will support to £3.5bn per year…and increasing the number of businesses supported from 8,000 to 20,000\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to help small businesses to start exporting\",\n  \"rationale\": \"The speaker announces decisions taken in this document (launching a new scheme, expanding an existing one) with quantified targets for lending volume and businesses supported, and links the actions to the causal outcome of helping small businesses export.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

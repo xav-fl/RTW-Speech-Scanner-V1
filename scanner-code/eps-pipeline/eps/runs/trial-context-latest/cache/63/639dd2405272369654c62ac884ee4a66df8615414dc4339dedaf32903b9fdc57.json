@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"the price secured in this auction is 40% lower than the alternative cost of building and operating a new gas plant\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"clean power by 2030\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"It is a monumental step towards clean power by 2030\",\n  \"rationale\": \"The quote announces the result of the AR7 auction as a concrete step toward the government's clean power by 2030 target, with a causal link drawn between the auction outcome and that goal, and a quantified cost comparison supporting the decision.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

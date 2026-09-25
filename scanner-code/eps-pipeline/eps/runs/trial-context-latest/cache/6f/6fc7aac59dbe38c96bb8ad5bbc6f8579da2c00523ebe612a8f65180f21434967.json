@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"calls_on_others\",\n  \"secondary_sub\": \"other_states\",\n  \"cue\": \"We continue with that quarantine and we expect to see that there will be changes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"we expect to see that there will be changes not just in the way the oil industry is run for the benefit of the people, but also so that they stop the drug trafficking, so that we no longer have these gang problems, so that they kick the FARC and the ELN out, and that they no longer cozy up to Hizballah and Iran\",\n  \"rationale\": \"The speaker describes an ongoing U.S. policy (the quarantine/sanctions) already in place and links it causally to expected behavioral changes from Venezuela, while also implicitly calling on Venezuela to make those changes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

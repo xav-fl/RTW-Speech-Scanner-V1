@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this government is consulting on whether to remove children's access to social media entirely\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker states that the government is conducting a public consultation on whether to remove children's access to social media, which is a call for evidence/views from others, matching calls_on_others / evidence with evidence_type = public_consultation.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

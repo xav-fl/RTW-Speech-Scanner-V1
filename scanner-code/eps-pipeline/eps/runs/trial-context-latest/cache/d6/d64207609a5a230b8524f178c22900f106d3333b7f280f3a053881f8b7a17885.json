@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We're opening doors to new markets by promoting British agriculture in trade deals with India, the US and Korea\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"opening doors to new markets by promoting British agriculture in trade deals\",\n  \"rationale\": \"The present continuous 'We're opening doors' indicates ongoing implementation of existing trade promotion activity, and the quote links that activity to the outcome of accessing new markets.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

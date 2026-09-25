@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"The Vine Street site is the location where we'll deliver a courthouse\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"saves taxpayer dollars\",\n  \"rationale\": \"The speaker announces a decided location for the new courthouse and attributes specific benefits (saving taxpayer dollars, security, speed) to that choice, making this an announcement of a decision with a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

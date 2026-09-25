@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our deal with the EU on food standards will slash red tape and costs, improving access to the EU market\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will slash red tape and costs, improving access to the EU market\",\n  \"rationale\": \"The deal with the EU is presented as already concluded ('Our deal') and its effects are described as flowing from it, making this an ongoing implementation with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"private_actors\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"They need investment from private companies\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker is directing private companies to invest in Venezuela under certain conditions, calling on private actors to take action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

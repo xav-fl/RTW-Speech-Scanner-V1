@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We will now open new, safe and legal routes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Following the success of the Homes for Ukraine scheme\",\n  \"rationale\": \"The speaker pledges future actions (opening new refugee routes starting autumn, with first arrivals in autumn 2027, plus a work route and expanded community sponsorship), and links the expansion of community sponsorship to the success of the Homes for Ukraine scheme, establishing a causal connection.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We're strengthening our fight against waste crime by increasing enforcement funding, deploying more officers, and imposing tougher checks and penalties for offenders.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges a set of future-oriented actions (increasing funding, deploying more officers, imposing tougher checks and penalties) without specifying a decision made in this document or a quantified target, and without linking these actions to a specific measured outcome.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

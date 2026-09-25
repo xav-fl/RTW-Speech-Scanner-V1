@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we are making changes – increasing the inheritance tax threshold for Agricultural and Business Property Relief from £1 million to £2.5 million pounds\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"That means couples can pass on up to £5 million pounds without paying inheritance tax on their assets\",\n  \"rationale\": \"The speaker announces a decided policy change (increasing the APR/BPR threshold) and states its direct consequence for couples' inheritance tax liability, making this an announced decision with a claimed causal effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

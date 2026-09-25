@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"considers_open_option\",\n  \"sub\": \"preferred_option\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our intention, subject to consultation, is that the point at which settlement is possible will now vary\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker states an intention subject to consultation, with a proposed preference that settlement timing will vary by category, matching the considers_open_option / preferred_option pattern exactly.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

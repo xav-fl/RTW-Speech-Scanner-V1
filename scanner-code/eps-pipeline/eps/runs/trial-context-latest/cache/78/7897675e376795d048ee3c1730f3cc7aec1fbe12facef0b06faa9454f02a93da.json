@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"describes_problem\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Country conditions in Somalia have improved to the point that it no longer meets the law's requirement for Temporary Protected Status\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes a factual assessment of country conditions and legal eligibility without calling on others, ruling out an option explicitly, or committing to a new action in this sentence; the termination decision itself is announced in the surrounding context, not in this quote.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

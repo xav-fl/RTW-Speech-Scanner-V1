@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I have reformed the Treasury's Green Book\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so every part of our country is given a fair hearing\",\n  \"rationale\": \"The speaker reports a completed past action (reforming the Green Book) and links it causally to the outcome of fairer regional investment appraisal.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

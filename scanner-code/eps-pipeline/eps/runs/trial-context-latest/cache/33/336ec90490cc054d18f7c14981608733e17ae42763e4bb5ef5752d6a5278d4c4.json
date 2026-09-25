@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I will also impose visit visas on Nicaragua and St Lucia\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"their visa-free entry has created a back door into this country\",\n  \"rationale\": \"The speaker pledges a future action (imposing visit visas) and provides a causal explanation linking visa-free entry to a specific problem (a back door into the country).\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

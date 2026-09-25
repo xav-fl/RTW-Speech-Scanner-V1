@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"announces_decision\",\n  \"cue\": \"Through our Sovereign AI unit, through our advanced market commitment to quantum, through our AI hardware plan, …and through our new AI Economics Institute…\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so that the jobs of the future are created here in Britain\",\n  \"rationale\": \"The quote lists existing and newly announced government initiatives (Sovereign AI unit, advanced market commitment, AI hardware plan, AI Economics Institute) as the means by which the UK will secure AI sovereignty, with a causal link drawn to future job creation in Britain.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

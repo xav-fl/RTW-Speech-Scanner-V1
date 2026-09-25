@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we have provided a 10-year settlement\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"allows landlords to raise rents annually by CPI+1%\",\n  \"rationale\": \"The speaker reports a completed policy decision (a 10-year rent settlement already provided) and describes its effect of allowing landlords to raise rents by CPI+1%, with the rent convergence policy also framed as an existing mechanism permitting additions above that level.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

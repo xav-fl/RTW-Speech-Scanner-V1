@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"arms restrictions need to be enforced and extended\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"External support from at least a dozen states funding, manufacturing, transit, training that is perpetuating the conflict and the misery\",\n  \"rationale\": \"The speaker calls on other states (those supplying arms and the international community) to enforce and extend arms restrictions, with the causal claim that external support is perpetuating the conflict.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

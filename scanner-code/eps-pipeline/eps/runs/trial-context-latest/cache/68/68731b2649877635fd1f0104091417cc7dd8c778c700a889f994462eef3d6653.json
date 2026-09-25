@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"our largest pension funds invested an additional £10bn into private markets because of the changes that I have made\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"because of the changes that I have made\",\n  \"rationale\": \"The quote reports a measurable result already achieved (£10bn invested) and explicitly attributes it to the speaker's prior policy changes, making it a reported outcome with a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

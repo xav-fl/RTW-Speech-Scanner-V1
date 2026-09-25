@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"rules_out_option\",\n  \"sub\": null,\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"simply not be right or fair\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker explicitly declines to adopt a flat-rate compensation scheme, ruling it out on grounds of cost and fairness.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

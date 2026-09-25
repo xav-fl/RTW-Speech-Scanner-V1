@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"private_actors\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"American households must prioritize whole, nutrient-dense foods\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker directs American households (private actors) to change their dietary behaviour, with no action by the speaker's own agency stated.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the strategy includes 40 new, fully funded commitments\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"40 new, fully funded commitments supported by the £30 billion settlement\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These actions will help modernise ticketing in more places, provide local leaders with the tools to deliver better transport for their areas, improve the quality of travel information and support smoother journeys for drivers\",\n  \"rationale\": \"The speaker announces a decision made in this document — 40 new commitments within the strategy — and links those actions to specific outcomes, with a quantified number of commitments and a named funding settlement.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

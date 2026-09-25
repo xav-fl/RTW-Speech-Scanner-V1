@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We've already run a pilot of this new scheme with HMRC\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This new scheme cut that from 40 to two. And saved around two to three months in the delivery timeline.\",\n  \"rationale\": \"The speaker reports a completed pilot action ('We've already run') and attributes specific outcomes to it — reducing approval processes from 40 to 2 and saving two to three months — making claims_causal_effect true.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

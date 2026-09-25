@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"allowing Somali nationals to remain temporarily in the United States is contrary to our national interests\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote expresses a value or interest judgment — that allowing Somali nationals to remain is contrary to national interests — without itself stating an action, commitment, or call on others.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

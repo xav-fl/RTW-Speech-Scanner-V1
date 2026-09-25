@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"HUD's work with the Commonwealth of Virginia in Petersburg through Opportunity Zones and our Healthy Homes program reflects our broader vision\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote describes ongoing HUD work already underway in Virginia as an expression of a broader vision, with no specific causal link stated and no quantified target beyond a vague aim of 'securing a safer future for the next generation'.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

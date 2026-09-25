@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Today's civil nuclear agreement\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"By deploying America's leading nuclear technology, we are creating thousands of good-paying American jobs, expanding global markets for U.S. nuclear companies, and driving economic growth at home\",\n  \"rationale\": \"The press release announces a decision made today (the civil nuclear agreement), and the quote claims that deploying nuclear technology causes job creation, market expansion, and economic growth.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

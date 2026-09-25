@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"By rolling out flu vaccinations to homeless people, we are delivering on our promise\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"rolling out flu vaccinations to homeless people, we are delivering on our promise to tackle health inequalities and make sure support reaches those who need it most\",\n  \"rationale\": \"The speaker describes an ongoing rollout of flu vaccinations as fulfilment of an existing promise, linking the action to the outcome of tackling health inequalities and reaching those most in need.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

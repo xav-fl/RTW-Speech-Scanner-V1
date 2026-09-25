@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"makes_conditional_commitment\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"that will continue to be in place until we see changes that not just further the national interest of the United States, which is number one, but also that lead to a better future for the people of Venezuela\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes an existing sanctions quarantine as ongoing leverage that will remain conditional on Venezuela making changes, making this a conditional commitment to maintain the policy until specified conditions are met.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

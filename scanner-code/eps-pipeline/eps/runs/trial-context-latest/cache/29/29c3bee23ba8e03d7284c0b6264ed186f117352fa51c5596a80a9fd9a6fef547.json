@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We're providing an extra £100 million for our vital P8 submarine hunting aircraft.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a specific funding allocation being made now ('We're providing'), indicating a decision taken in or around this document, though the £100 million is a spending amount rather than a measurable outcome target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

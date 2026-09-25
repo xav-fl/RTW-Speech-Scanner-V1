@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"makes_conditional_commitment\",\n  \"cue\": \"There's a quarantine right now... That remains in place, and that's a tremendous amount of leverage that will continue to be in place until we see changes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"that will continue to be in place until we see changes that not just further the national interest of the United States, which is number one, but also that lead to a better future for the people of Venezuela\",\n  \"rationale\": \"The speaker describes an existing and ongoing sanctions/quarantine regime as currently in place, while also making its continuation conditional on Venezuela making changes, with the leverage claimed to produce those changes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

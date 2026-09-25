@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"outcome\",\n  \"cue\": \"Our settlement with the University of Pennsylvania set the tone for all other educational institutions\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Our agreement with the university led to the restoration of female athletes' rightful titles, the elimination of policies that allowed students to compete on teams based on their \\\"gender identity\\\" rather than sex, and the issuance of an apology to female athletes\",\n  \"rationale\": \"The speaker describes completed enforcement actions (settlements with UPenn, Wagner College, and Brown) and attributes specific outcomes—restoration of titles, policy elimination, and apologies—directly to those agreements.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

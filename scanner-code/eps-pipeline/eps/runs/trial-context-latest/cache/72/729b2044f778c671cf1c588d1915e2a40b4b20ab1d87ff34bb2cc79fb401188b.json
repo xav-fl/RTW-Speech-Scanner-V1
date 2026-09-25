@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"forces will no longer be policing perfectly legal tweets. Instead, they will be doing what they do best: patrolling our streets, catching criminals and keeping communities safe\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Under these reforms, forces will no longer be policing perfectly legal tweets. Instead, they will be doing what they do best: patrolling our streets, catching criminals and keeping communities safe\",\n  \"rationale\": \"The speaker uses future tense ('will no longer be', 'will be doing') to pledge that the reforms will redirect police away from recording legal speech toward frontline policing, linking the reforms causally to that outcome.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

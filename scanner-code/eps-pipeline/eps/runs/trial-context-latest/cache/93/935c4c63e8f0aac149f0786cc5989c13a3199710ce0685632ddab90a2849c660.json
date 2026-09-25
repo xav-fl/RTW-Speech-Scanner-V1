@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we launched a consultation on planning changes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports having launched a public consultation on planning changes, which is a request for views/evidence from others, making Q1 the first applicable question.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

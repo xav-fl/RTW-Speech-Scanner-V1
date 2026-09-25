@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Today's awards show that this Administration is committed to restoring a secure domestic nuclear fuel supply chain\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The phrase 'Today's awards' signals an action announced in this document, with the speaker affirming the Administration's commitment to restoring domestic nuclear fuel supply chain capacity.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

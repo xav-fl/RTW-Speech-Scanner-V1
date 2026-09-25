@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"describes_problem\",\n  \"cue\": \"we're making the biggest sustained increase in defence spending since the end of the Cold War\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"putting an end to the hollowing out and underfunding under the previous government\",\n  \"rationale\": \"The speaker describes an ongoing increase in defence spending as currently under way, and links it causally to ending the hollowing out and underfunding of the previous government.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we must work alongside partners as they set their own agendas\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses 'we' to refer to the international development community broadly, calling on multiple actors (countries, partners) to coordinate and align support behind country-led platforms, making this a call on others (other states/international actors) rather than a unilateral commitment by the speaker's own government.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

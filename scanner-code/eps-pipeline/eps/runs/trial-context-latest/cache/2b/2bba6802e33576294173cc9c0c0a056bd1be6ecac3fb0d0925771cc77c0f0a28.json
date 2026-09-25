@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we're investing a record £39 billion through our Social and Affordable Homes Programme to fund the biggest increase in social and council housing in a generation\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"a target of at least 60% of homes to be for social rent\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to fund the biggest increase in social and council housing in a generation\",\n  \"rationale\": \"The speaker commits to a specific investment programme with a quantified target (at least 60% social rent) and links the investment to a claimed outcome (biggest increase in social and council housing in a generation).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

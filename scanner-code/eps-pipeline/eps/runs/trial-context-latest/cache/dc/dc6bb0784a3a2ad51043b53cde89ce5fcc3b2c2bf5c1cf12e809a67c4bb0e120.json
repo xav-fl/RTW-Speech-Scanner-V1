@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"our ban will include platforms like Snapchat, TikTok, YouTube, Instagram, Facebook and X\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker commits to a future ban on named social media platforms for under-16s, with no indication the decision has been formally enacted in this document.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

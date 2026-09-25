@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"our commitment to the Triple Lock for this Parliament\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"our commitment to the Triple Lock for this Parliament means that women will see their State Pension rise by up to £575 this year, with incomes up to £2,100 pounds a year higher by the end of the Parliament\",\n  \"rationale\": \"The speaker describes the ongoing implementation of the existing Triple Lock commitment and its projected financial effects on women's State Pension and overall pension spending, linking the policy directly to specific monetary outcomes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

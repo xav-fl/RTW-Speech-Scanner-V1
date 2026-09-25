@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This investment will equip thousands of educators with the tools needed to bring AI and computer science into the classroom\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This investment will equip thousands of educators with the tools needed to bring AI and computer science into the classroom, turning the Executive Order into action and preparing the next generation to become innovators, builders and leaders\",\n  \"rationale\": \"The press release announces the $11M NSF award as a current decision ('This investment will'), and the quote links that investment to specific outcomes (equipping educators, preparing the next generation), satisfying claims_causal_effect.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

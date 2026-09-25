@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"calls_on_others\",\n  \"secondary_sub\": \"evidence\",\n  \"cue\": \"last week the Financial Policy Committee published the results of the review I requested on bank capital requirements\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"because of the changes that I have made\",\n  \"rationale\": \"The quote reports completed and ongoing actions (reforming regulation, the FPC review) and their claimed outcomes (£150bn additional lending, £40bn from Nationwide), with an explicit causal link to the speaker's own changes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"announces_decision\",\n  \"cue\": \"We're consulting because we need to get the detail right\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These vital changes will mean more certainty for millions of people and will save the lowest paid workers hundreds of pounds\",\n  \"rationale\": \"The context immediately after the quote reveals a public consultation on the details of the banning of exploitative zero hours contracts, which takes precedence under Q1; the quote itself expresses a value judgement supporting the decision, recorded as secondary.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

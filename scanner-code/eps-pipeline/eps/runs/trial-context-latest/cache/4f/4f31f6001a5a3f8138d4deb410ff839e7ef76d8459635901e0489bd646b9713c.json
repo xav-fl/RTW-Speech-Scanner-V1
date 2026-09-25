@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"announces_decision\",\n  \"cue\": \"we encourage you to join us\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker calls on other development actors (other states and international bodies) to join the Call to Action, while also announcing the UK's own endorsement of it.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

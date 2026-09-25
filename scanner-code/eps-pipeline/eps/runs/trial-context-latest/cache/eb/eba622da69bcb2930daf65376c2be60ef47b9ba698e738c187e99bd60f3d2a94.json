@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We have also extended the Public Works Loan Board preferential borrowing rate for council housebuilding until March 2027\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"giving councils greater certainty to increase their supply plans\",\n  \"rationale\": \"The speaker reports a completed action (extension of the preferential borrowing rate) and links it to the effect of giving councils greater certainty to increase supply plans.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will ban communication with strangers, including in gaming\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to stop paedophiles meeting and grooming children\",\n  \"rationale\": \"The speaker announces a decision (framed as part of 'first steps' announced today) to ban communication with strangers, and links this action to the intended effect of stopping paedophiles from meeting and grooming children.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

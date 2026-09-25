@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"A year from now, those who arrived on a visa… Now seeking settlement in this country will need to speak English as a foreign language to A-Level Standard.\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"A year from now… will need to speak English as a foreign language to A-Level Standard\",\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges a future requirement (A-Level standard English) that will take effect 'a year from now', with a specific standard constituting a quantified target.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

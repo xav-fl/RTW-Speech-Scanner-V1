@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we created an Independent Prevent Commissioner\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports a completed past action — the creation of an Independent Prevent Commissioner — with no causal effect claimed and no quantified target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

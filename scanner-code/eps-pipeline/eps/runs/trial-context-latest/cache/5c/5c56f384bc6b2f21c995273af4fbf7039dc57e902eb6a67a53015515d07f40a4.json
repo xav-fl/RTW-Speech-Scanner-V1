@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"considers_open_option\",\n  \"sub\": \"preferred_option\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"calls_on_others\",\n  \"secondary_sub\": \"evidence\",\n  \"cue\": \"the qualifying period for settlement should move – as a norm – from 5 years to 10\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker states a clear preference ('should move') for extending the settlement qualifying period, but this is framed as a principle put into a consultation whose responses are still being reviewed, making it a preferred option rather than a decided policy; the ongoing consultation is recorded as secondary.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This government will now pilot a similar model\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"£10,000 per person… And up to a maximum of £40,000 per family\",\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a new pilot scheme ('will now pilot') with specific monetary incentive amounts, constituting a decision made public in this document.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

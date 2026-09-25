@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we're investing a record £10.5 billion pounds in flood defences and transforming our animal disease prevention capability through a new National Biosecurity Centre\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces forward-looking investment in flood defences and a new National Biosecurity Centre, framed as a pledge of future action with no indication the decision is being made public for the first time in this document nor that it is already under way.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

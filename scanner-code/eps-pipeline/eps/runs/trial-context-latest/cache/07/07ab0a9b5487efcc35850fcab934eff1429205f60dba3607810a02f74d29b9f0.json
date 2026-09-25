@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"last week, I announced the £11 billion lending package\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to help small firms grow internationally\",\n  \"rationale\": \"The speaker references a completed announcement made 'last week', describing an already-announced £11 billion lending package, with a stated purpose of helping small firms grow internationally.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

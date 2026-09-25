@@ -2,7 +2,7 @@
 
 ## 1. Outcome
 
-Intention tagging is built, wired into the pipeline and tested offline. Every kept quote gets a label, two Yes/No flags, a sidecar log record and a named failure reason if it fails. **The trial run on the v7 quotes has not happened yet** because no API key is set on this machine (STOP condition 5). Everything else is finished, and the trial now needs one command (Section 9).
+Intention tagging is built, wired into the pipeline and tested offline. Every kept quote gets a label, two Yes/No flags, a sidecar log record and a named failure reason if it fails. **The trial run on the 221 v7 quotes is complete:** 220 were tagged, 1 was Not tagged (0.5%) and 2 were Unclear (0.9%). Both are well inside the brief's limits, so no fix was needed.
 
 ## 2. Stage 0 findings
 
@@ -67,19 +67,63 @@ Points to know:
 
 ## 6. Trial run results
 
-**Not run: no API key.** No quotes have been tagged, so there are no label counts, failure rates, Unclear rate, quote-only count or model results to report yet. When it runs, it will use `claude-sonnet-4-6` with prompt version `I1` (fingerprint `e53b1022f033`).
+The trial was run on 2026-09-25 with the key supplied by the project lead.
 
-Two numbers are already known from the offline dry run:
-- all 221 quotes will get `context_source = units`, so none will be `quote_only`;
-- the rebuilt release matches v7 exactly apart from the three new columns.
+- **Run:** `runs/trial-context-latest`, the run behind `dataset_context_trial_v7.csv`. Nothing was re-extracted. The rebuilt release has the same 221 quotes as v7.
+- **Model and prompt:** `claude-sonnet-4-6`, prompt version **I1** (fingerprint `e53b1022f033`).
+- **Quotes tagged:** 220 of 221.
+- **Not tagged:** 1 (0.5%), with failure reason `cue_not_in_input`. The quote is a Reeves Mansion House passage made of four fragments separated by "…" and blank lines. The model's target cue joined two fragments into "£3.5bn per year…and increasing", and that exact text is not in the quote. This is the cue check doing its job, not a parsing fault. No other failure reason occurred.
+- **Unclear:** 2 (0.9%). This is far below the 20% threshold, so there are no patterns to report.
+- **`context_source = quote_only`:** 0. All 221 quotes found their neighbouring units.
+- **Flags:** `has_quantified_target` was Yes for 10 quotes. `claims_causal_effect` was Yes for 103.
+- **Secondary intention:** recorded for 40 quotes.
+- **Evidence type** (for the 9 `evidence` labels): 7 `public_consultation`, 2 `expert_referral`.
+
+**Label counts (all 221 quotes):**
+
+| Intention | n | % |
+|---|---|---|
+| Commits to action: pledges future action | 56 | 25.3% |
+| Commits to action: announces decision | 53 | 24.0% |
+| Reports existing action: completed action | 30 | 13.6% |
+| Reports existing action: ongoing implementation | 30 | 13.6% |
+| Calls on others: evidence | 9 | 4.1% |
+| Reports existing action: outcome | 9 | 4.1% |
+| States view without action: value judgement | 8 | 3.6% |
+| Calls on others: other states | 7 | 3.2% |
+| Commits to action: makes conditional commitment | 4 | 1.8% |
+| Considers open option: preferred option | 3 | 1.4% |
+| Rules out option | 3 | 1.4% |
+| States view without action: describes problem | 3 | 1.4% |
+| Calls on others: private actors | 2 | 0.9% |
+| Unclear | 2 | 0.9% |
+| Considers open option: no stated preference | 1 | 0.5% |
+| Not tagged | 1 | 0.5% |
+
+`intention_label_counts.csv` has the same counts split by country (UK 168, US 53) and by document type:
+
+- speeches: 103
+- press releases: 65
+- statements: 46
+- interview transcripts: 7
+
+Percentages are left blank for any group under 10 quotes, which applies to the interview transcripts.
+
+**What stands out:** almost half the quotes (49%) commit to action, and another 31% report existing action. Considering an option, ruling one out, or stating a view without action are all rare (each under 5%). That fits a corpus of press releases and set-piece speeches. The review sample takes only 4 quotes from "Commits to action", although it holds half the data. The line between "announces decision" and "pledges future action" is the finest judgement in the codebook, so it is worth reading a few more of those in `release_with_intention.csv`.
 
 ## 7. Review sample
 
-After the trial run, the sample will be at:
-
 `scanner-code/eps-pipeline/eps/runs/trial-context-latest/out/intention_trial_v7/intention_review_sample_seed20260925.csv`
 
-It contains every Unclear and Not tagged quote, plus up to 4 random quotes from each other broad category (seed 20260925). Reading it takes about 30 minutes.
+It has 26 quotes:
+
+- the 1 Not tagged quote and the 2 Unclear quotes;
+- 4 random quotes from each of the five other broad categories (seed 20260925);
+- all 3 Rules out option quotes, since there were only 3.
+
+Each row shows the label, secondary label, flags, the model's cues and its one-sentence rationale. Reading it takes about 30 minutes.
+
+The same folder also holds `release_with_intention.csv`, `intention_label_counts.csv`, `intention_failures.csv` and the full `intention_log.jsonl`.
 
 ## 8. Deviations from the brief
 
@@ -99,25 +143,18 @@ It contains every Unclear and Not tagged quote, plus up to 4 random quotes from 
 
 ## 9. STOP condition hit, and what to do next
 
-**STOP condition 5: the API key is missing.** To finish the trial:
+**STOP condition 5 (missing API key) was hit first.** It was cleared when the project lead supplied a key, and the trial then completed. No other STOP condition was hit. Next steps for the project lead:
 
-1. Set the key in the terminal you will use (PowerShell: `$env:ANTHROPIC_API_KEY = "sk-ant-..."`).
-2. From `scanner-code/eps-pipeline/eps/`, run:
-   ```bash
-   python -m eps.cli tag-intention --run-dir runs/trial-context-latest --out-dir runs/trial-context-latest/out/intention_trial_v7 --trial-files
-   ```
-   This makes about 221 model calls. That should cost about $1–2 (my estimate) and take a few minutes. Nothing is re-extracted, and v7's own files are not modified.
-3. The files will be in `runs/trial-context-latest/out/intention_trial_v7/`:
-   - `release_with_intention.csv`
-   - `intention_label_counts.csv`
-   - `intention_failures.csv`
-   - `intention_review_sample_seed20260925.csv`
-   - `intention_log.jsonl`
-4. Then apply the brief's Section 8.5 checks:
-   - if more than 10% are Not tagged because of formatting, make one parsing fix, change the version to `I2` and re-run;
-   - if more than 20% are Unclear, report it and leave the rules alone.
+1. **Read the review sample** (Section 7). If the labels look right, merge the `intention-tag` branch. If a rule needs changing, that is a new codebook version and a new prompt version (`I2`). It was not changed here, as the brief requires.
+2. **Consider rotating the API key.** It is stored in a plain-text file in OneDrive. It was used here only for this run, passed straight from the file to the command without being printed or saved elsewhere.
 
-   Or ask Claude Code to continue from this step.
+For the record, the command that produced the trial, run from `scanner-code/eps-pipeline/eps/`, was:
+
+```bash
+python -m eps.cli tag-intention --run-dir runs/trial-context-latest --out-dir runs/trial-context-latest/out/intention_trial_v7 --trial-files
+```
+
+It took about 20 minutes. Its answers are now in the run's cache, so running the same command again replays them for free and needs no key. v7's own files were not modified.
 
 ## 10. Branch and commits
 
@@ -132,6 +169,7 @@ Branch **`intention-tag`**, created from `multi-dept-descriptives`:
 | `4b3fc983` | intention: call the tagger in build() and write intention_log.jsonl |
 | `b1261631` | intention: add --skip-intention to build and a tag-intention command |
 | `a2390a0f` | intention: add offline tests for tagging, failures, release values and skip |
-| *(last)* | intention: add final report |
+| `e515a1eb` | intention: add final report |
+| *(last)* | intention: trial run on v7 quotes and report results |
 
 **Nothing has been pushed or merged.**

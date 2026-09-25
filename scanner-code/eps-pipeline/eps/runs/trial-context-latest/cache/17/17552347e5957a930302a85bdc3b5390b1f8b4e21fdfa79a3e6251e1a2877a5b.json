@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"upcoming purchase of U.S. grown food that will reach those in need\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"upcoming purchase of U.S. grown food that will reach those in need, all while benefitting American farmers facing unfair actions from foreign competitors\",\n  \"rationale\": \"The speaker pledges a future purchase of U.S.-grown food and claims it will produce two effects—reaching those in need and benefitting American farmers—making this a future commitment with causal claims.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

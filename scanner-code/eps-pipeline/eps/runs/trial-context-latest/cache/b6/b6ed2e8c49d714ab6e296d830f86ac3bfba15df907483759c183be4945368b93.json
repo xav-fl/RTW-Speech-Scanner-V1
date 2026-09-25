@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"these missions are building the capabilities NASA will rely on as we move outward to the Moon, Mars, and beyond\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"By expanding access and sharpening competition in low Earth orbit, these missions are building the capabilities NASA will rely on\",\n  \"rationale\": \"The speaker expresses a value judgment about the strategic importance of private astronaut missions, asserting a causal link between expanding commercial access and building capabilities for future exploration, without announcing or pledging any specific action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

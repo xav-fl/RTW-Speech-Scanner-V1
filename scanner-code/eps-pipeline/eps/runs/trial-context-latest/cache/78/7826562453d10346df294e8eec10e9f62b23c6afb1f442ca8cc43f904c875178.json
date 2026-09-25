@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"we recently announced our ambition to scale this model up to a national programme, with a target of 10,000 homes a year by the end of this Parliament\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"a target of 10,000 homes a year by the end of this Parliament\",\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges a future national programme with a quantified target of 10,000 homes per year by the end of Parliament, while also noting ongoing implementation of the Small Sites Aggregator model.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"legislation we introduced weeks after entering office\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"over half of operators are under public control, thanks to legislation we introduced weeks after entering office\",\n  \"rationale\": \"The speaker reports a completed past action (legislation introduced shortly after taking office) and attributes the current state of affairs (over half of operators under public control) to that action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

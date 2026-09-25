@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This extension will enable GSA to take a deeper dive into the services provided to ensure we are optimizing contracts moving forward\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will enable GSA to take a deeper dive into the services provided to ensure we are optimizing contracts moving forward\",\n  \"rationale\": \"The speaker pledges that the extension will allow GSA to conduct a deeper review of services to optimize future contracts, linking the action (extension) to an intended outcome (optimization), though the internal review by GSA's own organisation means Q1 does not apply per the boundary rule.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

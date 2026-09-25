@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the UK will participate in US-led monitoring and verification of any ceasefire, we will support the long-term provision of armaments for Ukraine's defence and we will continue to work with the US towards Security Guarantees\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges three future actions by the UK — participation in ceasefire monitoring, continued armament support, and working toward security guarantees — using 'will' throughout, with no decision announced in this document and no quantified targets or causal claims.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

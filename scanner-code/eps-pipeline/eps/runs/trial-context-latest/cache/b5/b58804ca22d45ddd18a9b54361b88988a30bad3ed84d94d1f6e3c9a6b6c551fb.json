@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"I have already announced that we will tighten our application of domestic law\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"To ensure that legitimate removals cannot be thwarted by the abuse of human rights and modern slavery legislation\",\n  \"rationale\": \"The speaker reports a prior announcement (completed action) of a future policy to tighten domestic law, with a stated causal purpose of preventing abuse of legislation from blocking legitimate removals.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

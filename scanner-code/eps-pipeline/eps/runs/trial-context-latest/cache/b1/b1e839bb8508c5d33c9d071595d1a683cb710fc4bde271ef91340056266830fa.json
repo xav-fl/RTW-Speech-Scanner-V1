@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we have always supported the vision of Least Development Countries to get more finance and decision-making power flowing to locally led climate action\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This is proven to deliver stronger, more effective resilience\",\n  \"rationale\": \"The speaker describes an ongoing, longstanding commitment ('we have always supported') to a policy direction, and the surrounding context asserts a causal link between that approach and stronger resilience outcomes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

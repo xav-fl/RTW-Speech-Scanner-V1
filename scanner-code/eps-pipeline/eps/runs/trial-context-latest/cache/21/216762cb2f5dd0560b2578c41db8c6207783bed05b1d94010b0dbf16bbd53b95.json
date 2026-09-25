@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This investment will repair and restore critical public infrastructure across North Carolina\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This investment will repair and restore critical public infrastructure across North Carolina, including schools, public safety facilities, utilities, and community services\",\n  \"rationale\": \"The press release announces a new funding decision ('This investment will repair and restore'), and the statement links the investment to specific infrastructure outcomes, satisfying the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

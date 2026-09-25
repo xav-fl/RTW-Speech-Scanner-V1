@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"GBR will have a legal duty to promote rail freight in line with our 2050 freight target\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"our 2050 freight target\",\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The Railways Bill (being read in this document) imposes a legal duty on GBR, making this a decision announced in the document; the reference to a 2050 freight target constitutes a quantified deadline.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

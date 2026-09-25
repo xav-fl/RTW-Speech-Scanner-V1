@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our new Right to Manage will give residents more opportunity to take over how their homes are managed\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will give residents more opportunity to take over how their homes are managed if their social landlord fails to improve substandard services\",\n  \"rationale\": \"The speaker pledges a future policy ('Our new Right to Manage will give') that links the action to a specific outcome for residents, establishing a causal effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

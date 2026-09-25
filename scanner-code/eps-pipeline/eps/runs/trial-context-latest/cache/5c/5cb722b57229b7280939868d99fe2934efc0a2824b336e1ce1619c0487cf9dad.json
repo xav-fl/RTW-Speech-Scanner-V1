@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"recalibrating our acquisition strategy — including a build versus buy versus service procurement approach — restoring core competencies through initiatives like converting contractors to civil servant roles and increasing our launch cadence\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes ongoing and planned actions (recalibrating strategy, restoring competencies, converting contractors, increasing launch cadence) as commitments NASA is pursuing, framed as future-oriented pledges rather than decisions announced in this document.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

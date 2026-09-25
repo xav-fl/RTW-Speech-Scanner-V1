@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"GBR will sweep away decades of inefficiency and waste\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"finally bearing down on spiralling costs\",\n  \"rationale\": \"The speaker pledges that Great British Railways will act as a single national leader and sweep away inefficiency, claiming this will bear down on costs — a future commitment with a stated causal effect.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

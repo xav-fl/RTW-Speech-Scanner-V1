@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Cutting through two-tier bureaucracy means faster decisions on housing, simpler access to services, and more money going to potholes, tackling crime and caring for older people instead of being lost to duplication.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Cutting through two-tier bureaucracy means faster decisions on housing, simpler access to services, and more money going to potholes, tackling crime and caring for older people instead of being lost to duplication.\",\n  \"rationale\": \"The speaker asserts the value of reorganisation by describing its beneficial effects without announcing a new action or asking anyone to act, making it a value judgement; the causal link between cutting bureaucracy and specific outcomes (faster decisions, more money for services) sets claims_causal_effect to true.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

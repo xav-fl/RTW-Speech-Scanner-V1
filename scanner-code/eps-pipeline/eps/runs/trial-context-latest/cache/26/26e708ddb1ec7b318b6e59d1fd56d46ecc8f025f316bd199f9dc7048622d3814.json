@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"unclear\",\n  \"sub\": null,\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"giving Mayors the power to introduce an overnight visitor levy\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The fragment appears in a list without clear tense or modal markers, and the context does not settle whether this is an announced decision, a pledge, or an existing action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

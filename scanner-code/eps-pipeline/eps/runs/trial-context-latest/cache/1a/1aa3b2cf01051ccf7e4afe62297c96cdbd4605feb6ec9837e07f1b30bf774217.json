@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I will do so by changing the hiring criteria for Senior Civil Servants.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This means that, with time, at the top of the civil service we will have less experience of writing policy papers - but more experience of frontline delivery, innovation and from the private sector.\",\n  \"rationale\": \"The speaker pledges a future action (changing hiring criteria) and links it causally to a specific outcome (a different mix of experience at the top of the civil service).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

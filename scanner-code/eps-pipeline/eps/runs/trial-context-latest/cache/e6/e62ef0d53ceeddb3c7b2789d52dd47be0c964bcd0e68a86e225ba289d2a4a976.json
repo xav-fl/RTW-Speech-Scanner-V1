@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"calls_on_others\",\n  \"secondary_sub\": \"evidence\",\n  \"cue\": \"because of the changes that I have made\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"which is estimated to mean up to £150bn of additional lending…with Nationwide alone committing an additional £40bn in mortgages and to SMEs because of the changes that I have made\",\n  \"rationale\": \"The passage reports completed and ongoing actions (reforming regulation, requesting the FPC review) and claims a specific quantified outcome (£150bn additional lending, £40bn from Nationwide) causally attributed to the speaker's changes; the FPC review request is a secondary evidence referral already completed.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

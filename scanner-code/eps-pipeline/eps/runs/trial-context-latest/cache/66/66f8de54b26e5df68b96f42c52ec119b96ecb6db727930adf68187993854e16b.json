@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will limit how much land can be put into certain actions and review payment rates for others\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These changes will make funding go further, allowing more people to benefit from agreements\",\n  \"rationale\": \"The speaker pledges future actions (limiting land and reviewing payment rates within SFI) and the immediately following context links these changes to a specific outcome (funding going further and more people benefiting), establishing a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

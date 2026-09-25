@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will set up a Farming and Food Partnership Board\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses 'we will set up' to promise a future action (establishing a new board) with no indication the decision was announced in this document or that the board already exists.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

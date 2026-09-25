@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"they'll have a powerful champion fighting their corner: a strengthened Passenger Watchdog\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"if passengers are let down, if accessibility falls short, if performance isn't up to scratch – they'll have a powerful champion fighting their corner\",\n  \"rationale\": \"The speaker pledges that a strengthened Passenger Watchdog will act as a champion for passengers when services fall short, linking the creation of this body to the outcome of protecting passengers.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

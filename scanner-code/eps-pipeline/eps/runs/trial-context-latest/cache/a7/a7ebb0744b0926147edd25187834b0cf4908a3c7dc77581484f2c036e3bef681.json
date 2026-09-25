@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will ban social media companies providing their services to under 16s\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"we are doing this to give greater protections to children\",\n  \"rationale\": \"The speaker pledges a future ban on social media companies serving under-16s, with the causal link to child protection stated in the immediately following sentence.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

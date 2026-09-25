@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"there will be a narrowly defined list of exemptions\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"we want to make sure we don't include educational services, e-commerce platforms or music streaming\",\n  \"rationale\": \"The speaker pledges a future action (a narrowly defined list of exemptions will be created) and links it causally to the goal of excluding specific service types from the ban.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

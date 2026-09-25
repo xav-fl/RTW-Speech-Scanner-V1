@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the UK acted alongside partners and announced a wave of new sanctions. We targeted fifteen individuals\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes past completed actions — sanctions announced a year ago targeting fifteen named individuals — with no causal effect claim and no quantified future target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

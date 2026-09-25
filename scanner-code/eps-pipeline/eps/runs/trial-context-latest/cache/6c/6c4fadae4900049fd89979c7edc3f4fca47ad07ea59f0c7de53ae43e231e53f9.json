@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We continue to support the establishment of a Gang Suppression Force\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"that can work with Haitian security forces to end the reign of terror by gangs and U.S.-designated Foreign Terrorist Organizations\",\n  \"rationale\": \"The speaker pledges ongoing U.S. support for establishing a Gang Suppression Force, linking that action to the intended effect of ending gang terror in Haiti.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

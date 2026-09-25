@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"announces_decision\",\n  \"cue\": \"I have changed our procurement rules\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"government procurement is no longer a cheque for global incumbents but a launchpad for British businesses\",\n  \"rationale\": \"The speaker reports a completed action ('I have changed our procurement rules') and links it causally to a shift from benefiting global incumbents to supporting British businesses, with the extension to AI representing a new announcement.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We will develop sector plans\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges a future action ('We will develop sector plans') with a sequenced rollout starting with horticulture and poultry, but no decision is announced in this document and no quantified target or causal claim is made.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

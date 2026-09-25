@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"our efforts to reach our goal of 1 million apprentices\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"our goal of 1 million apprentices\",\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges future effort toward a quantified target of 1 million apprentices, with no indication the goal has already been achieved or that a specific decision is announced in this document.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

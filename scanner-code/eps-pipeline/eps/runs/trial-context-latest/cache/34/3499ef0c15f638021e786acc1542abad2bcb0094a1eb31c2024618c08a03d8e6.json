@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We need to mobilise more finance from all sources\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This is proven to deliver stronger, more effective resilience\",\n  \"rationale\": \"The 'we' here refers ambiguously to the international community rather than the UK government alone, making this a call on others (other states and international actors) to mobilise finance and reform decision-making structures, with a causal claim that doing so delivers stronger resilience.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

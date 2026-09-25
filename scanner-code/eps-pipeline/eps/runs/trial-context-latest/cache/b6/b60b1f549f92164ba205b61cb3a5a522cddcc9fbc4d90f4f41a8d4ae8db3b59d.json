@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"from September this year, every pupil across England will learn about social media in the classroom\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker commits to a future action (curriculum change taking effect from September) that has not yet been implemented, with no decision announced as new in this document and no causal effect claimed.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

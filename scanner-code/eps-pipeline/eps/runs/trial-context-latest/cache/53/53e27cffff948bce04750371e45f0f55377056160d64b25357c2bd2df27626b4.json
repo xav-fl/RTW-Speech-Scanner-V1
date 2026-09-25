@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"By allowing them to offer vaccinations, we're using the relationships and expertise that already exist\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"By allowing them to offer vaccinations, we're using the relationships and expertise that already exist to reach families who need support most\",\n  \"rationale\": \"The speaker announces a decision (allowing health visitors to offer vaccinations) and claims this will causally result in reaching the most vulnerable families.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

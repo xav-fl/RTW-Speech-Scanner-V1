@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will expose and end the fraud\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to ensure our programs only benefit legitimate, eligible job creators\",\n  \"rationale\": \"The speaker pledges future action to combat fraud and hold bad actors accountable, with a stated intended effect of ensuring programs benefit only legitimate recipients.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

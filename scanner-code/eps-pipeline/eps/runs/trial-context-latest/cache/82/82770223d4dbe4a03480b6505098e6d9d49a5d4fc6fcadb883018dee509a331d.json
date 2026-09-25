@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"describes_problem\",\n  \"cue\": \"That means applying any rule changes to those who are in the UK today… But have not yet received settled status.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"If we do not, we will see a £10 billion pound drain on our public finances… And further strain on public services – like housing and healthcare - already under immense pressure.\",\n  \"rationale\": \"The speaker announces a decision to apply rule changes to those without settled status, and justifies it by claiming that failing to do so would cause a £10 billion drain on public finances and strain on public services.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

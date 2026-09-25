@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": \"considers_open_option\",\n  \"secondary_sub\": \"preferred_option\",\n  \"cue\": \"the principles we put into that consultation\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The conditions listed are framed as principles put into a consultation, making this a public consultation on proposed settlement criteria, with a preferred option evident in the stated conditions.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

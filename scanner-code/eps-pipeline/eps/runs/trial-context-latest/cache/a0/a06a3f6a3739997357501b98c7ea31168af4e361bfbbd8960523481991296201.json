@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Today's action\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Today's action not only reduces government bureaucracy and makes it easier for USDA customers to access our programs, but it also strengthens our ability to take swift action when recipients and cooperators—and even recipients of subawards and subcontracts—are not compliant with Federal law and applicable Executive Orders\",\n  \"rationale\": \"The press-release cue 'Today's action' signals a decision announced in this document, and the quote explicitly links that action to multiple intended effects (reducing bureaucracy, easier access, stronger enforcement capacity), making claims_causal_effect true.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

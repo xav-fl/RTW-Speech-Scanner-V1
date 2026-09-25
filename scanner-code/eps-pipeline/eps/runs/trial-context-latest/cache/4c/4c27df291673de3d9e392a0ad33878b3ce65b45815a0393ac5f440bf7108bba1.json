@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the SBA is extending deadlines\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to give innocent residents more time to secure their permits and access the loans they need to begin construction\",\n  \"rationale\": \"The SBA announces a current decision to extend deadlines (present continuous tense indicating an action taken now), with a stated causal purpose of enabling residents to secure permits and access loans for construction.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

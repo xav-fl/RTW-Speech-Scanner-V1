@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the government will legislate to prevent the spread of extreme violent content online\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker makes a forward-looking promise that the government will legislate, with no indication the decision has been announced in this document or that a decision point has already been reached.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

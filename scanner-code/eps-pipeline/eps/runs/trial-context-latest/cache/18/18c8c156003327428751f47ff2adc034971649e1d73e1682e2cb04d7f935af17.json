@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"is today backing regional economies across Scotland with £140 million of new investment\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The word 'today' and the present-tense announcement of £140 million in new investment confirm this is a decision announced in this document, making it commits_to_action / announces_decision; the spending amount alone does not constitute a quantified outcome target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

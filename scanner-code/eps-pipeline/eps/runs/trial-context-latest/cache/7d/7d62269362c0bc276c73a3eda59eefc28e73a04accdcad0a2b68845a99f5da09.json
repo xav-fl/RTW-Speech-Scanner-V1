@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"The UK Government will now work with local partners to develop investment plans tailored to each region.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This new investment will allow local leaders to decide how best to use the funding\",\n  \"rationale\": \"The press release announces a new £140m investment decision taken today and states the UK Government will now work with local partners, with the investment causally linked to enabling local leaders to direct funding.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

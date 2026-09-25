@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"completed_action\",\n  \"cue\": \"it is time for more sanctions against the perpetrators of these vile crimes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker calls on others (the international community / UN Security Council) to impose more sanctions, while also reporting the UK's own completed action of sanctioning RSF commanders.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this week we joined the US and France in proposing they be designated by the UN Security Council too\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"supporting the ICC's Sudan investigation so we can bring perpetrators to justice\",\n  \"rationale\": \"The speaker reports actions already taken this week (joining the US and France in proposing designations) and ongoing support for the ICC investigation, linking that support to the intended outcome of bringing perpetrators to justice.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

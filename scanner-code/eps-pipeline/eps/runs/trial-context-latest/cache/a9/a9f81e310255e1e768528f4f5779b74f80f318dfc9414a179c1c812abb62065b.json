@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"unclear\",\n  \"sub\": null,\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Expanding integrated settlements so that more Mayors receive a single multi-year funding pot with flexibility about deciding how that money should be spent\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The fragment lacks a tense marker and the context does not settle whether this is a completed/ongoing action or a future pledge, as the surrounding list mixes past achievements with forward-looking items without clearly categorising this item.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"makes_conditional_commitment\",\n  \"cue\": \"Today, we are taking an important step to undo a Biden Administration rule\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"these states will be able to advance cleaner air now for their communities, instead of waiting for overly burdensome federal requirements years from now\",\n  \"rationale\": \"The speaker announces a decision taken today to reconsider the Biden-era rule, while also making a conditional claim about the effect on states if the SIPs are approved as proposed.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

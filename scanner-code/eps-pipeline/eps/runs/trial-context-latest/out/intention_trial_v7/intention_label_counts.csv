@@ -1,0 +1,74 @@
+breakdown,group,intention,n,group_total,share
+overall,all,Commits to action: pledges future action,56,221,25.3%
+overall,all,Commits to action: announces decision,53,221,24.0%
+overall,all,Reports existing action: completed action,30,221,13.6%
+overall,all,Reports existing action: ongoing implementation,30,221,13.6%
+overall,all,Calls on others: evidence,9,221,4.1%
+overall,all,Reports existing action: outcome,9,221,4.1%
+overall,all,States view without action: value judgement,8,221,3.6%
+overall,all,Calls on others: other states,7,221,3.2%
+overall,all,Commits to action: makes conditional commitment,4,221,1.8%
+overall,all,Considers open option: preferred option,3,221,1.4%
+overall,all,Rules out option,3,221,1.4%
+overall,all,States view without action: describes problem,3,221,1.4%
+overall,all,Calls on others: private actors,2,221,0.9%
+overall,all,Unclear,2,221,0.9%
+overall,all,Considers open option: no stated preference,1,221,0.5%
+overall,all,Not tagged,1,221,0.5%
+country,UK,Commits to action: pledges future action,43,168,25.6%
+country,UK,Commits to action: announces decision,37,168,22.0%
+country,UK,Reports existing action: completed action,25,168,14.9%
+country,UK,Reports existing action: ongoing implementation,23,168,13.7%
+country,UK,Calls on others: evidence,9,168,5.4%
+country,UK,Calls on others: other states,7,168,4.2%
+country,UK,Reports existing action: outcome,7,168,4.2%
+country,UK,States view without action: value judgement,5,168,3.0%
+country,UK,Considers open option: preferred option,3,168,1.8%
+country,UK,Rules out option,3,168,1.8%
+country,UK,Commits to action: makes conditional commitment,2,168,1.2%
+country,UK,Unclear,2,168,1.2%
+country,UK,Considers open option: no stated preference,1,168,0.6%
+country,UK,Not tagged,1,168,0.6%
+country,US,Commits to action: announces decision,16,53,30.2%
+country,US,Commits to action: pledges future action,13,53,24.5%
+country,US,Reports existing action: ongoing implementation,7,53,13.2%
+country,US,Reports existing action: completed action,5,53,9.4%
+country,US,States view without action: describes problem,3,53,5.7%
+country,US,States view without action: value judgement,3,53,5.7%
+country,US,Calls on others: private actors,2,53,3.8%
+country,US,Commits to action: makes conditional commitment,2,53,3.8%
+country,US,Reports existing action: outcome,2,53,3.8%
+document_type,interview_transcript,Reports existing action: ongoing implementation,3,7,
+document_type,interview_transcript,Commits to action: makes conditional commitment,2,7,
+document_type,interview_transcript,Calls on others: private actors,1,7,
+document_type,interview_transcript,States view without action: describes problem,1,7,
+document_type,press_release,Commits to action: announces decision,26,65,40.0%
+document_type,press_release,Commits to action: pledges future action,15,65,23.1%
+document_type,press_release,Reports existing action: ongoing implementation,8,65,12.3%
+document_type,press_release,States view without action: value judgement,5,65,7.7%
+document_type,press_release,Reports existing action: completed action,3,65,4.6%
+document_type,press_release,Reports existing action: outcome,3,65,4.6%
+document_type,press_release,Calls on others: evidence,2,65,3.1%
+document_type,press_release,States view without action: describes problem,2,65,3.1%
+document_type,press_release,Calls on others: private actors,1,65,1.5%
+document_type,speech,Commits to action: pledges future action,26,103,25.2%
+document_type,speech,Reports existing action: completed action,20,103,19.4%
+document_type,speech,Commits to action: announces decision,19,103,18.4%
+document_type,speech,Reports existing action: ongoing implementation,15,103,14.6%
+document_type,speech,Calls on others: other states,7,103,6.8%
+document_type,speech,Calls on others: evidence,4,103,3.9%
+document_type,speech,Reports existing action: outcome,3,103,2.9%
+document_type,speech,States view without action: value judgement,3,103,2.9%
+document_type,speech,Considers open option: preferred option,2,103,1.9%
+document_type,speech,Unclear,2,103,1.9%
+document_type,speech,Considers open option: no stated preference,1,103,1.0%
+document_type,speech,Not tagged,1,103,1.0%
+document_type,statement,Commits to action: pledges future action,15,46,32.6%
+document_type,statement,Commits to action: announces decision,8,46,17.4%
+document_type,statement,Reports existing action: completed action,7,46,15.2%
+document_type,statement,Reports existing action: ongoing implementation,4,46,8.7%
+document_type,statement,Calls on others: evidence,3,46,6.5%
+document_type,statement,Reports existing action: outcome,3,46,6.5%
+document_type,statement,Rules out option,3,46,6.5%
+document_type,statement,Commits to action: makes conditional commitment,2,46,4.3%
+document_type,statement,Considers open option: preferred option,1,46,2.2%

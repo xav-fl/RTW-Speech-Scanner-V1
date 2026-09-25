@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we are taking another important step towards operational excellence\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"centralizing medical continuing disability reviews under Social Security, we are taking another important step towards operational excellence, reducing improper payments, and providing best-in-class service\",\n  \"rationale\": \"The press release announces a decision already taken (centralizing CDRs under SSA) and links it causally to outcomes including reducing improper payments and improving service.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

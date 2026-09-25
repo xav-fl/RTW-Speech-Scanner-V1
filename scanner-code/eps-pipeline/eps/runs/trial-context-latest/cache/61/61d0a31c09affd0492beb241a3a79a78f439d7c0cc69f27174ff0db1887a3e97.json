@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Investment has to be in wholesale digital transformation of the state – a new digital platform, with the gov.uk app being the front door.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker commits to a future direction of investment in digital transformation of the state, framing it as a necessary pledge without a specific decision announced in this document or a quantified target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

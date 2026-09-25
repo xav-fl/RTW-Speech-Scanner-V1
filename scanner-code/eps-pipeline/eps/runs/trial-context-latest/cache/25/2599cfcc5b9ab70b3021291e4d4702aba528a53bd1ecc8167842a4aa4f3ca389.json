@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"has been strengthened\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"ensuring that cumulative risk is not missed and that senior sign-off is required before a case is closed\",\n  \"rationale\": \"The quote reports an already-implemented change to Prevent oversight processes and links it to specific outcomes (catching cumulative risk, requiring senior sign-off), making it ongoing implementation with a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This is another tremendous result delivered by the UK Government for Scotland's world-renowned whisky industry\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"this government is opening doors for Scottish exporters and putting money in the pockets of working people across Scotland\",\n  \"rationale\": \"The speaker characterises the tariff cut as an achieved outcome delivered by the UK Government, and claims it is putting money in the pockets of working people, linking the action to a specific effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

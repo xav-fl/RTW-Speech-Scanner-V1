@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"a change to migration rules, which comes into effect this month\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"a reduction in initial leave to remain for refugees, from five years to two and a half years\",\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The change to migration rules comes into effect this month, making this an announced decision; the quote specifies a measurable reduction in leave-to-remain duration from five years to two and a half years, satisfying the quantified target flag.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

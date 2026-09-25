@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"will be reserved for those who\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges a future restriction on taxpayer-funded accommodation, limiting it to those with no right to work who would otherwise be destitute, using the future-oriented 'will be reserved'.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

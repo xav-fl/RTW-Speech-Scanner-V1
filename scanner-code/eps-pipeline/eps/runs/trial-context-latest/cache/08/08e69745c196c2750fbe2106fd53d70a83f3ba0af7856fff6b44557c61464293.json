@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"EHCPs for children with the most complex needs will stay\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker commits to retaining EHCPs for children with complex needs and introduces new layers of support (Individual Support Plans, specialist provision), pledging future policy arrangements rather than reporting something already in place.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

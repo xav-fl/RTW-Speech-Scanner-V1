@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This new GCSE will help students build a strong understanding of the natural world\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will help students build a strong understanding of the natural world, alongside the knowledge, skills and hands-on experience to access careers in some of the UK's fastest growing sectors\",\n  \"rationale\": \"The press release announces the creation of a new Natural History GCSE (decision taken in this document), and the quote claims this will produce specific outcomes for students' knowledge, skills and career access, satisfying the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

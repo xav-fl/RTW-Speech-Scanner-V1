@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We've empowered families with more school choice options, encouraged states to maximize their flexibility under the law to innovate in K-12, and began returning education to the states and local communities.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses past-tense constructions ('We've empowered', 'encouraged', 'began') to describe actions already taken during the Trump Administration's first year, making this a report of completed actions.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

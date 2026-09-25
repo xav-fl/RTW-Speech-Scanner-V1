@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We are aggressively implementing President Trump's Working Families Tax Cuts Act\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"which will expand Pell grant eligibility to affordable, workforce-aligned, postsecondary options and simplify a badly broken student loan repayment system\",\n  \"rationale\": \"The speaker describes ongoing implementation of an existing act and links it to specific outcomes (expanded Pell grant eligibility and simplified loan repayment), making this ongoing_implementation with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

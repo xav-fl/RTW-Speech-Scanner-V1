@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Today, the U.S. General Services Administration (GSA) successfully awarded nine GLS Interim contracts\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This interim contract helps execute President Trump's vision of a more efficient federal government, and ensure there are no disruption in services from contractors already proven to deliver necessary services\",\n  \"rationale\": \"The press release announces a decision made today (awarding nine interim contracts), and the quote claims this action will produce specific effects: executing a vision of efficiency and ensuring no service disruption.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

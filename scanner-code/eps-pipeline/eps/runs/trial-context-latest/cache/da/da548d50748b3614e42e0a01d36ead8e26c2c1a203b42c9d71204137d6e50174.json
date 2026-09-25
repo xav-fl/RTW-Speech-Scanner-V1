@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we have maintained our diplomatic mission in Caracas at a much more senior level than many of our partners and are seeking dialogue, sustaining direct contact with the opposition, supporting Venezuelan civil society and advocating for British interests\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes ongoing UK government actions — maintaining the embassy, seeking dialogue, sustaining contact, supporting civil society — that are already in progress, making this ongoing implementation of existing policy.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"through the Social Housing Bill, we will protect our critical social housing stock by reforming the right to buy scheme\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so that homes are not sold off more quickly than they can be replaced\",\n  \"rationale\": \"The speaker pledges a future legislative action (reforming right to buy via the Social Housing Bill) and links it causally to the outcome of preventing net loss of social housing stock.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

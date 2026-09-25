@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This rule preserves merit-based hiring, veterans' preference, and whistleblower protections while ensuring senior career officials responsible for advancing President Trump's agenda can be held to the same performance expectations\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"ensuring senior career officials responsible for advancing President Trump's agenda can be held to the same performance expectations that exist throughout much of the American workforce\",\n  \"rationale\": \"The press release announces a finalized rule (announced in this document) and the quote describes what the rule achieves, linking it to specific outcomes (preserved protections, accountability), making it an announced decision with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

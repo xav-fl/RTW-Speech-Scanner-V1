@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"Platforms are now required by law to detect and prevent this material\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports that legal requirements on platforms are now in force ('now required by law'), indicating ongoing implementation of an existing policy, while also signalling continued pressure on tech firms ('turning up the heat').\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

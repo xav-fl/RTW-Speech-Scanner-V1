@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"describes_problem\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Eight million – the single largest mass migration probably in modern history – left Venezuela since 2014 because all the wealth of that country was stolen to the benefit of Maduro and his cronies in the regime, but not to the benefit of people of Venezuela\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"left Venezuela since 2014 because all the wealth of that country was stolen to the benefit of Maduro and his cronies in the regime\",\n  \"rationale\": \"The speaker describes the problem of Venezuelan mass migration and its cause (wealth stolen by Maduro), with no action committed to or called for in this passage.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

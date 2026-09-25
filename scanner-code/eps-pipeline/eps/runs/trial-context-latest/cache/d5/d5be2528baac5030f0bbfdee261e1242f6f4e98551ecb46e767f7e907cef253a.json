@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We've got new defence agreements with Norway, Germany, France, and the EU.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports completed actions — new defence agreements already secured with named allies — using the present perfect tense to describe achievements since taking office.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

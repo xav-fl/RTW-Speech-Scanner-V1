@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"from now on\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"I'm investing more than £200 million in our hubs so that all of them have a dedicated SEND practitioner\",\n  \"rationale\": \"The speaker announces an immediate decision ('from now on') to expand Family Hubs to cover SEND and commits investment to achieve a specific outcome (dedicated SEND practitioner in all hubs), making this an announced decision with a causal link between the investment and the staffing outcome.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We've launched the Atlantic Bastion programme\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to combine the latest autonomous technologies with the very best warships and aircraft to create a British-built hybrid naval force\",\n  \"rationale\": \"The speaker announces a decision already taken ('We've launched') in this document context, and links the programme to the intended outcome of creating a hybrid naval force.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

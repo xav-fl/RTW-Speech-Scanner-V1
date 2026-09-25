@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We need to redouble our efforts to ensure countries can mobilise their own finance, spend well, borrow responsibly and manage shocks effectively\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to build sustainable economies\",\n  \"rationale\": \"The ambiguous 'we' refers to the international community rather than the UK government alone, making this a call on others (other states/international actors) to act, with a causal link drawn between those actions and building sustainable economies.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}
