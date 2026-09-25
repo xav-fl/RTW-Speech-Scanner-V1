@@ -43,7 +43,12 @@ from .providers import AnthropicProvider, ModelProvider, ProviderStopped
 #:  - New sub code states_view_without_action / causal_belief.
 #:  - Purpose clauses set claims_causal_effect only when they name a specific
 #:    outcome; "to better support compliance" moves to the "false" examples.
-INTENTION_PROMPT_VERSION = "I2"
+#: I3 (2026-09-25), after the I2 subset trial: I2's "mentions no action" rule
+#: for Q3 was not followed (5 action-naming quotes stayed in
+#: states_view_without_action), so Q3 now opens with an explicit action test
+#: and pattern counter-examples; Q6 says the present continuous means an
+#: action already under way.
+INTENTION_PROMPT_VERSION = "I3"
 
 #: Units of surrounding text sent either side of the quote's own units.
 CONTEXT_UNITS_BEFORE = 2
@@ -143,17 +148,31 @@ Q2. Does the speaker ask someone other than their own government to act?
     act is not private_actors. Exception: if the passage also states the
     speaker's own government's response should the others not comply, use
     commits_to_action / makes_conditional_commitment instead.
-Q3. Does the QUOTE mention no action at all, by anyone?
+Q3. First test: does the QUOTE name or refer to any action, policy, change,
+    programme, investment, mission, ban, cut, scheme or decision -- by anyone,
+    even as the subject of a sentence, even in a gerund ("Banning X",
+    "Cutting X", "Expanding X"), even by a pointer ("these changes", "this
+    investment", "these missions", "the new scheme")?
+    If YES, skip Q3 entirely: continue to Q4 and label the action. A sentence
+    that evaluates or explains an action is still about that action. Examples
+    of this pattern, all of which skip Q3:
+      "Banning X is totemic because ..."          (the ban is the action)
+      "These vital changes will mean ..."         (the changes are the action)
+      "Cutting X means faster Y ..."              (the cut is the action)
+      "By doing X, these missions are building ..." (the missions are the action)
+      "Starting with the X Tax Cuts, ..."         (the tax cuts are the action)
+    One carve-out: a course of action mentioned only in the abstract, as a
+    general option inside a judgment, that nobody in the quote is doing, has
+    done or plans to do, does not count. "it's better to spend taxpayer's
+    cash building new homes than subsidising buy-to-let landlords" is a
+    value_judgement.
+    If NO -- the QUOTE contains only a description, a judgment or a claim
+    about how the world works, and no action by anyone -- answer Q3:
     -> states_view_without_action / describes_problem (describes a problem or
     state of affairs), value_judgement (a value, fairness or trade-off
     judgment) or causal_belief (a claim that one thing causes or leads to
     another, with no action attached: "higher interest rates hold back
     investment").
-    Q3 applies only if the QUOTE mentions no action at all. That includes
-    actions referred to indirectly: "these changes", "this investment", "these
-    missions", "cutting X", "the new scheme". If any action is mentioned,
-    however indirectly, the answer to Q3 is "no": continue down the order and
-    label the action.
 Q4. Does the speaker rule an option out, or decline to adopt it?
     -> rules_out_option.
 Q5. Is the option still undecided?
@@ -166,6 +185,11 @@ Q6. Was the action taken, or already under way, before this document?
     outcome (a claimed result or effect, e.g. figures achieved) or
     ongoing_implementation (implementation of an existing policy is in
     progress: "we are rolling out", "is implementing").
+    The present continuous ("we are investing", "we are rolling out", "we
+    are deploying", "we are delivering") describes an action already under
+    way: ongoing_implementation, not a pledge. The exception is an action the
+    document itself announces ("today", "I can announce", "this week"), which
+    is announces_decision under Q7.
 Q7. Otherwise
     -> commits_to_action / announces_decision (the decision is taken or made
     public in this document: "today", "I can announce", "I can confirm", "this

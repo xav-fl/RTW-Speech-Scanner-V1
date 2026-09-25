@@ -1,7 +1,7 @@
 # Intention codebook
 
 Human-readable copy of Sections 4 and 5 of `INTENTION_TAG_BRIEF_v1.md`, as
-amended by the project lead for prompt version `I2` (see "I2 amendments"
+amended by the project lead for prompt versions `I2` and `I3` (see "I2 amendments" and "I3 amendments"
 below). Used by the intention tagger (`scanner-code/eps-pipeline/eps/src/eps/intention.py`).
 The same rules are in the tagger prompt, `INTENTION_PROMPT`. Do not edit one
 without the other; a change to either is a new prompt version.
@@ -26,6 +26,19 @@ sections below already include them.
 5. Purpose clauses ("to…", "so that…") set `claims_causal_effect` only when
    they name a specific outcome. "to better support compliance" moves from the
    Yes to the No examples.
+
+## I3 amendments (2026-09-25)
+
+Made after the I2 subset trial, where the I2 wording of question 3 was not
+followed: five quotes naming an action (a ban, "these changes", a cut, "these
+missions", tax cuts) stayed in "States view without action".
+
+1. Question 3 opens with an explicit test: does the quote name or refer to any
+   action? If so, skip it. There is a carve-out for an action mentioned only as
+   an abstract option inside a judgment.
+2. Question 6: the present continuous ("we are investing") means an action is
+   already under way (`ongoing_implementation`), unless the document itself
+   announces it.
 
 ---
 
@@ -82,10 +95,10 @@ Label the QUOTE. Use the CONTEXT only to decide tense, actor and status. Ask the
 
 1. **Do the words of the QUOTE itself ask others to supply evidence, views, data or advice, in a request that is still open?** → `calls_on_others` / `evidence`. This includes public or stakeholder consultations, commitments to seek views, referrals to advisory or regulatory bodies (e.g. Ofcom, the JCVI, the Financial Policy Committee), and requests for research, data or evaluation. Set `evidence_type`. This question takes precedence over all others; record any other intention in `secondary_*`. A consultation or referral mentioned only in the CONTEXT does not count. A request whose results are already in is not open: continue down the order, usually to `reports_existing_action`.
 2. **Does the speaker ask someone other than their own government to act?** → `calls_on_others` / `other_states` (foreign governments, international bodies, "the international community") or `private_actors` (firms, platforms, households, the public). Classify by who is asked to act, not by who is mentioned. *Exception:* if the passage also states the speaker's own government's response should the others not comply, use `commits_to_action` / `makes_conditional_commitment` instead.
-3. **Does the QUOTE mention no action at all, by anyone?** → `states_view_without_action` / `describes_problem` (describes a problem or state of affairs), `value_judgement` (a value, fairness or trade-off judgment) or `causal_belief` (a claim that one thing causes or leads to another, with no action attached). Applies only if the quote mentions no action at all, including actions referred to indirectly ("these changes", "this investment", "cutting X"); otherwise continue down the order.
+3. **Does the QUOTE name or refer to any action, policy, change, programme, investment, mission, ban, cut, scheme or decision, by anyone?** This includes an action as the subject of a sentence, in a gerund ("Banning X", "Cutting X") or by a pointer ("these changes", "this investment", "these missions"). If yes, skip this question and continue to question 4: a sentence that evaluates or explains an action is still about that action (e.g. "Banning X is totemic because…", "These vital changes will mean…", "Cutting X means faster Y…"). Carve-out: a course of action mentioned only in the abstract, as a general option inside a judgment that nobody is doing, has done or plans to do, does not count ("it's better to spend taxpayer's cash building new homes than subsidising buy-to-let landlords" stays a value judgement). If no → `states_view_without_action` / `describes_problem` (describes a problem or state of affairs), `value_judgement` (a value, fairness or trade-off judgment) or `causal_belief` (a claim that one thing causes or leads to another, with no action attached).
 4. **Does the speaker rule an option out, or decline to adopt it?** → `rules_out_option`.
 5. **Is the option still undecided?** → `considers_open_option` / `preferred_option` (a preference is stated: "minded to", "strongly minded to", "our intention, subject to consultation", "we have proposed") or `no_stated_preference` ("considering", "exploring", "looking at", "reviewing whether").
-6. **Was the action taken, or already under way, before this document?** → `reports_existing_action` / `completed_action` (a completed action), `outcome` (a claimed result or effect, e.g. figures achieved) or `ongoing_implementation` (implementation of an existing policy is in progress: "we are rolling out", "is implementing").
+6. **Was the action taken, or already under way, before this document?** → `reports_existing_action` / `completed_action` (a completed action), `outcome` (a claimed result or effect, e.g. figures achieved) or `ongoing_implementation` (implementation of an existing policy is in progress: "we are rolling out", "is implementing"). The present continuous ("we are investing", "we are rolling out", "we are deploying") describes an action already under way → `ongoing_implementation`, unless the document itself announces it ("today", "I can announce") → `announces_decision`.
 7. **Otherwise** → `commits_to_action` / `announces_decision` (the decision is taken or made public in this document: "today", "I can announce", "I can confirm", "this week", or a press release's own announcement such as "Today's action" or "This investment") or `pledges_future_action` (a promise of future action with no decision made in this document: "we will", "I will", "legislation will be brought forward").
 
 If the quote and context together do not settle the label, use `unclear`. Do not guess.
