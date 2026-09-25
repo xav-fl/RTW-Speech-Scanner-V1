@@ -12,6 +12,11 @@ model, which is what makes iterating on the validators cheap. `context` is a
 stage of its own rather than part of `build` for exactly that reason: it calls
 a model, and folding it into `build` would cost that property. It writes its
 decisions to a file, and `build` joins them in by quote ID.
+
+Intention tagging (intention.py) is the exception: the brief places it inside
+`build`, on the final kept rows. Its responses go through the run's cache, so
+a re-build replays them offline and for free once they exist; `--skip-intention`
+restores a build that makes no model call at all.
 """
 
 from __future__ import annotations
@@ -25,8 +30,8 @@ from pathlib import Path
 from typing import Iterable, Optional
 
 from .assemble import (
-    observation_row, write_context_log, write_dataset, write_reject_log,
-    write_screening_log,
+    apply_intentions, observation_row, write_context_log, write_dataset,
+    write_reject_log, write_screening_log,
 )
 from .jel import ACTIVE_CODES_FILE, ActiveJELList, JELTaxonomy
 from .models import Document, ScreeningRow
@@ -183,6 +188,7 @@ def build(
     min_quote_chars: int | None = None,
     max_quote_chars: int | None = None,
     context: dict[str, str] | None = None,
+    intention_tagger=None,
 ) -> dict:
     """Validate extracted observations and write all output tables.
 
@@ -193,6 +199,13 @@ def build(
     `context` maps quote_id -> quote_in_context, from `run_context`. Omitting
     it leaves every `quote_in_context` equal to its `direct_quote`, which is
     what the column means when no context was added.
+
+    `intention_tagger` is an `intention.IntentionTagger`. It is the one model
+    step inside `build`: it runs on the final kept rows, after context is
+    joined, and its responses go through the run's cache, so a re-build replays
+    them instead of calling again. None skips tagging — the three intention
+    columns are then blank and summary.json says so. The CLI passes a tagger
+    unless told `--skip-intention`.
     """
     from .context import quote_id as _quote_id
     # `taxonomy` is still accepted for callers that pass it; JEL validation runs
@@ -275,6 +288,8 @@ def build(
             )
         )
 
+    intention = tag_intentions(rows, documents, intention_tagger, out_dir)
+
     release, internal = write_dataset(rows, out_dir)
     log = write_screening_log(screening, out_dir)
     rej = write_reject_log(rejects, out_dir)
@@ -289,17 +304,39 @@ def build(
             s.speaker_source for s in screening if s.speaker_source),
         "reject_reasons": _counts(r["reject_reason"] for r in rejects),
         "by_institution": _counts(r["agency"] for r in rows),
+        "intention": intention,
         "files": {
             "dataset": str(release),
             "internal": str(internal),
             "screening_log": str(log),
             "rejected": str(rej),
+            "intention_log": str(Path(out_dir, "intention_log.jsonl")),
         },
     }
     Path(out_dir, "summary.json").write_text(
         json.dumps(summary, indent=2, ensure_ascii=False), encoding="utf-8"
     )
     return summary
+
+
+def tag_intentions(rows: list[dict], documents: list[Document], tagger,
+                   out_dir: str | Path) -> dict:
+    """Tag the kept rows in place and write `intention_log.jsonl`.
+
+    Returns the summary recorded in summary.json. When `tagger` is None the
+    columns are left blank and the log is written empty, so a log from an
+    earlier build cannot be mistaken for this one's.
+    """
+    from .intention import summarise, write_intention_log
+
+    if tagger is None:
+        apply_intentions(rows, None)
+        write_intention_log([], out_dir)
+        return {"status": "skipped"}
+    results = tagger.run(rows, documents)
+    apply_intentions(rows, results)
+    write_intention_log(results, out_dir)
+    return summarise(results)
 
 
 def _counts(values: Iterable[str]) -> dict[str, int]:
