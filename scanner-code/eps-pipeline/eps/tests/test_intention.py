@@ -21,7 +21,7 @@ from eps.assemble import (
 from eps.context import quote_id
 from eps.extract import ResponseCache
 from eps.intention import (
-    INTENTION_PROMPT, IntentionTagger, build_request, cue_in_input,
+    INTENTION_PROMPT, INTENTION_PROMPT_VERSION, IntentionTagger, build_request, cue_in_input,
     read_intention_log,
 )
 from eps.models import (
@@ -107,7 +107,8 @@ def test_valid_response_gives_result_and_release_strings():
     assert (r.broad, r.sub) == ("commits_to_action", "pledges_future_action")
     assert r.has_quantified_target is True and r.claims_causal_effect is False
     assert r.context_source == "units"
-    assert r.prompt_version == "I1" and len(r.prompt_fingerprint) == 12
+    assert r.prompt_version == INTENTION_PROMPT_VERSION
+    assert len(r.prompt_fingerprint) == 12
     assert r.quote_id == quote_id(make_row(make_doc()))
     assert intention_values(r) == {
         "intention": "Commits to action: pledges future action",
@@ -140,6 +141,7 @@ FAILURES = {
     "invalid_sub_for_broad": answer(sub="outcome"),
     "evidence_type_mismatch": answer(evidence_type="expert_referral"),
     "cue_not_in_input": answer(cue="we shall"),
+    "label_cue_not_in_quote": answer(cue="Too many children fall behind."),
     "missing_flag_cue": answer(target_cue=None),
     "provider_error": RuntimeError("connection reset after retries"),
 }
@@ -173,6 +175,8 @@ def test_each_failure_reason_gives_not_tagged(reason):
     (answer(broad="rules_out_option", sub="outcome"), "invalid_sub_for_broad"),
     (answer(target_cue="halve the gap"), "cue_not_in_input"),
     (answer(cue=""), "cue_not_in_input"),
+    (answer(broad="states_view_without_action", sub="causal_belief",
+            evidence_type="research_or_data"), "evidence_type_mismatch"),
 ])
 def test_more_rule_breaks(bad, reason):
     [r] = tag(bad)
@@ -237,9 +241,8 @@ def test_cache_replays_without_calling(tmp_path):
 
 
 def test_release_values_are_exactly_the_permitted_set():
-    """Section 4 lists 13 broad-sub pairs, Rules out option, Unclear and Not
-    tagged. (The brief's text says "17"; the list it gives has 16 members, and
-    the list is what is asserted.)"""
+    """14 broad-sub pairs (13 in I1, plus causal belief from I2), Rules out
+    option, Unclear and Not tagged: 17 values."""
     expected = {
         "Commits to action: announces decision",
         "Commits to action: pledges future action",
@@ -254,6 +257,7 @@ def test_release_values_are_exactly_the_permitted_set():
         "Calls on others: private actors",
         "States view without action: describes problem",
         "States view without action: value judgement",
+        "States view without action: causal belief",
         "Rules out option",
         "Unclear",
         "Not tagged",
@@ -271,7 +275,7 @@ def test_release_values_are_exactly_the_permitted_set():
             produced.add(intention_values(r)["intention"])
     produced.add(intention_values(
         IntentionResult("q", "failed", failure_reason="invalid_json"))["intention"])
-    assert produced == expected
+    assert produced == expected and len(expected) == 17
     assert set(INTENTION_DISPLAY.values()) | {NOT_TAGGED} == expected
 
 
@@ -304,14 +308,23 @@ def test_curly_cue_against_straight_quote_is_accepted():
     assert r.status == "tagged"
 
 
-def test_cue_may_come_from_context_but_not_straddle_it():
-    ok = answer(broad="reports_existing_action", sub="completed_action",
-                cue="Too many children fall behind.",
-                has_quantified_target=False, target_cue=None)
+def test_flag_cue_may_come_from_context_but_not_straddle_it():
+    ok = answer(claims_causal_effect=True, causal_cue="That is our promise to parents.")
     assert tag(ok)[0].status == "tagged"
-    straddle = answer(cue="fall behind. That is our promise",
-                      has_quantified_target=False, target_cue=None)
+    straddle = answer(causal_cue="fall behind. That is our promise",
+                      claims_causal_effect=True)
     assert tag(straddle)[0].failure_reason == "cue_not_in_input"
+
+
+def test_label_cue_must_come_from_the_quote_except_for_unclear():
+    """I2: context settles tense and actor, but the label rests on the quote."""
+    from_context = answer(broad="reports_existing_action", sub="completed_action",
+                          cue="Too many children fall behind.",
+                          has_quantified_target=False, target_cue=None)
+    assert tag(from_context)[0].failure_reason == "label_cue_not_in_quote"
+    unclear = answer(broad="unclear", sub=None, cue="Too many children fall behind.",
+                     has_quantified_target=False, target_cue=None)
+    assert tag(unclear)[0].status == "tagged"
 
 
 # --- context retrieval ----------------------------------------------------------

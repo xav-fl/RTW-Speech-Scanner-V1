@@ -169,6 +169,8 @@ INTENTION_DISPLAY = {
         "States view without action: describes problem",
     ("states_view_without_action", "value_judgement"):
         "States view without action: value judgement",
+    ("states_view_without_action", "causal_belief"):
+        "States view without action: causal belief",
     ("unclear", None): "Unclear",
 }
 NOT_TAGGED = "Not tagged"

@@ -1,10 +1,31 @@
 # Intention codebook
 
-Human-readable copy of Sections 4 and 5 of `INTENTION_TAG_BRIEF_v1.md`, the
-fixed labels and coding rules used by the intention tagger
-(`scanner-code/eps-pipeline/eps/src/eps/intention.py`, prompt version `I1`).
+Human-readable copy of Sections 4 and 5 of `INTENTION_TAG_BRIEF_v1.md`, as
+amended by the project lead for prompt version `I2` (see "I2 amendments"
+below). Used by the intention tagger (`scanner-code/eps-pipeline/eps/src/eps/intention.py`).
 The same rules are in the tagger prompt, `INTENTION_PROMPT`. Do not edit one
 without the other; a change to either is a new prompt version.
+
+
+## I2 amendments (2026-09-25)
+
+Made by the project lead after reading the I1 trial on the v7 quotes. The
+sections below already include them.
+
+1. Question 1 fires only on words in the QUOTE, and only for a request still
+   open. A request whose results are already in counts as "Reports existing
+   action". Enforced in code: the label cue must come from the QUOTE, not the
+   CONTEXT (failure reason `label_cue_not_in_quote`; `unclear` is exempt).
+2. "States view without action" applies only if the quote mentions no action
+   at all, including actions referred to indirectly ("these changes", "this
+   investment", "cutting X"). Otherwise continue down the questions.
+3. Calls on others are classified by who is asked to act, not by who is
+   mentioned.
+4. New subcategory `states_view_without_action` / `causal_belief` ("States
+   view without action: causal belief"). Release values go from 16 to 17.
+5. Purpose clauses ("to…", "so that…") set `claims_causal_effect` only when
+   they name a specific outcome. "to better support compliance" moves from the
+   Yes to the No examples.
 
 ---
 
@@ -28,6 +49,7 @@ Each quote receives one **broad** code and, where the table lists subcategories,
 | | | `private_actors` | private actors |
 | `states_view_without_action` | States view without action | `describes_problem` | describes problem |
 | | | `value_judgement` | value judgement |
+| | | `causal_belief` | causal belief |
 | `unclear` | Unclear | *(none)* | — |
 
 **Release value of the `intention` column:**
@@ -36,7 +58,7 @@ Each quote receives one **broad** code and, where the table lists subcategories,
 - `"<Broad display>"` alone for `rules_out_option` and `unclear`, i.e. `Rules out option`, `Unclear`
 - `Not tagged` when tagging failed (Section 6.3). The failure reason goes to the log, not the release.
 
-That gives exactly 17 permitted release values: 13 broad–sub pairs, `Rules out option`, `Unclear` and `Not tagged`, plus nothing else. Write a test that asserts this set.
+That gives exactly 17 permitted release values: 14 broad–sub pairs, `Rules out option`, `Unclear` and `Not tagged`, plus nothing else. (I1 had 16; `causal_belief` was added in I2.)
 
 **Internal-only fields** (log, not release):
 
@@ -58,9 +80,9 @@ Copy this section, together with Section 4, into `INTENTION_CODEBOOK.md`. The pr
 
 Label the QUOTE. Use the CONTEXT only to decide tense, actor and status. Ask the questions in order and stop at the first "yes".
 
-1. **Does the speaker ask others to supply evidence, views, data or advice?** → `calls_on_others` / `evidence`. This includes public or stakeholder consultations, commitments to seek views, referrals to advisory or regulatory bodies (e.g. Ofcom, the JCVI, the Financial Policy Committee), and requests for research, data or evaluation. Set `evidence_type`. This question takes precedence over all others; record any other intention in `secondary_*`.
-2. **Does the speaker ask someone other than their own government to act?** → `calls_on_others` / `other_states` (foreign governments, international bodies, "the international community") or `private_actors` (firms, platforms, households, the public). *Exception:* if the passage also states the speaker's own government's response should the others not comply, use `commits_to_action` / `makes_conditional_commitment` instead.
-3. **Does the passage state a view with no action by anyone?** → `states_view_without_action` / `describes_problem` (describes a problem or state of affairs) or `value_judgement` (a value, fairness or trade-off judgment).
+1. **Do the words of the QUOTE itself ask others to supply evidence, views, data or advice, in a request that is still open?** → `calls_on_others` / `evidence`. This includes public or stakeholder consultations, commitments to seek views, referrals to advisory or regulatory bodies (e.g. Ofcom, the JCVI, the Financial Policy Committee), and requests for research, data or evaluation. Set `evidence_type`. This question takes precedence over all others; record any other intention in `secondary_*`. A consultation or referral mentioned only in the CONTEXT does not count. A request whose results are already in is not open: continue down the order, usually to `reports_existing_action`.
+2. **Does the speaker ask someone other than their own government to act?** → `calls_on_others` / `other_states` (foreign governments, international bodies, "the international community") or `private_actors` (firms, platforms, households, the public). Classify by who is asked to act, not by who is mentioned. *Exception:* if the passage also states the speaker's own government's response should the others not comply, use `commits_to_action` / `makes_conditional_commitment` instead.
+3. **Does the QUOTE mention no action at all, by anyone?** → `states_view_without_action` / `describes_problem` (describes a problem or state of affairs), `value_judgement` (a value, fairness or trade-off judgment) or `causal_belief` (a claim that one thing causes or leads to another, with no action attached). Applies only if the quote mentions no action at all, including actions referred to indirectly ("these changes", "this investment", "cutting X"); otherwise continue down the order.
 4. **Does the speaker rule an option out, or decline to adopt it?** → `rules_out_option`.
 5. **Is the option still undecided?** → `considers_open_option` / `preferred_option` (a preference is stated: "minded to", "strongly minded to", "our intention, subject to consultation", "we have proposed") or `no_stated_preference` ("considering", "exploring", "looking at", "reviewing whether").
 6. **Was the action taken, or already under way, before this document?** → `reports_existing_action` / `completed_action` (a completed action), `outcome` (a claimed result or effect, e.g. figures achieved) or `ongoing_implementation` (implementation of an existing policy is in progress: "we are rolling out", "is implementing").
@@ -84,8 +106,8 @@ If the quote and context together do not settle the label, use `unclear`. Do not
 - No: spending amounts alone ("£200 million"); figures already achieved ("net migration fall by nearly 70%"); deadlines for process steps rather than outcomes ("within months", "from September").
 
 **`claims_causal_effect` = Yes** if the quote links an action, policy or condition to a specific outcome, whether as a result, an intended effect or an explanation.
-- Yes: "because of the changes that I have made"; "to bring borrowing costs down"; "capping ground rent – helping millions of leaseholders by saving them money"; "to better support compliance".
-- No: the quote names actions without effects, or the only outcome is a vague aim ("securing a safer future for the next generation", "to get the job done").
+- Yes: "because of the changes that I have made"; "to bring borrowing costs down"; "capping ground rent – helping millions of leaseholders by saving them money"; "so that parents can get the support they need".
+- No: the quote names actions without effects, or the only outcome is a vague aim ("securing a safer future for the next generation", "to get the job done", "to better support compliance", "to strengthen coordination and preparedness"). Purpose clauses ("to…", "so that…") count only when they name a specific outcome.
 
 Each flag set to Yes needs a cue: the exact words that justify it.
 
@@ -106,7 +128,7 @@ Each flag set to Yes needs a cue: the exact words that justify it.
 | Considers open option: preferred option | "I am also strongly minded to bring in default overnight curfews and breaks in infinite scrolling for 16- and 17-year-olds." | — |
 | Considers open option: no stated preference | "So, we’re considering ways to address this such as an agreement value cap." | — |
 | Rules out option | "As for a flat-rate scheme that would cost up to £10.3 billion and would simply not be right or fair, given it would be paid to the vast majority who were aware of the changes." | — |
-| Calls on others: evidence (expert_referral; secondary: pledges future action) | "So we will introduce more highly effective age assurance measures to better support compliance, and I have asked Ofcom to share proposals on these within months." | Causal: Yes |
+| Calls on others: evidence (expert_referral; secondary: pledges future action) | "So we will introduce more highly effective age assurance measures to better support compliance, and I have asked Ofcom to share proposals on these within months." | — |
 | Calls on others: evidence (public_consultation) | "this government is consulting on whether to remove children’s access to social media entirely." | — |
 | Calls on others: other states | "arms restrictions need to be enforced and extended" | — |
 | Calls on others: other states (ambiguous "we") | "We need to redouble our efforts to ensure countries can mobilise their own finance, spend well, borrow responsibly and manage shocks effectively, to build sustainable economies." | Causal: Yes |

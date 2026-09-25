@@ -217,6 +217,9 @@ class IntentionSub:
     PRIVATE_ACTORS = "private_actors"
     DESCRIBES_PROBLEM = "describes_problem"
     VALUE_JUDGEMENT = "value_judgement"
+    # Added in I2 by the project lead: a cause-and-effect claim with no action
+    # had nowhere to go but value_judgement.
+    CAUSAL_BELIEF = "causal_belief"
 
 
 #: The sub codes valid under each broad code, in codebook order. An empty tuple
@@ -245,6 +248,7 @@ INTENTION_SUBS: dict[str, tuple[str, ...]] = {
     IntentionBroad.STATES_VIEW_WITHOUT_ACTION: (
         IntentionSub.DESCRIBES_PROBLEM,
         IntentionSub.VALUE_JUDGEMENT,
+        IntentionSub.CAUSAL_BELIEF,
     ),
     IntentionBroad.UNCLEAR: (),
 }
@@ -264,6 +268,10 @@ class IntentionFailure:
     INVALID_SUB_FOR_BROAD = "invalid_sub_for_broad"
     EVIDENCE_TYPE_MISMATCH = "evidence_type_mismatch"
     CUE_NOT_IN_INPUT = "cue_not_in_input"
+    # I2: the label must rest on the quote's own words; context settles tense
+    # and actor but cannot supply the label. Kept apart from cue_not_in_input
+    # so the cost of the rule shows up by name in the failure counts.
+    LABEL_CUE_NOT_IN_QUOTE = "label_cue_not_in_quote"
     MISSING_FLAG_CUE = "missing_flag_cue"
     PROVIDER_ERROR = "provider_error"
 

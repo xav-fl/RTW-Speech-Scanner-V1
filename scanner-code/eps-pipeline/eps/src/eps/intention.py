@@ -35,7 +35,15 @@ from .models import (
 )
 from .providers import AnthropicProvider, ModelProvider, ProviderStopped
 
-INTENTION_PROMPT_VERSION = "I1"
+#: I2 (2026-09-25), the project lead's changes after reading the I1 trial:
+#:  - Q1 fires only on the quote's own words, and only for a request still
+#:    open; the label cue must come from the quote, checked in code.
+#:  - Q3 applies only when the quote mentions no action, even indirectly.
+#:  - Calls on others are classified by who is asked to act.
+#:  - New sub code states_view_without_action / causal_belief.
+#:  - Purpose clauses set claims_causal_effect only when they name a specific
+#:    outcome; "to better support compliance" moves to the "false" examples.
+INTENTION_PROMPT_VERSION = "I2"
 
 #: Units of surrounding text sent either side of the quote's own units.
 CONTEXT_UNITS_BEFORE = 2
@@ -63,7 +71,9 @@ Work through the questions in the order given and stop at the first "yes".
 Apply the boundary rules. If the QUOTE and CONTEXT together do not settle
 the label, answer "unclear". Do not guess.
 
-Every cue you give must be copied exactly from the QUOTE or CONTEXT.
+Every cue you give must be copied exactly from the QUOTE or CONTEXT. The
+label cue ("cue") must be copied from the QUOTE itself: the label rests on
+the speaker's own words, and the CONTEXT only settles tense and actor.
 
 Return JSON only, with no preamble and no Markdown code fences, in exactly
 this form:
@@ -95,8 +105,8 @@ reports_existing_action      completed_action | outcome | ongoing_implementation
 considers_open_option        preferred_option | no_stated_preference
 rules_out_option             (none: sub is null)
 calls_on_others              evidence | other_states | private_actors
-states_view_without_action   describes_problem | value_judgement
-unclear                      (none: sub is null)
+states_view_without_action   describes_problem | value_judgement | causal_belief
+unclear                     (none: sub is null)
 
 evidence_type: one of public_consultation, expert_referral, research_or_data.
 Required when sub = evidence, and must be null otherwise.
@@ -112,23 +122,38 @@ Flags (true / false): has_quantified_target, claims_causal_effect.
 Label the QUOTE. Use the CONTEXT only to decide tense, actor and status. Ask
 the questions in order and stop at the first "yes".
 
-Q1. Does the speaker ask others to supply evidence, views, data or advice?
+Q1. Do the words of the QUOTE itself ask others to supply evidence, views,
+    data or advice, in a request that is still open?
     -> calls_on_others / evidence. This includes public or stakeholder
     consultations, commitments to seek views, referrals to advisory or
     regulatory bodies (e.g. Ofcom, the JCVI, the Financial Policy Committee),
     and requests for research, data or evaluation. Set evidence_type. This
     question takes precedence over all others; record any other intention in
     secondary_broad / secondary_sub.
+    Q1 fires only on words in the QUOTE. A consultation or referral mentioned
+    only in the CONTEXT does not make the quote an evidence request. A request
+    whose results are already in (a consultation that has closed and been
+    responded to, a review that has reported) is not open: continue down the
+    order, where it will usually be reports_existing_action.
 Q2. Does the speaker ask someone other than their own government to act?
     -> calls_on_others / other_states (foreign governments, international
     bodies, "the international community") or private_actors (firms,
-    platforms, households, the public). Exception: if the passage also states
-    the speaker's own government's response should the others not comply, use
+    platforms, households, the public). Classify by who is asked to act, not
+    by who is mentioned: a quote that names firms but asks the government to
+    act is not private_actors. Exception: if the passage also states the
+    speaker's own government's response should the others not comply, use
     commits_to_action / makes_conditional_commitment instead.
-Q3. Does the passage state a view with no action by anyone?
+Q3. Does the QUOTE mention no action at all, by anyone?
     -> states_view_without_action / describes_problem (describes a problem or
-    state of affairs) or value_judgement (a value, fairness or trade-off
-    judgment).
+    state of affairs), value_judgement (a value, fairness or trade-off
+    judgment) or causal_belief (a claim that one thing causes or leads to
+    another, with no action attached: "higher interest rates hold back
+    investment").
+    Q3 applies only if the QUOTE mentions no action at all. That includes
+    actions referred to indirectly: "these changes", "this investment", "these
+    missions", "cutting X", "the new scheme". If any action is mentioned,
+    however indirectly, the answer to Q3 is "no": continue down the order and
+    label the action.
 Q4. Does the speaker rule an option out, or decline to adopt it?
     -> rules_out_option.
 Q5. Is the option still undecided?
@@ -188,10 +213,14 @@ to a specific outcome, whether as a result, an intended effect or an
 explanation.
 - true: "because of the changes that I have made"; "to bring borrowing costs
   down"; "capping ground rent – helping millions of leaseholders by saving them
-  money"; "to better support compliance".
+  money"; "so that parents can get the support they need".
 - false: the quote names actions without effects, or the only outcome is a
   vague aim ("securing a safer future for the next generation", "to get the
-  job done").
+  job done", "to better support compliance", "to strengthen coordination and
+  preparedness").
+- Purpose clauses ("to...", "so that...", "in order to...") count only when
+  they name a specific outcome: who or what changes, and how. A purpose clause
+  naming a general aim or an activity does not count.
 
 Each flag set to true needs a cue (target_cue / causal_cue): the exact words
 that justify it. A flag set to false has a null cue.
@@ -235,7 +264,7 @@ rules_out_option:
   simply not be right or fair, given it would be paid to the vast majority who
   were aware of the changes."
 calls_on_others / evidence (evidence_type = expert_referral; secondary =
-commits_to_action / pledges_future_action); claims_causal_effect = true:
+commits_to_action / pledges_future_action):
   "So we will introduce more highly effective age assurance measures to better
   support compliance, and I have asked Ofcom to share proposals on these within
   months."
@@ -475,6 +504,12 @@ class IntentionTagger:
             if cue is not None and not cue_in_input(cue, quote, *context):
                 raise IntentionInvalid(IntentionFailure.CUE_NOT_IN_INPUT,
                                        f"{name} {cue!r} is not in the QUOTE or CONTEXT")
+        # I2: the label rests on the quote's own words. Unclear is exempt: it
+        # has no deciding words, and its cue is often the context that failed
+        # to settle the tense.
+        if result.broad != "unclear" and not cue_in_input(result.cue or "", quote):
+            raise IntentionInvalid(IntentionFailure.LABEL_CUE_NOT_IN_QUOTE,
+                                   f"cue {result.cue!r} is in the CONTEXT, not the QUOTE")
         return result
 
     def tag_one(self, row: Mapping, doc: Optional[Document], ts: str) -> IntentionResult:
