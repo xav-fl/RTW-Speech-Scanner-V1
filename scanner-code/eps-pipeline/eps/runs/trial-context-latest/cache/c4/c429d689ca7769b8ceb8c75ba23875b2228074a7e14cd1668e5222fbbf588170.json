@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"2f11ce038b3a5b05\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On the problem of decisions requiring up to nine months of repeated approvals:\",\n        \"evidence\": \"One decision could take on average up to nine months with little to show for it at the end.\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"58a679e620f3845a\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On senior civil service performance and accountability:\",\n        \"evidence\": \"I find it hard to believe that only 7 in nearly 7,000 senior civil servants were reported to be on a development plan for underperformance last year. And only 2 of them were dismissed due to poor performance.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

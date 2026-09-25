@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd9d3393ae2.P004.S002\"], \"anchor\": null, \"reason\": \"Does investing in sterile fly dispersal, surveillance, and border response capacity reduce the spread of agricultural pests like NWS?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

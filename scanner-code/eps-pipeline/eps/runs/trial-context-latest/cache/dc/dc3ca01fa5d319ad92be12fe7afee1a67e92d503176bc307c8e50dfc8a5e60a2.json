@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D309165b77d.P009.S001\", \"D309165b77d.P009.S002\"], \"anchor\": null, \"reason\": \"Does cutting red tape and streamlining mining permitting increase domestic critical mineral production and lower costs for families?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,23 @@
+WASHINGTON — Today, the U.S. Small Business Administration (SBA) commended the U.S. Department of War (DoW) for suspending its Cybersecurity Maturity Model Certification (CMMC) program Phase II requirements, which were originally scheduled to go into effect on November 10, 2026. The suspension follows months of engagement between the DoW, SBA, and small business stakeholders, who warned that the current CMMC framework imposes costly bureaucratic burdens on the small contractors that are essential to growing the U.S. Defense Industrial Base (DIB). These pressures caused many firms to leave or consider leaving defense-related work, prompting the DoW to launch a comprehensive review to recalibrate the CMMC program so it preserves strong cybersecurity while eliminating regulatory barriers that impede the Department’s Acquisition Transformation System (ATS) to rapidly expand defense supply chains.
+
+> Let there be no doubt: the small businesses that undergird our defense industrial base are committed to protecting our nation’s digital domain — but cybersecurity cannot come at the cost of bureaucracy that shuts out the very companies our warfighters depend on,
+
+said SBA Administrator Kelly Loeffler.
+
+> Working closely with the Department of War, the Trump SBA has heard directly from mission‑critical small businesses that CMMC compliance was becoming an untenable barrier pushing them out of the Defense Industrial Base, even though these firms are the backbone of national security. With over 100,000 small businesses impacted and compliance costs approaching as much as $600,000, the SBA strongly supports the Department of War’s decisive action to preserve strong cybersecurity while cutting red tape, bringing American innovators into our defense supply chain, and advancing the DoW’s efforts to rapidly expand modern capabilities essential to warfighter readiness.
+
+The suspension is a key step in advancing the ATS, which prioritizes “speed to capability” by replacing burdensome compliance regimes with scalable, resilient cybersecurity measures. By suspending the Phase II requirements and initiating a comprehensive review, the Department is working with SBA and other partners to ensure cybersecurity requirements protect federal data without driving innovative small firms out of the Defense Industrial Base or slowing the delivery of critical capabilities to the warfighter.
+
+CMMC is a top concern among small businesses across the DIB, which seek a framework that preserves cybersecurity while easing costly burdens that prevent many qualified small firms from competing for DoW contracts. Established through a final rule published during the Biden Administration in 2024, the CMMC program was designed to protect Controlled Unclassified Information (CUI) and Federal Contract Information (FCI) through three tiers of cybersecurity requirements and certification.
+
+Under the current rule, Phase II requires many small contractors to complete either a self-assessment or a third-party assessment, depending on contract requirements. SBA analysis estimates that total compliance costs can reach approximately $593,800 per CMMC certification for small firms requiring third‑party assessment, and about $388,600 for firms eligible for self‑assessment.
+
+If implemented on its planned launch date, CMMC Phase II would have required more than 120,000 DIB small businesses to seek compliance through a cost-prohibitive system supported by only about 100 approved assessors. Rushing the certification process would have increased assessment costs, delayed certification, and locked otherwise qualified suppliers out of the defense contracting process, threatening our national security. For small manufacturers and other defense suppliers, those delays mean lost revenue, reduced competition, and greater strain on critical supply chains.
+
+SBA hears consistently from small manufacturers that CMMC is among the most burdensome regulatory issues they face. Through its nationwide manufacturing tour and the SBA Red Tape Hotline, the agency has engaged with DoW and other federal partners since last year to identify ways to reduce unnecessary compliance costs while preserving strong cybersecurity protections.
+
+# # #
+
+About the U.S. Small Business Administration
+
+The U.S. Small Business Administration helps power the American dream of entrepreneurship. As the leading voice for small businesses within the federal government, the SBA empowers job creators with the resources and support they need to start, grow, and expand their businesses or recover from a declared disaster. It delivers services through an extensive network of SBA field offices and partnerships with public and private organizations. To learn more, visit www.sba.gov.

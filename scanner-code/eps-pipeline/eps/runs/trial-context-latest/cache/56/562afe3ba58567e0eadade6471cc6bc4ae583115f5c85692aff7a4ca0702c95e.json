@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"fiscal decentralization — devolving tax revenue shares to subnational governments\", \"codes\": [{\"code\": \"H77\", \"strength\": 3}, {\"code\": \"H71\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

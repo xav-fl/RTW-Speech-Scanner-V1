@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3f70fcc16b.P019.S002\"], \"anchor\": \"President Trump is calling on Congress to pass Dalilah's Law, to make it impossible for illegal aliens to obtain commercial driver's licenses.\", \"reason\": \"Does barring undocumented immigrants from obtaining commercial driver's licenses reduce road accidents or fatalities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Defe3cb2d19.P003.S001\", \"Defe3cb2d19.P003.S002\"], \"anchor\": null, \"reason\": \"Does centralised cross-agency hiring of project managers improve federal programme delivery outcomes and cost efficiency?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D72f1109898.P011.S001\", \"D72f1109898.P011.S002\"], \"anchor\": null, \"reason\": \"Does expanding U.S. energy exports to Indo-Pacific allies improve energy security and reduce dependence on adversary suppliers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

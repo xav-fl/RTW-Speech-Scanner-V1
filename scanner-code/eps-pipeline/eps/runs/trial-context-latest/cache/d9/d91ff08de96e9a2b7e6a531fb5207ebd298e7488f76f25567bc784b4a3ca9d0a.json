@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dcf55e18b23.P003.S001\", \"Dcf55e18b23.P003.S002\"], \"anchor\": null, \"reason\": \"Does expanding natural gas pipeline capacity to NYC and Long Island reduce consumer energy costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

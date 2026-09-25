@@ -1,0 +1,53 @@
+{
+ "url": "https://www.justice.gov/opa/pr/additional-west-virginia-correctional-officer-pleads-guilty-conspiracy-against-inmates",
+ "institution_id": "us-justice",
+ "title": "Additional West Virginia Correctional Officer Pleads Guilty to Conspiracy Against Inmates’ Rights",
+ "date": "2026-07-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "0da8da52c38b0117bb2d10671455c9ca8eb4b2b459a7e57562b43c1ca95728e5",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

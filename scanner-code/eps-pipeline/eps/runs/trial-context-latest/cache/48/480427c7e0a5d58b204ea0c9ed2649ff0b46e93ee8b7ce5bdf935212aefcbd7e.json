@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0352e53c7e.P013.S001\"], \"anchor\": null, \"reason\": \"Does a prize competition removing financial and logistical barriers increase living kidney donation rates?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

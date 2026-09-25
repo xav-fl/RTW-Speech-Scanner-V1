@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D287315bdfc.P004.S001\"], \"anchor\": null, \"reason\": \"Does reducing agency headcount while requiring in-office work affect government agency service delivery and capital provision to small businesses?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

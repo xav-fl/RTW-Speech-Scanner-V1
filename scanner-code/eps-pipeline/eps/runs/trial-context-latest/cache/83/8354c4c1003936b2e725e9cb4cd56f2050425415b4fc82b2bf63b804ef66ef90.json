@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"state authority delegation for environmental program management\", \"codes\": [{\"code\": \"Q58\", \"strength\": 3}, {\"code\": \"H77\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"dedicated SEND practitioners funded in family hubs for children with special educational needs\", \"codes\": [{\"code\": \"I28\", \"strength\": 3}, {\"code\": \"H52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

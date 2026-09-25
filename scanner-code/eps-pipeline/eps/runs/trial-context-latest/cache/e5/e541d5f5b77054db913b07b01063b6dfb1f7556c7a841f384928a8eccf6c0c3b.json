@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Ddfc116bb27.P004.S002\"], \"anchor\": \"EPA issued a Data Call-In Notice requiring paraquat manufacturers to conduct a field volatility study under real-world agricultural conditions\", \"reason\": \"Does requiring field volatility studies for pesticides improve risk assessment accuracy and reduce farmworker exposure?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

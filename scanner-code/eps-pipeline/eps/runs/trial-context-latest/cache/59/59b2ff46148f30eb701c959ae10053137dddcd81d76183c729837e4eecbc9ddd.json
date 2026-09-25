@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db713064315.P005.S001\"], \"anchor\": null, \"reason\": \"Does restoring domestic nuclear fuel supply chains reduce costs and improve energy security compared to reliance on foreign uranium?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

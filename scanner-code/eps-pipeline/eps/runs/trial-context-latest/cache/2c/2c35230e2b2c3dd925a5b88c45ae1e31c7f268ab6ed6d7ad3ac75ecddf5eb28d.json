@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df1ffbf71a8.P009.S002\"], \"anchor\": \"By cutting costs and removing barriers to development, we are unleashing American energy, strengthening national security, creating jobs and generating significant revenue for taxpayers and local communities.\", \"reason\": \"Do policies reducing regulatory barriers to energy development on public lands increase employment and government revenue?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

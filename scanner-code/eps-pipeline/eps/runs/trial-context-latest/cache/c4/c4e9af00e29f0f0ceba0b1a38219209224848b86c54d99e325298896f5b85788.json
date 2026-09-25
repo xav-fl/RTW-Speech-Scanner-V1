@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dad0ce8517f.P001.S001\"], \"anchor\": \"President Trump announced the withdrawal of the United States from 66 international organizations\", \"reason\": \"What are the fiscal and economic effects of withdrawing US funding and participation from 66 international organizations?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

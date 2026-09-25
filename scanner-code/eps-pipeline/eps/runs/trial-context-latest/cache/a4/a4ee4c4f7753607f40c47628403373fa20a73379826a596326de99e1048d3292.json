@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"deregulation to expand domestic energy exploration and production\", \"codes\": [{\"code\": \"Q38\", \"strength\": 3}, {\"code\": \"Q32\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

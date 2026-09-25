@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"exclusion of lenders from government-guaranteed agricultural lending programs\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"G28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

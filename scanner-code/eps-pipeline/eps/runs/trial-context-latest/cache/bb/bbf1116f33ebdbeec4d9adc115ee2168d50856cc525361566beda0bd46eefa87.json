@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbca9d92d1d.P004.S001\", \"Dbca9d92d1d.P004.S002\"], \"anchor\": null, \"reason\": \"Does enforcing the TAKE IT DOWN Act reduce non-consensual deepfake pornography and its harms to victims?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

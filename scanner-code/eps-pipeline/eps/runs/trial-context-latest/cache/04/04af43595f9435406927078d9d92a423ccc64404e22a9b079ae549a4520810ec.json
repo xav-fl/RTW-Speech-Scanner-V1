@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"border security infrastructure investment for immigration enforcement\", \"codes\": [{\"code\": \"F22\", \"strength\": 2}, {\"code\": \"H56\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

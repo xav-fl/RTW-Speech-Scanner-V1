@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D79fd62f3f9.P003.S002\"], \"anchor\": \"Country conditions in Somalia have improved to the point that it no longer meets the law's requirement for Temporary Protected Status,\", \"reason\": \"Does terminating TPS for Somali nationals affect their labour market outcomes or return migration decisions?\"}, {\"unit_ids\": [\"D79fd62f3f9.P005.S001\"], \"anchor\": \"allowing Somali nationals to remain temporarily in the United States is contrary to our national interests.\", \"reason\": \"What are the economic effects of ending temporary protected status for Somali nationals on host and origin countries?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

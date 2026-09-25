@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3d5b4f7f4c.P001.S001\"], \"anchor\": \"I am designating Iran as a State Sponsor of Wrongful Detention.\", \"reason\": \"What are the effects of State Sponsor of Wrongful Detention designation on detainee releases and bilateral bargaining?\"},{\"unit_ids\": [\"D3d5b4f7f4c.P002.S002\"], \"anchor\": null, \"reason\": \"Do passport travel restrictions to high-risk countries reduce wrongful detention of citizens abroad?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

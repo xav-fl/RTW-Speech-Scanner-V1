@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"c3ba52bcfc8f58d6\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This extension\",\n        \"insertion\": \"of current GLS Plus contracts for up to 12 months\",\n        \"evidence\": \"GSA successfully awarded nine GLS Interim contracts to current GLS Plus contract holders for up to 12 months\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

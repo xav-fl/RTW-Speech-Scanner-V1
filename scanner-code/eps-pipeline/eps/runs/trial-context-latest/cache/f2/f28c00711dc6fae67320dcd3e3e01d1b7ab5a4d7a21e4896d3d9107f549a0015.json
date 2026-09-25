@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"reallocation of public spending toward cost-effective programs\", \"codes\": [{\"code\": \"D61\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D23370e4b31.P005.S001\"], \"anchor\": null, \"reason\": \"Does embedding private-sector technology fellows in federal agencies improve agency performance or reduce skills gaps?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

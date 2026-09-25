@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"oil revenue licensing and sanctions relief to redirect petroleum proceeds\", \"codes\": [{\"code\": \"Q38\", \"strength\": 3}, {\"code\": \"F51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

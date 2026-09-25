@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/idaho-man-indicted-tax-evasion",
+ "institution_id": "us-justice",
+ "title": "Idaho Man Indicted For Tax Evasion",
+ "date": "2026-07-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "f14112e40dd8ccf70a26a71a140be7968622fcd52a1b966bba901946e7718253",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

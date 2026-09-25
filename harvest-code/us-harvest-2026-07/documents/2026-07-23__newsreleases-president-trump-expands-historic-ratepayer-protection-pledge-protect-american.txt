@@ -1,0 +1,27 @@
+WASHINGTON — Today at U.S. Environmental Protection Agency (EPA) Headquarters in Washington, D.C., President Donald J. Trump announced an expansion of his Ratepayer Protection Pledge. Today’s expansion includes governors, state legislators, developers, and power providers. President Trump’s Ratepayer Protection Pledge is safeguarding communities that choose to welcome data centers from utility price hikes.
+
+President Trump first announced the Ratepayer Protection Pledge in his State of the Union address on February 24, 2026.  On March 4, 2026, seven leading AI companies and hyperscalers — Amazon, Google, Meta, Microsoft, OpenAI, Oracle, and xAI — signed the Ratepayer Protection Pledge at the White House. Companies that sign the pledge are committing to build, bring, or buy all of the energy needed to power their facilities and to pay the full cost of that energy and its supporting infrastructure, no matter what. Ratepayer Protection Pledge extends those obligations across the full chain of parties whose decisions determine what a family pays each month: the electric utilities that set rates, the developers that build the facilities, and the States that regulate both.
+
+> The United States never settles for second, and we don’t under this administration... we live by the motto 'America First,
+
+said President Donald. J Trump.
+
+> Thanks in part to this incredible [AI] technology boom, investments are pouring into the United States from all over the world.
+
+> The global race for AI is underway, and America must win it — but not by asking working families to pay for it,
+
+said EPA Administrator Lee Zeldin.
+
+> Communities that welcome these facilities deserve every fact in front of them and every protection behind them. That is what the Trump EPA has delivered, and that is what Ratepayer Protection Pledge builds on. Our Team at EPA is honored to host President Trump, Secretary Wright, and many other distinguished guests, for today’s important announcement.
+
+At the March 4 signing, he issued a Proclamation declaring that the Pledge and the commitments it contains effectuate the national policy of the United States, and that signatories guarantee data centers' energy needs will not increase household electricity costs for American citizens. The Pledge commits signatories to five obligations: building, bringing, or buying new power supply; paying for all new power delivery infrastructure upgrades; paying negotiated rates whether or not they use the electricity; investing in local hiring and workforce development; and coordinating with grid operators to strengthen grid resilience, including by making backup generation available during periods of scarcity.
+
+That commitment builds on a broader record. In January 2026, the President's National Energy Dominance Council secured an agreement with Mid-Atlantic governors to drive more than $15 billion in new baseload generation through the PJM market — expected to be the single largest development of power plants in United States history — while capping what existing plants can be paid in the capacity market and requiring data centers to pay for the generation built on their behalf whether they use it or not. The President launched
+
+> Winning the Race: America's AI Action Plan
+
+in July 2025 to address the energy bottlenecks constraining American AI leadership, and has acted to expand nuclear capacity, keep reliable baseload generation online, and streamline permitting for energy infrastructure.
+
+EPA has advanced this work by making the rules of the road public and accessible before a shovel goes in the ground. In December 2025, EPA's Office of Air and Radiation launched the Clean Air Act Resources for Data Centers webpage, giving developers, local communities, and Tribes a single location for the regulatory information, permitting guidance, and air quality modeling tools relevant to these facilities. In May 2026, EPA launched the Permitting Authority Map, a public interactive tool that allows anyone to select a location and identify which agency — EPA, State, territorial, Tribal, or local — issues each environmental permit. EPA also published reuse considerations and a Redevelopment Mapper to help communities and developers evaluate Brownfield and Superfund sites for industrial reuse. Together these resources advance two pillars of Administrator Zeldin's Powering the Great American Comeback initiative: making America the AI capital of the world, and permitting reform through cooperative federalism.
+
+A facility that generates its own power, returns what it does not use to the grid, hires from the community it joins, and stands ready to keep the lights on when the system is under strain gives back to its community. The States and localities welcoming these facilities are building new generation their regions did not have before, putting their own residents to work, and ensuring that the infrastructure of the next century is built here at home — by American workers, powered by American energy.

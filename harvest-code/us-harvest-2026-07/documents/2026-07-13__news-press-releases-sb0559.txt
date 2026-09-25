@@ -1,0 +1,45 @@
+WASHINGTON — Today, the Office of Foreign Assets Control (OFAC) is designating two individuals and one entity enabling ransomware actors’ and other cybercriminals’ malign activities, notably ransomware attacks against Americans. These include First VPN Service (1VPNS), a virtual private network (VPN) provider selling services to ransomware groups, and its administrator, Dmytro Rashevskyi (Rashevskyi). OFAC is also designating Yegeniy Vladimirovich Silayev (Silayev), an individual who sells “cryptors,” which are tools used to disguise ransomware and other malware as safe programs to prevent security systems from detecting or deactivating them. Ransomware groups utilizing these individuals’ services have caused billions of dollars in losses to U.S. businesses and critical infrastructure providers.
+
+> Under President Trump’s leadership, Treasury is using every available tool to disrupt the cybercriminal ecosystem and protect the American people,
+
+said Gene Lange, who is performing the duties of the Under Secretary for Terrorism and Financial Intelligence.
+
+> We will continue targeting the actors who enable ransomware attacks against Americans and our critical infrastructure.
+
+This action is being coordinated with the United Kingdom’s Foreign, Commonwealth & Development Office (FCDO). Today, the FCDO is sanctioning other cybercriminals and their enablers. This action also follows a May 2026 takedown of 1VPNS’s website and other infrastructure by European law enforcement authorities, with the support of the Federal Bureau of Investigation’s (FBI) Boston Field Office. The FBI has also released a cybersecurity advisory describing 1VPNS’s tactics, techniques, and procedures to help U.S. and other businesses detect and prevent ransomware attacks. Click here to report cyber-enabled crime to the FBI.
+
+These designations are being issued in furtherance of President Trump’s Executive Order (E.O.) 14390 of March 6, 2026,
+
+> Combatting Cybercrime, Fraud, and Predatory Schemes Against American Citizens,
+
+which orders U.S. government agencies to take action to protect Americans from, and harden our financial and digital systems against, the threat posed by foreign actors engaged in cybercrime, cyber-enabled fraud, extortion, and predatory schemes. OFAC is designating these persons pursuant to E.O. 13694, as amended by E.O. 13757, E.O. 14144, and E.O. 14306 (
+
+> E.O. 13694, as amended
+
+).
+
+1VPNS: VPN SERVICE ENABLING RANSOMWARE OPERATIONS
+
+1VPNS is a VPN provider whose principal clients include ransomware actors and other cybercriminals. VPNs, which allow users to encrypt their internet traffic and hide their computers’ true location, have legitimate uses for privacy and security, but can support malicious activity if misused. Numerous ransomware groups have purchased infrastructure from 1VPNS, which they have leveraged in attacks on U.S. companies and institutions—including to hide the origins of their attacks, deploy malware, and manage exfiltrated data. Victims of ransomware attacks that involved the use of 1VPNS infrastructure have included U.S. businesses, financial services companies, hospitals, and municipal governments.
+
+1VPNS and its administrator, Rashevskyi, have provided this technological support to illicit actors. Since 2014, 1VPNS has advertised its services on multiple online cybercriminal forums, stating that it does not keep logs of users’ identities or activities, and that it refuses to cooperate with law enforcement investigations into illegal activity originating from the servers it rents to customers. Rashevskyi has used false identities, including “Maksim Sorin” and “Roman Chabanenko,” to buy infrastructure from companies that might otherwise refuse to do business with him because of complaints of abuse from internet service providers about illegal activity originating from 1VPNS servers.
+
+OFAC is designating 1VPNS and Rashevskyi pursuant to E.O. 13694, as amended, for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, cyber-enabled activities originating from, or directed by persons located, in whole or substantial part, outside the United States that are reasonably likely to result in, or have materially contributed to, a threat to the national security, foreign policy, or economic health or financial stability of the United States, and that have the purpose of or involve engaging in a ransomware attack, such as extortion through malicious use of code, encryption, or other activity to affect the confidentiality, integrity, or availability of data or a computer or network of computers, against a United States person, the United States, a United States ally or partner, or a citizen, national, or entity organized under the laws thereof.
+
+OTHER ENABLERS OF THE CYBERCRIME ECOSYSTEM
+
+In addition to 1VPNS and Rashevskyi, OFAC is designating Silayev, a Belarusian national and a cryptor provider who has supplied encryption and obfuscation services to ransomware operators targeting U.S. and allied entities. Unlike legitimate encryption tools, which are designed to protect data and the privacy of the people that own it, cryptors are built specifically to make malware stealthier and more effective by disguising it as harmless files.
+
+OFAC is designating Silayev pursuant to E.O. 13694, as amended, for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, cyber-enabled activities originating from, or directed by persons located, in whole or substantial part, outside the United States that are reasonably likely to result in, or have materially contributed to, a threat to the national security, foreign policy, or economic health or financial stability of the United States, and that have the purpose of or involve engaging in a ransomware attack, such as extortion through malicious use of code, encryption, or other activity to affect the confidentiality, integrity, or availability of data or a computer or network of computers, against a United States person, the United States, a United States ally or partner, or a citizen, national, or entity organized under the laws thereof.
+
+SANCTIONS IMPLICATIONS
+
+As a result of today’s action, all property and interests in property of the designated or blocked persons described above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC. In addition, any entities that are owned, directly or indirectly, individually or in the aggregate, 50 percent or more by one or more blocked persons are also blocked. Unless authorized by OFAC, or exempt, OFAC’s regulations generally prohibit all transactions by U.S. persons or within (or transiting) the United States that involve any property or interests in property of blocked persons.
+
+Violations of U.S. sanctions may result in the imposition of civil or criminal penalties on U.S. and foreign persons. OFAC may impose civil penalties for sanctions violations on a strict liability basis. OFAC’s Economic Sanctions Enforcement Guidelines provide more information regarding OFAC’s enforcement of U.S. economic sanctions. In addition, financial institutions and other persons may risk exposure to sanctions for engaging in certain transactions or activities involving designated or otherwise blocked persons. The prohibitions include the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any designated or blocked person, or the receipt of any contribution or provision of funds, goods, or services from any such person. Non-U.S. persons are also prohibited from causing or conspiring to cause U.S. persons to wittingly or unwittingly violate U.S. sanctions, as well as engaging in conduct that evades U.S. sanctions. Individuals located in the United States or abroad who provide information about sanctions violations to Treasury’s Financial Crimes Enforcement Network’s whistleblower incentive program may be eligible for awards if the information they provide leads to a successful enforcement action that results in monetary penalties exceeding $1,000,000.
+
+The power and integrity of OFAC sanctions derive not only from OFAC’s ability to designate and add persons to the SDN List, but also from its willingness to remove persons from the SDN List consistent with the law. The ultimate goal of sanctions is not to punish, but to bring about a positive change in behavior. For information concerning the process for seeking removal from an OFAC list, including the SDN List, or to submit a request, please refer to OFAC’s guidance on Filing a Petition for Removal from an OFAC List.
+
+Click here for more information on the individuals and entities designated or otherwise blocked today.
+
+###

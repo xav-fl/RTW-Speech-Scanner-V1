@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"enforcement of oil sanctions via legal seizure of vessels\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"Q35\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

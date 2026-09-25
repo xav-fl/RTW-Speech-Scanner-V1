@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5848a52ebc.P020.S001\", \"D5848a52ebc.P020.S002\"], \"anchor\": null, \"reason\": \"Does reinterpreting Title IX enforcement based on biological sex affect female athletes' access and outcomes in education?\"},{\"unit_ids\": [\"D5848a52ebc.P021.S001\", \"D5848a52ebc.P021.S002\"], \"anchor\": null, \"reason\": \"Does a joint Education-DOJ Title IX Special Investigations Team improve enforcement speed and compliance outcomes?\"},{\"unit_ids\": [\"D5848a52ebc.P023.S001\", \"D5848a52ebc.P023.S002\", \"D5848a52ebc.P023.S003\", \"D5848a52ebc.P023.S004\"], \"anchor\": null, \"reason\": \"What are the effects of Title IX settlement agreements on university policies and female athletes' competitive opportunities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

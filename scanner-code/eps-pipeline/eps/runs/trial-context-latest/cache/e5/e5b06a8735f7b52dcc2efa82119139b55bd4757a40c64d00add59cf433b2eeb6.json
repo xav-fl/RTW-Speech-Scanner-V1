@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D46e8a0d9cd.P005.S001\"], \"anchor\": null, \"reason\": \"Do permanent tax cuts increase workers' take-home pay, small business activity, and economic growth?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

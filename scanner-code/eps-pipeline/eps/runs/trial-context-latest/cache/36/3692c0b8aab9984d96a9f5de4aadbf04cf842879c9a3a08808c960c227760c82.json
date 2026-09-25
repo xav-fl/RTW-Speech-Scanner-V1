@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6e7c4368f7.P004.S002\"], \"anchor\": null, \"reason\": \"Does targeted financial support for independent beef processors increase competition and market options for ranchers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

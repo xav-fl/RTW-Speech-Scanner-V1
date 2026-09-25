@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D44eb79226e.P004.S001\", \"D44eb79226e.P004.S002\"], \"anchor\": null, \"reason\": \"Do government supplier matchmaking programmes increase small business revenues and domestic manufacturing capacity in strategic sectors?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

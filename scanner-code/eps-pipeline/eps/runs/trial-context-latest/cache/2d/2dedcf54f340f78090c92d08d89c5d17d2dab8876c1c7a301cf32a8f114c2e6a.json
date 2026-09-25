@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"expanding government export credit agency lending capacity\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"H81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

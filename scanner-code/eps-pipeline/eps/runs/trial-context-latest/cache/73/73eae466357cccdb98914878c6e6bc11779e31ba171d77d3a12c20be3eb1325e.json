@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dee48f5d7d7.P006.S001\"], \"anchor\": null, \"reason\": \"Does choosing the Vine Street site for the Chattanooga courthouse minimise costs and construction time compared to alternatives?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

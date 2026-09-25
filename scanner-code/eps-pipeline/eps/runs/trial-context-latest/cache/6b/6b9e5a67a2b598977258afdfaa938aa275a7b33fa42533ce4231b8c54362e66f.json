@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3b8d4d3a7c.P004.S001\", \"D3b8d4d3a7c.P004.S002\"], \"anchor\": null, \"reason\": \"Does a 90% federal loan guarantee for food-supply-chain small businesses increase capital access and lower grocery prices?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

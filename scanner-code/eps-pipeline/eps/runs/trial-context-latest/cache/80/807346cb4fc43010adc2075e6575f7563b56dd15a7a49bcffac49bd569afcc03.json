@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Ddb216b8318.P021.S001\", \"Ddb216b8318.P021.S002\", \"Ddb216b8318.P021.S003\", \"Ddb216b8318.P021.S004\", \"Ddb216b8318.P021.S005\"], \"anchor\": null, \"reason\": \"Does a government-guaranteed £11bn bank lending package increase small firms' international growth and exports?\"},{\"unit_ids\": [\"Ddb216b8318.P025.S001\"], \"anchor\": null, \"reason\": \"Does expanding UK Export Finance's lending scope beyond £80bn increase exports and business growth?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df8a36ce3c2.P001.S001\"], \"anchor\": null, \"reason\": \"What are the economic effects of terrorist designation on a group's financing and operational capacity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

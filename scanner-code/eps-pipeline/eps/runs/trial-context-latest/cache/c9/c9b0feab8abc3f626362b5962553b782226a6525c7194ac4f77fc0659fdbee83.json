@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"b113d11d9bac1310\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is self-contained. 'A Dear Colleague Letter' is sufficiently identified by its context — it reiterates what federal courts had ruled about the Biden Administration's Title IX re-write — and does not require a referent to be understood on its own.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

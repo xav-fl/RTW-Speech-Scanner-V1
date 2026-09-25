@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5a32b773d6.P019.S001\"], \"anchor\": \"the government introduced a 'Clean Industry Bonus' - a financial incentive to support developers who invest in UK supply chains, and in cleaner factories\", \"reason\": \"Does a financial bonus for domestic supply chain investment in renewables auctions increase UK manufacturing jobs and output?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

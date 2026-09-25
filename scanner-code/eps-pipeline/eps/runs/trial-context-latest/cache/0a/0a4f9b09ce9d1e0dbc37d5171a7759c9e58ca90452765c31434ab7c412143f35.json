@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2675c334b0.P005.S001\"], \"anchor\": null, \"reason\": \"Did Housing First policies reduce homelessness compared to alternative approaches?\"},{\"unit_ids\": [\"D2675c334b0.P007.S001\"], \"anchor\": null, \"reason\": \"Do HUD programs emphasising recovery and self-sufficiency reduce homelessness more effectively than Housing First?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,65 @@
+{
+ "url": "https://www.energy.gov/articles/energy-dominance-financing-office-celebrates-one-year-passage-working-families-tax-cuts",
+ "institution_id": "us-energy",
+ "title": "Energy Dominance Financing Office Celebrates One Year Since Passage of the Working Families Tax Cuts Act",
+ "date": "2026-07-02",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "63770874bb577b5755b436776a3a12bbf0ce89ad0215931eb9eced1412388ed6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "EDF Director Gregory A. Beard",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "EDF Director Gregory A. Beard",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

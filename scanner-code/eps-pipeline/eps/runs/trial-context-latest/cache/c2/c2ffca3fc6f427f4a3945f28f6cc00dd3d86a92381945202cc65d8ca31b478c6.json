@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"place-based land use planning for food production and public goods\", \"codes\": [{\"code\": \"Q15\", \"strength\": 3}, {\"code\": \"Q18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

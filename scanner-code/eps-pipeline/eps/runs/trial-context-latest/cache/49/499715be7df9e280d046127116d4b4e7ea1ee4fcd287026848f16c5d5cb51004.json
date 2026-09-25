@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government-funded extracurricular enrichment activities for schoolchildren\", \"codes\": [{\"code\": \"I21\", \"strength\": 3}, {\"code\": \"I28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

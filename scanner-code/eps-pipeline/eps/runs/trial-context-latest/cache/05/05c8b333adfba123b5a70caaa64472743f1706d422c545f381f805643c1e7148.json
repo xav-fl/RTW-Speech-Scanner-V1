@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"planning regulation changes for agricultural infrastructure\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"R52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

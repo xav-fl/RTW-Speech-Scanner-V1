@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D955433fd19.P009.S001\"], \"anchor\": null, \"reason\": \"Does opening federal lands in Alaska to energy and mineral development lower costs for American families?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

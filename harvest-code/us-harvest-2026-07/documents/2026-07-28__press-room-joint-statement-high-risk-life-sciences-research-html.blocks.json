@@ -1,0 +1,35 @@
+{
+ "url": "https://www.hhs.gov/press-room/joint-statement-high-risk-life-sciences-research.html",
+ "institution_id": "us-hhs",
+ "title": "Joint Statement on the United States Government Policy for Stopping High-Risk Life Sciences Research",
+ "date": "2026-07-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "5283e418e988db44d29b27b5ab88103848fbd24cb5924d2200261f951694cf81",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Deef851fba6.P008.S001\"], \"anchor\": null, \"reason\": \"Does directing $110M toward AI-enabled data and research accelerate scientific discovery or improve resource management outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

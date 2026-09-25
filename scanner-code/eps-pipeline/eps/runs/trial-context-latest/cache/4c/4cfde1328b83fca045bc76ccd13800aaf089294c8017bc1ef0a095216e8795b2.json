@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2e29e3f79c.P004.S001\"], \"anchor\": null, \"reason\": \"Does restricting SBA loan access to citizens only affect small business formation, capital access, or job creation?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D10ae9cd0e1.P004.S001\", \"D10ae9cd0e1.P004.S002\"], \"anchor\": null, \"reason\": \"Does a voluntary pledge encouraging hospitals to serve minimally processed meals reduce chronic disease or shorten patient recovery times?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

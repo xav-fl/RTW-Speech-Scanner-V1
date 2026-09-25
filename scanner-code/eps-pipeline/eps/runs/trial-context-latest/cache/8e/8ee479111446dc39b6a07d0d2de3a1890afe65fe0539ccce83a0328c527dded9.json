@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"international security force support to suppress gang/terrorist violence\", \"codes\": [{\"code\": \"F35\", \"strength\": 2}, {\"code\": \"D74\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

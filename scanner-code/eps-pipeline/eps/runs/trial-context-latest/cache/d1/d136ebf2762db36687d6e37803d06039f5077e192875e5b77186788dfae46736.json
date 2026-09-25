@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd961046829.P004.S001\"], \"anchor\": null, \"reason\": \"Do tax cuts, deregulation, and trade policy changes improve small business performance and growth?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

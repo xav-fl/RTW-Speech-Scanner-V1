@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D520986ae9b.P005.S002\"], \"anchor\": null, \"reason\": \"Does freezing fraudulent UI prepaid accounts and pursuing recovery deter pandemic-era benefit fraud and recover taxpayer funds?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

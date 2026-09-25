@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"61f936e17253a326\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"change that\",\n        \"insertion\": \"— the lack of high-quality resources to teach rights and laws\",\n        \"evidence\": \"too many schools have lacked the high-quality resources to teach that with confidence\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

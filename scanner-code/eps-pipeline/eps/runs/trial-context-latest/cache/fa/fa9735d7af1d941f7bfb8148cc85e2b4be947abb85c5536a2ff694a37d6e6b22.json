@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"cross-border sewage pollution control infrastructure agreement\", \"codes\": [{\"code\": \"Q58\", \"strength\": 3}, {\"code\": \"F51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

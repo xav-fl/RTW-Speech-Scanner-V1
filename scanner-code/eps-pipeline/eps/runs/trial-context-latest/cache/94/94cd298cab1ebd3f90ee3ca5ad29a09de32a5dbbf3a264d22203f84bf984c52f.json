@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"1ce6548c45aa3921\",\n    \"status\": \"unresolved\",\n    \"insertions\": [],\n    \"note\": \"The document mentions 'our 2050 freight target' but provides no further detail about what that target is. The referent cannot be identified with confidence from the document alone.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

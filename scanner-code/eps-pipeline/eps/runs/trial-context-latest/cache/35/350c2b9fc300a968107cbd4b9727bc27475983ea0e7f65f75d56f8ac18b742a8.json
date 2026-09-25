@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"a3d66c980c98bdac\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"our tax cuts\",\n        \"insertion\": \", cutting VAT from 20% to 5% on eligible activities,\",\n        \"evidence\": \"the Chancellor cut VAT from 20% to 5% on eligible activities including family tickets to the cinema, admission tickets for both children and adults to amusement parks, and children's meals in restaurants\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

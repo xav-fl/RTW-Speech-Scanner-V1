@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"9abf50a6fc649b17\",\n    \"status\": \"unresolved\",\n    \"insertions\": [],\n    \"note\": \"The document does not name or describe the specific legislation introduced weeks after entering office beyond this reference; no further identifying detail is available to resolve it.\"\n  },\n  {\n    \"quote_id\": \"1ce6548c45aa3921\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is self-contained; '2050 freight target' is sufficiently clear on its own and the document provides no additional detail to add.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

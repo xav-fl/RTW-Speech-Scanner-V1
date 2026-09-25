@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal funding to rural communities for public safety, infrastructure, and education\", \"codes\": [{\"code\": \"H76\", \"strength\": 3}, {\"code\": \"R58\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

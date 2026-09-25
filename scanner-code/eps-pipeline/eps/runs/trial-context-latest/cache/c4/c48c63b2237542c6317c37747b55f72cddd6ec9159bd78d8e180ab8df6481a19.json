@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1719314956.P011.S001\", \"D1719314956.P013.S001\"], \"anchor\": null, \"reason\": \"Does milestone-driven funding for independent research teams outside traditional institutions accelerate breakthrough science and technology commercialisation?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

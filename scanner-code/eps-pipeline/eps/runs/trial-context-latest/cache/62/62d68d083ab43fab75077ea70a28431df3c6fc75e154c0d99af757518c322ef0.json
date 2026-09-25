@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"temporary sanctions relief on oil in transit to expand buyer eligibility\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"Q35\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

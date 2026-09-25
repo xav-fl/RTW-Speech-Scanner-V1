@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal land opening for energy and mineral resource development\", \"codes\": [{\"code\": \"Q38\", \"strength\": 3}, {\"code\": \"Q28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

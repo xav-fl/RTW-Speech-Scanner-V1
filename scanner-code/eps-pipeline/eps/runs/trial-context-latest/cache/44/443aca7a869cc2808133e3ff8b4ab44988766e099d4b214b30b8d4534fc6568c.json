@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De32cb32681.P009.S001\", \"De32cb32681.P009.S002\"], \"anchor\": null, \"reason\": \"Does intensified maritime drug interdiction reduce cocaine supply and harm in US communities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

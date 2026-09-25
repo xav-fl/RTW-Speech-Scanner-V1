@@ -1,0 +1,47 @@
+{
+ "url": "https://legacy.sba.gov/article/2026/07/08/how-trump-accounts-platform-reshape-small-business-finance",
+ "institution_id": "us-sba",
+ "title": "How Trump Accounts Platform reshape small business finance",
+ "date": "2026-07-08",
+ "date_source": "metadata",
+ "source_document_type": "Op-ed",
+ "text_sha256": "7666b728f0ec6a88eeff4ff8fed236bf47b63037a6ea3c1108ced8db7c26b22f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7b01911df4.P004.S001\", \"D7b01911df4.P004.S002\"], \"anchor\": null, \"reason\": \"Does devolving CCR permitting authority to states promote energy sector employment and economic growth?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

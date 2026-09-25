@@ -1,0 +1,59 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0574/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States",
+ "date": "2026-07-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "68467cb13ac8fbb45ccf96d1e757a649b847d4094d706458915c949464c7b95d",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Secretary of the Treasury Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"humanitarian aid channeled through religious NGO to population\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

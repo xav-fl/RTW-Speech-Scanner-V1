@@ -1,0 +1,23 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0570/",
+ "institution_id": "us-treasury",
+ "title": "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Pakistan's Federal Minister for Finance and Revenue Muhammad Aurangzeb",
+ "date": "2026-07-22",
+ "date_source": "metadata",
+ "source_document_type": "Readouts",
+ "text_sha256": "9603b63d6f2904d7be1a7b67314bc9e74bb50c18473f1281889d14f36dd83fc4",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

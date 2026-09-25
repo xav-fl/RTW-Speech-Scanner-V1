@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"33bb83c80a4f8f12\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"Jonathan Hall therefore recommended\",\n        \"insertion\": \", the Independent Reviewer of Terrorism Legislation,\",\n        \"evidence\": \"the Government commissioned Jonathan Hall KC – the Independent Reviewer of Terrorism Legislation\"\n      },\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This legislation\",\n        \"insertion\": \"creating a new offence for planning an attack without an underlying ideology\",\n        \"evidence\": \"Unlike terrorist attacks, if you are planning an attack without an underlying ideology, there is no crime on the statute book. Jonathan Hall therefore recommended the creation of a new offence.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

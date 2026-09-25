@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory waivers to ease fertilizer supply for farmers\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"Q12\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

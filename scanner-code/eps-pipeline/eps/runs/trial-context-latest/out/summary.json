@@ -1,0 +1,61 @@
+{
+  "documents_screened": 93,
+  "documents_with_observations": 80,
+  "observations_kept": 221,
+  "observations_rejected": 24,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 83,
+    "officeholder_table": 10
+  },
+  "reject_reasons": {
+    "unit_ids span a paragraph boundary": 9,
+    "passage is not attributable to the speaker": 7,
+    "JEL classification failed validation: no defensible economic object: classifier assigned no JEL code": 5,
+    "unit_ids are not contiguous": 2,
+    "anchor phrase does not appear exactly in the units": 1
+  },
+  "by_institution": {
+    "Home Office": 24,
+    "HM Treasury": 20,
+    "Department for Science, Innovation and Technology": 17,
+    "Ministry of Housing, Communities and Local Government": 15,
+    "Department for Environment, Food and Rural Affairs": 14,
+    "Department for Education": 12,
+    "Ministry of Defence": 10,
+    "Ministry of Justice": 10,
+    "Cabinet Office": 9,
+    "Department for Transport": 9,
+    "Department of State": 8,
+    "Foreign, Commonwealth and Development Office": 7,
+    "Department for Work and Pensions": 6,
+    "Department of Education": 6,
+    "Department for Business and Trade": 5,
+    "Department of Health and Human Services": 4,
+    "Department of Health and Social Care": 4,
+    "Department of Homeland Security": 4,
+    "Department of Agriculture": 3,
+    "Department of Energy": 3,
+    "Department of Housing and Urban Development": 3,
+    "Department of the Interior": 3,
+    "General Services Administration": 3,
+    "National Aeronautics and Space Administration": 3,
+    "Scotland Office": 3,
+    "Small Business Administration": 3,
+    "Department for Energy Security and Net Zero": 2,
+    "Environmental Protection Agency": 2,
+    "National Science Foundation": 2,
+    "Social Security Administration": 2,
+    "Attorney General's Office": 1,
+    "Department of Justice": 1,
+    "Department of Labor": 1,
+    "Department of the Treasury": 1,
+    "Office of Personnel Management": 1
+  },
+  "files": {
+    "dataset": "runs\\trial-context-v1\\out\\dataset.csv",
+    "internal": "runs\\trial-context-v1\\out\\observations_internal.csv",
+    "screening_log": "runs\\trial-context-v1\\out\\screening_log.csv",
+    "rejected": "runs\\trial-context-v1\\out\\rejected.csv"
+  }
+}

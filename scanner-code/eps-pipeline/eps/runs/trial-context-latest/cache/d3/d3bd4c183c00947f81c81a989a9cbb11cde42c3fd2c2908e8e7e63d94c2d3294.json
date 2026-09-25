@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"aa9526658c26927b\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"these reforms\",\n        \"insertion\": \"replacing non-crime hate incidents (NCHIs) with a new system,\",\n        \"evidence\": \"NCHIs will be replaced with a system that lets police get on with their jobs – preventing and fighting real criminals to make communities safer.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

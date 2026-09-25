@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"D55f4a1da6c.P010.S001\", \"D55f4a1da6c.P010.S002\"], \"anchor\": null, \"reason\": \"Does £30bn integrated transport investment improve journey reliability, accessibility, and affordability for passengers?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"44ba6845a818511c\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The phrase 'the disadvantage gap' is self-explanatory in context and widely understood as the gap in educational outcomes between disadvantaged and other children. No referent is needed to identify what the quotation is about.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

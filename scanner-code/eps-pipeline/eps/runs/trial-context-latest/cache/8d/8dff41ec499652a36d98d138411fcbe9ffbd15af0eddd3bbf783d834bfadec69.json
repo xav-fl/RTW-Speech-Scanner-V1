@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"SBA working capital loans enabling small manufacturers to reshore supply chains and hire workers\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"L52\", \"strength\": 2}, {\"code\": \"H81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

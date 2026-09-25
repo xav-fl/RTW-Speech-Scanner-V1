@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"livestock inspection protocol at border crossing to prevent screwworm in cattle trade\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"F13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Daeff10c082.P004.S001\", \"Daeff10c082.P004.S002\"], \"anchor\": null, \"reason\": \"Do DOE conditional loans for nuclear supply chain long-lead items reduce construction costs and accelerate reactor deployment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

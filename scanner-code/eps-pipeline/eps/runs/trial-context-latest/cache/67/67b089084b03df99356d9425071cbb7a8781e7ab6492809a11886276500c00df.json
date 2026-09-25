@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9bfc97fc52.P003.S001\", \"D9bfc97fc52.P005.S001\"], \"anchor\": null, \"reason\": \"Does accelerated disposal of underutilised federal properties reduce maintenance costs and generate net value for taxpayers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

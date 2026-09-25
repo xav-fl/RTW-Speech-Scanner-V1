@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd340fcb8a6.P010.S001\"], \"anchor\": null, \"reason\": \"Does transferring special education oversight to HHS and civil rights enforcement to DOJ improve outcomes for students with disabilities?\"},{\"unit_ids\": [\"Dd340fcb8a6.P019.S001\", \"Dd340fcb8a6.P019.S002\", \"Dd340fcb8a6.P019.S003\"], \"anchor\": null, \"reason\": \"Does increasing federal special education funding and reducing paperwork burdens improve student outcomes and teacher effectiveness?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

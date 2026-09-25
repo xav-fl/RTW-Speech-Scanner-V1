@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0434924ddb.P002.S001\", \"D0434924ddb.P002.S002\"], \"anchor\": null, \"reason\": \"Does clarifying that the Clean Air Act permits independent repairs reduce costs and increase competition in farm equipment repair markets?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

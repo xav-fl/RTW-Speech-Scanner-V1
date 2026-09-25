@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"1d5264c021216e24\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"deploying America's leading nuclear technology\",\n        \"insertion\": \"at the Jaslovské Bohunice Nuclear Power Plant in Slovakia,\",\n        \"evidence\": \"the development of a new, state-owned American 1,200 MWe nuclear unit at the Jaslovské Bohunice Nuclear Power Plant\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

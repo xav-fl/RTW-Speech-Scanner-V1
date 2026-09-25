@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1e3bd88e37.P002.S003\"], \"anchor\": null, \"reason\": \"Does federal enforcement of parental notification rights in schools affect student gender-related outcomes or school behaviour?\"},{\"unit_ids\": [\"D1e3bd88e37.P004.S002\"], \"anchor\": null, \"reason\": \"What are the effects of federal accountability mechanisms on state compliance with parental rights laws in education?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

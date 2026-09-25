@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D861be69f69.P005.S002\"], \"anchor\": \"The Trump Administration has already saved more than 15 GW of reliable coal power from shutting down and is working alongside American workers and the entire coal industry to ensure coal continues to be mined in the United States and continues to help provide reliable power to the American people.\", \"reason\": \"What are the economic effects of preventing coal plant closures on energy prices, employment, and grid reliability?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

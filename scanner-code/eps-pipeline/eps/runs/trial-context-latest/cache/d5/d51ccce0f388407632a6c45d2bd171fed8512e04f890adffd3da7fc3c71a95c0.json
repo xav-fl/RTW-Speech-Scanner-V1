@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7c05750415.P013.S002\"], \"anchor\": null, \"reason\": \"Does capping ground rent at £250 save leaseholders money and improve housing market liquidity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

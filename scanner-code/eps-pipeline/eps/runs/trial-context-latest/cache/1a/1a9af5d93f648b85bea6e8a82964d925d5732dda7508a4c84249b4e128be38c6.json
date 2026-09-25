@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"33bb83c80a4f8f12\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"This legislation\",\n        \"insertion\": \"creating the new offence\",\n        \"evidence\": \"Jonathan Hall therefore recommended the creation of a new offence. This legislation will also be brought forward as soon as parliamentary time allows.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

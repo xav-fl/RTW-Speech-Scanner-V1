@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal enforcement of parental rights in schools\", \"codes\": [{\"code\": \"I28\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

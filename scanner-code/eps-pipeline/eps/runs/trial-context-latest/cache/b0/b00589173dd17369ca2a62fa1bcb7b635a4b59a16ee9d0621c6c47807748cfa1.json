@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8b027e44ce.P002.S001\"], \"anchor\": null, \"reason\": \"Does supporting a Gang Suppression Force alongside Haitian security forces reduce gang violence and improve public safety?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

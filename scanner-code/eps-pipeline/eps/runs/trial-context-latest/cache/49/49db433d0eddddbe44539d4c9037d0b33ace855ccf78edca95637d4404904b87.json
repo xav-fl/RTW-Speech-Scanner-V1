@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"afdfb7ff8d46b4fb\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"They need investment\",\n        \"insertion\": \", Venezuela's oil fields,\",\n        \"evidence\": \"All those oilfields that used to produce a lot — and wealth for their country and their people, those things are decrepit. They're bankrupt. They need to be reinvested in.\"\n      },\n      {\n        \"anchor\": \"That has to go\",\n        \"insertion\": \", the investment and resulting wealth,\",\n        \"evidence\": \"Right now, all of that wealth is stolen. It's stolen and it goes into the hands of oligarchs around the world and the oligarchs inside of Venezuela.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

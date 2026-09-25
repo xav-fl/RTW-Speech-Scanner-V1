@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"eligibility restriction for federally-insured mortgages and public housing based on immigration status\", \"codes\": [{\"code\": \"R38\", \"strength\": 3}, {\"code\": \"F22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9698c83dac.P003.S001\", \"D9698c83dac.P005.S001\"], \"anchor\": null, \"reason\": \"Does employment-focused grant funding for homeless veterans reduce veteran homelessness and improve workforce reintegration?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

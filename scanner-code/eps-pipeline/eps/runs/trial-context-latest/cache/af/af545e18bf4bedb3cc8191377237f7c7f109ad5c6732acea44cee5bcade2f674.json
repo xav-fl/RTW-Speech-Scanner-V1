@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Daf79fa7ada.P001.S002\", \"Daf79fa7ada.P001.S003\"], \"anchor\": null, \"reason\": \"Do visa restrictions on officials who compromise telecoms infrastructure deter such activities and improve regional security?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

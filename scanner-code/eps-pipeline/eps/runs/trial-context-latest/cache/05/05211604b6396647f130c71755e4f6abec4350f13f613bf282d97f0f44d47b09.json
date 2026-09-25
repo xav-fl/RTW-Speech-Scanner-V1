@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"D29ca71596b.P003.S001\", \"D29ca71596b.P003.S002\"], \"anchor\": null, \"reason\": \"Does expanding domestic fertilizer production reduce farmer input costs and dependence on foreign suppliers?\"},{\"unit_ids\": [\"D29ca71596b.P005.S001\"], \"anchor\": null, \"reason\": \"Does rebuilding domestic fertilizer manufacturing improve supply chain resilience and lower costs for farmers?\"},{\"unit_ids\": [\"D29ca71596b.P005.S003\"], \"anchor\": null, \"reason\": \"Does a fertilizer investment program focused solely on production lower costs for farmers and consumers?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

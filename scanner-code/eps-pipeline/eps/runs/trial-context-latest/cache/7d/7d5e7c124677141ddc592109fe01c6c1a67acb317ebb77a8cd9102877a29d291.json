@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D06e5f96c58.P004.S001\"], \"anchor\": null, \"reason\": \"Does expanding CCBHC Demonstration to new states improve access to and outcomes of mental health and addiction treatment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

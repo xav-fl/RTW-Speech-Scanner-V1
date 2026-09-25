@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"696761ea347dc692\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this operation\",\n        \"insertion\": \"to intercept the Motor Vessel BELLA 1 in the North Atlantic\",\n        \"evidence\": \"the US conducted a military operation to intercept the Motor Vessel BELLA 1 in the North Atlantic during its voyage to Russia\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"a2a1a8ec989f91aa\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on the UK and France's \\\"leading role\\\" commitments in the Coalition of the Willing Declaration of Intent\",\n        \"evidence\": \"Yesterday's Declaration advances our work significantly. It confirms the UK and France will a \\\"take a leading role\\\" in:\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,25 @@
+The Justice Department’s Civil Rights Division announced today a finding that the University of California San Diego School of Medicine (San Diego Med) used race in its admissions process in violation of Title VI of the Civil Rights Act of 1964, which prohibits discrimination on the basis of race, color, or national origin, and the U.S. Supreme Court’s 2023 decision in Students for Fair Admissions v. Harvard (SFFA), which banned race discrimination in higher education.
+
+> Rather than rely on MCAT scores or GPA, San Diego Med’s shadow application process unlawfully judged applicants for admission based on their race,
+
+said Assistant Attorney General Harmeet K. Dhillon of the Justice Department’s Civil Rights Division.
+
+> San Diego Med’s blatant efforts to prioritize race are illegal, and we will end these practices.
+
+The Department’s investigation found that San Diego Med manipulated applicant data to achieve greater racial diversity in student admissions. San Diego Med’s documents show that admissions staff used purportedly “race-neutral” subjective criteria to deliberately increase admission of so-called
+
+> underrepresented minorities in medicine
+
+(URM), which includes black and Hispanic applicants. In fact, San Diego Med used racial proxies, which, under SFFA, are banned by Title VI.
+
+One example includes San Diego Med’s admissions staff using answers to “hardship” application questions — which allow applicants to address how they “overcame” certain disadvantages — to help determine which students were URM applicants. Thereafter, the admissions staff sorted applicants into six categories: Groups A-C — from highest to lowest MCAT scores and GPA, with “hardship” subgroups for each group. Each group and its subgroup were combined (e.g., “Group A” plus
+
+> Group A with hardship
+
+), further sorted into “batches” of 30, and then rated for the interview stage. By giving reviewers access to the applicant’s race during this stage for certain admissions cycles post- SFFA, San Diego Med ensured that more URM applicants would be invited to interview. Thus, San Diego Med deliberately used the “hardship” categorization to skirt SFFA, by putting more URMs into the subgroups, which ensured that more URMs received interviews.
+
+The result of San Diego Med’s manipulation: white and Asian applicants were denied admission in favor of lower-credentialed black and Hispanic applicants.
+
+Medical schools receive substantial federal financial assistance and are subject to federal non-discrimination laws. The Department will continue to monitor and ensure their compliance with Title VI and SFFA ’s prohibition on race-conscious admissions. Where a violation has been found, the Department is engaging in settlement negotiations to ensure the school’s admissions practices are brought into compliance. If those efforts fail, the Department will file suit.
+
+Note: Read the Department’s Findings Letter here.

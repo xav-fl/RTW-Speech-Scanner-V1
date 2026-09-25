@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory fines on digital platforms based on global revenue\", \"codes\": [{\"code\": \"L86\", \"strength\": 3}, {\"code\": \"L51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

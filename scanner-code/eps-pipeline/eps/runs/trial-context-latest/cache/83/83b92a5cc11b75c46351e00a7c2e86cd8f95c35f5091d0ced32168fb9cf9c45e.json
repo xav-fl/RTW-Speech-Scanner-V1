@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dfbc0ccaeb9.P003.S001\"], \"anchor\": null, \"reason\": \"Does increased IDEA funding improve educational outcomes or service access for students with disabilities?\"},{\"unit_ids\": [\"Dfbc0ccaeb9.P005.S001\"], \"anchor\": null, \"reason\": \"Does pre-birth support for parents of children with disabilities improve early intervention uptake and child outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

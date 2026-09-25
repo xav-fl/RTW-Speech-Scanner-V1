@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"86ece9d9427230a7\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On the Schedule Policy/Career final rule:\",\n        \"evidence\": \"The US Office of Personnel Management (OPM) today announced the final rule establishing Schedule Policy/Career in the excepted service\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

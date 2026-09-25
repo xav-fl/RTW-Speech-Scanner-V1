@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"087be05deda98a9c\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on the UK's resolve to confront Russian aggression\",\n        \"evidence\": \"Our resolve to track, expose and confront the Russian threat remains absolute.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

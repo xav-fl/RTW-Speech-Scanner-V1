@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"enforcement-induced voluntary emigration\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"F22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

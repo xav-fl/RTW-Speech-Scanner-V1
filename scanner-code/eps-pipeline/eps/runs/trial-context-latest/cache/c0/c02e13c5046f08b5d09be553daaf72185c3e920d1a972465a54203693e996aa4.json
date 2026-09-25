@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc2bae59370.P007.S003\"], \"anchor\": null, \"reason\": \"Does removing risk-based CAA 112(f)(2) standards for EtO sterilizers affect community health outcomes and compliance costs?\"},{\"unit_ids\": [\"Dc2bae59370.P007.S004\", \"Dc2bae59370.P007.S005\"], \"anchor\": null, \"reason\": \"Does giving sterilization facilities flexibility between monitoring systems and technology standards reduce costs while maintaining air quality?\"},{\"unit_ids\": [\"Dc2bae59370.P009.S001\"], \"anchor\": null, \"reason\": \"Do the proposed EtO rule amendments deliver $630 million in cost savings over 20 years without compromising health protection?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

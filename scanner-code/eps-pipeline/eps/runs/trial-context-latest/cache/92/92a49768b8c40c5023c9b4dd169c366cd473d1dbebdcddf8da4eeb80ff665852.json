@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db16a251d92.P004.S001\", \"Db16a251d92.P004.S002\"], \"anchor\": null, \"reason\": \"Does selling underutilized federal properties reduce government real estate costs and deliver taxpayer savings?\"},{\"unit_ids\": [\"Db16a251d92.P006.S001\"], \"anchor\": null, \"reason\": \"What are the fiscal savings to taxpayers from selling vacant federal office buildings?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

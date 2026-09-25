@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9980bc5c08.P004.S001\", \"D9980bc5c08.P004.S002\"], \"anchor\": null, \"reason\": \"Does expanding U.S. LNG export capacity lower global energy prices or improve energy security for importing countries?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

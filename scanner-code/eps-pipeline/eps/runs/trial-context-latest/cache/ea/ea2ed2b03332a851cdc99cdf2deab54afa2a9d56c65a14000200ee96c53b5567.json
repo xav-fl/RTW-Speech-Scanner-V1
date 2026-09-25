@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd52380afed.P002.S001\"], \"anchor\": null, \"reason\": \"Does federal grid modernisation investment improve long-term electricity reliability and resilience in Puerto Rico?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

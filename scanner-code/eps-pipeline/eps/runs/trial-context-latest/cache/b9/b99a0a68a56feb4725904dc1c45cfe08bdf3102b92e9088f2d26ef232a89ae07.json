@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"revocation of regulatory finding on greenhouse gas harm\", \"codes\": [{\"code\": \"Q58\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"allowing retirement plans to include broader investment product options\", \"codes\": [{\"code\": \"G11\", \"strength\": 3}, {\"code\": \"J32\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

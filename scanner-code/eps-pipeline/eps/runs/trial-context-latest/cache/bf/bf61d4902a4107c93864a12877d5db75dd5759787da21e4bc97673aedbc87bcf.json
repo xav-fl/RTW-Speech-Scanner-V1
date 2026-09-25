@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db5bb4c1aa4.P004.S001\", \"Db5bb4c1aa4.P004.S002\"], \"anchor\": null, \"reason\": \"Does increased SBA fraud enforcement and clawback activity deter pandemic-era and contracting fraud and recover taxpayer funds?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public ownership of rail transport\", \"codes\": [{\"code\": \"L92\", \"strength\": 3}, {\"code\": \"L33\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

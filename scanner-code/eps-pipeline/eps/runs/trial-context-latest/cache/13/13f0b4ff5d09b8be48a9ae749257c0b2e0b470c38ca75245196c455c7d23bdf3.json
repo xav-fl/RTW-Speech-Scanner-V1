@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"age verification regulation for online platforms\", \"codes\": [{\"code\": \"L86\", \"strength\": 3}, {\"code\": \"K23\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -24,6 +24,11 @@ RELEASE_COLUMNS = [
     "date",
     "url",
     "direct_quote",
+    # The same quote with bracketed editorial insertions naming referents it
+    # leaves implicit ("Today's action [standardizing grant requirements]").
+    # Equal to direct_quote wherever the context stage added nothing, so the
+    # column is always readable on its own. See context.py.
+    "quote_in_context",
     "economics_topics",
     "jel_major_categories",
     "jel_subcategories",
@@ -80,7 +85,10 @@ def _topics_at(obs: Observation, level: str) -> str:
 
 
 def observation_row(doc: Document, obs: Observation, speaker: str,
-                    speaker_source: str = "") -> dict:
+                    speaker_source: str = "",
+                    quote_in_context: str | None = None) -> dict:
+    """One output row. `quote_in_context` defaults to the quote unmodified, so
+    a build that never ran the context stage still writes a usable column."""
     sec = list(obs.secondary) + [None, None]
     return {
         "agency": doc.institution,
@@ -90,6 +98,7 @@ def observation_row(doc: Document, obs: Observation, speaker: str,
         "date": doc.pub_date.isoformat(),
         "url": doc.url,
         "direct_quote": obs.quote,
+        "quote_in_context": quote_in_context if quote_in_context else obs.quote,
         "economics_topics": _topics(obs),
         "jel_major_categories": _topics_at(obs, "major"),
         "jel_subcategories": _topics_at(obs, "sub"),
@@ -166,6 +175,48 @@ def write_screening_log(rows: Iterable[ScreeningRow], out_dir: str | Path) -> Pa
         w.writeheader()
         for r in rows:
             w.writerow({f: getattr(r, f) for f in fields})
+    return path
+
+
+CONTEXT_LOG_COLUMNS = [
+    "quote_id", "url", "final_status", "direct_quote", "quote_in_context",
+    "triage_expressions", "anchors", "insertions", "evidence", "model_note",
+    "warnings", "triage_prompt_version", "resolve_prompt_version", "model",
+    "run_timestamp",
+]
+
+
+def write_context_log(rows: Iterable, out_dir: str | Path) -> Path:
+    """One row per quote that entered the context stage, with its final status.
+
+    The three parallel `anchors` / `insertions` / `evidence` columns are joined
+    on ` | ` in the same order, so a reviewer can read an insertion against the
+    passage that licensed it without opening the document.
+    """
+    out_dir = Path(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    path = out_dir / "context_log.csv"
+    with open(path, "w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=CONTEXT_LOG_COLUMNS, extrasaction="ignore")
+        w.writeheader()
+        for r in rows:
+            w.writerow({
+                "quote_id": r.quote_id,
+                "url": r.url,
+                "final_status": r.final_status,
+                "direct_quote": r.direct_quote,
+                "quote_in_context": r.quote_in_context,
+                "triage_expressions": " | ".join(r.triage_expressions),
+                "anchors": " | ".join(i.anchor for i in r.insertions),
+                "insertions": " | ".join(i.insertion for i in r.insertions),
+                "evidence": " | ".join(i.evidence for i in r.insertions),
+                "model_note": r.model_note,
+                "warnings": " | ".join(r.warnings),
+                "triage_prompt_version": r.triage_prompt_version,
+                "resolve_prompt_version": r.resolve_prompt_version,
+                "model": r.model,
+                "run_timestamp": r.run_timestamp,
+            })
     return path
 
 

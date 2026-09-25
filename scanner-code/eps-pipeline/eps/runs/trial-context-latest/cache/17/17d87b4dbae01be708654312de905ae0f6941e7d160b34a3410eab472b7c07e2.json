@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1e02aeb66d.P009.S001\"], \"anchor\": null, \"reason\": \"Does investing in K-12 AI/CS teacher professional development improve student AI literacy and long-run labour market outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

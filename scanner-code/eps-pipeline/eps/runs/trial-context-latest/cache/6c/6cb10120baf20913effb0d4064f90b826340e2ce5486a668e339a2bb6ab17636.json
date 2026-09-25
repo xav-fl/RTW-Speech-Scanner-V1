@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6525bce5a7.P005.S003\"], \"anchor\": \"The more arrests DHS makes, the more self-deportations we see\", \"reason\": \"Does increasing immigration enforcement arrests raise voluntary departures (self-deportations)?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

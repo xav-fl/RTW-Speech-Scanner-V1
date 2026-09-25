@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da6b13e6039.P001.S001\"], \"anchor\": null, \"reason\": \"Do targeted sanctions on prison officials change the treatment of political prisoners in authoritarian states?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

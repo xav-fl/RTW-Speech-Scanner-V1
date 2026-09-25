@@ -1,0 +1,35 @@
+{
+ "url": "https://www.justice.gov/opa/pr/doj-and-ftc-issue-fiscal-year-2025-hart-scott-rodino-annual-report",
+ "institution_id": "us-justice",
+ "title": "DOJ and FTC Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report",
+ "date": "2026-07-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "55ebc96fa3c5d7d0d6ec03551b2841f19c7129d64927332b0dfd66658bfe377b",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

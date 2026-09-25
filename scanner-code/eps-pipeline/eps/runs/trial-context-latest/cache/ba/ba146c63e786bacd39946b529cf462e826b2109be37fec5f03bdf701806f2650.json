@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D18d1f8a97d.P004.S002\"], \"anchor\": null, \"reason\": \"Does suspending fraudulent pandemic loan borrowers from future SBA programs deter fraud and improve program integrity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

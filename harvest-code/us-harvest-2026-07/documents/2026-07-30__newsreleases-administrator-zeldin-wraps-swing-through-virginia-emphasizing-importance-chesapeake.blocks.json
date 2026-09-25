@@ -1,0 +1,47 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-zeldin-wraps-swing-through-virginia-emphasizing-importance-chesapeake",
+ "institution_id": "us-epa",
+ "title": "Administrator Zeldin Wraps Swing Through Virginia, Emphasizing Importance of Chesapeake Bay Watershed and Ensuring Key Partners Lead in Innovative Technology to Protect the Environment and Grow the Economy",
+ "date": "2026-07-30",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "4b88a28cc2e119bbcb0485fba273fe48bf04f1fbbdeaa22db6cdc65a7764cccb",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

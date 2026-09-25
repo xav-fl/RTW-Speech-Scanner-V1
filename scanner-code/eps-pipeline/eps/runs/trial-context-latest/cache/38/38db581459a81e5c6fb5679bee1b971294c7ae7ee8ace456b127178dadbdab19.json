@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government support for domestic coal energy supply chain as national security\", \"codes\": [{\"code\": \"Q38\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

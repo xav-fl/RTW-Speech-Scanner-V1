@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"eligibility rules for publicly funded housing for asylum seekers/migrants without work rights\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"I38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

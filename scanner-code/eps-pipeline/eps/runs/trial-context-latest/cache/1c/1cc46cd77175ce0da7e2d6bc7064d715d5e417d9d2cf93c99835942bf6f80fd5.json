@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df16b761186.P002.S001\"], \"anchor\": null, \"reason\": \"Does streamlining farm assistance applications accelerate payments and improve producer uptake?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

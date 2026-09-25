@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"721f896e0c4f6bab\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"proposing they be designated\",\n        \"insertion\": \"(several senior RSF commanders linked to the atrocities committed in El Fasher)\",\n        \"evidence\": \"The UK has already sanctioned several senior RSF commanders linked to the atrocities committed in El Fasher.\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"b86de6585babb0da\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"arms restrictions need to be enforced\",\n        \"insertion\": \"(the UN arms embargo into Darfur)\",\n        \"evidence\": \"the Fact-Finding Mission has said that it will report back further on investigations into breaches of the UN arms embargo into Darfur\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

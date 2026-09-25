@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"f84de23f49321dc7\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"our promise\",\n        \"insertion\": \"made through the 10 Year Health Plan\",\n        \"evidence\": \"Through the 10 Year Health Plan, this government vowed to end this intolerable injustice by providing an NHS designed to tackle such inequalities\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

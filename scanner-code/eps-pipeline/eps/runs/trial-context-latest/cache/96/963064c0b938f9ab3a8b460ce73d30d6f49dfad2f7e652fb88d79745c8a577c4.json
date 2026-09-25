@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0168e3ae0e.P005.S001\"], \"anchor\": null, \"reason\": \"Does swift removal of convicted benefit fraudsters deter future public-benefit fraud by undocumented immigrants?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

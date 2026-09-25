@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government procurement rules favouring domestic firms and national-security sectors\", \"codes\": [{\"code\": \"H57\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}, {\"code\": \"L52\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

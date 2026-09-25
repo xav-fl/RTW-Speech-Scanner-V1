@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"534f5789b6d42c44\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is self-contained: 'our ban' is immediately explained by the list of platforms that follows, and the broader context (a ban on social media companies providing services to under 16s) is clear from the quotation itself.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

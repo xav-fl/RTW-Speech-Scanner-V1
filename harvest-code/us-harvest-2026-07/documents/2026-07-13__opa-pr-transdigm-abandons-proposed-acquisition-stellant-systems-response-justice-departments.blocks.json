@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/transdigm-abandons-proposed-acquisition-stellant-systems-response-justice-departments",
+ "institution_id": "us-justice",
+ "title": "TransDigm Abandons Proposed Acquisition of Stellant Systems in Response to Justice Department’s Decision to Block Transaction",
+ "date": "2026-07-13",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "ce0b43db35426ac54744a674307eb05d53bea4557b7755b6cbb4e9aea3f11d8a",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Michael P. Duffey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Michael P. Duffey",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

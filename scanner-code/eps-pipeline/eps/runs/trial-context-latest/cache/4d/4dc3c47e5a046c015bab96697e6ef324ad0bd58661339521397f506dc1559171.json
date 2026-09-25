@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0fe1c5b25d.P004.S001\", \"D0fe1c5b25d.P004.S002\"], \"anchor\": null, \"reason\": \"Does deploying AI-powered fraud detection tools improve recovery of fraudulently obtained pandemic relief funds?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

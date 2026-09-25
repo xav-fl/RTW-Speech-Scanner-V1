@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8416d213cc.P012.S002\"], \"anchor\": \"USCIS has implemented measures to ensure individuals with criminal histories and who otherwise lack good moral character do not attain citizenship\", \"reason\": \"Does screening out applicants with criminal records or poor moral character reduce crime among naturalized citizens?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

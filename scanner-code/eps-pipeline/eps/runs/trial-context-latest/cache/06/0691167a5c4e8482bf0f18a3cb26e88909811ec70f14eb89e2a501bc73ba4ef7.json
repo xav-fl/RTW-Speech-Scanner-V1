@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De413c0cfd9.P004.S002\"], \"anchor\": null, \"reason\": \"Does empowering Forest Service line officers to prioritise grazing permits improve rancher outcomes and rangeland health?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

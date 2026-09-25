@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9fc59e4335.P005.S002\"], \"anchor\": null, \"reason\": \"Does a zero-release policy for apprehended migrants affect illegal border crossing rates or interior enforcement outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

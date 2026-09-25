@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D14a0a97ab4.P007.S001\", \"D14a0a97ab4.P007.S002\", \"D14a0a97ab4.P007.S003\"], \"anchor\": null, \"reason\": \"Does restricting non-citizens' access to HUD-funded housing free up units for eligible American families on waitlists?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dff1f8be418.P002.S002\"], \"anchor\": \"He wanted to revitalize the Coast Guard, equip it with the best technology, ships, and aircraft available, and then recruit the men and women that were necessary to run it all.\", \"reason\": \"Does investing in Coast Guard technology, vessels, and recruitment improve maritime security and border enforcement outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

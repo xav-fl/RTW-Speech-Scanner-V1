@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D24254ef607.P003.S001\"], \"anchor\": null, \"reason\": \"Does reducing insurer securitization requirements under LHWCA lower costs and affect worker compensation outcomes in maritime industries?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

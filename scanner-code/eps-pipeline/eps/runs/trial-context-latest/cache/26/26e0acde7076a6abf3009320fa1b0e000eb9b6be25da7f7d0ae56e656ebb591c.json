@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D11e2d4b287.P005.S002\"], \"anchor\": null, \"reason\": \"Does keeping aging gas generation online reduce blackout risk and maintain affordable electricity prices?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

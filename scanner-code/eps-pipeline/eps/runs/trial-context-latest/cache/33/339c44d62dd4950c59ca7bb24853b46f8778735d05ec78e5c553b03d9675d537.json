@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"SBA field office expansion and cost reduction for small business access\", \"codes\": [{\"code\": \"L26\", \"strength\": 3}, {\"code\": \"H83\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

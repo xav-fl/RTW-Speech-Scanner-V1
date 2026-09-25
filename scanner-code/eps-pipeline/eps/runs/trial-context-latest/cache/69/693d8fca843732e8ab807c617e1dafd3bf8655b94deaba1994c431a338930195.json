@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3e4819e094.P004.S001\"], \"anchor\": null, \"reason\": \"Does disposing of underutilised federal buildings reduce government real estate costs?\"},{\"unit_ids\": [\"D3e4819e094.P006.S001\"], \"anchor\": null, \"reason\": \"What are the fiscal savings from disposing of underutilised federal properties, including deferred maintenance costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

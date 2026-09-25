@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"oil wealth misappropriation driving mass emigration\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"Q35\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

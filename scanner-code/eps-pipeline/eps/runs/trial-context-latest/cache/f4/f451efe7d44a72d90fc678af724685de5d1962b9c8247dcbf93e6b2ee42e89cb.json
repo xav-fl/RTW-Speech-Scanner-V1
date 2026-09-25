@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"employer compliance with immigration-linked labor market rules protecting native worker job access\", \"codes\": [{\"code\": \"J61\", \"strength\": 3}, {\"code\": \"J71\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2f7f489a9c.P006.S001\"], \"anchor\": null, \"reason\": \"Does deploying AI tools in federal hiring reduce administrative delays and improve recruitment speed?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

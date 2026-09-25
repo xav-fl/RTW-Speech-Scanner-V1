@@ -1,0 +1,65 @@
+{
+ "url": "https://www.dhs.gov/news/2026/07/10/dhs-signs-memorandum-cooperation-strengthening-border-security-and-immigration",
+ "institution_id": "us-dhs",
+ "title": "DHS Signs Memorandum of Cooperation Strengthening Border Security and Immigration Vetting with Partners in the Caribbean",
+ "date": "2026-07-10",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "c8edfa45ae95a78531239325b3091bbb7a301181f5a114728e274e890af8dc4f",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Under Secretary Rob Law",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Under Secretary Rob Law",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

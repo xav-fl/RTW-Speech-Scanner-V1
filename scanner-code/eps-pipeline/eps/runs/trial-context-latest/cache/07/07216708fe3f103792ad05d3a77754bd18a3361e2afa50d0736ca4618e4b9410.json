@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"rule of law and institutional legitimacy as precondition for investment and economic development\", \"codes\": [{\"code\": \"O43\", \"strength\": 3}, {\"code\": \"O54\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

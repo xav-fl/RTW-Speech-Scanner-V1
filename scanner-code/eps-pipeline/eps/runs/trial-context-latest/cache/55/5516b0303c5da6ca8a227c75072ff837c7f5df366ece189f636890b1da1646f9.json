@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"land exchange to enable domestic copper mining for defense and energy infrastructure\", \"codes\": [{\"code\": \"Q38\", \"strength\": 3}, {\"code\": \"H56\", \"strength\": 2}, {\"code\": \"Q42\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

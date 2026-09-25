@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D07c07a0a5b.P029.S001\", \"D07c07a0a5b.P029.S002\", \"D07c07a0a5b.P029.S003\", \"D07c07a0a5b.P029.S004\"], \"anchor\": null, \"reason\": \"Does designating states as 'State Sponsors of Wrongful Detention' deter governments from using hostage-taking as diplomatic leverage?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

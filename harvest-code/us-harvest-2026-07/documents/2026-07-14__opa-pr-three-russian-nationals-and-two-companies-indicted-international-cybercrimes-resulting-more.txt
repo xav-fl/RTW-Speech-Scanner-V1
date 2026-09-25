@@ -1,0 +1,63 @@
+An indictment was unsealed today in the Northern District of Ohio charging three Russian nationals and two related “bulletproof hosting” companies for their roles in cybercrimes against U.S. victims, causing tens of millions of dollars in losses.
+
+The indictment, returned in December 2024, charges the following defendants with conspiracy to commit and aid and abet computer fraud, conspiracy to commit wire fraud, wire fraud and conspiracy to commit money laundering:
+
+Alexander Alexandrovich Volosovik, 43, of St. Petersburg, Russia;
+
+Kirill Andreevich Zatolokin, 34, of St. Petersburg, Russia;
+
+Yulia Vladimirovna Pankova, 29, of St. Petersburg, Russia;
+
+Medialand LLC, headquartered in St. Petersburg, Russia; and
+
+ML.Cloud LLC, headquartered in St. Petersburg, Russia
+
+In addition to the unsealing of the indictment, the U.S. Department of State’s Rewards for Justice (RFJ) program announced today that it is offering a reward of up to $10 million and possible relocation for actionable information on foreign government-linked associates of Pankova, Volosovik and Zatolokin, their malicious cyber activities, or foreign government-linked use of Media Land or ML.Cloud. U.S. sanctions were announced in November 2025 against the indicted defendants and companies.
+
+> From their overseas haven, these defendants ran the criminal infrastructure that powered attacks on critical institutions across our nation,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> Their actions put the American public at risk. We will continue to dismantle these networks and protect our critical infrastructure from cybercriminals at home and abroad.
+
+> The victims in this case are not only in Ohio, but also in 20 other states across the country, touching every aspect of Americans’ lives. They include banks, schools, government entities, hospitals, and media companies,
+
+said U.S. Attorney David M. Toepfer for the Northern District of Ohio.
+
+> Together with our international partners, we will aggressively combat the efforts of individuals who hide behind computers anywhere in the world who seek to profit and wreak havoc by targeting the infrastructures that support our communities.
+
+> With today’s actions, the FBI and our partners are striking at the core services that cybercriminals rely on to attack U.S. critical infrastructure,
+
+said Assistant Director Brett Leatherman of FBI Cyber Division.
+
+> Media Land has enabled malicious activity causing tens of millions in losses and impacting victims across 21 states and multiple countries. This is another step in our broader campaign to shrink the space in which these actors can operate, forcing them to work harder, take greater risks, and lose the anonymity they depend on.
+
+> Today’s announcement underscores the importance of global partnerships and international collaboration, especially in a borderless world riddled with cyber criminals,
+
+said Special Agent in Charge Josh DelManzo of the FBI Cleveland Field Office.
+
+> The methods used by these bad actors, including ransomware, malware, phishing and other cyber activity, serves as a reminder that whether for business or personal use, when you are online, criminal networks will stop at nothing to hack, attack, share, or sell your information for their own greed, gain, and profit. The FBI and its partners will continue to identify and cripple criminal networks and freeze their infrastructures to reduce or remove the threats to the public and further protect trusting individuals and companies.
+
+> The Department of State is committed to countering malicious cyber activities that threaten U.S. critical infrastructure and our national security,
+
+said Deputy Assistant Secretary and Assistant Director of the U.S. Department of State’s Diplomatic Security Service for Cyber & Technology Security Gharun Lacy.
+
+> We remain relentless in our efforts to generate information that helps our law enforcement partners disrupt campaigns against our national interest and bring these malicious cyber actors to justice.
+
+According to allegations in court documents, Medialand LLC (owned by Volosovik) and ML.Cloud (at the time of investigation and indictment, owned by Pankova) were both based in St. Petersburg, Russia, and provided infrastructure including computer servers and related internet services. Medialand’s infrastructure also operated out of multiple countries including China, Finland, the Netherlands, and the United States. These businesses provided what are known as “bulletproof hosting” services for client users to not only conduct criminal activities, but also to evade detection by law enforcement. Such businesses knowingly and intentionally market and/or lease their infrastructure to cybercriminals. According to the indictment, Volosovik advertised their services on criminal forums, touting features and services advantageous to cybercriminals. Medialand and ML.Cloud provided criminal client co-conspirators with the means to infect victim computers with malware and ransomware and then extort those victims for money and cryptocurrency. Other computer-based crimes facilitated by Medialand and ML.Cloud included supporting criminal marketplaces, registering fraudulent domain, and providing a platform from which to launch phishing and brute-force attacks. According to the indictment, 42 victims in 21 states were targeted by criminal groups who used Medialand’s and ML.Cloud’s services.
+
+The November 2025 Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctions against the named defendants and entities were joined in full by the United Kingdom’s Foreign Commonwealth and Development Office and in part by Australia’s Department of Foreign Affairs and Trade. The OFAC sanctions block all U.S. property and prohibit transactions by U.S. persons. Volosovik, Zatolokin and Pankova were individually sanctioned. Medialand and its subsidiaries Media Land Technology (MLT) and Data Center Kirishi (DC Kirishi) along with Medialand’s sister company, ML Cloud were also sanctioned.
+
+The criminal investigation is being led by the FBI Cleveland Division, with the assistance of the Cybersecurity and Infrastructure Security Agency (CISA), and OFAC. Valuable assistance was provided by the National Police of the Netherlands, the Public Prosecutor’s Office of the Netherlands, the United Kingdom’s National Crime Agency, the United Kingdom Foreign Commonwealth and Development Office, the Australian Department of Foreign Affairs and Trade and Australian Federal Police.
+
+Trial Attorney Christen Gallagher of the Criminal Division’s Computer Crime and Intellectual Property Section (CCIPS) and Assistant U.S. Attorney Duncan T. Brown for the Northern District of Ohio are prosecuting the case.
+
+CCIPS investigates and prosecutes cybercrime and intellectual property (IP) crime in coordination with domestic and international law enforcement agencies, often with assistance from the private sector. Since 2020, CCIPS has secured the conviction of over 180 cyber and IP criminals and court orders for the return of over $350 million in victim funds.
+
+This action is part of Operation Riptide, an ongoing FBI campaign targeting the criminal actors, infrastructure, and financial networks behind cybercrime, cyber-enabled crime, and fraud against the American people. Last year, Americans reported over $20 billion in losses to cybercrime, a 26 percent single-year increase. Operation Riptide is the FBI’s sustained enforcement response to that threat.
+
+Anyone with information should contact Rewards for Justice via its Tor-based tips-reporting channel at:
+
+he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion (Tor browser required).
+
+An indictment is merely an allegation. All defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law.

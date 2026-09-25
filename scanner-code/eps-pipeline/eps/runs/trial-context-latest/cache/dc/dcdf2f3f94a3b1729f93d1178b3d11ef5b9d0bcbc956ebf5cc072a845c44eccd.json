@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"streamlining permitting and regulatory approval processes for construction/infrastructure\", \"codes\": [{\"code\": \"R42\", \"strength\": 3}, {\"code\": \"L51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

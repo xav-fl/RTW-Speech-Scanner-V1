@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"SBA loan guarantee directing capital to food supply chain businesses\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"R58\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

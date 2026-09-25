@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"market access equalization for small meat processors\", \"codes\": [{\"code\": \"Q13\", \"strength\": 3}, {\"code\": \"L11\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

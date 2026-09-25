@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db42052374e.P004.S001\", \"Db42052374e.P004.S002\", \"Db42052374e.P004.S003\", \"Db42052374e.P004.S004\"], \"anchor\": null, \"reason\": \"Does restricting Medicaid coverage for dental amalgam and shifting to mercury-free alternatives improve health outcomes and affect costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

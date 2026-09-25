@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D281cf14c02.P001.S001\"], \"anchor\": null, \"reason\": \"Does removing disparate-impact-based hiring guidelines from federal personnel rules change workforce diversity or hiring quality?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

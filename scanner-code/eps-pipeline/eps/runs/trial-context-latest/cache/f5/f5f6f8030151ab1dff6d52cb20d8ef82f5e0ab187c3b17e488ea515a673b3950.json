@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D44db64bd2c.P012.S002\"], \"anchor\": null, \"reason\": \"Does maintaining a senior diplomatic mission rather than closing it improve outcomes for opposition support and British interests?\"},{\"unit_ids\": [\"D44db64bd2c.P013.S001\", \"D44db64bd2c.P013.S002\", \"D44db64bd2c.P013.S003\"], \"anchor\": null, \"reason\": \"Do targeted individual sanctions on regime officials, without sector-wide economic sanctions, effectively pressure authoritarian governments?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

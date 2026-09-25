@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D491a6edaf2.P004.S001\"], \"anchor\": null, \"reason\": \"Does expedited financial assistance to specialty crop producers offset income losses from trade-related market disruptions?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Ddba767275f.P004.S001\", \"Ddba767275f.P004.S002\"], \"anchor\": null, \"reason\": \"Does SBA working capital financing for homebuilders increase residential construction and housing supply?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -2,12 +2,16 @@
 
 Stage boundaries are deliberate and the corpus is frozen between them:
 
-  harvest  ->  raw/            (bytes + manifest, no model involved)
-  extract  ->  cache/ + docs   (the only model stage, cached by input hash)
-  build    ->  out/            (validation + assembly, fully deterministic)
+  harvest  ->  raw/                (bytes + manifest, no model involved)
+  extract  ->  cache/ + docs       (a model stage, cached by input hash)
+  context  ->  out/context_log.csv (a model stage, cached by input hash)
+  build    ->  out/                (validation + assembly, fully deterministic)
 
 `build` can be re-run any number of times without touching the network or a
-model, which is what makes iterating on the validators cheap.
+model, which is what makes iterating on the validators cheap. `context` is a
+stage of its own rather than part of `build` for exactly that reason: it calls
+a model, and folding it into `build` would cost that property. It writes its
+decisions to a file, and `build` joins them in by quote ID.
 """
 
 from __future__ import annotations
@@ -20,7 +24,10 @@ from datetime import date
 from pathlib import Path
 from typing import Iterable, Optional
 
-from .assemble import observation_row, write_dataset, write_reject_log, write_screening_log
+from .assemble import (
+    observation_row, write_context_log, write_dataset, write_reject_log,
+    write_screening_log,
+)
 from .jel import ACTIVE_CODES_FILE, ActiveJELList, JELTaxonomy
 from .models import Document, ScreeningRow
 from .validate import OfficeholderTable, validate_observations
@@ -102,6 +109,67 @@ def load_documents(path: str | Path) -> list[Document]:
         return pickle.load(fh)
 
 
+# --- context ---------------------------------------------------------------
+
+
+def run_context(
+    documents: list[Document],
+    extractions: dict[str, list],
+    contextualiser,
+    officeholders: OfficeholderTable,
+    out_dir: str | Path,
+    min_quote_chars: int | None = None,
+    max_quote_chars: int | None = None,
+) -> tuple[dict[str, str], dict]:
+    """Add editorial context to the quotes that will reach the dataset.
+
+    Runs over exactly the rows `build` would keep, so a quote that validation
+    rejects is never paid for. Returns (quote_id -> quote_in_context, summary)
+    and writes `context_log.csv`; `build` joins the mapping in by quote ID.
+    """
+    from .context import Status, summarise
+
+    rows = _kept_rows(documents, extractions, officeholders,
+                      min_quote_chars, max_quote_chars)
+    results = contextualiser.run(rows, documents)
+
+    if len(results) != len(rows):  # pragma: no cover - defended, never seen
+        raise RuntimeError(
+            f"context stage returned {len(results)} rows for {len(rows)} in"
+        )
+
+    write_context_log(results, out_dir)
+    mapping = {r.quote_id: r.quote_in_context for r in results}
+    summary = {
+        "rows_in": len(rows),
+        "rows_out": len(results),
+        "by_status": summarise(results),
+        "resolved": sum(1 for r in results if r.final_status == Status.RESOLVED),
+    }
+    return mapping, summary
+
+
+def _kept_rows(documents, extractions, officeholders,
+               min_quote_chars=None, max_quote_chars=None) -> list[dict]:
+    """The validated rows `build` would write, without writing them."""
+    active = load_active_codes()
+    kwargs = {}
+    if min_quote_chars is not None:
+        kwargs["min_chars"] = min_quote_chars
+    if max_quote_chars is not None:
+        kwargs["max_chars"] = max_quote_chars
+
+    rows: list[dict] = []
+    for doc in documents:
+        validated, speaker, speaker_source, _ = validate_observations(
+            doc, extractions.get(doc.doc_id, []), active, officeholders, **kwargs
+        )
+        for obs in validated:
+            if obs.valid:
+                rows.append(observation_row(doc, obs, speaker or "", speaker_source))
+    return rows
+
+
 # --- build -----------------------------------------------------------------
 
 
@@ -114,13 +182,19 @@ def build(
     run_id: str = "",
     min_quote_chars: int | None = None,
     max_quote_chars: int | None = None,
+    context: dict[str, str] | None = None,
 ) -> dict:
     """Validate extracted observations and write all output tables.
 
     `extractions` maps doc_id -> list[Observation]. Documents with no entry are
     still logged, so a genuine zero is distinguishable from a document that was
     never processed.
+
+    `context` maps quote_id -> quote_in_context, from `run_context`. Omitting
+    it leaves every `quote_in_context` equal to its `direct_quote`, which is
+    what the column means when no context was added.
     """
+    from .context import quote_id as _quote_id
     # `taxonomy` is still accepted for callers that pass it; JEL validation runs
     # against the dated active list.
     active = load_active_codes()
@@ -146,7 +220,12 @@ def build(
         kept = 0
         for obs in validated:
             if obs.valid:
-                rows.append(observation_row(doc, obs, speaker or "", speaker_source))
+                row = observation_row(doc, obs, speaker or "", speaker_source)
+                if context:
+                    row["quote_in_context"] = context.get(
+                        _quote_id(row), row["direct_quote"]
+                    )
+                rows.append(row)
                 kept += 1
             else:
                 rejects.append(

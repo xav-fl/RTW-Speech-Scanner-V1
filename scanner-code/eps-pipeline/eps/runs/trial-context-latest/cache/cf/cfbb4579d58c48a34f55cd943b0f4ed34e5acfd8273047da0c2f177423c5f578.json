@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal office space consolidation reducing real estate costs\", \"codes\": [{\"code\": \"H82\", \"strength\": 3}, {\"code\": \"H83\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

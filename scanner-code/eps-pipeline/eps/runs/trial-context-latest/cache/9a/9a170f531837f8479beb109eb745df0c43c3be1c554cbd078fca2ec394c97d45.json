@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7981e7bfc0.P001.S001\"], \"anchor\": \"The Department of State will impose visa restrictions on several senior Rwandan officials for fueling instability in eastern Democratic Republic of the Congo (DRC).\", \"reason\": \"Do visa restrictions on foreign officials reduce their government's support for armed groups or conflict?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

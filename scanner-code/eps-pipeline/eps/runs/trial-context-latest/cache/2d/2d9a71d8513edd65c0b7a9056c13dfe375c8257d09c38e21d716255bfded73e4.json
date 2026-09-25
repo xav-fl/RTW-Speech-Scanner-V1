@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D810f9723fd.P010.S002\"], \"anchor\": \"We've got new defence agreements with Norway, Germany, France, and the EU.\", \"reason\": \"Do bilateral defence agreements increase trade, exports, or industrial collaboration between partner countries?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

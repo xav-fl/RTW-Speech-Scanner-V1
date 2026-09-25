@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8a97340642.P002.S002\"], \"anchor\": null, \"reason\": \"Does withholding administrative funds from states improve unemployment insurance program integrity and reduce improper payments?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

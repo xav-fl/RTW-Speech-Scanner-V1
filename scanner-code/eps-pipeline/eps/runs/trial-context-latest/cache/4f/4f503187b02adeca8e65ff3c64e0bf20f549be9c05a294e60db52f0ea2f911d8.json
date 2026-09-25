@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df7d6fde10f.P004.S001\"], \"anchor\": null, \"reason\": \"Does restricting SNAP purchases to nutritious foods improve health outcomes or change dietary behaviour among recipients?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

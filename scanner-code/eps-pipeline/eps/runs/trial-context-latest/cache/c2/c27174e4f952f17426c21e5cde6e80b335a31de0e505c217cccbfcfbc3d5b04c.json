@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df2a76720e6.P010.S001\"], \"anchor\": null, \"reason\": \"Does joint DHS-DOT enforcement against CDL fraud reduce road accidents or improve trucking industry safety outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

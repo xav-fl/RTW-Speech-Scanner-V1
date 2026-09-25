@@ -1,0 +1,59 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/ebsa/ebsa20260710",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor files amicus brief clarifying pleading standard for claims alleging imprudence in retirement plan investing",
+ "date": "2026-07-10",
+ "date_source": "listing",
+ "source_document_type": "EBSA",
+ "text_sha256": "f7ac0761a7dcc918fc2ba95805897345d67f358beb4769c58cdf5c8f6c42ed38",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd804b48bc3.P004.S001\"], \"anchor\": \"We are strengthening TEFCA to put patients in control of their health information, improve care coordination, and ensure health data moves securely where it is needed.\", \"reason\": \"Does expanding secure health information exchange through TEFCA improve care coordination and patient outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

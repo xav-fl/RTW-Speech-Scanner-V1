@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0d8b390001.P012.S001\"], \"anchor\": \"we are committed to protecting and strengthening Social Security\", \"reason\": \"What are the effects of policies to protect and strengthen Social Security on its long-run fiscal sustainability?\"},{\"unit_ids\": [\"D0d8b390001.P012.S003\"], \"anchor\": \"We are eliminating waste, fraud, abuse and ensuring program integrity\", \"reason\": \"Does eliminating waste, fraud, and abuse in Social Security reduce improper payments and improve program fiscal outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

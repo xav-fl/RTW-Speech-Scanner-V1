@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"competition and market access in commercial space services for government procurement\", \"codes\": [{\"code\": \"L88\", \"strength\": 3}, {\"code\": \"H57\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

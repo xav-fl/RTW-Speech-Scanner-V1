@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D868a894389.P009.S001\"], \"anchor\": null, \"reason\": \"Does introducing a Natural History GCSE improve students' access to and employment in environmental-sector careers?\"},{\"unit_ids\": [\"D868a894389.P010.S001\"], \"anchor\": null, \"reason\": \"Does mandatory fieldwork in school qualifications improve young people's skills or wellbeing outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

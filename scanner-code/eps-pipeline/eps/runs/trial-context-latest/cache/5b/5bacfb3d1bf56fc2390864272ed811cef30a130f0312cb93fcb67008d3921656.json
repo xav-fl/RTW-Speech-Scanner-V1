@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D68a752b207.P004.S001\", \"D68a752b207.P004.S002\"], \"anchor\": null, \"reason\": \"Do relaxed poultry/pork line-speed regulations lower production costs and improve food supply chain stability?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

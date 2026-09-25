@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"raising SBA loan limits to expand small business credit access\", \"codes\": [{\"code\": \"G21\", \"strength\": 3}, {\"code\": \"L26\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

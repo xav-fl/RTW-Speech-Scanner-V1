@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"0268dbb552b3a3ed\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This new investment\",\n        \"insertion\": \"of £140 million from the Local Growth Fund\",\n        \"evidence\": \"The UK Government is today backing regional economies across Scotland with £140 million of new investment.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

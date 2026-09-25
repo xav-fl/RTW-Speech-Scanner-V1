@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D18ad450033.P011.S001\", \"D18ad450033.P011.S002\"], \"anchor\": null, \"reason\": \"Does deploying GSA's analytical and procurement capabilities in fraud task forces reduce waste and abuse in federal contracting programs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/msha/msha20260701",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor announces up to $250K in Brookwood-Sago grants available to promote mine safety, health education, training",
+ "date": "2026-07-01",
+ "date_source": "listing",
+ "source_document_type": "MSHA",
+ "text_sha256": "7e43c57ed6cf517a2a625d9dc291deb6b419c2e24a7b2d15943e047845f90718",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

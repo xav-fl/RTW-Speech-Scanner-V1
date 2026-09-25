@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc9ba8ec409.P012.S002\"], \"anchor\": null, \"reason\": \"Does allowing health visitors to administer vaccines increase uptake among hard-to-reach families?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"policy changes to savings vehicles and financial advice rules to shift retail savers toward investment\", \"codes\": [{\"code\": \"G18\", \"strength\": 3}, {\"code\": \"D14\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4428a58c45.P002.S003\"], \"anchor\": null, \"reason\": \"Does bilateral US-Bulgaria energy cooperation increase investment and economic prosperity in both countries?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

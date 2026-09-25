@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Ddc7626e97b.P010.S001\"], \"anchor\": null, \"reason\": \"Does unifying federal wildland fire management under a single service improve response efficiency and reduce wildfire costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

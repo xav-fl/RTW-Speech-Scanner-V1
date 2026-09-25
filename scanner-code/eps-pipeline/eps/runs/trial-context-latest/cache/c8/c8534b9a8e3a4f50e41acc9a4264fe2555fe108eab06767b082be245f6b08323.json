@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Ddb3ea12692.P004.S001\"], \"anchor\": null, \"reason\": \"Do Jones Act waivers and Hours of Service flexibility reduce fertilizer costs for American farmers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

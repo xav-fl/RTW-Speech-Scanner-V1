@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"ceasefire monitoring, arms provision, and security guarantees for Ukraine\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"H56\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

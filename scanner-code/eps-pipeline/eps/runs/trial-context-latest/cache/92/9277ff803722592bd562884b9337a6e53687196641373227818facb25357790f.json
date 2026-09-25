@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"rail industry consolidation under single national authority to reduce costs\", \"codes\": [{\"code\": \"L92\", \"strength\": 3}, {\"code\": \"L43\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

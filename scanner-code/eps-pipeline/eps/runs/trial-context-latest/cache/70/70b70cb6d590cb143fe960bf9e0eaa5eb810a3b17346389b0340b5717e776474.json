@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"economic sanctions on Russian oil company and military aid to Ukraine\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"Q35\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

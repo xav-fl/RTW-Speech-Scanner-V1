@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dfc87a2f620.P005.S001\", \"Dfc87a2f620.P005.S002\"], \"anchor\": null, \"reason\": \"Does federal investment to keep coal plants operating reduce electricity costs and maintain grid reliability?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

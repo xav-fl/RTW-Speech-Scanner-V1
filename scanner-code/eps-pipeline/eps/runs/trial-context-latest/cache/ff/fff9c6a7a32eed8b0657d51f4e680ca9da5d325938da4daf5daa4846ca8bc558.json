@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De867731a35.P005.S003\"], \"anchor\": null, \"reason\": \"Does reversing prior energy policies and using emergency grid tools reduce blackout risk and costs during extreme weather?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

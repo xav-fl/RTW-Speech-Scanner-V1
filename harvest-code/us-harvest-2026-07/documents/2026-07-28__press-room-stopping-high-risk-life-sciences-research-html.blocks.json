@@ -1,0 +1,77 @@
+{
+ "url": "https://www.hhs.gov/press-room/stopping-high-risk-life-sciences-research.html",
+ "institution_id": "us-hhs",
+ "title": "Trump Administration Releases New Government-Wide Policy to End Dangerous High-Risk Research",
+ "date": "2026-07-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "cdfe051d10d057e4b4a198bb2ef4eccdf670fc321428b2e13074c455d02f58f6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "NIH Director Dr. Jay Bhattacharya",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "NIH Director Dr. Jay Bhattacharya",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

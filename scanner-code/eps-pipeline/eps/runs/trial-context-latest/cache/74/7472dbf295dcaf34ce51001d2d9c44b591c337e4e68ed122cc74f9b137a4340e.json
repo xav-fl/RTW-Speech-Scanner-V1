@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0f12a1b148.P003.S001\", \"D0f12a1b148.P005.S001\"], \"anchor\": null, \"reason\": \"Does a pay-for-performance apprenticeship funding model improve worker retention and skill outcomes in reindustrialisation sectors?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

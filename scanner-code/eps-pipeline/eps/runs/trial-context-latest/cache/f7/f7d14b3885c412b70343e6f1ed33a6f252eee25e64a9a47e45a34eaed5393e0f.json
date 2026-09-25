@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"D63c804ae31.P019.S001\"], \"anchor\": null, \"reason\": \"Does making non-consensual intimate image creation a criminal priority offence deter such behaviour?\"},{\"unit_ids\": [\"D63c804ae31.P028.S001\"], \"anchor\": null, \"reason\": \"Do large revenue-based fines on platforms reduce hosting of illegal non-consensual intimate images?\"},{\"unit_ids\": [\"D63c804ae31.P029.S001\"], \"anchor\": null, \"reason\": \"Does the threat of court-ordered site blocking incentivise platforms to remove illegal content?\"},{\"unit_ids\": [\"D63c804ae31.P031.S001\", \"D63c804ae31.P032.S001\"], \"anchor\": null, \"reason\": \"Does criminalising nudification app suppliers reduce supply and use of non-consensual intimate image tools?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

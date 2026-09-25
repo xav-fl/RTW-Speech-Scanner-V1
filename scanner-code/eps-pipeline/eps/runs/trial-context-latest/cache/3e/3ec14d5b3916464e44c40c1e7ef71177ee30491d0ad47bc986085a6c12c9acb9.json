@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"stocking standards mandating nutrient-dense foods at SNAP retailers\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"I18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

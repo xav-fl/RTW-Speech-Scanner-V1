@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc507851bca.P027.S001\"], \"anchor\": null, \"reason\": \"Does targeted MenB vaccination of university hall residents reduce outbreak spread and disease burden?\"},{\"unit_ids\": [\"Dc507851bca.P028.S003\"], \"anchor\": null, \"reason\": \"Which vaccine eligibility rules deliver the most health gain for the cost of MenB vaccination programmes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

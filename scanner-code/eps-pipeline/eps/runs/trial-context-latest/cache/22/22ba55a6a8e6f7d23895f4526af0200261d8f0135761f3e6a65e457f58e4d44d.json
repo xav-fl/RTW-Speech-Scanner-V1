@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"169e14410a4bf27c\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation names Better Connected and the strategy explicitly, and both refer to the same document described in full within the quotation's own context. The passage is self-contained and understandable without additional insertions.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

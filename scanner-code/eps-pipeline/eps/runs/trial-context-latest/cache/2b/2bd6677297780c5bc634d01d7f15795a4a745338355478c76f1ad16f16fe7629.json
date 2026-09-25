@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"7c04a8cba08cc506\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"rolling this out\",\n        \"insertion\": \", the WorkWell programme,\",\n        \"evidence\": \"WorkWell, a proven health-and-employment support service, will be rolled out across England\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

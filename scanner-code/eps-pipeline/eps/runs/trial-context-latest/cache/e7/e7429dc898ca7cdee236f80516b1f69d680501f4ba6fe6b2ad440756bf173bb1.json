@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"military strikes against drug trafficking vessels by transnational criminal organizations\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

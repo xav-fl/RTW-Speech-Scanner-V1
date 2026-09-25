@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"59fce070682b3290\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"Today's action\",\n        \"insertion\": \"-- signing the first-ever set of USDA General Terms and Conditions --\",\n        \"evidence\": \"directing all USDA agencies and staff offices to immediately adopt and implement the first-ever set of USDA General Terms and Conditions for all future awards\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

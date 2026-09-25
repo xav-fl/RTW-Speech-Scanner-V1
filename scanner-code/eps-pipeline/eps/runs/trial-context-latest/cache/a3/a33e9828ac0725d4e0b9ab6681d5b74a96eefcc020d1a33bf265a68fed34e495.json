@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"place-based investment zones and housing health standards for low-income communities\", \"codes\": [{\"code\": \"R58\", \"strength\": 3}, {\"code\": \"I18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

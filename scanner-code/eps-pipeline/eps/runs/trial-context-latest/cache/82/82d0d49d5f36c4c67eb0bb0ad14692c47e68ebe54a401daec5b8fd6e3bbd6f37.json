@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"local government restructuring to reduce administrative duplication and redirect spending\", \"codes\": [{\"code\": \"H77\", \"strength\": 3}, {\"code\": \"H72\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

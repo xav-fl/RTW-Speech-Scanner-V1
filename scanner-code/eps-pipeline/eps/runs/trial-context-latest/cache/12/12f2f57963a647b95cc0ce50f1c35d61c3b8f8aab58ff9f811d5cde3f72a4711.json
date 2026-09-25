@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Ddb51192e7c.P003.S002\"], \"anchor\": null, \"reason\": \"Does encouraging faith organisations to compete for federal grants affect grant allocation efficiency or outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

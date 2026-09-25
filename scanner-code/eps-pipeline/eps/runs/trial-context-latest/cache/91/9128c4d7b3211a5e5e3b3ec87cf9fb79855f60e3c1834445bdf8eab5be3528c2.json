@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"86ece9d9427230a7\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"This rule\",\n        \"insertion\": \", establishing Schedule Policy/Career in the excepted service,\",\n        \"evidence\": \"the final rule establishing Schedule Policy/Career in the excepted service\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

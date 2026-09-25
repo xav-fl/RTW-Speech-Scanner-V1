@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D13079708a2.P009.S002\"], \"anchor\": null, \"reason\": \"Do data center energy cost-sharing obligations (new supply, infrastructure, capacity payments, local hiring, grid resilience) prevent household electricity price increases?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

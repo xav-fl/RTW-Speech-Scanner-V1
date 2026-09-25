@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"c5bd7dc364a677e1\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on schools not being left to carry wider social problems alone,\",\n        \"evidence\": \"But schools can't be alone in this of course. For too long schools have been left to carry the weight of wider social problems alone.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"CDL fraud investigation and licensing integrity enforcement\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"J44\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

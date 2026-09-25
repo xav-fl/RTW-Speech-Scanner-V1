@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dcdcb65d4a3.P005.S001\", \"Dcdcb65d4a3.P005.S002\", \"Dcdcb65d4a3.P005.S003\"], \"anchor\": null, \"reason\": \"Does streamlining federal oil and gas leasing and permitting on National Forest lands increase energy supply, lower prices, and create jobs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

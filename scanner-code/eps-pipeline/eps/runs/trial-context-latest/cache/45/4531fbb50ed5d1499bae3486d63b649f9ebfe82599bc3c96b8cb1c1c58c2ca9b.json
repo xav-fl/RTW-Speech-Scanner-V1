@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8cfdda7a1f.P006.S001\", \"D8cfdda7a1f.P006.S002\"], \"anchor\": null, \"reason\": \"Do grant conditions tied to homeland security funding improve election security outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

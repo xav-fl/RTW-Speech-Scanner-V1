@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"oversight and accountability standards for federal employee health insurance plans\", \"codes\": [{\"code\": \"I13\", \"strength\": 3}, {\"code\": \"H51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

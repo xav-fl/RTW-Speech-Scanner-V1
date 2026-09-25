@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D63fddd3cb5.P041.S002\", \"D63fddd3cb5.P041.S003\"], \"anchor\": null, \"reason\": \"Does routing Venezuelan oil revenues through US Treasury-controlled accounts benefit the Venezuelan people more than prior arrangements?\"},{\"unit_ids\": [\"D63fddd3cb5.P043.S001\", \"D63fddd3cb5.P043.S002\", \"D63fddd3cb5.P043.S003\"], \"anchor\": null, \"reason\": \"What conditions and timeline for free and fair elections best support democratic transition in Venezuela?\"},{\"unit_ids\": [\"D63fddd3cb5.P036.S001\", \"D63fddd3cb5.P036.S002\"], \"anchor\": null, \"reason\": \"What is the net cost-benefit to the US of NATO membership given asymmetric burden-sharing and access restrictions?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

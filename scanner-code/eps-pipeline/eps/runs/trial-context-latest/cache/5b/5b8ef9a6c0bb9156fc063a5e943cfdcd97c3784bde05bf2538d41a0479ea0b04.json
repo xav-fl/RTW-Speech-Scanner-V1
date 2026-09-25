@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"repeal of EPA guidance penalizing domestic actors for transboundary air pollution\", \"codes\": [{\"code\": \"Q58\", \"strength\": 3}, {\"code\": \"F18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

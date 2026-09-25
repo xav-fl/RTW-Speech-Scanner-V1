@@ -1,0 +1,59 @@
+{
+ "url": "https://www.energy.gov/articles/energy-department-closes-loan-aep-texas-delivering-millions-electricity-cost-savings",
+ "institution_id": "us-energy",
+ "title": "Energy Department Closes Loan to AEP Texas, Delivering Millions in Electricity Cost Savings for Texans",
+ "date": "2026-07-08",
+ "date_source": "listing",
+ "source_document_type": "Article",
+ "text_sha256": "bd728d9f024830156dde61c3c5cdd25406f0420dcc3b2a373febe3a0626357c6",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "U.S. Energy Secretary Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "U.S. Energy Secretary Chris Wright",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

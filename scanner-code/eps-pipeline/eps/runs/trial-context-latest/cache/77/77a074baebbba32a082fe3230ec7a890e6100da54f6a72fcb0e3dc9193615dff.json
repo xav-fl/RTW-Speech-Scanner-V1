@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D440629c161.P004.S002\"], \"anchor\": null, \"reason\": \"Does government support for advanced nuclear industry expansion increase affordable and reliable energy access?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

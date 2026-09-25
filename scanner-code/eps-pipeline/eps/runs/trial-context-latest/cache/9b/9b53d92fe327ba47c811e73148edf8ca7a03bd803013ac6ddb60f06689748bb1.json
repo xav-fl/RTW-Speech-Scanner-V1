@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"military personnel reinstatement with back pay after vaccine mandate dismissal\", \"codes\": [{\"code\": \"H56\", \"strength\": 2}, {\"code\": \"J45\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

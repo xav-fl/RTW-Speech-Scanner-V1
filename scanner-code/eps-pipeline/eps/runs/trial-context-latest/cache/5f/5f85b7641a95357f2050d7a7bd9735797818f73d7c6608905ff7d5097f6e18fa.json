@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory flexibility for oil operators to maintain energy production\", \"codes\": [{\"code\": \"Q38\", \"strength\": 3}, {\"code\": \"L78\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

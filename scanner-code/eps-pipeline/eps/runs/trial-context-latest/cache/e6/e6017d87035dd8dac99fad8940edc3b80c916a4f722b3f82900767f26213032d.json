@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbe22e04fcb.P006.S001\", \"Dbe22e04fcb.P006.S002\"], \"anchor\": null, \"reason\": \"Does NASA's policy of selecting multiple private partners for ISS missions stimulate a sustainable commercial low Earth orbit economy?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

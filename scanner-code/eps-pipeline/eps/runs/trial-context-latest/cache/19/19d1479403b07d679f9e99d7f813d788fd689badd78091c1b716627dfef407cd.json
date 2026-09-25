@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Decb0a7fab0.P011.S001\"], \"anchor\": \"Cutting through two-tier bureaucracy means faster decisions on housing, simpler access to services, and more money going to potholes, tackling crime and caring for older people instead of being lost to duplication.\", \"reason\": \"Does consolidating two-tier local government into unitary authorities improve public service efficiency and reduce administrative costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

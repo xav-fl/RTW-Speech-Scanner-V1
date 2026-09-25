@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Deee9c5745d.P007.S001\", \"Deee9c5745d.P007.S002\"], \"anchor\": null, \"reason\": \"Does PILT funding improve rural public safety, infrastructure, and education outcomes in communities near federal lands?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government loans for energy infrastructure creating jobs and grid reliability\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"H81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

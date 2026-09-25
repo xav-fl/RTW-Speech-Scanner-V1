@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"f02cd04d2b659949\",\n    \"status\": \"unresolved\",\n    \"insertions\": [],\n    \"note\": \"The document mentions 'country platforms' only in this sentence and provides no further definition or description of what they are.\"\n  },\n  {\n    \"quote_id\": \"ee4999bb3086d9ea\",\n    \"status\": \"unresolved\",\n    \"insertions\": [],\n    \"note\": \"The document does not identify or describe the specific 'Call to Action' beyond this reference; its origin, issuer, or full title cannot be determined from the source text.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

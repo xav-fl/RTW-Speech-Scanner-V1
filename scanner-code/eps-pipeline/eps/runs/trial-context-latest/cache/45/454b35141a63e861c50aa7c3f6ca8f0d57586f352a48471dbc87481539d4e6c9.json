@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"personal income tax cuts increasing household disposable income\", \"codes\": [{\"code\": \"H24\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

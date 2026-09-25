@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"devolution of environmental permitting authority to state and local governments\", \"codes\": [{\"code\": \"Q58\", \"strength\": 3}, {\"code\": \"H77\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

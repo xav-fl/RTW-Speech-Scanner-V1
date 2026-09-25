@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"prenatal funding allocation for disability services\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"H53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

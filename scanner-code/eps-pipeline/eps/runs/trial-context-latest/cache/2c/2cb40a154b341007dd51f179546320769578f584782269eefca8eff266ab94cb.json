@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4059c160af.P033.S002\"], \"anchor\": \"We will continue to audit participants and investigate the 8(a) Program, while implementing oversight and accountability on behalf of America's taxpayers and job creators.\", \"reason\": \"Does increased auditing and oversight of the SBA 8(a) programme reduce fraud and improve contract outcomes for eligible small businesses?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

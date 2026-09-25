@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4b905750ac.P015.S001\"], \"anchor\": null, \"reason\": \"Does rolling out a nationwide health-and-employment support programme improve employment outcomes and reduce welfare dependency?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

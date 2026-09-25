@@ -1,0 +1,47 @@
+{
+ "url": "https://www.justice.gov/opa/pr/ukrainian-israeli-citizen-sentenced-multi-million-dollar-fake-brokerage-scheme",
+ "institution_id": "us-justice",
+ "title": "Ukrainian-Israeli Citizen Sentenced for Multi-Million Dollar Fake Brokerage Scheme",
+ "date": "2026-07-28",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "03e765e55120001c97e92533bc572169bb431ff89829cd2f6a8335b9e8fc6cc1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

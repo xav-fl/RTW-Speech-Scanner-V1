@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0fd441c62b.P005.S001\", \"D0fd441c62b.P005.S002\"], \"anchor\": null, \"reason\": \"Does reviewing and clawing back PPP loans from ineligible large affiliates deter future fraud in small-business relief programmes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

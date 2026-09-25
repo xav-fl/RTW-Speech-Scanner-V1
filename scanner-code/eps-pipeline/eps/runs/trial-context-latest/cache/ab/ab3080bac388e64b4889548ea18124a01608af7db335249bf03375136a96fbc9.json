@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"0578d8f3f4c91fcf\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"the upcoming purchase of U.S. grown food\",\n        \"insertion\": \"up to $80 million in specialty crops from American farmers\",\n        \"evidence\": \"USDA's intent to purchase up to $80 million in specialty crops from American farmers and producers to distribute to food banks and nutrition assistance programs across the country.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

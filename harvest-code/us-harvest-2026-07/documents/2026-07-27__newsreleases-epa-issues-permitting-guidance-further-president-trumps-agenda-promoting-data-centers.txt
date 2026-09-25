@@ -1,0 +1,13 @@
+WASHINGTON – This month, U.S. Environmental Protection Agency (EPA) issued guidance clarifying that the Clean Air Act (CAA) Acid Rain Program (ARP) does not apply to power generation facilities that are not connected to a public electricity grid, commonly referred to as “islanded” power generation facilities. The guidance expands opportunities for companies to develop and operate islanded power generation facilities for data centers. This will give developers greater flexibility in where and how quickly they can build new facilities while helping to protect the environment and reducing burdens on communities’ electric grid.
+
+This guidance furthers the principals of President Donald Trump’s Ratepayer Protection Pledge, which was expanded last week during an event at EPA. Companies that sign the President’s pledge are committing to build, bring, or buy all of the energy needed to power their facilities and to pay the full cost of that energy and its supporting infrastructure, no matter what. Ratepayer Protection Pledge extends those obligations across the full chain of parties whose decisions determine what a family pays each month: the electric utilities that set rates, the developers that build the facilities, and the States that regulate both.
+
+> Ensuring that the United States maintains our artificial intelligence dominance is essential to national security and economic prosperity. At the same time, it is equally important that we safeguard our communities from utility price hikes,
+
+said EPA Assistant Administrator for Air and Radiation Aaron Szabo.
+
+> This guidance will provide an avenue to do both. EPA is proud to further the President’s agenda through commonsense approaches to regulating.
+
+EPA’s guidance clarifies that under the best reading of the CAA, the ARP applies to facilities that sell electricity or are required to report as a generating unit to the U.S. Department of Energy (DOE). Because “islanded” power generation facilities neither sell electricity nor have required reporting to DOE, EPA has concluded that these facilities are not subject to the ARP. If a company develops a power generation facility that is not grid connected, but at a future date the company does connect the facility to the grid, the facility may be subject to the provisions in the ARP.
+
+To read EPA’s guidance, visit here.

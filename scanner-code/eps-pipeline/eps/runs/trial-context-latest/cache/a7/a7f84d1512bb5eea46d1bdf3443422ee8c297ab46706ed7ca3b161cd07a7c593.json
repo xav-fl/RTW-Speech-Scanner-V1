@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"d83ff959548311f6\",\n    \"status\": \"unresolved\",\n    \"insertions\": [],\n    \"note\": \"The document does not name or describe the specific government remediation funding schemes being referenced; it only states that equal access to them is being introduced.\"\n  },\n  {\n    \"quote_id\": \"ce27b5e9c054b7d3\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"benefit from this too\",\n        \"insertion\": \"the Right to Manage, giving residents more control over home management,\",\n        \"evidence\": \"Our new Right to Manage will give residents more opportunity to take over how their homes are managed if their social landlord fails to improve substandard services.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

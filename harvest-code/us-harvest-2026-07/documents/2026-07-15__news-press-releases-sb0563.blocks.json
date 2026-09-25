@@ -1,0 +1,35 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0563/",
+ "institution_id": "us-treasury",
+ "title": "Treasury Announces Frank Bisignano to Lead Next Phase of Trump Accounts Expansion",
+ "date": "2026-07-15",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "414a68e3ae1f8e23013fdbb09a7ac846db9cec18c4115bbb8c27a0680b3d70a2",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

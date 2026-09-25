@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"sectoral exemptions from digital services tax scope\", \"codes\": [{\"code\": \"H25\", \"strength\": 3}, {\"code\": \"L86\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"policy reversal to preserve and expand coal energy infrastructure\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"L78\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

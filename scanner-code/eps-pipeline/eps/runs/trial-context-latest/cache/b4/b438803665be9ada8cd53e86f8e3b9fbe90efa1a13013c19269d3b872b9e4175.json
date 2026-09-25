@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4465084c4f.P006.S002\"], \"anchor\": \"EPA will not allow California to impose those costly regulations on American truck drivers and engine manufacturers in other states or countries for its own purposes by misusing the CAA.\", \"reason\": \"What are the economic effects on trucking costs and interstate commerce of blocking California's out-of-state heavy-duty vehicle inspection rules?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

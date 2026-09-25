@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"7b7e14db5db6b4e9\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This new GCSE\",\n        \"insertion\": \"in Natural History\",\n        \"evidence\": \"the new Natural History GCSE is one step closer to being taught in classrooms\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"1626a121664ac10d\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"the GCSE\",\n        \"insertion\": \"in Natural History\",\n        \"evidence\": \"the new Natural History GCSE is one step closer to being taught in classrooms\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"domestic resource mobilization, public financial management, and debt sustainability in developing economies\", \"codes\": [{\"code\": \"O23\", \"strength\": 3}, {\"code\": \"H63\", \"strength\": 2}, {\"code\": \"O11\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

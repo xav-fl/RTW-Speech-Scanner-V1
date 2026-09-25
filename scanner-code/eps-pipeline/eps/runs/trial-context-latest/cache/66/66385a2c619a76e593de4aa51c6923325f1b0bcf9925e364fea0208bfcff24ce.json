@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6425a767e7.P010.S001\", \"D6425a767e7.P010.S002\", \"D6425a767e7.P010.S003\"], \"anchor\": null, \"reason\": \"Does scheduling synthetic kratom-derived opioids (7-OH, MP, MGM-15, MGM-16) reduce addiction and harm to public health?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

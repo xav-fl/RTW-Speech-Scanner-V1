@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df6b901ca9a.P007.S001\", \"Df6b901ca9a.P007.S002\"], \"anchor\": null, \"reason\": \"Do tariff reductions on Scotch whisky exports increase Scottish export revenues and employment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

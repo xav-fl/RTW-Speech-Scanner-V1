@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"07a8be24f63552ad\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"make that possible\",\n        \"insertion\": \", making public services work for you,\",\n        \"evidence\": \"I want to change that and make public services work for you.\"\n      }\n    ],\n    \"note\": \"'make that possible' refers to the goal of changing how public services work for people, as stated in the preceding sentence by Darren Jones.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

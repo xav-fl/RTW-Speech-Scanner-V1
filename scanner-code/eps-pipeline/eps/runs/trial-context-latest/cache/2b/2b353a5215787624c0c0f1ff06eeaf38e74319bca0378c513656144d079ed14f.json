@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"1d5264c021216e24\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on the U.S.-Slovakia civil nuclear agreement\",\n        \"evidence\": \"U.S. Secretary of Energy Chris Wright and Slovak Prime Minister Robert Fico today signed an Intergovernmental Agreement (IGA) to advance cooperation on Slovakia's civil nuclear power program.\"\n      }\n    ],\n    \"note\": \"The flagged expression refers to the deployment of American nuclear technology under the IGA, which is the subject of the document. A 'before' insertion provides the necessary context for the quotation to stand alone.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

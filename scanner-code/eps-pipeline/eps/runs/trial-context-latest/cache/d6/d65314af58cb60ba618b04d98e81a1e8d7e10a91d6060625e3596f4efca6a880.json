@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D56f75574c0.P002.S001\", \"D56f75574c0.P002.S002\"], \"anchor\": null, \"reason\": \"Do faster NEPA environmental review timelines reduce costs and what are the fiscal savings to government?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

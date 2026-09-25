@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal education funding waiver granting state authority over fund allocation\", \"codes\": [{\"code\": \"I28\", \"strength\": 3}, {\"code\": \"I22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

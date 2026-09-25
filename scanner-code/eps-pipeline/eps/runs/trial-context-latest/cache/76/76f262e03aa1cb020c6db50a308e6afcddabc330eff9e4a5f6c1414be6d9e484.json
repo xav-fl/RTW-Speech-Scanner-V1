@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"763ffde8b3c4e161\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is self-contained: 'the situation' clearly refers to the meningitis outbreak at the University of Kent in Canterbury, which is named in the same sentence.\"\n  },\n  {\n    \"quote_id\": \"502c2b8a0188afd6\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this latest outbreak\",\n        \"insertion\": \"of meningococcal disease in Canterbury and east Kent\",\n        \"evidence\": \"I'd like to make a statement on the outbreak of meningococcal disease in Canterbury and east Kent.\"\n      },\n      {\n        \"position\": \"after\",\n        \"anchor\": \"asking them\",\n        \"insertion\": \"the JCVI\",\n        \"evidence\": \"we obviously follow the expert independent advice of the JCVI. In light of this latest outbreak, I will be asking them to re-examine eligibility for meningitis vaccines.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df17bda2614.P004.S001\"], \"anchor\": \"HHS is releasing the first-ever Surgeon General's warning focused on the harms of excessive screen use because American children are facing a growing crisis of social isolation, poor mental health, physical inactivity, and digital addiction.\", \"reason\": \"Does a Surgeon General's warning on excessive screen use reduce children's screen time and improve mental health outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

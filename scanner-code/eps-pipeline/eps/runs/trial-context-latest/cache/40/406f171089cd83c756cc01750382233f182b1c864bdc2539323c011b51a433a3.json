@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal forest management reform and wildfire response coordination\", \"codes\": [{\"code\": \"Q23\", \"strength\": 3}, {\"code\": \"Q58\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"creation of new criminal offence\", \"codes\": [{\"code\": \"K14\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

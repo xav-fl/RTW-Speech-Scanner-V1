@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9822a6a07b.P004.S001\"], \"anchor\": null, \"reason\": \"Does federal disaster funding for public infrastructure repair accelerate community recovery outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

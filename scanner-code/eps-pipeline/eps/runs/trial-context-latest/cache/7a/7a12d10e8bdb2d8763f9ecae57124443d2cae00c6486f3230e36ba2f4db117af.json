@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1f3496e4df.P003.S002\"], \"anchor\": null, \"reason\": \"Does relocating FSIS operations to Iowa and expanding scientific capabilities improve food safety outcomes or efficiency?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

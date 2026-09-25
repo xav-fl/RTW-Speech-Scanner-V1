@@ -288,10 +288,13 @@ def test_release_header_is_the_agreed_contract(tmp_path, tax):
 
     assert header == [
         "agency", "speaker", "document_title", "document_type", "date", "url",
-        "direct_quote", "economics_topics",
+        "direct_quote", "quote_in_context", "economics_topics",
         "jel_major_categories", "jel_subcategories",
     ]
     assert header == RELEASE_COLUMNS
+    # A build that never ran the context stage still fills the column, so a
+    # reader never meets a blank one.
+    assert row["quote_in_context"] == row["direct_quote"]
     assert row["jel_major_categories"] == f"J — {tax.title('J')}"
     assert row["jel_subcategories"] == f"{sub.code} — {sub.title}"
 

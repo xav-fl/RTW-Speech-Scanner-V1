@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"health support program to maintain employment\", \"codes\": [{\"code\": \"I18\", \"strength\": 2}, {\"code\": \"J28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

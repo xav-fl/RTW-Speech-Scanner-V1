@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"elder fraud enforcement and victim protection program\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"J14\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

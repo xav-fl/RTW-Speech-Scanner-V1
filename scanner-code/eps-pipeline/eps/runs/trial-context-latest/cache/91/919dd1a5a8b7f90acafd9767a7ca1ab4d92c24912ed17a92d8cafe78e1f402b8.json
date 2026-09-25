@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D04c901b537.P002.S002\"], \"anchor\": null, \"reason\": \"Do rigorous livestock inspection protocols at border ports effectively prevent New World screwworm entry while enabling trade?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

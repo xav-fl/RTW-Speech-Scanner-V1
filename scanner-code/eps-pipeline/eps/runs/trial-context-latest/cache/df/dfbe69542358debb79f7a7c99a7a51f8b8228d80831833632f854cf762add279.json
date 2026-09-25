@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"060db84bb2a8e620\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"Today's awards\",\n        \"insertion\": \", totaling $2.7 billion for LEU and HALEU enrichment,\",\n        \"evidence\": \"the Department announced task order awards with three companies that will transition the United States away from foreign sources of uranium and diversify the nation's domestic fuel supply\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

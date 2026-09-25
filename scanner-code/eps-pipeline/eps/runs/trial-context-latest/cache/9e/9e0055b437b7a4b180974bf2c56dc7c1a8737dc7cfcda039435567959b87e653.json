@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory reform to reduce housing construction costs and increase supply\", \"codes\": [{\"code\": \"R38\", \"strength\": 3}, {\"code\": \"R31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

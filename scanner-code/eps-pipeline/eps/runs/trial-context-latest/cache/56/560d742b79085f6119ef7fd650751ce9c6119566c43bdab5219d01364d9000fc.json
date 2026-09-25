@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"workplace safety investment in mining sector\", \"codes\": [{\"code\": \"J28\", \"strength\": 3}, {\"code\": \"J81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

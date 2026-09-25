@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"7c04a8cba08cc506\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is immediately preceded by 'Our pilot provided support to 25,000 people to remain in their jobs and helped others get back to work,' making clear that 'this' refers to WorkWell. The programme name also appears throughout the surrounding context, so the quotation is understandable on its own.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

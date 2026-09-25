@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D35a83af8a7.P002.S001\"], \"anchor\": null, \"reason\": \"Does relocating SBA offices from city centres to suburban areas reduce costs and improve small business access?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

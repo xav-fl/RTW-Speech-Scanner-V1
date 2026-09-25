@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"caa265ff68d21c4e\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This is another tremendous result\",\n        \"insertion\": \"— a Scotch whisky tariff cut in China from 10% to 5% —\",\n        \"evidence\": \"China agreeing to cut tariffs on Scotch whisky from 10 per cent to 5 per cent\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal defense/security spending on Coast Guard infrastructure\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

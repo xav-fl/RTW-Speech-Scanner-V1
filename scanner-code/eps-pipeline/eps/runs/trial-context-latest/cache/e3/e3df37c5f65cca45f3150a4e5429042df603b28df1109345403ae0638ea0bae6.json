@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory reform of air quality monitoring requirements\", \"codes\": [{\"code\": \"Q58\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

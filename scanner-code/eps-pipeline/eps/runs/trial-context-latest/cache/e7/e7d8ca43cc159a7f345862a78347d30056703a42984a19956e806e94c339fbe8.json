@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"consumer protection and advocacy body for transport passengers\", \"codes\": [{\"code\": \"R41\", \"strength\": 2}, {\"code\": \"D18\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"new vocational/environmental GCSE curriculum linking education to green-sector careers\", \"codes\": [{\"code\": \"I21\", \"strength\": 3}, {\"code\": \"I26\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

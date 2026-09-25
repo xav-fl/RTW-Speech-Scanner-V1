@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6cabf4eda2.P003.S001\", \"D6cabf4eda2.P005.S001\"], \"anchor\": null, \"reason\": \"Does rescheduling marijuana to Schedule III expand patient access to medical treatment and improve research on its safety and efficacy?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

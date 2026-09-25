@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D24c3032fa3.P003.S001\"], \"anchor\": null, \"reason\": \"Does centralised government procurement of shared cloud data platforms reduce IT costs and improve cross-agency efficiency?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

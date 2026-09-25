@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"1976aa544909e6a7\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on supporting start-ups and scale-ups to break into new markets\",\n        \"evidence\": \"I want to see more start-ups and scale-ups taking risks: building up, branching out and breaking into new markets- backed up by government action.\"\n      }\n    ],\n    \"note\": \"The opening 'That is why' refers back to the Secretary of State's stated desire to see more start-ups and scale-ups backed by government action.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

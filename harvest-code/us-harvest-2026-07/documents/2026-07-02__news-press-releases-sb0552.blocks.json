@@ -1,0 +1,59 @@
+{
+ "url": "https://home.treasury.gov/news/press-releases/sb0552/",
+ "institution_id": "us-treasury",
+ "title": "Treasury and IRS to Accept Philanthropic Stock Contributions for Trump Accounts",
+ "date": "2026-07-02",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "36b315f351a07d0e71fb8f01dd716fee2a7fb45fb3e558c227ca14be20b0f610",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Treasury Secretary Scott Bessent",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

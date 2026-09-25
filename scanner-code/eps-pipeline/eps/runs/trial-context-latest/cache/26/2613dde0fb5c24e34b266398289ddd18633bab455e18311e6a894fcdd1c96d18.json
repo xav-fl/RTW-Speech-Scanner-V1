@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"enforcement against fraudulent foreign companies misrepresenting domestic origin to win federal procurement\", \"codes\": [{\"code\": \"H57\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

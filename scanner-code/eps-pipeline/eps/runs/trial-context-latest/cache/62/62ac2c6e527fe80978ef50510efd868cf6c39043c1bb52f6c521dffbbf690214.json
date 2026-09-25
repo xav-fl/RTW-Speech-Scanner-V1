@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"low-interest government loans to housing associations for residential construction\", \"codes\": [{\"code\": \"R31\", \"strength\": 3}, {\"code\": \"H81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

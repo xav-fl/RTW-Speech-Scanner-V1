@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"47b1b49a4ba604e5\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This investment\",\n        \"insertion\": \", the $11 million NSF award to CSTA,\",\n        \"evidence\": \"The U.S. National Science Foundation today announced an $11 million award to the Computer Science Teachers Association (CSTA)\"\n      },\n      {\n        \"position\": \"after\",\n        \"anchor\": \"the Executive Order\",\n        \"insertion\": \"on Advancing Artificial Intelligence Education for American Youth\",\n        \"evidence\": \"the executive order on Advancing Artificial Intelligence Education for American Youth\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"952c7e1b3094da68\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this vile crime\",\n        \"insertion\": \"— cyberflashing, sending unsolicited nude images —\",\n        \"evidence\": \"People using dating apps and social media platforms will be better protected from receiving unsolicited nude images, as a new law compelling tech firms to stop this type of content before it reaches users comes into force today\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

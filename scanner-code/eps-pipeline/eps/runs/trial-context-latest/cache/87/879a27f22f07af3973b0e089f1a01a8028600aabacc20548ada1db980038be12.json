@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9c4b84b844.P006.S002\", \"D9c4b84b844.P006.S003\"], \"anchor\": null, \"reason\": \"Did post-Cold War deindustrialisation and supply-chain dependence on China increase Western economic vulnerability?\"},{\"unit_ids\": [\"D9c4b84b844.P007.S001\", \"D9c4b84b844.P007.S002\"], \"anchor\": null, \"reason\": \"What are the costs and benefits of building a Western supply chain free from dependence on any single foreign supplier?\"},{\"unit_ids\": [\"D9c4b84b844.P022.S002\", \"D9c4b84b844.P022.S003\"], \"anchor\": null, \"reason\": \"What is the effect of continued US arms provision to Ukraine and sanctions on Russia on war duration and outcomes?\"},{\"unit_ids\": [\"D9c4b84b844.P040.S002\", \"D9c4b84b844.P040.S003\", \"D9c4b84b844.P040.S004\", \"D9c4b84b844.P040.S005\"], \"anchor\": null, \"reason\": \"Does channelling US humanitarian aid to Cuba via the Catholic Church improve welfare outcomes for Cuban citizens?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

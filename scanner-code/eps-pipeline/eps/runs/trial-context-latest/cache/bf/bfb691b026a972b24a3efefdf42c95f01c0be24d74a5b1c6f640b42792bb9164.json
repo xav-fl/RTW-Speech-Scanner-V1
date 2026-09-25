@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"e1ec12baaf87ac7f\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This interim contract\",\n        \"insertion\": \", the GLS Interim leasing support services contract,\",\n        \"evidence\": \"GSA Leasing Support Services (GLS) Interim contract will be a bridge for GSA's leasing support services\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"c3ba52bcfc8f58d6\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This extension\",\n        \"insertion\": \", of current GLS Plus contracts via the GLS Interim contract,\",\n        \"evidence\": \"awarded nine GLS Interim contracts to current GLS Plus contract holders for up to 12 months. This proactive step extends the current contracts\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"SBIC program expansion to channel private capital to rural entrepreneurs and manufacturers\", \"codes\": [{\"code\": \"O18\", \"strength\": 2}, {\"code\": \"L52\", \"strength\": 2}, {\"code\": \"G23\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

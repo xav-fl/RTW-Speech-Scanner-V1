@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dabf610b874.P004.S002\"], \"anchor\": \"the Trump SBA is strengthening domestic supply chains by connecting the small and large businesses that partner to power domestic production\", \"reason\": \"Does a government-run supplier matchmaking programme increase small business contracting and domestic supply chain integration?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

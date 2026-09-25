@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"suspension of minority small business program participants for non-compliance with documentation requirements\", \"codes\": [{\"code\": \"L38\", \"strength\": 3}, {\"code\": \"H57\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

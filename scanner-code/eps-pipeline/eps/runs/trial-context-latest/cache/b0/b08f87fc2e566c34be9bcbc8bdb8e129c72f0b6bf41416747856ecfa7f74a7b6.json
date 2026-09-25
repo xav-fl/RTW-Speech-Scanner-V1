@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2e494899e5.P009.S001\", \"D2e494899e5.P009.S002\"], \"anchor\": null, \"reason\": \"Does ending police recording of lawful online speech affect crime rates or community safety outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

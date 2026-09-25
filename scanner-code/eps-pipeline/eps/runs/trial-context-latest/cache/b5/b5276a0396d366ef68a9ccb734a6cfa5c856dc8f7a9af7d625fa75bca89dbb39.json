@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0fe555d2cf.P015.S003\"], \"anchor\": null, \"reason\": \"Does a business-friendly regulatory environment and strong rule of law increase foreign direct investment inflows?\"},{\"unit_ids\": [\"D0fe555d2cf.P066.S007\"], \"anchor\": \"If you enter our country as a visitor, and as a visitor in our country – be it a student, a tourist, a journalist, whatever you want to be – and you undertake activities that are against the national interest and national security of the United States, we will take away your visa.\", \"reason\": \"Does revoking visas of foreign nationals for national-security reasons deter targeted speech or behaviour?\"},{\"unit_ids\": [\"D0fe555d2cf.P043.S003\", \"D0fe555d2cf.P043.S005\"], \"anchor\": null, \"reason\": \"What are the economic costs of concentrated supply-chain dependence on a single country, and what are the gains from diversification?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

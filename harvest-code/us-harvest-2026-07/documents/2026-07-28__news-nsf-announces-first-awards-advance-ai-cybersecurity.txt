@@ -1,0 +1,79 @@
+NSF News
+
+NSF announces first awards to advance AI and cybersecurity education and workforce development through CyberAICorps Scholarship for Service Program
+
+July 28, 2026
+
+The U.S. National Science Foundation's Directorate for STEM Education today announced the inaugural awards under the CyberAICorps Scholarship for Service (CyberAI SFS) program, representing a major expansion of NSF's longstanding Scholarship for Service initiative. The awards support colleges and universities that are preparing the next generation of professionals to address emerging cybersecurity challenges in an era in which artificial intelligence is transforming both cyber defense and cyber risk.
+
+The CyberAI SFS program expands the traditional scope of cybersecurity education to reflect the increasingly interconnected relationship between AI and cybersecurity. Funded projects aim to prepare students not only to leverage AI to strengthen cybersecurity operations, including threat detection, incident response and digital forensics, but also to develop AI systems that are resilient, secure and capable of withstanding evolving cyber threats.
+
+The Fiscal Year 2026 competition attracted proposals from colleges and universities across the country. Following NSF's rigorous merit review process, the selected projects emerged for their potential to advance education and workforce development, while addressing pressing national priorities at the intersection of AI and cybersecurity.
+
+> Through the CyberAICorps Scholarship for Service program, NSF is investing in the talent needed to secure today's digital infrastructure and AI-enabled technologies and advance the nation’s capacity to meet evolving cybersecurity threats,
+
+said Brian Stone, performing the duties of the NSF director.
+
+The awardees reflect a shared commitment to preparing professionals with expertise that spans AI and cybersecurity, skills that are increasingly critical to protecting federal systems, critical infrastructure, defense, healthcare, energy and other sectors essential to the nation's security and economic well-being.
+
+Many of the projects introduce innovative educational models that bring together disciplines traditionally taught separately. Students will engage with integrated coursework spanning AI-enabled cyber defense and cyber-physical systems security, equipping them to navigate the rapidly evolving CyberAI landscape.
+
+The awards also emphasize experiential learning as a cornerstone of workforce preparation. Through faculty-mentored research, cyber virtual training, security laboratories, internships, capstone experiences and partnerships addressing real-world government and critical infrastructure challenges, students will graduate with practical experience alongside strong technical knowledge and skills.
+
+By combining scholarships with strong mentoring, career development and partnerships across the public sector, the funded projects will strengthen direct pathways into federal, state, local, tribal and territorial government service. Together, they will continue to build a sustainable pipeline of CyberAI professionals prepared to support the missions of government agencies and safeguard the nation's increasingly AI-enabled digital and technology ecosystem.
+
+The awardee institutions and their projects are listed below:
+
+Arizona State University, Arizona: CyberAI SFS: AI-Augmented Cybersecurity Scholars Program.
+
+Augusta University, Georgia: CyberAI SFS: Government-ready Experts in Resilient CyberAI (AUGER CyberAI).
+
+California State University, San Bernardino, California: CyberAI SFS: Building a Federal Workforce Pipeline of AI-Enabled Cybersecurity Professionals.
+
+Michigan Technological University, Michigan: CyberAI SFS: Building the Future Cybersecurity and AI Workforce.
+
+New Jersey Institute of Technology, New Jersey: CyberAI SFS: Secure Computing with AI.
+
+Old Dominion University, Virginia: CyberAI SFS: Preparing Future CyberAI LeADERS through AI-Integrated Training and Applied Learning Experiences.
+
+Texas A&M University, Texas: CyberAI SFS: Building an AI-Powered Government Workforce.
+
+University of Central Florida, Florida: CyberAI SFS: Educating Florida's Federal CyberAI Workforce for Secure AI in Space, Defense, and Modeling and Simulation.
+
+University of New Haven, Connecticut: CyberAI SFS: Building an AI-Empowered Cybersecurity Workforce Through Integrated BS/MS Pathways.
+
+University of Rhode Island, Rhode Island: CyberAI SFS: Multi-Pathway CyberAI Scholarship for Service.
+
+University of West Florida, Florida: CyberAI SFS: Future Operations, Resilience, and Career Ecosystem (CyberAI SFS FORCE).
+
+The University of Texas at Dallas, Texas: CyberAI SFS: Training Next Generation AI-Proficient Cybersecurity Workforce for Offense and Defense.
+
+The University of Texas at El Paso, Texas: CyberAI SFS: Building an AI-Integrated Cybersecurity Workforce.
+
+Vanderbilt University, Tennessee: CyberAI SFS: Secure and Trustworthy AI Research and Training Program (STAR).
+
+Learn more about CyberAICorps SFS program.
+
+Research areas
+
+Directorate for STEM Education (EDU)
+
+Topics
+
+Artificial Intelligence
+
+Cybersecurity
+
+Education
+
+Share
+
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+
+Related stories
+
+NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics
+
+NSF announces 3 additional topics as part of the NSF X-Labs initiative to pursue generational breakthrough science and technology efforts
+
+NSF launches $20M pilot to accelerate commercialization of promising deep technologies from small businesses

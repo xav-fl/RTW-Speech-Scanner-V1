@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government procurement contract optimization\", \"codes\": [{\"code\": \"H57\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"central government regional investment grants\", \"codes\": [{\"code\": \"R58\", \"strength\": 3}, {\"code\": \"H72\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

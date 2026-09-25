@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D56893522d7.P002.S001\"], \"anchor\": null, \"reason\": \"Does requiring employers to prioritise U.S. worker recruitment before sponsoring foreign labour improve American employment outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

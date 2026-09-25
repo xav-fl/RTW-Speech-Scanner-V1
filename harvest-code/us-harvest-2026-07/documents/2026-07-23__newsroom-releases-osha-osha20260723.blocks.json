@@ -1,0 +1,47 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/osha/osha20260723",
+ "institution_id": "us-labor",
+ "title": "Federal investigators cite Florida roofing contractor for willfully, repeatedly ignoring fall protection standards, propose $349K in fines",
+ "date": "2026-07-23",
+ "date_source": "listing",
+ "source_document_type": "OSHA",
+ "text_sha256": "2dc7de0d107bfadc2779e138e3e267e11d5d22b616cb518aa4a9b985c9b383fa",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

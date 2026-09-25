@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"578647cef5926bd1\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This program\",\n        \"insertion\": \", the Native Youth Firefighter Training Program,\",\n        \"evidence\": \"Through the Native Youth Firefighter Training Program, high school and post-secondary students receive hands-on instruction, mentorship and technical training\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

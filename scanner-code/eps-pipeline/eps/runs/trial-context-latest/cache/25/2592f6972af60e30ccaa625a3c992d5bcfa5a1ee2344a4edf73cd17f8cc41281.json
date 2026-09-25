@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3493f4dfd0.P005.S001\"], \"anchor\": null, \"reason\": \"Does federal investment in grid modernisation lower electricity costs for American families and businesses?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

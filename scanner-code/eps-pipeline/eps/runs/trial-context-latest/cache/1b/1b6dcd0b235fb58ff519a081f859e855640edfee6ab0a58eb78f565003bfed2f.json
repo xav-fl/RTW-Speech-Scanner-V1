@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"long-distance biking corridors for local tourism using existing infrastructure\", \"codes\": [{\"code\": \"L83\", \"strength\": 3}, {\"code\": \"R42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

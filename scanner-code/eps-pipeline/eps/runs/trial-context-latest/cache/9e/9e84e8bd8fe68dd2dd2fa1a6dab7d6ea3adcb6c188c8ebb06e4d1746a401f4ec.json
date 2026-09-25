@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D796159fca1.P003.S001\", \"D796159fca1.P005.S001\"], \"anchor\": null, \"reason\": \"Does selling underutilised federal properties reduce costs and generate fiscal savings for taxpayers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

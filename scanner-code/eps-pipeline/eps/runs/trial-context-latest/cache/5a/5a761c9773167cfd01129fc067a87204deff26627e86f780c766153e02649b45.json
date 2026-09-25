@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1e4e58c76a.P004.S001\"], \"anchor\": null, \"reason\": \"Does modernising SBIC regulations improve capital flow efficiency to emerging growth companies and manufacturers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

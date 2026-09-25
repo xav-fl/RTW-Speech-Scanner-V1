@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dcbbfd3fc4c.P004.S001\", \"Dcbbfd3fc4c.P004.S002\"], \"anchor\": null, \"reason\": \"Does restoring whole milk to school meals improve children's health outcomes and dairy farmer incomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

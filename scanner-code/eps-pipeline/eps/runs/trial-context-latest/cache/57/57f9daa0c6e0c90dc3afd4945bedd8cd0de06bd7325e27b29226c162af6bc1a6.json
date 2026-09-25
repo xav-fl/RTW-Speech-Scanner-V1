@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D90fcf8d306.P009.S001\", \"D90fcf8d306.P009.S002\"], \"anchor\": null, \"reason\": \"Does removing taxpayer subsidies for offshore wind shift private investment toward conventional energy infrastructure?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

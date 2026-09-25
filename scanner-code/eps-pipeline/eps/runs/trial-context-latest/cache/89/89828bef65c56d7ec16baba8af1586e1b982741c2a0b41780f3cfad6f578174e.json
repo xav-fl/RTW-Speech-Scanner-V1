@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"preventing post-conflict instability, migration, and violence spillover\", \"codes\": [{\"code\": \"F22\", \"strength\": 2}, {\"code\": \"D74\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

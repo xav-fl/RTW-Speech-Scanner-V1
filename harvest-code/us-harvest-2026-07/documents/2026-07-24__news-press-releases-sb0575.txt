@@ -1,0 +1,47 @@
+WASHINGTON — Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Alert urging financial institutions to detect, prevent, and report suspicious activity connected to fraud schemes targeting student aid programs administered by the Federal government. Today’s action is the latest in Treasury’s efforts, led by President Trump and Vice President Vance, to eliminate government benefits fraud.
+
+> Every dollar stolen from Federal student aid is a dollar taken from taxpayers and deserving students,
+
+said Secretary of the Treasury Scott Bessent.
+
+> The Trump Administration will not tolerate criminals who exploit government programs for personal gain. Treasury is working with financial institutions and law enforcement to identify these fraud schemes, recover stolen funds, and hold those responsible accountable.
+
+Fraud rings use stolen and fraudulent identities, as well as other tactics, to enroll in educational institutions and unlawfully acquire funds from Federal student aid programs. The schemes not only result in losses to Federal student aid programs, but in some cases, real students face difficulties enrolling in classes because of the number of fraudulently enrolled “students.”
+
+Fraudsters Steal Personally Identifiable Information to Create “Ghost Students”
+
+To create ghost students, fraudsters may illegally obtain Personally Identifiable Information (PII) to impersonate an identity theft victim and pose as a legitimate student.
+
+Fraudsters may also use artificial intelligence or other tools to overcome identity verification by generating fraudulent documents that combine stolen PII with fabricated details, commonly referred to as synthetic identities.
+
+Victims whose identities are leveraged as part of ghost student schemes, including minors, are unaware that fraudsters are receiving Federal student aid using their PII.
+
+Fraud Rings Leverage Complicit “Straw Students” to Obtain Federal Student Aid
+
+Straw students are complicit individuals who, for a fee, provide their PII to fraudsters, who then enroll them at educational institutions and collect financial aid refunds issued in their names.
+
+Fraudsters may organize sophisticated networks of individual straw students to obtain Federal student aid.
+
+Corrupt staff at educational institutions can act as insiders for fraud schemes, taking advantage of their positions to defraud Federal student aid programs by recruiting straw students and manipulating their educational records.
+
+Financial Institutions Are Encouraged to Identify and Report Suspicious Activity Involving Federal Student Aid Fraud
+
+Financial institutions may be able to identify student aid refund payments either through deposits made directly by educational institutions or by contracted intermediaries.
+
+According to Bank Secrecy Act data, payments made by an intermediary typically occur via Automated Clearing House transfers and the associated transaction references may include the term “refund” and the educational institution’s name or abbreviation (e.g.,
+
+> Local Community College Refund
+
+or “LCC REFUND”).
+
+In some cases, the stated recipient may also be listed in the transaction reference (e.g.,
+
+> LCC REFUND John Doe
+
+).
+
+After illicitly obtaining student aid refunds, fraudsters may launder student aid funds, including through money mules, shell companies, and fraudulent accounts.
+
+Under President Trump’s leadership, Treasury is committed to eliminating government benefits fraud. Today’s Alert aims to defend the United States against financial fraud and improper payments, an objective of Executive Order 14249, Protecting America’s Bank Account Against Fraud, Waste, and Abuse.
+
+###

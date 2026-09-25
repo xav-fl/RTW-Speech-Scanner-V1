@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1ca37f055f.P015.S004\"], \"anchor\": \"we are targeting and removing gang members from our communities and ensuring those that committed crimes in our country face justice\", \"reason\": \"Does targeted removal of gang members from communities reduce local crime rates?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

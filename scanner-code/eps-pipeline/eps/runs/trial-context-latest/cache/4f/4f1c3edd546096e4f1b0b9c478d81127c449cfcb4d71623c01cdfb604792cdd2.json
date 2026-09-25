@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Deca8d15d91.P003.S001\"], \"anchor\": null, \"reason\": \"Does prioritising American suppliers in federal procurement strengthen domestic supply chains and employment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D95d9df85ae.P008.S001\", \"D95d9df85ae.P008.S002\"], \"anchor\": null, \"reason\": \"Does shifting Social Security to a digital-first model while retaining field offices affect service access and costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

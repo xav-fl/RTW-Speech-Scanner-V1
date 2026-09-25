@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"9abf50a6fc649b17\",\n    \"status\": \"unresolved\",\n    \"insertions\": [],\n    \"note\": \"The document does not name or describe the specific legislation introduced weeks after entering office beyond this reference. No title or further detail is given to identify it with confidence.\"\n  },\n  {\n    \"quote_id\": \"e7e55c4f09a2dbcf\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is self-contained; 'a strengthened Passenger Watchdog' is sufficiently identified by its own description and context.\"\n  },\n  {\n    \"quote_id\": \"1ce6548c45aa3921\",\n    \"status\": \"unresolved\",\n    \"insertions\": [],\n    \"note\": \"The document mentions 'our 2050 freight target' but provides no further detail about what the target entails, so the referent cannot be identified with confidence from the document alone.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

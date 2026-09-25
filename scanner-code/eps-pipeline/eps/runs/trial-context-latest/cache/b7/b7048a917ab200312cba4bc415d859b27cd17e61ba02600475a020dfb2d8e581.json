@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7823eee481.P003.S001\"], \"anchor\": \"The UK, at the request from the US, supported this operation as part of global efforts to crack down on sanctions-busting and shadow shipping activity.\", \"reason\": \"Does participating in sanctions enforcement operations against shadow shipping reduce sanctions-busting and its revenue effects?\"},{\"unit_ids\": [\"D7823eee481.P031.S001\", \"D7823eee481.P032.S001\", \"D7823eee481.P033.S001\"], \"anchor\": null, \"reason\": \"How effective are sanctions on shadow fleet vessels at reducing sanctioned states' oil revenues and shipping capacity?\"},{\"unit_ids\": [\"D7823eee481.P066.S001\", \"D7823eee481.P066.S002\"], \"anchor\": null, \"reason\": \"What are the costs and security benefits of deploying a multinational force to support Ukraine's defence capabilities post-ceasefire?\"},{\"unit_ids\": [\"D7823eee481.P072.S001\"], \"anchor\": null, \"reason\": \"Does long-term provision of armaments and security guarantees deter future armed aggression against Ukraine?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

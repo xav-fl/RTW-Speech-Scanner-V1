@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9f7cb7bd9a.P001.S001\"], \"anchor\": null, \"reason\": \"What are the effects of US direct humanitarian aid to Cuba on recovery outcomes after Hurricane Melissa?\"},{\"unit_ids\": [\"D9f7cb7bd9a.P003.S001\", \"D9f7cb7bd9a.P003.S002\"], \"anchor\": null, \"reason\": \"Does routing humanitarian aid through religious institutions rather than governments improve delivery efficiency and reduce diversion?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,35 @@
+An alleged member of the criminal cyber hacking group Scattered Spider has been arrested in Finland and extradited to the United States to face federal criminal conspiracy charges in the Northern District of Illinois.
+
+A criminal complaint unsealed Tuesday charges Peter Stokes, 19, a dual citizen of the United States and Estonia, with conspiracy, computer intrusion, and fraud. Stokes was arrested by Finnish authorities in April pursuant to an Interpol Red Notice and extradited to the United States last week. He made an initial appearance on Tuesday in federal court in Chicago and was ordered to remain in law enforcement custody.
+
+> The criminal complaint charges Peter Stokes with membership in Scattered Spider, a hacking group that has been involved in over 100 network intrusions, resulting in more than $100 million in ransom payments and millions more in damages to the victims,
+
+said Assistant Attorney General A. Tysen Duva of the Justice Department’s Criminal Division.
+
+> The charges unsealed today are the result of years of work by the Criminal Division, the U.S. Attorney’s Office for the Northern District of Illinois, and the FBI. We will continue to partner to ensure that cybercriminals cannot evade the reach of the United States.
+
+> The malicious attacks from Scattered Spider caused widespread disruption to businesses and organizations throughout the United States,
+
+said U.S. Attorney Andrew S. Boutros for the Northern District of Illinois.
+
+> As Co-Chair of the White Collar, Cyber, and Crypto Subcommittee of Acting Attorney General Blanche’s Advisory Committee, I am acutely aware of the significant and growing threat posed by brazen cyber criminals. These charges underscore our unwavering commitment to keeping pace with technologically savvy criminal actors and holding accountable those who seek to profit from cyber intrusions, including those located in foreign jurisdictions who do harm to American businesses and victims.
+
+> Scattered Spider has repeatedly targeted U.S. companies, extorting employees, inflicting millions of dollars in losses, and disrupting essential operations,
+
+said Assistant Director Brett Leatherman of the FBI’s Cyber Division.
+
+> Through strong domestic and international partnerships, the FBI will continue to identify, disrupt, and hold cybercriminals accountable, no matter where they are located.
+
+According to the complaint, Scattered Spider, also known as “Octo Tempest,” “UNC3944,” and “0ktapus,” is a group of criminal cyber actors that has targeted numerous corporate victims in the United States by gaining access to companies’ employee accounts through fraudulent pretenses, encrypting the companies’ data or exfiltrating it to remote servers, and then extorting cryptocurrency from the companies to regain control over their data or prevent the dissemination of the data.
+
+Among other offenses, the complaint alleges that Stokes and other co-conspirators breached a luxury jewelry retailer’s computer system, exfiltrated data from the company, and made a ransom demand of approximately $8 million in cryptocurrency in May 2025. The retailer’s security personnel successfully evicted the threat actors from the company’s computer network and no ransom was paid. The retailer nonetheless suffered a loss of at least $2 million due to business disruption, investigation, and mitigation of the threat.
+
+The FBI Chicago Field Office investigated the case. The FBI’s Copenhagen Law Enforcement Attaché Office assisted.
+
+The case is being prosecuted by Assistant Deputy Chief Adrienne L. Rose of the Criminal Division’s Computer Crime and Intellectual Property Section (CCIPS) and Assistant U.S. Attorneys Jennifer Chang and Ann Marie Ursini for the Northern District of Illinois. The Justice Department’s Office of International Affairs worked with Finnish authorities to secure the extradition of Stokes. The Department of Justice also acknowledges and appreciates the assistance of Finland's National Bureau of Investigation in this matter.
+
+CCIPS investigates and prosecutes cybercrime and intellectual property (IP) crime in coordination with domestic and international law enforcement agencies, often with assistance from the private sector. Since 2020, CCIPS has secured the conviction of over 180 cyber and IP criminals, and court orders for the return of over $350 million in victim funds.
+
+This action is part of Operation Riptide, an ongoing FBI campaign targeting the criminal actors, infrastructure, and financial networks behind cybercrime, cyber-enabled crime, and fraud against the American people. Last year, Americans reported over $20 billion in losses to cybercrime, a 26 percent single-year increase. Operation Riptide is the FBI’s sustained enforcement response to that threat.
+
+A complaint is merely an allegation. All defendants are presumed innocent until proven guilty in a court of law.

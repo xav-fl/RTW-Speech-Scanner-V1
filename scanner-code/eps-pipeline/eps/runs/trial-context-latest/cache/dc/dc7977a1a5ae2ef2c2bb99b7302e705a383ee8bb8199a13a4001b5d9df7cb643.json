@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"homeland security grant conditions for election system cybersecurity\", \"codes\": [{\"code\": \"H56\", \"strength\": 2}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

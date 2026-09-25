@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1410028cb8.P004.S001\"], \"anchor\": \"the Endangerment Finding is now eliminated.\", \"reason\": \"What are the economic effects of revoking the GHG Endangerment Finding on vehicle markets and consumer costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

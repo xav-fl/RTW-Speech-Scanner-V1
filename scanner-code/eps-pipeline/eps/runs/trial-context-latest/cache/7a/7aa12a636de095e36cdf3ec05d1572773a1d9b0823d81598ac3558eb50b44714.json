@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"AI skills integration into apprenticeship workforce training programs\", \"codes\": [{\"code\": \"J24\", \"strength\": 3}, {\"code\": \"O33\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

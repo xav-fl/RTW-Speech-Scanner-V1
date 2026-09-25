@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbcf9e5f37c.P002.S001\"], \"anchor\": null, \"reason\": \"Does aggressive DOJ enforcement against corporate race-based programmes deter or change firms' DEI investment practices?\"},{\"unit_ids\": [\"Dbcf9e5f37c.P004.S001\"], \"anchor\": null, \"reason\": \"Does threatening enforcement against race-based corporate programmes reduce discriminatory lending or investment practices?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

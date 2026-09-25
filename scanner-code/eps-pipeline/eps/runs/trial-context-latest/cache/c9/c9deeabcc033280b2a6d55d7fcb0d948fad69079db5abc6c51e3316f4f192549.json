@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"fiscal rule changes enabling public investment in infrastructure and services\", \"codes\": [{\"code\": \"E62\", \"strength\": 3}, {\"code\": \"H54\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

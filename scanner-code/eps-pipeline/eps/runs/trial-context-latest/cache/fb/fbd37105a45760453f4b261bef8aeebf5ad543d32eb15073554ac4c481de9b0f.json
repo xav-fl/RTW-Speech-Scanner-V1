@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2215a72460.P010.S001\"], \"anchor\": null, \"reason\": \"Does targeted regional investment funding boost local economic growth and living standards in Scotland?\"},{\"unit_ids\": [\"D2215a72460.P011.S001\", \"D2215a72460.P011.S002\"], \"anchor\": null, \"reason\": \"Does devolving spending decisions to local leaders improve the effectiveness of regional growth funding?\"},{\"unit_ids\": [\"D2215a72460.P015.S001\"], \"anchor\": null, \"reason\": \"Does targeting regional funds at areas with lowest household income per capita reduce spatial economic inequality?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

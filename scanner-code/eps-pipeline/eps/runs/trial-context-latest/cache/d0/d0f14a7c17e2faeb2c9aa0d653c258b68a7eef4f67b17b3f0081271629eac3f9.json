@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D51300e3118.P003.S001\", \"D51300e3118.P005.S001\"], \"anchor\": null, \"reason\": \"Does using False Claims Act enforcement against DEI-related contractor practices reduce race/sex-based employment decisions in federal contracting?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal environmental regulation of coal combustion residuals, state authority delegation\", \"codes\": [{\"code\": \"Q58\", \"strength\": 3}, {\"code\": \"Q53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

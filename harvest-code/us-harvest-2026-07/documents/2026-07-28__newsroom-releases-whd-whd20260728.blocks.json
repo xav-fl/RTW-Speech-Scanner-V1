@@ -1,0 +1,35 @@
+{
+ "url": "https://www.dol.gov/newsroom/releases/whd/whd20260728",
+ "institution_id": "us-labor",
+ "title": "US Department of Labor recovers $613K for 46 workers denied minimum wage, overtime by Minnesota restaurant",
+ "date": "2026-07-28",
+ "date_source": "listing",
+ "source_document_type": "WHD",
+ "text_sha256": "dedad4e1e00719f6d033ee65b13b0df84bb322c4135b88558bc54b6b80ad66c0",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

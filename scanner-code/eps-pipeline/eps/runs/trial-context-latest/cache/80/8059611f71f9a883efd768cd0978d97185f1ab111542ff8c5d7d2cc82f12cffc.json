@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"capital allowances and corporation tax policy to incentivize business investment and growth\", \"codes\": [{\"code\": \"H25\", \"strength\": 3}, {\"code\": \"H21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

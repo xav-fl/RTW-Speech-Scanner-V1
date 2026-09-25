@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"resolving probate backlog for Native American land inheritance\", \"codes\": [{\"code\": \"K11\", \"strength\": 3}, {\"code\": \"J15\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"sex-based anti-discrimination protections in education\", \"codes\": [{\"code\": \"I28\", \"strength\": 3}, {\"code\": \"J16\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

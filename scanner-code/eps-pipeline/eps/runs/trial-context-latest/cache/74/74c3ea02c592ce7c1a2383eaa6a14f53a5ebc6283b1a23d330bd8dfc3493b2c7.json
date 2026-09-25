@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8498242a1d.P004.S001\"], \"anchor\": null, \"reason\": \"Does standardising USDA grant terms and conditions reduce compliance burdens and improve enforcement against non-compliant recipients?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

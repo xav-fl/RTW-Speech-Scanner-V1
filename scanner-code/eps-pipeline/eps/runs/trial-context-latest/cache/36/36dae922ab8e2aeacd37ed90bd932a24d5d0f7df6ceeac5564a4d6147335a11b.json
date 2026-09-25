@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da161f11df7.P006.S001\", \"Da161f11df7.P006.S002\"], \"anchor\": null, \"reason\": \"Does barring states from issuing CDLs to undocumented immigrants reduce road fatalities and public safety risks?\"}, {\"unit_ids\": [\"Da161f11df7.P008.S001\"], \"anchor\": null, \"reason\": \"What are the public safety effects of daily enforcement operations to remove undocumented immigrants with criminal records?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

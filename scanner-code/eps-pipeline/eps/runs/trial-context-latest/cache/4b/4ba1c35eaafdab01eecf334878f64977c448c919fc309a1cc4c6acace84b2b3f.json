@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal contracting access for small businesses, ending DEI preferences\", \"codes\": [{\"code\": \"H57\", \"strength\": 3}, {\"code\": \"J71\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

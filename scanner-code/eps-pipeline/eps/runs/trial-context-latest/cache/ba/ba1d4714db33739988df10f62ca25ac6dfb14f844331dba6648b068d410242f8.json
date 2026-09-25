@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8a9226b99e.P009.S001\"], \"anchor\": null, \"reason\": \"Do major infrastructure projects (LNG, Ambler Road, Trans-Alaska Pipeline) boost economic growth and lower energy costs for American families?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

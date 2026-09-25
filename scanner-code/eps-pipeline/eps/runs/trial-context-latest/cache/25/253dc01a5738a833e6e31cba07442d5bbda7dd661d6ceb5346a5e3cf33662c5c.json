@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"dd71bc4a55b139ee\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"Until they address it\",\n        \"insertion\": \"-- people now in charge of Venezuela's military and police --\",\n        \"evidence\": \"now there are other people in charge of the military and police apparatus there. They're going to have to decide now what direction they want to go\"\n      },\n      {\n        \"anchor\": \"the things we need to see addressed\",\n        \"insertion\": \"-- no drug trafficking, no Iran/Hizballah presence, no adversary control of oil --\",\n        \"evidence\": \"No more drug trafficking, no more Iran/Hizballah presence there — and no more using the oil industry to enrich all our adversaries around the world\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

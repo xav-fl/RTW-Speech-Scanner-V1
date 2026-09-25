@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0d29b00519.P006.S001\", \"D0d29b00519.P006.S002\"], \"anchor\": \"The Department of Labor is working alongside OIG agents to investigate potential fraud and misuse.\", \"reason\": \"Does joint DOL-OIG investigation of unemployment insurance fraud reduce improper payments and deter fraudulent claims?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

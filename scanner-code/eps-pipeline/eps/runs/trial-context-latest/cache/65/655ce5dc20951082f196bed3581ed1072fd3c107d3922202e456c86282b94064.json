@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9b90bf0b4d.P004.S001\", \"D9b90bf0b4d.P004.S002\"], \"anchor\": null, \"reason\": \"Does keeping retiring fossil-fuel generation online via emergency orders reduce blackout risk and maintain electricity affordability?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

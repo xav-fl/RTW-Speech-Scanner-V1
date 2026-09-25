@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal policy phasing out mercury dental amalgam in favor of safer alternatives\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"H51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

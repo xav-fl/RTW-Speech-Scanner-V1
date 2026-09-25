@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"mobilizing private investment flows to developing countries\", \"codes\": [{\"code\": \"F21\", \"strength\": 3}, {\"code\": \"O16\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

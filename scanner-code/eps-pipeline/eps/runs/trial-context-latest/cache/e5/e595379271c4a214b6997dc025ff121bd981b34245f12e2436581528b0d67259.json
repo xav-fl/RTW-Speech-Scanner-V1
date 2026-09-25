@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"post-conflict economic recovery and stabilization\", \"codes\": [{\"code\": \"O11\", \"strength\": 2}, {\"code\": \"D74\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

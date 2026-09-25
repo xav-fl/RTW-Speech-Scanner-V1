@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"502c2b8a0188afd6\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"asking them\",\n        \"insertion\": \"the JCVI\",\n        \"evidence\": \"we obviously follow the expert independent advice of the JCVI\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

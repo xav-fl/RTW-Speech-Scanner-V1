@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"9218c30fc7997f48\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on the one-year anniversary of the Los Angeles County wildfires,\",\n        \"evidence\": \"Today, on the one-year anniversary of the Los Angeles County wildfires, the U.S. Small Business Administration (SBA) announced it is once again extending disaster relief deadlines\"\n      }\n    ],\n    \"note\": \"The flagged expression 'the SBA is extending deadlines' needs context indicating this is a repeated action tied to the wildfire anniversary and California disaster relief.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

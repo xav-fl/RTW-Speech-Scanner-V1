@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D068b7d4c68.P007.S002\"], \"anchor\": null, \"reason\": \"Does expanding capital allowances and capping corporation tax increase business investment and economic growth in the UK?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

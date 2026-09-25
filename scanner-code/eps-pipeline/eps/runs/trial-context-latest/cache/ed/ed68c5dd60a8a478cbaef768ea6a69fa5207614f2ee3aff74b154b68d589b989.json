@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"governance board coordinating agri-food supply chain stakeholders\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"Q13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

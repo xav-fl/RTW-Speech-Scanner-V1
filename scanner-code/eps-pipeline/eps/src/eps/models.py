@@ -140,6 +140,54 @@ class Observation:
     reject_reason: str = ""
 
 
+@dataclass(frozen=True)
+class Insertion:
+    """One bracketed editorial addition to a quote.
+
+    `anchor` is an exact phrase from the quote; the insertion is placed
+    immediately after it. `evidence` is the verbatim passage from the source
+    document (title or body) that identifies the referent, and is what makes
+    the addition checkable without re-reading the document by hand.
+    """
+
+    anchor: str
+    insertion: str
+    evidence: str
+    # "after" places the insertion immediately after `anchor`, the ordinary
+    # case. "before" places it at the very start of the quote and ignores
+    # `anchor`: it is for a quote that opens mid-argument ("That's why we
+    # stepped in to save British steel"), where what is missing is not a noun
+    # inside the quote but the reasoning that preceded it.
+    position: str = "after"
+
+
+@dataclass
+class ContextRow:
+    """One row of the context stage's validation log — one per quote in.
+
+    Every quote that enters the stage leaves with exactly one `final_status`,
+    so a quote that was never reached is distinguishable from one the model
+    judged self-contained. `quote_in_context` always holds a usable string: it
+    falls back to the unmodified quote whenever context was not added.
+    """
+
+    quote_id: str
+    doc_id: str
+    url: str
+    direct_quote: str
+    quote_in_context: str
+    final_status: str
+    triage_expressions: list[str] = field(default_factory=list)
+    insertions: list[Insertion] = field(default_factory=list)
+    warnings: list[str] = field(default_factory=list)
+    model_note: str = ""
+    triage_prompt_version: str = ""
+    resolve_prompt_version: str = ""
+    provider: str = ""
+    model: str = ""
+    run_timestamp: str = ""
+
+
 @dataclass
 class ScreeningRow:
     """One row per document inspected, so a genuine zero is distinguishable

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"deregulation and permitting streamlining for domestic energy and critical minerals extraction\", \"codes\": [{\"code\": \"Q38\", \"strength\": 3}, {\"code\": \"L72\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

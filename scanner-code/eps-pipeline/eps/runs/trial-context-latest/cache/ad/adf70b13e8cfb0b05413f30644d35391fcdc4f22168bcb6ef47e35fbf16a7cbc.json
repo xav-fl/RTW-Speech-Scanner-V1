@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"47b1b49a4ba604e5\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"the Executive Order\",\n        \"insertion\": \"on Advancing Artificial Intelligence Education for American Youth\",\n        \"evidence\": \"the executive order on Advancing Artificial Intelligence Education for American Youth\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

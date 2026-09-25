@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"statutory cap on ground rent for leaseholders\", \"codes\": [{\"code\": \"K11\", \"strength\": 3}, {\"code\": \"R31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

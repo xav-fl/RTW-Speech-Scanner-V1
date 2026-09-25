@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"enforcement action against fraudulent pandemic-era SBA loan forgiveness\", \"codes\": [{\"code\": \"H81\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

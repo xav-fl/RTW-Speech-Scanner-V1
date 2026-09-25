@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"d9f47e23b0e55eff\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This investment\",\n        \"insertion\": \"— £86.5 million in ITM Power's hydrogen manufacturing expansion —\",\n        \"evidence\": \"Great British Energy, the UK's publicly owned energy company, and government to invest £86.5 million in a UK-first hydrogen project in South Yorkshire\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

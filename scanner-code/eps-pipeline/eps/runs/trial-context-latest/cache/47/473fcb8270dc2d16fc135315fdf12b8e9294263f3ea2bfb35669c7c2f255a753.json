@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dee667f060e.P005.S001\"], \"anchor\": null, \"reason\": \"Does mobilising unused backup generation at data centres reduce blackout frequency and energy costs for consumers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

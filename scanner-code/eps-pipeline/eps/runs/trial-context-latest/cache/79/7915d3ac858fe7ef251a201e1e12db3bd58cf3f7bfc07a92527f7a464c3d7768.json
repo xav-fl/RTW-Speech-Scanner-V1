@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D61225b7ad9.P008.S001\"], \"anchor\": null, \"reason\": \"Does reducing regulatory burden on federal energy producers increase domestic oil, gas, and coal output and lower consumer prices?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

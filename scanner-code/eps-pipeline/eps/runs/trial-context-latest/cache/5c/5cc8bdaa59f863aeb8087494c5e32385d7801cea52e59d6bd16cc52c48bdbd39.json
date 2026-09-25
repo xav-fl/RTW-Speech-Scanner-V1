@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df0311eebb0.P009.S001\"], \"anchor\": null, \"reason\": \"Does securing minimum annual water deliveries from Mexico stabilise agricultural output and incomes in the Lower Rio Grande Valley?\"},{\"unit_ids\": [\"Df0311eebb0.P009.S002\"], \"anchor\": null, \"reason\": \"How does requiring repayment of accumulated water debt affect cross-border water treaty compliance and agricultural water security?\"},{\"unit_ids\": [\"Df0311eebb0.P010.S001\"], \"anchor\": \"both parties will hold monthly meetings to ensure timely, consistent deliveries and prevent future deficits\", \"reason\": \"Do monitoring mechanisms like monthly delivery meetings improve compliance with international water-sharing agreements?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

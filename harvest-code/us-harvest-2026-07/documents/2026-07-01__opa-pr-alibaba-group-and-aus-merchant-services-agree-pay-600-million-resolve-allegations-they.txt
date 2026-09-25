@@ -1,0 +1,73 @@
+Note: The press release has been updated to clarify that AUS is a subsidiary of Ant Group.
+
+View Alibaba non-prosecution agreement here. View AUS Merchant Services non-prosecution agreement here.
+
+Alibaba Group Holding Limited (Alibaba) — one of China’s largest companies — and its U.S.-based payment processor, AUS Merchant Services Inc. (AUS, and formerly known as Alipay US), have entered a non-prosecution agreement to pay $600 million to resolve the Justice Department’s allegations that they violated the Federal Food, Drug, and Cosmetic Act (FDCA) by failing to prevent merchants from selling and importing illegal pharmaceuticals, controlled substances, listed chemicals, and pill presses into the United States through the Alibaba.com and AliExpress.com e‑commerce platforms.
+
+Alibaba operates e-commerce platform Alibaba.com, one of the world’s largest business-to-business (B2B) online marketplaces, and e-commerce platform AliExpress.com, a global business-to-consumer online marketplace. AUS is a subsidiary of Ant Group, which operates Alipay, one of the largest mobile and digital payment platforms in the world.
+
+Alibaba admitted that, between January 2016 and December 2024, it failed to prevent merchants using its Alibaba.com and AliExpress.com platforms from engaging in approximately 80,000 product sales involving imports into the United States, including List I and II chemicals, pharmaceuticals, and pharmaceutical counterfeiting equipment. These sales violated the FDCA and other federal laws. The combined gross merchandise value of these transactions exceeded $200 million. During the investigation, federal law enforcement conducted over 40 undercover purchases of pharmaceuticals and counterfeiting equipment that were illegal to be imported into the United States.
+
+Although Alibaba maintained policies restricting the sale of prohibited products on Alibaba.com and AliExpress.com, employees raised concerns that the company’s compliance controls were inadequate and failed to prevent the sale and importation of illegal products. Alibaba also provided merchants and buyers with a private, in-platform messaging service that some merchants used to facilitate unlawful transactions. In some instances, merchants used Alibaba's messaging service to direct buyers to third-party encrypted messaging platforms to facilitate those unlawful transactions. Alibaba derived some profit related to those sellers' illegal activities on Alibaba.com by charging membership, marketing, advertising, shipping, and payment-processing fees.
+
+AUS admitted that, between January 2020 and December 2023, it accepted U.S. dollar-denominated payments through credit cards and wire transfers routed through U.S. bank accounts before transferring the funds offshore for settlement on behalf of its customers. When AUS implemented its own transaction-monitoring system for those transactions, it failed to fully incorporate certain wire-transfer data. As a result, its transaction monitoring did not always identify transactions involving payments from high-risk jurisdictions or multiple payors on a single invoice. Additionally, AUS admitted that its anti-money laundering compliance program failed to prevent some Alibaba merchants from using its payment processing and settlement services to facilitate the sale and importation of prohibited products into the United States. In certain instances, rather than systematically restricting merchants identified as selling prohibited merchandise, AUS instead reported those merchants to Alibaba. In at least one instance, a merchant subsequently continued selling prohibited products to U.S. buyers after AUS had investigated and reported the merchant.
+
+As part of the non-prosecution agreement, Alibaba and AUS accepted responsibility for the acts of their officers, directors, employees, and agents in connection with the above conduct. Alibaba agreed to pay a criminal monetary penalty of $125 million and to forfeit $200 million. AUS agreed to pay a criminal monetary penalty of $85 million and to forfeit $190 million. Alibaba and AUS also agreed to enhance their compliance programs and to continue cooperating with the department in any ongoing or future criminal investigation relating to this conduct.
+
+The Justice Department reached this resolution with Alibaba and AUS based on several factors, including their good-faith efforts to implement and refine compliance measures, engagement in remedial measures, absence of prior criminal history, commitment to cooperation with federal agencies, and the nature and seriousness of the offense. Alibaba and AUS also received some credit for their cooperation with the department’s investigation and affirmative acceptance of responsibility.
+
+> Today’s resolution reflects the Department of Justice’s commitment to ensuring that companies operating e-commerce and digital payment platforms keep illegal, unapproved, misbranded, and dangerous foreign pharmaceuticals off their marketplaces,
+
+said Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division.
+
+> Companies operating online marketplaces — whether based in the United States or abroad — must implement appropriate safeguards to prevent bad actors from exploiting their platforms. If they fail to do so, the Department will hold them accountable.
+
+> Without active compliance, criminals use e-commerce sites to carry on and profit from illicit activity,
+
+said Assistant Attorney General Tysen Duva of the Justice Department’s Criminal Division.
+
+> Alibaba and AUS have documented steps taken to improve their screening and compliance and provided a commitment to ongoing cooperation with U.S. law enforcement in the future. As a result, another channel for illegal pharmaceuticals and associated equipment is now closed.
+
+> This resolution reflects the Department of Justice’s commitment to holding companies accountable when their platforms are used to facilitate the unlawful sale of illegal pharmaceuticals, related pharmaceutical equipment and other prohibited products in the United States,
+
+said First Assistant U.S. Attorney Charles C. Calenda for the District of Rhode Island.
+
+> The $600 million resolution with Alibaba Group and Alipay US, the largest monetary settlement in the history of the District of Rhode Island, achieves meaningful accountability while securing significant compliance measures designed to strengthen oversight, prevent future violations, and better protect American consumers. The outcome would not have been possible without the exceptional efforts of the dedicated prosecutors, investigators, and numerous federal, state, and local partners, whose collaboration and commitment were critical to the success of this investigation.
+
+> Online platforms that facilitate the sale and distribution of counterfeit and other illegal pharmaceuticals, and equipment used to make counterfeit drugs, pose a grave threat to public health and safety,
+
+said Justin Green, Assistant Commissioner for Criminal Investigations, U.S. Food and Drug Administration (FDA).
+
+> The FDA remains committed to pursuing those who facilitate the distribution of counterfeit and other illegal pharmaceuticals and counterfeiting equipment into the United States, regardless of where they operate.
+
+> AUS’s Anti Money Laundering Compliance Program failed to prevent payments on behalf of bad actors, including Alibaba merchants associated with illegal goods,
+
+said Inspector General Jennifer L. Fain of the Federal Deposit Insurance Corporation (FDIC).
+
+> The FDIC OIG will continue to work with our law enforcement partners to investigate allegations of financial misconduct and ensure that financial institutions and other designated businesses fully comply with federal requirements to deter, detect, and prevent money laundering.
+
+> As one of the world’s largest online retailers, Alibaba has an obligation to safeguard consumers from dangerous and illegal products, and to maintain integrity throughout its payment processes including those carried out by AUS, a U.S.-licensed money services business,
+
+said Chief Jarod Koopman of IRS Criminal Investigation (IRS-CI).
+
+> This investigation revealed that the companies failed to meet those basic responsibilities. Today’s resolution underscores IRS Criminal Investigation’s commitment to following the money and ensuring that companies operating in the United States comply fully with federal law.
+
+> This non-prosecution agreement, financial resolution, and required compliance reforms makes clear that global e-commerce companies must build systems that prevent the sale and distribution of illegal products before they reach the United States and the U.S. banking system,
+
+said Acting Executive Associate Director John A. Condon of Homeland Security Investigations (HSI).
+
+> Homeland Security Investigations, together with the broader law enforcement community, remains unflinchingly committed to identifying and dismantling schemes that allow criminal opportunists and other bad actors to exploit weaknesses in online marketplaces, payment services, and other digital spaces.
+
+> The U.S. Postal Inspection Service is committed to ensuring the U.S. Postal Service is not used as a tool to distribute illegal pharmaceuticals and other dangerous goods to our communities,
+
+said Acting Inspector in Charge J. Buck Buckley of the U.S. Postal Inspection Service (USPIS)’s Boston Division.
+
+> Today’s settlement should serve as a reminder that we will remain steadfast with our law enforcement partners to ensure the integrity of the U.S. Mail.
+
+The FDA Office of Criminal Investigation’s Rhode Island Task Force, FDIC Office of Inspector General’s New York Field Office, IRS-CI’s Global Illicit Financial Team, Homeland Security Task Force New York-Financial, and USPIS investigated the case.
+
+The case was prosecuted by Executive Assistant U.S. Attorney Dulce Donovan and Assistant U.S. Attorney Julianne Klein for the District of Rhode Island; Assistant Director Patrick Runkle and Trial Attorneys Cadesby B. Cooper and Colin W. Trundle of the Civil Division's Enforcement and Affirmative Litigation Branch; and Trial Attorneys Rachel Agress and Elysa Wan of the Money Laundering, Narcotics and Forfeiture Section. Senior Counsel Sarah Hawkins of FDA’s Office of the Chief Counsel provided critical assistance.
+
+Alibaba NPA.pdf
+
+AUS Merchant Services NPA.pdf

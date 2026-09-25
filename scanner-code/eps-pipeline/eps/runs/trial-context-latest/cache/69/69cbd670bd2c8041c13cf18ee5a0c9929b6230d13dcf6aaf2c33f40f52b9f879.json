@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2595ba66e6.P008.S001\", \"D2595ba66e6.P010.S001\"], \"anchor\": null, \"reason\": \"Do reforms reducing administrative appeals delays improve efficiency and outcomes for energy, grazing, and tribal permit holders?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

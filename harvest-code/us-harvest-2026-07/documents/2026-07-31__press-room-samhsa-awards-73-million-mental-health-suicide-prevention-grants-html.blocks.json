@@ -1,0 +1,89 @@
+{
+ "url": "https://www.hhs.gov/press-room/samhsa-awards-73-million-mental-health-suicide-prevention-grants.html",
+ "institution_id": "us-hhs",
+ "title": "SAMHSA Awards $73.2 Million for Mental Health Treatment and Suicide Prevention Programs",
+ "date": "2026-07-31",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "c9f83fab9c7eacc92bbd2987db34317d5da3ae74040f7bea9ecd0f41cc4b0186",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "quote",
+   "speaker": "HHS Secretary Robert F. Kennedy",
+   "method": "speech_verb"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "quote",
+   "speaker": "SAMHSA Principal Deputy Assistant Secretary Christopher D. Carroll",
+   "method": "speech_verb"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 12,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

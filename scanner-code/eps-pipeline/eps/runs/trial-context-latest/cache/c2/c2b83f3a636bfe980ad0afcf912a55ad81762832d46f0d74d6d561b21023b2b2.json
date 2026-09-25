@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"696761ea347dc692\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"this operation\",\n        \"insertion\": \"to intercept the Motor Vessel BELLA 1 in the North Atlantic\",\n        \"evidence\": \"the US conducted a military operation to intercept the Motor Vessel BELLA 1 in the North Atlantic during its voyage to Russia.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8a8ef10756.P002.S001\"], \"anchor\": null, \"reason\": \"Does the SBA Working Capital Pilot Program help small manufacturers reshore supply chains and increase employment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

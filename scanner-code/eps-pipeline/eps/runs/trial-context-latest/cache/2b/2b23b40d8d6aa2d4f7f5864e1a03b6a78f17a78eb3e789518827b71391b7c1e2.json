@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"eligibility restriction on welfare benefits for non-citizens\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"J15\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

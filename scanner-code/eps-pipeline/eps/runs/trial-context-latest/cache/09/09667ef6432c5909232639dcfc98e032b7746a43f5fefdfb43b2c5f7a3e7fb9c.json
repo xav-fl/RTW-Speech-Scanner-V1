@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dcf166ff582.P006.S001\"], \"anchor\": \"we are engaging a specialized strike team to uncover any potential fraud or abuse and quickly moving to protect the American worker and taxpayers\", \"reason\": \"Does deploying federal fraud-detection strike teams reduce improper payments and fraud in state unemployment insurance programmes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dce06d44c8a.P004.S001\"], \"anchor\": null, \"reason\": \"Does USDA investment in NWS pest control innovation lower consumer beef/grocery prices?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

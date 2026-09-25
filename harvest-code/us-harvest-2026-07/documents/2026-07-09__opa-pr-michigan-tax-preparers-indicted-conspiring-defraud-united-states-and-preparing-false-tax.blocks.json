@@ -1,0 +1,65 @@
+{
+ "url": "https://www.justice.gov/opa/pr/michigan-tax-preparers-indicted-conspiring-defraud-united-states-and-preparing-false-tax",
+ "institution_id": "us-justice",
+ "title": "Michigan Tax Preparers Indicted For Conspiring to Defraud the United States and Preparing False Tax Returns",
+ "date": "2026-07-09",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "d7570d6004cde1db5f4a0e1cfe03decf3ffec2a0ea21e7e938c1e4b322e372d1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

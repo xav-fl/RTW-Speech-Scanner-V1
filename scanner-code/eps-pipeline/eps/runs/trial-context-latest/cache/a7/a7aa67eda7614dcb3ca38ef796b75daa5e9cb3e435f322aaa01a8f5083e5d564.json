@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7394b5c238.P004.S002\"], \"anchor\": null, \"reason\": \"Do large government energy loans reduce consumer electricity costs and create jobs in recipient regions?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

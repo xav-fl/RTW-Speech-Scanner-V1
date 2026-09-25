@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1169c87c5b.P006.S001\"], \"anchor\": \"I will continue to deliver on President Trump's promise to provide affordable housing for American families.\", \"reason\": \"Does federal commitment to affordable housing for American families improve housing access or affordability outcomes?\"}, {\"unit_ids\": [\"D1169c87c5b.P006.S002\", \"D1169c87c5b.P006.S003\"], \"anchor\": null, \"reason\": \"Does federal investigation of race-based housing preferences affect housing allocation efficiency and equity outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

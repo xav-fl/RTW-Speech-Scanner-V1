@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"f2a093c03be77129\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this auction\",\n        \"insertion\": \", Contracts for Difference Allocation Round 7,\",\n        \"evidence\": \"Now this auction round, known as Contracts for Difference AR7, has secured a record capacity of 8.4GW of offshore wind\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

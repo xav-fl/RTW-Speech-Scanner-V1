@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dddc2077be2.P016.S001\"], \"anchor\": \"I named a lead executive and established the SSI Improvement office to transform the service we provide to SSI recipients.\", \"reason\": \"Does creating a dedicated SSI Improvement office improve service quality and reduce improper payments for SSI recipients?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

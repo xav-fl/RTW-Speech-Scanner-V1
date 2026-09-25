@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6e063653d2.P011.S001\", \"D6e063653d2.P011.S002\"], \"anchor\": null, \"reason\": \"Does competing the JPL management contract improve cost efficiency and mission performance compared to sole-source awards?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

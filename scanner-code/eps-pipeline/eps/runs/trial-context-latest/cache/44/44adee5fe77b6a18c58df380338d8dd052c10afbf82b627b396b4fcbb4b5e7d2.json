@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4bdb580512.P007.S001\", \"D4bdb580512.P007.S002\"], \"anchor\": null, \"reason\": \"Does closing the TOMS loophole for private hire operators improve competitive fairness and raise the projected £700m annual revenue?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

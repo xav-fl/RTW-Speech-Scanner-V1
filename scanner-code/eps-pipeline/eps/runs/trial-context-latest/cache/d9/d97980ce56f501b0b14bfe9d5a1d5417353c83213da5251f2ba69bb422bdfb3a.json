@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7ba524b2c5.P011.S001\", \"D7ba524b2c5.P011.S002\"], \"anchor\": null, \"reason\": \"Does requiring platforms to proactively detect and prevent cyberflashing reduce online sexual harassment of women?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

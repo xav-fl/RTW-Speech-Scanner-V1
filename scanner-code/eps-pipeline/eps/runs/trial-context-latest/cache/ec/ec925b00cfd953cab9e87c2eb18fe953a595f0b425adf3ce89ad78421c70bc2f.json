@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D51cd775bd3.P004.S001\", \"D51cd775bd3.P004.S002\"], \"anchor\": null, \"reason\": \"Does ending catch-and-release and deporting illegal migrants reduce future unauthorised border crossings?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

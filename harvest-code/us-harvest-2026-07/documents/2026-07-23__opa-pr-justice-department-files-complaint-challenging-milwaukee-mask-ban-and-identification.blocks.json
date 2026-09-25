@@ -1,0 +1,83 @@
+{
+ "url": "https://www.justice.gov/opa/pr/justice-department-files-complaint-challenging-milwaukee-mask-ban-and-identification",
+ "institution_id": "us-justice",
+ "title": "Justice Department Files Complaint Challenging Milwaukee Mask Ban and Identification Requirements for Federal Officers",
+ "date": "2026-07-23",
+ "date_source": "metadata",
+ "source_document_type": "Press Release",
+ "text_sha256": "72986b99dd342da0e7488451bf1ac74b4ca47bba0aa84034eeef6bd98afe98dd",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley E. Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "quote",
+   "speaker": "Associate Attorney General Stanley E. Woodward",
+   "method": "speech_verb"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Assistant Attorney General Brett A. Shumate of the Justice Department’s Civil Division",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "quote",
+   "speaker": "First Assistant U.S. Attorney Brad Schimel for the Eastern District of Wisconsin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 10,
+   "kind": "quote",
+   "speaker": "First Assistant U.S. Attorney Brad Schimel for the Eastern District of Wisconsin",
+   "method": "speech_verb"
+  },
+  {
+   "index": 11,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

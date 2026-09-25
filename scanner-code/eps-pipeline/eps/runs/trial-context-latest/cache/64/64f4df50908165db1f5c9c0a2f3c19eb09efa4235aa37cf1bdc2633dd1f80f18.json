@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal funding and tax credits for charter schools and education scholarships, with devolution to states\", \"codes\": [{\"code\": \"I22\", \"strength\": 3}, {\"code\": \"I28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

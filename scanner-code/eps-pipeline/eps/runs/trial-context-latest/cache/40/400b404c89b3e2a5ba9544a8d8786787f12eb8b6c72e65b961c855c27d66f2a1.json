@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5f4d97d2f9.P007.S002\"], \"anchor\": \"ED will enforce the law to its fullest extent, putting parents and families firmly in the driver's seat of their child's education.\", \"reason\": \"Does strict federal enforcement of parental rights laws (PPRA) change school curriculum decisions and parental opt-out rates?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

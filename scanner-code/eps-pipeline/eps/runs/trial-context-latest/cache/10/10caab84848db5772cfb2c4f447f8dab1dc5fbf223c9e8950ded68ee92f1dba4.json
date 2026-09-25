@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dcad62ad9f1.P005.S001\", \"Dcad62ad9f1.P005.S002\"], \"anchor\": null, \"reason\": \"Does a $144m federal programme to measure microplastic exposure and develop removal solutions reduce health risks and healthcare costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

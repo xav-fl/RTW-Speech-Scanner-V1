@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D110cf519cb.P002.S002\", \"D110cf519cb.P002.S003\"], \"anchor\": null, \"reason\": \"Does improving reporting and enforcement of foreign-owned farmland disclosures affect foreign investment in U.S. agricultural land?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

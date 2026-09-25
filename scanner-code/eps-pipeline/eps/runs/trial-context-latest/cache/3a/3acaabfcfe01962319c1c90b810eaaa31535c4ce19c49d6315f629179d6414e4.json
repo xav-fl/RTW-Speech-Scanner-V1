@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public land grazing policy and rancher support\", \"codes\": [{\"code\": \"Q15\", \"strength\": 3}, {\"code\": \"Q18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

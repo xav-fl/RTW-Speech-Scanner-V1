@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D12862dc402.P004.S001\", \"D12862dc402.P004.S002\"], \"anchor\": null, \"reason\": \"Does mandating SNAP retailers to stock more nutrient-dense foods improve dietary quality among low-income households?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D00e5640539.P004.S001\", \"D00e5640539.P004.S002\"], \"anchor\": null, \"reason\": \"Does keeping coal plants operational via emergency orders reduce blackout risk and maintain affordable electricity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

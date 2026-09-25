@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"696761ea347dc692\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this operation\",\n        \"insertion\": \"to intercept the Motor Vessel BELLA 1 in the North Atlantic\",\n        \"evidence\": \"Today, the US conducted a military operation to intercept the Motor Vessel BELLA 1 in the North Atlantic during its voyage to Russia.\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"a2a1a8ec989f91aa\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"And third\",\n        \"insertion\": \"the UK and France will take a leading role\",\n        \"evidence\": \"It confirms the UK and France will a \\\"take a leading role\\\" in:\"\n      }\n    ],\n    \"note\": \"The quotation lists items under the Declaration of Intent's confirmation that the UK and France will take a leading role; 'And third' refers to the third such item in that list.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

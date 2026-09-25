@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"EPA policy on alternatives to animal testing in regulatory science\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

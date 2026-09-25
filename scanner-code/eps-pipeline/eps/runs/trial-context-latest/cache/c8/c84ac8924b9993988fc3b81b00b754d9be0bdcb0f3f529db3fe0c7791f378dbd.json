@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"deregulation of appliance efficiency mandates to expand consumer choice and reduce costs\", \"codes\": [{\"code\": \"L51\", \"strength\": 3}, {\"code\": \"D18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

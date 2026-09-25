@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"domestic energy policy costs versus competitor fossil fuel exploitation\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

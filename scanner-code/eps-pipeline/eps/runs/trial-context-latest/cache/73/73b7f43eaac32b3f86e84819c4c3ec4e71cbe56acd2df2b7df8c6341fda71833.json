@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"gender-focused foreign aid and development policy\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"J16\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

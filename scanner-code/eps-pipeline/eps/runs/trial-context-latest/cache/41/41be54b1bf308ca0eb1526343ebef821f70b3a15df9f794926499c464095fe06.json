@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"534f5789b6d42c44\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on banning social media for under 16s\",\n        \"evidence\": \"we will ban social media companies providing their services to under 16s\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"e9945354512b2b6b\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on children circumventing the social media ban\",\n        \"evidence\": \"we've seen in Australia that many children will try and succeed in getting around a ban\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

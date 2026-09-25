@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7dd62ba99e.P004.S001\", \"D7dd62ba99e.P004.S002\"], \"anchor\": null, \"reason\": \"Does reducing legacy SIP planning requirements free state resources and improve air quality outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

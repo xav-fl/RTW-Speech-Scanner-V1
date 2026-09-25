@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"44ba6845a818511c\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The phrase 'the disadvantage gap' is self-explanatory in context and widely understood; the document does not define it more specifically than 'the disadvantage gap is still wide', which adds nothing clarifying beyond what the quotation already conveys.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

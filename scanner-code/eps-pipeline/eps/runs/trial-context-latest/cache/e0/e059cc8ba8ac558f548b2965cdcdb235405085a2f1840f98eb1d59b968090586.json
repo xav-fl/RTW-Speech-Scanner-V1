@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"3841ae555b954598\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"the SIPs\",\n        \"insertion\": \"of Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, and Tennessee\",\n        \"evidence\": \"If finalized, Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, and Tennessee would no longer need to worry about another \\\"Good Neighbor Plan\\\" and could implement the remainder of their SIPs.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D42177f7b30.P005.S002\"], \"anchor\": null, \"reason\": \"Do Opportunity Zones and Healthy Homes programmes improve housing quality and health outcomes in targeted communities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

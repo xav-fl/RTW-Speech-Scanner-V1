@@ -1,0 +1,35 @@
+{
+ "url": "https://www.epa.gov/newsreleases/administrator-zeldin-delivers-keynote-tennessee-infrastructure-summit-highlights-epas",
+ "institution_id": "us-epa",
+ "title": "Administrator Zeldin Delivers Keynote at Tennessee Infrastructure Summit, Highlights EPA's Cooperative Approach to Environment and Economy",
+ "date": "2026-07-15",
+ "date_source": "metadata",
+ "source_document_type": "News Release",
+ "text_sha256": "825a3744a019dfaae8a138ef99b0793a8b780949e8d354ab576f43c40ae5b326",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

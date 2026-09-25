@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2a57c8bafa.P005.S001\", \"D2a57c8bafa.P005.S002\", \"D2a57c8bafa.P005.S003\"], \"anchor\": null, \"reason\": \"Do policies reversing prior grid regulations reduce blackout risk and lower electricity costs for Americans?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

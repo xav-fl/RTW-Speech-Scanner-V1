@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"d9f47e23b0e55eff\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This investment\",\n        \"insertion\": \", of £86.5 million in ITM Power UK Ltd in South Yorkshire,\",\n        \"evidence\": \"ITM Power UK Ltd in South Yorkshire has today (Thursday 9 April) received £40 million investment from Great British Energy, the UK's publicly owned energy company, alongside a £46.5 million government grant in principle\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

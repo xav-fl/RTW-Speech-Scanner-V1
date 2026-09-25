@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D32159bcc32.P004.S001\", \"D32159bcc32.P004.S002\"], \"anchor\": null, \"reason\": \"Does replacing race-based 8(a) eligibility with evidence-based social disadvantage criteria change which firms win federal contracts and at what cost?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

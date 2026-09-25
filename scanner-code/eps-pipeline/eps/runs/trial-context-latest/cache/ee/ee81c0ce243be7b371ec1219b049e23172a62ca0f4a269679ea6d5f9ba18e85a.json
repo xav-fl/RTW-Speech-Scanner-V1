@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"supply chain risk assessment tools for businesses\", \"codes\": [{\"code\": \"F13\", \"strength\": 2}, {\"code\": \"L23\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

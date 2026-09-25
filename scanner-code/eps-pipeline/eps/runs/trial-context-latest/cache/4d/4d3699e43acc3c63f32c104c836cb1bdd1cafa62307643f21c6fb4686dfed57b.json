@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"SBA loan program providing construction financing to homebuilders\", \"codes\": [{\"code\": \"R31\", \"strength\": 3}, {\"code\": \"G21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

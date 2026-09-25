@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"closing tax loophole used by ride-hailing/taxi platform workers, revenue recycled to fiscal priorities\", \"codes\": [{\"code\": \"H26\", \"strength\": 3}, {\"code\": \"J48\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

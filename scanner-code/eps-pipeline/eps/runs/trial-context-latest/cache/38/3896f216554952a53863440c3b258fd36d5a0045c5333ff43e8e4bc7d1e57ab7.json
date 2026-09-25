@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D127029a164.P003.S002\"], \"anchor\": null, \"reason\": \"Does a $2,600 voluntary-departure stipend increase self-deportation rates compared to enforcement alone?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

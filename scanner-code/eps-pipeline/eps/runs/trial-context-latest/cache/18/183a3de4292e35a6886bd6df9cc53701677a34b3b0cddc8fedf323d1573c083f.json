@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal funding for rural health care access\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"H51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

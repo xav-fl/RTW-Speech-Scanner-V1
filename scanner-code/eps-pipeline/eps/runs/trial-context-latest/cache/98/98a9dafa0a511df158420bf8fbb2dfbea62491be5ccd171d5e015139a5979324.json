@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7b2891889d.P002.S001\", \"D7b2891889d.P002.S002\"], \"anchor\": null, \"reason\": \"Does government investment in livestock pest research laboratories reduce economic losses to the cattle industry from invasive pests?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

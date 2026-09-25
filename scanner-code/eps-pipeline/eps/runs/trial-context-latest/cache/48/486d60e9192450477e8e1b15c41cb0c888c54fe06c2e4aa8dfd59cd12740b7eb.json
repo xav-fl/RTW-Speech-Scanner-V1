@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df354c0eb8d.P010.S001\"], \"anchor\": null, \"reason\": \"Does increasing enforcement funding, officer deployment, and penalties reduce illegal waste dumping?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

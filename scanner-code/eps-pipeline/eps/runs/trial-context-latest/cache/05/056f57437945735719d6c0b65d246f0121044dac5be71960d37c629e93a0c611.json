@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"83f7d2b17990a744\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This investment\",\n        \"insertion\": \"of more than $116 million in federal funding\",\n        \"evidence\": \"more than $116 million in federal funding to support the state of North Carolina's recovery from Tropical Storm Helene and help prevent future disaster damage across the state\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

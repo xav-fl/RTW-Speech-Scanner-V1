@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc9a27ae130.P002.S001\", \"Dc9a27ae130.P002.S002\"], \"anchor\": null, \"reason\": \"Does $700M+ in federal behavioral health investment reduce homelessness, addiction, and serious mental illness?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

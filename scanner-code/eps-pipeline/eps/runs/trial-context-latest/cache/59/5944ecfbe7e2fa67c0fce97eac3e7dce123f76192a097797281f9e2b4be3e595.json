@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9f95b96c4d.P008.S001\"], \"anchor\": null, \"reason\": \"Do regulatory streamlining and certainty for energy developers increase offshore oil investment and production?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://www.dhs.gov/news/2026/07/16/ice-lodges-detainer-criminal-illegal-alien-charged-shooting-12-year-old-girl-kansas",
+ "institution_id": "us-dhs",
+ "title": "ICE Lodges Detainer for Criminal Illegal Alien Charged with Shooting a 12-Year-Old Girl in Kansas",
+ "date": "2026-07-16",
+ "date_source": "metadata",
+ "source_document_type": "Press Releases",
+ "text_sha256": "7ba02d277440c142621c0318db60fba26449e6811bbd23a96b415046306cdda1",
+ "blocks": [
+  {
+   "index": 0,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 1,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 2,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 3,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 4,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 5,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 6,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 7,
+   "kind": "quote",
+   "speaker": "Acting Assistant Secretary Lauren Bis",
+   "method": "speech_verb"
+  },
+  {
+   "index": 8,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  },
+  {
+   "index": 9,
+   "kind": "text",
+   "speaker": null,
+   "method": "none"
+  }
+ ]
+}

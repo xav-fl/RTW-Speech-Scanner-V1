@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"energy sector deregulation to lower costs\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"L98\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

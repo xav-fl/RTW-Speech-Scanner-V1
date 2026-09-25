@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"3841ae555b954598\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"the SIPs\",\n        \"insertion\": \"of Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, and Tennessee\",\n        \"evidence\": \"the agency is proposing to approve eight states' State Implementation Plans (SIPs) pertaining to the 2015 eight-hour ozone National Ambient Air Quality Standards (NAAQS). If finalized, Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, and Tennessee would no longer need to worry about another \\\"Good Neighbor Plan\\\"\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D215ce89170.P005.S002\"], \"anchor\": null, \"reason\": \"Do hard deadlines and red-tape cuts in environmental review accelerate infrastructure projects without reducing environmental protection?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

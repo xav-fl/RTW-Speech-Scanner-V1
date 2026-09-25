@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D669c512f27.P005.S002\"], \"anchor\": \"Our new suite of self-assessment tools gives American businesses the critical resources they need to identify and eliminate risks, fortify global supply chains, and engage in the global economy from a position of strength and dominance.\", \"reason\": \"Do voluntary supply-chain due-diligence tools reduce firms' exposure to forced-labour risks and improve compliance with import bans?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

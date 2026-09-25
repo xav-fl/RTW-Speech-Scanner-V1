@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"finance and governance for locally led climate adaptation in LDCs\", \"codes\": [{\"code\": \"Q54\", \"strength\": 3}, {\"code\": \"F35\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

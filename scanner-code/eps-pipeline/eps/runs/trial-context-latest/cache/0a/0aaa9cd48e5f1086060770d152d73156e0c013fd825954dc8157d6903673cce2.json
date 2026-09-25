@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D914c606bdf.P003.S001\", \"D914c606bdf.P005.S001\"], \"anchor\": null, \"reason\": \"Does replacing time-in-grade requirements with merit-based promotion improve federal workforce performance and retention?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

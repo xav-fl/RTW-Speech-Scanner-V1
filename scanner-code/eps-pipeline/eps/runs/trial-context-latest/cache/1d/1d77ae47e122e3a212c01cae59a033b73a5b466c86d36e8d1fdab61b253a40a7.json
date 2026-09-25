@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"215028f7402cc6c5\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"allowing them\",\n        \"insertion\": \"health visitors\",\n        \"evidence\": \"Health visitors are already trusted faces in communities across the country. By allowing them to offer vaccinations\"\n      }\n    ],\n    \"note\": \"Both flagged expressions refer to the same referent: health visitors.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"vehicle emissions technology mandates and consumer choice in auto regulation\", \"codes\": [{\"code\": \"Q58\", \"strength\": 3}, {\"code\": \"L62\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

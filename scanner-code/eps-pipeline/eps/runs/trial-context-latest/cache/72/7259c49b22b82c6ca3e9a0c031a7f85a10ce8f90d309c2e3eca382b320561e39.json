@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"b5f61991114e106d\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"anchor\": \"This new scheme\",\n        \"insertion\": \"project reset, to slash the bureaucracy,\",\n        \"evidence\": \"That's why, as Chief Secretary to the Treasury, I launched \"project reset\". A programme to slash the bureaucracy and enable civil servants to move fast.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"health information exchange framework enabling patient data portability and care coordination\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"I11\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

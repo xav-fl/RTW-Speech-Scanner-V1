@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"sustained increase in defence expenditure\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

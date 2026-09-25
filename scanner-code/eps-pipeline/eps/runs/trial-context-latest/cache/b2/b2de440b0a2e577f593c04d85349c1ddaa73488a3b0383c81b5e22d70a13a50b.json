@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"086530a2733ceed1\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is self-contained; 'These vital changes' clearly refers to the reforms to zero hours contracts described in the surrounding context, and the quotation is understandable without additional clarification.\"\n  },\n  {\n    \"quote_id\": \"2237b54676a83c89\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On ending exploitative zero hours contracts,\",\n        \"evidence\": \"End of exploitative zero hours contracts to give people security and predictability at work\"\n      }\n    ],\n    \"note\": \"'These reforms' and 'this major change' both refer to the zero hours contract reforms; the before insertion provides the topic frame. The two flagged expressions refer to the same subject so one insertion suffices.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

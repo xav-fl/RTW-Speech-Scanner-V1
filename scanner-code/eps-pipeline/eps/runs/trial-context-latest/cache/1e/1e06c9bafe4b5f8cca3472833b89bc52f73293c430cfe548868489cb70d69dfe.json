@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"job training program for formerly incarcerated individuals\", \"codes\": [{\"code\": \"J24\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}
