@@ -358,13 +358,16 @@ def test_missing_units_fall_back_to_the_gloss():
 # --- 7. release column order ---------------------------------------------------
 
 
-def test_release_columns_follow_quote_in_context():
+FLAGS = ("has_quantified_target", "claims_causal_effect")
+
+
+def test_intention_alone_follows_quote_in_context():
     i = RELEASE_COLUMNS.index("quote_in_context")
-    assert RELEASE_COLUMNS[i + 1:i + 4] == [
-        "intention", "has_quantified_target", "claims_causal_effect"]
+    assert RELEASE_COLUMNS[i + 1] == "intention"
+    assert RELEASE_COLUMNS[i + 2] == "economics_topics"
 
 
-def test_written_release_carries_the_values(tmp_path):
+def test_written_release_carries_the_label_and_internal_the_flags(tmp_path):
     doc = make_doc()
     rows = [make_row(doc)]
     apply_intentions(rows, tag(answer()))
@@ -373,8 +376,20 @@ def test_written_release_carries_the_values(tmp_path):
         with open(path, newline="", encoding="utf-8") as fh:
             row = next(csv.DictReader(fh))
         assert row["intention"] == "Commits to action: pledges future action"
-        assert row["has_quantified_target"] == "Yes"
-        assert row["claims_causal_effect"] == "No"
+    assert row["has_quantified_target"] == "Yes"  # internal table
+    assert row["claims_causal_effect"] == "No"
+
+
+def test_flags_absent_from_release_present_in_log(tmp_path):
+    summary, rows = _run_build(tmp_path, IntentionTagger(provider=scripted(answer())))
+    with open(tmp_path / "dataset.csv", newline="", encoding="utf-8") as fh:
+        header = csv.DictReader(fh).fieldnames
+    for flag in FLAGS:
+        assert flag not in header and flag not in RELEASE_COLUMNS
+    [logged] = read_intention_log(tmp_path / "intention_log.jsonl")
+    assert logged.has_quantified_target is True
+    assert logged.target_cue == "cut the disadvantage gap in half by 2030"
+    assert logged.claims_causal_effect is False and logged.causal_cue is None
 
 
 # --- 8. skipping ---------------------------------------------------------------
@@ -411,12 +426,11 @@ def _run_build(tmp_path, tagger):
     return summary, rows
 
 
-def test_skip_leaves_the_three_columns_blank(tmp_path):
+def test_skip_leaves_the_intention_column_blank(tmp_path):
     summary, rows = _run_build(tmp_path, None)
     assert summary["observations_kept"] == 1, summary["reject_reasons"]
     assert summary["intention"] == {"status": "skipped"}
-    for col in ("intention", "has_quantified_target", "claims_causal_effect"):
-        assert rows[0][col] == ""
+    assert rows[0]["intention"] == ""
     assert read_intention_log(tmp_path / "intention_log.jsonl") == []
 
 

@@ -288,8 +288,7 @@ def test_release_header_is_the_agreed_contract(tmp_path, tax):
 
     assert header == [
         "agency", "speaker", "document_title", "document_type", "date", "url",
-        "direct_quote", "quote_in_context",
-        "intention", "has_quantified_target", "claims_causal_effect",
+        "direct_quote", "quote_in_context", "intention",
         "economics_topics",
         "jel_major_categories", "jel_subcategories",
     ]

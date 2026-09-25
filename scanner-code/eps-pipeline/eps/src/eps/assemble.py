@@ -29,18 +29,20 @@ RELEASE_COLUMNS = [
     # Equal to direct_quote wherever the context stage added nothing, so the
     # column is always readable on its own. See context.py.
     "quote_in_context",
-    # What the speaker is doing with the quote, from INTENTION_CODEBOOK.md,
-    # and two Yes/No flags. "Not tagged" where tagging failed (the reason is in
-    # intention_log.jsonl); all three blank where tagging was skipped.
+    # What the speaker is doing with the quote, from INTENTION_CODEBOOK.md.
+    # "Not tagged" where tagging failed (the reason is in intention_log.jsonl);
+    # blank where tagging was skipped. The two Yes/No flags are internal only.
     "intention",
-    "has_quantified_target",
-    "claims_causal_effect",
     "economics_topics",
     "jel_major_categories",
     "jel_subcategories",
 ]
 
 INTERNAL_COLUMNS = RELEASE_COLUMNS + [
+    # Internal only: the release carries `intention` alone. Their cues are in
+    # intention_log.jsonl.
+    "has_quantified_target",
+    "claims_causal_effect",
     "country",
     "doc_id",
     "unit_ids",
