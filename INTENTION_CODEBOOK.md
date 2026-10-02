@@ -19,6 +19,13 @@ without the other; a change to either is a new prompt version.
   `intention_log.jsonl`; the two flags also appear in
   `observations_internal.csv`. Sections 4 and 5 below still describe them,
   because the tagger still records them.
+- The release splits `calls_on_others` in two. `other_states` and
+  `private_actors` read "Calls on others to act: other states" and "Calls on
+  others to act: private actors". `evidence` reads "Requests evidence", with no
+  subcategory whatever the `evidence_type`; the evidence type stays in
+  `intention_log.jsonl` only. This changes the display text only: the stored
+  codes are unchanged until the next prompt revision, when they should be
+  renamed to match. There are still 17 release values.
 - The production prompt version is **I3**.
 
 ---

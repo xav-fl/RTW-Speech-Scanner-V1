@@ -164,9 +164,12 @@ INTENTION_DISPLAY = {
     ("considers_open_option", "no_stated_preference"):
         "Considers open option: no stated preference",
     ("rules_out_option", None): "Rules out option",
-    ("calls_on_others", "evidence"): "Calls on others: evidence",
-    ("calls_on_others", "other_states"): "Calls on others: other states",
-    ("calls_on_others", "private_actors"): "Calls on others: private actors",
+    # The release splits calls_on_others in two: asking others to act, and
+    # asking for evidence. Display only; the stored codes are renamed to match
+    # at the next prompt revision. evidence_type stays in the log.
+    ("calls_on_others", "evidence"): "Requests evidence",
+    ("calls_on_others", "other_states"): "Calls on others to act: other states",
+    ("calls_on_others", "private_actors"): "Calls on others to act: private actors",
     ("states_view_without_action", "describes_problem"):
         "States view without action: describes problem",
     ("states_view_without_action", "value_judgement"):

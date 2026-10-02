@@ -123,7 +123,16 @@ def test_no_sub_labels_and_evidence_type():
     [r] = tag(answer(sub="evidence", broad="calls_on_others",
                      evidence_type="public_consultation"))
     assert r.evidence_type == "public_consultation"
-    assert intention_values(r)["intention"] == "Calls on others: evidence"
+    assert intention_values(r)["intention"] == "Requests evidence"
+
+
+@pytest.mark.parametrize("etype", EVIDENCE_TYPES)
+def test_requests_evidence_has_no_subcategory_in_release(etype):
+    """The evidence type stays in the log; the release says only "Requests
+    evidence", whatever kind of evidence was asked for."""
+    [r] = tag(answer(sub="evidence", broad="calls_on_others", evidence_type=etype))
+    assert r.evidence_type == etype
+    assert intention_values(r)["intention"] == "Requests evidence"
 
 
 def test_unclear_may_have_no_cue():
@@ -252,9 +261,9 @@ def test_release_values_are_exactly_the_permitted_set():
         "Reports existing action: ongoing implementation",
         "Considers open option: preferred option",
         "Considers open option: no stated preference",
-        "Calls on others: evidence",
-        "Calls on others: other states",
-        "Calls on others: private actors",
+        "Requests evidence",
+        "Calls on others to act: other states",
+        "Calls on others to act: private actors",
         "States view without action: describes problem",
         "States view without action: value judgement",
         "States view without action: causal belief",

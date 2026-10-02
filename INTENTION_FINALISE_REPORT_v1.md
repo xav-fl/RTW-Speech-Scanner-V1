@@ -171,3 +171,34 @@ None hit.
 | (last) | intention-final: add finalise report |
 
 **Nothing was merged, rebased or pushed, and nothing was run against the API.** The throwaway dry-run branch was deleted. The scratch copy of the v7 run was deleted, and nothing under `runs/` was modified.
+
+---
+
+## 10. Addendum: "Calls on others" split in the release (display only)
+
+This changes the display table in `assemble.py` and nothing else. The stored codes, the prompt (I3), the prompt version and the data models are unchanged.
+
+| Stored code | Old release text | New release text |
+|---|---|---|
+| `calls_on_others` / `other_states` | Calls on others: other states | Calls on others to act: other states |
+| `calls_on_others` / `private_actors` | Calls on others: private actors | Calls on others to act: private actors |
+| `calls_on_others` / `evidence` | Calls on others: evidence | Requests evidence |
+
+"Requests evidence" has no subcategory, whatever the `evidence_type`. The evidence type stays in `intention_log.jsonl` only. There are still 17 release values. The codebook's "Release format" section records the split, and notes that the stored codes should be renamed to match at the next prompt revision.
+
+**Tests.** The permitted-values test now lists the three new strings, and a new test checks that all three evidence types show as "Requests evidence". Result: 299 passed and 1 skipped. The only failures are the 3 known ones.
+
+**Offline check (no API calls).**
+
+- **Existing logs, rendered through the new table:**
+  - all 9 quotes labelled "Calls on others: evidence" in the I1 release now read "Requests evidence" (their evidence types, `public_consultation` and `expert_referral`, are still in the log);
+  - every other I1 label is unchanged apart from the renames in the table above;
+  - all 7 evidence records in the I2 log and both in the I3 log also read "Requests evidence".
+- **Rebuild of a scratch copy of the v7 run, with no key:**
+  - the columns are v7's plus `intention`, and every pre-existing column is identical to v7;
+  - the 2 cached I3 evidence quotes read "Requests evidence";
+  - no "Calls on others: evidence" remains in the release.
+
+  The scratch copy was deleted.
+
+**Not changed.** The I1 trial files under `runs/` still show the old text, because they are a record of that run.
