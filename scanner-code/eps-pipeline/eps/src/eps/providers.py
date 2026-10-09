@@ -15,6 +15,16 @@ this with no network and no cost, which is how the pipeline gets tested at all.
 
 from __future__ import annotations
 
+import hashlib
+import json
+import os
+import shutil
+import signal
+import subprocess
+import tempfile
+import time
+from datetime import datetime, timezone
+from pathlib import Path
 from typing import Protocol
 
 #: USD per million tokens, (input, output), for turning recorded usage into a
@@ -186,6 +196,264 @@ class MistralProvider:
         return resp.choices[0].message.content
 
 
+#: Every way a command-line call can fail, each recorded by name, so a failed
+#: document is never mistaken for one in which nothing qualified.
+CLI_FAILURES = (
+    "auth_failure", "usage_limit", "timeout", "cli_error",
+    "unparseable_output", "schema_mismatch", "empty_output",
+)
+
+#: Failures no later call can recover from: stop the run, resume later.
+CLI_STOPPING = {"auth_failure", "usage_limit"}
+
+
+class CLICallFailed(RuntimeError):
+    """One call failed for a reason specific to it; the run can go on."""
+
+    def __init__(self, failure_class: str, detail: str):
+        super().__init__(f"{failure_class}: {detail}")
+        self.failure_class = failure_class
+        self.detail = detail
+
+
+class CLIProviderStopped(ProviderStopped):
+    """Signed out or at a usage limit: every further call would fail too."""
+
+    def __init__(self, failure_class: str, detail: str):
+        super().__init__(failure_class, detail)
+        self.failure_class = failure_class
+
+
+def run_command(args: list[str], stdin_text: str, cwd: Path,
+                timeout: float) -> tuple[int, str, str]:
+    """Run `args` with `stdin_text` on stdin; return (exit code, stdout, stderr).
+
+    No shell. On timeout the whole process tree is killed, not just the
+    immediate child: on Windows `codex` is usually a .cmd shim that starts
+    node, and killing only the shim would leave the real work running.
+    Raises subprocess.TimeoutExpired after the kill.
+    """
+    kwargs: dict = {}
+    if os.name == "nt":
+        kwargs["creationflags"] = subprocess.CREATE_NEW_PROCESS_GROUP
+    else:
+        kwargs["start_new_session"] = True
+    proc = subprocess.Popen(
+        args, cwd=cwd, stdin=subprocess.PIPE, stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE, text=True, encoding="utf-8", errors="replace",
+        **kwargs,
+    )
+    try:
+        out, err = proc.communicate(stdin_text, timeout=timeout)
+    except subprocess.TimeoutExpired:
+        _kill_tree(proc)
+        try:
+            proc.communicate(timeout=10)
+        except subprocess.TimeoutExpired:  # pragma: no cover - defensive
+            pass
+        raise
+    return proc.returncode, out or "", err or ""
+
+
+def _kill_tree(proc: subprocess.Popen) -> None:
+    if os.name == "nt":
+        subprocess.run(["taskkill", "/T", "/F", "/PID", str(proc.pid)],
+                       capture_output=True)
+    else:
+        try:
+            os.killpg(proc.pid, signal.SIGKILL)
+        except ProcessLookupError:  # pragma: no cover - already gone
+            pass
+
+
+#: Phrases that mark a non-zero exit as one no retry can fix. Codex's exit
+#: codes are not documented, so this reads its message. Anything unmatched is
+#: recorded as `cli_error` with the message, rather than guessed at.
+_USAGE_LIMIT_PHRASES = ("usage limit",)
+_AUTH_PHRASES = ("not logged in", "codex login", "401 unauthorized",
+                 "unauthorized", "authentication")
+
+
+def classify_cli_error(message: str) -> str:
+    text = (message or "").lower()
+    if any(p in text for p in _USAGE_LIMIT_PHRASES):
+        return "usage_limit"
+    if any(p in text for p in _AUTH_PHRASES):
+        return "auth_failure"
+    return "cli_error"
+
+
+class CodexCLIProvider:
+    """Calls an installed Codex CLI (`codex exec`) instead of an HTTP API.
+
+    For running extraction on someone else's computer under their own ChatGPT
+    sign-in, with no API key. Each call:
+
+    - runs `codex exec` as a subprocess, with an argument list and a timeout;
+    - from an empty working folder this provider creates, so no AGENTS.md or
+      other project file is picked up;
+    - with the extraction instructions as Codex's replacement system
+      instructions (a file), and the document on stdin;
+    - with shell, web search, multi-agent and app connectors switched off, a
+      read-only sandbox, and no saved session;
+    - against a strict JSON Schema for the call's kind (cli_schemas.py), read
+      back from the `-o` file and checked again here.
+
+    A failure raises CLICallFailed (or CLIProviderStopped for a sign-in or
+    usage-limit failure) carrying one of CLI_FAILURES. Every call, failed or
+    not, is appended to `call_log`, and to `log_path` as JSON lines if given.
+
+    `model` and `effort` have no defaults: the person running it chooses them.
+    """
+
+    name = "codex"
+
+    #: Reasoning levels Codex documents; which a model accepts varies by model.
+    EFFORTS = ("none", "minimal", "low", "medium", "high", "xhigh", "max", "ultra")
+
+    def __init__(self, model: str | None = None, effort: str | None = None,
+                 timeout: float = 900, log_path: str | Path | None = None,
+                 executable: str | None = None, run=run_command,
+                 workdir: str | Path | None = None):
+        if not model:
+            raise ValueError("the codex provider needs a model name (--model)")
+        if effort not in self.EFFORTS:
+            raise ValueError(f"the codex provider needs a reasoning effort "
+                             f"(--effort), one of {list(self.EFFORTS)}")
+        self.model = model
+        self.effort = effort
+        self.timeout = timeout
+        self.log_path = Path(log_path) if log_path else None
+        self.executable = executable or shutil.which("codex") or "codex"
+        self._run = run
+        root = Path(workdir) if workdir else Path(tempfile.mkdtemp(prefix="eps-codex-"))
+        self.workdir = root / "work"      # -C target; stays empty
+        self.files = root / "files"       # instructions, schemas, answers
+        self.workdir.mkdir(parents=True, exist_ok=True)
+        self.files.mkdir(parents=True, exist_ok=True)
+        self.call_log: list[dict] = []
+        self._tool_version: str | None = None
+        self._n = 0
+
+    @property
+    def tool_version(self) -> str:
+        if self._tool_version is None:
+            try:
+                code, out, err = self._run([self.executable, "--version"], "",
+                                           self.workdir, 30)
+                self._tool_version = (out or err).strip() if code == 0 else "unknown"
+            except Exception:
+                self._tool_version = "unknown"
+        return self._tool_version
+
+    def command(self, instructions: Path, schema: Path, answer: Path) -> list[str]:
+        # Values after -c are TOML; single quotes make them literal strings,
+        # so a Windows path's backslashes are not read as escapes.
+        return [
+            self.executable, "exec", "-",
+            "--sandbox", "read-only",
+            "--ephemeral",
+            "--skip-git-repo-check",
+            "--ignore-user-config",
+            "-C", str(self.workdir),
+            "-m", self.model,
+            "-c", f"model_reasoning_effort='{self.effort}'",
+            "-c", f"model_instructions_file='{instructions}'",
+            "-c", "project_doc_max_bytes=0",
+            "-c", "web_search='disabled'",
+            "-c", "features.shell_tool=false",
+            "-c", "features.multi_agent=false",
+            "-c", "features.apps=false",
+            "--output-schema", str(schema),
+            "-o", str(answer),
+        ]
+
+    def call(self, system: str, user: str, max_tokens: int,
+             cache_system: bool = False) -> str:
+        from . import cli_schemas
+
+        kind = cli_schemas.call_kind(system)
+        if kind is None:
+            raise ValueError("the codex provider has no output schema for this "
+                             "prompt; it serves extraction calls only")
+        instructions = self.files / (
+            f"instructions-{hashlib.sha256(system.encode('utf-8')).hexdigest()[:12]}.md")
+        if not instructions.exists():
+            instructions.write_text(system, encoding="utf-8")
+        schema = self.files / f"{kind}.schema.json"
+        if not schema.exists():
+            schema.write_text(cli_schemas.schema_json(kind), encoding="utf-8")
+        self._n += 1
+        answer = self.files / f"answer-{self._n}.json"
+        answer.unlink(missing_ok=True)
+
+        record = self._record_start(kind)
+        started = time.monotonic()
+        try:
+            try:
+                code, out, err = self._run(
+                    self.command(instructions, schema, answer), user,
+                    self.workdir, self.timeout)
+            except subprocess.TimeoutExpired:
+                raise CLICallFailed("timeout", f"no answer after {self.timeout:g}s")
+            except OSError as exc:
+                # Not installed, or not on PATH: no call can succeed.
+                raise CLIProviderStopped("cli_error", f"cannot run codex: {exc}")
+            record["exit_code"] = code
+            if code != 0:
+                message = (err or out or "").strip()
+                failure = classify_cli_error(message)
+                detail = f"exit {code}: {message[-1000:]}"
+                if failure in CLI_STOPPING:
+                    raise CLIProviderStopped(failure, detail)
+                raise CLICallFailed(failure, detail)
+            text = answer.read_text(encoding="utf-8") if answer.exists() else ""
+            if not text.strip():
+                raise CLICallFailed("empty_output", "codex wrote no final message")
+            try:
+                data = json.loads(text)
+            except ValueError as exc:
+                raise CLICallFailed("unparseable_output", f"{exc}: {text[:200]!r}")
+            problems = cli_schemas.validate(data, cli_schemas.SCHEMAS[kind])
+            if problems:
+                raise CLICallFailed("schema_mismatch", "; ".join(problems[:5]))
+        except (CLICallFailed, CLIProviderStopped) as exc:
+            record["failure_class"] = exc.failure_class
+            record["detail"] = exc.detail[:1000]
+            raise
+        finally:
+            record["duration_s"] = round(time.monotonic() - started, 2)
+            self._record_end(record)
+            answer.unlink(missing_ok=True)
+        return text
+
+    def _record_start(self, kind: str) -> dict:
+        from . import cli_schemas
+        from .extract import PROMPT_VERSION, prompt_fingerprint
+
+        return {
+            "at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+            "tool": self.name, "tool_version": self.tool_version,
+            "model": self.model, "effort": self.effort, "call_kind": kind,
+            "prompt_version": PROMPT_VERSION,
+            "prompt_fingerprint": prompt_fingerprint(),
+            "schema_hash": cli_schemas.schema_hash(kind),
+            "exit_code": None, "duration_s": None,
+            "failure_class": None, "detail": "",
+        }
+
+    def _record_end(self, record: dict) -> None:
+        self.call_log.append(record)
+        if self.log_path is not None:
+            self.log_path.parent.mkdir(parents=True, exist_ok=True)
+            with open(self.log_path, "a", encoding="utf-8") as fh:
+                fh.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+    def close(self) -> None:
+        """Remove the working folder this provider created."""
+        shutil.rmtree(self.workdir.parent, ignore_errors=True)
+
+
 class FakeProvider:
     """A provider with no network and no cost, for tests and dry runs.
 
@@ -207,7 +475,8 @@ class FakeProvider:
         return self.responder(system, user)
 
 
-PROVIDERS = {"anthropic": AnthropicProvider, "mistral": MistralProvider}
+PROVIDERS = {"anthropic": AnthropicProvider, "mistral": MistralProvider,
+             "codex": CodexCLIProvider}
 
 
 def get_provider(name: str, model: str | None = None):
