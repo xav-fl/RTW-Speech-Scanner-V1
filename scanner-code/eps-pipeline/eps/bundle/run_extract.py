@@ -110,7 +110,7 @@ def check_codex_login(executable: str) -> None:
                                 capture_output=True, text=True, timeout=60)
     except (OSError, subprocess.TimeoutExpired) as exc:
         stop(f"Could not run Codex ({exc}).\n"
-             "Install the Codex CLI (see README step 3), open a new terminal, "
+             "Install the Codex CLI (see README step 2), open a new terminal, "
              "and run the same command again.")
     if result.returncode != 0:
         stop("Codex says you are not signed in.\n"
@@ -449,7 +449,7 @@ def run(args) -> int:
         return EXIT_STOPPED
     if stopped == "repeated failures":
         log(f"STOPPED: {detail}\nThis usually means the --model or --effort "
-            "is not available to your account (README step 6). Fix that and run "
+            "is not available to your account (README step 5). Fix that and run "
             "the same command again; finished documents are kept.")
         return EXIT_STOPPED
     if stopped:
@@ -476,8 +476,8 @@ def write_reference(path: Path) -> int:
 def main(argv=None) -> int:
     p = argparse.ArgumentParser(
         description="Run eps extraction through the Codex CLI. See README.md.")
-    p.add_argument("--model", help="the OpenAI model Codex should use (README step 6)")
-    p.add_argument("--effort", help="the reasoning effort (README step 6)")
+    p.add_argument("--model", help="the OpenAI model Codex should use (README step 5)")
+    p.add_argument("--effort", help="the reasoning effort (README step 5)")
     p.add_argument("--provider", choices=["codex", "fake"], default="codex",
                    help="'fake' tests the bundle without calling Codex")
     p.add_argument("--limit", type=int, default=0,
@@ -493,7 +493,7 @@ def main(argv=None) -> int:
 
     from_codex = args.provider == "codex"
     if from_codex and not (args.model and args.effort):
-        stop("Choose a model and a reasoning effort first (README step 6), "
+        stop("Choose a model and a reasoning effort first (README step 5), "
              "then run:\n  python run_extract.py --model <model> --effort <level>")
 
     check_checksums()

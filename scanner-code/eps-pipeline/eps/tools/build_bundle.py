@@ -3,7 +3,7 @@
     python tools/build_bundle.py --ref <tag> [--out DIR]
 
 Run from the eps directory with the project's virtual environment. Writes
-`eps-bundle-<ref>.zip`, a copy of its README and a file list to DIR (default:
+`eps-bundle.zip`, a copy of its README and a file list to DIR (default:
 a staging folder beside the repository). Nothing is uploaded anywhere.
 
 Code comes from the git ref, not the working tree. The harvested text files
@@ -101,7 +101,10 @@ def build(ref: str, out_dir: Path) -> int:
     commit = git("rev-parse", "--verify", f"{ref}^{{commit}}")
     label = re.sub(r"[^A-Za-z0-9._-]+", "-", ref)
     out_dir.mkdir(parents=True, exist_ok=True)
-    stage = out_dir / "eps-bundle"
+    # The unpacked copy and the file list always stay in the local staging
+    # folder: only the zip and its README go to --out (Google Drive).
+    DEFAULT_OUT.mkdir(parents=True, exist_ok=True)
+    stage = DEFAULT_OUT / "eps-bundle"
     if stage.exists():
         shutil.rmtree(stage)
     stage.mkdir()
@@ -201,13 +204,13 @@ def build(ref: str, out_dir: Path) -> int:
         print(f"  ! {h}")
 
     # 6. zip (one top-level folder), README alongside, file list
-    zip_path = out_dir / f"eps-bundle-{label}.zip"
+    zip_path = out_dir / "eps-bundle.zip"   # fixed: the README's commands name it
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
         for p in files:
             z.write(p, f"eps-bundle/{p.relative_to(stage).as_posix()}")
     shutil.copyfile(stage / "README.md", out_dir / "README.md")
     total = sum(p.stat().st_size for p in files)
-    list_path = out_dir / f"eps-bundle-{label}.files.txt"
+    list_path = DEFAULT_OUT / f"eps-bundle-{label}.files.txt"
     list_path.write_text(
         "".join(f"{p.stat().st_size:>10}  {p.relative_to(stage).as_posix()}\n"
                 for p in files)
