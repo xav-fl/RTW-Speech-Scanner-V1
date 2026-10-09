@@ -15,7 +15,7 @@ from lxml import html as lxml_html
 
 from .models import Unit, sha256
 
-SEGMENTER_VERSION = "seg-1.0.0"
+SEGMENTER_VERSION = "seg-1.0.1"
 
 # Block-level tags whose boundaries we treat as paragraph breaks.
 _BLOCK_TAGS = {
@@ -458,7 +458,61 @@ def mark_attribution(
     the collector recorded. Without one, the GOV.UK colon-frame rule below runs
     exactly as it always has -- `blocks` defaults to None, so every existing
     caller takes the original path and its output cannot move.
+
+    Whichever path decides attribution, the blockquote marker is then removed
+    from every paragraph that still opens with it (`strip_quote_markers`).
     """
+    marked = _mark_attribution(units, doc_type, speaker, blocks, country,
+                               speaker_is_document)
+    return strip_quote_markers(units, marked)
+
+
+def strip_quote_markers(segmented: list[Unit], marked: list[Unit]) -> list[Unit]:
+    """Remove the renderer's `> ` from the opening unit of each paragraph.
+
+    The marker is ours, not the publisher's: the renderers write it at the
+    start of a quote block and nowhere else. The quote-block path has always
+    trimmed it, but the speaker-only, `speaker_is_document` and transcript
+    paths returned early and kept it, so a released quote could carry two
+    characters the source never printed (QUOTE_FIDELITY_BRIEF_v1).
+
+    This runs after attribution, so it cannot change which units are
+    attributable; it changes text and `char_start` only, and only by the
+    marker's two characters, so `doc.text[char_start:char_end] == text` still
+    holds. A unit is left alone when its path already trimmed something (its
+    start moved), so a marker is never removed twice, and a `>` anywhere other
+    than the opening of a paragraph is the source's own and stays.
+    """
+    out: list[Unit] = []
+    seen_para: set[int] = set()
+    for original, u in zip(segmented, marked, strict=True):
+        opens_para = u.para_idx not in seen_para
+        seen_para.add(u.para_idx)
+        if (opens_para and u.char_start == original.char_start
+                and u.text.startswith(QUOTE_MARKER)):
+            shift = len(QUOTE_MARKER)
+            u = Unit(
+                unit_id=u.unit_id,
+                para_idx=u.para_idx,
+                sent_idx=u.sent_idx,
+                text=u.text[shift:],
+                char_start=u.char_start + shift,
+                char_end=u.char_end,
+                attributable=u.attributable,
+            )
+        out.append(u)
+    return out
+
+
+def _mark_attribution(
+    units: list[Unit],
+    doc_type: str,
+    speaker: str | None = None,
+    blocks: list[dict] | None = None,
+    country: str | None = None,
+    speaker_is_document: bool = False,
+) -> list[Unit]:
+    """The attribution paths, before the marker pass. See mark_attribution."""
     # A transcript is attributed by its labels before anything else, because
     # neither the block sidecar nor the colon-frame rule can see who is talking
     # in one: the US collector records no speaker on transcript blocks, and a
