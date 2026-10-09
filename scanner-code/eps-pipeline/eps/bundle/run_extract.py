@@ -494,7 +494,7 @@ def main(argv=None) -> int:
     from_codex = args.provider == "codex"
     if from_codex and not (args.model and args.effort):
         stop("Choose a model and a reasoning effort first (README step 5), "
-             "then run:\n  python run_extract.py --model <model> --effort <level>")
+             "then run the command in README step 6 with both filled in.")
 
     check_checksums()
     if from_codex:
@@ -505,7 +505,7 @@ def main(argv=None) -> int:
         import eps.extract  # noqa: F401
     except ImportError as exc:
         stop(f"A required package is missing ({exc.name}). Follow README "
-             "step 5 to set up the environment, then run again.")
+             "step 4 to set up the environment, then run again.")
     try:
         from eps.providers import CodexCLIProvider
         if from_codex and args.effort not in CodexCLIProvider.EFFORTS:

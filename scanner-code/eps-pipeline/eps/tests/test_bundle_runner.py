@@ -227,7 +227,7 @@ def test_codex_run_needs_a_model_and_an_effort(bundle):
     r = subprocess.run([sys.executable, str(bundle / "run_extract.py")],
                        cwd=bundle, capture_output=True, text=True, timeout=60)
     assert r.returncode == 1
-    assert "--model" in r.stderr and "--effort" in r.stderr
+    assert "model and a reasoning effort" in r.stderr and "README step 6" in r.stderr
 
 
 def test_reference_check_passes_on_an_unchanged_bundle(bundle):
