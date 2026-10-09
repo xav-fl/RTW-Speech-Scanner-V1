@@ -65,7 +65,7 @@ python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 ```
 
-The last line ends with `Successfully installed …`. That means the setup worked.
+Near the end you should see `Successfully installed …`. That means the setup worked. A notice that a new version of pip is available can be ignored.
 
 ## Step 5 — Choose a model and a reasoning effort
 
