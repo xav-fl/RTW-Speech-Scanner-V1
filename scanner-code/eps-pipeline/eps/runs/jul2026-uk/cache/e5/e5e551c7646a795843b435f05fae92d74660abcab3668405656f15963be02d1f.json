@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I made bold changes to the fiscal rules that meant I was able to invest an additional £120bn in my Spending Review\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"changes to the fiscal rules that meant I was able to invest an additional £120bn in my Spending Review to restore our public services, and build the housing, energy and transport infrastructure that is so critical for economic growth\",\n  \"rationale\": \"The speaker reports completed past actions (changing fiscal rules, investing £120bn in the Spending Review) and links them causally to restoring public services and building infrastructure for economic growth.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Treasury will continue using every tool at its disposal to isolate him and other regime elites from the global financial system\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges ongoing future action by Treasury to isolate regime elites from the global financial system using all available tools, with no quantified target or specific causal outcome stated.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"seeking industry feedback to reach this goal most effectively\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote explicitly states GSA is seeking industry feedback (via the RFI described in context) to improve American-made product procurement, making this an open evidence request; the ongoing prioritization of American suppliers is recorded as a secondary action already under way.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

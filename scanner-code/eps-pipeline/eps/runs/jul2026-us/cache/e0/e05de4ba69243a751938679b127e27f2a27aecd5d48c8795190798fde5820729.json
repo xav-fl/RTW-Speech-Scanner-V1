@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"rules_out_option\",\n  \"sub\": null,\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the U.S. is not going to reach any agreement with any country in the world that leads to the risk of proliferation\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker explicitly rules out a category of agreements — any deal that risks proliferation — with no stated preference for an alternative.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

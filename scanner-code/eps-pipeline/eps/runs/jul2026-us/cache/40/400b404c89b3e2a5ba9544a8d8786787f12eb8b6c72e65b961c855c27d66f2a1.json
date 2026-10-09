@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5f4d97d2f9.P007.S002\"], \"anchor\": null, \"reason\": \"Does federal enforcement of parental rights laws affect schools' curriculum decisions and student outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

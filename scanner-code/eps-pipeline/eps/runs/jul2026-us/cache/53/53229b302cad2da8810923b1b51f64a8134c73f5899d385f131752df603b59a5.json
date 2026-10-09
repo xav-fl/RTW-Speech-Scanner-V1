@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this Memorandum of Understanding between our three nations today allow us to move forward on joint work on small modular reactors\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a decision made in this document ('today') — the signing of a Memorandum of Understanding on small modular reactors among three nations.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

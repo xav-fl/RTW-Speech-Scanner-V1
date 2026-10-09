@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"farm-to-school procurement linking local agricultural producers to school food programs\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"I22\", \"strength\": 2}, {\"code\": \"R11\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

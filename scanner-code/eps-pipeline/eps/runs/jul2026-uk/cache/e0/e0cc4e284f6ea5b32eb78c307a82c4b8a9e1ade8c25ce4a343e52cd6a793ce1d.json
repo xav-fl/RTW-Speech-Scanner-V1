@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"This investment in the Neath Port Talbot Youth Hub\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"makes a real difference to young people's lives\",\n  \"rationale\": \"The quote refers to a specific announced investment (the Neath Port Talbot Youth Hub) being announced in this press release, making it an announces_decision; the speaker also claims it makes a real difference to young people's lives, constituting a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

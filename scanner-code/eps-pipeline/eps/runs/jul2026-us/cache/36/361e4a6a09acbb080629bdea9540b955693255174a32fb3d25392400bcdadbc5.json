@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the investment that President Trump and his administration is making in the Coast Guard\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes an ongoing investment being made by the Trump administration in the Coast Guard, characterizing it as the largest in history at almost $25 billion; the dollar figure is an amount already committed, not a quantified outcome target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

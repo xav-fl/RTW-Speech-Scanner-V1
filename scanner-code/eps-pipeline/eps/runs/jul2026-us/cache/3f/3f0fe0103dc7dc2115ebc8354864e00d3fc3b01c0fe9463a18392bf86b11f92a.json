@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"if we create a precedent in the Middle East where a nation state can decide that they are going to control an international waterway, charge a toll, and if you don't pay them, blow up your ships, we have created a very dangerous precedent which will repeat itself in other parts of the world\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"we have created a very dangerous precedent which will repeat itself in other parts of the world, including in this region\",\n  \"rationale\": \"The speaker makes a causal claim that allowing a nation-state to control an international waterway and threaten ships would create a dangerous precedent that would replicate itself globally, with no action announced or pledged.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

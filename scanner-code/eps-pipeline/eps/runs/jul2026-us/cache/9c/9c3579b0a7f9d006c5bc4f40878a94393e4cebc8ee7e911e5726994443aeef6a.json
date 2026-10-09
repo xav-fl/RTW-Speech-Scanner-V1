@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"sanctions targeting terrorist financing through nonprofit organizations\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"H56\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

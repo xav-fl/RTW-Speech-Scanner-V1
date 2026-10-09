@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4b262c8632.P003.S001\", \"D4b262c8632.P005.S001\"], \"anchor\": null, \"reason\": \"Does accelerating federal property disposals generate net savings for taxpayers compared with holding or slower sale schedules?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

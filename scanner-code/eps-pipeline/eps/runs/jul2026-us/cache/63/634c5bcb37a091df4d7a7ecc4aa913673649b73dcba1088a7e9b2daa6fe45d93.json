@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df9e7729dc7.P011.S001\", \"Df9e7729dc7.P011.S002\", \"Df9e7729dc7.P011.S003\"], \"anchor\": null, \"reason\": \"Does moving passport applications online reduce processing times and administrative costs?\"},{\"unit_ids\": [\"Df9e7729dc7.P012.S001\", \"Df9e7729dc7.P012.S004\", \"Df9e7729dc7.P012.S005\", \"Df9e7729dc7.P012.S006\", \"Df9e7729dc7.P012.S007\", \"Df9e7729dc7.P012.S008\"], \"anchor\": null, \"reason\": \"Does allowing passport photos via device cameras with real-time facial verification reduce application costs and wait times?\"},{\"unit_ids\": [\"Df9e7729dc7.P013.S003\"], \"anchor\": \"it should cut down on the long waits, the long lines, the appointments\", \"reason\": \"Does online passport renewal reduce queue lengths and appointment burdens for applicants?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

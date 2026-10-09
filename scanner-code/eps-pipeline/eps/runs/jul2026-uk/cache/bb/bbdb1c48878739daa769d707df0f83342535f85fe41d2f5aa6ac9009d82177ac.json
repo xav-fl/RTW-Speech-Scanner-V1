@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"The Countryside Stewardship Higher Tier will be simpler and easier for more applicants to access\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"giving more farmers and land managers the opportunity to invest in their businesses while helping to create a richer, greener countryside for future generations\",\n  \"rationale\": \"The context confirms this is announced today ('The expanded offer announced today'), making it an announces_decision, and the quote links the policy change to specific outcomes for farmers and the countryside, satisfying claims_causal_effect.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

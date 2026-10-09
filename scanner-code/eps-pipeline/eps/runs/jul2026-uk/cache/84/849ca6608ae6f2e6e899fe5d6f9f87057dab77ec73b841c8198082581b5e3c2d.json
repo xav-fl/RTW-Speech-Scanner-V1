@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5fa9efb1fe.P008.S001\", \"D5fa9efb1fe.P008.S002\"], \"anchor\": null, \"reason\": \"Do new counter-terrorism style powers to designate and pursue foreign state proxies deter hostile activity on UK soil?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"describes_problem\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Decisions are made hundreds of miles from communities who know best and favour larger organisations who can meet the needs of the system, rather than bending the system to work for the small, grassroots organisations who are the lifeblood of our communities.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote describes a structural problem with how National Lottery Good Causes decisions are made — favouring large organisations over grassroots ones — without naming any action taken, planned or ruled out.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

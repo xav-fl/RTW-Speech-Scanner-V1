@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"Our historic investment in farm to school projects\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"students are nourished with farm-fresh, nutrient-rich foods; producers access dependable markets through schools; and local economies are strengthened\",\n  \"rationale\": \"The press release announces a specific investment (nearly $20 million to 68 projects in FY 2026) as a current decision, and the quote links that investment to three specific outcomes for students, producers, and local economies.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

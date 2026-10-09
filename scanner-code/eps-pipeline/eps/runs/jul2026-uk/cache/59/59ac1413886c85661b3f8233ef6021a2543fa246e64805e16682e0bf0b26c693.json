@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"price transparency and consumer protection in veterinary services market\", \"codes\": [{\"code\": \"L51\", \"strength\": 3}, {\"code\": \"D18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

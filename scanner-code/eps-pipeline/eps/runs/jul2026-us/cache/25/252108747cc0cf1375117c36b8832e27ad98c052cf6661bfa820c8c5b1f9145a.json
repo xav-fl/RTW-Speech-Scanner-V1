@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"38707b70e45a6203\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"recommended this action\",\n        \"insertion\": \", the DEA temporary scheduling of 7-OH, MP, MGM-15, and MGM-16,\",\n        \"evidence\": \"the Drug Enforcement Administration's (DEA) issuance of two Notices of Intent to begin the temporary scheduling process for certain kratom-related substances\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

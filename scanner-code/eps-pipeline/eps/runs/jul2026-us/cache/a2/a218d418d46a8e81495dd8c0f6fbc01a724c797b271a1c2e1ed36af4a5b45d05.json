@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the WBC Modernization Initiative is designed to deliver a broader range of statewide resources for women entrepreneurs\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"helps more women start and grow businesses that create jobs and strengthen communities nationwide\",\n  \"rationale\": \"The press release announces the WBC Modernization Initiative as a current decision (announced in this document), and the quote links the initiative's design to specific outcomes for women entrepreneurs, jobs, and communities.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

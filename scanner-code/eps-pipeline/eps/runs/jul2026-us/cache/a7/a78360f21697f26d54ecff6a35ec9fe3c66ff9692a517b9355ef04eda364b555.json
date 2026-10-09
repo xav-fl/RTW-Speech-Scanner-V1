@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"115acd4d3d96a27e\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"These new requirements for homeland security grant recipients\",\n        \"insertion\": \", under the Homeland Security Grant Program,\",\n        \"evidence\": \"FEMA published the funding opportunity for the Homeland Security Grant Program, making over $1 billion of taxpayer funds available to state, Tribal Nations, territorial, and local governments.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

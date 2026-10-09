@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"commercial driver licensing and training school eligibility enforcement\", \"codes\": [{\"code\": \"R41\", \"strength\": 3}, {\"code\": \"K23\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

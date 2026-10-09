@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"they should\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker calls on allied countries ('advanced and wealthy economies') to spend more on their own defense ('they should'), while also noting the U.S. will continue its own role (ongoing implementation).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

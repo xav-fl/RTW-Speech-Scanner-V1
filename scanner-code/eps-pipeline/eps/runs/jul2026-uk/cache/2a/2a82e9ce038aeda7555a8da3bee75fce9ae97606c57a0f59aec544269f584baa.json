@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D40c7df3fbf.P004.S002\", \"D40c7df3fbf.P004.S003\"], \"anchor\": null, \"reason\": \"Do accepting all 15 operational search-and-rescue recommendations improve survival outcomes in Channel crossings?\"},{\"unit_ids\": [\"D40c7df3fbf.P006.S001\", \"D40c7df3fbf.P006.S002\"], \"anchor\": null, \"reason\": \"How does restructuring the MCA's functions and governance affect maritime search and rescue performance and costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

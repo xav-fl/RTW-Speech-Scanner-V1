@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public procurement reform favoring small community providers with social value criteria\", \"codes\": [{\"code\": \"H57\", \"strength\": 3}, {\"code\": \"L31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

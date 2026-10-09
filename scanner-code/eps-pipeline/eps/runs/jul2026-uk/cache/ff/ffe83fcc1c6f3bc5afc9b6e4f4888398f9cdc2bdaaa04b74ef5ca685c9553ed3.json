@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"Thanks to our tax cuts\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Thanks to our tax cuts, families will be able to enjoy more of the little treats and days out\",\n  \"rationale\": \"The quote references already-enacted tax cuts as a completed action and attributes a specific benefit to them (families enjoying more treats and days out), making it a completed action with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

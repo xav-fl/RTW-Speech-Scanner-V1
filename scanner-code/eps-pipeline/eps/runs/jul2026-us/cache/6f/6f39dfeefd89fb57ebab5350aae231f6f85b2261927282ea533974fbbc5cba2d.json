@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"describes_problem\",\n  \"cue\": \"The following entities and individuals are designated for their roles in administering, enabling, and profiting from this system\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote announces sanctions designations being made in this document, with the preceding description of the Cuban labor export program serving as justification for the action.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

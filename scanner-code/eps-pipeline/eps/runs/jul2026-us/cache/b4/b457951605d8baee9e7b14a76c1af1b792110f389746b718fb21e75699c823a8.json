@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"foreign security assistance for landmine clearance in Southeast Asia\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"H56\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

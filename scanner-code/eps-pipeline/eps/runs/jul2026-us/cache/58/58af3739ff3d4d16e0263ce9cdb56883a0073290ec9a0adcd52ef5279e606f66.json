@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"visa restrictions targeting far-left political violence networks\", \"codes\": [{\"code\": \"F22\", \"strength\": 2}, {\"code\": \"K42\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

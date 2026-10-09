@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"I've set up a Place Unit in Whitehall\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to bring together government departments to supercharge neighbourhood working\",\n  \"rationale\": \"The speaker reports a completed action (setting up the Place Unit) and links it to a specific intended outcome (bringing together departments to supercharge neighbourhood working), satisfying claims_causal_effect; the remainder of the quote articulates a causal belief about what effective place-based delivery requires.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

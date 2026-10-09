@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we're cutting the cost of the day-to-day, with free bus travel for children this summer and the £3 bus fare cap\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"helping more families make the most of the small plans that make life enjoyable\",\n  \"rationale\": \"The speaker describes ongoing implementation of two existing measures (free bus travel and the £3 cap) as already under way, linking them causally to helping families afford leisure activities.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

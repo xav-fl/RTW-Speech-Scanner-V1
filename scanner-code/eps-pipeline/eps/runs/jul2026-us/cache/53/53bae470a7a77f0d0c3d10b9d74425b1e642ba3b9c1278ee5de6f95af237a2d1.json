@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Ddc95ac9773.P004.S001\"], \"anchor\": \"Treasury will continue to target and disrupt the illicit procurement networks that fund Iran's weapons programs and war machine.\", \"reason\": \"Do US sanctions on Iran's weapons procurement networks reduce Iran's access to arms and dual-use technology?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

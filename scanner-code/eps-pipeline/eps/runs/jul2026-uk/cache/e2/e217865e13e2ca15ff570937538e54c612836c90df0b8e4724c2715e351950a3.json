@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"The barrels produced here in South Yorkshire – the first made in Britain in almost two decades\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will help Ukraine on the battlefield, while creating good, skilled jobs in the UK\",\n  \"rationale\": \"The quote reports the completed delivery of British-made artillery barrels and claims they will help Ukraine and create jobs, linking the action to specific outcomes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"b25661718f19667f\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On pardoned foreign child rapist Tou Lue Vang,\",\n        \"evidence\": \"a foreign child rapist was freed to once again endanger America's children after receiving a pardon from Minnesota Governor Tim Walz. Tou Lue Vang admitted to committing heinous crimes against a 10-year-old girl in Minnesota.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

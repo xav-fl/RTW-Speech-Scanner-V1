@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"removal of immigration protections for serious foreign criminals\", \"codes\": [{\"code\": \"K37\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

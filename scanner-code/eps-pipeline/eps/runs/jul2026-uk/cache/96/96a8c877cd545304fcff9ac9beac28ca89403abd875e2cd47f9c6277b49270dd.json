@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We'll make the fullest possible use of public investment within our fiscal framework, and we'll take the fullest advantage of private and international investment\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges future action by committing to maximise public investment and attract private and international investment, using 'we'll' to indicate future intent with no specific quantified target or causal link to a named outcome.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

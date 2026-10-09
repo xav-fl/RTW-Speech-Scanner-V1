@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our amendment will provide the Home Secretary with a new power to disapply Section 7 of the Immigration Act 1971 for serious criminals.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a forthcoming legislative amendment that will create a new power for the Home Secretary, making this a pledge of future action not yet enacted.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

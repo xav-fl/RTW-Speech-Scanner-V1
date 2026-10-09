@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"The Overnight Visitor Levy is our first step towards that\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"local leaders will be able to harness this, and put more money into local priorities\",\n  \"rationale\": \"The speaker presents the Overnight Visitor Levy as a decided policy ('is our first step'), announced in this document, and links it to the causal effect of enabling local leaders to direct more money into local priorities.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

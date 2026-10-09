@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"calls_on_others\",\n  \"secondary_sub\": \"other_states\",\n  \"cue\": \"China has weaponized access to critical minerals and supply chains, and are using it against Japan perhaps more than any other country in the world\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"China has weaponized access to critical minerals and supply chains, and are using it against Japan perhaps more than any other country in the world\",\n  \"rationale\": \"The quote primarily asserts a causal claim that China's weaponization of critical minerals and supply chains is being used against Japan, while also gesturing toward multilateral cooperation (Quad, trilateral meetings) as a rationale for others to diversify supply chains.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"centralized funding allocation disadvantaging small community organizations\", \"codes\": [{\"code\": \"H83\", \"strength\": 2}, {\"code\": \"D73\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

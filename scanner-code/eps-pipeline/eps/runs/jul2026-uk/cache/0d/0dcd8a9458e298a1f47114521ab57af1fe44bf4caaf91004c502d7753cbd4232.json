@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"local government control over youth employment and training services\", \"codes\": [{\"code\": \"J08\", \"strength\": 3}, {\"code\": \"H77\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

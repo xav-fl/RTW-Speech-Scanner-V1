@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"1d6c9bc07a0c78f7\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"the funding\",\n        \"insertion\": \"— the statutorily obligated Women's Business Center grant funds —\",\n        \"evidence\": \"The competition will be funded by statutorily obligated funds\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

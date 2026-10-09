@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will make available £2.5 billion of low-interest loans to Private Registered Providers\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to support the delivery of more homes\",\n  \"rationale\": \"The speaker pledges a future action ('we will make available') and links it to a specific outcome ('to support the delivery of more homes'), satisfying the causal effect flag; the £2.5 billion is a spending amount rather than a measurable outcome target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

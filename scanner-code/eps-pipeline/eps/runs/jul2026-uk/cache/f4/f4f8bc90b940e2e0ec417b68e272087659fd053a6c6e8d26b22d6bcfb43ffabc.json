@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"domestic content requirements in public procurement\", \"codes\": [{\"code\": \"H57\", \"strength\": 3}, {\"code\": \"L52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

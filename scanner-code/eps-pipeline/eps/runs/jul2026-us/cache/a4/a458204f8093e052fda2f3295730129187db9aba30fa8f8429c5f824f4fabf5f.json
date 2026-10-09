@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"large-scale federal tax reduction legislation\", \"codes\": [{\"code\": \"H24\", \"strength\": 3}, {\"code\": \"H25\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the Working Families Tax Cuts permanently renewed and strengthened Opportunity Zones\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"giving investors, entrepreneurs, and local leaders the long-term certainty they need to commit capital to communities that have been overlooked for too long\",\n  \"rationale\": \"The speaker reports a completed legislative action (the Working Families Tax Cuts permanently renewing and strengthening Opportunity Zones) and attributes a specific causal effect to it (giving investors and local leaders certainty to commit capital to overlooked communities).\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

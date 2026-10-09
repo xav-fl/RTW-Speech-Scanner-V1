@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"asset freezing and blocking of designated persons' property\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

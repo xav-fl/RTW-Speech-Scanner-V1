@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D3b548f5ac8.P003.S001\", \"D3b548f5ac8.P003.S002\"], \"anchor\": null, \"reason\": \"Does simplifying VA disability compensation application forms reduce barriers and increase benefit take-up among veterans?\"},{\"unit_ids\": [\"D3b548f5ac8.P004.S001\"], \"anchor\": null, \"reason\": \"Does reducing DIC application length lower barriers and improve survivor benefit take-up rates?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

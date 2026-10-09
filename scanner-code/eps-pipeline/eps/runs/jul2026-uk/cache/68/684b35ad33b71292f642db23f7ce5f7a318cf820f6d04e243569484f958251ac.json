@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"we are investing in the practical support that makes a real difference - including our historic expansion of free school meals and the removal of the two-child limit, rolling out free breakfast clubs and affordable childcare across the country\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"investing in the practical support that makes a real difference\",\n  \"rationale\": \"The present continuous 'we are investing' and 'rolling out' describe ongoing implementation of existing policies, and the phrase 'makes a real difference' links these actions to a specific beneficial outcome for families.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

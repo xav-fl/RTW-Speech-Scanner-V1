@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"These investments will help strengthen America's timber industry, support jobs in rural communities, and expand the capacity we need to actively manage our forests.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"By investing in Oregon and Nevada's forest products sector, USDA is reducing wildfire risk, strengthening local economies, and ensuring America's timber resources continue to power our Nation's prosperity.\",\n  \"rationale\": \"The press release announces an $80 million investment decision (announced in this document), and the quote links that investment to specific outcomes including reducing wildfire risk and strengthening local economies, triggering claims_causal_effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

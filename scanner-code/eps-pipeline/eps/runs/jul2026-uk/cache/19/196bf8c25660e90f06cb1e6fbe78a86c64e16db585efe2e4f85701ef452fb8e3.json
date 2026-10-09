@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we stepped in to save British steel\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so that our infrastructure, our industries and our security are not dependent on foreign imports\",\n  \"rationale\": \"The speaker reports a completed past action (stepping in to save British steel) and links it to a specific intended outcome (reducing dependence on foreign imports), triggering the causal effect flag.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

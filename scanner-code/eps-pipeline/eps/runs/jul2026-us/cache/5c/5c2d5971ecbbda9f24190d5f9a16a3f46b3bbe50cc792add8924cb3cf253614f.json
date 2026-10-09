@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal Medicaid funding compliance and withholding\", \"codes\": [{\"code\": \"I13\", \"strength\": 3}, {\"code\": \"H77\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

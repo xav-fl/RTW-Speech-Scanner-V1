@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Receiving asylum support is a right, but it is also a responsibility. Once people can contribute and repay the generosity of the British people, we expect them to do so.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote expresses a normative judgment about rights and responsibilities regarding asylum support, without announcing, pledging or describing any specific action or policy decision.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

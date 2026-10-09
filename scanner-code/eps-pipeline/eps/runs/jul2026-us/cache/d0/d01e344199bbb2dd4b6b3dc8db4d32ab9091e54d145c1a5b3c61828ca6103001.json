@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"The SBA's SCALE Program offers targeted support to rebuild critical supply chains across our industrial base\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"empowering high‑potential domestic suppliers to meet new demand, reshore production, and put American workers and producers back in charge of the industries that keep our nation strong\",\n  \"rationale\": \"The quote describes the existing SCALE Program and its ongoing function, linking it to specific outcomes (reshoring production, empowering domestic suppliers), making it ongoing_implementation with a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

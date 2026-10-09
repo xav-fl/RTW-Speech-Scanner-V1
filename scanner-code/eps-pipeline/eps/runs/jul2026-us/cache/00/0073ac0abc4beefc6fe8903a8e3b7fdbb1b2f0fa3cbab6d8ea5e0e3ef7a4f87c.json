@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"SBA grant administration and return on investment accountability\", \"codes\": [{\"code\": \"H81\", \"strength\": 3}, {\"code\": \"L53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

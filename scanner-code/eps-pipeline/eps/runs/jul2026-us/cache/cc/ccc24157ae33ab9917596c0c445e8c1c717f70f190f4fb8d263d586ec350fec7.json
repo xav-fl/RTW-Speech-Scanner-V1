@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dccc6ccfe82.P002.S001\", \"Dccc6ccfe82.P002.S002\"], \"anchor\": null, \"reason\": \"Does federal investment in rural electric grid modernisation improve reliability and affordability for rural communities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

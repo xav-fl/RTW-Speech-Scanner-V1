@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"outcome\",\n  \"cue\": \"The first round concluded in May, and as a result all mayors will now have the final say on mass transit projects\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"as a result all mayors will now have the final say on mass transit projects, including trams, in their regions\",\n  \"rationale\": \"The speaker reports a completed process (the first round of the Right to Request concluded in May) and states its outcome — that all mayors now have final say on mass transit projects — making this a completed action with a causal effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

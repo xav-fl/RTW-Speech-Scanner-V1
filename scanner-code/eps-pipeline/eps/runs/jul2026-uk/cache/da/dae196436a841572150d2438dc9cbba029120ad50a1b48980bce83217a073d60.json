@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This investment in advanced combat air technology for the UK Armed Forces\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will strengthen our defence and deterrence and shows our clear commitment to backing British workers with our defence investment, creating jobs and supporting communities across the UK\",\n  \"rationale\": \"The press release announces a specific investment decision (£708 million, referenced in the title and implied by 'This investment'), and the quote links that investment to specific outcomes — strengthening defence and deterrence, creating jobs, and supporting communities — satisfying the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

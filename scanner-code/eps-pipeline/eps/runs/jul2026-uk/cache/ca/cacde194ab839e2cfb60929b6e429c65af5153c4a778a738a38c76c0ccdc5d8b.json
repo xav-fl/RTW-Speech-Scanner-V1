@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9c898d983b.P012.S001\", \"D9c898d983b.P012.S002\"], \"anchor\": null, \"reason\": \"Does increasing UK troop deployment and modernising forces in Estonia strengthen NATO deterrence against Russian aggression?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"makes_conditional_commitment\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we have offered Cuba aid, assistance with reconstruction, and the promise of a new relationship between our two countries, if the regime will only agree to make political and economic reforms\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker states that the Administration has offered aid and a new relationship contingent on the Cuban regime agreeing to political and economic reforms, making this a conditional commitment.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

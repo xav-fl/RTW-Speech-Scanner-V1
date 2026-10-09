@@ -1,0 +1,13 @@
+provider=anthropic  model=claude-sonnet-4-6  identity_mode=blind
+  40/319
+  50/319
+  60/319
+  80/319
+  110/319
+  130/319
+  230/319
+  270/319
+  310/319
+198 candidates from 319 of 319 docs (202 skipped, nothing selectable; 0 FAILED)
+api calls 296: input 475,945  cache write 10,040  cache read 1,787,120  output 21,998 tokens
+cost of this run: $2.33

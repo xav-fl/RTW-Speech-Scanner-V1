@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"is deploying every tool at our disposal—sanctions, prosecutions, asset seizures, extradition requests, and international law enforcement cooperation—to dismantle criminal scam networks\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to dismantle criminal scam networks and impose costs on those who enable them\",\n  \"rationale\": \"The present continuous 'is deploying' describes an ongoing implementation of multiple existing tools, with a stated purpose of dismantling criminal networks and imposing costs, which constitutes a specific causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

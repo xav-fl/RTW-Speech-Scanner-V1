@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"expanding this programme so hundreds more schools and colleges can cut their bills and put that money straight back into the classroom\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"cut their bills and put that money straight back into the classroom\",\n  \"rationale\": \"The speaker pledges to expand the solar programme to additional schools and colleges, with a specific causal claim that doing so will reduce energy bills and redirect savings to classroom spending.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

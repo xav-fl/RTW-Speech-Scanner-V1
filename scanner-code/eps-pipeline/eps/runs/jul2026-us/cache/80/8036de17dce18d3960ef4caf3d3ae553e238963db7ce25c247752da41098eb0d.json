@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"country-of-origin labeling for meat and poultry products\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"D18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

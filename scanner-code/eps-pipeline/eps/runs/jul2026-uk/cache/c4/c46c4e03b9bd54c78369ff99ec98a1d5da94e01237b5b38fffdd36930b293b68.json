@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"local government authority to levy tourist tax\", \"codes\": [{\"code\": \"H71\", \"strength\": 3}, {\"code\": \"L83\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

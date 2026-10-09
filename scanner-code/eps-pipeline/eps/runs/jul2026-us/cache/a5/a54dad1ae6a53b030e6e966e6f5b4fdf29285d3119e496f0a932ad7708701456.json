@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Trump Accounts are reaching the very people they were designed to serve\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Eighty-six percent of enrolled children are from families earning less than $200,000. Trump Accounts are reaching the very people they were designed to serve.\",\n  \"rationale\": \"The speaker reports an achieved outcome of the Trump Accounts program — that 86% of enrolled children come from families earning under $200,000 — as evidence that the program is successfully reaching its intended beneficiaries, linking the program design to this distributional result.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

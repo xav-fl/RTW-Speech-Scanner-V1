@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"will open up opportunities for growth and prominence for this already beloved Scottish product in US towns and cities\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"The removal of tariffs by the US is a significant measure that will open up opportunities for growth and prominence\",\n  \"rationale\": \"The speaker characterises the US tariff removal as causing growth opportunities for Scotch whisky, expressing a causal belief about another party's action rather than committing to any action by the speaker's own government.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"removal from terrorism sponsor list to enable economic recovery\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"O11\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

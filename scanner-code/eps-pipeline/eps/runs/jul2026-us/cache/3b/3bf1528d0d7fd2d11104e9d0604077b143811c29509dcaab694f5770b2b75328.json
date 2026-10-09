@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dc15c23e4f9.P002.S002\"], \"anchor\": \"The United States is committed to expanding our collaboration in critical minerals, civil nuclear energy, trade, and investment.\", \"reason\": \"What are the economic effects of expanded US-Argentina cooperation in critical minerals, nuclear energy, trade, and investment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

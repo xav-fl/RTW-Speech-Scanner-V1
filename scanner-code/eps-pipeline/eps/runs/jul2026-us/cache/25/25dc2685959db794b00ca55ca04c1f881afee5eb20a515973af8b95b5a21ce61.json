@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df5d92590e2.P002.S001\", \"Df5d92590e2.P004.S001\"], \"anchor\": null, \"reason\": \"Does DOE loan financing for Texas grid modernisation lower electricity costs for households and businesses?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

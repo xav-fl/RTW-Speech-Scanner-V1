@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"is defending that shipping and, in addition, is targeting the places that are launching against those ships\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to continue to degrade Iran's ability to target and harm global shipping\",\n  \"rationale\": \"The speaker describes ongoing US military actions (defending shipping and striking launch sites) using present continuous tense, with a stated causal purpose of degrading Iran's capability to harm global shipping.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

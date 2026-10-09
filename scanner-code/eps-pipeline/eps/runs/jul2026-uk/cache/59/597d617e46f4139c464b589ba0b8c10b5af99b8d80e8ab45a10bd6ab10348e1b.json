@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"private sponsorship financing refugee resettlement\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"H53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

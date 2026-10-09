@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"if we provide weaponry to a country and it's part of an agreement, they can't transfer that to a third country without our approval\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker is explaining how co-production and weapons transfer agreements work as a general principle, describing an existing policy norm rather than announcing, pledging, or ruling out any specific action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

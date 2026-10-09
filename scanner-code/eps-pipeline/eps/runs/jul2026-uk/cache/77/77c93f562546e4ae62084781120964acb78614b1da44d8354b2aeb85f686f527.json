@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"place-based delivery will learn from neighbourhood working and the previous Total Place agenda, integrating services at the local level, with more pooled budgets so resources can be redirected to meet locally defined priorities\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"more pooled budgets so resources can be redirected to meet locally defined priorities\",\n  \"rationale\": \"The speaker pledges a future approach ('will learn', 'integrating', 'more pooled budgets') and links pooled budgets causally to the specific outcome of redirecting resources to locally defined priorities.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

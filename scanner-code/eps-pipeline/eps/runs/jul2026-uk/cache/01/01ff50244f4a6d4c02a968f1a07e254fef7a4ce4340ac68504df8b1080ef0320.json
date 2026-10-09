@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we therefore establish a new, Independent Immigration Appeals Authority\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This will allow us to recruit from a far wider pool of candidates… And therefore respond more rapidly to increasing and changing demand.\",\n  \"rationale\": \"The speaker announces the establishment of a new body in the Bill being introduced, and links it to the specific outcomes of wider recruitment and faster response to demand.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

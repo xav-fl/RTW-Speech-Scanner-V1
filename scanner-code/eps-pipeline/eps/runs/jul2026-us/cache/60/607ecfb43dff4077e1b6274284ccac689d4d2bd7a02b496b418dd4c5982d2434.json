@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D76f7a57119.P004.S001\"], \"anchor\": null, \"reason\": \"What are the economic costs and benefits of closing southern cattle ports to control New World screwworm spread?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

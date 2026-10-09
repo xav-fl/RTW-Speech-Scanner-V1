@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"youth wellbeing and screen/social media restrictions\", \"codes\": [{\"code\": \"I18\", \"strength\": 2}, {\"code\": \"I21\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

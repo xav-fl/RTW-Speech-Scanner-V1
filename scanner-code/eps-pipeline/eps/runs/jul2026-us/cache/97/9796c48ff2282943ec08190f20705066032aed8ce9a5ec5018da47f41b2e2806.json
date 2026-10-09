@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dfa7720c24c.P005.S001\", \"Dfa7720c24c.P005.S002\"], \"anchor\": null, \"reason\": \"Does screening federal payments against death records reduce improper payments and what are the net fiscal savings?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

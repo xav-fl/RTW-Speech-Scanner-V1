@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D723ebc08c3.P006.S003\"], \"anchor\": \"These free lesson plans, developed with Oak National Academy and the Association of Citizenship Teachers, change that.\", \"reason\": \"Does providing free classroom resources on legal rights improve students' civic knowledge or engagement?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

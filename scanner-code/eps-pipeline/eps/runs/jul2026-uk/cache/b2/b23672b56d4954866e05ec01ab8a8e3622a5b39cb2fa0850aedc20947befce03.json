@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db23ccf0716.P003.S002\"], \"anchor\": null, \"reason\": \"Do sanctions on Iran-linked groups reduce foreign-backed attacks on UK soil?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

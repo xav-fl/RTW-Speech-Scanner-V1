@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"modernizing health plan communication requirements to reduce employer compliance costs\", \"codes\": [{\"code\": \"I13\", \"strength\": 3}, {\"code\": \"I18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

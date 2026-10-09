@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"907c58f7e444f69f\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this failed bureaucracy\",\n        \"insertion\": \", the federal Department of Education,\",\n        \"evidence\": \"$3 trillion spent on a federal Department of Education and tens of thousands of pages of regulations issued\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"0aab36d2345e2e17\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On education freedom and student options:\",\n        \"evidence\": \"Innovation also flourishes through options – through the freedom to pursue the path that best aligns with a student's talents and aspirations.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

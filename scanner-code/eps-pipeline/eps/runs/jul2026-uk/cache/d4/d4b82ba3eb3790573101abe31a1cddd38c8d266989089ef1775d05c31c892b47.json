@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"free breakfast clubs at 1,400 more schools, an end to expensive lists of branded uniform, and more free lunches for those who need them\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"1,400 more schools\",\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote lists three concrete policy actions (expanding breakfast clubs to 1,400 more schools, ending branded uniform lists, expanding free lunches) framed as future commitments in a press release, with a quantified target of 1,400 schools.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

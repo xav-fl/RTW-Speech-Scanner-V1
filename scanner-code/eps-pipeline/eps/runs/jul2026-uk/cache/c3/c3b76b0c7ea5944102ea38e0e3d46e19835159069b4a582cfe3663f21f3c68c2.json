@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"multilateral defence procurement collaboration mechanism\", \"codes\": [{\"code\": \"H57\", \"strength\": 3}, {\"code\": \"F53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

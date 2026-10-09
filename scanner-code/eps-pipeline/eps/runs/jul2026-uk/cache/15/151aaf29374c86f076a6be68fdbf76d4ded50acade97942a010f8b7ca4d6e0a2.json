@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"makes_conditional_commitment\",\n  \"cue\": \"It is my intention that they grow in scale as we restore order to our asylum system\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"By reducing the numbers arriving by unsafe, illegal routes\",\n  \"rationale\": \"The speaker pledges future action (new community-sponsored and study routes beginning Autumn 2026, first refugees arriving Autumn 2027) and conditionally commits to growing numbers as order is restored to the asylum system by reducing illegal arrivals, with a causal link drawn between restoring order and reducing unsafe/illegal routes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

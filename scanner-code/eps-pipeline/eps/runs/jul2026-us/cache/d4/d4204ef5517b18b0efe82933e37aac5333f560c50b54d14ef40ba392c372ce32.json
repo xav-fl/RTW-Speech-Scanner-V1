@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This is what good government looks like: Over $1.6 trillion in spending cuts; no tax on tips, social security, or overtime pay; investments in new technology to secure our borders on both land and sea; and historic funding for ICE, CBP, and the Coast Guard\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"historic funding for ICE, CBP, and the Coast Guard to make America safe again\",\n  \"rationale\": \"The quote describes enacted provisions of the Big Beautiful Bill as accomplished facts (spending cuts, tax exemptions, investments, funding), and the context confirms it was signed into law, making this a completed action; the phrase 'to make America safe again' links the funding to a specific outcome, triggering the causal effect flag.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"gives consumers confidence that the meat, poultry, and egg products they purchase come from animals born, raised, harvested, and processed right here in the United States\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"gives consumers confidence that the meat, poultry, and egg products they purchase come from animals born, raised, harvested, and processed right here in the United States\",\n  \"rationale\": \"The speaker makes a causal claim that the Product of USA label produces a specific outcome — consumer confidence about product origin — without announcing or pledging any new action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"unclear\",\n  \"sub\": null,\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"our advanced market commitment to quantum\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The fragment is too short and lacks sufficient context to determine whether this is an announcement, an existing programme, or a pledge; the surrounding context does not settle the tense or status of the commitment.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D348d5e3160.P014.S001\"], \"anchor\": \"Treasury is expanding its efforts to identify organizations that abuse charitable and nonprofit structures as vehicles for illicit finance.\", \"reason\": \"Does targeting nonprofit structures used for illicit finance reduce terrorist funding flows?\"},{\"unit_ids\": [\"D348d5e3160.P015.S001\", \"D348d5e3160.P015.S002\", \"D348d5e3160.P015.S003\"], \"anchor\": null, \"reason\": \"Does revoking tax-exempt status and holding nonprofit officers accountable deter exploitation of charitable structures for illicit finance?\"},{\"unit_ids\": [\"D348d5e3160.P016.S002\"], \"anchor\": null, \"reason\": \"Does designating far-left extremist groups as foreign terrorist organisations reduce their access to financial resources?\"},{\"unit_ids\": [\"D348d5e3160.P016.S003\"], \"anchor\": null, \"reason\": \"How effective are OFAC sanctions on sham charities at disrupting Hamas's terrorist financing?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

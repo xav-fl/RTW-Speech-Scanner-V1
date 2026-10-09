@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We are strengthening our deployment in Estonia to defend NATO territory and deter Russian aggression. This new roadmap reflects the realities of warfare today and shows how we are modernising our forces to meet the threats we face.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"strengthening our deployment in Estonia to defend NATO territory and deter Russian aggression\",\n  \"rationale\": \"The press release announces a signed roadmap ('today') committing to strengthening deployment and modernising forces, with a stated causal purpose of defending NATO territory and deterring Russian aggression.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

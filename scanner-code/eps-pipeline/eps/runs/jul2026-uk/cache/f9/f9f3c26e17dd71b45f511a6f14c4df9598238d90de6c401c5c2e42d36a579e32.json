@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We're saving £1 billion of taxpayer money by removing VAT relief from some new Motability leases\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"saving £1 billion of taxpayer money by removing VAT relief from some new Motability leases, whilst ensuring the scheme still supports disabled people's mobility and independence\",\n  \"rationale\": \"The present continuous 'We're saving' describes an action already under way (confirmed by 'come into force' in the document title), and the quote links that action to a specific outcome (£1 billion saved) and a further effect (scheme still supports disabled people's mobility), making claims_causal_effect true.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

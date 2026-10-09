@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We've knocked over 24,000 drivers off our roads for failing to speak English, forced states to cancel over 28,000 licenses illegally issued to foreign drivers, and purged over 9,500 unqualified training schools from our FMCSA registry.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports completed past actions — removing drivers, cancelling licences, and purging training schools — using present-perfect and past-tense constructions, with no forward-looking commitment or causal claim linking these actions to a specific outcome.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"Last week, we announced our new Collaborative Combat Air programme, StormFighter\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"With the advent of CCA, and their integration with crewed platforms like the Typhoon, we will make the RAF Europe's first sixth-generation air force\",\n  \"rationale\": \"The speaker reports a decision announced last week (StormFighter programme) and describes its intended effects — making the RAF Europe's first sixth-generation air force — linking the CCA integration to that specific outcome.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

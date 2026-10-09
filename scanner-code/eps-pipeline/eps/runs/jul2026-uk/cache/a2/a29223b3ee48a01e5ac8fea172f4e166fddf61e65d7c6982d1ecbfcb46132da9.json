@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"age-based regulation of addictive online platform features to protect youth wellbeing\", \"codes\": [{\"code\": \"L86\", \"strength\": 3}, {\"code\": \"I18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

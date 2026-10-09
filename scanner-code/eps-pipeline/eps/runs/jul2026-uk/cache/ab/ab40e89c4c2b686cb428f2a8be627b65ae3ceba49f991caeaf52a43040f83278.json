@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"pooled budgets and devolved fiscal authority to local places\", \"codes\": [{\"code\": \"H77\", \"strength\": 3}, {\"code\": \"H72\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

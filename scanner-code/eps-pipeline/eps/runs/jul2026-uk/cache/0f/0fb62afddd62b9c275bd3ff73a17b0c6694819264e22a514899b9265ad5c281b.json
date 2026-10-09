@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We agreed the first multi-year funding settlement in a decade\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so councils have the confidence to plan\",\n  \"rationale\": \"The speaker reports a completed action (agreeing a multi-year funding settlement) and links it to a specific outcome (councils having confidence to plan).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

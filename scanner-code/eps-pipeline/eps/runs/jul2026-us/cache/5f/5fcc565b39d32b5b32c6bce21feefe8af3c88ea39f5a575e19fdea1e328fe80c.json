@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"The President signed National Security Presidential Memorandum number 7, outlining a comprehensive strategy to investigate and disrupt Antifa terror networks and their allies. Last November, the State Department designated four violent far-left extremist groups as Foreign Terrorist Organizations\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote primarily reports completed actions (signing of NSPM-7 and FTO designations) already taken before this document, while also pledging future designations ('there will be more designations soon').\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

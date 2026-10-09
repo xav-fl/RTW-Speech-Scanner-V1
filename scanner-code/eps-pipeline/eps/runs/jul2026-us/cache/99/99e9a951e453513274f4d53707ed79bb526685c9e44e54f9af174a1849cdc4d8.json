@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"if you're going to have true arms control, it has to be triparty. It has to be the U.S., Russia, but also China.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker expresses a value judgment about what genuine arms control requires (triparty inclusion of China), without committing to or reporting any specific action, and the context confirms the topic was not discussed in the current meeting.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

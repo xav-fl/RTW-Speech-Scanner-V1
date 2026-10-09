@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will keep going further so we can ensure every young person has the chance to earn or learn\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges continued future action ('we will keep going further') to ensure every young person has the chance to earn or learn, with no specific quantified target and no specific causal link stated.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

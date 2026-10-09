@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dbe9d73ca08.P013.S001\", \"Dbe9d73ca08.P013.S002\"], \"anchor\": null, \"reason\": \"Does UK funding for the UN Horizon Fund and Team Gaza Initiative improve coordination and early recovery outcomes in Gaza?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

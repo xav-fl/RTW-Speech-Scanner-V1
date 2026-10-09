@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"pilot programs for faster NHS patient access to new treatments\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"I11\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

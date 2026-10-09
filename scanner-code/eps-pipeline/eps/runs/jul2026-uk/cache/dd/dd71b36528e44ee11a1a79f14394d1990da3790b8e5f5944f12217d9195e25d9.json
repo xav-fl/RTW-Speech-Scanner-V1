@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"Our landmark English Devolution and Community Empowerment Act makes devolution the default option\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"That allows them to grow their economies in a more inclusive way – the opportunity to put more money in more people's pockets\",\n  \"rationale\": \"The Act is referred to as an existing enacted piece of legislation that has already given mayors new powers, and the speaker claims this will causally enable more inclusive economic growth and put more money in people's pockets.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

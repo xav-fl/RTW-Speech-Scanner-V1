@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government bond issuance in digital form\", \"codes\": [{\"code\": \"H63\", \"strength\": 3}, {\"code\": \"E42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

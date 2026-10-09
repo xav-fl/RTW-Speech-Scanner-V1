@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Introducing City Investment Funds, giving established regional leaders control over long-term, self-sustaining capital\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"returns can then be be re-invested for further growth\",\n  \"rationale\": \"The quote describes an ongoing devolution action (introducing City Investment Funds) as part of a list of things 'this government has done', and links the capital returns to further growth, establishing a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

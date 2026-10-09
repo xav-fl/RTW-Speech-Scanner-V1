@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"overnight visitor levy as local tourism tax revenue\", \"codes\": [{\"code\": \"H71\", \"strength\": 3}, {\"code\": \"L83\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

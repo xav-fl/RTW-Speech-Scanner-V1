@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"cutting inflation by reducing energy bills, freezing prescription charges and freezing rail fares\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"cutting inflation by reducing energy bills, freezing prescription charges and freezing rail fares\",\n  \"rationale\": \"The speaker reports past actions taken at a previous Budget (completed_action) and explicitly links those actions — reducing energy bills, freezing prescription charges and rail fares — to the outcome of cutting inflation, establishing a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

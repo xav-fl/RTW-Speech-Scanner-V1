@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"1e9049db670d5d9f\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"isolate him\",\n        \"insertion\": \", the Supreme Leader of Iran,\",\n        \"evidence\": \"E.O. 13876, which focuses on the Supreme Leader of Iran and his affiliates\"\n      },\n      {\n        \"position\": \"after\",\n        \"anchor\": \"other regime elites\",\n        \"insertion\": \", including senior figures within the Supreme Leader's Office and the IRGC,\",\n        \"evidence\": \"notable senior figures within the Supreme Leader's Office—and the Islamic Revolutionary Guard Corps (IRGC)\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D87a18f80ed.P001.S001\"], \"anchor\": null, \"reason\": \"Do sanctions targeting Cuban regime entities effectively limit illicit revenue from medical worker exploitation and sanctions evasion?\"},{\"unit_ids\": [\"D87a18f80ed.P015.S001\", \"D87a18f80ed.P015.S002\", \"D87a18f80ed.P015.S003\", \"D87a18f80ed.P015.S004\"], \"anchor\": null, \"reason\": \"What are the economic effects of Cuba's forced-labour medical missions on workers and receiving countries?\"},{\"unit_ids\": [\"D87a18f80ed.P023.S001\", \"D87a18f80ed.P023.S002\"], \"anchor\": null, \"reason\": \"How effective is asset-blocking of sanctioned entities in reducing their access to funds and economic activity?\"},{\"unit_ids\": [\"D87a18f80ed.P024.S001\", \"D87a18f80ed.P024.S002\", \"D87a18f80ed.P024.S003\", \"D87a18f80ed.P024.S004\", \"D87a18f80ed.P024.S005\", \"D87a18f80ed.P024.S006\", \"D87a18f80ed.P024.S007\"], \"anchor\": null, \"reason\": \"Do secondary sanctions risks deter foreign financial institutions from transacting with sanctioned Cuban entities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

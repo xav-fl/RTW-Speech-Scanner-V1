@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"development finance institution investing in infrastructure, energy, and supply chains in ASEAN\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"H54\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"These new requirements for homeland security grant recipients will preserve election integrity and ensure that Americans can trust the results.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These new requirements for homeland security grant recipients will preserve election integrity and ensure that Americans can trust the results.\",\n  \"rationale\": \"The speaker announces new requirements being imposed on grant recipients (an action taken in this document), and links those requirements to the specific outcomes of preserving election integrity and ensuring public trust in results.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

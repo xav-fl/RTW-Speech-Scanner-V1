@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"calls_on_others\",\n  \"secondary_sub\": \"other_states\",\n  \"cue\": \"We will work with others on tackling the climate crisis, strengthening our partnerships for international development, and reforming our international institutions so they deliver for all countries\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges future action ('We will work with others') on climate, development and institutional reform, while also implicitly calling on other states/partners to collaborate, but the primary intention is the speaker's own government's commitment.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

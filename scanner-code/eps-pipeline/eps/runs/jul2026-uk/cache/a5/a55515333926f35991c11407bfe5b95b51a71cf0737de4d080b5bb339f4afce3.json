@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"7b4e727abeec5e95\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On National Lottery Good Cause funding decisions:\",\n        \"evidence\": \"The government is launching a comprehensive review of National Lottery Good Cause funding, asking the public to have their say on where the money should go and how it should be spent\"\n      }\n    ],\n    \"note\": \"The flagged expression refers to decisions about how National Lottery Good Cause funding is allocated, made by distributor bodies operating at a remove from local communities.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

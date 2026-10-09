@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"recruiting tech talent into government to build digital public sector tools\", \"codes\": [{\"code\": \"H83\", \"strength\": 3}, {\"code\": \"J24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

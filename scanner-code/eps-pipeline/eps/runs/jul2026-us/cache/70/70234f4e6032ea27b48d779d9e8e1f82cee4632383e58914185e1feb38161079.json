@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"doubling the cumulative 7(a) and 504 loan limit to $10 million\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"doubling the cumulative 7(a) and 504 loan limit to $10 million\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"unlocking the largest financing opportunity in agency history and giving job creators the flexibility they need to grow\",\n  \"rationale\": \"The press release announces a decided policy change — doubling the loan limit to $10 million — framed as the Trump SBA acting now, with a quantified target and a stated causal effect of unlocking financing and enabling growth.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

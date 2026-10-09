@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"removal of state sponsor of terrorism designation affecting trade and sanctions\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

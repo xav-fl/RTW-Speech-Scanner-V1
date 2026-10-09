@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"This government has made a record number of drug seizures\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote first reports an achieved outcome ('has made a record number of drug seizures'), then pledges further action ('we will go even further'), with the outcome claim taking precedence under Q6 and the pledge recorded as secondary.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

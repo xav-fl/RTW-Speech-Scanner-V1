@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Ddfea4a2fdc.P002.S001\"], \"anchor\": null, \"reason\": \"Does restricting visas for far-left group members reduce political violence or deter terrorist network activity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

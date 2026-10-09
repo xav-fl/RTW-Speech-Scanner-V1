@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"a4cee628a90988c8\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is self-explanatory: the speaker explains the cost-cutting by referencing deals on train journeys across all services in public ownership. No referent is missing.\"\n  },\n  {\n    \"quote_id\": \"89eb4168c6cdd887\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On the government's rail reform mission,\",\n        \"evidence\": \"Building a new economy where we make life's essentials affordable again is central to the government's mission to deliver the greatest rail reform in a generation.\"\n      }\n    ],\n    \"note\": \"'Our plan' refers to the government's plan for rail reform and public ownership, attributed to Transport Secretary Heidi Alexander.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

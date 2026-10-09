@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"cross-border law enforcement information sharing to disrupt criminal networks and drug trafficking\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"F53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

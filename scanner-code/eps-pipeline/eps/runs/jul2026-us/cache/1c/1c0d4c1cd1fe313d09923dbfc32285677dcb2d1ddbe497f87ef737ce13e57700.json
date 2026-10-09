@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"describes_problem\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the Endangered Species Act has been weaponized to stop almost any new project in America, driving up costs for families, weakening our competitiveness, and undermining our national security\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"driving up costs for families, weakening our competitiveness, and undermining our national security\",\n  \"rationale\": \"The speaker characterizes the ESA as a problem that has caused specific harms, with no action named in the quote itself, making this a description of a problem with causal claims attached.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

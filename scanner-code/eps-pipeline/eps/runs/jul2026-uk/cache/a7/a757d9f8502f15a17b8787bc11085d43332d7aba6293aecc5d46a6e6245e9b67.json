@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"f69a8989a332ff2c\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this conflict\",\n        \"insertion\": \"— involving Iran's attacks on shipping —\",\n        \"evidence\": \"the UK condemns in the strongest terms the unjustified attacks by Iran since then on shipping\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

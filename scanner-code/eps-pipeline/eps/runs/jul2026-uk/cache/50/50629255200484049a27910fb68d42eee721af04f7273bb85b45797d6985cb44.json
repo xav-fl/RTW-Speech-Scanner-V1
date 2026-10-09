@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"4cd89cd38a50fc44\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"The barrels produced here in South Yorkshire\",\n        \"insertion\": \"— 105mm and 155mm artillery gun barrels —\",\n        \"evidence\": \"The 105mm and 155mm gun barrels are being produced at Sheffield Forgemasters\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public expenditure on defence capability and allied security\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

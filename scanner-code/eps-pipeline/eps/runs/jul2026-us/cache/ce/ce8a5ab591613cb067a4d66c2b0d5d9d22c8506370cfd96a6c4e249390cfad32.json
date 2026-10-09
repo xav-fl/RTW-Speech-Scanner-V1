@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government seed investment accounts for children at birth\", \"codes\": [{\"code\": \"D14\", \"strength\": 3}, {\"code\": \"I38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

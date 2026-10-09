@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D31d73fc540.P008.S001\", \"D31d73fc540.P008.S002\"], \"anchor\": null, \"reason\": \"Does multilateral pooling of defence procurement reduce costs and improve capability compared with fragmented national purchasing?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

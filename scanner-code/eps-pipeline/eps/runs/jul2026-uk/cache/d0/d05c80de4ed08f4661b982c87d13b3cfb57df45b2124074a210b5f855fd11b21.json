@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I strengthened those changes as soon as I came into this job\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Our changes to planning laws and regulations speed up the time it takes to get spades in the ground and build the homes we need\",\n  \"rationale\": \"The speaker reports completed past actions (changes to planning laws and strengthening them upon taking office) and claims these changes cause a specific outcome: speeding up the time to begin construction and deliver homes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"increasing domestic production can reduce our dependence on vulnerable foreign sources, and power modern industries, advanced technologies, and essential infrastructure\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"increasing domestic production can reduce our dependence on vulnerable foreign sources, and power modern industries, advanced technologies, and essential infrastructure\",\n  \"rationale\": \"The quote asserts a causal belief that increasing domestic production reduces foreign dependence and powers industries, while also referencing the existing government mandate as ongoing implementation; the causal claim is the primary intention.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

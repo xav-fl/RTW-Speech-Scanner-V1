@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"939126bbda47e739\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this vital information sharing\",\n        \"insertion\": \"— on drug risks and threats —\",\n        \"evidence\": \"agreed to conclude a working arrangement enabling the reciprocal exchange of information on drug risks and threats\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

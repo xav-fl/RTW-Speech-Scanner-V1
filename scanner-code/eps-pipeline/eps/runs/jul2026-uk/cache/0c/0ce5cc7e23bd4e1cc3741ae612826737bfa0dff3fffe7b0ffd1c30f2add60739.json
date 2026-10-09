@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"workforce skills investment for clean energy transition in local communities\", \"codes\": [{\"code\": \"J24\", \"strength\": 3}, {\"code\": \"Q42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"79b9afa9f99ff0b1\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"These campuses\",\n        \"insertion\": \", the Nuclear Lifecycle Innovation Campuses,\",\n        \"evidence\": \"the selection of Utah, Tennessee, Oklahoma, Louisiana, and Idaho as potential host states for Nuclear Lifecycle Innovation Campuses\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

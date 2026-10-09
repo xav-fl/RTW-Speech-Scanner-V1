@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I'm delighted to say today that we are allowing farmers with land management agreements that are soon to expire to apply early for SFI26\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so that you have the same confidence in the future as we do\",\n  \"rationale\": \"The speaker announces today a new decision allowing early SFI26 applications for farmers with expiring agreements, with a stated purpose of giving farmers confidence in the future.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

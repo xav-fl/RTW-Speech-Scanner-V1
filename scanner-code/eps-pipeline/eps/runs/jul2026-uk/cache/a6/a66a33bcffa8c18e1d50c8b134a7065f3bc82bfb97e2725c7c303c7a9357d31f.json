@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"foreign aid for Palestinian reconstruction coordination\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"O19\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

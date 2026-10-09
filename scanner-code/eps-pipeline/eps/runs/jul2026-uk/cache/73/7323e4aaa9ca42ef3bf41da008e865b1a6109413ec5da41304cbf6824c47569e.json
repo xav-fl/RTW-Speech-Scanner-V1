@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5bc49e73c0.P013.S002\"], \"anchor\": null, \"reason\": \"Does an independent review-led long-term prison reform plan reduce reoffending and improve public safety outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"our new Social Housing Bill, going through Parliament right now, changes Right to Buy so new council homes are protected from being sold off so you have the confidence to go ahead and build them\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"changes Right to Buy so new council homes are protected from being sold off so you have the confidence to go ahead and build them\",\n  \"rationale\": \"The Social Housing Bill is currently going through Parliament (ongoing implementation), and the speaker links the Right to Buy changes to a specific outcome: councils gaining confidence to build new homes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

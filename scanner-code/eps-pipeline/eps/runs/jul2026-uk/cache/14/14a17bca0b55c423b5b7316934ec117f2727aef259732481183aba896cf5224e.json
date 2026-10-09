@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"That is changing. From later this summer, farmers and land managers will be able to submit an expression of interest and we are introducing simpler, single-focus agreements\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so applicants can focus on the environmental priorities that matter most on their land\",\n  \"rationale\": \"The speaker announces today a decision to open the Countryside Stewardship Higher Tier and introduce simpler agreements, with a specific outcome named (applicants focusing on environmental priorities that matter most on their land), triggering claims_causal_effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

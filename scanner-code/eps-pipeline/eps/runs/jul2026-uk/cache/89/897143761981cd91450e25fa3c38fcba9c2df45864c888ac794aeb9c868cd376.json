@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"will soon allow communities, universities and businesses to sponsor refugees\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"those in need of protection arrive with the consent of communities… And with the financial support of their sponsor and not the taxpayer\",\n  \"rationale\": \"The speaker pledges a future action (capped, safe and legal routes that will soon allow sponsorship) and links it to specific outcomes: refugees arriving with community consent and sponsor funding rather than taxpayer funding.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D522874e35a.P001.S004\"], \"anchor\": \"The Trump Administration's swift response efforts in delivering life-saving relief, including the activation of urban search and rescue teams from the Fairfax County Fire and Rescue Department, the Los Angeles County Fire Department, Miami-Dade Fire Rescue, and City of Miami Department of Fire-Rescue, demonstrate our support for a full recovery.\", \"reason\": \"What are the effects of US disaster relief deployments on recovery outcomes in recipient countries?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

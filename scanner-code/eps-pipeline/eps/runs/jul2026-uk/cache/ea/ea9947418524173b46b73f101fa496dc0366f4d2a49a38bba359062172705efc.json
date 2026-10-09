@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"Westminster must trust local leaders to make the right decisions\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker is directing Whitehall/Westminster (other parts of government, not the speaker's own agency) to genuinely devolve power rather than duplicate structures, making this a call on others to act.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

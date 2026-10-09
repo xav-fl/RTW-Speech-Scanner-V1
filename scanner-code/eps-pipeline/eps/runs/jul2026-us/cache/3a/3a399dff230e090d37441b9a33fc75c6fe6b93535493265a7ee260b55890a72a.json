@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"considers_open_option\",\n  \"sub\": \"preferred_option\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"provides him more authorities to impose higher economic costs on Iran if it's necessary to do so\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes a legislative vehicle the President views favorably as a means to gain conditional authority to impose higher costs on Iran, indicating a preferred but not yet enacted option contingent on congressional passage.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

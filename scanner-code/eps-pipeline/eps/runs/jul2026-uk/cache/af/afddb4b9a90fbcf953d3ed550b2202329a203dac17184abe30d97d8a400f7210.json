@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"It sets out how improving nutrient management and input efficiency will help farmers to reduce resilience on artificial fertilisers, cut input costs and, crucially, boost resilience.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"improving nutrient management and input efficiency will help farmers to reduce resilience on artificial fertilisers, cut input costs and, crucially, boost resilience\",\n  \"rationale\": \"The quote describes an existing document ('It sets out how...') that is already in place, explaining how its approach to nutrient management and input efficiency will produce specific outcomes for farmers, making this ongoing implementation with a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

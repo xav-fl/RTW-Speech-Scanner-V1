@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D51d3df341c.P004.S002\"], \"anchor\": null, \"reason\": \"Do targeted grants to domestic small suppliers in priority supply chains increase reshoring and production capacity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"These tough new rules will shut down dodgy funding, stop foreign money influencing our elections and keep our democracy strong.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These tough new rules will shut down dodgy funding, stop foreign money influencing our elections and keep our democracy strong.\",\n  \"rationale\": \"The press release announces new rules (announced in this document, as indicated by 'These tough new rules'), and the quote links those rules to specific outcomes — shutting down dodgy funding and stopping foreign money influencing elections — establishing a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

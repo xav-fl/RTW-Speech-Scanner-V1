@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"They had benefited from SFI, a scheme which funds actions to directly improve soil health\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"a scheme which funds actions to directly improve soil health, the foundations of regenerative farming through actions like cover crops, herbal lays and building organic matter in the soil\",\n  \"rationale\": \"The speaker reports that farmers had already benefited from the existing SFI scheme, describing its ongoing implementation and linking it causally to soil health improvements through specific farming actions.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

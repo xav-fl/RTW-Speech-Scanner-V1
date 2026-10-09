@@ -1,0 +1,57 @@
+{
+  "documents_screened": 644,
+  "documents_with_observations": 89,
+  "observations_kept": 139,
+  "observations_rejected": 21,
+  "speaker_warnings": [],
+  "speaker_sources": {
+    "manifest": 644
+  },
+  "reject_reasons": {
+    "passage is not attributable to the speaker": 9,
+    "unit_ids span a paragraph boundary": 7,
+    "JEL classification failed validation: no defensible economic object: classifier assigned no JEL code": 4,
+    "unit_ids are not contiguous": 1
+  },
+  "by_institution": {
+    "Department of State": 51,
+    "Department of the Treasury": 20,
+    "Department of Agriculture": 14,
+    "Small Business Administration": 12,
+    "Department of Education": 7,
+    "Department of Health and Human Services": 7,
+    "Department of Homeland Security": 6,
+    "Department of Energy": 5,
+    "Department of Transportation": 5,
+    "Environmental Protection Agency": 3,
+    "Department of the Interior": 2,
+    "Department of Justice": 2,
+    "Department of Labor": 2,
+    "General Services Administration": 1,
+    "Department of Housing and Urban Development": 1,
+    "Social Security Administration": 1
+  },
+  "context": {
+    "source": "context_log.csv",
+    "unmatched": 0
+  },
+  "intention": {
+    "status": "tagged",
+    "quotes": 139,
+    "tagged": 139,
+    "not_tagged": 0,
+    "failure_reasons": {},
+    "unclear": 0,
+    "context_quote_only": 0,
+    "prompt_version": "I3",
+    "prompt_fingerprint": "2633b8ef029e",
+    "model": "claude-sonnet-4-6"
+  },
+  "files": {
+    "dataset": "runs\\jul2026-us\\out\\dataset.csv",
+    "internal": "runs\\jul2026-us\\out\\observations_internal.csv",
+    "screening_log": "runs\\jul2026-us\\out\\screening_log.csv",
+    "rejected": "runs\\jul2026-us\\out\\rejected.csv",
+    "intention_log": "runs\\jul2026-us\\out\\intention_log.jsonl"
+  }
+}

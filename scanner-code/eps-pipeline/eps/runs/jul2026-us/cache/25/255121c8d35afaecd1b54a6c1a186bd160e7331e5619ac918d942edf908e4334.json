@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government authorization and deployment of advanced nuclear reactors\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"Q42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"ee722937e592d60b\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This programme\",\n        \"insertion\": \", the Army's Collective Training Service contract,\",\n        \"evidence\": \"The Army's Collective Training Service (ACTS) is part of the Army's Collective Training Transformation Programme (CTTP).\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"place-based regional investment funds for transport, defence, innovation, and creative clusters\", \"codes\": [{\"code\": \"R58\", \"strength\": 3}, {\"code\": \"R42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

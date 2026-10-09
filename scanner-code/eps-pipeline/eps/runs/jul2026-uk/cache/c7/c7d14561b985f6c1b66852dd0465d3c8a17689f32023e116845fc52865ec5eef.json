@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the Bill strengthens the public interest test to more easily remove foreign criminals\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces decisions already embodied in the Bill being introduced, including strengthening the public interest test and clarifying that deportation should proceed outside limited exceptional circumstances, making this an announces_decision.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

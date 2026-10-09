@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we already see mayors building new stations in Liverpool City Region, opening up land for housebuilding in West Yorkshire, and upgrading the bus network in Greater Manchester\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Thanks to the flexibility this offers, we already see mayors building new stations in Liverpool City Region, opening up land for housebuilding in West Yorkshire, and upgrading the bus network in Greater Manchester\",\n  \"rationale\": \"The speaker reports ongoing implementation of integrated settlements already under way, citing concrete examples of mayors acting under the new arrangements, and explicitly attributes these outcomes to the flexibility the settlements provide.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

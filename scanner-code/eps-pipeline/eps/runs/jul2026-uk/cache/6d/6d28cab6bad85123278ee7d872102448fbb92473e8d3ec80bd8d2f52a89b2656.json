@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulatory reform to accelerate business growth and market entry\", \"codes\": [{\"code\": \"L51\", \"strength\": 3}, {\"code\": \"O31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

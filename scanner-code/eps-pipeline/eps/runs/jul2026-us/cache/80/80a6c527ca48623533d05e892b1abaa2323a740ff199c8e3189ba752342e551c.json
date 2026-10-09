@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"occupational licensing deregulation for veterans\", \"codes\": [{\"code\": \"J44\", \"strength\": 3}, {\"code\": \"J45\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

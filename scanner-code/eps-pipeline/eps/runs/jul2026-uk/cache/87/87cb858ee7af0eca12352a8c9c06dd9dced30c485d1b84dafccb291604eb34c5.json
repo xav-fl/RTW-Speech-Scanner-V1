@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1bb8c0e49d.P005.S002\"], \"anchor\": \"With the Marine Management Organisation as its Lead Environmental Regulator, we can deliver more clean energy and more jobs, while continuing to protect the environment.\", \"reason\": \"Does appointing a single Lead Environmental Regulator accelerate clean energy infrastructure approvals without reducing environmental protection?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal regulatory reform and investment incentives for high-speed rail development\", \"codes\": [{\"code\": \"R42\", \"strength\": 3}, {\"code\": \"L98\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

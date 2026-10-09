@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"profit cap on private providers of public services (likely children's care placements)\", \"codes\": [{\"code\": \"L38\", \"strength\": 3}, {\"code\": \"I28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

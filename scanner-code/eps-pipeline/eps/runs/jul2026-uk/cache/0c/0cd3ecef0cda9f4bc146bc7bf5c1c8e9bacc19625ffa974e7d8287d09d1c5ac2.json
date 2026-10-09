@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"This act gives the police and intelligence agencies the tools they need to pursue foreign powers and their proxies\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"gives the police and intelligence agencies the tools they need to pursue foreign powers and their proxies, and better protect our communities, institutions, and democratic values\",\n  \"rationale\": \"The speaker reports that the National Security (State Threats) Bill has been enacted and describes the tools it provides to police and intelligence agencies, linking the act to the outcome of better protecting communities and democratic values.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

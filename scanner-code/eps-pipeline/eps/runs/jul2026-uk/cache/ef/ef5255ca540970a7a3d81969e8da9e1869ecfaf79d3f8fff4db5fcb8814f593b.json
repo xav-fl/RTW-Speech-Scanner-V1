@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4f77175f80.P012.S001\"], \"anchor\": null, \"reason\": \"Does a £298bn defence investment over four years improve military readiness and capability outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

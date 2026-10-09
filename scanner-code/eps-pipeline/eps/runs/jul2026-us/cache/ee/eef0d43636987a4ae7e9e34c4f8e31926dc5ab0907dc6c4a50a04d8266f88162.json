@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this initiative will establish premier long-distance biking corridors\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"fuel local tourism while ensuring we remain responsible stewards of our nation's abundant natural resources\",\n  \"rationale\": \"The speaker pledges that the initiative will establish biking corridors, linking that action to specific outcomes (fueling local tourism, responsible stewardship), making this a future commitment with causal claims.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

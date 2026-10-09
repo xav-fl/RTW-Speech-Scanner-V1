@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1e6c6458f7.P001.S001\"], \"anchor\": null, \"reason\": \"Do FTO/SDGT designations of drug cartels reduce cartel revenues, violence, or drug flows into the US?\"},{\"unit_ids\": [\"D1e6c6458f7.P004.S001\", \"D1e6c6458f7.P004.S002\"], \"anchor\": null, \"reason\": \"Does blocking cartel assets and prohibiting US-person transactions reduce cartel financing and operations?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

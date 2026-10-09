@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"These reforms create stronger, more efficient councils that lay the foundations for real devolution and the economic growth that will bring new jobs and opportunities to communities right across England\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These reforms create stronger, more efficient councils that lay the foundations for real devolution and the economic growth that will bring new jobs and opportunities to communities right across England\",\n  \"rationale\": \"The quote refers to ongoing local government reorganisation reforms (named in context) and claims they produce specific outcomes — stronger councils, real devolution, economic growth and new jobs — making this ongoing implementation with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

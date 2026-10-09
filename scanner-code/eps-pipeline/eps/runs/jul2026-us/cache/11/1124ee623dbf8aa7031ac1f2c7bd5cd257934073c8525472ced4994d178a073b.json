@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal selection of nuclear energy infrastructure sites\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"H54\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

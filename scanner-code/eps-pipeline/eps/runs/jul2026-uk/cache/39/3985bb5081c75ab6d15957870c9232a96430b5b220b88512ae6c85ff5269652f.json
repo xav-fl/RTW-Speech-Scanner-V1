@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our new support for the UN Horizon Fund and the Team Gaza Initiative\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will help coordinate international efforts, back practical recovery work on the ground and support Palestinians\",\n  \"rationale\": \"The press release announces new UK support for the UN Horizon Fund and Team Gaza Initiative, with the word 'new' indicating a decision made in this document, and the quote links this action to specific outcomes (coordinating international efforts, backing recovery work, supporting Palestinians).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

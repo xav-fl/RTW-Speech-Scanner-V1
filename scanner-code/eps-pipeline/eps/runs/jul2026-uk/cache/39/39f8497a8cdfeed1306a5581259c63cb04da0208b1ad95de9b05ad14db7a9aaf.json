@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I'm reforming archaic rules\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so couples have more freedom to say 'I do' on their own terms, while strengthening safeguards to protect the meaning and permanence of marriage\",\n  \"rationale\": \"The speaker announces a decision being made in this document ('Today's announcement') to reform marriage rules, with a stated causal effect of giving couples more freedom and strengthening safeguards.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

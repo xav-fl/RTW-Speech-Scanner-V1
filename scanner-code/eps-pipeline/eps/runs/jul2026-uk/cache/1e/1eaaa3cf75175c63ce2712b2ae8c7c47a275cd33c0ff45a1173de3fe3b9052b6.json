@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"calls_on_others\",\n  \"secondary_sub\": \"other_states\",\n  \"cue\": \"we will work intensely with others to seek to deescalate this conflict and find a diplomatic way forward\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges future action by the UK government to work with others to de-escalate the conflict and find a diplomatic solution, while also calling on other states to reopen the Strait of Hormuz and uphold freedom of navigation.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

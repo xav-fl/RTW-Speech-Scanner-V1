@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D0f12a1b148.P002.S002\"], \"anchor\": null, \"reason\": \"Does linking federal apprenticeship funding to retention and progression milestones improve worker outcomes and program quality?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"We are pushing forward the new Decent Homes Standard\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"which will give the sector long-term regulatory certainty\",\n  \"rationale\": \"The present continuous 'are pushing forward' describes an action already under way (ongoing_implementation), and the relative clause links it to a specific outcome — long-term regulatory certainty for the sector — making claims_causal_effect true.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

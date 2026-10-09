@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"19efb1cae1034168\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation already names the subject fully — 'this Memorandum of Understanding between our three nations' — and the topic (small modular reactors) is stated immediately after. No referent is missing.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

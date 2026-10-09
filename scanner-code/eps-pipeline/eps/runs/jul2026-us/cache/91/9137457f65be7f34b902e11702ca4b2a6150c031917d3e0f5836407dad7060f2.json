@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"suspension of federal/public funding to agency under investigation\", \"codes\": [{\"code\": \"H81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

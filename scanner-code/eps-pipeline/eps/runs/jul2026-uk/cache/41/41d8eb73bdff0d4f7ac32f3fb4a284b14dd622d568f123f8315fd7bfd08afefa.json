@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government funding for building remediation\", \"codes\": [{\"code\": \"H54\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

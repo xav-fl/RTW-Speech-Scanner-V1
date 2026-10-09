@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"reform of investment appraisal framework to reduce regional bias\", \"codes\": [{\"code\": \"R58\", \"strength\": 3}, {\"code\": \"H54\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

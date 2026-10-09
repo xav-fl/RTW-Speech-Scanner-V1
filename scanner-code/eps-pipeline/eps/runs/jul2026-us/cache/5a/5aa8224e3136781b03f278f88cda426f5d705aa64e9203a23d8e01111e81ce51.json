@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"7208ba27fbdc164d\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"those things\",\n        \"insertion\": \", decisions that deindustrialized the country,\",\n        \"evidence\": \"We started saying things like we don't care where things are made, let it be made in another country as long as it's cheaper prices for America. And it ended up deindustrializing our country and costing us millions of jobs.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

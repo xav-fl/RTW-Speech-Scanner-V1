@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"private_actors\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"Every new company that adopts Product of USA is helping strengthen rural America, create new market opportunities for U.S. producers, and make it easier for families to support American agriculture every time they shop.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Every new company that adopts Product of USA is helping strengthen rural America, create new market opportunities for U.S. producers, and make it easier for families to support American agriculture every time they shop.\",\n  \"rationale\": \"The quote implicitly calls on private companies to adopt the Product of USA label by praising those who do and describing the benefits, while also reporting the ongoing implementation of the initiative as companies continue to join.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

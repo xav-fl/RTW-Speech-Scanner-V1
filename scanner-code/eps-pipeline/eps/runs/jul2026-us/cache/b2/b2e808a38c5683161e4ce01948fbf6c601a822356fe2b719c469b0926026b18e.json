@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7a9a11eda2.P007.S003\"], \"anchor\": \"Effective immediately, VIHFA is suspended from receiving another cent as we investigate.\", \"reason\": \"Does suspending disaster-recovery funding to grantees found guilty of mismanagement improve accountability and housing outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

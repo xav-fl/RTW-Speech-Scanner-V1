@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"what you see President Trump doing now is rebalancing those things on the economy using tariffs\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes an action currently under way ('doing now') — President Trump's use of tariffs to rebalance the economy — without attaching a specific causal outcome or quantified target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"defence aerospace production program and employment\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"L64\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"The introduction of automatic penalties will give the Environment Agency the teeth it needs to deliver cleaner rivers, lakes and seas.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"The introduction of automatic penalties will give the Environment Agency the teeth it needs to deliver cleaner rivers, lakes and seas.\",\n  \"rationale\": \"The press release announces the introduction of automatic penalties as a new decision (document title: 'New penalties introduced'), and the quote links that action to the specific outcome of cleaner rivers, lakes and seas.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

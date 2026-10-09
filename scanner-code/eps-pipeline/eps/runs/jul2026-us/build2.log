@@ -1,0 +1,12 @@
+intention  Not tagged: 0 of 139
+speaker from manifest: 644 document(s)
+screened   644
+kept       139
+rejected   21
+       9  passage is not attributable to the speaker
+       7  unit_ids span a paragraph boundary
+       4  JEL classification failed validation: no defensible economic object: classifier assigned no JEL code
+       1  unit_ids are not contiguous
+intention  139 tagged, 0 not tagged, 0 unclear  (prompt I3, model claude-sonnet-4-6)
+
+-> runs\jul2026-us\out\dataset.csv

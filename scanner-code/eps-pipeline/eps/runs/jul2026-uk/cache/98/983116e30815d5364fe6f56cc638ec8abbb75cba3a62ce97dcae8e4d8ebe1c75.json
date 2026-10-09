@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"autonomous uncrewed combat aircraft procurement and integration with crewed platforms\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"H57\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

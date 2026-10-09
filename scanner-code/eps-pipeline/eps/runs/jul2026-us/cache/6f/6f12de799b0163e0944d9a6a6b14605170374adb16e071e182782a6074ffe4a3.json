@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the United States designated four far-left Antifa extremist groups abroad as foreign terrorist organizations\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"denying them access to the U.S. financial system and depriving them of resources they need to carry out attacks\",\n  \"rationale\": \"The speaker reports a completed past action (designation of four groups as foreign terrorist organizations) and links it to specific outcomes (denying financial access and depriving resources needed for attacks).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

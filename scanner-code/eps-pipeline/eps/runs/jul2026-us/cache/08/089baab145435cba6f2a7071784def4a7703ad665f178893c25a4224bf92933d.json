@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we are ending federal support for dangerous gain-of-function research and replacing weak oversight with clear, enforceable safeguards\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote announces a decision being made in this document — ending federal support for gain-of-function research and replacing oversight — using present continuous tense that signals an action announced now, consistent with the press release context referencing 'This policy delivers on President Trump's commitment.'\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

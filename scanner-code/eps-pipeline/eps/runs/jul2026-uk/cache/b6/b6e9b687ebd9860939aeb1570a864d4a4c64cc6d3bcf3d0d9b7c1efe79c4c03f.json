@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D58e04da503.P009.S001\", \"D58e04da503.P009.S002\", \"D58e04da503.P009.S003\", \"D58e04da503.P009.S004\"], \"anchor\": null, \"reason\": \"Does committing to fiscal rules and maintaining a buffer improve economic stability and borrowing costs?\"},{\"unit_ids\": [\"D58e04da503.P010.S001\", \"D58e04da503.P010.S002\", \"D58e04da503.P010.S003\"], \"anchor\": null, \"reason\": \"Does directing every government department toward growth and maximising public and private investment raise regional economic output?\"},{\"unit_ids\": [\"D58e04da503.P011.S001\", \"D58e04da503.P011.S002\", \"D58e04da503.P011.S003\", \"D58e04da503.P011.S004\", \"D58e04da503.P011.S005\", \"D58e04da503.P011.S006\", \"D58e04da503.P011.S007\", \"D58e04da503.P011.S008\"], \"anchor\": null, \"reason\": \"Does a buy-British-by-design procurement policy increase domestic employment and apprenticeships?\"},{\"unit_ids\": [\"D58e04da503.P013.S004\"], \"anchor\": null, \"reason\": \"Does cutting tax on electricity bills reduce household energy costs and improve affordability?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

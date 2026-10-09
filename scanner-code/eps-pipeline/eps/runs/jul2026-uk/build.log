@@ -1,0 +1,16 @@
+  ! quote_in_context not joined: context_log.csv not found for this run
+  ! the officeholder table gives 2 eligible speakers for 'Ministry of Housing, Communities and Local Government' on 2026-07-20 ('Steve Reed', 'Angela Rayner') — fix the overlapping spell dates in officeholders.csv
+intention  Not tagged: 1 of 172
+       1  cue_not_in_input
+speaker from manifest: 250 document(s)
+speaker from officeholder_table: 68 document(s)
+screened   319
+kept       172
+rejected   26
+      15  passage is not attributable to the speaker
+       7  JEL classification failed validation: no defensible economic object: classifier assigned no JEL code
+       2  unit_ids are not contiguous
+       2  unit_ids span a paragraph boundary
+intention  171 tagged, 1 not tagged, 1 unclear  (prompt I3, model claude-sonnet-4-6)
+
+-> runs\jul2026-uk\out\dataset.csv

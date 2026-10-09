@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"a7381fa1443e79d4\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this initiative\",\n        \"insertion\": \"to identify and develop long-distance biking trails on public lands\",\n        \"evidence\": \"The Department of the Interior are seeking public input related to identifying and developing long-distance biking trails\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

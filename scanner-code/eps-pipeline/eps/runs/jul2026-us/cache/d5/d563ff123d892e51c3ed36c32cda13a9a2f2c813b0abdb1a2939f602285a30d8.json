@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"The Trump Administration's FIELDS program is solely focused on producing fertilizer leading to lower costs for American farmers and consumers\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"producing fertilizer leading to lower costs for American farmers and consumers\",\n  \"rationale\": \"The quote describes the ongoing FIELDS program and its intended causal effect of lowering costs for farmers and consumers, as well as restoring a critical supply chain.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

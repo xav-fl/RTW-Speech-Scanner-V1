@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D869ec08e40.P010.S001\"], \"anchor\": null, \"reason\": \"Does removing VAT relief from new Motability leases save £1 billion without reducing disabled people's mobility access?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

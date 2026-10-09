@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"defence industry support to foreign armed forces\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"F51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

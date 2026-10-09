@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government spending program targeting youth employment\", \"codes\": [{\"code\": \"J68\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

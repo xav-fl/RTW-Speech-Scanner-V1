@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"0f8dd6022638c147\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"these fraudsters\",\n        \"insertion\": \"— 10 naturalized criminals including child molesters, scammers, and drug dealers —\",\n        \"evidence\": \"announced denaturalization actions in various U.S. district courts against 10 individuals accused of serious offenses—including sexual abuse of a child, health care and wire fraud, immigration fraud, and conspiracy to possess with the intent to distribute cocaine\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

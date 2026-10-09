@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D95dc046f86.P009.S001\"], \"anchor\": null, \"reason\": \"Does procuring the Tekever AR5 drone improve battlefield surveillance outcomes and troop protection cost-effectively?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"we've removed them from the list of State Sponsors of Terrorism\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"which we hope will lead to the sort of economic revival that the country desperately needs\",\n  \"rationale\": \"The speaker reports a completed action (removal from the State Sponsors of Terrorism list) and expresses a hoped-for causal effect (economic revival), making it a completed action with a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

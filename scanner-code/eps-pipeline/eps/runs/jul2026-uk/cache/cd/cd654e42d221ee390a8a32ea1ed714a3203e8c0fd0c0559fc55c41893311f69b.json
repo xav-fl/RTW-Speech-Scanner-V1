@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"actions we're taking to clamp down on water companies including the introduction of a more powerful water regulator, no-notice inspections, MOT-style checks of water company assets and banning bonuses for polluting bosses\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"give the Environment Agency the teeth it needs to deliver cleaner rivers, lakes and seas\",\n  \"rationale\": \"The speaker describes a suite of actions already under way ('we're taking') to crack down on water companies, with the causal effect of delivering cleaner waterways stated in the surrounding context.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

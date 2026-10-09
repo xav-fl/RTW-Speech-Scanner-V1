@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Today's action strikes Cartel de Jalisco Nueva Generacion's leadership, financiers, and criminal networks\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"denying the cartel the resources it uses to traffic fentanyl, terrorize communities, and threaten American lives\",\n  \"rationale\": \"The press release announces a decision taken today (sanctioning CJNG-linked individuals and entities) and links that action to the specific outcome of denying the cartel resources used for fentanyl trafficking and violence.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

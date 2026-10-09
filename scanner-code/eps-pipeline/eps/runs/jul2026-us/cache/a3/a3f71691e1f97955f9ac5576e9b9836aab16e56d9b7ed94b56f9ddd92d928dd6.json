@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"President Trump asked for three advanced reactors to be authorized and achieve criticality by the 250th anniversary of our great country\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote reports a completed directive from President Trump (asking for three reactors to achieve criticality by a specific date), which the context confirms has already been fulfilled and surpassed.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

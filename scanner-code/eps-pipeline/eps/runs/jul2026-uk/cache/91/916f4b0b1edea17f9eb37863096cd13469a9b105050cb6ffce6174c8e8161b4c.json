@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Da04cc25d2d.P011.S002\"], \"anchor\": null, \"reason\": \"Does centralised lottery funding allocation disadvantage small grassroots organisations relative to larger ones?\"},{\"unit_ids\": [\"Da04cc25d2d.P012.S001\", \"Da04cc25d2d.P012.S002\"], \"anchor\": null, \"reason\": \"Does public consultation on lottery funding allocation improve targeting of funds to communities most in need?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

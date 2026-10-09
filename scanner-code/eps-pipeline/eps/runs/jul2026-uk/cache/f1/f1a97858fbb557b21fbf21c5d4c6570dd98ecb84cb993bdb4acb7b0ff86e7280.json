@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"law enforcement tools against foreign state-sponsored hostile activity\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"F52\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

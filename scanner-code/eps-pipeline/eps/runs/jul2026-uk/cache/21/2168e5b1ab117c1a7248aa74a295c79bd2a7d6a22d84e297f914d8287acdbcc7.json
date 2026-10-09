@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"consult on new Best Value guidance\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote commits to publishing and consulting on new Best Value guidance, which is an open public consultation request (Q1 fires); the accompanying pledges to publish the Local Outcomes Framework results and establish the Local Audit Office are recorded as secondary commits_to_action / pledges_future_action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

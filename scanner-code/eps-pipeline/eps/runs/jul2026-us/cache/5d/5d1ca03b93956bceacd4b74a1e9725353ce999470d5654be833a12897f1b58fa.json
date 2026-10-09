@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal education funding devolved to state/local control\", \"codes\": [{\"code\": \"I28\", \"strength\": 3}, {\"code\": \"H77\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"international development partnerships and climate cooperation\", \"codes\": [{\"code\": \"F35\", \"strength\": 3}, {\"code\": \"Q54\", \"strength\": 2}, {\"code\": \"F53\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D8582ec0b7f.P012.S001\"], \"anchor\": null, \"reason\": \"Does targeted, locally delivered youth employment support improve young people's job outcomes and earnings?\"},{\"unit_ids\": [\"D8582ec0b7f.P013.S001\"], \"anchor\": null, \"reason\": \"Does placing employment resources directly in communities like Neath Port Talbot improve youth employment and green-sector labour supply?\"},{\"unit_ids\": [\"D8582ec0b7f.P014.S001\"], \"anchor\": \"our £2.5 billion youth employment support will deliver on that ambition\", \"reason\": \"What are the employment and earnings effects of a £2.5 billion youth employment support programme?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

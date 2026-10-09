@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will create thousands of jobs and build a world-class airport filled with stunning architecture, efficient security screenings, hundreds of new flights, and improved mobility\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges future action — creating jobs and building a transformed airport — through a partnership with United Airlines and MWAA, using 'we will' without announcing a decision taken in this document.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

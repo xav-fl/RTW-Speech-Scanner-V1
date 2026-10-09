@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bilateral funding for border patrol personnel and intelligence operations\", \"codes\": [{\"code\": \"F22\", \"strength\": 2}, {\"code\": \"H56\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

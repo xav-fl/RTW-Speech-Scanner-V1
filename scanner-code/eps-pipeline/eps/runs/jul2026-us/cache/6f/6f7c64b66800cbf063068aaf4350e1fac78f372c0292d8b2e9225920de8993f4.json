@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"private_actors\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"completed_action\",\n  \"cue\": \"we're challenging hospitals across the country to lead by example by serving nutritious, minimally processed meals\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"help patients heal, reduce chronic disease, and help Make America Healthy Again\",\n  \"rationale\": \"The speaker directly challenges hospitals (private actors) to serve healthier meals, while also referencing a completed presidential directive as secondary context.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

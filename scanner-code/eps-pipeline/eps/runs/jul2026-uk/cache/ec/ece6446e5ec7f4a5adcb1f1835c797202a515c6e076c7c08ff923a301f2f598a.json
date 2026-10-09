@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"considers_open_option\",\n  \"sub\": \"preferred_option\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"by extending government-funded childcare into these communities, not only would we be supporting parents into work\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"by extending government-funded childcare into these communities, not only would we be supporting parents into work, not only would we be supporting disadvantaged children with quality early years, but we would no longer be cutting off those families from society\",\n  \"rationale\": \"The speaker uses conditional 'would' language to describe extending government-funded childcare as a preferred but not yet decided option, while also claiming specific causal effects (supporting parents into work, supporting disadvantaged children, reducing social exclusion) that would flow from that extension.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

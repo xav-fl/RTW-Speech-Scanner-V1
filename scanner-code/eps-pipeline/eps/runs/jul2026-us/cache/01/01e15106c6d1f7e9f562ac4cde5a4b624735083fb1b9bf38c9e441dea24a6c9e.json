@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"0bbe761e83c5d4ab\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On Treasury's sanctioning of over 50 CJNG-linked individuals and entities:\",\n        \"evidence\": \"the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned over 50 Mexican individuals and entities linked to the terrorist group Cartel de Jalisco Nueva Generacion (CJNG)\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

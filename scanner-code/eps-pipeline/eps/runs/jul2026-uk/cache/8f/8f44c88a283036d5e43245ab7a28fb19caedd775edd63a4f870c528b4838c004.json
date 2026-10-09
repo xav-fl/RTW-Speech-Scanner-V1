@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"putting resources directly into communities like Neath Port Talbot, we're giving hope to young people while ensuring businesses have the skilled staff they need\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"putting resources directly into communities like Neath Port Talbot, we're giving hope to young people while ensuring businesses have the skilled staff they need\",\n  \"rationale\": \"The present continuous 'we're giving' describes an ongoing investment already under way (the Neath Port Talbot Youth Hub investment announced in the press release), and the quote links that action to specific outcomes for young people and businesses, establishing a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

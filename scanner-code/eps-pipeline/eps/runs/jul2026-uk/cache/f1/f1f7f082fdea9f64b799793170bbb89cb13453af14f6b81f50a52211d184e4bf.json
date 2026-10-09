@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"tax cut on electricity bills to ease household energy costs\", \"codes\": [{\"code\": \"H23\", \"strength\": 3}, {\"code\": \"Q48\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

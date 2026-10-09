@@ -1,0 +1,9 @@
+rows in 172  out 172  resolved 55
+   104  not_needed_triage
+    55  resolved
+     5  not_needed_resolve
+     4  unresolved
+     2  failed_insertion_format
+     1  failed_evidence_not_found
+     1  failed_resolve_missing_id
+model claude-sonnet-4-6  cost $0.59

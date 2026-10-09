@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"national security council staffing and organizational size\", \"codes\": [{\"code\": \"H56\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

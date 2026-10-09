@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"sanctions designations to cut off illicit revenue flows to Cuban regime\", \"codes\": [{\"code\": \"F51\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"performance bonus criteria for senior civil servants\", \"codes\": [{\"code\": \"J33\", \"strength\": 3}, {\"code\": \"J45\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

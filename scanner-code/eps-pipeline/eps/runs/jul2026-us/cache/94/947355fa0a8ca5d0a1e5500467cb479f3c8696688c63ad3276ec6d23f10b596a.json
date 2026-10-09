@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"we must ensure the resilience and security of America's electric power grid to continue this growth. This includes modernizing this critical infrastructure and working with our electric cooperatives to serve even the most rural communities\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"President Trump's energy dominance agenda is powering the Golden Age of America\",\n  \"rationale\": \"The quote expresses a value judgment about what must be done to ensure grid resilience and serve rural communities, framing the announced investment as part of a broader imperative rather than announcing or pledging a specific action itself.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

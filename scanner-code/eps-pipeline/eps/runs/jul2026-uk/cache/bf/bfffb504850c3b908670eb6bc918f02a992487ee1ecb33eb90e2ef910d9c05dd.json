@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"We're shaking up local government\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so that people get the services they deserve - cleaner streets, better care, and money spent on what matters most to local people\",\n  \"rationale\": \"The present continuous 'We're shaking up local government' describes an ongoing reform already under way (the press release announces 14 more areas joining an existing programme), and the 'so that' clause links it to specific outcomes for people.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

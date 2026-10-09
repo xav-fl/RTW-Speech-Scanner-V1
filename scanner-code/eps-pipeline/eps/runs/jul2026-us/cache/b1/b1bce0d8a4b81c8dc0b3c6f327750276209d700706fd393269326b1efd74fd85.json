@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7e30048abe.P005.S001\"], \"anchor\": null, \"reason\": \"Do financial sanctions targeting cartel leadership and networks reduce drug trafficking flows into the US?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

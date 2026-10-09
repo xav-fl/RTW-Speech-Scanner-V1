@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"local government service standards for public spaces and neighbourhood quality\", \"codes\": [{\"code\": \"H72\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

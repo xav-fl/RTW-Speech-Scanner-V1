@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we're investing a record £39 billion through our Social and Affordable Homes Programme\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"a target of at least 60% of homes to be for social rent\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to fund the biggest increase in social and council housing in a generation\",\n  \"rationale\": \"The present continuous 'we're investing' describes an already-under-way programme, making this ongoing implementation of an existing policy, with a quantified target (60% social rent) and a causal claim linking the investment to the biggest increase in social and council housing in a generation.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

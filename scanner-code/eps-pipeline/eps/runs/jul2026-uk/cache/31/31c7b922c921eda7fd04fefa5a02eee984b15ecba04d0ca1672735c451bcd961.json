@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"describes_problem\",\n  \"cue\": \"I've been working to establish the Multilateral Defence Mechanism\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will enhance collaboration, to improve procurement and strengthen our collective deterrence\",\n  \"rationale\": \"The speaker describes an ongoing action ('I've been working to establish') and attributes specific outcomes to it (enhanced collaboration, improved procurement, stronger deterrence), making this ongoing_implementation with a causal effect claim; the opening sentence about fragmentation is a secondary describes_problem.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

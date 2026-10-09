@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D6425a767e7.P010.S001\", \"D6425a767e7.P010.S002\", \"D6425a767e7.P010.S003\"], \"anchor\": null, \"reason\": \"Does scheduling synthetic opioid kratom derivatives reduce addiction rates or protect public health outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

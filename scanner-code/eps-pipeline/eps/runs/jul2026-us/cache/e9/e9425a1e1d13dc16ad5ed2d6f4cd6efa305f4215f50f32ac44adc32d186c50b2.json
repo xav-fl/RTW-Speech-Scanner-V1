@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal disaster relief and urban search and rescue deployment\", \"codes\": [{\"code\": \"H84\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

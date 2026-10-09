@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"I can announce today that our ambition is to get a demonstrator CCA flying in the air next year and have StormFighter operational by the end of the decade\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"get a demonstrator CCA flying in the air next year and have StormFighter operational by the end of the decade\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This project will support 2,000 jobs when the full production line is up and running\",\n  \"rationale\": \"The speaker announces today a decision to pursue the CCA demonstrator and StormFighter programme with specific deadlines, and links the project to a quantified employment outcome of 2,000 jobs.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we lifted the blockade; we lifted the sanctions. Some of the sanctions we issued waivers for the oil\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports completed actions taken by the US government (lifting the blockade, lifting sanctions, issuing oil waivers) as part of a past sequence of events.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we have provided a 10-year settlement which allows landlords to raise rents annually by CPI+1%\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports two already-established policies — a 10-year rent settlement and a rent convergence policy — using the present perfect ('we have provided') and the present tense ('will allow' describing the settled policy's effect), indicating completed decisions rather than new announcements or future pledges.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

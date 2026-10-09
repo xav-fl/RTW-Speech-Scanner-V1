@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"deregulation reducing compliance costs/savings to economy\", \"codes\": [{\"code\": \"L51\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

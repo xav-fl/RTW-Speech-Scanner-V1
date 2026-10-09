@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D94dc4a057f.P003.S001\"], \"anchor\": null, \"reason\": \"Do guaranteed loans to sawmills and wood processors expand rural employment and domestic timber output?\"},{\"unit_ids\": [\"D94dc4a057f.P005.S001\", \"D94dc4a057f.P005.S002\"], \"anchor\": null, \"reason\": \"Does USDA investment in forest-sector businesses reduce wildfire risk and strengthen rural economies?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

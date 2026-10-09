@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"regulation of vaping products to balance adult cessation benefits against youth marketing harms\", \"codes\": [{\"code\": \"I18\", \"strength\": 3}, {\"code\": \"I12\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2359531fac.P011.S002\"], \"anchor\": null, \"reason\": \"Does UK-funded domestic artillery barrel production create skilled jobs and support Ukraine's defence capability?\"},{\"unit_ids\": [\"D2359531fac.P012.S001\"], \"anchor\": null, \"reason\": \"What are the employment and security effects of the £298 billion UK Defence Investment Plan?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

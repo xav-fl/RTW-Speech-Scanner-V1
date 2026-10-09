@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"we must ensure the resilience and security of America's electric power grid to continue this growth\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote expresses a normative judgment about what must be done ('we must ensure') and frames the value of modernizing infrastructure and serving rural communities, without itself announcing or pledging a specific action; the actual investment is announced in the surrounding context, not in the quote itself.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

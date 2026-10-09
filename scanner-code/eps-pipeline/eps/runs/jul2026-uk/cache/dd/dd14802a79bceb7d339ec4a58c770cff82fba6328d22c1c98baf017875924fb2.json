@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4cb9c8756a.P057.S001\", \"D4cb9c8756a.P058.S001\"], \"anchor\": null, \"reason\": \"Does reviewing security lessons from an MP's murder lead to improved constituency security arrangements for parliamentarians?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

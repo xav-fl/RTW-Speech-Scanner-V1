@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"public_consultation\",\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"seeking industry feedback to reach this goal most effectively\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote announces that GSA is actively seeking industry feedback (via the RFI described in context), making it an open evidence request from private actors, classifiable as a public consultation.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

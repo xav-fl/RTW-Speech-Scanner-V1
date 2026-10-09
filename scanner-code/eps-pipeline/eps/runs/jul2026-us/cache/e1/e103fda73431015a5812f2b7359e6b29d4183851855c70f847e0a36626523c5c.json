@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"announces_decision\",\n  \"cue\": \"we are delivering real protection under the Farmer and Rancher Freedom Framework\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"creates clear pathways for redress, ensures fairness in enforcement\",\n  \"rationale\": \"The present continuous 'we are delivering' describes ongoing implementation of the partnership and portal already announced, with a causal link drawn between the partnership and specific outcomes (pathways for redress, fairness in enforcement).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

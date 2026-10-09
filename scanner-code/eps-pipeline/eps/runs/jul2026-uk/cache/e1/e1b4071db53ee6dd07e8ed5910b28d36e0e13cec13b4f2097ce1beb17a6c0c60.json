@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"1a77856ebe0ee67f\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is already understandable on its own; 'this already beloved Scottish product' clearly refers to Scotch whisky, which is named in the preceding sentence of the quotation ('Scotland's whisky industry') and is the subject of the entire document.\"\n  },\n  {\n    \"quote_id\": \"2abe9ebe2a958a15\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On US tariffs being lifted from Scotch whisky,\",\n        \"evidence\": \"From today [24 July], whisky from the UK will now have zero tariffs following the agreement that was reached during His Majesty The King's visit in April.\"\n      }\n    ],\n    \"note\": \"The opening 'This is the second action this month' refers to the US tariff removal on Scotch whisky, which is only named in the document title and surrounding context, not within the quotation itself.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

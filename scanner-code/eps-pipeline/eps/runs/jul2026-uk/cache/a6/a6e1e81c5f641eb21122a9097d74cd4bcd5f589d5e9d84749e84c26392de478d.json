@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"domestic defence manufacturing creating skilled employment\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"J24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

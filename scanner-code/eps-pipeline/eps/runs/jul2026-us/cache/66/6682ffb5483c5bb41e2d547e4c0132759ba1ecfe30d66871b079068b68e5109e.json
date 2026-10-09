@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the Department of Justice has offered TAP, an innovative program that enables Tribes to access and share critical crime data in real time with our national databases\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"With this information Tribal partners can solve crimes, locate fugitives, and use a variety of other tools to keep their communities safe\",\n  \"rationale\": \"The speaker describes an ongoing program that has existed for over a decade, linking it to specific outcomes (solving crimes, locating fugitives, community safety), making this ongoing implementation with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

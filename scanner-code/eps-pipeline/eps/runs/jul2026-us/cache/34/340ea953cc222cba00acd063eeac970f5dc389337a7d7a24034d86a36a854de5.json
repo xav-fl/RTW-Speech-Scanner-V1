@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bilateral partnership commitments across strategic sectors\", \"codes\": [{\"code\": \"F52\", \"strength\": 2}, {\"code\": \"F13\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

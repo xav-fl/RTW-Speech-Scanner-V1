@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"c7b44b072f5110ee\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This act\",\n        \"insertion\": \", the National Security (State Threats) Bill,\",\n        \"evidence\": \"the landmark National Security (State Threats) Bill delivers on the government's commitment to bring in new proscription-like powers to protect against state threats\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

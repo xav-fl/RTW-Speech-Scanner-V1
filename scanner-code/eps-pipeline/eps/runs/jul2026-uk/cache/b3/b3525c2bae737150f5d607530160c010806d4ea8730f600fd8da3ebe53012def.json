@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"D654d225d5d.P010.S001\", \"D654d225d5d.P011.S001\"], \"anchor\": null, \"reason\": \"Do planning reforms that accelerate infrastructure approvals increase economic growth and employment?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

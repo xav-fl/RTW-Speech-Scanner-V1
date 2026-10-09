@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7fe964a731.P007.S001\", \"D7fe964a731.P007.S002\"], \"anchor\": null, \"reason\": \"Does using a public-private partnership for transit hub renovation deliver better value and outcomes than direct public spending?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

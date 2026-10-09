@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5c9f0f5751.P002.S001\"], \"anchor\": null, \"reason\": \"Do Nuclear Lifecycle Innovation Campuses generate economic growth, jobs, and investment in host states?\"},{\"unit_ids\": [\"D5c9f0f5751.P004.S001\"], \"anchor\": null, \"reason\": \"What are the economic effects of Nuclear Lifecycle Innovation Campuses on jobs and regional growth?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

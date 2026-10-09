@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df8a87f895b.P004.S001\"], \"anchor\": \"Treasury will continue using every tool at its disposal to isolate him and other regime elites from the global financial system.\", \"reason\": \"Do financial sanctions targeting regime elites effectively isolate them from the global financial system?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

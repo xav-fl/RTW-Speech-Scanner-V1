@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [\n  {\n    \"unit_ids\": [\"Dfb73449bad.P012.S001\"],\n    \"anchor\": null,\n    \"reason\": \"Do default protections from addictive social media features for 16-17 year olds improve wellbeing outcomes?\"\n  },\n  {\n    \"unit_ids\": [\"Dfb73449bad.P013.S001\"],\n    \"anchor\": null,\n    \"reason\": \"Do social media curfews and feature restrictions improve sleep, school focus, and social outcomes for teenagers?\"\n  }\n]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

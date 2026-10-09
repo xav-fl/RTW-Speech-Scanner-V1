@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we are actively working with law enforcement and Treasury to deliver accountability and recoup stolen funds\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote describes an ongoing action — active coordination with law enforcement and Treasury — framed around already-achieved suspensions (150,000 borrowers, $10 billion), making it ongoing_implementation of an existing effort.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

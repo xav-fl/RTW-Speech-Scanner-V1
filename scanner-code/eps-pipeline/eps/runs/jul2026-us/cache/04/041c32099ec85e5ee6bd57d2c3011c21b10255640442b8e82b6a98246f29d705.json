@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"caec699c285a8639\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this goal\",\n        \"insertion\": \"of procuring American-made products through GSA Advantage!\",\n        \"evidence\": \"gather industry insights on how to reinforce American producers that provide goods and materials to federal agencies through the GSA Advantage! marketplace\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

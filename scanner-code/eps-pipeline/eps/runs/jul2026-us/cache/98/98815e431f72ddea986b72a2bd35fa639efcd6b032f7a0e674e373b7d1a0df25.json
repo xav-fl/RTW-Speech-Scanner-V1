@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"a0a6b22fe53ec1af\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"yesterday's materials\",\n        \"insertion\": \", meaning dental amalgam,\",\n        \"evidence\": \"It's time to turn the page on dental amalgam and help every state move toward safer, mercury-free care.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

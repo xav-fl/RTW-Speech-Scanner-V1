@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db621bd270b.P006.S001\", \"Db621bd270b.P006.S002\", \"Db621bd270b.P006.S003\"], \"anchor\": null, \"reason\": \"Does reducing rail noise regulatory red tape attract private investment in US high-speed rail development?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

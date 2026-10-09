@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Almost 300 of our poorest communities are receiving up to £20m each to transform life and life chances for the people living there.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to transform life and life chances for the people living there\",\n  \"rationale\": \"The present continuous 'are receiving' describes an ongoing programme already under way, and the purpose clause 'to transform life and life chances' names a specific outcome for identifiable beneficiaries, satisfying the causal-effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

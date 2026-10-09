@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public funding for agricultural technology and productivity\", \"codes\": [{\"code\": \"Q16\", \"strength\": 3}, {\"code\": \"Q18\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

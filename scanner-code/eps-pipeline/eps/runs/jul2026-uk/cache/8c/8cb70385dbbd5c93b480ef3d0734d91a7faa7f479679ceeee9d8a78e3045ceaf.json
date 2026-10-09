@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"universal early childhood education provision\", \"codes\": [{\"code\": \"I28\", \"strength\": 3}, {\"code\": \"I21\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

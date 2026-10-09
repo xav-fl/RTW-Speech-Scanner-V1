@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"tenant right to take over management from failing social landlord\", \"codes\": [{\"code\": \"R38\", \"strength\": 3}, {\"code\": \"R31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

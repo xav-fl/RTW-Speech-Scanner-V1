@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"VAT relief removal on disability mobility scheme leases\", \"codes\": [{\"code\": \"H25\", \"strength\": 3}, {\"code\": \"J14\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

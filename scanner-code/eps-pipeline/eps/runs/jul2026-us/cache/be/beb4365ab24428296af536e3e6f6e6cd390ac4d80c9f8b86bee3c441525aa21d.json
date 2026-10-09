@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"952fd9160d215b9e\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"The Trump Administration's swift response efforts\",\n        \"insertion\": \"to the recent devastating earthquakes in Venezuela\",\n        \"evidence\": \"We hold in our hearts and are united in prayer for the Venezuelans affected by the recent devastating earthquakes.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

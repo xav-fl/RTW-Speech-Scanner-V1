@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I have increased investment in city region transport, supported Development Corporations in our two growth corridors, and allocated money to new place-based funds\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to boost defence, innovation and creative clusters in our regions and our nations\",\n  \"rationale\": \"The speaker reports completed actions (increasing investment, supporting Development Corporations, allocating money) using the present perfect, with a purpose clause naming specific outcomes (boosting defence, innovation and creative clusters) that identifies who or what changes and how.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

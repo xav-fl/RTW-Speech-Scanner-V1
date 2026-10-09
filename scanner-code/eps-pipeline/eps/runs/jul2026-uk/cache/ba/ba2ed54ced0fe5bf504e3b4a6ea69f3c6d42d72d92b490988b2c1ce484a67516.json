@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"This act gives the police and intelligence agencies the tools they need to pursue foreign powers and their proxies\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"gives the police and intelligence agencies the tools they need to pursue foreign powers and their proxies, and better protect our communities, institutions, and democratic values\",\n  \"rationale\": \"The speaker refers to 'this act' as an already-enacted piece of legislation, reporting a completed action, while also claiming it will produce specific protective effects for communities, institutions and democratic values.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

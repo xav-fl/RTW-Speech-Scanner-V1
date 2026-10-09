@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"civil servant training and AI skills investment for public sector productivity\", \"codes\": [{\"code\": \"J45\", \"strength\": 3}, {\"code\": \"J24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De86e93d0b9.P004.S001\"], \"anchor\": null, \"reason\": \"Does farm-to-school grant funding improve child nutrition outcomes and local agricultural market access?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

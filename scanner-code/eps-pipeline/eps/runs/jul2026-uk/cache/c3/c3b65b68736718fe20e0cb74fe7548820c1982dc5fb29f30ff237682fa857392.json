@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the Bill tightens the definition of \\\"family life\\\"\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a legislative decision being made in this document — the Bill tightens the definition of 'family life' for immigration purposes — describing a specific policy change being enacted.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

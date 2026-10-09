@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"community-based family support hubs providing integrated early childhood services\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"I28\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

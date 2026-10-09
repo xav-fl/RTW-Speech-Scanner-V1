@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"energy subsidy expansion to low-income families with children\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"Q48\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

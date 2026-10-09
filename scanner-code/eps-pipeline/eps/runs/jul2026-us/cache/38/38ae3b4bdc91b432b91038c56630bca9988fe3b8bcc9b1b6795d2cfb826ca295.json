@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal investment in timber industry and forest products sector to reduce wildfire risk and support rural jobs\", \"codes\": [{\"code\": \"Q23\", \"strength\": 3}, {\"code\": \"R11\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

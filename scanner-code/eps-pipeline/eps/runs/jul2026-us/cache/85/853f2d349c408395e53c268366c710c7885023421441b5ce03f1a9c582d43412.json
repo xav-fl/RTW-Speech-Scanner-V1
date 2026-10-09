@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"The National Dislocated Worker Grant to support Floridians in the wake of the Spirit Airlines closure empowers dislocated workers with rapid, employer-driven reskilling pathways to quickly secure new, high-wage jobs\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"empowers dislocated workers with rapid, employer-driven reskilling pathways to quickly secure new, high-wage jobs\",\n  \"rationale\": \"The press release announces the award of a National Dislocated Worker Grant (a decision made in this document), and the quote links that grant to the specific outcome of dislocated workers securing new, high-wage jobs.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D019764b570.P008.S001\", \"D019764b570.P010.S001\", \"D019764b570.P010.S002\"], \"anchor\": null, \"reason\": \"Does rescinding the ESA 'harm' definition reduce compliance costs and regulatory burdens for landowners and businesses?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

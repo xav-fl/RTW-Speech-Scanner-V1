@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"describes_problem\",\n  \"cue\": \"approving more than $3.4 billion in SBA assistance, extending that relief multiple times, demanding permitting relief, and advocating for L.A. residents\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote reports completed actions by the Trump Administration (approving $3.4 billion, extending relief, demanding permitting relief, advocating) while also describing an ongoing problem where survivors are still prevented from rebuilding due to state and local failures.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

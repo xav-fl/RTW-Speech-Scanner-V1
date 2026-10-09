@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"the SBA strongly supports the Department of War's decisive action to preserve strong cybersecurity while cutting red tape, bringing American innovators into our defense supply chain, and advancing the DoW's efforts to rapidly expand modern capabilities essential to warfighter readiness\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"cutting red tape, bringing American innovators into our defense supply chain\",\n  \"rationale\": \"The quote reports and endorses a completed action (the Department of War's suspension of CMMC Phase II), attributing specific effects to it such as cutting red tape and bringing innovators into the defense supply chain.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

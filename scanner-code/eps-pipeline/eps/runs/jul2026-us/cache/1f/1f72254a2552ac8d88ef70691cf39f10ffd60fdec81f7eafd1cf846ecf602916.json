@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D59aec8ea11.P001.S001\"], \"anchor\": null, \"reason\": \"Does removing State Sponsor of Terrorism designation affect trade, investment, and economic recovery in Syria?\"},{\"unit_ids\": [\"D59aec8ea11.P002.S001\"], \"anchor\": null, \"reason\": \"What are the effects of lifting sanctions on Syria's international trade, investment, and reconstruction?\"},{\"unit_ids\": [\"D59aec8ea11.P003.S001\"], \"anchor\": null, \"reason\": \"How do conditional sanctions relief tied to counterterrorism assurances affect recipient country behaviour and economic outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

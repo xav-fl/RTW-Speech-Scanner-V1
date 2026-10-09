@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We're modernising a system that hasn't been updated for sixty years\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"putting pet owners first while giving vets the modern framework they need to support the future of the profession\",\n  \"rationale\": \"The present continuous 'We're modernising' describes reforms already under way (announced in this press release), and the passage links the modernisation to specific outcomes for pet owners and vets.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

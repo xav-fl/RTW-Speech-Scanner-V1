@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dddb4d8d9e7.P005.S001\", \"Dddb4d8d9e7.P005.S002\"], \"anchor\": null, \"reason\": \"Does voluntary country-of-origin labelling (Product of USA) increase consumer trust, market opportunities, and returns for U.S. producers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

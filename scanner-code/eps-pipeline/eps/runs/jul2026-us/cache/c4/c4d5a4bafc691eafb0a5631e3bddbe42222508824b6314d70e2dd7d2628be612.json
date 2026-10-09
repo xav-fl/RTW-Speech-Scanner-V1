@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"we announced Rewards for Justice offering up to $10 million for information disrupting the financing behind these groups. In May, we convened the first Counter Terrorism Law Enforcement Workshop\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote primarily reports completed past actions (announcing Rewards for Justice, convening the first workshop), with a secondary pledge of a future workshop to be co-hosted with Germany.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

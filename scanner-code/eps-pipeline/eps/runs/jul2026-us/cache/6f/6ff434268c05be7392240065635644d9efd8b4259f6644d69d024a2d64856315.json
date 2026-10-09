@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"tax incentive for investment in designated low-income areas\", \"codes\": [{\"code\": \"H25\", \"strength\": 3}, {\"code\": \"R58\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

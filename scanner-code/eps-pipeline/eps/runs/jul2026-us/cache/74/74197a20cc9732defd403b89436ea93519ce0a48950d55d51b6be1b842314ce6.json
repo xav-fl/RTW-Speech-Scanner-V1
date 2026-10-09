@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De7d0e9c49a.P004.S002\"], \"anchor\": null, \"reason\": \"Does suspending CMMC Phase II requirements reduce compliance costs and increase small-business participation in defence contracting?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

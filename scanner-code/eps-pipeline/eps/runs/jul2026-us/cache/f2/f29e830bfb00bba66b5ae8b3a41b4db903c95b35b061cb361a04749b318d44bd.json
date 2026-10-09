@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"f34a4b6109cef09b\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this egregious behavior\",\n        \"insertion\": \"— hiding sensitive information about children from their parents —\",\n        \"evidence\": \"took significant action against Anne Arundel County Public Schools in Maryland and Ann Arbor Public Schools in Michigan for hiding sensitive information about children's health and wellbeing from their own parents\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

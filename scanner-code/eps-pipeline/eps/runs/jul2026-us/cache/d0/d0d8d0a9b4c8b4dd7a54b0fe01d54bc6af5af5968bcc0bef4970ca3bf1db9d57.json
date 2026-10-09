@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5907aecb93.P034.S001\", \"D5907aecb93.P034.S002\", \"D5907aecb93.P034.S003\"], \"anchor\": null, \"reason\": \"Do FTO designations and national security directives targeting far-left groups reduce political violence?\"},{\"unit_ids\": [\"D5907aecb93.P035.S001\", \"D5907aecb93.P035.S002\", \"D5907aecb93.P035.S003\"], \"anchor\": null, \"reason\": \"Do financial rewards for information and cross-border law enforcement workshops effectively disrupt transnational extremist networks?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D78939832f8.P008.S001\", \"D78939832f8.P008.S002\"], \"anchor\": null, \"reason\": \"Do faster, automatic financial penalties for water companies reduce pollution incidents and improve environmental compliance?\"},{\"unit_ids\": [\"D78939832f8.P009.S001\"], \"anchor\": null, \"reason\": \"Do combined regulatory interventions—new regulator, no-notice inspections, asset checks, bonus bans—improve water company environmental performance?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

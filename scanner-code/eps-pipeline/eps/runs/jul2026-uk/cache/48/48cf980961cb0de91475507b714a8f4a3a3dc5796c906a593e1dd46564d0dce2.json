@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"173d3d7f3cda056a\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"Our consultation\",\n        \"insertion\": \"on social media protections for 16- and 17-year-olds\",\n        \"evidence\": \"Default overnight curfews from midnight to 6am will be switched on for 16 and 17-year-olds on social media apps, as the government takes further action to back parents and protect the next generation online.\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"4ae672e16f31430d\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"On default overnight curfews and restrictions on addictive features for 16- and 17-year-olds,\",\n        \"evidence\": \"Default overnight curfews from midnight to 6am will be switched on for 16 and 17-year-olds on social media apps\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

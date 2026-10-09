@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"Part 4 of this Bill creates a new contributory principle within our asylum regime\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a decision already embodied in the Bill being introduced — a new contributory principle requiring repayment of taxpayer-funded support — making this an announces_decision; the fairness framing is a secondary value judgement.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

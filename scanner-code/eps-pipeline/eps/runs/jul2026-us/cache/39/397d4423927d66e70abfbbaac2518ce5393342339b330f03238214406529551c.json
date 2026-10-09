@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"we're delivering $2.5 billion in U.S. Government strategic investments in Southeast Asia\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"we're investing because the development of ASEAN is also in the interest of the United States\",\n  \"rationale\": \"The speaker describes an ongoing delivery of $2.5 billion in investments (present continuous, not a new announcement in this document), and links that investment to a causal rationale — that ASEAN development serves U.S. national interest.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

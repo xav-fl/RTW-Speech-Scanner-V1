@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"broad reduction in tax rates\", \"codes\": [{\"code\": \"H20\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

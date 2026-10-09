@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Effective immediately, VIHFA is suspended from receiving another cent as we investigate.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The phrase 'Effective immediately' signals a decision announced in this document, suspending VIHFA from receiving further funding as of now.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

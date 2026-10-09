@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal program linking forestry and rural development agencies\", \"codes\": [{\"code\": \"Q23\", \"strength\": 3}, {\"code\": \"R11\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

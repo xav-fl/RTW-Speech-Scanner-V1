@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"3a706c0b93507861\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"an abundant supply of unused backup generation\",\n        \"insertion\": \"— more than 35 gigawatts available nationwide —\",\n        \"evidence\": \"DOE estimates more than 35 gigawatts (GW) of unused backup generation remains available nationwide.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

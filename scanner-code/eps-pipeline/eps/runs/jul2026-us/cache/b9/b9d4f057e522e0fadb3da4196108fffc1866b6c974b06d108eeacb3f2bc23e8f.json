@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"considers_open_option\",\n  \"secondary_sub\": \"no_stated_preference\",\n  \"cue\": \"we're going to start a process with them and see if that's possible and when that can be done\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges a future process to explore restarting direct flights and attracting investment, committing to initiate action while leaving the outcome undecided.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

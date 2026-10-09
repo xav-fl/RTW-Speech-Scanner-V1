@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"interagency reporting channel for regulatory reform targeting agricultural producers\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"L51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

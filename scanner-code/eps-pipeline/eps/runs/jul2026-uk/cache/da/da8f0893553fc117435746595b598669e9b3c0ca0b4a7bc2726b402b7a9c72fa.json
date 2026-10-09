@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government procurement commitment to stimulate quantum technology development\", \"codes\": [{\"code\": \"O31\", \"strength\": 3}, {\"code\": \"H57\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

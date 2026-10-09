@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bilateral economic development engagement including disputed territory\", \"codes\": [{\"code\": \"F63\", \"strength\": 3}, {\"code\": \"O55\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"28e8fa8c17387676\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"the permitting process\",\n        \"insertion\": \"— the minor source New Source Review permitting process —\",\n        \"evidence\": \"EPA proposed a rule to streamline the New Source Review (NSR) permitting process for minor sources\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

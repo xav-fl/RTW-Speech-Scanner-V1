@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"b948ee793a16c0e8\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on reforming weddings law in England and Wales\",\n        \"evidence\": \"The Government has today (Thursday 16 July) launched a major consultation on proposals to make getting married simpler, more affordable and more meaningful.\"\n      }\n    ],\n    \"note\": \"The opening 'That's why' refers to the preceding context about wedding costs being out of reach for many couples, which is not present in the quotation itself.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

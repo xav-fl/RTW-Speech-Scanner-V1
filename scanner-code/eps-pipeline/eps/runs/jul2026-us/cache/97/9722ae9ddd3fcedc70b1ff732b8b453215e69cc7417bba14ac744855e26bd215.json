@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"describes_problem\",\n  \"cue\": \"the Trump SBA is not only addressing these administrative failures by providing the funding but modernizing programs that had been treated as box-checking exercises\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports the Trump SBA as currently addressing past failures and modernizing programs (ongoing implementation), while also describing the Biden Administration's prior failures as a problem context.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"asylum claim assessment and appeal eligibility rules\", \"codes\": [{\"code\": \"K37\", \"strength\": 3}, {\"code\": \"F22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

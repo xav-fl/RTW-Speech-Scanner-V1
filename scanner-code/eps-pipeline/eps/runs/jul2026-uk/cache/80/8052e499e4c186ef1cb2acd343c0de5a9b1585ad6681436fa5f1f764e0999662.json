@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Fair Funding has reconnected a bigger funding pot with deprivation and need\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Fair Funding has reconnected a bigger funding pot with deprivation and need\",\n  \"rationale\": \"The speaker reports that the Fair Funding reform has already produced an outcome — reconnecting a larger funding pot with deprivation and need — which is a claimed result of a completed policy action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

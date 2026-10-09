@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"0499773d025c67ce\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this programme\",\n        \"insertion\": \", the government's solar panels programme,\",\n        \"evidence\": \"Schools and colleges across England are set to save an estimated £220 million on energy bills over the lifetime of the solar panels through the government's solar panels programme\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

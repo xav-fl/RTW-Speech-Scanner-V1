@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"The Working Families Tax Cuts delivered the largest share of tax relief directly to millions of low- and middle- income Americans.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"delivered the largest share of tax relief directly to millions of low- and middle- income Americans\",\n  \"rationale\": \"The speaker reports a completed action (the Working Families Tax Cuts) and its claimed outcome — delivering the largest share of tax relief to low- and middle-income Americans — establishing a causal link between the policy and its effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

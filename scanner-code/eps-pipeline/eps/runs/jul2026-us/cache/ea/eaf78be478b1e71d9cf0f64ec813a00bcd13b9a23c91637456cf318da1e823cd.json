@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De910cf3e7e.P002.S001\"], \"anchor\": null, \"reason\": \"Does requiring supervisor accountability training improve federal employee performance outcomes?\"},{\"unit_ids\": [\"De910cf3e7e.P002.S002\"], \"anchor\": null, \"reason\": \"Do streamlined PIP procedures and revised adverse-action standards improve federal workforce performance management efficiency?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

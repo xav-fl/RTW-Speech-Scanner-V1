@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"considers_open_option\",\n  \"sub\": \"preferred_option\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"we are also looking at some technological changes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"it's going to be a lot easier to get a passport in terms of the dynamics of it\",\n  \"rationale\": \"The speaker describes technological changes still under consideration ('looking at') with a stated preference for online passport applications, while also pledging a future announcement; the causal link between the changes and easier passport access is explicit.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

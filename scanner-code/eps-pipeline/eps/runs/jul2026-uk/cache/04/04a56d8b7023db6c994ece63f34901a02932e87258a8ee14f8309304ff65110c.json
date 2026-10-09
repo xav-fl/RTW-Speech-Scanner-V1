@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"we have committed to rolling out AI training for all civil servants\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so they understand how they can use advanced AI tools in their day-to-day work to improve productivity\",\n  \"rationale\": \"The dominant action is the ongoing rollout of AI training for all civil servants (present continuous 'rolling out'), with a causal link drawn to improved productivity; the National School of Government announcement in January is a completed action recorded as secondary.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"97a2691a4e081e75\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"The rescission\",\n        \"insertion\": \"of Syria's designation as a State Sponsor of Terrorism\",\n        \"evidence\": \"intent to rescind Syria's designation as a State Sponsor of Terrorism (SST)\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

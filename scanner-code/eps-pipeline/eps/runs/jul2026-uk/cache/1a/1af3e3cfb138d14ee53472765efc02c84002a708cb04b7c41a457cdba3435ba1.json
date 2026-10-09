@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I am turning Britain's savers into investors through changes to ISAs and to financial advice\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"turning Britain's savers into investors through changes to ISAs and to financial advice\",\n  \"rationale\": \"The present continuous 'I am turning' describes an ongoing implementation already under way, and the 'through changes to ISAs and to financial advice' clause links those policy changes to the specific outcome of converting savers into investors.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

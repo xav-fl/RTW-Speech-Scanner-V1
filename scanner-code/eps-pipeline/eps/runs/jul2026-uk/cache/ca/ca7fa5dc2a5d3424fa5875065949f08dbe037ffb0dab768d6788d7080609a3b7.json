@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"has already unblocked over 55,000 homes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"solutions driven by pragmatic thinking and long-term strategy\",\n  \"rationale\": \"The quote reports a completed outcome — over 55,000 homes already unblocked — attributing it to the Water Delivery Taskforce's pragmatic thinking and long-term strategy, making it a reported outcome with a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

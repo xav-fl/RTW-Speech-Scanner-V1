@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"I will introduce a new Neighbourhood Guarantee outlining the basic standards everyone in every community can expect\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges a future action ('I will introduce a new Neighbourhood Guarantee') with no indication the decision is announced in this document beyond the speech itself, and the remainder of the quote elaborates the values and standards underpinning it without specifying a measurable outcome or causal link.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

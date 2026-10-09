@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will create a single appeal route\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This will require claimants to raise all relevant matters up front\",\n  \"rationale\": \"The speaker pledges future action by committing to create a single appeal route and an expedited process for late claims, and links this to the specific effect of requiring claimants to raise all relevant matters up front.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

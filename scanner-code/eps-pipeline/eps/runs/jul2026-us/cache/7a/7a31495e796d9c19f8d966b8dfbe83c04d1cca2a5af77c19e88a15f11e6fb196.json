@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D433e494ce7.P002.S001\"], \"anchor\": null, \"reason\": \"Does deploying unused backup generation during grid emergencies reduce blackout risk and maintain affordable power?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

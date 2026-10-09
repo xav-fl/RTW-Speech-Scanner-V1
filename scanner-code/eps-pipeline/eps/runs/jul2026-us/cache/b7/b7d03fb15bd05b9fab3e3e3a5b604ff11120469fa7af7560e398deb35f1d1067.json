@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"President Trump has directed his administration to encourage economic and social development with Morocco\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote reports a completed directive by President Trump to his administration, making it a completed action; the encouragement of development is the ongoing aim that follows from that direction.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

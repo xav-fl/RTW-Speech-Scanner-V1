@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4f91e8114b.P010.S001\"], \"anchor\": null, \"reason\": \"Does defence investment in advanced combat air technology create jobs and support communities across the UK?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

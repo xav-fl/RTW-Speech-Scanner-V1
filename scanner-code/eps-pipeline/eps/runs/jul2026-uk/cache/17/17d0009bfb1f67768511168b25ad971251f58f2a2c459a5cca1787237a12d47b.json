@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"agri-environment payment scheme access and investment incentives\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"Q57\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

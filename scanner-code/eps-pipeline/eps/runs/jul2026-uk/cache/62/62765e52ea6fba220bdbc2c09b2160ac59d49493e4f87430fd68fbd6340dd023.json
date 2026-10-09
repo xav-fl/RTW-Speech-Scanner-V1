@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we can deliver more clean energy and more jobs, while continuing to protect the environment\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"With the Marine Management Organisation as its Lead Environmental Regulator, we can deliver more clean energy and more jobs\",\n  \"rationale\": \"The press release announces the Marine Management Organisation's appointment as Lead Environmental Regulator for the Port of Tyne Clean Energy Park, and the speaker asserts this arrangement will causally deliver clean energy, jobs and environmental protection.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

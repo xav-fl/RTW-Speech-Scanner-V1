@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"A £61m Community Right to Buy Fund will let communities take control of much-loved local pubs, venues, and community centres if they face closure.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will let communities take control of much-loved local pubs, venues, and community centres if they face closure\",\n  \"rationale\": \"The quote announces a named, funded programme (the £61m Community Right to Buy Fund) and states its specific effect — enabling communities to take control of local assets facing closure — making it an announced decision with a causal claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

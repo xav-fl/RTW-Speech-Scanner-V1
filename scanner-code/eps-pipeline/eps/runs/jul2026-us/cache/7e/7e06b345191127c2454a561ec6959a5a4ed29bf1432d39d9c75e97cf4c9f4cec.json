@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"4bdf7fcb280fbf71\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"These investments\",\n        \"insertion\": \"— $80 million in guaranteed loans to businesses in Oregon and Nevada —\",\n        \"evidence\": \"the agency is guaranteeing $80 million through the Timber Production Expansion Guaranteed Loan Program (TPEP) and Business and Industry Guaranteed Loan Program to support businesses in Oregon and Nevada\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

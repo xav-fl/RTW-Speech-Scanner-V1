@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df2a76720e6.P010.S001\"], \"anchor\": \"DHS law enforcement is partnering with the Department of Transportation to eliminate CDL fraud, strengthen the integrity of the CDL system, and investigate commercial driver's license schools throughout the country.\", \"reason\": \"Does joint federal enforcement against CDL fraud reduce fraudulent licensing and improve road safety outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

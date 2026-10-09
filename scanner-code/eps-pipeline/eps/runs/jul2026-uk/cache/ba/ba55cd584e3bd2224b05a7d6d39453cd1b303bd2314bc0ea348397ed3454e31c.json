@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We're modernising a system that hasn't been updated for sixty years\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"putting pet owners first while giving vets the modern framework they need to support the future of the profession\",\n  \"rationale\": \"The speaker announces reforms being made in this press release, framing the modernisation as delivering specific benefits to pet owners and vets, which constitutes a causal claim about the effect of the action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

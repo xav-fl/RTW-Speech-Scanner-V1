@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"are blocked and must be reported to the Department of the Treasury's Office of Foreign Assets Control (OFAC)\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote describes the legal consequences already in effect from the sanctions designations announced in this document — property is blocked and reporting is required — making this a completed action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

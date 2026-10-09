@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our Community Power Pilots, backed by £15m of new funding, will support councils and communities to innovate with radical new approaches to meeting residents' needs.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will support councils and communities to innovate with radical new approaches to meeting residents' needs\",\n  \"rationale\": \"The quote announces a named programme (Community Power Pilots) with new funding, presented as a decision in this speech, and links it to a specific outcome (supporting councils and communities to innovate with radical new approaches to meeting residents' needs).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

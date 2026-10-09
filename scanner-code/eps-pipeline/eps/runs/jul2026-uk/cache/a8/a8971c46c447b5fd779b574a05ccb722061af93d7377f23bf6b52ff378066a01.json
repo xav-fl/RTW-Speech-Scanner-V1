@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4c59db7ac6.P009.S001\"], \"anchor\": null, \"reason\": \"Does reducing vape appeal through regulation lower youth vaping uptake and nicotine addiction rates?\"},{\"unit_ids\": [\"D4c59db7ac6.P010.S001\"], \"anchor\": null, \"reason\": \"Do plain packaging and marketing restrictions on vapes reduce youth uptake while preserving adult cessation use?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

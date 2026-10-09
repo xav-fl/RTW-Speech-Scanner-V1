@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bus fare cap and free travel subsidy reducing household transport costs\", \"codes\": [{\"code\": \"R48\", \"strength\": 3}, {\"code\": \"D12\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

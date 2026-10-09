@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Just last month we introduced bonuses to recruit and retain qualified early years teachers where they are needed most\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports a completed past action ('Just last month we introduced bonuses') with no quantified target and no specific causal outcome claimed beyond the general purpose of recruitment and retention.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

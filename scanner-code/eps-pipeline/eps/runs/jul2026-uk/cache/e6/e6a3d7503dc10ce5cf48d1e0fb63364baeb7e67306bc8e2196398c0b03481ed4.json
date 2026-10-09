@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [\n  {\n    \"unit_ids\": [\"D2c34ad6010.P009.S001\"],\n    \"anchor\": \"free breakfast clubs at 1,400 more schools, an end to expensive lists of branded uniform, and more free lunches for those who need them\",\n    \"reason\": \"Do free breakfast clubs, uniform cost caps, and expanded free lunches reduce financial barriers to schooling?\"\n  }\n]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

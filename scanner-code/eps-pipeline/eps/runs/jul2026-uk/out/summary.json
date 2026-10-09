@@ -1,0 +1,68 @@
+{
+  "documents_screened": 319,
+  "documents_with_observations": 59,
+  "observations_kept": 172,
+  "observations_rejected": 26,
+  "speaker_warnings": [
+    {
+      "doc_id": "De9b44d3d6c",
+      "url": "https://www.gov.uk/government/news/new-pm-says-government-can-bring-back-hope-to-britain-and-launches-drive-to-end-rough-sleeping-at-the-earliest-opportunity",
+      "warning": "the officeholder table gives 2 eligible speakers for 'Ministry of Housing, Communities and Local Government' on 2026-07-20 ('Steve Reed', 'Angela Rayner') — fix the overlapping spell dates in officeholders.csv"
+    }
+  ],
+  "speaker_sources": {
+    "manifest": 250,
+    "officeholder_table": 68
+  },
+  "reject_reasons": {
+    "passage is not attributable to the speaker": 15,
+    "JEL classification failed validation: no defensible economic object: classifier assigned no JEL code": 7,
+    "unit_ids are not contiguous": 2,
+    "unit_ids span a paragraph boundary": 2
+  },
+  "by_institution": {
+    "Ministry of Housing, Communities and Local Government": 43,
+    "HM Treasury": 25,
+    "Home Office": 21,
+    "Department for Environment, Food and Rural Affairs": 15,
+    "Ministry of Defence": 15,
+    "Department for Education": 11,
+    "Cabinet Office": 9,
+    "Department of Health and Social Care": 8,
+    "Foreign, Commonwealth and Development Office": 6,
+    "Department for Work and Pensions": 5,
+    "Department for Transport": 3,
+    "Department for Business and Trade": 2,
+    "Department for Science, Innovation and Technology": 2,
+    "Ministry of Justice": 2,
+    "Scotland Office": 2,
+    "Attorney General's Office": 1,
+    "Department for Culture, Media and Sport": 1,
+    "Department for Energy Security and Net Zero": 1
+  },
+  "context": {
+    "source": "context_log.csv",
+    "unmatched": 0
+  },
+  "intention": {
+    "status": "tagged",
+    "quotes": 172,
+    "tagged": 171,
+    "not_tagged": 1,
+    "failure_reasons": {
+      "cue_not_in_input": 1
+    },
+    "unclear": 1,
+    "context_quote_only": 0,
+    "prompt_version": "I3",
+    "prompt_fingerprint": "2633b8ef029e",
+    "model": "claude-sonnet-4-6"
+  },
+  "files": {
+    "dataset": "runs\\jul2026-uk\\out\\dataset.csv",
+    "internal": "runs\\jul2026-uk\\out\\observations_internal.csv",
+    "screening_log": "runs\\jul2026-uk\\out\\screening_log.csv",
+    "rejected": "runs\\jul2026-uk\\out\\rejected.csv",
+    "intention_log": "runs\\jul2026-uk\\out\\intention_log.jsonl"
+  }
+}

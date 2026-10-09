@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"criminals who break the rules will face heftier fines to clean up the mess they make\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker pledges that under this government fly-tippers and litterers will face increased fines, a future action without a specific announcement marker such as 'today' or 'I can confirm'.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

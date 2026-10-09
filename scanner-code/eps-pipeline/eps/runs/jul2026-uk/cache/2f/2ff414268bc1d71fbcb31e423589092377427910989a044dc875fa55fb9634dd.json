@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We've put those principles at the centre of our Pride in Place programme. Nearly 300 of the poorest communities will get up to 20 million pounds each to transform life and life chances in their areas.\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"Nearly 300 of the poorest communities will get up to 20 million pounds each\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to transform life and life chances in their areas\",\n  \"rationale\": \"The speaker announces the Pride in Place programme as an existing decision, naming a quantified funding commitment (up to £20 million each for nearly 300 communities) and linking it to a specific outcome (transforming life and life chances).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"eb867b316f0bbebc\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"VIHFA\",\n        \"insertion\": \", the Virgin Islands Housing Finance Authority,\",\n        \"evidence\": \"the immediate suspension of funding for the Virgin Islands Housing Finance Authority (VIHFA)\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

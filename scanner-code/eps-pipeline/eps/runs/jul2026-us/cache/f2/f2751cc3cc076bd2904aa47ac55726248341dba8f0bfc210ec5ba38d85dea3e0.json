@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"the SBA is deploying these tools to accelerate our work to surface wrongdoing and ensure those who cheated taxpayer-funded programs face consequences\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will strengthen our ability to expose fraudulent actors, support criminal enforcement actions, and recover stolen funds with advanced technology and artificial intelligence\",\n  \"rationale\": \"The press release announces the SBA's deployment of Palantir software as a current initiative (announced in this document), linking it causally to outcomes of exposing fraud, supporting enforcement, and recovering funds; the value judgment that no amount of fraud is acceptable is secondary.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

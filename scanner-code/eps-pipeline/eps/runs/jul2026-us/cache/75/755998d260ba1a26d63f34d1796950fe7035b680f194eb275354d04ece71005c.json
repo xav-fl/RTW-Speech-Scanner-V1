@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5841d86d2d.P003.S003\", \"D5841d86d2d.P003.S004\"], \"anchor\": null, \"reason\": \"Does aggressive monitoring and sanctioning of unfair currency practices reduce the U.S. trade deficit or restore manufacturing employment?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

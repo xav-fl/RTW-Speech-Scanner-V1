@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"our £2.5 billion youth employment support will deliver on that ambition\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"will deliver on that ambition\",\n  \"rationale\": \"The speaker pledges that the £2.5 billion youth employment support will achieve the stated ambition, linking the policy to a specific outcome (delivering on the ambition for young people's employment).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

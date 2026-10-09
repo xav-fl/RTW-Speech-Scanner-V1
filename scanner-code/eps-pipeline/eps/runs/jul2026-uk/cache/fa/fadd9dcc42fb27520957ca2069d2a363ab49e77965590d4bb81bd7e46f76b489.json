@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"extending subsidized childcare to non-working low-income families to enable parental employment\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"J13\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"c4117ff1a760eae7\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"enforcement operations like this\",\n        \"insertion\": \", such as Operation Unite, the 18-week nationwide crackdown on waste crime\",\n        \"evidence\": \"Operation Unite, an 18-week nationwide enforcement operation targeting permitted waste sites suspected of being involved in criminal activity\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

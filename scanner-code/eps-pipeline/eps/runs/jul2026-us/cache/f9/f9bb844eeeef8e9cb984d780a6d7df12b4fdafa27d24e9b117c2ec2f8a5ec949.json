@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd7fd70676b.P006.S001\", \"Dd7fd70676b.P006.S002\", \"Dd7fd70676b.P006.S003\"], \"anchor\": null, \"reason\": \"Do rolling back appliance energy-efficiency mandates lower consumer costs and expand effective product choice?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

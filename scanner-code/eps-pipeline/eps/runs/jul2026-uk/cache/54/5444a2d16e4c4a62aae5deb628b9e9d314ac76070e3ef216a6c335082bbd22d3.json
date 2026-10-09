@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"promoting physical activity among children and families for health outcomes\", \"codes\": [{\"code\": \"I18\", \"strength\": 2}, {\"code\": \"J13\", \"strength\": 1}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

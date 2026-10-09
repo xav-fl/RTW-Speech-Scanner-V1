@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"910863ad59c7737a\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"Our historic investment in farm to school projects\",\n        \"insertion\": \", nearly $20 million awarded to 68 projects in FY 2026,\",\n        \"evidence\": \"USDA awarded a total of nearly $20 million to 68 projects\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

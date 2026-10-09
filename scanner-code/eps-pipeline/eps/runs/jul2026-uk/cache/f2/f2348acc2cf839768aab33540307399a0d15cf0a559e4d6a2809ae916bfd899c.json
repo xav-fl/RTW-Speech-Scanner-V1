@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"D6b0f77b0b1.P013.S001\"], \"anchor\": null, \"reason\": \"Does UK government support for Ukrainian armed forces via British defence businesses affect UK industrial employment and output?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dad53335c06.P010.S001\"], \"anchor\": null, \"reason\": \"Do reforms scrapping pre-application consultation requirements reduce infrastructure planning costs and timelines?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

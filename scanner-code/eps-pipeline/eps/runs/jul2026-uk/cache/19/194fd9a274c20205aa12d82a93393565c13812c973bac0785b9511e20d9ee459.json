@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4e5f0c6cdd.P018.S001\"], \"anchor\": null, \"reason\": \"Does increasing drug seizures reduce drug-related harms and what are the costs and benefits of intensified enforcement?\"},{\"unit_ids\": [\"D4e5f0c6cdd.P019.S001\"], \"anchor\": null, \"reason\": \"Does restoring EU-UK drug intelligence sharing reduce criminal network activity and drug-related deaths?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

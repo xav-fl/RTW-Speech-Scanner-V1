@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"Treasury will continue efforts to modernize the federal payment system, strengthen safeguards against fraud and improper payments, and protect taxpayer dollars\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"this new safeguard addresses a longstanding vulnerability and helps ensure every dollar the federal government spends reaches its intended recipient\",\n  \"rationale\": \"The quote reports an existing safeguard already implemented (ongoing_implementation) and claims it addresses a vulnerability and ensures proper payment delivery (causal effect), while also pledging continued modernization efforts (secondary pledges_future_action).\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

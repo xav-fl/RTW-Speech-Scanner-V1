@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"campuses will be massive generators of economic growth, create thousands of high-paying jobs\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"campuses will be massive generators of economic growth, create thousands of high-paying jobs, and be crucial to unleashing America's nuclear renaissance\",\n  \"rationale\": \"The press release announces the selection of five contenders for Nuclear Lifecycle Innovation Campuses, and the quote attributes specific economic and industrial outcomes (growth, jobs, nuclear renaissance) to these campuses, constituting an announces_decision with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

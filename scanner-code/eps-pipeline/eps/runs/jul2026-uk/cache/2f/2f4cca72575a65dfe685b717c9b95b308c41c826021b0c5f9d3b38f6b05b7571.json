@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we've chosen the UK-based Tekever AR5 drone to supply our personnel with kit\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"designed to protect British soldiers globally\",\n  \"rationale\": \"The speaker announces a decision already made in this press release — the selection of the Tekever AR5 drone — and links it to the specific outcome of protecting British soldiers.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

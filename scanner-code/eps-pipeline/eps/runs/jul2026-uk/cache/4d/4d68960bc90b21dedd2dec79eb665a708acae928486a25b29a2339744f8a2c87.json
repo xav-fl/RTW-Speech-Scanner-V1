@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public and private investment to drive broad-based economic growth\", \"codes\": [{\"code\": \"O40\", \"strength\": 2}, {\"code\": \"E62\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

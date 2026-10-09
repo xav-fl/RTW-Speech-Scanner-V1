@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will begin to take applications for our new community-sponsored and study routes\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"The first refugees will arrive in Autumn 2027\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"they grow in scale as we restore order to our asylum system… By reducing the numbers arriving by unsafe, illegal routes\",\n  \"rationale\": \"The speaker pledges future action (taking applications this Autumn, refugees arriving by Autumn 2027) with a deadline constituting a quantified target, and links the growth of the scheme causally to reducing illegal arrivals.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

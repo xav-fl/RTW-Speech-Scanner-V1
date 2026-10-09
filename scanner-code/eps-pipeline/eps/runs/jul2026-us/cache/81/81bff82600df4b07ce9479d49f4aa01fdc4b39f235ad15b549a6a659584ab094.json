@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db86f26a8be.P004.S003\", \"Db86f26a8be.P004.S004\"], \"anchor\": \"States that receive federal Medicaid funding must demonstrate that every dollar meets federal requirements. When they cannot, we will not release federal funds until they do.\", \"reason\": \"Does withholding federal Medicaid payments pending documentation reduce fraud and improve program integrity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

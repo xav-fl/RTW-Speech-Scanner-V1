@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"considers_open_option\",\n  \"secondary_sub\": \"preferred_option\",\n  \"cue\": \"The state and local authorities closest to the issues and the public should be making the decisions on the permitting process as much as possible, not Washington.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The core of the quote is a normative judgment about who should make permitting decisions ('should be making the decisions'), with the second sentence noting ongoing compliance with law and a conditional future oversight role; the primary label is a value judgement about the proper locus of authority, with the proposed rulemaking (still open for finalization) captured as a secondary preferred option.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

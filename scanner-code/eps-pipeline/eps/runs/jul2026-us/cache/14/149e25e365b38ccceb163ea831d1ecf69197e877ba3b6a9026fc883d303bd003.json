@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We are investing more than $281 million through 15 grant programs\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to expand treatment, strengthen recovery services, prevent overdose, and equip communities with the tools they need to save lives, restore families\",\n  \"rationale\": \"The press release announces a decision to invest $281 million through 15 grant programs (announces_decision), and the quote links this investment to specific outcomes — saving lives and restoring families — making claims_causal_effect true; spending amounts alone do not constitute a quantified target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

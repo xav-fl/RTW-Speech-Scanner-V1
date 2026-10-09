@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"federal grant funding rapid reskilling for displaced workers\", \"codes\": [{\"code\": \"J65\", \"strength\": 3}, {\"code\": \"J24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

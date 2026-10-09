@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"the rollout of government-funded childcare is a huge step forward\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"empowers families and women and children most of all\",\n  \"rationale\": \"The speaker describes the ongoing rollout of government-funded childcare as already under way ('the rollout... is'), characterising it as a major advance that causally empowers families and women and children.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

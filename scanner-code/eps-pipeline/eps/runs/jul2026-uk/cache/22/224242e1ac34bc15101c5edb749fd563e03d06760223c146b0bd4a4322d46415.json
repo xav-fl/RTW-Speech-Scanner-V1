@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D915eb4678b.P008.S001\"], \"anchor\": null, \"reason\": \"Does simplifying access to Countryside Stewardship Higher Tier increase farmer participation and environmental outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

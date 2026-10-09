@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We have also introduced equal access to government remediation funding schemes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses the present perfect 'have also introduced' to report a completed action (introducing equal access to remediation funding schemes), with the spending figure describing the scale of that existing action rather than a new commitment or quantified future target.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

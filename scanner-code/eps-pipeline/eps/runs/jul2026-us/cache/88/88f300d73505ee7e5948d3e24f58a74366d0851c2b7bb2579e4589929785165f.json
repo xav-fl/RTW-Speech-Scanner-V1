@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"tax-exempt status exploited for foreign-influence and violence financing\", \"codes\": [{\"code\": \"H27\", \"strength\": 3}, {\"code\": \"K42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

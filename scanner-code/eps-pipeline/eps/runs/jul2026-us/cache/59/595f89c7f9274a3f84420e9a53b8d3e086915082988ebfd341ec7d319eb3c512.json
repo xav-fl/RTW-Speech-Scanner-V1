@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"we are empowering states to lead again\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"By sunsetting this failed bureaucracy, we are empowering states to lead again — to test new approaches, compare outcomes, and scale what works\",\n  \"rationale\": \"The present continuous 'we are empowering' describes an action already under way (sunsetting the Department of Education), and the quote links that action to a specific outcome — states leading, testing approaches, and scaling what works — making claims_causal_effect true.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

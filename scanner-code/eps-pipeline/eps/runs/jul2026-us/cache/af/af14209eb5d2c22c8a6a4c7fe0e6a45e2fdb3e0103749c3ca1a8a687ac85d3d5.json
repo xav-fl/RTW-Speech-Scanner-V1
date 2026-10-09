@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db98f61dcd0.P003.S002\"], \"anchor\": null, \"reason\": \"Does streamlining CCR permitting and extending deadlines improve grid reliability and reduce energy costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

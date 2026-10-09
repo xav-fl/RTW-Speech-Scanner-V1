@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": []}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

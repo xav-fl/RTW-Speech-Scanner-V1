@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"evidence\",\n  \"evidence_type\": \"expert_referral\",\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"describes_problem\",\n  \"cue\": \"This independent review will help us tackle the deep-rooted problems facing our prisons\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"cuts crime, reduces reoffending and delivers punishment that works\",\n  \"rationale\": \"The speaker refers to an independent review (an expert referral still open) to address prison problems, with a causal claim that it will cut crime and reduce reoffending.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

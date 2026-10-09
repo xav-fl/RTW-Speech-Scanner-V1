@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"We're also continuing to boost energy security in the region by supporting LNG market development, the deployment of U.S. grid technologies, and support to the ASEAN power grid\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The present continuous 'We're also continuing' describes ongoing U.S. actions already under way across multiple energy domains, with a secondary forward-looking pledge ('the United States will continue to stay heavily engaged') on ASEAN energy issues.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

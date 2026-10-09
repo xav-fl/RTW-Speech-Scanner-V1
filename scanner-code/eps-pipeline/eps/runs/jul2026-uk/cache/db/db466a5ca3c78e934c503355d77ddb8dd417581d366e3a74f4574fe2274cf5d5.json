@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we put pen to paper with BAE on a £708 million contract extension\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The past tense 'put pen to paper' indicates a completed action — signing a contract extension with BAE Systems — with no quantified outcome target and no specific causal claim beyond the general purpose of advancing sovereign technologies.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

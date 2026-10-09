@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our Arizona Expo, co-hosted by Intel, is designed to reinforce those networks by connecting major industry buyers with the specialty suppliers\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"connecting major industry buyers with the specialty suppliers that can fill critical sourcing needs, increase U.S. manufacturing capacity, and address key vulnerabilities\",\n  \"rationale\": \"The quote announces the Arizona Expo as a decided event (announced in this press release) and links it to specific outcomes—filling sourcing needs, increasing manufacturing capacity, and addressing vulnerabilities—making it an announces_decision with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

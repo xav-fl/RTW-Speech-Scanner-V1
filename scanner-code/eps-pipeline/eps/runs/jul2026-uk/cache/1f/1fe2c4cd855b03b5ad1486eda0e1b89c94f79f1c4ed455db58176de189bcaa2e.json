@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"De882ecc783.P011.S001\"], \"anchor\": null, \"reason\": \"Does government-backed children's physical activity programming improve long-term activity levels and health outcomes?\"},{\"unit_ids\": [\"De882ecc783.P012.S001\", \"De882ecc783.P012.S002\"], \"anchor\": null, \"reason\": \"Does providing free, accessible physical activity content reduce childhood inactivity and associated health costs?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

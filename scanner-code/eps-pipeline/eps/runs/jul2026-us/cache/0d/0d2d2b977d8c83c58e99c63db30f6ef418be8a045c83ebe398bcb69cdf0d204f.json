@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"This proposed rule will preserve the American people's ability to choose home appliances and equipment that actually work — at prices they can afford.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"This proposed rule will preserve the American people's ability to choose home appliances and equipment that actually work — at prices they can afford.\",\n  \"rationale\": \"The speaker announces a proposed rule being issued by the current administration (announces_decision), with a causal claim that it will preserve consumer choice and affordability, while also expressing a value judgement that past mandates restricted choice and drove up costs.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

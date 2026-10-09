@@ -1,0 +1,14 @@
+{
+  "complete": true,
+  "state": "complete",
+  "stopped_reason": null,
+  "stopped_detail": null,
+  "model": "claude-sonnet-4-6",
+  "prompt_version": "P9-units-blind",
+  "run_id": "jul2026-uk",
+  "documents": 319,
+  "documents_done": 319,
+  "remaining_doc_ids": [],
+  "failed_doc_ids": [],
+  "updated_at": "2026-09-25T21:47:00+00:00"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"ISA reform and financial advice changes to shift household saving toward investment\", \"codes\": [{\"code\": \"G18\", \"strength\": 3}, {\"code\": \"D14\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

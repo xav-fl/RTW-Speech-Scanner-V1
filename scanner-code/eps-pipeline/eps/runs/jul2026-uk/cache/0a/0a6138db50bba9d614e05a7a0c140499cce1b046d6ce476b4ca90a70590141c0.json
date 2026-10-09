@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"will not flinch from capping the profits of private providers\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to prevent this kind of exploitation that damages communities and pushes so many councils to the brink financially\",\n  \"rationale\": \"The speaker pledges future action (capping profits of private providers) and links it to a specific outcome — preventing exploitation that damages communities and pushes councils to financial crisis.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Thanks to our tax cuts, families will be able to enjoy more of the little treats and days out\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Thanks to our tax cuts, families will be able to enjoy more of the little treats and days out that make the British summer holidays so special\",\n  \"rationale\": \"The speaker attributes a specific benefit to families (enjoying more treats and days out) as a direct result of already-enacted tax cuts, making this a causal outcome claim about an existing policy.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We're radically overhauling right-to-buy\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to protect the social housing stock and stop newly built homes being sold off\",\n  \"rationale\": \"The present continuous 'We're radically overhauling' describes an action already under way, and the purpose clause names specific outcomes (protecting social housing stock, stopping newly built homes being sold off), satisfying the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

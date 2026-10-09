@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"geographic diversification of energy supply sources\", \"codes\": [{\"code\": \"Q41\", \"strength\": 3}, {\"code\": \"F14\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

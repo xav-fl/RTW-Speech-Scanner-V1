@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"child savings account enrollment by income distribution\", \"codes\": [{\"code\": \"D31\", \"strength\": 3}, {\"code\": \"G51\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

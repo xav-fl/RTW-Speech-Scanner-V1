@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"defence procurement investment in advanced combat air technology creating domestic jobs\", \"codes\": [{\"code\": \"H56\", \"strength\": 3}, {\"code\": \"H57\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

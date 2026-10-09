@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D1274737c4e.P003.S002\", \"D1274737c4e.P003.S003\"], \"anchor\": null, \"reason\": \"Does revoking legal status and deporting pardoned foreign sex offenders reduce risk to public safety?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

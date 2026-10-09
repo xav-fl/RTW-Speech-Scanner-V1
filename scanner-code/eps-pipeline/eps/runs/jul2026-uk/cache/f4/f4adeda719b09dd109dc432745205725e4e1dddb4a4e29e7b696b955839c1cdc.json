@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"These reforms will help owners avoid unexpected bills, compare prices more easily and get the best value care for their pets\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These reforms will help owners avoid unexpected bills, compare prices more easily and get the best value care for their pets\",\n  \"rationale\": \"The press release announces new reforms to the vet sector, and the quote attributes specific beneficial outcomes to those reforms, making it an announces_decision with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

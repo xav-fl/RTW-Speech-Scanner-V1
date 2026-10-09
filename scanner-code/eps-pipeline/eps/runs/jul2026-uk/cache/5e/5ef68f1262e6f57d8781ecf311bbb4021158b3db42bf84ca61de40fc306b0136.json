@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"The Regulating for Growth Bill changes that, giving businesses a faster route from idea to market\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"giving businesses a faster route from idea to market and ensuring every part of government — from investment and procurement to skills, infrastructure and regulation — is aligned to create the conditions for success, helping cutting-edge firms throughout the country to start, scale and grow\",\n  \"rationale\": \"The quote announces the Regulating for Growth Bill as a named legislative action being introduced, and links it to specific outcomes (faster route to market, aligned government, helping firms start, scale and grow), making it an announces_decision with a causal effect claim.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

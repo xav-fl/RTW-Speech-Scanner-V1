@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"It allows us to have influence over the direction that it goes. It allows us to make sure that there are safeguards in place\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"It allows us to have influence over the direction that it goes. It allows us to make sure that there are safeguards in place\",\n  \"rationale\": \"The speaker articulates a general causal belief that partnering with the US on civil nuclear technology gives the US influence and ensures safeguards, without announcing or pledging any specific action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

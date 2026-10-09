@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"school funding formula linked to deprivation\", \"codes\": [{\"code\": \"I22\", \"strength\": 3}, {\"code\": \"I24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

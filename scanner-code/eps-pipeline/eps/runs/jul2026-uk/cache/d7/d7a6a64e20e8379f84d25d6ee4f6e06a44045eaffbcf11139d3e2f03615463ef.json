@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"58f0899391f26e13\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"changes that\",\n        \"insertion\": \", the problem of regulation not built for the digital age,\",\n        \"evidence\": \"Too often, innovative businesses face a regulatory system that was not built for the digital age and cannot move at the pace modern innovation demands.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

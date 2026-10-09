@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"patients shouldn't have to wait\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote expresses a normative judgment about what ought to be the case for patients awaiting proven medicines, with no action, decision or commitment stated in the quote itself.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

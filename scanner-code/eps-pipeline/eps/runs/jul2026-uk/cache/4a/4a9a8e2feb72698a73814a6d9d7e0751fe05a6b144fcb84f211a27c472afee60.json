@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"asylum seeker accommodation policy\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

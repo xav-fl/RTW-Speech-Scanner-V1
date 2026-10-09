@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public fund enabling community acquisition of local assets facing closure\", \"codes\": [{\"code\": \"H54\", \"strength\": 3}, {\"code\": \"R53\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

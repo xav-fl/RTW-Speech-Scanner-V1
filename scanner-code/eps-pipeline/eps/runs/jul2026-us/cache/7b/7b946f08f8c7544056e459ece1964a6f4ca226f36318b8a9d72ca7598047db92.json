@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"Df3a7238c4f.P010.S001\"], \"anchor\": null, \"reason\": \"What are the economic costs imposed on families and competitiveness by ESA critical habitat and species protections?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

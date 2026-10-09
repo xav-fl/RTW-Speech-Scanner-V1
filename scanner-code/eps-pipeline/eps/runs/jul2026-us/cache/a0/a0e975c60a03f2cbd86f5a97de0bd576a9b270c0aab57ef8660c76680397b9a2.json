@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"96023c0d7655072e\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"these fraud schemes\",\n        \"insertion\": \", targeting Federal student aid programs,\",\n        \"evidence\": \"fraud schemes targeting student aid programs administered by the Federal government\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

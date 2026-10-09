@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9a3bf67073.P004.S001\"], \"anchor\": null, \"reason\": \"Does consolidating federal education funds under state control improve student achievement outcomes?\"},{\"unit_ids\": [\"D9a3bf67073.P006.S001\"], \"anchor\": null, \"reason\": \"Does giving states more control over federal education funding allocations improve student achievement?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

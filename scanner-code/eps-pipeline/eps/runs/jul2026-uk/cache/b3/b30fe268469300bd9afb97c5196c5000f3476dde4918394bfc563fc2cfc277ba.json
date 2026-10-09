@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\"observations\": [{\"unit_ids\": [\"D66c69e0089.P010.S002\"], \"anchor\": \"These tough new rules will shut down dodgy funding, stop foreign money influencing our elections and keep our democracy strong.\", \"reason\": \"Do restrictions on foreign political donations reduce foreign financial influence on UK elections?\"},{\"unit_ids\": [\"D66c69e0089.P011.S001\"], \"anchor\": \"By holding overseas donors to tougher standards and requiring candidates to prove where their funding comes from, we are taking world-leading action to protect the integrity of our elections and tackle the threats we face from abroad.\", \"reason\": \"Do tougher overseas donor standards and candidate funding disclosure requirements improve electoral integrity?\"}]}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

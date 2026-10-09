@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I named a lead executive and established the SSI Improvement office\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to transform the service we provide to SSI recipients\",\n  \"rationale\": \"The speaker reports two completed past actions (naming a lead executive and establishing an office) and links them to a specific intended outcome (transforming service to SSI recipients), satisfying claims_causal_effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"fraud enforcement and recovery of misappropriated SBA loan funds\", \"codes\": [{\"code\": \"K42\", \"strength\": 3}, {\"code\": \"H81\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

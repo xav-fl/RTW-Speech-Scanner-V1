@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D7830b7b7b5.P036.S001\", \"D7830b7b7b5.P036.S002\", \"D7830b7b7b5.P036.S003\", \"D7830b7b7b5.P036.S004\"], \"anchor\": null, \"reason\": \"What is the economic impact of US financial aid and credit access support on Venezuela's post-earthquake reconstruction?\"},{\"unit_ids\": [\"D7830b7b7b5.P047.S001\", \"D7830b7b7b5.P047.S002\", \"D7830b7b7b5.P047.S003\", \"D7830b7b7b5.P048.S001\", \"D7830b7b7b5.P048.S002\"], \"anchor\": null, \"reason\": \"Should countries benefiting from Strait of Hormuz shipping protection contribute financially to the cost of that protection?\"},{\"unit_ids\": [\"D7830b7b7b5.P060.S002\", \"D7830b7b7b5.P060.S003\", \"D7830b7b7b5.P060.S004\", \"D7830b7b7b5.P060.S005\"], \"anchor\": null, \"reason\": \"Does attracting US and international investment and restoring direct flights improve economic stability in post-conflict Lebanon?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

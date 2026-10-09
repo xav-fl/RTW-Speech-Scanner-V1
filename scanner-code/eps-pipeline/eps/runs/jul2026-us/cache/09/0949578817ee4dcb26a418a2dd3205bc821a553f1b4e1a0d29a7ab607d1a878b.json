@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our historic investment in farm to school projects\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"students are nourished with farm-fresh, nutrient-rich foods; producers access dependable markets through schools; and local economies are strengthened\",\n  \"rationale\": \"The press release announces a completed/current investment ('Our historic investment') and the quote links it to three specific outcomes for students, producers, and local economies, making it an announced decision with causal effect claims.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

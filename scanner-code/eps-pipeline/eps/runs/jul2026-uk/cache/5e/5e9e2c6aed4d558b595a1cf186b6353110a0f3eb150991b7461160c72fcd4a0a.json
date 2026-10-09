@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I'm proud of how our nation has supported Ukraine's courageous resistance, and the vital role our British businesses have played\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote expresses pride and a value judgment about the nation's and British businesses' contributions to Ukraine's defence, without announcing, pledging or reporting a specific action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

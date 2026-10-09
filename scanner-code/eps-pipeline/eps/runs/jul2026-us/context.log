@@ -1,0 +1,8 @@
+rows in 139  out 139  resolved 39
+    91  not_needed_triage
+    39  resolved
+     4  failed_evidence_not_found
+     2  not_needed_resolve
+     2  failed_resolve_missing_id
+     1  failed_triage_no_expressions
+model claude-sonnet-4-6  cost $0.56

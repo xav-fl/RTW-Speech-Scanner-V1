@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"generated more savings last year than in those of the prior Trump Administration combined\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"a sweeping deregulatory agenda that generated more savings last year than in those of the prior Trump Administration combined\",\n  \"rationale\": \"The quote reports a claimed outcome of the deregulatory agenda — savings generated — framing it as a result of that action, making it reports_existing_action / outcome with a causal link.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

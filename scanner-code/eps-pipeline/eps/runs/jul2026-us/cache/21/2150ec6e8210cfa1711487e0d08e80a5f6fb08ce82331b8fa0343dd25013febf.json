@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"This proposed rule will preserve the American people's ability to choose home appliances and equipment that actually work — at prices they can afford\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"mandates that restricted consumer choice and drove up costs\",\n  \"rationale\": \"The speaker announces a proposed rule being issued in this press release to end appliance mandates, while also making a value judgement that those mandates restricted choice and raised costs.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

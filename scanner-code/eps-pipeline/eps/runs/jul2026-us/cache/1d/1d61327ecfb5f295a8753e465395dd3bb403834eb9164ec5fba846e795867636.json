@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we recognize Moroccan sovereignty over Western Sahara and support Morocco's serious, credible, and realistic Autonomy Proposal as the only basis for a just, lasting, and mutually acceptable solution\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote expresses the U.S. position and value judgment that Morocco's Autonomy Proposal is the only acceptable basis for resolution, without announcing a new action, pledge, or call on others to act.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

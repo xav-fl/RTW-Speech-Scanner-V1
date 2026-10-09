@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"the SBA and USDA now offer America's producers a direct line to report lawfare, with a new infrastructure to deliver lasting regulatory reform\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"a new infrastructure to deliver lasting regulatory reform\",\n  \"rationale\": \"The MOU is announced as already in effect ('now offer'), establishing new infrastructure, making this an announces_decision; the infrastructure is linked to the specific outcome of lasting regulatory reform, satisfying claims_causal_effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

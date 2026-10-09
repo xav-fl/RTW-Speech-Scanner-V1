@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this government is delivering the largest ever reduction in child poverty in a single parliament on record\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"through our free breakfast clubs that'll reach every primary in the country, through our expansion of free school meals, by lifting the two child limit, we're freeing more than half a million children from the weight of poverty\",\n  \"rationale\": \"The speaker reports an ongoing outcome — the largest ever reduction in child poverty — attributing it causally to specific policies already being implemented (breakfast clubs, free school meals, lifting the two-child limit).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

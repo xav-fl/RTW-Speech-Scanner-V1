@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"a12692b6edff536d\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on the Multilateral Defence Mechanism\",\n        \"evidence\": \"Defence procurement in Europe is too fragmented, expensive and slow. That's why I've been working to establish the Multilateral Defence Mechanism\"\n      }\n    ],\n    \"note\": \"The opening sentence provides context, but 'That's why' links the problem of fragmented procurement to Reeves's work on the MDM, which is named in the title and body.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

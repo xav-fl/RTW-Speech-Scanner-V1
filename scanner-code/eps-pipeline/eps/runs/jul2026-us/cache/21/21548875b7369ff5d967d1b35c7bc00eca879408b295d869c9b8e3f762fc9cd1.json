@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"We're making it attractive to businesses and investors to partner with USDOT and develop high speed rail here in the U.S.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"cutting through the red tape that has stopped rail innovators from building in America before\",\n  \"rationale\": \"The speaker describes ongoing regulatory reforms already under way ('This administration is cutting through the red tape', 'We're making it attractive') that are enabling high-speed rail development, with a causal link between removing red tape and enabling rail innovation; the contrast with the prior administration is a value judgement recorded as secondary.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

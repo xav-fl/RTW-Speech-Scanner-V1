@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Every child born during the President's term can get a stake in the American Dream from day one with a $1,000 seed investment from the U.S. Treasury.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The context establishes that Trump Accounts are an already-launched program with over 6 million signups, so the quote describes the ongoing implementation of an existing policy providing a $1,000 seed investment to eligible children.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

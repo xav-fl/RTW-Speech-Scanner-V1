@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public housing construction vs. landlord tax subsidies\", \"codes\": [{\"code\": \"R31\", \"strength\": 3}, {\"code\": \"H25\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

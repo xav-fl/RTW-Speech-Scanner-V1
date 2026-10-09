@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D03559d6d1e.P006.S001\"], \"anchor\": null, \"reason\": \"Do higher fines for fly-tipping and littering reduce waste crime incidence?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public-private partnership for airport infrastructure expansion and job creation\", \"codes\": [{\"code\": \"R42\", \"strength\": 3}, {\"code\": \"L93\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

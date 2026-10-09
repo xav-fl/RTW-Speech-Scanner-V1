@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"These pilots are designed to give life-changing treatments to NHS patients faster and more fairly than ever before\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"designed to give life-changing treatments to NHS patients faster and more fairly than ever before, while ensuring taxpayers continue to get value for money\",\n  \"rationale\": \"The press release announces new pilots (an action taken in this document), and the quote links those pilots to specific outcomes — faster and fairer patient access and taxpayer value for money — satisfying the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

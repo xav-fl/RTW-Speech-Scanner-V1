@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"7040812213856be0\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"our MOU\",\n        \"insertion\": \", Memorandum of Understanding between SBA and USDA,\",\n        \"evidence\": \"the U.S. Small Business Administration (SBA) and the U.S. Department of Agriculture (USDA) signed a Memorandum of Understanding (MOU) to combat lawfare targeting farmers, ranchers, rural communities, and small businesses.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

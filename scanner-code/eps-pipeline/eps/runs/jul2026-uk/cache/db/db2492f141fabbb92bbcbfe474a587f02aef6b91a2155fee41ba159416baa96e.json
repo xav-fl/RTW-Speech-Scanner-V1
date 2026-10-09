@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [\n  {\n    \"unit_ids\": [\"Dc6ae9a0940.P009.S001\"],\n    \"anchor\": null,\n    \"reason\": \"What are the fiscal effects of government measures that reduced asylum support costs by £1 billion?\"\n  },\n  {\n    \"unit_ids\": [\"Dc6ae9a0940.P010.S001\", \"Dc6ae9a0940.P010.S002\"],\n    \"anchor\": null,\n    \"reason\": \"Does requiring asylum seekers to repay support costs once financially able affect integration or employment outcomes?\"\n  }\n]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

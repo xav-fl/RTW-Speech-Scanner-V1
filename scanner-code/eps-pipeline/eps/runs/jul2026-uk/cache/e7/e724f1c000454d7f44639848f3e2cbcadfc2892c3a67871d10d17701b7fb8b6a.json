@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our new Right to Manage will give residents more opportunity to take over how their homes are managed\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a future policy ('Our new Right to Manage will give') that has not yet been enacted, constituting a pledge of future action with no indication the decision is being made in this document.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

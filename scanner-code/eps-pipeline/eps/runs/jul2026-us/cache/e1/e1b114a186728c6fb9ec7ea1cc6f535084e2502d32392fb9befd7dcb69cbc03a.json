@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5834244dc7.P004.S002\"], \"anchor\": null, \"reason\": \"Does coordinated Treasury-law enforcement action against student aid fraud reduce losses and improve recovery of stolen funds?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

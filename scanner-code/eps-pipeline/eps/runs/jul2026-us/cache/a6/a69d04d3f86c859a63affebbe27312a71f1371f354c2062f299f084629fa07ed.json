@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"As a result of actions taken today, all property and interests in property of those designated today that are in the United States or that are in possession or control of a U.S. person are blocked, and U.S. persons are generally prohibited from engaging in transactions with them.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Terrorist designations expose and isolate entities and individuals, denying them access to the U.S. financial system and the resources they need to carry out attacks.\",\n  \"rationale\": \"The quote announces a decision taken today (terrorist designations) and claims a causal effect by linking those designations to denying designated entities access to the U.S. financial system and the resources needed to carry out attacks.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

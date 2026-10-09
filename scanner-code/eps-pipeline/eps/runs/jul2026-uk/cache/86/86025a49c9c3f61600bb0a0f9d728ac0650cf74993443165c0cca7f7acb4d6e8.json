@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"bedad4bbb6200793\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"we can deliver more clean energy and more jobs\",\n        \"insertion\": \"through the Port of Tyne Clean Energy Park,\",\n        \"evidence\": \"Port of Tyne Clean Energy Park is a win-win for growth and nature.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

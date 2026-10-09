@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"preferential public borrowing rate extended to incentivise council housebuilding supply\", \"codes\": [{\"code\": \"R31\", \"strength\": 3}, {\"code\": \"H74\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

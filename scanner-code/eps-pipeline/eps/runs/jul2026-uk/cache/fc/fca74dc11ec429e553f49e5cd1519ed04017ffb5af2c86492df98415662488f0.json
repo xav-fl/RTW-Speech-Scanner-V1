@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"our investment in defence will create good, skilled jobs in the UK, including up to 60,000 new opportunities through our £298 billion investment over the next four years\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"up to 60,000 new opportunities through our £298 billion investment over the next four years\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"our investment in defence will create good, skilled jobs in the UK\",\n  \"rationale\": \"The speaker pledges that the £298 billion defence investment will create up to 60,000 new job opportunities, a future commitment with a quantified target and an explicit causal link between investment and job creation.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

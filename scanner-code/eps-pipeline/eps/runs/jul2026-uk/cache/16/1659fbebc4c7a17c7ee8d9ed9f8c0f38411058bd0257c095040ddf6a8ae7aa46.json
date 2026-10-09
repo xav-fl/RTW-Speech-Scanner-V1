@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This Bill therefore replaces those two forms of protection with one: the \\\"core protection model\\\".\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces that the Bill (introduced in this legislative context) replaces existing protection forms with a new 'core protection model', constituting a decision being made public in this document.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

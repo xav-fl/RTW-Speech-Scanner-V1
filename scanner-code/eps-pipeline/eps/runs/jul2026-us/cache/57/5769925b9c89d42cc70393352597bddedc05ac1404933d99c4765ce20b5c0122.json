@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df94daf7d13.P006.S001\", \"Df94daf7d13.P006.S002\"], \"anchor\": null, \"reason\": \"Does a USDA-SBA interagency lawfare portal reduce regulatory compliance costs for farmers and ranchers?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

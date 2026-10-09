@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this government is pursuing the most radical programme of devolution in our history, reorganising local government and bringing in new regional mayors\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to get power out of Whitehall and into the hands of people up and down this country\",\n  \"rationale\": \"The present continuous 'is pursuing' describes an ongoing programme already under way, and the purpose clause 'to get power out of Whitehall and into the hands of people' names a specific outcome (who changes and how), triggering the causal-effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

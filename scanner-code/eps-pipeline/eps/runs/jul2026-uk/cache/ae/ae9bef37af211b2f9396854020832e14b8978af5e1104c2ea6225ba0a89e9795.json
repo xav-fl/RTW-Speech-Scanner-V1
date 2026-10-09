@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We are investing £298 billion over the next four years\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"£298 billion over the next four years\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to strengthen readiness and ensure our people have the kit and technology they need\",\n  \"rationale\": \"The speaker pledges a specific future investment of £298 billion over four years to achieve named outcomes (readiness, kit and technology), with no indication this is already under way or announced in this document as a new decision.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

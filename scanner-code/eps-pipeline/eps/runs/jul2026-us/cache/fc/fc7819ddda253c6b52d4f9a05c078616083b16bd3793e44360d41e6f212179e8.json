@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"9e9007b032adb548\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this agreement\",\n        \"insertion\": \", the Cooperative Interstate Shipment (CIS) agreement,\",\n        \"evidence\": \"the U.S. Department of Agriculture Secretary Brooke L. Rollins and the State of Georgia have finalized a Cooperative Interstate Shipment (CIS) agreement\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We have also introduced equal access to government remediation funding schemes, providing over £1 billion of new investment between 2026-27 and 2029-30\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses the present perfect 'have also introduced' to report a completed action (equal access to remediation funding schemes with over £1 billion of investment), with no causal link to a specific outcome and no quantified target (the spending figure alone does not constitute a measurable outcome target).\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"b18bf9e0f5bfe8c1\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"It sets out\",\n        \"insertion\": \"the government's 25-year Farming Roadmap\",\n        \"evidence\": \"We were talking about the government's 25-year Farming Roadmap, which I published just last week.\"\n      }\n    ],\n    \"note\": \"\"\n  },\n  {\n    \"quote_id\": \"ebbce034df4525cd\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on Adrian and Charlotte Downing, who run Darville's Hill Farm\",\n        \"evidence\": \"I met Adrian and Charlotte Downing, who run Darville's Hill Farm in Buckinghamshire.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

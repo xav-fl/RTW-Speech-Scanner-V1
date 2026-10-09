@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"It sets out how improving nutrient management and input efficiency will help farmers to reduce resilience on artificial fertilisers, cut input costs and, crucially, boost resilience.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"improving nutrient management and input efficiency will help farmers to reduce resilience on artificial fertilisers, cut input costs and, crucially, boost resilience\",\n  \"rationale\": \"The speaker reports that the already-published 25-year Farming Roadmap sets out how nutrient management improvements will causally help farmers reduce dependence on artificial fertilisers, cut costs and boost resilience.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

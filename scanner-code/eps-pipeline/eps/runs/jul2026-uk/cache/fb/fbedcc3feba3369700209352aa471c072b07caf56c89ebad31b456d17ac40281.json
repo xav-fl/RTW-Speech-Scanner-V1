@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"The Regulating for Growth Bill changes that, giving businesses a faster route from idea to market\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"helping cutting-edge firms throughout the country to start, scale and grow\",\n  \"rationale\": \"The press release announces the Regulating for Growth Bill as a decision being made public in this document, and links it to the specific outcome of helping firms start, scale and grow.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

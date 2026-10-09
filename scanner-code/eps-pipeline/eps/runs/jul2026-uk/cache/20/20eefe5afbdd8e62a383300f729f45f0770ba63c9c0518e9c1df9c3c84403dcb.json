@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Df99df157f6.P011.S001\"], \"anchor\": null, \"reason\": \"Does expanding the government solar programme reduce school energy costs and increase classroom spending?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

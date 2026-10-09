@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"4ac573280ad625d2\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"the designated persons described above\",\n        \"insertion\": \"— nine entities and two individuals targeting the Cuban regime —\",\n        \"evidence\": \"Today, the Department of State is designating nine entities and two individuals to continue to limit the Cuban regime's access to illicit funds\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

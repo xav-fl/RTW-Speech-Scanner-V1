@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"Activate makes it easier for children to enjoy being active through fun, free and accessible content that families can use wherever they are this summer\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"parents can be confident they have the tools they need to help their children develop healthy habits that can benefit them for years to come\",\n  \"rationale\": \"The quote describes the Activate programme as currently making activity easier for children (ongoing implementation), and links it to the causal outcome of children developing healthy habits.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

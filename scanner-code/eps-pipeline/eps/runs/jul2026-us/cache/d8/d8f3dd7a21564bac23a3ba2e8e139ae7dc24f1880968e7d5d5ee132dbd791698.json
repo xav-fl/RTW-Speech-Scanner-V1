@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"is tapping into an abundant supply of unused backup generation\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to maintain affordable, reliable, and secure power for hardworking American families and businesses\",\n  \"rationale\": \"The present continuous 'is tapping into' describes an action already under way, and the purpose clause names a specific outcome (maintaining affordable, reliable, secure power for families and businesses), satisfying the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

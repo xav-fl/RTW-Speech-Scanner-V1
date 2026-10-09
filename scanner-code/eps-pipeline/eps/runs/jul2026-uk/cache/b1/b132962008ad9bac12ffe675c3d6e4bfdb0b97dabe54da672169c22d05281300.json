@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"outcome\",\n  \"cue\": \"the India Free Trade Agreement, which came into force earlier in July, seeing tariffs reduced from 150% to 40% over the next ten years\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"opened up the world even more to our whisky exports\",\n  \"rationale\": \"The speaker reports a completed action (the India FTA coming into force earlier in July) that has already reduced tariffs, framing it as having opened up export opportunities for Scotch whisky.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D462d02e081.P017.S001\"], \"anchor\": null, \"reason\": \"Do free school meals expansion, removal of two-child limit, breakfast clubs, and childcare subsidies reduce child poverty?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

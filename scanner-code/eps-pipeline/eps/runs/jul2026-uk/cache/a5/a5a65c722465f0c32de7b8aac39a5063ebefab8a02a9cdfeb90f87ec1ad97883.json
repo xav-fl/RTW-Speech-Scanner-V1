@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd646dfa9fc.P013.S001\"], \"anchor\": null, \"reason\": \"Do faster, fairer medicines access pilots improve patient outcomes while maintaining NHS value for money?\"},{\"unit_ids\": [\"Dd646dfa9fc.P012.S001\"], \"anchor\": null, \"reason\": \"How do policies reducing delays between medicine approval and NHS patient access affect health outcomes?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

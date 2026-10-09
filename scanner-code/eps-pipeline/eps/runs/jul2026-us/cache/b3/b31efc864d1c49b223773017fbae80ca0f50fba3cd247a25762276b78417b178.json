@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9b72cb5b25.P002.S001\", \"D9b72cb5b25.P002.S002\", \"D9b72cb5b25.P002.S003\"], \"anchor\": null, \"reason\": \"Do visa restrictions on cybercrime and sextortion perpetrators and their families deter online fraud targeting US citizens?\"},{\"unit_ids\": [\"D9b72cb5b25.P003.S001\"], \"anchor\": null, \"reason\": \"Do sanctions, asset seizures, and international cooperation effectively dismantle transnational cybercrime networks?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"place-based public service integration with pooled budgets and cross-sector partnerships\", \"codes\": [{\"code\": \"H77\", \"strength\": 3}, {\"code\": \"H83\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

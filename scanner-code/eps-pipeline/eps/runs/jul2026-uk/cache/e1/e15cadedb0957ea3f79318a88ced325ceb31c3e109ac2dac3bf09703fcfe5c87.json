@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"automatic financial penalties on water companies for pollution\", \"codes\": [{\"code\": \"Q58\", \"strength\": 3}, {\"code\": \"L95\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Treasury will continue to target and disrupt the illicit procurement networks that fund Iran's weapons programs and war machine\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses 'will continue' to pledge ongoing future action by Treasury against Iranian weapons procurement networks, with no quantified target or specific causal outcome stated.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

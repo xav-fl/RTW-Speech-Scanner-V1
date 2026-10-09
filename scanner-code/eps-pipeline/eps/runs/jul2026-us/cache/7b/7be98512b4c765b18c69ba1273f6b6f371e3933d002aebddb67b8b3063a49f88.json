@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"82c72c005d442090\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"the Department of War's decisive action\",\n        \"insertion\": \"— suspending CMMC Phase II requirements —\",\n        \"evidence\": \"the U.S. Department of War (DoW) for suspending its Cybersecurity Maturity Model Certification (CMMC) program Phase II requirements\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

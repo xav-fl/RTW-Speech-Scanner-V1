@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Dd55582a039.P008.S001\"], \"anchor\": \"We have helped advance the ASEAN Power Grid.\", \"reason\": \"Does international cooperation on regional power grid development improve energy security and economic outcomes?\"},{\"unit_ids\": [\"Dd55582a039.P008.S002\"], \"anchor\": \"We've stepped up cooperation against online scams and organised crime\", \"reason\": \"Does cross-border cooperation against online scams and organised crime reduce economic losses from fraud?\"},{\"unit_ids\": [\"Dd55582a039.P015.S001\", \"Dd55582a039.P015.S002\"], \"anchor\": null, \"reason\": \"What are the economic costs of Strait of Hormuz disruption and what diplomatic interventions best restore freedom of navigation?\"},{\"unit_ids\": [\"Dd55582a039.P017.S001\"], \"anchor\": \"following the UK government's historic recognition of the State of Palestine\", \"reason\": \"What are the economic and diplomatic effects of a government's formal recognition of Palestinian statehood?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

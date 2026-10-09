@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"it ended up deindustrializing our country and costing us millions of jobs\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"it ended up deindustrializing our country and costing us millions of jobs\",\n  \"rationale\": \"The speaker makes a historical causal claim that past policy decisions led to deindustrialization and job losses, with no action by the speaker or their government attached to this specific assertion.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

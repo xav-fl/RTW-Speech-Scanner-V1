@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Lifting sanctions on Syria will unlock international trade and investment, give Syria a chance to rebuild, and open up a new chapter for the Syrian people.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"Lifting sanctions on Syria will unlock international trade and investment, give Syria a chance to rebuild, and open up a new chapter for the Syrian people.\",\n  \"rationale\": \"The quote describes the lifting of sanctions (an action initiated in this document via the rescission process) as leading to specific outcomes—unlocking trade and investment and enabling Syria to rebuild—making it a pledge of future action with a causal effect claim.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"outcome\",\n  \"cue\": \"has already been proven to speed up delivery of government programmes\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"has already been proven to speed up delivery of government programmes\",\n  \"rationale\": \"The speaker reports an existing programme (project RESET) that came into force at the start of the financial year and is already producing results, with a causal claim that it has sped up delivery of government programmes.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

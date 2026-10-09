@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"child poverty reduction via school meals, breakfast clubs, and benefit eligibility expansion\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"I22\", \"strength\": 2}, {\"code\": \"I32\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

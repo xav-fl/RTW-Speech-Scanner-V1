@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"These measures will be crucial in helping young people get the sleep they need, focus on school and college, and spend more quality time with family and friends\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These measures will be crucial in helping young people get the sleep they need, focus on school and college, and spend more quality time with family and friends\",\n  \"rationale\": \"The speaker asserts that the measures will causally produce specific beneficial outcomes for young people, but the quote itself does not announce, pledge or describe any action — it only characterises the effect of measures described elsewhere.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

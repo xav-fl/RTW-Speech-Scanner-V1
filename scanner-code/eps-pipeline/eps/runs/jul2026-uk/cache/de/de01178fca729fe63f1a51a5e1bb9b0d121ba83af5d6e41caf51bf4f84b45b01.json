@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"outcome\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"These reforms create stronger, more efficient councils that lay the foundations for real devolution and the economic growth that will bring new jobs and opportunities to communities right across England.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These reforms create stronger, more efficient councils that lay the foundations for real devolution and the economic growth that will bring new jobs and opportunities to communities right across England.\",\n  \"rationale\": \"The speaker attributes specific outcomes (stronger councils, foundations for devolution, economic growth, new jobs) to 'these reforms', which are already under way (the press release announces 14 more areas benefiting), making this a claimed result of an existing action with a causal link.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Expanding integrated settlements so that more Mayors receive a single multi-year funding pot with flexibility about deciding how that money should be spent\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The gerund 'Expanding integrated settlements' names a future action (extending an existing scheme to more Mayors), with no indication it is already completed or announced as a decision in this document, making it a pledge of future action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D17049164e4.P003.S002\"], \"anchor\": \"this Memorandum of Understanding between our three nations today allow us to move forward on joint work on small modular reactors\", \"reason\": \"Does trilateral cooperation on small modular reactor deployment improve energy security and economic outcomes for partner countries?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"Our consultation provided a clear message from parents and teenagers alike\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"addictive online features that can have a harmful impact on their wellbeing\",\n  \"rationale\": \"The speaker reports a completed consultation whose results are now in, citing its findings as evidence that addictive features harm young people's wellbeing.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

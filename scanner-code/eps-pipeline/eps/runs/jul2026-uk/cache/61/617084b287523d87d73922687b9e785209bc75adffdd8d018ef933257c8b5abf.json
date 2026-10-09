@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we're cutting the cost of making memories with deals on train journeys across all services in public ownership\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"cutting the cost of making memories with deals on train journeys\",\n  \"rationale\": \"The present continuous 'we're cutting' describes an action already under way (a discount scheme being implemented), and the action is linked to the specific outcome of reducing costs for families.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

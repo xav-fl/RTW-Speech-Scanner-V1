@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I also raised the bar that senior civil servants must hit to get a cash bonus, awarding higher, but fewer, bonuses\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes a completed past action — raising the bonus bar and awarding higher but fewer bonuses — confirmed as already in place by the preceding context.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

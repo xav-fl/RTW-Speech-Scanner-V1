@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"The recent approval by the Development Finance Corporation to provide $1.5 billion in new strategic investments\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"$1.5 billion in new strategic investments\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"advancing aviation infrastructure, energy security, and secure supply chains\",\n  \"rationale\": \"The DFC approval is a completed action ('recent approval'), with a quantified investment amount and named outcomes; the surrounding framing about seeking new opportunities is a secondary pledge of future action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

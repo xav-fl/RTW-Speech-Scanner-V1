@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"government grant fund for farmer cooperation and knowledge sharing\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"Q12\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

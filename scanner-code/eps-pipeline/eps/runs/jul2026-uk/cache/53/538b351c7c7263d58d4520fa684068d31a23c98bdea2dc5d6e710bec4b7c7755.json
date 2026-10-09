@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"9f2644cbd4946887\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This new roadmap\",\n        \"insertion\": \", the UK-Estonia defence roadmap,\",\n        \"evidence\": \"European security will be strengthened by a new UK-Estonia defence roadmap that will deepen military cooperation\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

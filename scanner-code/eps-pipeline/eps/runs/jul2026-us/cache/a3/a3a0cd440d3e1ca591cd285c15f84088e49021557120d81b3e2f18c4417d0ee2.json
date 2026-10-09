@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D97241148ca.P001.S002\"], \"anchor\": null, \"reason\": \"Does temporarily waiving environmental permit limits for power generators reduce blackout risk during peak demand?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

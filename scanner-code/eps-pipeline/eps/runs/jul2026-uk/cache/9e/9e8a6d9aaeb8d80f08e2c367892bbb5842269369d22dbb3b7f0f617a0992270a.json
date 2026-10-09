@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"a78948ea668a3f59\",\n    \"status\": \"not_needed\",\n    \"insertions\": [],\n    \"note\": \"The quotation is self-contained; 'these reforms' clearly refers to the veterinary sector reforms being discussed, and no additional referent is needed for the quotation to be understood on its own.\"\n  },\n  {\n    \"quote_id\": \"f1eff163e83c7f29\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"a system that hasn't been updated for sixty years\",\n        \"insertion\": \"— the Veterinary Surgeons Act, introduced in 1966 —\",\n        \"evidence\": \"These changes are vital with the profession today radically different to the 1960s when the Veterinary Surgeons Act was introduced.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

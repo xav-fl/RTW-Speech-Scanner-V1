@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4a8b81d5f3.P002.S001\", \"D4a8b81d5f3.P002.S002\", \"D4a8b81d5f3.P002.S003\"], \"anchor\": null, \"reason\": \"Does extending SBA disaster loan relief and demanding permitting reform accelerate rebuilding and recovery outcomes for wildfire survivors?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

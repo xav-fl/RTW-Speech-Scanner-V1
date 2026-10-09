@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"multi-year local government funding settlement\", \"codes\": [{\"code\": \"H72\", \"strength\": 3}, {\"code\": \"H77\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

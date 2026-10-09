@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"they should\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker calls on allied nations ('advanced and wealthy economies') to spend more on their own defense ('they should'), while also pledging continued U.S. engagement ('the U.S. will continue to do its part').\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

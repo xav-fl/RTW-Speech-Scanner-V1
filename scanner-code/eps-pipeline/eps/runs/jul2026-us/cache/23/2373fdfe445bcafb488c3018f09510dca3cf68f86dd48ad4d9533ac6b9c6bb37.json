@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"creating a public-private partnership to deliver meaningful upgrades to Union Station\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"ensure long-term profitability for this gorgeous transportation monument, and better serve the millions of travelers who rely on this critical transit hub\",\n  \"rationale\": \"The speaker pledges a public-private partnership to upgrade Union Station and links that action to specific outcomes (long-term profitability and better service for travelers), while also implicitly contrasting this approach with the prior administration's as a value judgement.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

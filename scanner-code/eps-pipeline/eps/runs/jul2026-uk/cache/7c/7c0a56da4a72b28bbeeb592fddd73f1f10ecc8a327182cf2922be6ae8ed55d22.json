@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db8e587f130.P012.S001\"], \"anchor\": null, \"reason\": \"Does free bus travel for children and a capped adult fare reduce household transport costs and increase leisure travel?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

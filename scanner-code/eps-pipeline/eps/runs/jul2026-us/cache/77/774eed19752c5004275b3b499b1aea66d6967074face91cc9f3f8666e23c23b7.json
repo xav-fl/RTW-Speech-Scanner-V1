@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"f200fc48573f6356\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"these patriots\",\n        \"insertion\": \", Veterans,\",\n        \"evidence\": \"Veterans – who have already demonstrated the grit, discipline, and skills to take on this vital task – are the right people for the job\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

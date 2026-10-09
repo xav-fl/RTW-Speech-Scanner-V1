@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"completed_action\",\n  \"cue\": \"the SBA strongly supports the Department of War's decisive action\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"cutting red tape, bringing American innovators into our defense supply chain, and advancing the DoW's efforts to rapidly expand modern capabilities essential to warfighter readiness\",\n  \"rationale\": \"The quote expresses the SBA's strong endorsement of another agency's (Department of War's) already-taken action (suspension of CMMC Phase II), making it primarily a value judgement about that action, with the secondary intention being to report the completed action being praised.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

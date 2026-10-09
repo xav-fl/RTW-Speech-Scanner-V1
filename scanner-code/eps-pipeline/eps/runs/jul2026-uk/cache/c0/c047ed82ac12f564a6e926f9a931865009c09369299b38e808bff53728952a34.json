@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"completed_action\",\n  \"cue\": \"we will complete reorganisation within this Parliament\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"we will complete reorganisation within this Parliament\",\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"end two-tier local government with its costly duplication so we could plough the savings back into frontline services\",\n  \"rationale\": \"The speaker pledges to complete local government reorganisation within a defined parliamentary deadline, while also claiming this will produce savings reinvested into frontline services and enable mayoral devolution to rebalance wealth and opportunity.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

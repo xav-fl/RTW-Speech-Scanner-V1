@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"1dfcdb295c0df676\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"This expansion\",\n        \"insertion\": \"of newborn screening for spinal muscular atrophy (SMA)\",\n        \"evidence\": \"The government will expand newborn screening for SMA throughout the country as part of an evaluation programme.\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

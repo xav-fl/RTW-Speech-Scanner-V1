@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"We are already selling them more oil and natural gas than at any time in history\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports an ongoing action (selling oil and gas to Japan at record levels) and notes there is more the US can provide, with the secondary intention being a pledge of further future supply.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

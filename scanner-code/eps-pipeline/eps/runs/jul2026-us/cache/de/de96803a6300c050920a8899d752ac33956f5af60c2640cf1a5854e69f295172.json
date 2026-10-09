@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"We're committing to support security in the region through nearly $130 million in assistance to ASEAN countries for demining\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"reflects our commitment to the safety of everyday citizens\",\n  \"rationale\": \"The speaker announces a concrete commitment of nearly $130 million in demining assistance, presented as a current decision, and links it to the safety of everyday citizens as a specific outcome.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

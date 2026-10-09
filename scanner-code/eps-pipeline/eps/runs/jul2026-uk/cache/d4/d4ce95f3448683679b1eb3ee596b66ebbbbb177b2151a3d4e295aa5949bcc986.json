@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"£8.6 billion pledged to GCAP in the Defence Investment Plan\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote reports a funding commitment already made ('pledged') in the Defence Investment Plan, characterising it as an expression of existing commitment rather than announcing a new decision or pledging future action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

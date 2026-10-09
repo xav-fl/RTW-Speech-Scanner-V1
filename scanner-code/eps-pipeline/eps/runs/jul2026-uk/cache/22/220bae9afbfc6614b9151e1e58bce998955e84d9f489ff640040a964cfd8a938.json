@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"our plan to create a fairer Britain starting with a publicly owned railway that truly works for people – a simpler, more reliable and affordable network that puts passengers first\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker references an ongoing plan to create a publicly owned railway, describing a future state ('that truly works for people') without announcing a new decision in this document or reporting a completed action, making it a pledge of future action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

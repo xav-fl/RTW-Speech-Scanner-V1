@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"is revitalizing American industry from the ground up — propelling workers into fast, high-quality workforce training\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"propelling workers into fast, high-quality workforce training in welding, advanced manufacturing, engineering technologies, and other in-demand fields\",\n  \"rationale\": \"The speaker describes the Workforce Pell program as currently ongoing ('is revitalizing'), with a causal claim that it propels workers into specific training fields, while also offering a value judgment that the 'college-for-all' model saddles young people with debt and mismatched degrees.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

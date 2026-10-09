@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D9725517789.P006.S002\"], \"anchor\": null, \"reason\": \"Does removing US tariffs on Scotch whisky increase UK exports and industry growth?\"},{\"unit_ids\": [\"D9725517789.P008.S001\"], \"anchor\": null, \"reason\": \"Does reducing India's whisky tariff from 150% to 40% over ten years increase UK whisky exports?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"Pell grant expansion to short-term vocational and workforce training programs\", \"codes\": [{\"code\": \"I22\", \"strength\": 3}, {\"code\": \"J24\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

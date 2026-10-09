@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"public fund for tenant participation in social housing governance\", \"codes\": [{\"code\": \"R38\", \"strength\": 3}, {\"code\": \"H42\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

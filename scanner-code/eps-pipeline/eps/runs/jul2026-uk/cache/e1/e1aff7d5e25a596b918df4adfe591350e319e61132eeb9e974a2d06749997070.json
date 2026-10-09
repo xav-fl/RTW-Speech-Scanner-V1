@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"local government restructuring and devolution of fiscal/political power to regions\", \"codes\": [{\"code\": \"H77\", \"strength\": 3}, {\"code\": \"R58\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

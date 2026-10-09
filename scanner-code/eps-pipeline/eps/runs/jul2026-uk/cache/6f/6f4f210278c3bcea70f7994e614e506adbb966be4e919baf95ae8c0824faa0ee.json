@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"debt repayment scheme for migrants who received state support\", \"codes\": [{\"code\": \"F22\", \"strength\": 3}, {\"code\": \"I38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

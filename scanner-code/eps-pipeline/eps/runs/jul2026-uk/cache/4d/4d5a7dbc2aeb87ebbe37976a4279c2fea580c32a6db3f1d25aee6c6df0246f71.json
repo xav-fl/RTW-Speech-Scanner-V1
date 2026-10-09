@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"announces_decision\",\n  \"cue\": \"we are modernising our forces to meet the threats we face\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to defend NATO territory and deter Russian aggression\",\n  \"rationale\": \"The quote describes ongoing strengthening of deployment and modernisation of forces (present continuous), with the roadmap announced in this document as the vehicle; the purpose clause 'to defend NATO territory and deter Russian aggression' names a specific intended effect, satisfying claims_causal_effect.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"tax relief targeted to low- and middle-income households\", \"codes\": [{\"code\": \"H24\", \"strength\": 3}, {\"code\": \"D31\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

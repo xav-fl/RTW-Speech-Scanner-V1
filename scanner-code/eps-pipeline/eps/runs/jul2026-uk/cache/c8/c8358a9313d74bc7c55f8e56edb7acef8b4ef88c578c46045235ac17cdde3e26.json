@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will create a single appeal route\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a future commitment to create a single appeal route and an expedited process for late claims, with no indication the decision has been made public in this document via an explicit 'today' or 'I can announce' marker, making it a pledge of future action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

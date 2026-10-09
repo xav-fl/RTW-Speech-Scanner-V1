@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"USDA is rebuilding America's fertilizer manufacturing base, strengthening supply chains, and ensuring our producers have reliable and affordable access to the fertilizer they need\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"ensuring our producers have reliable and affordable access to the fertilizer they need to remain competitive\",\n  \"rationale\": \"The present continuous 'is rebuilding' and 'strengthening' describe ongoing implementation of an existing policy, and the purpose clause links these actions to a specific outcome (producers remaining competitive), satisfying the causal effect flag.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

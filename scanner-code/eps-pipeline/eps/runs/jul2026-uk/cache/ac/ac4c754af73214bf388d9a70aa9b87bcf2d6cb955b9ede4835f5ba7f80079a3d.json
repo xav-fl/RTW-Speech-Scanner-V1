@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"a target of 10,000 homes a year by the end of this Parliament\",\n  \"has_quantified_target\": true,\n  \"target_cue\": \"a target of 10,000 homes a year by the end of this Parliament\",\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces an ambition to scale the Small Sites Aggregator to a national programme with a quantified target of 10,000 homes a year by the end of Parliament, constituting a pledge of future action; the ongoing support for the existing model is recorded as a secondary intention.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5e30c20456.P014.S001\"], \"anchor\": null, \"reason\": \"Does £45 million enforcement funding under the Waste Crime Action Plan reduce illegal waste site activity?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

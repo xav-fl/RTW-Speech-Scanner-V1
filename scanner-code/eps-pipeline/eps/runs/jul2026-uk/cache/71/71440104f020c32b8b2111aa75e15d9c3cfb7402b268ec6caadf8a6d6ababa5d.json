@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"tariff reduction on whisky exports via free trade agreement\", \"codes\": [{\"code\": \"F13\", \"strength\": 3}, {\"code\": \"Q17\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

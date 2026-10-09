@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"user empowerment and accountability in public service delivery\", \"codes\": [{\"code\": \"H11\", \"strength\": 2}, {\"code\": \"D73\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

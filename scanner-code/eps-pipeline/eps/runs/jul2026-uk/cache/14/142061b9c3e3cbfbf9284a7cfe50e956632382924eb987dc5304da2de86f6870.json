@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"local leaders will be able to harness this, and put more money into local priorities\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"put more money into local priorities\",\n  \"rationale\": \"The quote announces the Overnight Visitor Levy as a policy step enabling local leaders to direct revenue into local priorities, constituting a pledge of future action with a specific causal outcome claimed.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

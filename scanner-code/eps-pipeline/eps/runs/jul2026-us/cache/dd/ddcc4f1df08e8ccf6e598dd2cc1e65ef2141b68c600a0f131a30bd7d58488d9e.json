@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we are taking decisive action to protect election systems\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"These new requirements for homeland security grant recipients will preserve election integrity and ensure that Americans can trust the results\",\n  \"rationale\": \"The speaker announces a decision being made in this document — new grant requirements — framed as decisive action already being taken, with a causal claim that these requirements will preserve election integrity and public trust.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

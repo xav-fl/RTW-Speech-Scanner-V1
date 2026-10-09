@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"private_actors\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"announces_decision\",\n  \"cue\": \"Non-U.S. persons, including foreign financial institutions, should proceed with caution in any dealings with a party sanctioned under this authority.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote primarily directs non-U.S. persons and foreign financial institutions to exercise caution and avoid prohibited transactions, while also announcing the prohibitions and sanctions risks that apply to them.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

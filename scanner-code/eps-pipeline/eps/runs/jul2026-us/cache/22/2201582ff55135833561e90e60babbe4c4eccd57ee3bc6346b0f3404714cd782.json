@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Today we are announcing a plan to end this consolidation and bring competition back to the American fertilizer industry\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker uses 'Today we are announcing' to introduce a decision made public in this document, making this an announces_decision; the stated aims ('end this consolidation', 'bring competition back') are too vague to constitute specific causal claims or quantified targets.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

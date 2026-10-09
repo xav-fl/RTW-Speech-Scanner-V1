@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we will empower service users relative to service providers so decisions and public services become more directly accountable and responsive to people's real needs\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"so decisions and public services become more directly accountable and responsive to people's real needs\",\n  \"rationale\": \"The speaker pledges a future action ('we will empower service users') and links it to a specific outcome ('so decisions and public services become more directly accountable and responsive to people's real needs'), satisfying the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

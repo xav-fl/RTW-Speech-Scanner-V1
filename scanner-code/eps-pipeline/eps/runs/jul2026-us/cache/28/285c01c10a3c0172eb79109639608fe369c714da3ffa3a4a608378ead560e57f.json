@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4564f8296a.P002.S001\"], \"anchor\": null, \"reason\": \"Does allowing state-inspected processors interstate market access increase competition and reduce meat market concentration?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

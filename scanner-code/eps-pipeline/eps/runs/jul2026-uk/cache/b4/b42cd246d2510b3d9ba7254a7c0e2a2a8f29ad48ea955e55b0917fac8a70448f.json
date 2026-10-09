@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"in part 5 of this Bill we introduce measures to address abuse in the system\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker announces a decision being made in the Bill itself — that those posing a threat to public order or national security will not receive modern slavery protection — making this an announces_decision in the current document.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

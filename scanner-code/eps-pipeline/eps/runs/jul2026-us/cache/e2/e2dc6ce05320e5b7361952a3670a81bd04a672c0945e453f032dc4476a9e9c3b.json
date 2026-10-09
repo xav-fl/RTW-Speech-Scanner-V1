@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"nuclear energy facility investment driving regional job creation and growth\", \"codes\": [{\"code\": \"Q48\", \"strength\": 3}, {\"code\": \"R11\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

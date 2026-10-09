@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Our Defence Investment Plan backed by £298 billion is delivering greater national security for our nation and our allies, and opportunities for people across the UK\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"is delivering greater national security for our nation and our allies, and opportunities for people across the UK\",\n  \"rationale\": \"The present continuous 'is delivering' describes an existing plan already under way, and the quote links that plan to specific outcomes (national security and job opportunities), satisfying the causal effect flag.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

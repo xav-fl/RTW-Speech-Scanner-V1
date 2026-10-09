@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"We are examining where tax-exempt status has been exploited, which charitable entities have become financial conduits for foreign-influence activity\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The present continuous 'We are examining' describes an investigation already under way (confirmed by 'That work is well underway' in the context), making this ongoing_implementation, with a secondary pledge to follow evidence and hold officers accountable.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

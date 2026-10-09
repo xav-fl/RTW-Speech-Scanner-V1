@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"pledges_future_action\",\n  \"cue\": \"HHS reviewed the science and recommended this action\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"7-OH, MP, MGM-15, and MGM-16 are dangerous opioids that fuel addiction and put American lives at risk\",\n  \"rationale\": \"The quote reports a completed action (HHS reviewed the science and recommended the DEA scheduling action), while also linking these substances causally to addiction and risk, and pledging continued enforcement action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

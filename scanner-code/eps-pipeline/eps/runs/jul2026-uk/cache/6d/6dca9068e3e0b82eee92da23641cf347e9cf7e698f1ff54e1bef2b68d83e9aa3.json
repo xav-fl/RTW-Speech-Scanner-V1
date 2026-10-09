@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"this initiative of requiring departments to have dedicated resource – out of their existing budgets and headcount – is about making sure there is a consistent project management and accountability model across government\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker describes 'this initiative' as an active decision being announced — requiring departments to have dedicated resource — framing it as a current policy being implemented, with the purpose of establishing a consistent accountability model across government.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

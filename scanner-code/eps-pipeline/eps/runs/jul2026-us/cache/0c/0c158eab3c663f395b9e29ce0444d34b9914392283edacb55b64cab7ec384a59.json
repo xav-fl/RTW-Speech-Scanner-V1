@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"DHS law enforcement is partnering with the Department of Transportation to eliminate CDL fraud, strengthen the integrity of the CDL system, and investigate commercial driver's license schools throughout the country\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The press release announces a new partnership between DHS and DOT, making this an announces_decision; the partnership is presented as a current action being made public in this document, with no specific quantified target or explicit causal chain stated in the quote itself.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

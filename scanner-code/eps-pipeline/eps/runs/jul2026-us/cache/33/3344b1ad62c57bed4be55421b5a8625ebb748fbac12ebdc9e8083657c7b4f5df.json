@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"calls_on_others\",\n  \"sub\": \"other_states\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"describes_problem\",\n  \"cue\": \"the countries and the nations benefitting from shipping through the straits should be able to step forward and provide at least financial assistance to the cost of providing this very valuable service\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker conveys the President's position that other nations benefitting from U.S.-protected shipping should provide financial assistance, which is a call on foreign states to act, with the secondary intention of describing the problem of the U.S. bearing the burden alone.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

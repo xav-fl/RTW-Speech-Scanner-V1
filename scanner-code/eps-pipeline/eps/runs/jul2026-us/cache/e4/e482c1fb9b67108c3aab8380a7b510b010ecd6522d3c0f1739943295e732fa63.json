@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"bfe71092b26f6f66\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"this new safeguard\",\n        \"insertion\": \"— a government-wide payment verification process to stop payments to deceased individuals —\",\n        \"evidence\": \"the successful implementation of a new government-wide payment verification process that helps stop federal payments from being sent to deceased individuals\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

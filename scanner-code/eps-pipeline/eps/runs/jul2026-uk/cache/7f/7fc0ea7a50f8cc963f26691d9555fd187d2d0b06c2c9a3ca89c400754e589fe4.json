@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D5890b59479.P008.S001\"], \"anchor\": null, \"reason\": \"Does the Water Delivery Taskforce's collaborative approach effectively unblock housing development constrained by water infrastructure?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

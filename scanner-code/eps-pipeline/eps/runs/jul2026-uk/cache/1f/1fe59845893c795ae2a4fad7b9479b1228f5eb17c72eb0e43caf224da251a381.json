@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"This Government committed to ending the use of asylum hotels within this parliament\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The speaker reports that the Government has already made a commitment (a completed act of committing), using past tense, with the context confirming progress is underway ('Two years in, we have already emptied one in five').\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

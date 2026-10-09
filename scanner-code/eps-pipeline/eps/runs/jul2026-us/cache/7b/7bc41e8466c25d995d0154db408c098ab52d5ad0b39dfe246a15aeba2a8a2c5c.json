@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"they are changing where they're getting their energy from. And increasingly, they're going to get less from the Middle East and more from us and other places, and that's already happening all over the world, because this has been a very unstable part of the world for a very long time\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"that's already happening all over the world, because this has been a very unstable part of the world for a very long time\",\n  \"rationale\": \"The speaker describes Japan's and the world's energy diversification as an ongoing trend caused by Middle East instability, expressing a causal belief rather than committing to or calling for any action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

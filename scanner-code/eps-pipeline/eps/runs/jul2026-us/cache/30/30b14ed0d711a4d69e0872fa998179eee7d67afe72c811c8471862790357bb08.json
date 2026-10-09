@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"commits_to_action\",\n  \"secondary_sub\": \"announces_decision\",\n  \"cue\": \"USDA has implemented one of the most rigorous livestock inspection protocols in history\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"giving us confidence we can safely resume this critical trade while ensuring cattle crossing the border are free from New World screwworm\",\n  \"rationale\": \"The quote reports a completed action (USDA has implemented the inspection protocol) and links it causally to the ability to safely reopen the port to livestock trade, with the reopening itself being an announced decision (August 24).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

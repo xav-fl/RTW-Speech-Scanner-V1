@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"will strengthen our ability to expose fraudulent actors, support criminal enforcement actions, and recover stolen funds\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"powered by Palantir software, will strengthen our ability to expose fraudulent actors, support criminal enforcement actions, and recover stolen funds with advanced technology and artificial intelligence\",\n  \"rationale\": \"The speaker pledges future strengthened enforcement and recovery actions enabled by Palantir/AI tools, while also noting the SBA is already deploying these tools (ongoing_implementation as secondary).\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

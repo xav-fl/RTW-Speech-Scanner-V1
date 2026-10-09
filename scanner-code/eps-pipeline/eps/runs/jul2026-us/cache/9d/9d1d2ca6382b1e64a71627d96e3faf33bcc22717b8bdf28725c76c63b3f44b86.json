@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Today, the Department of State is designating nine entities and two individuals\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to continue to limit the Cuban regime's access to illicit funds, including those gained through the exploitation of medical workers and sanctions evasion efforts\",\n  \"rationale\": \"The quote announces a decision made today (designating eleven targets), and links the action to a specific outcome — limiting the Cuban regime's access to illicit funds.\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

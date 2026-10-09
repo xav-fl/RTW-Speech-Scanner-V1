@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"child nutrition, childcare subsidies, and family benefit expansion\", \"codes\": [{\"code\": \"I38\", \"strength\": 3}, {\"code\": \"I22\", \"strength\": 2}, {\"code\": \"J13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

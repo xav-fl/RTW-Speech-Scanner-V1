@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"2e6831a926faaefc\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"before\",\n        \"anchor\": \"\",\n        \"insertion\": \"on the Consular Affairs Patriot Passport launch\",\n        \"evidence\": \"Secretary of State Marco Rubio at a Reception for the Consular Affairs Patriot Passport Launch\"\n      }\n    ],\n    \"note\": \"'Now, beyond that' refers to the passport box, certificate, and redesign features Rubio had just described; the before insertion establishes the topic so the quotation is self-contained.\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

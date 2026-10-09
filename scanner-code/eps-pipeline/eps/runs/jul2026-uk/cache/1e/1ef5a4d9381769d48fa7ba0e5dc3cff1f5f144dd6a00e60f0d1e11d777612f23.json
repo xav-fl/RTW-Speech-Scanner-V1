@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"council-led early intervention for youth training and employment\", \"codes\": [{\"code\": \"J24\", \"strength\": 3}, {\"code\": \"J08\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

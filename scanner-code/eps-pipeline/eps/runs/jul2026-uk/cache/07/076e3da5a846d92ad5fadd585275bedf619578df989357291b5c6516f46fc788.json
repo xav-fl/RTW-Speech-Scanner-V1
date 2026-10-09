@@ -1,0 +1,5 @@
+{
+  "text": "```json\n{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"reports_existing_action\",\n  \"secondary_sub\": \"ongoing_implementation\",\n  \"cue\": \"we will secure our Best Start Family Hubs for the future, leaving nothing to chance, instead cementing their legacy in law\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The dominant intention is a pledge to legislate to secure Best Start Family Hubs ('we will secure... cementing their legacy in law'), while the passage also reports ongoing implementation ('More than 200 new hubs have already opened', 'Families are now getting the right help').\"\n}\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

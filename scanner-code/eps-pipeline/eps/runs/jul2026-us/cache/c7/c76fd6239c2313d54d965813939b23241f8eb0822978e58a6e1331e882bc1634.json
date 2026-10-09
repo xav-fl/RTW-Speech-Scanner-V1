@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"5502007e78cadaca\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"The Trump SBA's initiative\",\n        \"insertion\": \"— the Fraud Prevention Pilot Program using Palantir Technologies software —\",\n        \"evidence\": \"This collaboration formalizes the Fraud Prevention Pilot Program that the agency launched earlier this year with Palantir software\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

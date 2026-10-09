@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"EPA is advancing state-led CCR permitting, streamlining and clarifying CCR rules, and implementing deadline extensions\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"cutting red tape to bolster grid reliability and affordability\",\n  \"rationale\": \"The present continuous verbs ('is advancing', 'streamlining', 'implementing') describe ongoing implementation of existing policy actions, with a causal claim that cutting red tape bolsters grid reliability and affordability.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

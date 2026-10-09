@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Treasury continues to assess whether the United States' trading partners are undertaking foreign exchange intervention and implementing non-market policies and practices to manipulate their currencies\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"it imposes significant hardship on American workers and companies for its own gain\",\n  \"rationale\": \"The quote describes Treasury's ongoing monitoring and assessment activity ('Treasury continues to assess') as currently under way, and the surrounding context links unfair currency practices causally to hardship on American workers and companies.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

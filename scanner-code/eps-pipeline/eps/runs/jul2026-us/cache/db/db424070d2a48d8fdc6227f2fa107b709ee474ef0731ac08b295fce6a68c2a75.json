@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"Today, the U.S. Department of State is designating the Juárez Cartel and Los Viagras as Foreign Terrorist Organizations (FTOs) and Specially Designated Global Terrorists (SDGTs).\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The word 'Today' and the present-tense 'is designating' confirm this is an action announced in this document, making it an announces_decision.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

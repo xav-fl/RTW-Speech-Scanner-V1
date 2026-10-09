@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"causal_belief\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"You've got to have a functioning economy. You need to have laws and rules and regulations in place so that investors from America and around the world can go in and safely invest and create prosperity.\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"laws and rules and regulations in place so that investors from America and around the world can go in and safely invest and create prosperity\",\n  \"rationale\": \"The speaker articulates a causal belief that having a functioning economy with proper laws and regulations enables investors to safely invest and create prosperity, with no specific action by any actor named or committed to.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

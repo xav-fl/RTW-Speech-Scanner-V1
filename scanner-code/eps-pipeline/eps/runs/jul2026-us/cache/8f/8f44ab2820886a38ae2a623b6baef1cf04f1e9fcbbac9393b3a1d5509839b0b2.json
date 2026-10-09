@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"port closure to prevent livestock disease spread\", \"codes\": [{\"code\": \"Q18\", \"strength\": 3}, {\"code\": \"F13\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"Db5946943ec.P002.S004\"], \"anchor\": null, \"reason\": \"What are the effects of offering aid and reform incentives on political and economic change in authoritarian states?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

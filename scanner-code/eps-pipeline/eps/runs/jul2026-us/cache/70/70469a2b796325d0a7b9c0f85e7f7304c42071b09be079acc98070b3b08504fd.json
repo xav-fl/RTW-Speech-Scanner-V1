@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D4745c63f1b.P003.S001\"], \"anchor\": \"we recognize Moroccan sovereignty over Western Sahara and support Morocco's serious, credible, and realistic Autonomy Proposal as the only basis for a just, lasting, and mutually acceptable solution.\", \"reason\": \"How does US recognition of Moroccan sovereignty over Western Sahara affect regional economic development and investment?\"},{\"unit_ids\": [\"D4745c63f1b.P004.S003\"], \"anchor\": \"President Trump has directed his administration to encourage economic and social development with Morocco, including in the Western Sahara territory.\", \"reason\": \"What are the economic effects of US-directed development programmes in disputed territories like Western Sahara?\"},{\"unit_ids\": [\"D4745c63f1b.P004.S004\"], \"anchor\": \"the United States will remain your trusted partner in energy, artificial intelligence, critical minerals, and defense.\", \"reason\": \"What are the economic gains from bilateral partnerships in energy, AI, and critical minerals for partner countries?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

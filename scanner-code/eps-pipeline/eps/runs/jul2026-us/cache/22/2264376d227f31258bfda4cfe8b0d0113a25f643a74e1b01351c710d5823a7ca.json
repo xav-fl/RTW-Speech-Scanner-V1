@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"More than 6 million children are already enrolled in the Trump Accounts program, which launched less than a week ago\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"give every child a stake in the American Dream from day one with a free, $1,000 seed contribution invested in the stock market\",\n  \"rationale\": \"The speaker reports the ongoing implementation of the Trump Accounts program, noting enrollment figures already achieved since its recent launch, while linking the program to the causal effect of giving children a stake in the American Dream via a $1,000 seed contribution.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

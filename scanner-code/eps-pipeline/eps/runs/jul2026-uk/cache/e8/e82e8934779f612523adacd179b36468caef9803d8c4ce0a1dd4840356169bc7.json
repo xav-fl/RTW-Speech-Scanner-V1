@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"will have Deputy Mayors for Health for the first time\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"connecting health outcomes with a wider range of the services and circumstances that influence them\",\n  \"rationale\": \"The speaker pledges a future action (creation of Deputy Mayors for Health in Greater Manchester and South Yorkshire) and links this to a specific outcome of connecting health outcomes with broader influencing services and circumstances.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

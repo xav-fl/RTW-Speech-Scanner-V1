@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"be375ad4106ef4b4\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"Our Arizona Expo\",\n        \"insertion\": \", the 2026 Supplier Matchmaking Expo in Scottsdale,\",\n        \"evidence\": \"its third Supplier Matchmaking Expo will take place on Wednesday, July 29, 2026, at the Grand Hyatt Scottsdale Resort in Scottsdale, Arizona\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

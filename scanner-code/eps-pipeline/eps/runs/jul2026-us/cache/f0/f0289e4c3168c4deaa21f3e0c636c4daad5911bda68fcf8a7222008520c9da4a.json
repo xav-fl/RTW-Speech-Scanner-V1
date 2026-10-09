@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"bilateral trade and investment cooperation in strategic sectors\", \"codes\": [{\"code\": \"F13\", \"strength\": 2}, {\"code\": \"Q38\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

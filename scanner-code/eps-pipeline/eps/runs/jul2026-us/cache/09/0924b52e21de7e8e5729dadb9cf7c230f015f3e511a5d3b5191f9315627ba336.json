@@ -1,0 +1,5 @@
+{
+  "text": "```json\n[\n  {\n    \"quote_id\": \"a03bf8b92a513a51\",\n    \"status\": \"resolved\",\n    \"insertions\": [\n      {\n        \"position\": \"after\",\n        \"anchor\": \"mandates that restricted consumer choice and drove up costs\",\n        \"insertion\": \"— home appliance and equipment energy conservation standards —\",\n        \"evidence\": \"issued a Notice of Proposed Rulemaking to permanently end home appliance and equipment mandates that raise costs and disrupt consumer choice\"\n      }\n    ],\n    \"note\": \"\"\n  }\n]\n```",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

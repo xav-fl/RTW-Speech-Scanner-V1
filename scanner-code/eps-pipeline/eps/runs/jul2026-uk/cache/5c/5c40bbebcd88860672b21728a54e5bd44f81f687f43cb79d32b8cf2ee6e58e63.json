@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"pledges_future_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"I will continue the change that we've begun in our colleges\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"giving our young people the choices they need to succeed\",\n  \"rationale\": \"The speaker pledges to continue ongoing reforms to colleges backed by investment and new qualifications, with a purpose clause specifying a concrete outcome for young people.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"states_view_without_action\",\n  \"sub\": \"value_judgement\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"they should never be designed or marketed in ways that tempt children\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": false,\n  \"causal_cue\": null,\n  \"rationale\": \"The quote expresses a normative judgment about how vapes should and should not be designed or marketed, without committing to or reporting any specific action.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

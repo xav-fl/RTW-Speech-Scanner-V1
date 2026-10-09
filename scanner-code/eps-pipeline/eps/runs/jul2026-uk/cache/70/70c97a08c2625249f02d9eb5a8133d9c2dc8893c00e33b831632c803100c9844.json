@@ -1,0 +1,5 @@
+{
+  "text": "{\"observations\": [{\"unit_ids\": [\"D2fbf3c8a2f.P006.S001\"], \"anchor\": null, \"reason\": \"Does a temporary VAT cut on family leisure activities increase household spending on those activities?\"}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

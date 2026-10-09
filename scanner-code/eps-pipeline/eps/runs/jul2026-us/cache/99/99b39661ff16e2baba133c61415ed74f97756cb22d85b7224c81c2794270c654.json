@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"commits_to_action\",\n  \"sub\": \"announces_decision\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"causal_belief\",\n  \"cue\": \"By sunsetting this failed bureaucracy, we are empowering states to lead again\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"By sunsetting this failed bureaucracy, we are empowering states to lead again — to test new approaches, compare outcomes, and scale what works\",\n  \"rationale\": \"The speaker frames the sunsetting of the Department of Education as an ongoing/announced decision and claims it causally empowers states to test approaches and scale what works.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

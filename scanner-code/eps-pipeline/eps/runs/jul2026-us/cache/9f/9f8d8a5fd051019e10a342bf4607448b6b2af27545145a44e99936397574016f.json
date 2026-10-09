@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"completed_action\",\n  \"evidence_type\": null,\n  \"secondary_broad\": \"states_view_without_action\",\n  \"secondary_sub\": \"value_judgement\",\n  \"cue\": \"The closure of the Southern ports of entry for the last year has been a tough but necessary action\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"to control the spread of NWS in Mexico and protect the American livestock industry\",\n  \"rationale\": \"The speaker describes the year-long port closure as a completed action ('has been') and links it causally to controlling NWS spread and protecting the livestock industry, while also characterizing it as a necessary (value) judgment.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

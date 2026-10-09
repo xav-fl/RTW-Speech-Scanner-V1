@@ -1,0 +1,5 @@
+{
+  "text": "{\n  \"broad\": \"reports_existing_action\",\n  \"sub\": \"ongoing_implementation\",\n  \"evidence_type\": null,\n  \"secondary_broad\": null,\n  \"secondary_sub\": null,\n  \"cue\": \"we are supporting education freedom to allow parents to access scholarships, funds for after-school programs, and other services\",\n  \"has_quantified_target\": false,\n  \"target_cue\": null,\n  \"claims_causal_effect\": true,\n  \"causal_cue\": \"that help their child develop and unleash their full potential\",\n  \"rationale\": \"The present continuous 'we are supporting' describes an ongoing policy already under way, and the quote links it to the specific outcome of helping children develop and reach their potential.\"\n}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}

@@ -1,0 +1,5 @@
+{
+  "text": "{\"mechanism\": \"deportation of foreign criminals, public interest test and Article 8 appeals\", \"codes\": [{\"code\": \"K37\", \"strength\": 3}, {\"code\": \"F22\", \"strength\": 2}]}",
+  "model": "claude-sonnet-4-6",
+  "provider": "anthropic"
+}
