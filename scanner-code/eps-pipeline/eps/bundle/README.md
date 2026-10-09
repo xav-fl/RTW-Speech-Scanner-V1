@@ -113,7 +113,7 @@ It finishes with **`SETUP COMPLETE`** in green. If something goes wrong, it stop
 )
 ```
 
-A notice that a new version of pip is available can be ignored.
+A notice that a new version of pip is available may appear just before or after `SETUP COMPLETE`. Ignore it.
 
 ## Step 5 — Choose a model and a reasoning effort
 
