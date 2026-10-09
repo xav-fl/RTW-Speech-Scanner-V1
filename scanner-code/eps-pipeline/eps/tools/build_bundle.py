@@ -173,7 +173,7 @@ def build(ref: str, out_dir: Path) -> int:
         f"ref {ref}\ncommit {commit}\n", encoding="utf-8")
 
     # 3. what ingest produces from these files, with the ref's own code
-    subprocess.run([sys.executable, "-I", str(stage / "run_extract.py"),
+    subprocess.run([sys.executable, "-I", "-B", str(stage / "run_extract.py"),
                     "--write-reference", str(stage / "reference_units.json")],
                    cwd=stage, check=True)
 
