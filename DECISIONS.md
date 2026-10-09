@@ -1912,3 +1912,133 @@ are recorded as they are made.
   the window kills the process before it can write anything, but responses
   already received are in the cache and the status file still says incomplete,
   so the same command resumes.
+
+---
+
+## 10. Quote fidelity and the Codex route
+
+### H-102 — The blockquote marker is stripped on every attribution path
+
+- **Location:** `[src/eps/normalise.py:mark_attribution(), strip_quote_markers()]`,
+  `[tests/test_markers.py]`
+- **Decision:** After attribution is decided, a final pass removes the
+  renderer's `> ` from the opening unit of every paragraph that still starts
+  with it. It changes text and `char_start` only, by the marker's two
+  characters; `attributable`, unit IDs and `char_end` are untouched, and a unit
+  an earlier path already trimmed is left alone so nothing is stripped twice.
+  `SEGMENTER_VERSION` moves from `seg-1.0.0` to `seg-1.0.1`.
+- **Rationale:** The quote-block path always trimmed the marker, but the
+  speaker-only, `speaker_is_document` and transcript paths returned before it
+  did. A released `direct_quote` could therefore open with two characters the
+  agency never published, breaking the guide's verbatim requirement.
+- **Status:** Settled and implemented (QUOTE_FIDELITY_BRIEF_v1, deliverables
+  A–C). Re-ingesting all 6,607 documents of the full UK and US manifests before
+  and after: exactly 123 units changed (42 UK, 81 US), every one on the
+  pre-fix inventory and each differing only by the removed marker; document,
+  unit and attributable counts (30,462) are identical; offsets still satisfy
+  `doc.text[char_start:char_end] == unit.text` for every unit. Released damage
+  was 4 quotes, all in `runs/trial-context-latest`; no other run's output
+  carries the marker. Deliverables D–F of that brief are not done.
+- **Context:** Existing runs hold `documents.pkl` files built before the fix.
+  Re-ingesting them changes the select-call input for the affected documents
+  (1 in jul2026-uk, 6 in jul2026-us, 8 in uk-full, 45 in us-full), so those
+  calls would no longer replay from the cache. Only `trial-context-latest`
+  needs re-running for correctness.
+
+### H-103 — A `>` inside a GOV.UK paragraph is the publisher's, and stays
+
+- **Location:** `[src/eps/normalise.py:strip_quote_markers()]`
+- **Decision:** Only a `> ` opening a paragraph is treated as our marker. Ten
+  UK units in five GOV.UK press releases carry `>` mid-paragraph (for example
+  `Bridget Phillipson said: > > Nothing matters more…`); they are left as
+  published.
+- **Rationale:** Both renderers (`sources/blocks.py:render()` and the UK
+  rewriter) write the marker at the start of a quote block and nowhere else,
+  so a `>` elsewhere came from the source page, apparently malformed GOV.UK
+  markup. Removing it would be editing the publisher's text on a guess.
+- **Status:** Settled for now. None of the ten units is attributable, so none
+  can reach the dataset under current rules.
+
+### H-104 — A document's ID depends on its bytes as they sit on this machine
+
+- **Location:** `[src/eps/normalise.py:make_doc_id()]`,
+  `[src/eps/harvest/local.py:ingest_row()]`
+- **Decision:** The bundle ships the harvested text files exactly as they are
+  in this working tree (CRLF line endings), never re-exported from git.
+- **Rationale:** `doc_id` hashes the URL with the raw file bytes. With
+  `core.autocrlf=true` git stores the files with LF and checks them out with
+  CRLF; every stored `doc_id` (6,607 of 6,607) matches the CRLF bytes and
+  almost none match LF. A bundle built from LF bytes would give every document
+  a new ID, and every unit ID with it. Ingest is otherwise deterministic:
+  re-ingesting all four manifests reproduced every stored doc ID, unit ID,
+  unit text and attribution flag.
+- **Status:** Settled. The bundle's checksum file and reference ID list catch
+  any change in transit.
+
+### H-105 — Extraction can run through the Codex CLI on someone else's computer
+
+- **Location:** `[src/eps/providers.py:CodexCLIProvider, run_command()]`,
+  `[tests/test_codex_provider.py]`
+- **Decision:** A provider that runs `codex exec` as a subprocess under the
+  user's own ChatGPT sign-in, with no API key. Each call runs from an empty
+  working folder (so no `AGENTS.md` is read), passes the extraction prompt as
+  Codex's replacement instructions (`model_instructions_file`) and the document
+  on stdin, and switches off shell, web search, multi-agent tools and app
+  connectors, with a read-only sandbox and no saved session. Approval-bypass
+  and write-enabled sandbox flags are never used. On timeout the whole process
+  tree is killed. The Anthropic and Mistral providers are unchanged.
+- **Rationale:** The PI can run the extraction on her own subscription. The
+  prompt, parsing, validation and assembly are untouched, so the only thing
+  that differs between routes is which model answered, and that is recorded.
+- **Status:** Implemented and tested with the subprocess mocked; no real Codex
+  call has been made. Flags were checked against OpenAI's documentation, not a
+  local install. Codex's exit codes and usage-limit message are undocumented:
+  a failure is classed `usage_limit` when its message contains "usage limit",
+  which is unverified, and anything unrecognised is recorded as `cli_error`.
+
+### H-106 — Two output schemas, one per kind of call
+
+- **Location:** `[src/eps/cli_schemas.py]`
+- **Decision:** Extraction makes two kinds of call with different answers, so
+  there are two strict JSON Schemas: `select` (`observations` of `unit_ids`,
+  `anchor`, `reason`) and `classify` (`mechanism`, `codes` of `code` and
+  `strength` 1–3). Each mirrors exactly what `extract.py` parses, lists every
+  property as required (`anchor` is nullable) and forbids extra properties.
+  The provider picks the schema from the system prompt, which is fixed text;
+  any other prompt is refused.
+- **Rationale:** OpenAI's strict structured output needs a schema matching the
+  answer exactly, and one schema cannot describe both shapes without making
+  every answer ambiguous. A schema-enforced answer also removes the free-text
+  failures seen in earlier runs (a JSON object followed by "Wait, …").
+- **Status:** Settled. All 4,690 stored select and classify responses from
+  earlier Anthropic runs conform. Answers are validated again on return.
+
+### H-107 — A failed call is recorded by name, never as an empty document
+
+- **Location:** `[src/eps/providers.py:CLI_FAILURES, CLICallFailed,
+  CLIProviderStopped]`
+- **Decision:** Seven failure classes: `auth_failure`, `usage_limit`,
+  `timeout`, `cli_error`, `unparseable_output`, `schema_mismatch`,
+  `empty_output`. Sign-in and usage-limit failures stop the run like running
+  out of credit (H-101); a missing `codex` executable does too. The rest are
+  per-call failures. Every call is logged with tool and version, model,
+  effort, call kind, prompt version and fingerprint, schema hash, exit code,
+  duration and failure class.
+- **Rationale:** A document that failed and one in which nothing qualified
+  both produce no observations; only the name tells them apart.
+- **Status:** Settled and implemented.
+
+### H-108 — The person running the bundle chooses the model and effort
+
+- **Location:** `[src/eps/providers.py:CodexCLIProvider.__init__]`, the
+  bundle's `run_extract.py` and README
+- **Decision:** The Codex provider has no default model or reasoning effort.
+  The README asks the recipient to choose both before running; the runner
+  requires them and stops at once, before any call, if either is missing.
+  Both are recorded on every call. Because the response cache is keyed on
+  provider and model but not effort, the runner refuses to resume a run with
+  different settings rather than mixing two configurations in one dataset.
+- **Rationale:** The recipients know their own subscription and its limits;
+  a default chosen here could exhaust their usage or under-use it.
+- **Status:** Settled. `eps extract --provider codex` fails at construction
+  for want of an effort, so the runner is the only way in.
