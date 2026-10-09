@@ -487,6 +487,10 @@ def main(argv=None) -> int:
     p.add_argument("--write-reference", type=Path, help=argparse.SUPPRESS)
     args = p.parse_args(argv)
 
+    if sys.version_info < (3, 11):
+        stop("This needs Python 3.11 or newer; this is Python "
+             f"{sys.version.split()[0]}. Install a newer one (README step 1), "
+             "delete the .venv folder inside this folder, and repeat step 4.")
     sys.path.insert(0, str(ROOT / "eps" / "src"))
     if args.write_reference:
         return write_reference(args.write_reference)

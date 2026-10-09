@@ -40,32 +40,80 @@ codex login
 
 ## Step 3 — Download the bundle
 
-From the shared Google Drive folder, download **`eps-bundle.zip`** into your **Downloads** folder. Do not unzip it yourself; the next step does that.
+From the shared Google Drive folder, download **`eps-bundle.zip`** into your **Downloads** folder. If your computer unzips it for you, that is fine too: the next step handles either.
 
 ## Step 4 — Unpack it and set it up (once)
 
-This unpacks the bundle and creates a private Python environment inside it. Nothing is installed anywhere else on your computer. It takes a few minutes; wait until the prompt comes back.
+This unpacks the bundle and creates a private Python environment inside it. Nothing is installed anywhere else on your computer. It takes a few minutes. Paste the whole box at once, and wait for it to finish.
+
+It finishes with **`SETUP COMPLETE`** in green. If something goes wrong, it stops and says what to do instead. You can paste the box again at any time; it carries on from wherever it got to.
 
 **Windows:**
 
 ```powershell
-Expand-Archive -Path "$HOME\Downloads\eps-bundle.zip" -DestinationPath "C:\" -Force
-cd C:\eps-bundle
-py -m venv .venv
-.\.venv\Scripts\python -m pip install -r requirements.txt
+& {
+  $ErrorActionPreference = 'Stop'
+  if (-not (Test-Path 'C:\eps-bundle\run_extract.py')) {
+    $dl  = Join-Path $HOME 'Downloads'
+    $zip = Get-ChildItem $dl -Filter 'eps-bundle*.zip' | Sort-Object LastWriteTime -Descending | Select-Object -First 1
+    $dir = Get-ChildItem $dl -Directory -Filter 'eps-bundle*' | Sort-Object LastWriteTime -Descending | Select-Object -First 1
+    if ($zip) {
+      Write-Host "Unpacking $($zip.Name) ..."
+      Expand-Archive -Path $zip.FullName -DestinationPath 'C:\' -Force
+    } elseif ($dir -and (Test-Path (Join-Path $dir.FullName 'run_extract.py'))) {
+      Copy-Item $dir.FullName 'C:\eps-bundle' -Recurse
+    } elseif ($dir -and (Test-Path (Join-Path $dir.FullName 'eps-bundle\run_extract.py'))) {
+      Copy-Item (Join-Path $dir.FullName 'eps-bundle') 'C:\eps-bundle' -Recurse
+    } else {
+      throw 'eps-bundle.zip is not in your Downloads folder. Download it from the shared Google Drive folder (Step 3), then paste this box again.'
+    }
+  }
+  Set-Location 'C:\eps-bundle'
+  if (-not (Test-Path '.venv\Scripts\python.exe')) {
+    py -c "import sys; sys.exit(sys.version_info < (3, 11))"
+    if ($LASTEXITCODE) { throw 'Python 3.11 or newer is needed. Install it (Step 1), open a new PowerShell window, and paste this box again.' }
+    py -m venv .venv
+    if ($LASTEXITCODE) { throw 'Could not create the Python environment. Check Python is installed (Step 1), open a new PowerShell window, and paste this box again.' }
+  }
+  .\.venv\Scripts\python -m pip install -r requirements.txt
+  if ($LASTEXITCODE) { throw 'Installing the Python packages failed. Check your internet connection and paste this box again.' }
+  Write-Host 'SETUP COMPLETE' -ForegroundColor Green
+}
 ```
 
 **Mac:**
 
 ```bash
-cd ~
-if [ -d ~/Downloads/eps-bundle ]; then mv ~/Downloads/eps-bundle ~/; else unzip -q ~/Downloads/eps-bundle.zip -d ~; fi
-cd ~/eps-bundle
-python3 -m venv .venv
-.venv/bin/python -m pip install -r requirements.txt
+(
+  set -e
+  if [ ! -f ~/eps-bundle/run_extract.py ]; then
+    bundle_zip=$(find ~/Downloads -maxdepth 1 -name 'eps-bundle*.zip' | head -1)
+    if [ -n "$bundle_zip" ]; then
+      echo "Unpacking $bundle_zip ..."
+      unzip -q "$bundle_zip" -d ~
+    elif [ -f ~/Downloads/eps-bundle/run_extract.py ]; then
+      cp -R ~/Downloads/eps-bundle ~/eps-bundle
+    elif [ -f ~/Downloads/eps-bundle/eps-bundle/run_extract.py ]; then
+      cp -R ~/Downloads/eps-bundle/eps-bundle ~/eps-bundle
+    else
+      echo "eps-bundle.zip is not in your Downloads folder. Download it from the shared Google Drive folder (Step 3), then paste this box again."
+      exit 1
+    fi
+  fi
+  cd ~/eps-bundle
+  if [ ! -x .venv/bin/python ]; then
+    if ! python3 -c 'import sys; sys.exit(sys.version_info < (3, 11))'; then
+      echo "Python 3.11 or newer is needed. Install it from python.org (Step 1), open a new Terminal window, and paste this box again."
+      exit 1
+    fi
+    python3 -m venv .venv
+  fi
+  .venv/bin/python -m pip install -r requirements.txt
+  printf '\033[32mSETUP COMPLETE\033[0m\n'
+)
 ```
 
-Near the end you should see `Successfully installed …`. That means the setup worked. A notice that a new version of pip is available can be ignored.
+A notice that a new version of pip is available can be ignored.
 
 ## Step 5 — Choose a model and a reasoning effort
 
@@ -116,13 +164,17 @@ It prints `FINISHED`. Paste this to put the results in one zip file on your Desk
 **Windows:**
 
 ```powershell
-Compress-Archive -Path C:\eps-bundle\output -DestinationPath "$HOME\Desktop\eps-output.zip" -Force
+& {
+  $out = Join-Path ([Environment]::GetFolderPath('Desktop')) 'eps-output.zip'
+  Compress-Archive -Path 'C:\eps-bundle\output' -DestinationPath $out -Force -ErrorAction Stop
+  Write-Host "Saved: $out" -ForegroundColor Green
+}
 ```
 
 **Mac:**
 
 ```bash
-cd ~/eps-bundle && zip -qr ~/Desktop/eps-output.zip output
+cd ~/eps-bundle && rm -f ~/Desktop/eps-output.zip && zip -qr ~/Desktop/eps-output.zip output && echo "Saved: ~/Desktop/eps-output.zip"
 ```
 
 Upload **`eps-output.zip`** from your Desktop to the **`returns`** folder in the shared Google Drive folder.
