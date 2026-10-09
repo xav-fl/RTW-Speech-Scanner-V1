@@ -228,7 +228,7 @@ def run_command(args: list[str], stdin_text: str, cwd: Path,
                 timeout: float) -> tuple[int, str, str]:
     """Run `args` with `stdin_text` on stdin; return (exit code, stdout, stderr).
 
-    No shell. On timeout the whole process tree is killed, not just the
+    No shell. On timeout or Ctrl+C the whole process tree is killed, not just the
     immediate child: on Windows `codex` is usually a .cmd shim that starts
     node, and killing only the shim would leave the real work running.
     Raises subprocess.TimeoutExpired after the kill.
@@ -251,6 +251,11 @@ def run_command(args: list[str], stdin_text: str, cwd: Path,
             proc.communicate(timeout=10)
         except subprocess.TimeoutExpired:  # pragma: no cover - defensive
             pass
+        raise
+    except KeyboardInterrupt:
+        # The child runs in its own process group, so Ctrl+C does not reach
+        # it; without this it would carry on after the run has stopped.
+        _kill_tree(proc)
         raise
     return proc.returncode, out or "", err or ""
 
@@ -332,6 +337,8 @@ class CodexCLIProvider:
         self.workdir.mkdir(parents=True, exist_ok=True)
         self.files.mkdir(parents=True, exist_ok=True)
         self.call_log: list[dict] = []
+        #: Merged into every call-log record, e.g. the document being worked on.
+        self.context: dict = {}
         self._tool_version: str | None = None
         self._n = 0
 
@@ -440,6 +447,7 @@ class CodexCLIProvider:
             "schema_hash": cli_schemas.schema_hash(kind),
             "exit_code": None, "duration_s": None,
             "failure_class": None, "detail": "",
+            **self.context,
         }
 
     def _record_end(self, record: dict) -> None:
