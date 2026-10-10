@@ -2042,3 +2042,110 @@ are recorded as they are made.
   a default chosen here could exhaust their usage or under-use it.
 - **Status:** Settled. `eps extract --provider codex` fails at construction
   for want of an effort, so the runner is the only way in.
+
+### H-109 — The Codex bundle is a separate, Codex-native variant of the pipeline
+
+- **Location:** branch `codex-native`, tags `codex-bundle-v1` to
+  `codex-bundle-v4`; `[bundle/]`, `[tools/build_bundle.py]`,
+  `[src/eps/providers.py:CodexCLIProvider]`, `[src/eps/cli_schemas.py]`
+- **Decision:** The bundle runs both extract and build on the recipient's
+  computer, with every model call (select, classify, context triage and
+  resolve, intention) answered by the OpenAI model they choose through their
+  own Codex sign-in. It is a variant for running the pipeline elsewhere, not
+  the main pipeline. The main route (`eps extract`, `eps context`, `eps build`
+  on Anthropic models) is unchanged and remains the reference.
+- **Rationale:** The PIs can run the whole job on their own subscription by
+  attaching one file to a Codex chat, with nothing to install but Python and
+  Codex. Keeping it as a distinct, labelled variant stops a dataset built this
+  way from being mistaken for one built on the reference route.
+- **Status:** Settled. Every row records its provider and model, so the route
+  that produced a dataset is visible in the data. A dataset built through the
+  bundle is **not directly comparable** with one built on Claude: the context
+  and intention stages, as well as extraction, ran on a different model.
+  Comparing the two routes on the same documents would be a robustness check
+  in its own right.
+
+### H-110 — Three more output schemas, for the build-stage prompts
+
+- **Location:** `[src/eps/cli_schemas.py:TRIAGE_SCHEMA, RESOLVE_SCHEMA,
+  INTENTION_SCHEMA, LIST_KINDS]`
+- **Decision:** The Codex provider serves all five of the pipeline's prompts.
+  Context triage and resolve ask for a JSON list, but strict structured output
+  must be an object at the top level, so their schemas wrap the list as
+  `{"items": [...]}` and the provider hands `context.py` the bare list. The
+  intention schema mirrors the prompt's eleven fields; nullable fields are
+  required but may be null. Labels are plain strings, not enums, so the
+  stages' own validators judge them exactly as they do for any provider.
+  Prompt text and stage code are unchanged.
+- **Rationale:** Same principle as H-106: each schema matches exactly what its
+  caller parses, so the provider changes nothing downstream.
+- **Status:** Settled. Stored responses from earlier Anthropic runs: all 741
+  intention and 40 triage responses conform; 174 of 204 resolve responses do.
+  The rest predate resolve prompt v2's `position` field, or carry a null
+  `note`, which is now allowed because `context.py` already accepts it.
+
+### H-111 — A usage limit inside the build is read from the call log
+
+- **Location:** `[bundle/run_pipeline.py:build_one()]`
+- **Decision:** After the context stage and after intention tagging, the
+  runner checks its providers' call logs for a sign-in or usage-limit
+  failure. If it finds one, it reports the build as stopped, writes no
+  `build_status.json`, and asks for the same command to be run again.
+- **Rationale:** Neither stage lets a stop escape. `context.py` catches every
+  error around its calls and records the batch as a parse failure;
+  `intention.py` records the remaining quotes as `provider_error`. Left alone,
+  a usage limit mid-build would produce a finished-looking dataset with
+  thousands of failed rows. Every successful answer is cached, so the re-run
+  replays them and calls only for what failed.
+- **Status:** Settled and tested. The same swallowing affects `eps context`
+  on the main route when credit runs out; it is not fixed there.
+
+### H-112 — Settings lock only once a document has succeeded
+
+- **Location:** `[bundle/run_pipeline.py:check_settings()]`
+- **Decision:** Amends H-108. The model and effort are recorded at the first
+  run, but a later run with different settings is refused only once at least
+  one document has completed. Until then, the new settings replace the old.
+- **Rationale:** A first attempt with a model the account cannot use fails
+  every call and stops after five documents. Locking at that point would trap
+  the run on a model that cannot work. With nothing completed there is nothing
+  to mix, so changing is safe.
+- **Status:** Settled and tested.
+
+### H-113 — A Codex chat sets the bundle up from an instructions file
+
+- **Location:** `[bundle/INSTRUCTIONS_FOR_CODEX.md]` (also shipped as
+  `AGENTS.md`), `[bundle/README.md]`
+- **Decision:** The recipient attaches `eps-bundle.zip` to a Codex chat and
+  sends one fixed message. Codex follows the instructions file: it unpacks the
+  bundle, checks Python, creates the environment, runs `--check`, asks for the
+  model and effort, opens the run in its own terminal window, and handles
+  restarts and the final zip. The instructions forbid changing the bundle,
+  running the real run inside Codex's own sandbox, or using any option other
+  than `--workers`. The by-hand copy-and-paste steps remain in the README.
+- **Rationale:** The run makes thousands of Codex calls over many hours and
+  needs the network and the user's sign-in, which a chat's sandbox blocks and
+  its command timeouts would cut short. So the chat does the set-up and
+  launches the run outside itself. The calls inside the run use an empty
+  folder with project documents switched off, so they never read `AGENTS.md`.
+- **Status:** Untested with a real Codex. OpenAI's documentation does not say
+  what happens to a file attached to a chat, so the message also tells Codex
+  to look in Downloads.
+
+### H-114 — Several Codex calls run at once (`--workers`, default 4)
+
+- **Location:** `[bundle/run_pipeline.py:WorkerPool, extract_all(),
+  tag_intentions_in_parallel()]`, `[src/eps/providers.py:kill_running()]`
+- **Decision:** Extraction runs documents on a pool of workers, each with its
+  own Codex provider and empty working folder. Only the main thread writes
+  result files. Before the build, the kept quotes' intentions are requested on
+  the pool through the same `IntentionTagger.tag_one()`, so the sequential
+  build finds every answer in the response cache. The context stage stays
+  sequential (a few hundred calls). Ctrl+C kills every running Codex process.
+- **Rationale:** About 5,000 to 6,000 sequential calls would take days. Four
+  at a time cuts the extraction and intention time roughly fourfold, with the
+  same total usage; it only reaches a plan's limits sooner, which
+  `--workers 2` or `--workers 1` eases.
+- **Status:** Settled and tested. On the full bundle with the fake provider,
+  four workers produced the same UK (750 quotes) and US (1,331 quotes)
+  datasets, row for row, as one worker.
