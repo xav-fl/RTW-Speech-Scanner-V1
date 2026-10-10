@@ -130,8 +130,13 @@ def test_full_run_writes_a_result_per_document_and_a_summary(bundle):
 
     log = calls(bundle)
     # extract both documents, then build: one triage batch, one intention call
-    # per kept quote (no quote is flagged, so there is no resolve call)
-    assert [c["call_kind"] for c in log] ==         ["select", "classify"] * 2 + ["triage", "intention", "intention"]
+    # per kept quote (no quote is flagged, so there is no resolve call). With
+    # the default four workers the order varies, but nothing is asked twice:
+    # the build finds the intentions tagged in parallel in the cache.
+    from collections import Counter
+    assert Counter(c["call_kind"] for c in log) == \
+        Counter({"select": 2, "classify": 2, "triage": 1, "intention": 2})
+    assert [c["stage"] for c in log] == ["extract"] * 4 + ["context", "intention", "intention"]
     for c in log:
         for field in ("tool", "tool_version", "model", "effort", "prompt_fingerprint",
                       "schema_hash", "exit_code", "duration_s", "failure_class",
@@ -315,3 +320,44 @@ def test_settings_do_not_lock_until_a_document_succeeds(bundle, monkeypatch):
     settings.write_text(json.dumps(data), encoding="utf-8")
     r = run(bundle)  # different settings, but nothing succeeded yet
     assert r.returncode == 0, r.stdout + r.stderr
+
+
+# --- workers -----------------------------------------------------------------
+
+def test_one_worker_runs_everything_in_order(bundle):
+    r = run(bundle, "--workers", "1")
+    assert r.returncode == 0, r.stdout + r.stderr
+    assert [c["call_kind"] for c in calls(bundle)] == \
+        ["select", "classify"] * 2 + ["triage", "intention", "intention"]
+
+
+def test_workers_give_the_same_dataset_as_one_worker(bundle, tmp_path):
+    other = tmp_path / "copy"
+    shutil.copytree(bundle, other)
+    assert run(bundle, "--workers", "1").returncode == 0
+    assert run(other, "--workers", "4").returncode == 0
+
+    def rows(root):
+        path = root / "output" / "build" / "test-uk" / "dataset.csv"
+        with open(path, newline="", encoding="utf-8") as fh:
+            return sorted(tuple(sorted(r.items())) for r in csv.DictReader(fh)
+                          if True)
+    strip = {"run_timestamp", "retrieved_at"}
+    a = [tuple(kv for kv in r if kv[0] not in strip) for r in rows(bundle)]
+    b = [tuple(kv for kv in r if kv[0] not in strip) for r in rows(other)]
+    assert a == b and len(a) == 2
+
+
+def test_two_workers_finish_sooner_than_one(bundle, tmp_path):
+    import time
+    other = tmp_path / "copy"
+    shutil.copytree(bundle, other)
+    t0 = time.monotonic()
+    assert run(bundle, "--workers", "1", "--fake-delay", "1").returncode == 0
+    one = time.monotonic() - t0
+    t0 = time.monotonic()
+    r = run(other, "--workers", "2", "--fake-delay", "1")
+    two = time.monotonic() - t0
+    assert r.returncode == 0 and "workers=2" in r.stdout
+    # seven one-second calls: about 7s in series, about 4s on two workers
+    assert two < one - 2, (one, two)

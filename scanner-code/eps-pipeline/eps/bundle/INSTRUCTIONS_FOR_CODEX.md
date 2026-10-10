@@ -5,7 +5,7 @@ You are helping a researcher run a research data pipeline on their own computer.
 ## Rules
 
 1. **Do not change the bundle.** Do not edit, move, rename, delete or "fix" any file in the bundle folder. The only things that may be created inside it are `.venv` (step 3) and `output` (which the pipeline writes itself).
-2. **Run `run_pipeline.py` only as written below:** `--check` in step 4, and the launch command in step 6. Never add other options (no `--provider`, no `--limit`). Never run the real run inside your own shell: it makes thousands of Codex calls over many hours, and needs the network and the user's Codex sign-in, which your sandbox blocks. It must run in its own terminal window (step 6).
+2. **Run `run_pipeline.py` only as written below:** `--check` in step 4, and the launch command in step 6. Never add other options (no `--provider`, no `--limit`), except `--workers` as described under "When the user asks to restart the run". Never run the real run inside your own shell: it makes thousands of Codex calls over many hours, and needs the network and the user's Codex sign-in, which your sandbox blocks. It must run in its own terminal window (step 6).
 3. **Never delete `output`.** It holds the finished work, and it is what the user sends back.
 4. **When something fails,** tell the user in one or two plain sentences what the message says and what it suggests, and follow that suggestion. Do not improvise workarounds or change code.
 5. **When a step needs more than your sandbox allows** (writing outside the current folder, downloading packages, opening a new window), ask for approval. Say what the step does in plain words.
@@ -122,6 +122,7 @@ Say, in about these words:
 
 1. Read the last 20 lines of `BUNDLE/output/logs/run.log` and tell the user in one sentence why it stopped.
 2. Read `BUNDLE/output/run_settings.json` for the model and effort used so far. Restart with exactly those values, using the step 6 command. A run with different settings is refused once documents are done, by design, so the results are never mixed.
+3. The run makes 4 Codex calls at a time by default. If it keeps stopping at a usage limit soon after each restart, add `--workers 2` (or `--workers 1`) to the end of the command. This makes fewer calls at once and does not change the results.
 
 ## When the run has finished
 

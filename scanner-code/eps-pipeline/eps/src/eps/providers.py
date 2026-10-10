@@ -22,6 +22,7 @@ import shutil
 import signal
 import subprocess
 import tempfile
+import threading
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -224,6 +225,22 @@ class CLIProviderStopped(ProviderStopped):
         self.failure_class = failure_class
 
 
+#: Codex processes running now. Several run at once when the bundle runner
+#: uses workers; Ctrl+C reaches only the main thread, which then stops them
+#: all with kill_running().
+_RUNNING: set = set()
+_RUNNING_LOCK = threading.Lock()
+
+
+def kill_running() -> None:
+    """Kill every Codex process this program started that is still running."""
+    with _RUNNING_LOCK:
+        procs = list(_RUNNING)
+    for proc in procs:
+        if proc.poll() is None:
+            _kill_tree(proc)
+
+
 def run_command(args: list[str], stdin_text: str, cwd: Path,
                 timeout: float) -> tuple[int, str, str]:
     """Run `args` with `stdin_text` on stdin; return (exit code, stdout, stderr).
@@ -243,6 +260,8 @@ def run_command(args: list[str], stdin_text: str, cwd: Path,
         stderr=subprocess.PIPE, text=True, encoding="utf-8", errors="replace",
         **kwargs,
     )
+    with _RUNNING_LOCK:
+        _RUNNING.add(proc)
     try:
         out, err = proc.communicate(stdin_text, timeout=timeout)
     except subprocess.TimeoutExpired:
@@ -257,6 +276,9 @@ def run_command(args: list[str], stdin_text: str, cwd: Path,
         # it; without this it would carry on after the run has stopped.
         _kill_tree(proc)
         raise
+    finally:
+        with _RUNNING_LOCK:
+            _RUNNING.discard(proc)
     return proc.returncode, out or "", err or ""
 
 
@@ -453,12 +475,16 @@ class CodexCLIProvider:
             **self.context,
         }
 
+    #: Several providers (one per worker) may append to the same log file.
+    _log_lock = threading.Lock()
+
     def _record_end(self, record: dict) -> None:
         self.call_log.append(record)
         if self.log_path is not None:
             self.log_path.parent.mkdir(parents=True, exist_ok=True)
-            with open(self.log_path, "a", encoding="utf-8") as fh:
-                fh.write(json.dumps(record, ensure_ascii=False) + "\n")
+            line = json.dumps(record, ensure_ascii=False) + "\n"
+            with self._log_lock, open(self.log_path, "a", encoding="utf-8") as fh:
+                fh.write(line)
 
     def close(self) -> None:
         """Remove the working folder this provider created."""

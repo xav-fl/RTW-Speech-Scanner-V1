@@ -326,3 +326,29 @@ def test_every_schema_is_strict():
     for schema in cli_schemas.SCHEMAS.values():
         assert schema["type"] == "object"
         walk(schema)
+
+
+def test_kill_running_stops_codex_processes_started_by_other_threads(tmp_path):
+    import threading
+    import time
+    from eps.providers import _RUNNING, kill_running
+
+    outcome = {}
+
+    def worker():
+        t0 = time.monotonic()
+        code, _out, _err = run_command(
+            [sys.executable, "-c", "import time; time.sleep(60)"], "", tmp_path, 120)
+        outcome["code"], outcome["took"] = code, time.monotonic() - t0
+
+    t = threading.Thread(target=worker)
+    t.start()
+    for _ in range(100):
+        if _RUNNING:
+            break
+        time.sleep(0.05)
+    kill_running()
+    t.join(30)
+    assert not t.is_alive()
+    assert outcome["code"] != 0 and outcome["took"] < 30
+    assert not _RUNNING

@@ -173,6 +173,8 @@ It checks the folder is intact and that you are signed in (about a minute), then
 
 **Keep your filled-in command.** You need it again if the run stops.
 
+It makes 4 Codex calls at a time. If it keeps stopping at a usage limit soon after each restart, add ` --workers 2` to the end of the command. That makes fewer calls at once and does not change the results.
+
 ### Step 7 — If it stops
 
 Paste **the same filled-in command** from Step 6 again. Finished documents are skipped and failed ones retried, however it stopped: a usage limit, closing the window, Ctrl+C, the computer sleeping, or a lost connection. In a terminal that is still open, pressing the Up arrow and then Enter does the same.

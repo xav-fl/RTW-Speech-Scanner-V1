@@ -262,6 +262,83 @@ def make_provider(args):
                             timeout=args.timeout, log_path=LOGS / "calls.jsonl")
 
 
+def make_workers(args) -> list:
+    """One provider per worker, each with its own empty working folder, so
+    parallel calls never share a file. The first is also used for the steps
+    that run one call at a time."""
+    return [make_provider(args) for _ in range(max(1, args.workers))]
+
+
+class WorkerPool:
+    """Runs model work on up to N workers at once, one provider each.
+
+    Results are handed back to the main thread, which alone writes files and
+    keeps counts, so nothing on disk is written by two threads. At most N
+    items are in flight, which keeps a stop (usage limit, Ctrl+C) prompt:
+    nothing new starts after it, and what was running is allowed to finish.
+    """
+
+    def __init__(self, workers: list):
+        import queue
+        from concurrent.futures import ThreadPoolExecutor
+
+        self.free = queue.Queue()
+        for w in workers:
+            self.free.put(w)
+        self.size = len(workers)
+        self.executor = ThreadPoolExecutor(max_workers=self.size)
+        self.pending: dict = {}
+
+    def submit(self, key, fn, *args) -> list:
+        """Start fn(worker, *args); return [(key, outcome)] for anything that
+        finished meanwhile. Waits for a free slot first."""
+        done = []
+        while len(self.pending) >= self.size:
+            done += self._collect(block=True)
+
+        def task():
+            worker = self.free.get()
+            try:
+                return fn(worker, *args)
+            finally:
+                self.free.put(worker)
+
+        self.pending[self.executor.submit(task)] = key
+        return done + self._collect(block=False)
+
+    def drain(self) -> list:
+        done = []
+        while self.pending:
+            done += self._collect(block=True)
+        return done
+
+    def _collect(self, block: bool) -> list:
+        from concurrent.futures import FIRST_COMPLETED, wait
+
+        if not self.pending:
+            return []
+        finished, _ = wait(list(self.pending), timeout=None if block else 0,
+                           return_when=FIRST_COMPLETED)
+        out = []
+        for fut in finished:
+            key = self.pending.pop(fut)
+            try:
+                out.append((key, fut.result()))
+            except BaseException as exc:  # handed to the caller to judge
+                out.append((key, exc))
+        return out
+
+    def abandon(self) -> None:
+        """Ctrl+C: kill running Codex processes and start nothing more."""
+        from eps.providers import kill_running
+
+        kill_running()
+        self.executor.shutdown(wait=False, cancel_futures=True)
+
+    def close(self) -> None:
+        self.executor.shutdown(wait=True)
+
+
 def save_prompt_snapshot(provider, list_name: str) -> None:
     """What Codex will send the model, as `codex debug prompt-input` reports
     it under the same settings. Best effort: a failure is logged, not fatal."""
@@ -339,23 +416,33 @@ def read_status(doc_id: str) -> str | None:
     return r.get("status") if r else None
 
 
-def process(doc, list_name, extractor, provider, officeholders) -> dict:
-    """Extract one document and return its result record. Raises
-    ProviderStopped (signed out, usage limit) for the caller to stop on."""
-    from eps.providers import CLICallFailed, ProviderStopped
+def not_sent(doc, list_name, provider, officeholders) -> tuple[dict | None, str | None]:
+    """(result, speaker): a finished 'not sent' result for a document the
+    model is never shown, or (None, speaker) for one it must see."""
     from eps.validate import resolve_speaker
 
     base = {"doc_id": doc.doc_id, "url": doc.url, "harvest": list_name,
             "provider": provider.name, "model": provider.model,
-            "effort": provider.effort, "tool_version": provider.tool_version}
+            "effort": provider.effort}
     if not any(u.attributable for u in doc.units):
         return {**base, "status": "not_sent", "reason": "nothing selectable",
-                "observations": [], "finished_at": now()}
+                "observations": [], "finished_at": now()}, None
     speaker, _source, warning = resolve_speaker(doc, officeholders)
     if speaker is None:
         return {**base, "status": "not_sent", "reason": "no speaker",
-                "detail": warning, "observations": [], "finished_at": now()}
+                "detail": warning, "observations": [], "finished_at": now()}, None
+    return None, speaker
 
+
+def extract_doc(worker, doc, speaker, list_name) -> dict:
+    """Extract one document on one worker and return its result record.
+    Raises ProviderStopped (signed out, usage limit) for the caller."""
+    from eps.providers import CLICallFailed, ProviderStopped
+
+    extractor, provider = worker
+    base = {"doc_id": doc.doc_id, "url": doc.url, "harvest": list_name,
+            "provider": provider.name, "model": provider.model,
+            "effort": provider.effort, "tool_version": provider.tool_version}
     first_call = len(provider.call_log)
     provider.context = {"stage": "extract", "harvest": list_name, "doc_id": doc.doc_id}
     try:
@@ -377,54 +464,84 @@ def process(doc, list_name, extractor, provider, officeholders) -> dict:
             "calls": provider.call_log[first_call:], "finished_at": now()}
 
 
-def extract_all(lists, docs, extractor, provider, officeholders, limit) -> tuple:
-    """Work through every list in order, then retry what failed once.
-    Returns (stopped, detail, attempted)."""
+def extract_all(lists, docs, workers, officeholders, limit) -> tuple:
+    """Work through every list in order on the worker pool, then retry what
+    failed once. Returns (stopped, detail, attempted).
+
+    `workers` are (extractor, provider) pairs. Documents the model never sees
+    are settled here at once; the rest go to the pool. Only this thread
+    writes result files, as each document finishes.
+    """
     from eps.providers import ProviderStopped
 
-    attempted, stopped, detail = 0, None, ""
-    consecutive_failures = 0
-    for pass_no in (1, 2):
-        seen: set[str] = set()
-        for entry in lists:
-            todo = [d for d in entry["doc_ids"]
-                    if d not in seen and read_status(d) not in DONE]
-            seen.update(entry["doc_ids"])
-            if pass_no == 2 and not todo:
-                continue
-            label = "retrying failed documents" if pass_no == 2 else \
-                f"{len(entry['doc_ids'])} documents, {len(todo)} to do"
-            log(f"{entry['name']}: {label}")
-            if not todo:
-                continue
-            if pass_no == 1:
-                save_prompt_snapshot(provider, entry["name"])
-            for i, doc_id in enumerate(todo, 1):
-                if limit and attempted >= limit:
-                    return f"--limit {limit} reached", "", attempted
-                try:
-                    result = process(docs[doc_id], entry["name"], extractor,
-                                     provider, officeholders)
-                except ProviderStopped as exc:
-                    return getattr(exc, "failure_class", exc.reason), exc.detail, attempted
-                write_json(result_path(doc_id), result)
-                if result["status"] != "not_sent":
+    provider0 = workers[0][1]
+    state = {"stopped": None, "detail": "", "consecutive": 0, "finished": 0}
+    attempted = 0
+
+    def handle(done: list) -> None:
+        for doc_id, outcome in done:
+            if isinstance(outcome, ProviderStopped):
+                if state["stopped"] is None:
+                    state["stopped"] = getattr(outcome, "failure_class", outcome.reason)
+                    state["detail"] = outcome.detail
+                continue  # left unrecorded, so the next run does it again
+            if isinstance(outcome, BaseException):
+                raise outcome
+            write_json(result_path(doc_id), outcome)
+            state["finished"] += 1
+            if outcome["status"] == "failed":
+                state["consecutive"] += 1
+                log(f"  ! {doc_id} failed ({outcome['failure_class']}): "
+                    f"{outcome['detail'][:200]}")
+                if (state["consecutive"] >= MAX_CONSECUTIVE_FAILURES
+                        and state["stopped"] is None):
+                    state["stopped"] = "repeated failures"
+                    state["detail"] = (
+                        f"the last {state['consecutive']} documents all failed, "
+                        f"most recently with {outcome['failure_class']}: "
+                        f"{outcome['detail'][:300]}")
+            else:
+                state["consecutive"] = 0
+            if state["finished"] % 10 == 0:
+                log(f"  {state['finished']} documents finished this session")
+
+    pool = WorkerPool(workers)
+    try:
+        for pass_no in (1, 2):
+            seen: set[str] = set()
+            for entry in lists:
+                todo = [d for d in entry["doc_ids"]
+                        if d not in seen and read_status(d) not in DONE]
+                seen.update(entry["doc_ids"])
+                if pass_no == 2 and not todo:
+                    continue
+                log(f"{entry['name']}: " + ("retrying failed documents" if pass_no == 2
+                    else f"{len(entry['doc_ids'])} documents, {len(todo)} to do"))
+                if todo and pass_no == 1:
+                    save_prompt_snapshot(provider0, entry["name"])
+                for doc_id in todo:
+                    if state["stopped"]:
+                        break
+                    result, speaker = not_sent(docs[doc_id], entry["name"],
+                                               provider0, officeholders)
+                    if result is not None:
+                        write_json(result_path(doc_id), result)
+                        continue
+                    if limit and attempted >= limit:
+                        state["stopped"] = f"--limit {limit} reached"
+                        break
                     attempted += 1
-                if result["status"] == "failed":
-                    consecutive_failures += 1
-                    log(f"  ! {doc_id} failed ({result['failure_class']}): "
-                        f"{result['detail'][:200]}")
-                    if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
-                        return ("repeated failures",
-                                f"the last {consecutive_failures} documents all "
-                                f"failed, most recently with "
-                                f"{result['failure_class']}: {result['detail'][:300]}",
-                                attempted)
-                elif result["status"] == "complete":
-                    consecutive_failures = 0
-                if i % 10 == 0 or i == len(todo):
-                    log(f"  {entry['name']}: {i}/{len(todo)}")
-    return stopped, detail, attempted
+                    handle(pool.submit(doc_id, extract_doc, docs[doc_id],
+                                       speaker, entry["name"]))
+                handle(pool.drain())
+                if state["stopped"]:
+                    return state["stopped"], state["detail"], attempted
+    except KeyboardInterrupt:
+        pool.abandon()
+        raise
+    finally:
+        pool.close()
+    return state["stopped"], state["detail"], attempted
 
 
 # --- stage 2: build ----------------------------------------------------------
@@ -439,13 +556,77 @@ def observation_from_dict(d: dict):
     return Observation(**d)
 
 
-def build_one(entry: dict, docs: dict, provider, officeholders) -> dict:
+def tag_intentions_in_parallel(name, documents, extractions, mapping, workers,
+                               officeholders, cache) -> str | None:
+    """Ask for every kept quote's intention on the worker pool, ahead of the build.
+
+    The intention tagger in the pipeline works through quotes one at a time.
+    This sends the same requests, through the same tagger code, several at
+    once; each answer lands in the shared response cache, and the build that
+    follows then reads every one from there instead of calling again. The
+    rows are the ones the build will tag (validated, with the context stage's
+    quote_in_context joined in), so the requests are identical. If any differ,
+    the build simply makes those calls itself: this changes only how long the
+    build takes, never what it produces.
+
+    Returns the failure class of a stop (usage limit, signed out), or None.
+    """
+    from eps.context import quote_id
+    from eps.intention import IntentionTagger
+    from eps.pipeline import _kept_rows, join_context
+    from eps.providers import ProviderStopped
+
+    rows = _kept_rows(documents, extractions, officeholders)
+    join_context(rows, mapping)
+    by_qid: dict[str, dict] = {}
+    for row in rows:
+        row["quote_id"] = row.get("quote_id") or quote_id(row)
+        by_qid.setdefault(row["quote_id"], row)
+    doc_map = {d.doc_id: d for d in documents}
+    ts = now()
+    taggers = [IntentionTagger(provider=provider, cache=cache)
+               for _extractor, provider in workers]
+    log(f"{name}: tagging intentions for {len(by_qid)} quotes on {len(taggers)} workers")
+
+    def tag(tagger, row):
+        tagger.provider.context = {"stage": "intention", "harvest": name}
+        try:
+            return tagger.tag_one(row, doc_map.get(str(row.get("doc_id", ""))), ts)
+        finally:
+            tagger.provider.context = {}
+
+    stopped = None
+    pool = WorkerPool(taggers)
+    try:
+        for qid, row in by_qid.items():
+            if stopped:
+                break
+            for _key, outcome in pool.submit(qid, tag, row):
+                if isinstance(outcome, ProviderStopped) and stopped is None:
+                    stopped = getattr(outcome, "failure_class", outcome.reason)
+                elif isinstance(outcome, BaseException) and not isinstance(outcome, ProviderStopped):
+                    raise outcome
+        for _key, outcome in pool.drain():
+            if isinstance(outcome, ProviderStopped) and stopped is None:
+                stopped = getattr(outcome, "failure_class", outcome.reason)
+    except KeyboardInterrupt:
+        pool.abandon()
+        raise
+    finally:
+        pool.close()
+    return stopped
+
+
+def build_one(entry: dict, docs: dict, workers: list, officeholders) -> dict:
     """Context, intention tagging, validation and tables for one harvest.
 
     Neither the context stage nor the intention tagger lets a usage limit
     escape: both record the affected quotes as failed and carry on. So a stop
     is read from the provider's own call log instead, and the build is then
     reported as stopped rather than finished, to be re-run later.
+
+    With more than one worker, intentions are asked for in parallel first
+    (tag_intentions_in_parallel); the build then finds them in the cache.
     """
     from eps.context import Contextualiser
     from eps.extract import ResponseCache
@@ -460,12 +641,14 @@ def build_one(entry: dict, docs: dict, provider, officeholders) -> dict:
                        for o in (read_result(d) or {}).get("observations") or []]
                    for d in entry["doc_ids"]}
     cache = ResponseCache(OUTPUT / "cache")
-    first_call = len(provider.call_log)
+    provider = workers[0][1]
+    first_calls = [len(p.call_log) for _e, p in workers]
 
     def stopped_class() -> str | None:
-        for c in provider.call_log[first_call:]:
-            if c.get("failure_class") in CLI_STOPPING:
-                return c["failure_class"]
+        for (_e, p), first in zip(workers, first_calls):
+            for c in p.call_log[first:]:
+                if c.get("failure_class") in CLI_STOPPING:
+                    return c["failure_class"]
         return None
 
     log(f"{name}: context stage")
@@ -476,6 +659,12 @@ def build_one(entry: dict, docs: dict, provider, officeholders) -> dict:
                                    officeholders, out_dir)
         if stopped_class():
             return {"harvest": name, "status": "stopped", "stopped": stopped_class()}
+
+        if len(workers) > 1:
+            if tag_intentions_in_parallel(name, documents, extractions, mapping,
+                                          workers, officeholders, cache) \
+                    or stopped_class():
+                return {"harvest": name, "status": "stopped", "stopped": stopped_class()}
 
         log(f"{name}: intention tagging and output tables")
         provider.context = {"stage": "intention", "harvest": name}
@@ -546,22 +735,25 @@ def run(args) -> int:
     from eps.extract import Extractor, ResponseCache
     from eps.pipeline import load_officeholders, load_taxonomy
 
-    provider = make_provider(args)
+    providers = make_workers(args)
+    provider = providers[0]
     settings = check_settings(provider)
     log(f"run started: provider={settings['provider']} model={settings['model']} "
         f"effort={settings['effort']} prompt={settings['prompt_version']} "
-        f"({settings['prompt_fingerprint']}) tool={provider.tool_version}")
+        f"({settings['prompt_fingerprint']}) tool={provider.tool_version} "
+        f"workers={len(providers)}")
 
     lists, docs = load_all()
     check_against_reference(docs)
-    extractor = Extractor(load_taxonomy(), provider=provider,
-                          cache=ResponseCache(OUTPUT / "cache"))
+    cache = ResponseCache(OUTPUT / "cache")
+    taxonomy = load_taxonomy()
+    workers = [(Extractor(taxonomy, provider=p, cache=cache), p) for p in providers]
     officeholders = load_officeholders()
 
     builds: list[dict] = []
     stopped, detail, attempted = None, "", 0
     try:
-        stopped, detail, attempted = extract_all(lists, docs, extractor, provider,
+        stopped, detail, attempted = extract_all(lists, docs, workers,
                                                  officeholders, args.limit)
         extract_failed = any(read_status(d) not in DONE
                              for e in lists for d in e["doc_ids"])
@@ -569,7 +761,7 @@ def run(args) -> int:
             for entry in lists:
                 if not entry["build"]:
                     continue
-                record = build_one(entry, docs, provider, officeholders)
+                record = build_one(entry, docs, workers, officeholders)
                 builds.append(record)
                 if record["status"] == "stopped":
                     stopped = record["stopped"]
@@ -577,7 +769,8 @@ def run(args) -> int:
     except KeyboardInterrupt:
         stopped = "interrupted"
     finally:
-        provider.close()
+        for p in providers:
+            p.close()
 
     summary = summarise(lists, stopped, attempted, builds)
     print_summary(summary)
@@ -651,6 +844,9 @@ def main(argv=None) -> int:
                    help="'fake' tests the bundle without calling Codex")
     p.add_argument("--limit", type=int, default=0,
                    help="stop after this many documents (testing)")
+    p.add_argument("--workers", type=int, default=4,
+                   help="Codex calls to run at once (default 4); fewer if your "
+                        "plan's limits are reached quickly")
     p.add_argument("--timeout", type=float, default=900, help=argparse.SUPPRESS)
     p.add_argument("--fake-delay", type=float, default=0.5, help=argparse.SUPPRESS)
     p.add_argument("--write-reference", type=Path, help=argparse.SUPPRESS)
