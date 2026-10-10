@@ -382,7 +382,7 @@ class CodexCLIProvider:
         kind = cli_schemas.call_kind(system)
         if kind is None:
             raise ValueError("the codex provider has no output schema for this "
-                             "prompt; it serves extraction calls only")
+                             "prompt; it serves the pipeline's own prompts only")
         instructions = self.files / (
             f"instructions-{hashlib.sha256(system.encode('utf-8')).hexdigest()[:12]}.md")
         if not instructions.exists():
@@ -424,6 +424,9 @@ class CodexCLIProvider:
             problems = cli_schemas.validate(data, cli_schemas.SCHEMAS[kind])
             if problems:
                 raise CLICallFailed("schema_mismatch", "; ".join(problems[:5]))
+            if kind in cli_schemas.LIST_KINDS:
+                # The caller's prompt asks for a bare list; hand it one.
+                text = json.dumps(data["items"], ensure_ascii=False)
         except (CLICallFailed, CLIProviderStopped) as exc:
             record["failure_class"] = exc.failure_class
             record["detail"] = exc.detail[:1000]

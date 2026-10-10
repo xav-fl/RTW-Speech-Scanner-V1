@@ -1,18 +1,23 @@
-"""Run the extraction step of the eps pipeline through your Codex CLI.
+"""Run the eps pipeline, extract and build, through your Codex CLI.
 
-    python run_extract.py --model <model> --effort <level>
+    python run_pipeline.py --model <model> --effort <level>
+    python run_pipeline.py --check          # set-up check only; starts nothing
 
 Reads only this folder; writes only to output/. See README.md.
 
-Every document gets its own result file in output/results/ the moment it is
-finished, so the run can be stopped at any point and the same command picks up
-where it left off: finished documents are skipped, failed ones are retried.
+1. Extract. Every document gets its own result file in output/results/ the
+   moment it is finished, so the run can be stopped at any point and the same
+   command picks up where it left off: finished documents are skipped, failed
+   ones are retried.
+2. Build, once every document is extracted. For each full harvest (UK, US):
+   the context stage, intention tagging, validation and the output tables,
+   written to output/build/<harvest>/. Every model answer is cached as it
+   arrives, so a build that stops is re-run for free up to where it stopped.
 """
 
 from __future__ import annotations
 
 import argparse
-import csv
 import hashlib
 import json
 import os
@@ -27,6 +32,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "output"
 RESULTS = OUTPUT / "results"
+BUILD = OUTPUT / "build"
 LOGS = OUTPUT / "logs"
 SETTINGS = OUTPUT / "run_settings.json"
 SUMMARY = OUTPUT / "run_summary.json"
@@ -149,14 +155,15 @@ def unit_digest(doc) -> list:
 
 
 def load_all() -> tuple[list[dict], dict]:
-    """[(list name, [doc_id, ...])] in run order, and doc_id -> Document."""
+    """[{name, doc_ids, build}] in run order, and doc_id -> Document."""
     lists, docs = [], {}
     for entry in harvest_lists():
         ids = []
         for d in ingest(ROOT / "harvests" / entry["manifest"]):
             docs.setdefault(d.doc_id, d)
             ids.append(d.doc_id)
-        lists.append({"name": entry["name"], "doc_ids": ids})
+        lists.append({"name": entry["name"], "doc_ids": ids,
+                      "build": bool(entry.get("build"))})
     return lists, docs
 
 
@@ -185,10 +192,46 @@ def check_against_reference(docs: dict) -> None:
 # --- providers ---------------------------------------------------------------
 
 
+def _fake_answer(kind: str, stdin_text: str) -> dict:
+    """What the stand-in for Codex answers. Valid, and meaningless."""
+    if kind == "select":
+        # The longest selectable sentence: likelier to pass validation than a
+        # greeting, so the build stages get something to work on.
+        lines = [line for line in stdin_text.splitlines()
+                 if ".P" in line.split(":", 1)[0] and "not selectable" not in line]
+        if not lines:
+            return {"observations": []}
+        pick = max(lines, key=len).split(":", 1)[0]
+        return {"observations": [
+            {"unit_ids": [pick], "anchor": None, "reason": "acceptance test"}]}
+    if kind == "classify":
+        return {"mechanism": "acceptance test",
+                "codes": [{"code": "J24", "strength": 1}]}
+    if kind == "triage":
+        ids = [line.split(":", 1)[1].strip() for line in stdin_text.splitlines()
+               if line.startswith("quote_id:")]
+        return {"items": [{"quote_id": q, "needs_context": False, "expressions": []}
+                          for q in ids]}
+    if kind == "resolve":
+        ids = [line.split(":", 1)[1].strip() for line in stdin_text.splitlines()
+               if line.startswith("quote_id:")]
+        return {"items": [{"quote_id": q, "status": "not_needed", "insertions": [],
+                           "note": "acceptance test"} for q in ids]}
+    # intention: the cue must be words from the QUOTE
+    quote = (stdin_text.split("\nQUOTE\n", 1)[1].splitlines()[0]
+             if "\nQUOTE\n" in stdin_text else "")
+    cue = " ".join(quote.split()[:3]) or "acceptance"
+    return {"broad": "unclear", "sub": None, "evidence_type": None,
+            "secondary_broad": None, "secondary_sub": None, "cue": cue,
+            "has_quantified_target": False, "target_cue": None,
+            "claims_causal_effect": False, "causal_cue": None,
+            "rationale": "acceptance test"}
+
+
 def fake_codex(delay: float):
     """A stand-in for the `codex` program, for testing the bundle without
     Codex. It answers like Codex does, through the real provider code, and
-    never selects anything a person would rely on."""
+    never produces anything a person would rely on."""
     def run(args, stdin_text, cwd, timeout):
         from eps import cli_schemas
 
@@ -199,15 +242,7 @@ def fake_codex(delay: float):
         instructions = next(c for c in configs
                             if c.startswith("model_instructions_file="))
         system = Path(instructions.split("=", 1)[1].strip("'")).read_text(encoding="utf-8")
-        if cli_schemas.call_kind(system) == "select":
-            ids = [line.split(":", 1)[0] for line in stdin_text.splitlines()
-                   if ".P" in line.split(":", 1)[0] and "not selectable" not in line]
-            answer = {"observations": [
-                {"unit_ids": ids[:1], "anchor": None, "reason": "acceptance test"}]
-                if ids else []}
-        else:
-            answer = {"mechanism": "acceptance test",
-                      "codes": [{"code": "J24", "strength": 1}]}
+        answer = _fake_answer(cli_schemas.call_kind(system), stdin_text)
         out = Path(args[args.index("-o") + 1])
         out.write_text(json.dumps(answer), encoding="utf-8")
         return 0, "", ""
@@ -266,7 +301,13 @@ def check_settings(provider) -> dict:
     settings = {"provider": provider.name, "model": provider.model,
                 "effort": provider.effort, "prompt_version": PROMPT_VERSION,
                 "prompt_fingerprint": prompt_fingerprint()}
-    if SETTINGS.exists():
+    # Settings lock once a document has been completed with them. Before that
+    # nothing would be mixed, so a first attempt with a model the account
+    # cannot use (every call fails) does not trap the run on that model.
+    locked = RESULTS.exists() and any(
+        json.loads(p.read_text(encoding="utf-8")).get("status") == "complete"
+        for p in RESULTS.glob("*.json"))
+    if SETTINGS.exists() and locked:
         previous = json.loads(SETTINGS.read_text(encoding="utf-8"))
         keep = {k: previous.get(k) for k in settings}
         if keep != settings:
@@ -281,18 +322,21 @@ def check_settings(provider) -> dict:
     return settings
 
 
-# --- the run -----------------------------------------------------------------
+# --- stage 1: extract --------------------------------------------------------
 
 
 def result_path(doc_id: str) -> Path:
     return RESULTS / f"{doc_id}.json"
 
 
-def read_status(doc_id: str) -> str | None:
+def read_result(doc_id: str) -> dict | None:
     p = result_path(doc_id)
-    if not p.exists():
-        return None
-    return json.loads(p.read_text(encoding="utf-8")).get("status")
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else None
+
+
+def read_status(doc_id: str) -> str | None:
+    r = read_result(doc_id)
+    return r.get("status") if r else None
 
 
 def process(doc, list_name, extractor, provider, officeholders) -> dict:
@@ -313,7 +357,7 @@ def process(doc, list_name, extractor, provider, officeholders) -> dict:
                 "detail": warning, "observations": [], "finished_at": now()}
 
     first_call = len(provider.call_log)
-    provider.context = {"harvest": list_name, "doc_id": doc.doc_id}
+    provider.context = {"stage": "extract", "harvest": list_name, "doc_id": doc.doc_id}
     try:
         obs = extractor.extract(doc, speaker, run_id=f"codex-bundle:{list_name}")
     except ProviderStopped:
@@ -333,40 +377,174 @@ def process(doc, list_name, extractor, provider, officeholders) -> dict:
             "calls": provider.call_log[first_call:], "finished_at": now()}
 
 
-def summarise(lists: list[dict], stopped: str | None, attempted: int) -> dict:
+def extract_all(lists, docs, extractor, provider, officeholders, limit) -> tuple:
+    """Work through every list in order, then retry what failed once.
+    Returns (stopped, detail, attempted)."""
+    from eps.providers import ProviderStopped
+
+    attempted, stopped, detail = 0, None, ""
+    consecutive_failures = 0
+    for pass_no in (1, 2):
+        seen: set[str] = set()
+        for entry in lists:
+            todo = [d for d in entry["doc_ids"]
+                    if d not in seen and read_status(d) not in DONE]
+            seen.update(entry["doc_ids"])
+            if pass_no == 2 and not todo:
+                continue
+            label = "retrying failed documents" if pass_no == 2 else \
+                f"{len(entry['doc_ids'])} documents, {len(todo)} to do"
+            log(f"{entry['name']}: {label}")
+            if not todo:
+                continue
+            if pass_no == 1:
+                save_prompt_snapshot(provider, entry["name"])
+            for i, doc_id in enumerate(todo, 1):
+                if limit and attempted >= limit:
+                    return f"--limit {limit} reached", "", attempted
+                try:
+                    result = process(docs[doc_id], entry["name"], extractor,
+                                     provider, officeholders)
+                except ProviderStopped as exc:
+                    return getattr(exc, "failure_class", exc.reason), exc.detail, attempted
+                write_json(result_path(doc_id), result)
+                if result["status"] != "not_sent":
+                    attempted += 1
+                if result["status"] == "failed":
+                    consecutive_failures += 1
+                    log(f"  ! {doc_id} failed ({result['failure_class']}): "
+                        f"{result['detail'][:200]}")
+                    if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+                        return ("repeated failures",
+                                f"the last {consecutive_failures} documents all "
+                                f"failed, most recently with "
+                                f"{result['failure_class']}: {result['detail'][:300]}",
+                                attempted)
+                elif result["status"] == "complete":
+                    consecutive_failures = 0
+                if i % 10 == 0 or i == len(todo):
+                    log(f"  {entry['name']}: {i}/{len(todo)}")
+    return stopped, detail, attempted
+
+
+# --- stage 2: build ----------------------------------------------------------
+
+
+def observation_from_dict(d: dict):
+    from eps.models import JELAssignment, Observation
+
+    d = dict(d)
+    d["primary"] = JELAssignment(**d.get("primary") or {})
+    d["secondary"] = [JELAssignment(**s) for s in d.get("secondary") or []]
+    return Observation(**d)
+
+
+def build_one(entry: dict, docs: dict, provider, officeholders) -> dict:
+    """Context, intention tagging, validation and tables for one harvest.
+
+    Neither the context stage nor the intention tagger lets a usage limit
+    escape: both record the affected quotes as failed and carry on. So a stop
+    is read from the provider's own call log instead, and the build is then
+    reported as stopped rather than finished, to be re-run later.
+    """
+    from eps.context import Contextualiser
+    from eps.extract import ResponseCache
+    from eps.intention import IntentionTagger
+    from eps.pipeline import build, load_taxonomy, run_context
+    from eps.providers import CLI_STOPPING
+
+    name = entry["name"]
+    out_dir = BUILD / name
+    documents = [docs[d] for d in entry["doc_ids"]]
+    extractions = {d: [observation_from_dict(o)
+                       for o in (read_result(d) or {}).get("observations") or []]
+                   for d in entry["doc_ids"]}
+    cache = ResponseCache(OUTPUT / "cache")
+    first_call = len(provider.call_log)
+
+    def stopped_class() -> str | None:
+        for c in provider.call_log[first_call:]:
+            if c.get("failure_class") in CLI_STOPPING:
+                return c["failure_class"]
+        return None
+
+    log(f"{name}: context stage")
+    provider.context = {"stage": "context", "harvest": name}
+    try:
+        mapping, ctx = run_context(documents, extractions,
+                                   Contextualiser(provider=provider, cache=cache),
+                                   officeholders, out_dir)
+        if stopped_class():
+            return {"harvest": name, "status": "stopped", "stopped": stopped_class()}
+
+        log(f"{name}: intention tagging and output tables")
+        provider.context = {"stage": "intention", "harvest": name}
+        summary = build(documents, extractions, load_taxonomy(), officeholders,
+                        out_dir, run_id=f"codex-bundle:{name}", context=mapping,
+                        intention_tagger=IntentionTagger(provider=provider, cache=cache))
+    finally:
+        provider.context = {}
+    if stopped_class():
+        return {"harvest": name, "status": "stopped", "stopped": stopped_class()}
+
+    intention = summary["intention"]
+    ctx_failed = sum(n for k, n in ctx["by_status"].items() if k.startswith("failed"))
+    int_failed = intention.get("not_tagged", 0) if intention.get("status") == "tagged" else 0
+    record = {
+        "harvest": name,
+        "status": "complete" if not (ctx_failed or int_failed) else "finished with failures",
+        "documents": len(documents),
+        "quotes_kept": summary["observations_kept"],
+        "quotes_rejected": summary["observations_rejected"],
+        "context": ctx["by_status"],
+        "intention": {k: intention.get(k) for k in
+                      ("tagged", "not_tagged", "unclear", "failure_reasons")},
+        "files": summary["files"],
+        "built_at": now(),
+    }
+    write_json(out_dir / "build_status.json", record)
+    log(f"{name}: {record['quotes_kept']} quotes kept; context failures "
+        f"{ctx_failed}; intention not tagged {int_failed} -> output/build/{name}/")
+    return record
+
+
+# --- summary and the run -----------------------------------------------------
+
+
+def summarise(lists: list[dict], stopped: str | None, attempted: int,
+              builds: list[dict]) -> dict:
     per_list = []
     for entry in lists:
         counts: dict[str, int] = {}
         for doc_id in entry["doc_ids"]:
-            p = result_path(doc_id)
-            if not p.exists():
-                key = "not yet done"
-            else:
-                r = json.loads(p.read_text(encoding="utf-8"))
-                key = (f"failed: {r['failure_class']}" if r["status"] == "failed"
-                       else f"not sent: {r['reason']}" if r["status"] == "not_sent"
-                       else "complete")
+            r = read_result(doc_id)
+            key = ("not yet done" if r is None
+                   else f"failed: {r['failure_class']}" if r["status"] == "failed"
+                   else f"not sent: {r['reason']}" if r["status"] == "not_sent"
+                   else "complete")
             counts[key] = counts.get(key, 0) + 1
         per_list.append({"harvest": entry["name"], "documents": len(entry["doc_ids"]),
                          "counts": dict(sorted(counts.items()))})
     summary = {"written_at": now(), "stopped": stopped,
-               "attempted_this_session": attempted, "harvests": per_list}
+               "attempted_this_session": attempted, "extract": per_list,
+               "build": builds}
     write_json(SUMMARY, summary)
     return summary
 
 
 def print_summary(summary: dict) -> None:
     log(f"documents attempted this session: {summary['attempted_this_session']}")
-    for h in summary["harvests"]:
+    for h in summary["extract"]:
         log(f"  {h['harvest']} ({h['documents']} documents)")
         for key, n in h["counts"].items():
             log(f"      {n:>5}  {key}")
+    for b in summary["build"]:
+        log(f"  build {b['harvest']}: {b['status']}")
 
 
 def run(args) -> int:
     from eps.extract import Extractor, ResponseCache
     from eps.pipeline import load_officeholders, load_taxonomy
-    from eps.providers import ProviderStopped
 
     provider = make_provider(args)
     settings = check_settings(provider)
@@ -380,58 +558,32 @@ def run(args) -> int:
                           cache=ResponseCache(OUTPUT / "cache"))
     officeholders = load_officeholders()
 
-    attempted, stopped, detail = 0, None, ""
-    consecutive_failures = 0
-    seen: set[str] = set()
+    builds: list[dict] = []
+    stopped, detail, attempted = None, "", 0
     try:
-        for entry in lists:
-            todo = [d for d in entry["doc_ids"]
-                    if d not in seen and read_status(d) not in DONE]
-            seen.update(entry["doc_ids"])
-            log(f"{entry['name']}: {len(entry['doc_ids'])} documents, "
-                f"{len(todo)} to do")
-            if not todo:
-                continue
-            save_prompt_snapshot(provider, entry["name"])
-            for i, doc_id in enumerate(todo, 1):
-                if args.limit and attempted >= args.limit:
-                    stopped = f"--limit {args.limit} reached"
+        stopped, detail, attempted = extract_all(lists, docs, extractor, provider,
+                                                 officeholders, args.limit)
+        extract_failed = any(read_status(d) not in DONE
+                             for e in lists for d in e["doc_ids"])
+        if not stopped and not extract_failed:
+            for entry in lists:
+                if not entry["build"]:
+                    continue
+                record = build_one(entry, docs, provider, officeholders)
+                builds.append(record)
+                if record["status"] == "stopped":
+                    stopped = record["stopped"]
                     break
-                try:
-                    result = process(docs[doc_id], entry["name"], extractor,
-                                     provider, officeholders)
-                except ProviderStopped as exc:
-                    stopped = getattr(exc, "failure_class", exc.reason)
-                    detail = exc.detail
-                    break
-                write_json(result_path(doc_id), result)
-                if result["status"] != "not_sent":
-                    attempted += 1
-                if result["status"] == "failed":
-                    consecutive_failures += 1
-                    log(f"  ! {doc_id} failed ({result['failure_class']}): "
-                        f"{result['detail'][:200]}")
-                    if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
-                        stopped = "repeated failures"
-                        detail = (f"the last {consecutive_failures} documents all "
-                                  f"failed, most recently with "
-                                  f"{result['failure_class']}: {result['detail'][:300]}")
-                        break
-                elif result["status"] == "complete":
-                    consecutive_failures = 0
-                if i % 10 == 0 or i == len(todo):
-                    log(f"  {entry['name']}: {i}/{len(todo)}")
-            if stopped:
-                break
     except KeyboardInterrupt:
         stopped = "interrupted"
     finally:
         provider.close()
 
-    summary = summarise(lists, stopped, attempted)
+    summary = summarise(lists, stopped, attempted, builds)
     print_summary(summary)
-    failed = sum(n for h in summary["harvests"] for k, n in h["counts"].items()
-                 if k.startswith("failed"))
+    extract_failed = sum(n for h in summary["extract"] for k, n in h["counts"].items()
+                         if k.startswith("failed"))
+    build_failed = [b["harvest"] for b in builds if b["status"] != "complete"]
 
     if stopped == "usage_limit":
         log("STOPPED: Codex reported a usage limit. Nothing is lost. Run the "
@@ -449,19 +601,33 @@ def run(args) -> int:
         return EXIT_STOPPED
     if stopped == "repeated failures":
         log(f"STOPPED: {detail}\nThis usually means the --model or --effort "
-            "is not available to your account (README step 5). Fix that and run "
-            "the same command again; finished documents are kept.")
+            "is not available to your account. Fix that and run the same "
+            "command again; finished documents are kept.")
         return EXIT_STOPPED
     if stopped:
         log(f"STOPPED: {stopped}: {detail[:300]}\nRun the same command again "
             "to continue; finished documents are kept.")
         return EXIT_STOPPED
-    if failed:
-        log(f"FINISHED with {failed} failed document(s). Run the same command "
-            "again to retry only those.")
+    if extract_failed:
+        log(f"FINISHED EXTRACTING with {extract_failed} failed document(s), so the "
+            "build has not run. Run the same command again to retry them.")
         return EXIT_FAILURES
-    log("FINISHED: every document is done. Zip the output folder and upload it "
-        "(README step 8).")
+    if build_failed:
+        log(f"FINISHED with some failed model calls in the build for "
+            f"{', '.join(build_failed)}. Run the same command again to retry "
+            "them; answers already received are reused.")
+        return EXIT_FAILURES
+    log("FINISHED: every document is extracted and both datasets are built "
+        "(output/build/). Zip the output folder and upload it.")
+    return EXIT_OK
+
+
+def check_only() -> int:
+    """Everything a run checks before its first call, then stop. Writes no
+    settings and starts nothing, so it never blocks the real run."""
+    lists, docs = load_all()
+    check_against_reference(docs)
+    log(f"SETUP OK: {len(docs)} documents in {len(lists)} lists; ready to run.")
     return EXIT_OK
 
 
@@ -475,9 +641,12 @@ def write_reference(path: Path) -> int:
 
 def main(argv=None) -> int:
     p = argparse.ArgumentParser(
-        description="Run eps extraction through the Codex CLI. See README.md.")
-    p.add_argument("--model", help="the OpenAI model Codex should use (README step 5)")
-    p.add_argument("--effort", help="the reasoning effort (README step 5)")
+        description="Run the eps pipeline (extract and build) through the Codex "
+                    "CLI. See README.md.")
+    p.add_argument("--model", help="the OpenAI model Codex should use")
+    p.add_argument("--effort", help="the reasoning effort")
+    p.add_argument("--check", action="store_true",
+                   help="check the set-up and stop; starts no run")
     p.add_argument("--provider", choices=["codex", "fake"], default="codex",
                    help="'fake' tests the bundle without calling Codex")
     p.add_argument("--limit", type=int, default=0,
@@ -490,15 +659,15 @@ def main(argv=None) -> int:
     if sys.version_info < (3, 11):
         stop("This needs Python 3.11 or newer; this is Python "
              f"{sys.version.split()[0]}. Install a newer one (README step 1), "
-             "delete the .venv folder inside this folder, and repeat step 4.")
+             "delete the .venv folder inside this folder, and set up again.")
     sys.path.insert(0, str(ROOT / "eps" / "src"))
     if args.write_reference:
         return write_reference(args.write_reference)
 
     from_codex = args.provider == "codex"
-    if from_codex and not (args.model and args.effort):
-        stop("Choose a model and a reasoning effort first (README step 5), "
-             "then run the command in README step 6 with both filled in.")
+    if from_codex and not args.check and not (args.model and args.effort):
+        stop("Choose a model and a reasoning effort first, then run:\n"
+             "  run_pipeline.py --model <model> --effort <level>")
 
     check_checksums()
     if from_codex:
@@ -508,14 +677,13 @@ def main(argv=None) -> int:
         import lxml  # noqa: F401  # the one compiled dependency
         import eps.extract  # noqa: F401
     except ImportError as exc:
-        stop(f"A required package is missing ({exc.name}). Follow README "
-             "step 4 to set up the environment, then run again.")
-    try:
-        from eps.providers import CodexCLIProvider
-        if from_codex and args.effort not in CodexCLIProvider.EFFORTS:
-            stop(f"--effort must be one of: {', '.join(CodexCLIProvider.EFFORTS)}")
-    except ImportError:  # pragma: no cover - covered by the check above
-        pass
+        stop(f"A required package is missing ({exc.name}). Set up the "
+             "environment (README step 4), then run again.")
+    if args.check:
+        return check_only()
+    from eps.providers import CodexCLIProvider
+    if from_codex and args.effort not in CodexCLIProvider.EFFORTS:
+        stop(f"--effort must be one of: {', '.join(CodexCLIProvider.EFFORTS)}")
     return run(args)
 
 

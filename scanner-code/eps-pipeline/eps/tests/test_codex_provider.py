@@ -267,3 +267,62 @@ def test_extractor_runs_unchanged_on_the_codex_provider(tmp_path):
     assert obs[0].provider == "codex" and obs[0].model_id == "gpt-test"
     assert obs[0].primary.detailed_code == "J24"
     assert [r["call_kind"] for r in p.call_log] == ["select", "classify"]
+
+
+# --- the build-stage prompts -----------------------------------------------
+
+from eps.context import RESOLVE_SYSTEM, TRIAGE_SYSTEM, _parse_json_list
+from eps.intention import INTENTION_PROMPT, parse_response
+
+TRIAGE_OK = {"items": [{"quote_id": "q1", "needs_context": True,
+                        "expressions": ["this policy"]}]}
+RESOLVE_OK = {"items": [{"quote_id": "q1", "status": "resolved", "note": None,
+                         "insertions": [{"position": "after", "anchor": "this policy",
+                                         "insertion": "the levy cap", "evidence": "levy cap"}]}]}
+INTENTION_OK = {"broad": "commits_to_action", "sub": "announces_decision",
+                "evidence_type": None, "secondary_broad": None, "secondary_sub": None,
+                "cue": "We will raise", "has_quantified_target": True,
+                "target_cue": "50 per cent", "claims_causal_effect": False,
+                "causal_cue": None, "rationale": "A decision announced."}
+
+
+@pytest.mark.parametrize("system, answer, kind", [
+    (TRIAGE_SYSTEM, TRIAGE_OK, "triage"),
+    (RESOLVE_SYSTEM, RESOLVE_OK, "resolve"),
+])
+def test_context_calls_get_the_bare_list_their_prompt_asks_for(tmp_path, system, answer, kind):
+    run = FakeRun(answer)
+    p = provider(tmp_path, run)
+    text = p.call(system, "quote_id: q1\nquotation: x", 4000)
+    assert json.loads(text) == answer["items"]
+    assert _parse_json_list(text) == answer["items"]   # context.py's own parser
+    args = run.calls[0]["args"]
+    schema = json.loads(Path(args[args.index("--output-schema") + 1]).read_text(encoding="utf-8"))
+    assert schema == cli_schemas.SCHEMAS[kind]
+    assert p.call_log[0]["call_kind"] == kind
+
+
+def test_intention_call_returns_an_object_the_tagger_parses(tmp_path):
+    p = provider(tmp_path, FakeRun(INTENTION_OK))
+    text = p.call(INTENTION_PROMPT, "QUOTE\nWe will raise the cap.", 1200)
+    assert parse_response(text) == INTENTION_OK
+    assert p.call_log[0]["call_kind"] == "intention"
+
+
+def test_triage_answer_missing_a_field_is_schema_mismatch(tmp_path):
+    exc = _failure(tmp_path, FakeRun({"items": [{"quote_id": "q1", "expressions": []}]}),
+                   system=TRIAGE_SYSTEM)
+    assert exc.failure_class == "schema_mismatch"
+
+
+def test_every_schema_is_strict():
+    def walk(node):
+        if isinstance(node, dict):
+            if node.get("type") == "object":
+                assert node["additionalProperties"] is False
+                assert set(node["required"]) == set(node["properties"])
+            for v in node.values():
+                walk(v)
+    for schema in cli_schemas.SCHEMAS.values():
+        assert schema["type"] == "object"
+        walk(schema)

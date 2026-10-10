@@ -31,11 +31,12 @@ EPS = Path(__file__).resolve().parent.parent           # .../eps-pipeline/eps
 EPS_REL = "scanner-code/eps-pipeline/eps"                 # EPS, relative to the repo
 DEFAULT_OUT = EPS.parents[2].parent / "eps-bundle-staging"
 
-#: Exactly the modules the extraction path imports (checked when this was
-#: written by importing eps.extract, eps.harvest.local, eps.pipeline,
-#: eps.providers and eps.validate and listing sys.modules).
+#: Exactly the modules extract and build import (checked by importing
+#: eps.extract, eps.harvest.local, eps.pipeline, eps.providers, eps.validate,
+#: eps.context and eps.intention and listing sys.modules).
 PACKAGE_FILES = [
     "src/eps/__init__.py", "src/eps/assemble.py", "src/eps/cli_schemas.py",
+    "src/eps/context.py", "src/eps/intention.py",
     "src/eps/extract.py", "src/eps/jel.py", "src/eps/models.py",
     "src/eps/normalise.py", "src/eps/pipeline.py", "src/eps/providers.py",
     "src/eps/validate.py",
@@ -49,21 +50,26 @@ PACKAGE_FILES = [
     "pyproject.toml",
 ]
 #: Bundle files that sit at the bundle's root.
-ROOT_FILES = {"bundle/run_extract.py": "run_extract.py",
-              "bundle/README.md": "README.md",
-              "bundle/requirements.txt": "requirements.txt"}
+ROOT_FILES = [("bundle/run_pipeline.py", "run_pipeline.py"),
+              ("bundle/README.md", "README.md"),
+              ("bundle/INSTRUCTIONS_FOR_CODEX.md", "INSTRUCTIONS_FOR_CODEX.md"),
+              # Codex reads AGENTS.md by itself when this folder is its project.
+              ("bundle/INSTRUCTIONS_FOR_CODEX.md", "AGENTS.md"),
+              ("bundle/requirements.txt", "requirements.txt")]
 
 #: The harvests, in the order the runner works through them. The July lists
 #: are subsets of the full ones, so they come first and the full lists then
-#: skip what is already done.
+#: skip what is already done. Only the full lists are built: the July
+#: datasets are their July rows, and building them separately would pay for
+#: the same context and intention calls twice.
 HARVESTS = [
     {"name": "jul2026-uk", "folder": "uk", "file": "snapshot_jul2026.csv",
      "source": f"{EPS_REL}/manifest_jul2026_uk.csv"},
     {"name": "jul2026-us", "folder": "us", "file": "snapshot_jul2026.csv",
      "source": f"{EPS_REL}/manifest_jul2026_us.csv"},
-    {"name": "uk-full", "folder": "uk", "file": "manifest.csv",
+    {"name": "uk-full", "folder": "uk", "file": "manifest.csv", "build": True,
      "source": "harvest-code/uk-harvest/manifest_uk_full.csv"},
-    {"name": "us-full", "folder": "us", "file": "manifest.csv",
+    {"name": "us-full", "folder": "us", "file": "manifest.csv", "build": True,
      "source": "harvest-code/us-harvest/manifest_us_full.csv"},
 ]
 DOCUMENT_DIRS = {"uk": "harvest-code/uk-harvest/documents_v2",
@@ -123,7 +129,7 @@ def build(ref: str, out_dir: Path) -> int:
         dest = stage / "eps" / rel
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_bytes(show(commit, f"{EPS_REL}/{rel}"))
-    for rel, name in ROOT_FILES.items():
+    for rel, name in ROOT_FILES:
         (stage / name).write_bytes(show(commit, f"{EPS_REL}/{rel}"))
 
     # 2. harvests: manifests rewritten to paths relative to themselves, and
@@ -159,7 +165,8 @@ def build(ref: str, out_dir: Path) -> int:
         w.writerows(rows)
         (stage / "harvests" / folder / h["file"]).write_text(buf.getvalue(),
                                                              encoding="utf-8")
-        listing.append({"name": h["name"], "manifest": f"{folder}/{h['file']}"})
+        listing.append({"name": h["name"], "manifest": f"{folder}/{h['file']}",
+                        "build": h.get("build", False)})
         print(f"  {h['name']:<11} {len(rows):>5} documents")
 
     # The July lists must be subsets of the full ones: nothing duplicated.
@@ -176,7 +183,7 @@ def build(ref: str, out_dir: Path) -> int:
         f"ref {ref}\ncommit {commit}\n", encoding="utf-8")
 
     # 3. what ingest produces from these files, with the ref's own code
-    subprocess.run([sys.executable, "-I", "-B", str(stage / "run_extract.py"),
+    subprocess.run([sys.executable, "-I", "-B", str(stage / "run_pipeline.py"),
                     "--write-reference", str(stage / "reference_units.json")],
                    cwd=stage, check=True)
 
