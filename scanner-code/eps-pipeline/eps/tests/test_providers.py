@@ -161,7 +161,7 @@ def test_jel_code_list_is_a_cached_identical_system_prefix(doc, tmp_path):
                 class B: type = "text"
                 b = B()
                 b.text = (_canned_responder("", user) if "DOCUMENT UNITS:" in user
-                          else json.dumps({"mechanism": "m", "codes": []}))
+                          else '{"items": [{"item_id": "item_1", "status": "no_defensible_economic_match", "codes": [], "comments": "c"}]}')
                 class U:
                     input_tokens, output_tokens = 10, 5
                     cache_creation_input_tokens = 0 if len(sent) > 2 else 100
@@ -180,9 +180,9 @@ def test_jel_code_list_is_a_cached_identical_system_prefix(doc, tmp_path):
     first, second = (kw["system"][0] for kw in jel_calls)
     assert first == second                                   # identical prefix
     assert first["cache_control"] == {"type": "ephemeral"}
-    assert "ACTIVE JEL CODES" in first["text"]
+    assert "JEL TAXONOMY (" in first["text"]
     for kw in jel_calls:                                      # list not repeated
-        assert "ACTIVE JEL CODES" not in kw["messages"][0]["content"]
+        assert "JEL TAXONOMY (" not in kw["messages"][0]["content"]
 
     selection = [kw for kw in sent if isinstance(kw["system"], str)]
     assert len(selection) == 1                               # selection uncached

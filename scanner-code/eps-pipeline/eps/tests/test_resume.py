@@ -59,7 +59,7 @@ class ScriptedClient:
                     text = json.dumps({"observations": [
                         {"unit_ids": ids[:1], "anchor": None, "reason": "q"}]})
                 else:
-                    text = json.dumps({"mechanism": "m", "codes": []})
+                    text = '{"items": [{"item_id": "item_1", "status": "no_defensible_economic_match", "codes": [], "comments": "c"}]}'
 
                 class B: type = "text"
                 b = B()

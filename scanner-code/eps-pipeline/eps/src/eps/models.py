@@ -99,6 +99,9 @@ class JELAssignment:
     # quantity from the EPS relevance score. An observation the classifier
     # declines to code scores 0 and is rejected rather than published.
     match_strength: int = 0
+    # The classifier's one-sentence reason for this code (protocol v2.0).
+    # Recorded for human review only, like Observation.reason.
+    rationale: str = ""
 
     def is_empty(self) -> bool:
         return not (self.major_code or self.sub_code or self.detailed_code)
@@ -116,8 +119,19 @@ class Observation:
     unit_ids: list[str]
     quote: str = ""  # reconstructed by code, never model-authored
     anchor: Optional[str] = None  # optional sub-sentence span, exact-matched
+    # JEL classification protocol v2.0: zero to three UNORDERED codes, stored
+    # alphabetically for convenience only. `primary` is the alphabetically
+    # first code and `secondary` the rest; neither name implies a ranking any
+    # more. The fields keep their names so older runs still unpickle.
     primary: JELAssignment = field(default_factory=JELAssignment)
     secondary: list[JELAssignment] = field(default_factory=list)
+    # Protocol v2.0 status: coded | no_defensible_economic_match |
+    # not_research_item | needs_more_context. Empty when not classified.
+    jel_status: str = ""
+    # The classifier's one-sentence comment on exclusions, uncertainty or
+    # incomplete coverage of a compound item. Empty otherwise.
+    jel_comments: str = ""
+    jel_protocol: str = ""  # e.g. "JEL-v2.0"; empty for rows coded before it
     # The model's stated justification. Recorded for human review only:
     # it is generated after the selection, so it is a plausible account of the
     # choice, not evidence about how the choice was made.
@@ -126,7 +140,8 @@ class Observation:
     # in Stage 2 before choosing a code. Stated ahead of the code rather than
     # after it, but position within one response is not evidence of causation,
     # so this gets the same treatment as `reason`: recorded for human review,
-    # never fed back into a prompt.
+    # never fed back into a prompt. Not produced under JEL protocol v2.0, which
+    # gives a rationale per code instead; kept so older runs still load.
     mechanism: str = ""
     # provenance
     provider: str = ""          # "anthropic" | "mistral" | "fake"

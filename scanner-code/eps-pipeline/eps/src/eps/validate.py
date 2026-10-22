@@ -310,9 +310,23 @@ def validate_jel(obs: Observation, tax: JELTaxonomy) -> str:
     rather than being published with blank codes. The extractor thought the
     passage was economics and the classifier did not; the disagreement is
     recorded, and the row stays out of the release.
+
+    Under JEL protocol v2.0 the classifier also gives a status. Any status but
+    "coded" is the reason itself (no_defensible_economic_match,
+    not_research_item, needs_more_context), with its comment, so the three
+    kinds of set-aside stay distinguishable in rejected.csv. Observations
+    coded before v2.0 have no status and are judged on their codes alone.
     """
     assignments = [obs.primary] + list(obs.secondary)
+    status = getattr(obs, "jel_status", "")
+    comments = getattr(obs, "jel_comments", "")
+    if getattr(obs, "jel_protocol", "") and status != "coded":
+        why = f"classifier status {status}" if status else "classifier gave no usable status"
+        return f"{why}: {comments}" if comments else why
     if obs.primary.is_empty():
+        if status == "coded":
+            return (f"classifier status coded but no usable code"
+                    + (f": {comments}" if comments else ""))
         return "no defensible economic object: classifier assigned no JEL code"
     if len(obs.secondary) > 2:
         return "more than two secondary classifications"
