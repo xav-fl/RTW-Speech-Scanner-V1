@@ -47,6 +47,8 @@ PACKAGE_FILES = [
     "src/eps/reference/officeholders.csv", "src/eps/reference/jel_codes.csv",
     "src/eps/reference/institutions.csv",
     "data/reference/jel_codes_active_20260828.csv",
+    "data/reference/jel_classification_protocol_v2.0.txt",
+    "data/reference/jel_taxonomy_compact.txt",
     "pyproject.toml",
 ]
 #: Bundle files that sit at the bundle's root.

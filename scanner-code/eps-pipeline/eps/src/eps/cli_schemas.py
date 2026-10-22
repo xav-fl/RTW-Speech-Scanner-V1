@@ -5,7 +5,7 @@ shape back, so there are five schemas. Each mirrors exactly what its caller
 parses:
 
   select    Extractor.select_units()   {"observations": [{unit_ids, anchor, reason}]}
-  classify  Extractor.classify()       {"mechanism", "codes": [{code, strength}]}
+  classify  Extractor.classify()       {"items": [{item_id, status, codes, comments}]}
   triage    Contextualiser.triage()    [{quote_id, needs_context, expressions}]
   resolve   Contextualiser.resolve()   [{quote_id, status, insertions, note}]
   intention IntentionTagger.tag_one()  {broad, sub, ..., rationale}
@@ -55,21 +55,34 @@ SELECT_SCHEMA = {
 CLASSIFY_SCHEMA = {
     "type": "object",
     "properties": {
-        "mechanism": {"type": "string"},
-        "codes": {
+        "items": {
             "type": "array",
             "items": {
                 "type": "object",
                 "properties": {
-                    "code": {"type": "string"},
-                    "strength": {"type": "integer", "enum": [1, 2, 3]},
+                    "item_id": {"type": "string"},
+                    "status": {"type": "string"},
+                    "codes": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "code": {"type": "string"},
+                                "strength": {"type": "integer", "enum": [1, 2, 3]},
+                                "rationale": {"type": "string"},
+                            },
+                            "required": ["code", "strength", "rationale"],
+                            "additionalProperties": False,
+                        },
+                    },
+                    "comments": {"type": "string"},
                 },
-                "required": ["code", "strength"],
+                "required": ["item_id", "status", "codes", "comments"],
                 "additionalProperties": False,
             },
         },
     },
-    "required": ["mechanism", "codes"],
+    "required": ["items"],
     "additionalProperties": False,
 }
 
@@ -172,7 +185,7 @@ def schema_hash(kind: str) -> str:
 def call_kind(system: str) -> str | None:
     """Which pipeline call a system prompt belongs to, or None.
 
-    The classify prompt is JEL_SYSTEM followed by the active code list, so it
+    The classify prompt is JEL_SYSTEM followed by the JEL taxonomy, so it
     is matched by prefix; every other prompt is matched exactly.
     """
     from .context import RESOLVE_SYSTEM, TRIAGE_SYSTEM

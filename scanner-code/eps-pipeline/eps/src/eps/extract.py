@@ -4,10 +4,10 @@ Two things make this stage auditable:
 
 1. The model returns *unit IDs*, never quote text. The quote is reconstructed
    from the frozen document in validate.py, so it is verbatim by construction.
-2. JEL classification is a single selection from the flat list of active
-   three-character codes. The model picks codes; it never picks a branch, and
-   it never supplies a parent or a title, which are looked up from the list.
-   A code that is not on the list is refused rather than written.
+2. JEL classification follows the project's frozen protocol (v2.0): a status
+   and zero to three unordered three-character codes from the dated taxonomy.
+   The model never supplies a parent or a title, which are looked up from the
+   active list. A code that is not on the list is refused rather than written.
 
 The document is supplied in full; the model does no searching. Every call is
 cached by a hash of its inputs so a re-run replays rather than re-queries.
@@ -36,6 +36,11 @@ from .providers import AnthropicProvider, ModelProvider
 #: specific policy qualify in their own right, and the research question must be
 #: about the selected words rather than a policy described elsewhere (H-100).
 PROMPT_VERSION = "P9-units-blind"
+#: Which JEL classification protocol stage 2 runs. Recorded on every row apart
+#: from PROMPT_VERSION, because PROMPT_VERSION is part of every cache key:
+#: relabelling it would throw away the stage 1 cache along with stage 2's. The
+#: classify cache moves on its own, since its system prompt changed.
+JEL_PROTOCOL_VERSION = "JEL-v2.0"
 DEFAULT_MODEL = "claude-sonnet-4-6"
 
 # What the model is told about who is speaking.
@@ -65,12 +70,14 @@ def prompt_fingerprint() -> str:
     fingerprint that holds still despite one is a false provenance record.
 
     _refine() used to be hashed here too. It selected within a branch and no
-    longer exists.
+    longer exists. The JEL taxonomy text and jel_context() are hashed because
+    both reach the classify prompt.
     """
-    parts = [EXTRACT_SYSTEM, JEL_SYSTEM]
+    parts = [EXTRACT_SYSTEM, JEL_SYSTEM, _reference_text(JEL_TAXONOMY_FILE)]
     for fn in (
         Extractor.build_user_message,
         Extractor.classify,
+        Extractor.jel_context,
     ):
         parts.append(inspect.getsource(fn))
     return hashlib.sha256("".join(parts).encode("utf-8")).hexdigest()[:12]
@@ -191,57 +198,43 @@ Return ONLY JSON, no preamble, no markdown fences:
 "reason": "<the one-line research question, at most 20 words>"}]}
 """
 
-JEL_SYSTEM = """\
-You assign JEL classifications to a quoted policy statement for an academic \
-economics dataset.
+#: JEL classification protocol v2.0 (frozen 15 October 2026), the same text used
+#: elsewhere in the project, so both parts classify on identical instructions.
+#: It is loaded verbatim from the dated reference file rather than copied in
+#: here, so there is one copy to keep in step. Change it only by issuing a new
+#: protocol version under a new filename.
+JEL_PROTOCOL_FILE = "jel_classification_protocol_v2.0.txt"
+#: The dated taxonomy the protocol is run with: the AEA hierarchy, one
+#: `code | title` line per level. Its three-character codes are the same 845
+#: codes as the active list, with identical titles; Extractor checks this.
+JEL_TAXONOMY_FILE = "jel_taxonomy_compact.txt"
 
-Classify the economic content of the QUOTATION, not the identity of the agency \
-that produced it. You will be given the full list of active three-character JEL \
-codes. Choose from that list only, and return codes exactly as they appear in \
-it. Do not invent codes, and do not return a one- or two-character category.
+#: The protocol's four statuses. Only "coded" carries codes.
+JEL_STATUSES = ("coded", "no_defensible_economic_match",
+                "not_research_item", "needs_more_context")
 
-Assign one to three codes. Put the best and most central code first. Add a \
-second or third only when it covers a distinct and important part of the \
-quotation. Do not pad to three.
 
-Rules:
-- When a passage names both a policy area and a policy instrument, classify by \
-the area, not the instrument (a tax change to fund schools is education, not \
-taxation), unless the instrument itself is the substance of the claim.
-- Do not assign C codes unless the statement is actually about measurement, \
-data, forecasting, or methodology.
-- Do not assign H codes merely because a government official is speaking.
-- Do not assign D04 merely because the passage discusses policy.
-- Before selecting any code, identify in a few words the specific mechanism, \
-instrument, population, or outcome the quotation names — a funding formula, a \
-staffing incentive, an eligibility rule, a governance structure, a market \
-intervention, and so on. The codes you choose must match that phrase. This \
-dataset exists to reveal what policymakers are actually choosing to do, so a \
-classification that would fit almost any government statement is not doing its \
-job, whatever its title happens to be.
+def _reference_text(name: str) -> str:
+    from .pipeline import DATA_REFERENCE_DIR
+    return (DATA_REFERENCE_DIR / name).read_text(encoding="utf-8").strip()
 
-Give each code a match strength describing how well it fits. This is a semantic \
-match score, not a probability and not your confidence:
-  3 — direct: the code describes a central part of the quotation;
-  2 — strong: the code clearly fits an important part, but the quotation is \
-broader or less specific;
-  1 — weak: the code is plausible, but substantial interpretation is needed.
 
-Applied fields are economics. A policy on crime, health, schooling, migration, \
-online platforms, defence, aid or conflict has an economic research object \
-when economists study the effects, costs, incentives or distribution of such \
-policies, and it belongs in that applied field — for example K42, I18, I21, \
-F22, L86, H56, F35 or D74 — rather than in a catch-all code such as D78 or H83 \
-that would fit any government statement.
+JEL_SYSTEM = _reference_text(JEL_PROTOCOL_FILE) + "\n"
 
-If the quotation has no defensible economic research or policy object at all — \
-it is ceremonial, rhetorical, procedural, or a statement of fact — return an \
-empty "codes" list. Returning nothing is a valid answer and the observation is \
-set aside; do not reach for a weak code to avoid giving it.
 
-Return ONLY JSON, no preamble, no markdown fences:
-{"mechanism": "<a few words>", "codes": [{"code": "I22", "strength": 3}]}
-"""
+def _check_taxonomy_matches(taxonomy_text: str, active: ActiveJELList) -> None:
+    """Refuse to run if the taxonomy the model sees and the list its answers are
+    checked against have drifted apart: every active code must appear in the
+    taxonomy with the same title, or a correct answer could be refused."""
+    shown: dict[str, str] = {}
+    for line in taxonomy_text.splitlines():
+        code, _, title = line.partition(" | ")
+        shown[code.strip()] = title.strip()
+    for c in active.codes:
+        if shown.get(c.code) != c.title:
+            raise ValueError(
+                f"{JEL_TAXONOMY_FILE} and {active.source or 'the active list'} "
+                f"disagree on {c.code}")
 
 
 class ResponseCache:
@@ -334,12 +327,14 @@ class Extractor:
             from .pipeline import load_active_codes
             active = load_active_codes()
         self.active = active
+        taxonomy_text = _reference_text(JEL_TAXONOMY_FILE)
+        _check_taxonomy_matches(taxonomy_text, active)
         # Built once so it is byte-identical on every classification call, which
         # is what lets the server-side cache be read rather than rewritten.
         self._jel_system = (
             f"{JEL_SYSTEM}\n"
-            f"ACTIVE JEL CODES — choose only from these:\n"
-            f"{active.prompt_lines()}\n"
+            f"JEL TAXONOMY ({JEL_TAXONOMY_FILE}):\n"
+            f"{taxonomy_text}\n"
         )
         self.cache = cache
         self.prompt_version = prompt_version
@@ -424,68 +419,102 @@ class Extractor:
 
     def classify(
         self, quote: str, context: str = ""
-    ) -> tuple[JELAssignment, list[JELAssignment], str]:
-        """Pick one to three three-character codes from the flat active list.
+    ) -> tuple[JELAssignment, list[JELAssignment], str, str]:
+        """Classify one quote under JEL classification protocol v2.0.
 
-        One call, one list, no branch. The previous version chose a major
-        category first and then searched inside it, which meant a wrong turn at
-        the top could not be recovered lower down: the code that actually fitted
-        was never on the table. Here every code competes on every call.
+        The protocol is the system prompt, verbatim, followed by the dated
+        taxonomy; both are the same on every call, so they are cached and only
+        the item travels in the user message. The quote is sent as the
+        protocol's 'Specific item to classify', with `context` as its fixed
+        context, one item per call.
 
-        The model returns codes and strengths only. Parents and titles come from
-        the list by lookup, so it cannot emit a code that does not exist, cannot
-        corrupt a title, and cannot return a level mismatch — the three failure
-        modes the old two-stage path spent its recovery logic on.
+        The model returns a status and zero to three UNORDERED codes, each with
+        a strength and a one-sentence rationale. Parents and titles come from
+        the active list by lookup; a code that is not on it is dropped and the
+        drop is noted in the comments. Codes are stored alphabetically, so
+        `primary` is the alphabetically first code, not the most important.
 
-        Returns (primary, secondary, mechanism). An empty result means the
-        classifier found no defensible economic object; the caller leaves the
-        assignments empty and validation sets the observation aside.
-
-        Prompt caching: the code list is the same 30KB on every call, so it is
-        part of the SYSTEM prompt, which is cached, and only the quotation
-        travels in the user message. It used to sit in the user message AFTER
-        the quotation. A cache is a prefix match, so a list placed behind a
-        changing quotation can never be read back: every one of an estimated
-        4,000 calls in the full run would have paid for the list in full, about
-        four fifths of the whole extract's cost (H-97).
+        Returns (primary, secondary, status, comments). Anything but a "coded"
+        status comes back with empty assignments, and validation sets the
+        observation aside with the status as its reason. An unusable response
+        comes back with an empty status.
         """
-        user = (
-            f"QUOTATION:\n{quote}\n\n"
-            f"{('CONTEXT: ' + context) if context else ''}\n\n"
-            'Return {"mechanism": "<a few words>", '
-            '"codes": [{"code": "<three characters>", "strength": 3}]}'
-        )
-        picked_text = self._call(self._jel_system, user, max_tokens=600,
-                                 cache_system=True)
+        item_id = "item_1"
+        lines = [f"item_id: {item_id}"]
+        if context:
+            lines += ["Fixed context:", context]
+        lines += ["Specific item to classify:", quote]
+        user = "\n".join(lines) + "\n"
+        text = self._call(self._jel_system, user, max_tokens=1200,
+                          cache_system=True)
 
-        picked = _parse_json(picked_text)
-        mechanism = str(picked.get("mechanism") or "").strip()[:200]
+        data = _parse_json(text)
+        items = data.get("items") if isinstance(data, dict) else None
+        record = next((r for r in (items or []) if isinstance(r, dict)
+                       and str(r.get("item_id", "")).strip() == item_id), None)
+        if record is None and items and isinstance(items[0], dict):
+            record = items[0]
+        if record is None:
+            return JELAssignment(), [], "", "[pipeline] no record for the item"
+
+        status = str(record.get("status") or "").strip()
+        comments = str(record.get("comments") or "").strip()[:300]
+        notes: list[str] = []
+        if status not in JEL_STATUSES:
+            notes.append(f"unknown status {status!r}")
+            status = ""
 
         assignments: list[JELAssignment] = []
         seen: set[str] = set()
-        for entry in (picked.get("codes") or [])[:3]:
-            if not isinstance(entry, dict):
-                continue
+        raw_codes = [e for e in (record.get("codes") or []) if isinstance(e, dict)]
+        if status != "coded" and raw_codes:
+            notes.append(f"{len(raw_codes)} code(s) returned with status "
+                         f"{status or 'unknown'} were dropped")
+            raw_codes = []
+        for entry in raw_codes:
             code = str(entry.get("code") or "").strip().upper()
             try:
                 strength = int(entry.get("strength") or 0)
             except (TypeError, ValueError):
                 strength = 0
-
-            # Selection from a fixed list, then verified against it. A code that
-            # is not on the list is dropped rather than written: the old path
-            # could recover a real code at the wrong depth, but there are no
-            # depths here, so anything unrecognised is simply wrong.
-            if code in seen or code not in self.active:
+            if code in seen:
+                continue
+            if code not in self.active:
+                notes.append(f"dropped {code!r}: not on the active list")
                 continue
             if strength not in (1, 2, 3):
+                notes.append(f"dropped {code}: strength {strength!r}")
                 continue
             seen.add(code)
-            assignments.append(self.active.assignment(code, match_strength=strength))
+            a = self.active.assignment(code, match_strength=strength)
+            a.rationale = str(entry.get("rationale") or "").strip()[:300]
+            assignments.append(a)
+        if len(assignments) > 3:
+            notes.append(f"{len(assignments)} valid codes returned; the protocol "
+                         f"allows three, so the first three given were kept")
+            assignments = assignments[:3]
 
+        if notes:
+            comments = " ".join(filter(None, [comments,
+                                              "[pipeline] " + "; ".join(notes)]))
         if not assignments:
-            return JELAssignment(), [], mechanism
-        return assignments[0], assignments[1:3], mechanism
+            return JELAssignment(), [], status, comments
+        # Unordered by protocol; alphabetical for convenience only.
+        assignments.sort(key=lambda a: a.detailed_code)
+        return assignments[0], assignments[1:3], status, comments
+
+    def jel_context(self, doc: Document) -> str:
+        """The protocol's fixed context for a quote from `doc`.
+
+        It says what kind of item this is, since the protocol was written for
+        research questions. Blind mode withholds the title, as stage 1 does.
+        """
+        lines = [f"A verbatim passage from a government {doc.doc_type} "
+                 f"dated {doc.pub_date.isoformat()}, in which the speaker "
+                 f"states a policy position."]
+        if self.identity_mode == "full" and doc.title:
+            lines.append(f"Document title: {doc.title}")
+        return "\n".join(lines)
 
     # -- orchestration -----------------------------------------------------
 
@@ -511,10 +540,12 @@ class Extractor:
             # the same text that will appear in the dataset.
             quote, reason = reconstruct_quote(doc, obs.unit_ids, obs.anchor)
             if not reason:
-                context = doc.title if self.identity_mode == "full" else ""
-                primary, secondary, mechanism = self.classify(quote, context=context)
+                primary, secondary, status, comments = self.classify(
+                    quote, context=self.jel_context(doc))
                 obs.primary = primary
                 obs.secondary = secondary
-                obs.mechanism = mechanism
+                obs.jel_status = status
+                obs.jel_comments = comments
+                obs.jel_protocol = JEL_PROTOCOL_VERSION
             observations.append(obs)
         return observations

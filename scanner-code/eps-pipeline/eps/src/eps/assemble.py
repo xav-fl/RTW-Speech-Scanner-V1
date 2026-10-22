@@ -49,12 +49,15 @@ INTERNAL_COLUMNS = RELEASE_COLUMNS + [
     "anchor",
     "delivery_status",
     "speaker_source",
-    "jel_primary_major", "jel_primary_major_title",
-    "jel_primary_sub", "jel_primary_sub_title",
-    "jel_primary_detailed", "jel_primary_detailed_title",
-    "jel_secondary_1", "jel_secondary_1_title",
-    "jel_secondary_2", "jel_secondary_2_title",
-    "match_strength_1", "match_strength_2", "match_strength_3",
+    # JEL classification protocol v2.0: up to three UNORDERED codes, numbered
+    # alphabetically for convenience only. jel_code_1 is not a primary code.
+    # (Rows coded before v2.0, with jel_protocol blank, keep their old order,
+    # in which the first code was the primary.)
+    "jel_protocol", "jel_status",
+    "jel_code_1", "jel_code_1_title", "match_strength_1", "jel_rationale_1",
+    "jel_code_2", "jel_code_2_title", "match_strength_2", "jel_rationale_2",
+    "jel_code_3", "jel_code_3_title", "match_strength_3", "jel_rationale_3",
+    "jel_comments",
     "raw_sha256", "text_sha256", "segmenter_version",
     "provider", "model_id", "prompt_version", "prompt_sha", "identity_mode", "run_id",
     "model_reason",
@@ -97,7 +100,8 @@ def observation_row(doc: Document, obs: Observation, speaker: str,
                     quote_in_context: str | None = None) -> dict:
     """One output row. `quote_in_context` defaults to the quote unmodified, so
     a build that never ran the context stage still writes a usable column."""
-    sec = list(obs.secondary) + [None, None]
+    codes = [a for a in [obs.primary] + list(obs.secondary) if not a.is_empty()]
+    codes += [None] * (3 - len(codes))
     return {
         "agency": doc.institution,
         "speaker": speaker,
@@ -116,22 +120,21 @@ def observation_row(doc: Document, obs: Observation, speaker: str,
         "anchor": obs.anchor or "",
         "delivery_status": doc.delivery_status,
         "speaker_source": speaker_source,
-        "jel_primary_major": obs.primary.major_code,
-        "jel_primary_major_title": obs.primary.major_title,
-        "jel_primary_sub": obs.primary.sub_code,
-        "jel_primary_sub_title": obs.primary.sub_title,
-        "jel_primary_detailed": obs.primary.detailed_code,
-        "jel_primary_detailed_title": obs.primary.detailed_title,
-        # The three-character code, not its parent. These columns used to
-        # record sub_code, so a reader saw `H5` where the classifier had said
-        # `H54`; the parents are in jel_subcategories already.
-        "jel_secondary_1": sec[0].detailed_code if sec[0] else "",
-        "jel_secondary_1_title": sec[0].detailed_title if sec[0] else "",
-        "jel_secondary_2": sec[1].detailed_code if sec[1] else "",
-        "jel_secondary_2_title": sec[1].detailed_title if sec[1] else "",
-        "match_strength_1": obs.primary.match_strength or "",
-        "match_strength_2": sec[0].match_strength if sec[0] else "",
-        "match_strength_3": sec[1].match_strength if sec[1] else "",
+        "jel_protocol": getattr(obs, "jel_protocol", ""),
+        "jel_status": getattr(obs, "jel_status", ""),
+        "jel_code_1": codes[0].detailed_code if codes[0] else "",
+        "jel_code_1_title": codes[0].detailed_title if codes[0] else "",
+        "match_strength_1": codes[0].match_strength or "" if codes[0] else "",
+        "jel_rationale_1": getattr(codes[0], "rationale", "") if codes[0] else "",
+        "jel_code_2": codes[1].detailed_code if codes[1] else "",
+        "jel_code_2_title": codes[1].detailed_title if codes[1] else "",
+        "match_strength_2": codes[1].match_strength or "" if codes[1] else "",
+        "jel_rationale_2": getattr(codes[1], "rationale", "") if codes[1] else "",
+        "jel_code_3": codes[2].detailed_code if codes[2] else "",
+        "jel_code_3_title": codes[2].detailed_title if codes[2] else "",
+        "match_strength_3": codes[2].match_strength or "" if codes[2] else "",
+        "jel_rationale_3": getattr(codes[2], "rationale", "") if codes[2] else "",
+        "jel_comments": getattr(obs, "jel_comments", ""),
         "raw_sha256": doc.raw_sha256,
         "text_sha256": doc.text_sha256,
         "segmenter_version": doc.segmenter_version,

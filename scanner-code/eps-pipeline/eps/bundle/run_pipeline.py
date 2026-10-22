@@ -205,8 +205,10 @@ def _fake_answer(kind: str, stdin_text: str) -> dict:
         return {"observations": [
             {"unit_ids": [pick], "anchor": None, "reason": "acceptance test"}]}
     if kind == "classify":
-        return {"mechanism": "acceptance test",
-                "codes": [{"code": "J24", "strength": 1}]}
+        return {"items": [{"item_id": "item_1", "status": "coded",
+                           "codes": [{"code": "J24", "strength": 1,
+                                      "rationale": "acceptance test"}],
+                           "comments": ""}]}
     if kind == "triage":
         ids = [line.split(":", 1)[1].strip() for line in stdin_text.splitlines()
                if line.startswith("quote_id:")]

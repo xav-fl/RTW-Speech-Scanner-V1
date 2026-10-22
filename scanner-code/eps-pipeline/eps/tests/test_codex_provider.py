@@ -25,7 +25,8 @@ from eps.providers import (
 
 SELECT_OK = {"observations": [
     {"unit_ids": ["D1.P001.S001"], "anchor": None, "reason": "Does X work?"}]}
-CLASSIFY_OK = {"mechanism": "levy transfer cap", "codes": [{"code": "J24", "strength": 3}]}
+CLASSIFY_OK = {"items": [{"item_id": "item_1", "status": "coded", "codes": [
+    {"code": "J24", "strength": 3, "rationale": "levy transfer cap"}], "comments": ""}]}
 CLASSIFY_SYSTEM = JEL_SYSTEM + "\nACTIVE JEL CODES — choose only from these:\nJ24 ...\n"
 
 
@@ -166,7 +167,7 @@ def test_malformed_json_is_unparseable_output(tmp_path):
 @pytest.mark.parametrize("answer", [
     {"observations": [{"unit_ids": ["x"], "reason": "r"}]},             # no anchor
     {"observations": [{"unit_ids": ["x"], "anchor": None, "reason": "r", "extra": 1}]},
-    {"mechanism": "m", "codes": []},                                     # wrong kind
+    {"items": []},                                                       # wrong kind
 ])
 def test_schema_mismatch(tmp_path, answer):
     exc = _failure(tmp_path, FakeRun(answer))
@@ -174,7 +175,8 @@ def test_schema_mismatch(tmp_path, answer):
 
 
 def test_classify_strength_outside_1_to_3_is_schema_mismatch(tmp_path):
-    exc = _failure(tmp_path, FakeRun({"mechanism": "m", "codes": [{"code": "J24", "strength": 5}]}),
+    exc = _failure(tmp_path, FakeRun({"items": [{"item_id": "item_1", "status": "coded", "codes": [
+        {"code": "J24", "strength": 5, "rationale": "r"}], "comments": ""}]}),
                    system=CLASSIFY_SYSTEM)
     assert exc.failure_class == "schema_mismatch"
 
